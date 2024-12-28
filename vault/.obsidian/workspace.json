@@ -16,17 +16,14 @@
                 "id": "686253843a44540f",
                 "type": "leaf",
                 "state": {
-                  "type": "canvas",
+                  "type": "markdown",
                   "state": {
-                    "file": "New Arvandal overview.canvas",
-                    "viewState": {
-                      "x": 17.053595329164096,
-                      "y": -206.3350049192086,
-                      "zoom": -0.6666666666666667
-                    }
+                    "file": "NPCs.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "New Arvandal overview"
+                  "icon": "lucide-file",
+                  "title": "NPCs"
                 }
               }
             ]
@@ -208,8 +205,8 @@
   },
   "active": "686253843a44540f",
   "lastOpenFiles": [
-    "NPCs.md",
     "New Arvandal overview.canvas",
+    "NPCs.md",
     "Adventures in New Arvandal.md"
   ]
 }
