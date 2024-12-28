@@ -6,7 +6,7 @@
       {
         "id": "d87aaec1815e010f",
         "type": "tabs",
-        "dimension": 37.93540215326156,
+        "dimension": 41.10196326789107,
         "children": [
           {
             "id": "04a5acfacd2d0352",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conditions.md",
+                "file": "Content/Characters/Deceased NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conditions"
+              "title": "Deceased NPCs"
             }
           },
           {
@@ -98,12 +98,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Characters/PCs.md",
+                "file": "Content/Game Rules & Mechanics/Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCs"
+              "title": "Conditions"
+            }
+          },
+          {
+            "id": "5531c7f031ed0f88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Quests/The House Vinea Legacy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The House Vinea Legacy"
+            }
+          },
+          {
+            "id": "20921550bfb0c679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scene Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scene Ideas"
+            }
+          },
+          {
+            "id": "90f05be4f334ff92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Scenes & Events.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scenes & Events"
+            }
+          },
+          {
+            "id": "442b8502e75c4d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Game Rules & Mechanics/Weapon Mastery Actions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weapon Mastery Actions"
+            }
+          },
+          {
+            "id": "e81d616b2a39f803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unsorted Notes and Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unsorted Notes and Ideas"
             }
           },
           {
@@ -112,21 +182,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Wondrous Items.md",
+                "file": "Content/Characters/Living NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wondrous Items"
+              "title": "Living NPCs"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       },
       {
         "id": "c7ddf81351753854",
         "type": "split",
-        "dimension": 62.064597846738444,
+        "dimension": 58.89803673210893,
         "children": [
           {
             "id": "786ecd73502d02d6",
@@ -177,9 +247,19 @@
                   "icon": "lucide-file",
                   "title": "Deceased NPCs"
                 }
+              },
+              {
+                "id": "6a591a690e2ffe20",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal"
@@ -319,30 +399,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0626f4cf6476998a",
+  "active": "e81d616b2a39f803",
   "lastOpenFiles": [
-    "Content/Wondrous Items.md",
-    "Meta/IRL Notes.md",
-    "Meta/Available Miniatures.md",
-    "Meta",
-    "Content/Session Notes/Session 0.md",
-    "Content/Session Notes",
-    "Content/Characters/PCs.md",
-    "Content/Quests/The Stockpile Business.md",
-    "Content/Characters",
-    "Content/Quests",
-    "Content/Quests/The Lost Mines of Mithdral.md",
+    "Images/Wondrous Items/bg3 items/spell icons/300px-Mage_Hand.webp.png",
+    "Images/Wondrous Items/bg3 items/spell icons/300px-Hold_Person.webp.png",
+    "Images/Wondrous Items/bg3 items/spell icons/300px-Eldritch_Blast.webp.png",
+    "Images/Wondrous Items/bg3 items/spell icons/300px-Arms_of_Hadar.webp.png",
+    "Images/Wondrous Items/bg3 items/spell icons/300px-Command_Halt.webp.png",
+    "Images/Wondrous Items/Used images RAW/war mage scepter.png",
+    "Images/Wondrous Items/Used images RAW/Urn Flail.png",
+    "Images/Wondrous Items/Used images RAW/Thalioel's Tear.png",
+    "Images/Wondrous Items/Used images RAW/Shortsword 2.png",
+    "Images/Wondrous Items/Used images RAW/Shortbow 2.png",
+    "Images/Wondrous Items/Used images RAW/Spear.png",
+    "Images/Wondrous Items/bg3 items/spell icons",
+    "Images/Wondrous Items/Used images RAW",
+    "Images/Wondrous Items/Unused Images",
+    "Images/Wondrous Items/need text fixing",
+    "Images/Wondrous Items/bg3 items",
+    "Images/Wondrous Items",
+    "Images",
+    "img",
+    "Content/Game Rules & Mechanics/Weapon Mastery Actions.md",
+    "Unsorted Notes and Ideas.md",
+    "Content/Scenes & Events.md",
+    "Scene Ideas.md",
+    "Scenes",
     "Content/Quests/The House Vinea Legacy.md",
+    "Content/Quests/The Lost Mines of Mithdral.md",
+    "Content/Quests/The Stockpile Business.md",
     "Content/Quests/The Harbingers of the Cold.md",
-    "The Harbinger of the Cold.md",
+    "Locations.md",
+    "Content/Game Rules & Mechanics/Conditions.md",
+    "Content/Game Rules & Mechanics",
+    "MD Tricks.md",
+    "Content/Characters/PCs.md",
     "Content/Characters/Deceased NPCs.md",
     "Content/Characters/Living NPCs.md",
-    "Meta/Items WIP and Templates.md",
-    "Content",
-    "Conditions.md",
+    "Content/Wondrous Items.md",
     "Content/Backstory.md",
+    "Meta/IRL Notes.md",
+    "Meta/Available Miniatures.md",
+    "Content/Session Notes/Session 0.md",
+    "The Harbinger of the Cold.md",
+    "Meta/Items WIP and Templates.md",
     "Meta/Unused NPC Names.md",
-    "MD Tricks.md",
     "New Arvandal overview.canvas",
     "Adventures in New Arvandal.md"
   ]

@@ -12,6 +12,18 @@ DIAGRAM --> WOW
 MERMAID --> WOW
 ```
 
+```
+| left align | right align | center align  |
+| :--        |         --: |     :--:      |
+| test       |        test |     test      |
+
+```
+
+| Left-aligned text | Center-aligned text | Right-aligned text |
+| :---------------- | :-----------------: | -----------------: |
+| Content           |       Content       |            Content |
+|                   |                     |                    |
+
 ```c++ 
 int x = 5;
 for (int i = 1; i<6;++i)
