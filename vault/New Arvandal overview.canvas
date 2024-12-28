@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"98c531046e139647","x":280,"y":-460,"width":680,"height":560,"type":"file","file":"Adventures in New Arvandal.md"},
 		{"id":"dbd43f79f1dfc1fb","x":-620,"y":-460,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b9c19b389fdddafb","x":-240,"y":-460,"width":400,"height":400,"type":"file","file":"NPCs.md"}
+		{"id":"b9c19b389fdddafb","x":-240,"y":-460,"width":400,"height":400,"type":"file","file":"Content/Characters/Living NPCs.md"}
 	],
 	"edges":[]
 }

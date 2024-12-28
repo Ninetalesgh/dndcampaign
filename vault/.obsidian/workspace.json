@@ -4,33 +4,151 @@
     "type": "split",
     "children": [
       {
-        "id": "a53f66ad226c462d",
-        "type": "split",
-        "dimension": 54.134366925064604,
+        "id": "d87aaec1815e010f",
+        "type": "tabs",
+        "dimension": 37.93540215326156,
         "children": [
           {
-            "id": "d87aaec1815e010f",
+            "id": "04a5acfacd2d0352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Characters/Living NPCs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Living NPCs"
+            }
+          },
+          {
+            "id": "9a3a2b1163e75974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Backstory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backstory"
+            }
+          },
+          {
+            "id": "72781a270dda931c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditions"
+            }
+          },
+          {
+            "id": "8d53eb574a49d5dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meta/IRL Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IRL Notes"
+            }
+          },
+          {
+            "id": "8d8d180d1df6bba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Characters/Living NPCs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Living NPCs"
+            }
+          },
+          {
+            "id": "7c469241bb65907d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Quests/The Stockpile Business.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Stockpile Business"
+            }
+          },
+          {
+            "id": "24f6200007505442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Characters/PCs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PCs"
+            }
+          },
+          {
+            "id": "8438de4d226e8577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content/Wondrous Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wondrous Items"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "c7ddf81351753854",
+        "type": "split",
+        "dimension": 62.064597846738444,
+        "children": [
+          {
+            "id": "786ecd73502d02d6",
             "type": "tabs",
+            "dimension": 69.07142857142857,
             "children": [
               {
-                "id": "686253843a44540f",
+                "id": "0626f4cf6476998a",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "NPCs.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "NPCs"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
           },
           {
-            "id": "a466e1352186bb62",
+            "id": "99fa905c73c68c0b",
             "type": "tabs",
+            "dimension": 30.928571428571427,
             "children": [
               {
                 "id": "967743af34552b16",
@@ -45,28 +163,26 @@
                   "icon": "lucide-file",
                   "title": "Adventures in New Arvandal"
                 }
+              },
+              {
+                "id": "7a1f27e48f2c12a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Content/Characters/Deceased NPCs.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Deceased NPCs"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "786ecd73502d02d6",
-        "type": "tabs",
-        "dimension": 45.8656330749354,
-        "children": [
-          {
-            "id": "0626f4cf6476998a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +238,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244.5
   },
   "right": {
     "id": "58a8a758c80f2653",
@@ -203,10 +319,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "686253843a44540f",
+  "active": "0626f4cf6476998a",
   "lastOpenFiles": [
+    "Content/Wondrous Items.md",
+    "Meta/IRL Notes.md",
+    "Meta/Available Miniatures.md",
+    "Meta",
+    "Content/Session Notes/Session 0.md",
+    "Content/Session Notes",
+    "Content/Characters/PCs.md",
+    "Content/Quests/The Stockpile Business.md",
+    "Content/Characters",
+    "Content/Quests",
+    "Content/Quests/The Lost Mines of Mithdral.md",
+    "Content/Quests/The House Vinea Legacy.md",
+    "Content/Quests/The Harbingers of the Cold.md",
+    "The Harbinger of the Cold.md",
+    "Content/Characters/Deceased NPCs.md",
+    "Content/Characters/Living NPCs.md",
+    "Meta/Items WIP and Templates.md",
+    "Content",
+    "Conditions.md",
+    "Content/Backstory.md",
+    "Meta/Unused NPC Names.md",
+    "MD Tricks.md",
     "New Arvandal overview.canvas",
-    "NPCs.md",
     "Adventures in New Arvandal.md"
   ]
 }

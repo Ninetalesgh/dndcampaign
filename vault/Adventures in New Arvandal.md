@@ -1,4 +1,4 @@
- [[NPCs]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+ [[Living NPCs]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
 When you're ready, 
 

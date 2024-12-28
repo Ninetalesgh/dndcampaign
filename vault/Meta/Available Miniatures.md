@@ -1,0 +1,19 @@
+Stirge CR 1/8, 25 XP
+Nothic CR 2, 450 XP
+Troglodyte CR 1/4, 50 XP
+Grimlock CR 1/4, 50 XP
+Intellect Snare CR 8, 3900 XP
+Gibbering Mouther CR 2, 450 XP
+Zombie CR 1/4, 50 XP
+Hook Horror CR 3, 700 XP
+Otyugh CR 5, 1800 XP
+Shambling Mound CR 5, 1800 XP 
+Winter Wolf CR 3, 700 XP
+Giant Spider CR 1, 200 XP
+Shadow CR 1/2, 100 XP
+Morte CR 1/4, 50 XP
+Hobgoblin CR 1/2, 100 XP
+Hobgoblin Iron Shadow CR 2, 450 XP
+Hobgoblin Captain CR 3, 700 XP
+Hobgoblin Devastator CR 4, 1100 XP
+Hobgoblin Warlord CR 6, 2300 XP
