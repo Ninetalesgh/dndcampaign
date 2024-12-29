@@ -76,7 +76,7 @@
                     ]
                   }
                 ],
-                "direction": "vertical"
+                "direction": "horizontal"
               },
               {
                 "id": "fc0ceaba14edcfc3",
@@ -123,7 +123,7 @@
                     ]
                   }
                 ],
-                "direction": "vertical"
+                "direction": "horizontal"
               }
             ],
             "direction": "horizontal"

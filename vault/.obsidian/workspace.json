@@ -15,7 +15,7 @@
               {
                 "id": "e2da2dcb482c2876",
                 "type": "tabs",
-                "dimension": 60.586319218241044,
+                "dimension": 73.59752959341225,
                 "children": [
                   {
                     "id": "0626f4cf6476998a",
@@ -30,14 +30,14 @@
                 ]
               },
               {
-                "id": "eec56474bb3e8340",
+                "id": "981c17d608f513bb",
                 "type": "split",
-                "dimension": 39.413680781758956,
+                "dimension": 26.402470406587746,
                 "children": [
                   {
-                    "id": "4c3b2cf3a79cdf76",
+                    "id": "226259a9ece736c4",
                     "type": "tabs",
-                    "dimension": 24.5,
+                    "dimension": 19.642857142857142,
                     "children": [
                       {
                         "id": "d3c16f6db9f1c0c4",
@@ -57,7 +57,7 @@
                   {
                     "id": "93d21c01501afd6e",
                     "type": "tabs",
-                    "dimension": 75.5,
+                    "dimension": 80.35714285714286,
                     "children": [
                       {
                         "id": "eeb2d5ddeb144892",
@@ -90,7 +90,7 @@
               {
                 "id": "3ef919a11160ca4c",
                 "type": "tabs",
-                "dimension": 24.428571428571427,
+                "dimension": 19.642857142857142,
                 "children": [
                   {
                     "id": "76299b5398f5c36c",
@@ -98,10 +98,10 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Content/Monsters.md"
+                        "file": "Content/Spells.md"
                       },
                       "icon": "lucide-list",
-                      "title": "Outline of Monsters"
+                      "title": "Outline of Spells"
                     },
                     "group": "911c44848e35e48e"
                   }
@@ -110,7 +110,7 @@
               {
                 "id": "a1a73d3ec182508e",
                 "type": "tabs",
-                "dimension": 75.57142857142857,
+                "dimension": 80.35714285714286,
                 "children": [
                   {
                     "id": "c7986a71d0da0bcf",
@@ -180,6 +180,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6fed0ec756e5d9aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
