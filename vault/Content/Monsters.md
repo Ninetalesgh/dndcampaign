@@ -4,12 +4,11 @@
 >  **Armor Class**: 17 (Natural Armor)
 >  **Hit Points**: 135 (18d10 + 36)
 >  **Speed**: 10 ft., swim 40 ft.
->  **STR**: +5 (21)
->  **DEX**: -1 (9)
->  **CON**: +2 (15)
->  **INT**: +4 (18)
->  **WIS**: +2 (15)
->  **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | -1 (9) | +2 (15) | +4 (18) | +2 (15) | +4 (18)
+>
 >  **Saving Throws**: CON +6, INT +8, WIS +6
 >  **Skills**: History +12, Perception +10
 >  **Senses**: Darkvision 120 ft.,  Passive Perception 20
@@ -46,12 +45,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 9 (2d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +0 (10)
->   **CON**: +0 (10)
->   **INT**: +0 (10)
->   **WIS**: +2 (14)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +0 (10) | +0 (10) | +0 (10) | +2 (14) | +0 (11)
+>
 >   **Skills**: Medicine +4, Religion +2
 >   **Senses**: Passive Perception 12
 >   **Languages**: Any one language (usually Common)
@@ -71,12 +69,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 195 (17d12 + 85)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +2 (14)
->   **CON**: +5 (21)
->   **INT**: +2 (14)
->   **WIS**: +1 (13)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +2 (14) | +5 (21) | +2 (14) | +1 (13) | +3 (17)
+>
 >   **Saving Throws**: DEX +7, CON +10, WIS +6, CHA +8
 >   **Skills**: Perception +11, Stealth +7
 >   **Damage Immunities**: Acid
@@ -107,12 +104,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 225 (18d12 + 108)
 >   **Speed**: 40 ft., burrow 30 ft., fly 80 ft.
->   **STR**: +7 (25)
->   **DEX**: +0 (10)
->   **CON**: +6 (23)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (25) | +0 (10) | +6 (23) | +3 (16) | +2 (15) | +4 (19)
+>
 >   **Saving Throws**: DEX +5, CON +11, WIS +7, CHA +9
 >   **Skills**: Perception +12, Stealth +5
 >   **Damage Immunities**: Lightning
@@ -143,12 +139,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 172 (15d12 + 75)
 >   **Speed**: 40 ft., burrow 30 ft., fly 80 ft.
->   **STR**: +6 (23)
->   **DEX**: +0 (10)
->   **CON**: +5 (21)
->   **INT**: +2 (14)
->   **WIS**: +1 (13)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +0 (10) | +5 (21) | +2 (14) | +1 (13) | +3 (17)
+>
 >   **Saving Throws**: DEX +5, CON +10, WIS +6, CHA +8
 >   **Skills**: History +7, Perception +11, Persuasion +8, Stealth +5
 >   **Damage Immunities**: Fire
@@ -181,12 +176,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 212 (17d12 + 102)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +7 (25)
->   **DEX**: +0 (10)
->   **CON**: +6 (23)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (25) | +0 (10) | +6 (23) | +3 (16) | +2 (15) | +4 (19)
+>
 >   **Saving Throws**: DEX +5, CON +11, WIS +7, CHA +9
 >   **Skills**: Insight +7, Perception +12, Stealth +5
 >   **Damage Immunities**: Lightning
@@ -222,12 +216,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 184 (16d12 + 80)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +6 (23)
->   **DEX**: +1 (12)
->   **CON**: +5 (21)
->   **INT**: +4 (18)
->   **WIS**: +2 (15)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +1 (12) | +5 (21) | +4 (18) | +2 (15) | +3 (17)
+>
 >   **Saving Throws**: DEX +6, CON +10, WIS +7, CHA +8
 >   **Skills**: Deception +8, Perception +12, Stealth +6
 >   **Damage Immunities**: Acid
@@ -260,12 +253,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 256 (19d12 + 133)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +8 (27)
->   **DEX**: +2 (14)
->   **CON**: +7 (25)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +7 (24)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +2 (14) | +7 (25) | +3 (16) | +2 (15) | +7 (24)
+>
 >   **Saving Throws**: DEX +8, CON +13, WIS +8, CHA +13
 >   **Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
 >   **Damage Immunities**: Fire
@@ -301,12 +293,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 207 (18d12 + 90)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +1 (12)
->   **CON**: +5 (21)
->   **INT**: +4 (18)
->   **WIS**: +2 (15)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +1 (12) | +5 (21) | +4 (18) | +2 (15) | +3 (17)
+>
 >   **Saving Throws**: DEX +6, CON +10, WIS +7, CHA +8
 >   **Skills**: Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
 >   **Damage Immunities**: Poison
@@ -339,12 +330,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 256 (19d12 + 133)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +8 (27)
->   **DEX**: +0 (10)
->   **CON**: +7 (25)
->   **INT**: +3 (16)
->   **WIS**: +1 (13)
->   **CHA**: +5 (21)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +0 (10) | +7 (25) | +3 (16) | +1 (13) | +5 (21)
+>
 >   **Saving Throws**: DEX +6, CON +13, WIS +7, CHA +11
 >   **Skills**: Perception +13, Stealth +6
 >   **Damage Immunities**: Fire
@@ -375,12 +365,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 243 (18d12 + 126)
 >   **Speed**: 40 ft., fly 80 ft.
->   **STR**: +8 (27)
->   **DEX**: +0 (10)
->   **CON**: +7 (25)
->   **INT**: +3 (16)
->   **WIS**: +1 (13)
->   **CHA**: +5 (21)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +0 (10) | +7 (25) | +3 (16) | +1 (13) | +5 (21)
+>
 >   **Saving Throws**: DEX +5, CON +12, WIS +6, CHA +10
 >   **Skills**: Arcana +8, History +8, Perception +11, Stealth +5
 >   **Damage Immunities**: Cold
@@ -415,12 +404,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 200 (16d12 + 96)
 >   **Speed**: 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
->   **STR**: +6 (22)
->   **DEX**: +0 (10)
->   **CON**: +6 (22)
->   **INT**: -1 (8)
->   **WIS**: +1 (12)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | +0 (10) | +6 (22) | -1 (8) | +1 (12) | +1 (12)
+>
 >   **Saving Throws**: DEX +5, CON +11, WIS +6, CHA +6
 >   **Skills**: Perception +11, Stealth +5
 >   **Damage Immunities**: Cold
@@ -452,12 +440,11 @@
 >   **Armor Class**: 15 
 >   **Hit Points**: 90 (12d10 + 24)
 >   **Speed**: 0 ft., fly 90 ft. (hover)
->   **STR**: +2 (14)
->   **DEX**: +5 (20)
->   **CON**: +2 (14)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +5 (20) | +2 (14) | -2 (6) | +0 (10) | -2 (6)
+>
 >   **Damage Resistances**: Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -480,12 +467,11 @@
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 51 (6d10 + 18)
 >   **Speed**: 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +1 (13)
->   **CON**: +3 (17)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +1 (13) | +3 (17) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Skills**: Perception +5
 >   **Senses**: Passive Perception 15
 >   **Languages**: --
@@ -504,12 +490,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 367 (21d20 + 147)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +8 (27)
->   **DEX**: +2 (14)
->   **CON**: +7 (25)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +2 (14) | +7 (25) | +3 (16) | +2 (15) | +4 (19)
+>
 >   **Saving Throws**: DEX +9, CON +14, WIS +9, CHA +11
 >   **Skills**: Perception +16, Stealth +9
 >   **Damage Immunities**: Acid
@@ -541,12 +526,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 481 (26d20 + 208)
 >   **Speed**: 40 ft., burrow 40 ft., fly 80 ft.
->   **STR**: +9 (29)
->   **DEX**: +0 (10)
->   **CON**: +8 (27)
->   **INT**: +4 (18)
->   **WIS**: +3 (17)
->   **CHA**: +5 (21)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +9 (29) | +0 (10) | +8 (27) | +4 (18) | +3 (17) | +5 (21)
+>
 >   **Saving Throws**: DEX +7, CON +15, WIS +10, CHA +12
 >   **Skills**: Perception +17, Stealth +7
 >   **Damage Immunities**: Lightning
@@ -577,12 +561,11 @@
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 297 (17d20 + 119)
 >   **Speed**: 40 ft., burrow 40 ft., fly 80 ft.
->   **STR**: +8 (27)
->   **DEX**: +0 (10)
->   **CON**: +7 (25)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +0 (10) | +7 (25) | +3 (16) | +2 (15) | +4 (19)
+>
 >   **Saving Throws**: DEX +6, CON +13, WIS +8, CHA +10
 >   **Skills**: History +9, Perception +14, Persuasion +10, Stealth +6
 >   **Damage Immunities**: Fire
@@ -617,12 +600,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 444 (24d20 + 192)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +9 (29)
->   **DEX**: +0 (10)
->   **CON**: +8 (27)
->   **INT**: +4 (18)
->   **WIS**: +3 (17)
->   **CHA**: +5 (21)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +9 (29) | +0 (10) | +8 (27) | +4 (18) | +3 (17) | +5 (21)
+>
 >   **Saving Throws**: DEX +7, CON +15, WIS +10, CHA +12
 >   **Skills**: Insight +10, Perception +17, Stealth +7
 >   **Damage Immunities**: Lightning
@@ -658,12 +640,11 @@
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 350 (20d20 + 140)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +8 (27)
->   **DEX**: +1 (12)
->   **CON**: +7 (25)
->   **INT**: +5 (20)
->   **WIS**: +3 (17)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +1 (12) | +7 (25) | +5 (20) | +3 (17) | +4 (19)
+>
 >   **Saving Throws**: DEX +8, CON +14, WIS +10, CHA +11
 >   **Skills**: Deception +11, Perception +17, Stealth +8
 >   **Damage Immunities**: Acid
@@ -698,12 +679,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 546 (28d20 + 252)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +10 (30)
->   **DEX**: +2 (14)
->   **CON**: +9 (29)
->   **INT**: +4 (18)
->   **WIS**: +3 (17)
->   **CHA**: +9 (28)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +10 (30) | +2 (14) | +9 (29) | +4 (18) | +3 (17) | +9 (28)
+>
 >   **Saving Throws**: DEX +9, CON +16, WIS +10, CHA +16
 >   **Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
 >   **Damage Immunities**: Fire
@@ -739,12 +719,11 @@
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 385 (22d20 + 154)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +8 (27)
->   **DEX**: +1 (12)
->   **CON**: +7 (25)
->   **INT**: +5 (20)
->   **WIS**: +3 (17)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +1 (12) | +7 (25) | +5 (20) | +3 (17) | +4 (19)
+>
 >   **Saving Throws**: DEX +8, CON +14, WIS +10, CHA +11
 >   **Skills**: Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
 >   **Damage Immunities**: Poison
@@ -777,12 +756,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 546 (28d20 + 252)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +10 (30)
->   **DEX**: +0 (10)
->   **CON**: +9 (29)
->   **INT**: +4 (18)
->   **WIS**: +2 (15)
->   **CHA**: +6 (23)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +10 (30) | +0 (10) | +9 (29) | +4 (18) | +2 (15) | +6 (23)
+>
 >   **Saving Throws**: DEX +7, CON +16, WIS +9, CHA +13
 >   **Skills**: Perception +16, Stealth +7
 >   **Damage Immunities**: Fire
@@ -813,12 +791,11 @@
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 487 (25d20 + 225)
 >   **Speed**: 40 ft., fly 80 ft.
->   **STR**: +10 (30)
->   **DEX**: +0 (10)
->   **CON**: +9 (29)
->   **INT**: +4 (18)
->   **WIS**: +2 (15)
->   **CHA**: +6 (23)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +10 (30) | +0 (10) | +9 (29) | +4 (18) | +2 (15) | +6 (23)
+>
 >   **Saving Throws**: DEX +7, CON +16, WIS +9, CHA +13
 >   **Skills**: Arcana +11, History +11, Perception +16, Stealth +7
 >   **Damage Immunities**: Cold
@@ -853,12 +830,11 @@
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 333 (18d20 + 144)
 >   **Speed**: 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +8 (26)
->   **DEX**: +0 (10)
->   **CON**: +8 (26)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (26) | +0 (10) | +8 (26) | +0 (10) | +1 (13) | +2 (14)
+>
 >   **Saving Throws**: DEX +6, CON +14, WIS +7, CHA +8
 >   **Skills**: Perception +13, Stealth +6
 >   **Damage Immunities**: Cold
@@ -890,12 +866,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 199 (19d10 + 95)
 >   **Speed**: 40 ft., fly 60 ft.
->   **STR**: +6 (22)
->   **DEX**: +0 (10)
->   **CON**: +5 (20)
->   **INT**: +3 (16)
->   **WIS**: +4 (18)
->   **CHA**: +6 (23)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | +0 (10) | +5 (20) | +3 (16) | +4 (18) | +6 (23)
+>
 >   **Saving Throws**: DEX +6, CON +11, INT +9, WIS +10
 >   **Skills**: Arcana +9, Perception +10, Religion +15
 >   **Damage Immunities**: Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -936,12 +911,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 33 (6d8 + 6)
 >   **Speed**: 25 ft.
->   **STR**: +2 (14)
->   **DEX**: +0 (11)
->   **CON**: +1 (13)
->   **INT**: -5 (1)
->   **WIS**: -4 (3)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +0 (11) | +1 (13) | -5 (1) | -4 (3) | -5 (1)
+>
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 6
@@ -962,12 +936,11 @@
 >   **Armor Class**: 14 (Natural Armor), 11 While Prone
 >   **Hit Points**: 39 (6d10 + 6)
 >   **Speed**: 30 ft., burrow 10 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (11)
->   **CON**: +1 (13)
->   **INT**: -5 (1)
->   **WIS**: +1 (13)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (11) | +1 (13) | -5 (1) | +1 (13) | -2 (6)
+>
 >   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
@@ -982,12 +955,11 @@
 >   **Armor Class**: 15 Natural
 >   **Hit Points**: 68 (8d12 + 16)
 >   **Speed**: 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (11)
->   **CON**: +2 (15)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (11) | +2 (15) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
@@ -1001,12 +973,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 19 (3d8 + 6)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: -2 (6)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +2 (14) | +2 (14) | -2 (6) | +1 (12) | -2 (7)
+>
 >   **Skills**: Athletics +5, Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -1023,12 +994,11 @@
 >   **Armor Class**: 12 (15 With Mage Armor)
 >   **Hit Points**: 99 (18d8 + 18)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: +5 (20)
->   **WIS**: +2 (15)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (14) | +1 (12) | +5 (20) | +2 (15) | +3 (16)
+>
 >   **Saving Throws**: INT +9, WIS +6
 >   **Skills**: Arcana +13, History +13
 >   **Senses**: Passive Perception 12
@@ -1059,12 +1029,11 @@
 >   **Armor Class**: 15 (Studded Leather)
 >   **Hit Points**: 78 (12d8 + 24)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +3 (16)
->   **CON**: +2 (14)
->   **INT**: +1 (13)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +3 (16) | +2 (14) | +1 (13) | +0 (11) | +0 (10)
+>
 >   **Saving Throws**: DEX +6, INT +4
 >   **Skills**: Acrobatics +6, Deception +3, Perception +3, Stealth +9
 >   **Damage Resistances**: Poison
@@ -1088,12 +1057,10 @@
 >   **Armor Class**: 9 
 >   **Hit Points**: 10 (3d6)
 >   **Speed**: 20 ft.
->   **STR**: -4 (3)
->   **DEX**: -1 (8)
->   **CON**: +0 (11)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | -1 (8) | +0 (11) | +0 (10) | +0 (10) | -2 (6)
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Resistances**: Piercing
 >   **Senses**: Passive Perception 10
@@ -1112,12 +1079,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 59 (7d12 + 14)
 >   **Speed**: 20 ft.
->   **STR**: +4 (19)
->   **DEX**: -2 (6)
->   **CON**: +2 (15)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | -2 (6) | +2 (15) | +0 (10) | +0 (10) | -2 (7)
+>
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Resistances**: Bludgeoning, Piercing
 >   **Senses**: Passive Perception 10
@@ -1136,12 +1102,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 50 ft.
->   **STR**: +2 (14)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +1 (12) | +1 (12) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -1155,12 +1120,11 @@
 >   **Armor Class**: 17 (Natural Armor, Shield)
 >   **Hit Points**: 39 (6d8 + 12)
 >   **Speed**: 30 ft.
->   **STR**: +3 (17)
->   **DEX**: +1 (12)
->   **CON**: +2 (15)
->   **INT**: +1 (12)
->   **WIS**: +1 (13)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +1 (12) | +2 (15) | +1 (12) | +1 (13) | +0 (10)
+>
 >   **Saving Throws**: CON +4
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
@@ -1182,12 +1146,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: -1 (8)
->   **DEX**: +2 (14)
->   **CON**: +0 (11)
->   **INT**: -3 (4)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +2 (14) | +0 (11) | -3 (4) | +1 (12) | -2 (6)
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -1204,12 +1166,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 3 (1d4 + 1)
 >   **Speed**: 20 ft., burrow 5 ft.
->   **STR**: -3 (4)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (4) | +0 (11) | +1 (12) | -4 (2) | +1 (12) | -3 (5)
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -1226,12 +1186,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 262 (21d12 + 126)
 >   **Speed**: 40 ft., fly 80 ft.
->   **STR**: +8 (26)
->   **DEX**: +2 (15)
->   **CON**: +6 (22)
->   **INT**: +5 (20)
->   **WIS**: +3 (16)
->   **CHA**: +6 (22)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (26) | +2 (15) | +6 (22) | +5 (20) | +3 (16) | +6 (22)
+>
 >   **Saving Throws**: STR +14, CON +12, WIS +9, CHA +12
 >   **Damage Resistances**: Cold, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Fire, Poison
@@ -1258,12 +1217,11 @@
 >   **Armor Class**: 12 (Leather Armor)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +1 (12) | +1 (12) | +0 (10) | +0 (10) | +0 (10)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 1/8 (25 XP)
@@ -1278,12 +1236,11 @@
 >   **Armor Class**: 15 (Studded Leather)
 >   **Hit Points**: 65 (10d8 + 20)
 >   **Speed**: 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +3 (16)
->   **CON**: +2 (14)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +3 (16) | +2 (14) | +2 (14) | +0 (11) | +2 (14)
+>
 >   **Saving Throws**: STR +4, DEX +5, WIS +2
 >   **Skills**: Athletics +4, Deception +4
 >   **Senses**: Passive Perception 10
@@ -1304,12 +1261,10 @@
 >   **Hit Points**: 58 (13d8)
 >   **Speed**: 40 ft., (hover)\r
                     , walking 0 ft.
->   **STR**: -5 (1)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +2 (14) | +0 (10) | +1 (12) | +0 (11) | +3 (17)
 >   **Saving Throws**: WIS +2, CHA +5
 >   **Damage Resistances**: Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >  **Damage Immunities**: Cold, Necrotic, Poison
@@ -1333,12 +1288,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 110 (13d8 + 52)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +3 (17)
->   **CON**: +4 (18)
->   **INT**: +1 (12)
->   **WIS**: +2 (14)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +3 (17) | +4 (18) | +1 (12) | +2 (14) | +2 (14)
+>
 >   **Saving Throws**: STR +6, CON +7, WIS +5, CHA +5
 >   **Skills**: Deception +5, Insight +5, Perception +8
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
@@ -1365,12 +1319,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
 >   **Speed**: 20 ft.
->   **STR**: +3 (16)
->   **DEX**: -1 (8)
->   **CON**: +2 (15)
->   **INT**: -4 (2)
->   **WIS**: -1 (8)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | -1 (8) | +2 (15) | -4 (2) | -1 (8) | -2 (7)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
@@ -1389,12 +1342,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 5 ft., fly 30 ft.
->   **STR**: -4 (2)
->   **DEX**: +2 (15)
->   **CON**: -1 (8)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +2 (15) | -1 (8) | -4 (2) | +1 (12) | -3 (4)
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -1412,12 +1363,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +2 (15)
->   **CON**: +2 (15)
->   **INT**: -1 (9)
->   **WIS**: +0 (11)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +2 (15) | +2 (15) | -1 (9) | +0 (11) | +0 (11)
+>
 >   **Saving Throws**: STR +5, CON +4, WIS +2
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -1442,12 +1392,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 168 (16d12 + 64)
 >   **Speed**: 50 ft., climb 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +3 (16)
->   **CON**: +4 (18)
->   **INT**: -2 (7)
->   **WIS**: +2 (14)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +3 (16) | +4 (18) | -2 (7) | +2 (14) | +1 (12)
+>
 >   **Skills**: Perception +6, Stealth +7
 >   **Damage Immunities**: Lightning
 >   **Senses**: Darkvision 90 ft.,  Passive Perception 16
@@ -1468,12 +1417,11 @@
 >   **Armor Class**: 13 (Hide Armor)
 >   **Hit Points**: 67 (9d8 + 27)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (12)
->   **CON**: +3 (17)
->   **INT**: -1 (9)
->   **WIS**: +0 (11)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (12) | +3 (17) | -1 (9) | +0 (11) | -1 (9)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 2 (450 XP)
@@ -1490,12 +1438,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 19 (3d8 + 6)
 >   **Speed**: 40 ft., climb 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +2 (14)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +2 (14) | -4 (2) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -1514,12 +1461,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 33 (6d8 + 6)
 >   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +1 (13)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +1 (13) | +0 (10) | +0 (11) | +1 (13)
+>
 >   **Saving Throws**: DEX +4, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +4
 >   **Damage Immunities**: Acid
@@ -1540,12 +1486,11 @@
 >   **Armor Class**: 7 
 >   **Hit Points**: 85 (10d10 + 30)
 >   **Speed**: 20 ft., climb 20 ft.
->   **STR**: +3 (16)
->   **DEX**: -3 (5)
->   **CON**: +3 (16)
->   **INT**: -5 (1)
->   **WIS**: -2 (6)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | -3 (5) | +3 (16) | -5 (1) | -2 (6) | -5 (1)
+>
 >   **Damage Immunities**: Acid, Cold, Lightning, Slashing
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 8
@@ -1570,12 +1515,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 22 (4d8 + 4)
 >   **Speed**: 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +3 (17)
->   **CON**: +1 (12)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +3 (17) | +1 (12) | +0 (10) | +1 (13) | +0 (11)
+>
 >   **Skills**: Perception +3, Stealth +5
 >   **Senses**: Passive Perception 13
 >   **Languages**: Blink Dog  Understands Sylvan but can't speak it
@@ -1594,12 +1538,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 7 (2d6)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: -2 (6)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: -4 (3)
->   **WIS**: +2 (14)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +2 (14) | +0 (10) | -4 (3) | +2 (14) | -3 (5)
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -1618,12 +1560,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
 >   **Speed**: 30 ft., burrow 15 ft., fly 60 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (10) | +2 (15) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Lightning
@@ -1641,12 +1582,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 40 ft.
->   **STR**: +1 (13)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: -1 (9)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +0 (11) | +1 (12) | -4 (2) | -1 (9) | -3 (5)
+>
 >   **Senses**: Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -1664,12 +1604,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
 >   **Speed**: 40 ft., fly 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +3 (16)
->   **CON**: +4 (18)
->   **INT**: +1 (13)
->   **WIS**: +2 (14)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +3 (16) | +4 (18) | +1 (13) | +2 (14) | +3 (16)
+>
 >   **Saving Throws**: INT +5, WIS +6, CHA +7
 >   **Skills**: Deception +7, Insight +6
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
@@ -1694,12 +1633,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 16 (3d8 + 3)
 >   **Speed**: 30 ft., burrow 15 ft., fly 60 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +1 (13) | +0 (10) | +0 (11) | +1 (13)
+>
 >   **Saving Throws**: DEX +2, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Fire
@@ -1719,12 +1657,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 32 (5d8 + 10)
 >   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (10) | +2 (15) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Lightning
@@ -1747,12 +1684,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 34 (4d10 + 12)
 >   **Speed**: 40 ft., climb 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (16)
->   **INT**: -4 (2)
->   **WIS**: +1 (13)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (16) | -4 (2) | +1 (13) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -1772,12 +1708,11 @@
 >   **Armor Class**: 16 (Hide Armor, Shield)
 >   **Hit Points**: 27 (5d8 + 5)
 >   **Speed**: 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +1 (13)
->   **INT**: -1 (8)
->   **WIS**: +0 (11)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +1 (13) | -1 (8) | +0 (11) | -1 (9)
+>
 >   **Skills**: Stealth +6, Survival +2
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: Common, Goblin
@@ -1797,12 +1732,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 94 (9d10 + 45)
 >   **Speed**: 40 ft., burrow 40 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (11)
->   **CON**: +5 (21)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (11) | +5 (21) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Skills**: Perception +6
 >   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 16
 >   **Languages**: --
@@ -1821,12 +1755,11 @@
 >   **Armor Class**: 9 
 >   **Hit Points**: 15 (2d10 + 4)
 >   **Speed**: 50 ft.
->   **STR**: +3 (16)
->   **DEX**: -1 (8)
->   **CON**: +2 (14)
->   **INT**: -4 (2)
->   **WIS**: -1 (8)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | -1 (8) | +2 (14) | -4 (2) | -1 (8) | -3 (5)
+>
 >   **Senses**: Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -1840,12 +1773,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 40 ft., climb 30 ft.
->   **STR**: -4 (3)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | +2 (15) | +0 (10) | -4 (3) | +1 (12) | -2 (7)
 >   **Skills**: Perception +3, Stealth +4
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -1863,12 +1794,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 50 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: -1 (9)
->   **WIS**: +1 (13)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (14) | +2 (14) | -1 (9) | +1 (13) | +0 (11)
+>
 >   **Skills**: Athletics +6, Perception +3, Survival +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: Elvish, Sylvan
@@ -1889,12 +1819,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 85 (10d8 + 40)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +4 (18)
->   **INT**: +0 (11)
->   **WIS**: +1 (12)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +4 (18) | +0 (11) | +1 (12) | +2 (14)
+>
 >   **Saving Throws**: CON +7, WIS +4, CHA +5
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -1921,12 +1850,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (11)
->   **CON**: +4 (19)
->   **INT**: -4 (3)
->   **WIS**: +2 (14)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (11) | +4 (19) | -4 (3) | +2 (14) | +0 (10)
+>
 >   **Skills**: Perception +8
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 18
 >   **Languages**: Understands Draconic but can't speak  it
@@ -1945,12 +1873,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 93 (11d10 + 33)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (16)
->   **INT**: -3 (5)
->   **WIS**: +0 (11)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (16) | -3 (5) | +0 (11) | -3 (5)
+>
 >   **Skills**: Perception +4
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
@@ -1973,12 +1900,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 133 (14d10 + 56)
 >   **Speed**: 20 ft.
->   **STR**: +5 (20)
->   **DEX**: -1 (9)
->   **CON**: +4 (18)
->   **INT**: -4 (3)
->   **WIS**: -1 (8)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | -1 (9) | +4 (18) | -4 (3) | -1 (8) | -5 (1)
+>
 >   **Damage Immunities**: Acid, Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 9
@@ -2003,12 +1929,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 78 (12d10 + 12)
 >   **Speed**: 10 ft., fly 40 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: +1 (13)
->   **WIS**: +1 (12)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +1 (12) | +1 (13) | +1 (12) | +2 (14)
+>
 >   **Skills**: Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
 >   **Languages**: Deep Speech, Undercommon
@@ -2034,12 +1959,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 200 (16d12 + 96)
 >   **Speed**: 40 ft.
->   **STR**: +8 (27)
->   **DEX**: +0 (10)
->   **CON**: +6 (22)
->   **INT**: +1 (12)
->   **WIS**: +3 (16)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (27) | +0 (10) | +6 (22) | +1 (12) | +3 (16) | +3 (16)
+>
 >   **Saving Throws**: CON +10, WIS +7, CHA +7
 >   **Skills**: Insight +7, Perception +7
 >   **Senses**: Passive Perception 17
@@ -2064,12 +1988,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 27 (6d6 + 6)
 >   **Speed**: 20 ft., fly 40 ft.
->   **STR**: -2 (6)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +1 (13)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +1 (12) | +1 (12) | -4 (2) | +1 (13) | -3 (5)
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -2083,12 +2005,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 4 (1d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +0 (10)
->   **CON**: +0 (10)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +0 (10) | +0 (10) | +0 (10) | +0 (10) | +0 (10)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 0 (10 XP)
@@ -2102,12 +2023,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (2d10 + 2)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +1 (12) | -5 (1) | +0 (10) | -4 (3)
+>
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -2122,12 +2042,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
 >   **Speed**: 30 ft., climb 30 ft., fly 60 ft.
->   **STR**: +2 (15)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (12) | +1 (13) | +2 (14) | +0 (11) | +1 (13)
+>
 >   **Saving Throws**: DEX +3, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +3
 >   **Damage Immunities**: Acid
@@ -2147,12 +2066,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 97 (13d8 + 39)
 >   **Speed**: 30 ft., fly 90 ft.
->   **STR**: +3 (16)
->   **DEX**: +5 (20)
->   **CON**: +3 (17)
->   **INT**: +4 (18)
->   **WIS**: +5 (20)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +5 (20) | +3 (17) | +4 (18) | +5 (20) | +4 (18)
+>
 >   **Saving Throws**: CON +5, WIS +7, CHA +6
 >   **Damage Resistances**: Radiant
 >   **Damage Immunities**: Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -2180,12 +2098,10 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 20 ft., swim 20 ft.
->   **STR**: -4 (2)
->   **DEX**: +0 (11)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -1 (8)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +0 (11) | +0 (10) | -5 (1) | -1 (8) | -4 (2)
 >   **Skills**: Stealth +2
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 9
 >   **Languages**: --
@@ -2203,12 +2119,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 20 ft., swim 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Skills**: Stealth +2
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
@@ -2226,12 +2141,11 @@
 >   **Armor Class**: 13 (Leather Armor)
 >   **Hit Points**: 33 (6d8 + 6)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +2 (14) | +1 (12) | +0 (10) | +1 (13) | +2 (14)
+>
 >   **Skills**: Deception +4, Persuasion +4, Religion +2
 >   **Senses**: Passive Perception 11
 >   **Languages**: Any one language (usually Common)
@@ -2254,12 +2168,11 @@
 >   **Armor Class**: 12 (Leather Armor)
 >   **Hit Points**: 9 (2d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +1 (12)
->   **CON**: +0 (10)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +1 (12) | +0 (10) | +0 (10) | +0 (11) | +0 (10)
+>
 >   **Skills**: Deception +2, Religion +2
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
@@ -2277,12 +2190,11 @@
 >   **Armor Class**: 14 Natural Armor
 >   **Hit Points**: 138 (12d12 + 60)
 >   **Speed**: 30 ft.
->   **STR**: +6 (22)
->   **DEX**: +0 (11)
->   **CON**: +5 (20)
->   **INT**: -1 (8)
->   **WIS**: -2 (6)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | +0 (11) | +5 (20) | -1 (8) | -2 (6) | +0 (10)
+>
 >   **Senses**: Passive Perception 8
 >   **Languages**: Giant
 >   **Challenge**: 6 (2,300 XP)
@@ -2301,12 +2213,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 22 (5d6 + 5)
 >   **Speed**: 10 ft., fly 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (12) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Skills**: Stealth +3
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -2328,12 +2239,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 39 (6d8 + 12)
 >   **Speed**: 40 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: -4 (3)
->   **WIS**: +1 (13)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +2 (14) | -4 (3) | +1 (13) | -2 (6)
+>
 >   **Skills**: Perception +5, Stealth +4
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 15
 >   **Languages**: --
@@ -2352,12 +2262,11 @@
 >   **Armor Class**: 15 (Chain Shirt)
 >   **Hit Points**: 16 (3d6 + 6)
 >   **Speed**: 20 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: +1 (12)
->   **WIS**: +0 (10)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +2 (14) | +1 (12) | +0 (10) | -1 (9)
+>
 >   **Skills**: Investigation +3, Perception +2, Stealth +4
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 12
 >   **Languages**: Gnomish, Terran, Undercommon
@@ -2380,12 +2289,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 4 (1d8)
 >   **Speed**: 50 ft.
->   **STR**: +0 (11)
->   **DEX**: +3 (16)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +2 (14)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +3 (16) | +0 (11) | -4 (2) | +2 (14) | -3 (5)
+>
 >   **Senses**: Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -2399,12 +2307,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 136 (16d8 + 64)
 >   **Speed**: 30 ft., fly 90 ft.
->   **STR**: +4 (18)
->   **DEX**: +4 (18)
->   **CON**: +4 (18)
->   **INT**: +3 (17)
->   **WIS**: +5 (20)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +4 (18) | +4 (18) | +3 (17) | +5 (20) | +5 (20)
+>
 >   **Saving Throws**: WIS +9, CHA +9
 >   **Skills**: Insight +9, Perception +9
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -2433,12 +2340,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 37 (5d10 + 10)
 >   **Speed**: 50 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +2 (15)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +2 (15) | -4 (3) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3, Stealth +4
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -2457,12 +2363,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 161 (14d10 + 84)
 >   **Speed**: 30 ft., fly 90 ft.
->   **STR**: +5 (21)
->   **DEX**: +2 (15)
->   **CON**: +6 (22)
->   **INT**: +2 (15)
->   **WIS**: +3 (16)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | +2 (15) | +6 (22) | +2 (15) | +3 (16) | +5 (20)
+>
 >   **Saving Throws**: DEX +6, WIS +7, CHA +9
 >   **Damage Immunities**: Lightning, Thunder
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 13
@@ -2488,12 +2393,11 @@
 >   **Armor Class**: 14 
 >   **Hit Points**: 52 (8d8 + 16)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +4 (18)
->   **CON**: +2 (14)
->   **INT**: +0 (11)
->   **WIS**: +1 (12)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +4 (18) | +2 (14) | +0 (11) | +1 (12) | +2 (14)
+>
 >   **Skills**: Deception +6, Insight +3
 >   **Condition Immunities**: Charmed
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
@@ -2516,12 +2420,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (10)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +0 (11)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (10) | +1 (12) | -4 (2) | +0 (11) | -2 (7)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -2535,12 +2438,11 @@
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 341 (22d20 + 110)
 >   **Speed**: 20 ft., swim 40 ft.
->   **STR**: +7 (25)
->   **DEX**: +0 (10)
->   **CON**: +5 (20)
->   **INT**: +0 (10)
->   **WIS**: +1 (12)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (25) | +0 (10) | +5 (20) | +0 (10) | +1 (12) | +1 (12)
+>
 >   **Saving Throws**: DEX +6, CON +11, WIS +7
 >   **Damage Resistances**: Fire
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 11
@@ -2563,12 +2465,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 18 (4d6 + 4)
 >   **Speed**: 20 ft.
->   **STR**: +0 (11)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: -3 (5)
->   **WIS**: -1 (8)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +0 (11) | +1 (12) | -3 (5) | -1 (8) | -4 (3)
+>
 >   **Damage Resistances**: Cold, Fire, Lightning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
@@ -2588,12 +2489,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 123 (13d10 + 52)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +3 (16)
->   **CON**: +4 (18)
->   **INT**: +1 (13)
->   **WIS**: +2 (14)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +3 (16) | +4 (18) | +1 (13) | +2 (14) | +1 (12)
+>
 >   **Skills**: Perception +5, Stealth +9
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 15
 >   **Languages**: Elvish, Undercommon
@@ -2620,12 +2520,11 @@
 >   **Armor Class**: 15 (Chain Shirt)
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: +0 (11)
->   **WIS**: +0 (11)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (14) | +0 (10) | +0 (11) | +0 (11) | +1 (12)
+>
 >   **Skills**: Perception +2, Stealth +4
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 12
 >   **Languages**: Elvish, Undercommon
@@ -2648,12 +2547,11 @@
 >   **Armor Class**: 11 (16 With Barkskin)
 >   **Hit Points**: 27 (5d8 + 5)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: +1 (12)
->   **WIS**: +2 (15)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +1 (12) | +1 (13) | +1 (12) | +2 (15) | +0 (11)
+>
 >   **Skills**: Medicine +4, Nature +3, Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: Druidic plus any two languages
@@ -2674,12 +2572,11 @@
 >   **Armor Class**: 11 (16 With Barkskin)
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +1 (12)
->   **CON**: +0 (11)
->   **INT**: +2 (14)
->   **WIS**: +2 (15)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +1 (12) | +0 (11) | +2 (14) | +2 (15) | +4 (18)
+>
 >   **Skills**: Perception +4, Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: Elvish, Sylvan
@@ -2706,12 +2603,11 @@
 >   **Armor Class**: 16 (Scale Mail, Shield)
 >   **Hit Points**: 26 (4d8 + 8)
 >   **Speed**: 25 ft.
->   **STR**: +2 (14)
->   **DEX**: +0 (11)
->   **CON**: +2 (14)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +0 (11) | +2 (14) | +0 (11) | +0 (10) | -1 (9)
+>
 >   **Damage Resistances**: Poison
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 10
 >   **Languages**: Dwarvish, Undercommon
@@ -2733,12 +2629,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 17 (5d6)
 >   **Speed**: 30 ft., fly 30 ft.
->   **STR**: -3 (5)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: -1 (9)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +2 (14) | +0 (10) | -1 (9) | +0 (11) | +0 (10)
 >   **Skills**: Perception +2, Stealth +4
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Immunities**: Poison
@@ -2761,12 +2655,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: -2 (6)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -4 (2)
->   **WIS**: +2 (14)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +2 (15) | +0 (10) | -4 (2) | +2 (14) | -2 (7)
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -2784,12 +2676,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 126 (12d10 + 60)
 >   **Speed**: 30 ft., burrow 30 ft.
->   **STR**: +5 (20)
->   **DEX**: -1 (8)
->   **CON**: +5 (20)
->   **INT**: -3 (5)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | -1 (8) | +5 (20) | -3 (5) | +0 (10) | -3 (5)
+>
 >   **Damage Vulnerabilities**: Thunder
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
@@ -2812,12 +2703,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 200 (16d10 + 112)
 >   **Speed**: 40 ft., fly 60 ft.
->   **STR**: +6 (22)
->   **DEX**: +1 (12)
->   **CON**: +7 (24)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | +1 (12) | +7 (24) | +3 (16) | +2 (15) | +3 (16)
+>
 >   **Saving Throws**: INT +7, WIS +6, CHA +7
 >   **Damage Immunities**: Fire
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 12
@@ -2842,12 +2732,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 76 (8d12 + 24)
 >   **Speed**: 40 ft.
->   **STR**: +6 (22)
->   **DEX**: -1 (9)
->   **CON**: +3 (17)
->   **INT**: -4 (3)
->   **WIS**: +0 (11)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | -1 (9) | +3 (17) | -4 (3) | +0 (11) | -2 (6)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 4 (1,100 XP)
@@ -2865,12 +2754,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d10 + 2)
 >   **Speed**: 50 ft.
->   **STR**: +3 (16)
->   **DEX**: +0 (10)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +0 (10) | +1 (12) | -4 (2) | +0 (10) | -2 (6)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -2888,12 +2776,11 @@
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 153 (18d8 + 72)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: +4 (18)
->   **DEX**: +3 (16)
->   **CON**: +4 (18)
->   **INT**: +2 (14)
->   **WIS**: +2 (14)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +3 (16) | +4 (18) | +2 (14) | +2 (14) | +4 (18)
+>
 >   **Saving Throws**: DEX +7, CON +8, WIS +6, CHA +8
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -2919,12 +2806,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 44 (8d8 + 8)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +2 (15)
->   **CON**: +1 (13)
->   **INT**: -2 (7)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +2 (15) | +1 (13) | -2 (7) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +3, Stealth +4, Survival +3
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -2947,12 +2833,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 85 (10d10 + 30)
 >   **Speed**: 40 ft.
->   **STR**: +5 (21)
->   **DEX**: -1 (8)
->   **CON**: +3 (17)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | -1 (8) | +3 (17) | -2 (6) | +0 (10) | -1 (8)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: Giant, Orc
@@ -2973,12 +2858,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 102 (12d10 + 36)
 >   **Speed**: 50 ft.
->   **STR**: +0 (10)
->   **DEX**: +3 (17)
->   **CON**: +3 (16)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +3 (17) | +3 (16) | -2 (6) | +0 (10) | -2 (7)
+>
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -3001,12 +2885,11 @@
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 162 (13d12 + 78)
 >   **Speed**: 30 ft.
->   **STR**: +7 (25)
->   **DEX**: -1 (9)
->   **CON**: +6 (23)
->   **INT**: +0 (10)
->   **WIS**: +2 (14)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (25) | -1 (9) | +6 (23) | +0 (10) | +2 (14) | +1 (13)
+>
 >   **Saving Throws**: DEX +3, CON +10, CHA +5
 >   **Skills**: Athletics +11, Perception +6
 >   **Damage Immunities**: Fire
@@ -3025,12 +2908,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 40 (9d4 + 18)
 >   **Speed**: 0 ft., fly 40 ft. (hover)
->   **STR**: -5 (1)
->   **DEX**: +3 (17)
->   **CON**: +2 (14)
->   **INT**: +3 (16)
->   **WIS**: +0 (10)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +3 (17) | +2 (14) | +3 (16) | +0 (10) | +0 (11)
 >   **Skills**: Arcana +5, Perception +2
 >   **Damage Resistances**: Lightning, Necrotic, Piercing
 >   **Damage Immunities**: Cold, Fire, Poison
@@ -3061,12 +2942,11 @@
 >   **Armor Class**: 9 
 >   **Hit Points**: 93 (11d8 + 44)
 >   **Speed**: 30 ft.
->   **STR**: +4 (19)
->   **DEX**: -1 (9)
->   **CON**: +4 (18)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | -1 (9) | +4 (18) | -2 (6) | +0 (10) | -3 (5)
+>
 >   **Damage Immunities**: Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
@@ -3092,12 +2972,10 @@
 >   **Armor Class**: 14 
 >   **Hit Points**: 5 (2d4)
 >   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
->   **STR**: -3 (4)
->   **DEX**: +4 (18)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (4) | +4 (18) | +0 (11) | -4 (2) | +1 (12) | -3 (5)
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -3114,12 +2992,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 17 (5d6)
 >   **Speed**: 0 ft., fly 50 ft. (hover)
->   **STR**: +1 (12)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -5 (1)
->   **WIS**: -3 (5)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +2 (15) | +0 (11) | -5 (1) | -3 (5) | -5 (1)
+>
 >   **Saving Throws**: DEX +4
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
@@ -3140,12 +3017,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 20 ft., swim 20 ft.
->   **STR**: -5 (1)
->   **DEX**: +1 (13)
->   **CON**: -1 (8)
->   **INT**: -5 (1)
->   **WIS**: -1 (8)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +1 (13) | -1 (8) | -5 (1) | -1 (8) | -4 (3)
 >   **Skills**: Perception +1, Stealth +3
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 11
 >   **Languages**: --
@@ -3161,12 +3036,11 @@
 >   **Armor Class**: 15 (Patchwork Armor)
 >   **Hit Points**: 138 (12d12 + 60)
 >   **Speed**: 40 ft.
->   **STR**: +6 (23)
->   **DEX**: -1 (9)
->   **CON**: +5 (21)
->   **INT**: -1 (9)
->   **WIS**: +0 (10)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | -1 (9) | +5 (21) | -1 (9) | +0 (10) | +1 (12)
+>
 >   **Saving Throws**: CON +8, WIS +3, CHA +4
 >   **Skills**: Athletics +9, Perception +3
 >   **Damage Immunities**: Cold
@@ -3185,12 +3059,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (7d8 + 21)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (11)
->   **CON**: +3 (16)
->   **INT**: -2 (6)
->   **WIS**: +0 (11)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (11) | +3 (16) | -2 (6) | +0 (11) | -2 (7)
+>
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Petrified, Poisoned
@@ -3212,12 +3085,11 @@
 >   **Armor Class**: 6 
 >   **Hit Points**: 84 (8d10 + 40)
 >   **Speed**: 15 ft.
->   **STR**: +2 (14)
->   **DEX**: -4 (3)
->   **CON**: +5 (20)
->   **INT**: -5 (1)
->   **WIS**: -2 (6)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | -4 (3) | +5 (20) | -5 (1) | -2 (6) | -5 (1)
+>
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 8
 >   **Languages**: --
@@ -3243,12 +3115,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 36 (8d8)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +3 (17)
->   **CON**: +0 (10)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +3 (17) | +0 (10) | +0 (11) | +0 (10) | -1 (8)
+>
 >   **Damage Resistances**: Necrotic
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Poisoned
@@ -3270,12 +3141,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 45 (10d8)
 >   **Speed**: 0 ft., fly 40 ft. (hover)
->   **STR**: -2 (7)
->   **DEX**: +1 (13)
->   **CON**: +0 (10)
->   **INT**: +0 (10)
->   **WIS**: +1 (12)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +1 (13) | +0 (10) | +0 (10) | +1 (12) | +3 (17)
 >   **Damage Resistances**: Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Cold, Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -3300,12 +3169,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 30 ft.
->   **STR**: +1 (13)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -2 (7)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +2 (15) | +0 (10) | -2 (7) | +0 (10) | -2 (6)
+>
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
@@ -3321,12 +3189,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 157 (15d12 + 60)
 >   **Speed**: 40 ft., climb 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +2 (14)
->   **CON**: +4 (18)
->   **INT**: -2 (7)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +2 (14) | +4 (18) | -2 (7) | +1 (12) | -2 (7)
+>
 >   **Skills**: Athletics +9, Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -3343,12 +3210,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d8 + 4)
 >   **Speed**: 30 ft., burrow 10 ft.
->   **STR**: +1 (13)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +0 (10) | +2 (15) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -3367,12 +3233,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 22 (4d10)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: +2 (15)
->   **DEX**: +3 (16)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +3 (16) | +0 (11) | -4 (2) | +1 (12) | -2 (6)
+>
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -3390,12 +3255,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 42 (5d10 + 15)
 >   **Speed**: 40 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (10)
->   **CON**: +3 (16)
->   **INT**: -4 (2)
->   **WIS**: -2 (7)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (10) | +3 (16) | -4 (2) | -2 (7) | -3 (5)
+>
 >   **Senses**: Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
@@ -3413,12 +3277,10 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 4 (1d6 + 1)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: -3 (5)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: -5 (1)
->   **WIS**: -2 (7)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +2 (14) | +1 (12) | -5 (1) | -2 (7) | -4 (3)
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -3432,12 +3294,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 60 (8d12 + 8)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +2 (14) | +1 (12) | -5 (1) | +0 (10) | -4 (3)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -3453,12 +3314,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +1 (13)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -5 (1)
->   **WIS**: -1 (9)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +2 (15) | +0 (11) | -5 (1) | -1 (9) | -4 (3)
+>
 >   **Skills**: Stealth +4
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 9
 >   **Languages**: --
@@ -3476,12 +3336,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 85 (9d12 + 27)
 >   **Speed**: 30 ft., swim 50 ft.
->   **STR**: +5 (21)
->   **DEX**: -1 (9)
->   **CON**: +3 (17)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | -1 (9) | +3 (17) | -4 (2) | +0 (10) | -2 (7)
+>
 >   **Skills**: Stealth +5
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
@@ -3501,12 +3360,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 26 (4d10 + 4)
 >   **Speed**: 10 ft., fly 80 ft.
->   **STR**: +3 (16)
->   **DEX**: +3 (17)
->   **CON**: +1 (13)
->   **INT**: -1 (8)
->   **WIS**: +2 (14)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +3 (17) | +1 (13) | -1 (8) | +2 (14) | +0 (10)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: Giant Eagle  understands Common and Auran but can't speak them
@@ -3526,12 +3384,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 42 (5d12 + 10)
 >   **Speed**: 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +3 (16)
->   **CON**: +2 (14)
->   **INT**: -2 (7)
->   **WIS**: +2 (14)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +3 (16) | +2 (14) | -2 (7) | +2 (14) | +0 (10)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: Elvish, Giant Elk  and Sylvan but can't speak them
@@ -3550,12 +3407,10 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 4 (1d6 + 1)
 >   **Speed**: 30 ft.
->   **STR**: -1 (8)
->   **DEX**: +0 (10)
->   **CON**: +1 (12)
->   **INT**: -5 (1)
->   **WIS**: -2 (7)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +0 (10) | +1 (12) | -5 (1) | -2 (7) | -4 (3)
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -3572,12 +3427,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 18 (4d8)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +1 (12)
->   **DEX**: +1 (13)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +1 (13) | +0 (11) | -4 (2) | +0 (10) | -4 (3)
+>
 >   **Skills**: Perception +2, Stealth +3
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -3597,12 +3451,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 40 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (11) | +1 (12) | -4 (3) | +1 (12) | -2 (6)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -3620,12 +3473,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 50 ft.
->   **STR**: +3 (16)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +2 (14) | +2 (14) | -4 (2) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -3643,12 +3495,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (12) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -3662,12 +3513,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 52 (8d10 + 8)
 >   **Speed**: 10 ft., swim 60 ft.
->   **STR**: +3 (17)
->   **DEX**: +1 (13)
->   **CON**: +1 (13)
->   **INT**: -3 (4)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +1 (13) | +1 (13) | -3 (4) | +0 (10) | -3 (4)
+>
 >   **Skills**: Perception +4, Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: --
@@ -3688,12 +3538,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 5 ft., fly 60 ft.
->   **STR**: +1 (13)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: -1 (8)
->   **WIS**: +1 (13)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +2 (15) | +1 (12) | -1 (8) | +1 (13) | +0 (10)
+>
 >   **Skills**: Perception +5, Stealth +4
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 15
 >   **Languages**: Elvish, Giant Owl  and Sylvan but can't speak them
@@ -3712,12 +3561,11 @@
 >   **Armor Class**: 14 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +4 (18)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +4 (18) | +1 (13) | -4 (2) | +0 (10) | -4 (3)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -3732,12 +3580,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 7 (2d6)
 >   **Speed**: 30 ft.
->   **STR**: -2 (7)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +2 (15) | +0 (11) | -4 (2) | +0 (10) | -3 (4)
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -3755,12 +3601,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (7d10 + 14)
 >   **Speed**: 40 ft.
->   **STR**: +2 (15)
->   **DEX**: +1 (13)
->   **CON**: +2 (15)
->   **INT**: -5 (1)
->   **WIS**: -1 (9)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (13) | +2 (15) | -5 (1) | -1 (9) | -4 (3)
+>
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
@@ -3776,12 +3621,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 16 (3d10)
 >   **Speed**: 0 ft., swim 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +2 (15) | +0 (11) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -3799,12 +3643,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
 >   **Speed**: 0 ft., swim 50 ft.
->   **STR**: +6 (23)
->   **DEX**: +0 (11)
->   **CON**: +5 (21)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +0 (11) | +5 (21) | -5 (1) | +0 (10) | -3 (5)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -3823,12 +3666,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 26 (4d10 + 4)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +3 (16)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +0 (11)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +3 (16) | +1 (12) | -4 (2) | +0 (11) | -3 (4)
+>
 >   **Skills**: Stealth +7
 >   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -3849,12 +3691,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 39 (6d10 + 6)
 >   **Speed**: 20 ft., swim 40 ft.
->   **STR**: +2 (15)
->   **DEX**: +1 (13)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (13) | +1 (13) | -4 (2) | +0 (10) | -4 (3)
+>
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
@@ -3873,12 +3714,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 22 (3d10 + 6)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: -2 (6)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +2 (15) | -2 (6) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: Understands Common but can't speak  it
@@ -3899,12 +3739,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 10 ft., fly 50 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (14) | +0 (10) | -5 (1) | +0 (10) | -4 (3)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -3918,12 +3757,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 9 (2d8)
 >   **Speed**: 40 ft.
->   **STR**: +0 (11)
->   **DEX**: +3 (16)
->   **CON**: +0 (10)
->   **INT**: -3 (4)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +3 (16) | +0 (10) | -3 (4) | +1 (12) | -3 (5)
+>
 >   **Skills**: Perception +3, Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -3941,12 +3779,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 40 ft., climb 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +3 (16)
->   **CON**: +1 (13)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +3 (16) | +1 (13) | -4 (3) | +1 (12) | -3 (4)
+>
 >   **Skills**: Perception +3, Stealth +7
 >   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -3966,12 +3803,11 @@
 >   **Armor Class**: 9 
 >   **Hit Points**: 67 (9d8 + 27)
 >   **Speed**: 10 ft., swim 10 ft.
->   **STR**: +0 (10)
->   **DEX**: -1 (8)
->   **CON**: +3 (16)
->   **INT**: -4 (3)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | -1 (8) | +3 (16) | -4 (3) | +0 (10) | -2 (6)
+>
 >   **Condition Immunities**: Prone
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -3992,12 +3828,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 157 (15d10 + 75)
 >   **Speed**: 40 ft.
->   **STR**: +5 (20)
->   **DEX**: +2 (15)
->   **CON**: +5 (21)
->   **INT**: +4 (19)
->   **WIS**: +3 (17)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | +2 (15) | +5 (21) | +4 (19) | +3 (17) | +3 (16)
+>
 >   **Saving Throws**: STR +9, CON +9, WIS +7, CHA +7
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
@@ -4023,12 +3858,11 @@
 >   **Armor Class**: 16 (Studded Leather, Shield)
 >   **Hit Points**: 112 (15d8 + 45)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +0 (10)
->   **WIS**: +1 (12)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | +0 (10) | +1 (12) | +2 (15)
+>
 >   **Saving Throws**: STR +7, DEX +5, CON +6
 >   **Skills**: Athletics +10, Intimidation +5
 >   **Senses**: Passive Perception 11
@@ -4052,12 +3886,11 @@
 >   **Armor Class**: 15 (Hide Armor, Shield)
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +1 (12)
->   **CON**: +0 (11)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +1 (12) | +0 (11) | -2 (6) | +0 (10) | -2 (7)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: Gnoll
 >   **Challenge**: 1/2 (100 XP)
@@ -4076,12 +3909,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 4 (1d8)
 >   **Speed**: 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +0 (10)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +0 (10) | +0 (11) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -4099,12 +3931,10 @@
 >   **Armor Class**: 15 (Leather Armor, Shield)
 >   **Hit Points**: 7 (2d6)
 >   **Speed**: 30 ft.
->   **STR**: -1 (8)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: +0 (10)
->   **WIS**: -1 (8)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +2 (14) | +0 (10) | +0 (10) | -1 (8) | -1 (8)
 >   **Skills**: Stealth +6
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 9
 >   **Languages**: Common, Goblin
@@ -4123,12 +3953,11 @@
 >   **Armor Class**: 17 Natural Armor
 >   **Hit Points**: 60 (8d8 + 24)
 >   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +2 (14)
->   **CON**: +3 (17)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +2 (14) | +3 (17) | +2 (14) | +0 (11) | +3 (16)
+>
 >   **Saving Throws**: DEX +4, CON +5, WIS +2, CHA +5
 >   **Skills**: Perception +4, Stealth +4
 >   **Damage Immunities**: Fire
@@ -4151,12 +3980,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
 >   **Speed**: 40 ft.
->   **STR**: +5 (20)
->   **DEX**: +0 (11)
->   **CON**: +4 (18)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | +0 (11) | +4 (18) | -4 (2) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +4
 >   **Condition Immunities**: Petrified
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
@@ -4177,12 +4005,11 @@
 >   **Armor Class**: 8 
 >   **Hit Points**: 22 (3d8 + 9)
 >   **Speed**: 10 ft., climb 10 ft.
->   **STR**: +1 (12)
->   **DEX**: -2 (6)
->   **CON**: +3 (16)
->   **INT**: -5 (1)
->   **WIS**: -2 (6)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | -2 (6) | +3 (16) | -5 (1) | -2 (6) | -4 (2)
+>
 >   **Skills**: Stealth +2
 >   **Damage Resistances**: Acid, Cold, Fire
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
@@ -4205,12 +4032,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 38 (7d8 + 7)
 >   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (12) | +1 (13) | +2 (14) | +0 (11) | +1 (13)
+>
 >   **Saving Throws**: DEX +3, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +3
 >   **Damage Immunities**: Poison
@@ -4232,12 +4058,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 82 (11d8 + 33)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (12)
->   **CON**: +3 (16)
->   **INT**: +1 (13)
->   **WIS**: +2 (14)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (12) | +3 (16) | +1 (13) | +2 (14) | +2 (14)
+>
 >   **Skills**: Arcana +3, Deception +4, Perception +4, Stealth +3
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: Common, Draconic, Sylvan
@@ -4261,12 +4086,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 27 (6d8)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +2 (14)
->   **CON**: +0 (11)
->   **INT**: -4 (3)
->   **WIS**: +2 (14)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +2 (14) | +0 (11) | -4 (3) | +2 (14) | -3 (5)
+>
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -4286,12 +4110,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 59 (7d10 + 21)
 >   **Speed**: 30 ft., fly 80 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: -4 (2)
->   **WIS**: +1 (13)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | -4 (2) | +1 (13) | -1 (8)
+>
 >   **Skills**: Perception +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 15
 >   **Languages**: --
@@ -4311,12 +4134,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: -1 (9)
->   **WIS**: -1 (8)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (12) | +1 (12) | -1 (9) | -1 (8) | -2 (6)
+>
 >   **Skills**: Athletics +5, Perception +3, Stealth +3
 >   **Condition Immunities**: Blinded
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 13
@@ -4337,12 +4159,11 @@
 >   **Armor Class**: 16 (Chain Shirt, Shield)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft.
->   **STR**: +1 (13)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +1 (12) | +1 (12) | +0 (10) | +0 (11) | +0 (10)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Passive Perception 12
 >   **Languages**: Any one language (usually Common)
@@ -4357,12 +4178,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 127 (15d10 + 45)
 >   **Speed**: 40 ft.
->   **STR**: +4 (19)
->   **DEX**: +4 (18)
->   **CON**: +3 (16)
->   **INT**: +3 (16)
->   **WIS**: +4 (19)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +4 (18) | +3 (16) | +3 (16) | +4 (19) | +4 (18)
+>
 >   **Saving Throws**: DEX +8, CON +7, INT +7, WIS +8, CHA +8
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
@@ -4391,12 +4211,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
 >   **Speed**: 40 ft., fly 60 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +4 (18)
->   **WIS**: +4 (18)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | +4 (18) | +4 (18) | +4 (18)
+>
 >   **Skills**: Arcana +12, History +12, Perception +8, Religion +8
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Psychic
@@ -4432,12 +4251,11 @@
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 65 (10d8 + 20)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (13)
->   **CON**: +2 (14)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (13) | +2 (14) | +0 (10) | +0 (11) | +0 (10)
+>
 >   **Skills**: Athletics +5, Perception +2
 >   **Damage Resistances**: Fire
 >   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 12
@@ -4457,12 +4275,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 38 (7d8 + 7)
 >   **Speed**: 20 ft., fly 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +1 (13)
->   **CON**: +1 (12)
->   **INT**: -2 (7)
->   **WIS**: +0 (10)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +1 (13) | +1 (12) | -2 (7) | +0 (10) | +1 (13)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: Common
 >   **Challenge**: 1 (200 XP)
@@ -4481,12 +4298,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: -3 (5)
->   **DEX**: +3 (16)
->   **CON**: -1 (8)
->   **INT**: -4 (2)
->   **WIS**: +2 (14)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +3 (16) | -1 (8) | -4 (2) | +2 (14) | -2 (6)
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -4504,12 +4319,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 45 (7d8 + 14)
 >   **Speed**: 50 ft.
->   **STR**: +3 (17)
->   **DEX**: +1 (12)
->   **CON**: +2 (14)
->   **INT**: -2 (6)
->   **WIS**: +1 (13)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +1 (12) | +2 (14) | -2 (6) | +1 (13) | -2 (6)
+>
 >   **Skills**: Perception +5
 >   **Damage Immunities**: Fire
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 15
@@ -4530,12 +4344,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 136 (13d10 + 65)
 >   **Speed**: 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +3 (17)
->   **CON**: +5 (20)
->   **INT**: -3 (5)
->   **WIS**: +1 (12)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +3 (17) | +5 (20) | -3 (5) | +1 (12) | +1 (13)
+>
 >   **Saving Throws**: STR +7, CON +8, WIS +4
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
@@ -4559,12 +4372,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 105 (10d12 + 40)
 >   **Speed**: 40 ft.
->   **STR**: +5 (21)
->   **DEX**: -1 (8)
->   **CON**: +4 (19)
->   **INT**: -3 (5)
->   **WIS**: -1 (9)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | -1 (8) | +4 (19) | -3 (5) | -1 (9) | -2 (6)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Passive Perception 12
 >   **Languages**: Giant
@@ -4581,12 +4393,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 40 ft., fly 60 ft.
->   **STR**: +3 (17)
->   **DEX**: +1 (13)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +1 (13) | +1 (13) | -4 (2) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +5
 >   **Senses**: Passive Perception 15
 >   **Languages**: --
@@ -4606,12 +4417,11 @@
 >   **Armor Class**: 18 (Chain Mail, Shield)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft.
->   **STR**: +1 (13)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +1 (12) | +1 (12) | +0 (10) | +0 (10) | -1 (9)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: Common, Goblin
 >   **Challenge**: 1/2 (100 XP)
@@ -4629,12 +4439,10 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 5 (2d4)
 >   **Speed**: 20 ft., fly 40 ft.
->   **STR**: -3 (4)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (4) | +2 (15) | +0 (11) | +0 (10) | +0 (10) | -2 (7)
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
@@ -4653,12 +4461,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 148 (17d10 + 55)
 >   **Speed**: 20 ft., fly 60 ft.
->   **STR**: +6 (22)
->   **DEX**: +3 (17)
->   **CON**: +5 (21)
->   **INT**: +1 (12)
->   **WIS**: +3 (16)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | +3 (17) | +5 (21) | +1 (12) | +3 (16) | +3 (17)
+>
 >   **Saving Throws**: STR +10, DEX +7, WIS +7, CHA +7
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -4683,12 +4490,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 0 ft., swim 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (13)
->   **CON**: +2 (15)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (13) | +2 (15) | -5 (1) | +0 (10) | -3 (4)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -4707,12 +4513,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 172 (15d12 + 75)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +5 (20)
->   **DEX**: +1 (12)
->   **CON**: +5 (20)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | +1 (12) | +5 (20) | -4 (2) | +0 (10) | -2 (7)
+>
 >   **Skills**: Perception +6
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 16
 >   **Languages**: --
@@ -4736,12 +4541,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 5 (1d8 + 1)
 >   **Speed**: 50 ft.
->   **STR**: +0 (11)
->   **DEX**: +1 (13)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +1 (13) | +1 (12) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -4759,12 +4563,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 180 (19d10 + 76)
 >   **Speed**: 40 ft.
->   **STR**: +5 (21)
->   **DEX**: +2 (14)
->   **CON**: +4 (18)
->   **INT**: +4 (18)
->   **WIS**: +2 (15)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | +2 (14) | +4 (18) | +4 (18) | +2 (15) | +4 (18)
+>
 >   **Saving Throws**: DEX +7, CON +9, WIS +7, CHA +9
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >  **Damage Immunities**: Cold, Fire, Poison
@@ -4792,12 +4595,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 21 (6d6)
 >   **Speed**: 30 ft., fly 30 ft.
->   **STR**: -2 (7)
->   **DEX**: +1 (13)
->   **CON**: +0 (10)
->   **INT**: -1 (9)
->   **WIS**: +0 (11)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +1 (13) | +0 (10) | -1 (9) | +0 (11) | +1 (12)
 >   **Skills**: Perception +2, Stealth +3
 >   **Damage Vulnerabilities**: Bludgeoning, Fire
 >   **Damage Immunities**: Cold, Poison
@@ -4821,12 +4622,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 10 (3d4 + 3)
 >   **Speed**: 20 ft., fly 40 ft.
->   **STR**: -2 (6)
->   **DEX**: +3 (17)
->   **CON**: +1 (13)
->   **INT**: +0 (11)
->   **WIS**: +1 (12)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +3 (17) | +1 (13) | +0 (11) | +1 (12) | +2 (14)
 >   **Skills**: Deception +4, Insight +3, Persuasion +4, Stealth +5
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -4850,12 +4649,11 @@
 >   **Armor Class**: 14 
 >   **Hit Points**: 104 (16d8 + 32)
 >   **Speed**: 50 ft., fly 50 ft. (hover)
->   **STR**: +3 (16)
->   **DEX**: +4 (19)
->   **CON**: +2 (14)
->   **INT**: +0 (10)
->   **WIS**: +2 (15)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +4 (19) | +2 (14) | +0 (10) | +2 (15) | +0 (11)
+>
 >   **Skills**: Perception +8, Stealth +10
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
@@ -4878,12 +4676,11 @@
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 210 (20d10 + 100)
 >   **Speed**: 30 ft.
->   **STR**: +7 (24)
->   **DEX**: -1 (9)
->   **CON**: +5 (20)
->   **INT**: -4 (3)
->   **WIS**: +0 (11)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (24) | -1 (9) | +5 (20) | -4 (3) | +0 (11) | -5 (1)
+>
 >   **Damage Immunities**: Fire, Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 10
@@ -4908,12 +4705,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
 >   **Speed**: 40 ft.
->   **STR**: -1 (8)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +2 (15) | +0 (11) | -4 (3) | +1 (12) | -2 (6)
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -4932,12 +4727,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 90 (12d12 + 12)
 >   **Speed**: 0 ft., swim 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +1 (13) | -4 (3) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Blindsight 120 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -4957,12 +4751,11 @@
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 52 (8d8 + 16)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +0 (11)
->   **CON**: +2 (14)
->   **INT**: +0 (11)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +0 (11) | +2 (14) | +0 (11) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: CON +4, WIS +2
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
@@ -4984,12 +4777,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 5 (2d6 - 2)
 >   **Speed**: 30 ft.
->   **STR**: -2 (7)
->   **DEX**: +2 (15)
->   **CON**: -1 (9)
->   **INT**: -1 (8)
->   **WIS**: -2 (7)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +2 (15) | -1 (9) | -1 (8) | -2 (7) | -1 (8)
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 8
 >   **Languages**: Common, Draconic
 >   **Challenge**: 1/8 (25 XP)
@@ -5008,12 +4799,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 472 (27d20 + 189)
 >   **Speed**: 20 ft., swim 60 ft.
->   **STR**: +10 (30)
->   **DEX**: +0 (11)
->   **CON**: +7 (25)
->   **INT**: +6 (22)
->   **WIS**: +4 (18)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +10 (30) | +0 (11) | +7 (25) | +6 (22) | +4 (18) | +5 (20)
+>
 >   **Saving Throws**: STR +17, DEX +7, CON +14, INT +13, WIS +11
 >   **Damage Immunities**: Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Frightened, Paralyzed
@@ -5046,12 +4836,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 97 (13d10 + 26)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (13)
->   **CON**: +2 (15)
->   **INT**: +2 (14)
->   **WIS**: +2 (15)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (13) | +2 (15) | +2 (14) | +2 (15) | +3 (16)
+>
 >   **Skills**: Deception +7, Insight +4, Stealth +3
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 12
 >   **Languages**: Abyssal, Common
@@ -5074,12 +4863,11 @@
 >   **Armor Class**: 7 
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 15 ft.
->   **STR**: +0 (10)
->   **DEX**: -3 (5)
->   **CON**: +0 (11)
->   **INT**: -5 (1)
->   **WIS**: +0 (11)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | -3 (5) | +0 (11) | -5 (1) | +0 (11) | -4 (3)
+>
 >   **Damage Resistances**: Cold
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Charmed, Frightened, Poisoned
@@ -5100,12 +4888,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 135 (18d8 + 54)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +3 (16)
->   **CON**: +3 (16)
->   **INT**: +5 (20)
->   **WIS**: +2 (14)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +3 (16) | +3 (16) | +5 (20) | +2 (14) | +3 (16)
+>
 >   **Saving Throws**: CON +10, INT +12, WIS +9
 >   **Skills**: Arcana +18, History +12, Insight +9, Perception +9
 >   **Damage Resistances**: Cold, Lightning, Necrotic
@@ -5147,12 +4934,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 26 (4d10 + 4)
 >   **Speed**: 50 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +1 (13)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +1 (13) | -4 (3) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +3, Stealth +6
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -5174,12 +4960,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 20 ft., climb 20 ft.
->   **STR**: -4 (2)
->   **DEX**: +0 (11)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -1 (8)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +0 (11) | +0 (10) | -5 (1) | -1 (8) | -4 (3)
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -5193,12 +4977,11 @@
 >   **Armor Class**: 15 (Natural Armor, Shield)
 >   **Hit Points**: 22 (4d8 + 4)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -2 (7)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +1 (13) | -2 (7) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3, Stealth +2, Survival +5
 >   **Senses**: Passive Perception 13
 >   **Languages**: Draconic
@@ -5220,12 +5003,10 @@
 >   **Armor Class**: 12 (15 With Mage Armor)
 >   **Hit Points**: 40 (9d8)
 >   **Speed**: 30 ft.
->   **STR**: -1 (9)
->   **DEX**: +2 (14)
->   **CON**: +0 (11)
->   **INT**: +3 (17)
->   **WIS**: +1 (12)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (9) | +2 (14) | +0 (11) | +3 (17) | +1 (12) | +0 (11)
 >   **Saving Throws**: INT +6, WIS +4
 >   **Skills**: Arcana +6, History +6
 >   **Senses**: Passive Perception 11
@@ -5250,12 +5031,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 22 (5d6 + 5)
 >   **Speed**: 30 ft., fly 30 ft.
->   **STR**: -1 (8)
->   **DEX**: +1 (12)
->   **CON**: +1 (12)
->   **INT**: -2 (7)
->   **WIS**: +0 (10)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +1 (12) | +1 (12) | -2 (7) | +0 (10) | +0 (10)
 >   **Skills**: Stealth +3
 >   **Damage Vulnerabilities**: Cold
 >   **Damage Immunities**: Fire, Poison
@@ -5279,12 +5058,10 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 9 (2d6 + 2)
 >   **Speed**: 30 ft.
->   **STR**: -2 (7)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: -1 (8)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +2 (15) | +1 (12) | -1 (8) | +0 (11) | +0 (10)
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
@@ -5304,12 +5081,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
 >   **Speed**: 40 ft.
->   **STR**: +7 (24)
->   **DEX**: -1 (9)
->   **CON**: +5 (21)
->   **INT**: -4 (3)
->   **WIS**: +0 (11)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (24) | -1 (9) | +5 (21) | -4 (3) | +0 (11) | -2 (6)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 6 (2,300 XP)
@@ -5327,12 +5103,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
 >   **Speed**: 30 ft., fly 50 ft.
->   **STR**: +3 (17)
->   **DEX**: +3 (16)
->   **CON**: +3 (17)
->   **INT**: -2 (7)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +3 (16) | +3 (17) | -2 (7) | +1 (12) | -1 (8)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
 >   **Languages**: Common
 >   **Challenge**: 3 (700 XP)
@@ -5352,12 +5127,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 189 (18d10 + 90)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +5 (20)
->   **CON**: +5 (20)
->   **INT**: +4 (18)
->   **WIS**: +3 (16)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +5 (20) | +5 (20) | +4 (18) | +3 (16) | +5 (20)
+>
 >   **Saving Throws**: STR +9, CON +10, WIS +8, CHA +10
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
@@ -5385,12 +5159,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 5 (1d8 + 1)
 >   **Speed**: 40 ft.
->   **STR**: +1 (13)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +2 (14) | +1 (12) | -4 (3) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -5408,12 +5181,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 127 (17d8 + 51)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +1 (12)
->   **WIS**: +1 (13)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (15) | +3 (16) | +1 (12) | +1 (13) | +2 (15)
+>
 >   **Skills**: Deception +5, Insight +4, Perception +4, Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: Common
@@ -5436,12 +5208,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 10 ft., swim 40 ft.
->   **STR**: +0 (10)
->   **DEX**: +1 (13)
->   **CON**: +1 (12)
->   **INT**: +0 (11)
->   **WIS**: +0 (11)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +1 (13) | +1 (12) | +0 (11) | +0 (11) | +1 (12)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Passive Perception 12
 >   **Languages**: Aquan, Common
@@ -5459,12 +5230,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 10 ft., swim 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: -1 (8)
->   **WIS**: +0 (10)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (10) | +2 (15) | -1 (8) | +0 (10) | -1 (9)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: Abyssal, Aquan
 >   **Challenge**: 2 (450 XP)
@@ -5484,12 +5254,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 58 (9d8 + 18)
 >   **Speed**: 15 ft.
->   **STR**: +3 (17)
->   **DEX**: +1 (12)
->   **CON**: +2 (15)
->   **INT**: -3 (5)
->   **WIS**: +1 (13)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +1 (12) | +2 (15) | -3 (5) | +1 (13) | -1 (8)
+>
 >   **Skills**: Stealth +5
 >   **Damage Immunities**: Acid
 >   **Condition Immunities**: Prone
@@ -5513,12 +5282,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 76 (9d10 + 27)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (11)
->   **CON**: +3 (16)
->   **INT**: -2 (6)
->   **WIS**: +3 (16)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (11) | +3 (16) | -2 (6) | +3 (16) | -1 (9)
+>
 >   **Skills**: Perception +7
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 17
 >   **Languages**: Abyssal
@@ -5539,12 +5307,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 67 (9d10 + 18)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (11)
->   **CON**: +2 (15)
->   **INT**: -2 (6)
->   **WIS**: -1 (8)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (11) | +2 (15) | -2 (6) | -1 (8) | -3 (5)
+>
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
@@ -5565,12 +5332,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 40 ft.
->   **STR**: +2 (14)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +0 (10) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -5588,12 +5354,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 58 (9d8 + 18)
 >   **Speed**: 20 ft.
->   **STR**: +3 (16)
->   **DEX**: -1 (8)
->   **CON**: +2 (15)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | -1 (8) | +2 (15) | -2 (6) | +0 (10) | +1 (12)
+>
 >   **Saving Throws**: WIS +2
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -5614,12 +5379,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 97 (13d8 + 39)
 >   **Speed**: 20 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (10)
->   **CON**: +3 (17)
->   **INT**: +0 (11)
->   **WIS**: +4 (18)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (10) | +3 (17) | +0 (11) | +4 (18) | +3 (16)
+>
 >   **Saving Throws**: CON +8, INT +5, WIS +9, CHA +8
 >   **Skills**: History +5, Religion +5
 >   **Damage Vulnerabilities**: Fire
@@ -5660,12 +5424,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 184 (16d10 + 96)
 >   **Speed**: 20 ft., fly 30 ft.
->   **STR**: +5 (21)
->   **DEX**: +0 (10)
->   **CON**: +6 (22)
->   **INT**: +4 (19)
->   **WIS**: +1 (12)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | +0 (10) | +6 (22) | +4 (19) | +1 (12) | +2 (15)
+>
 >   **Saving Throws**: CON +11, INT +9, WIS +6, CHA +7
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Poison
@@ -5690,12 +5453,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 112 (15d8 + 45)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +3 (16)
->   **WIS**: +2 (14)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | +3 (16) | +2 (14) | +3 (16)
+>
 >   **Skills**: Deception +7, Insight +6, Perception +6, Stealth +6
 >   **Damage Resistances**: Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Condition Immunities**: Charmed
@@ -5721,12 +5483,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
 >   **Speed**: 60 ft., fly 90 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | +0 (10) | +1 (13) | +2 (15)
+>
 >   **Damage Immunities**: Fire
 >   **Senses**: Passive Perception 11
 >   **Languages**: Common  and Infernal but can't speak
@@ -5746,12 +5507,11 @@
 >   **Armor Class**: 15 (Breastplate)
 >   **Hit Points**: 9 (2d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +1 (12)
->   **CON**: +0 (11)
->   **INT**: +1 (12)
->   **WIS**: +2 (14)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +1 (12) | +0 (11) | +1 (12) | +2 (14) | +3 (16)
+>
 >   **Skills**: Deception +5, Insight +4, Persuasion +5
 >   **Senses**: Passive Perception 12
 >   **Languages**: Any two languages
@@ -5768,12 +5528,11 @@
 >   **Armor Class**: 15 Natural
 >   **Hit Points**: 45 (6d8 + 18)
 >   **Speed**: 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +3 (16)
->   **CON**: +3 (16)
->   **INT**: +1 (13)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +3 (16) | +3 (16) | +1 (13) | +0 (10) | -1 (8)
+>
 >   **Skills**: Arcana +3, Insight +4, Perception +2, Stealth +5
 >   **Senses**: Truesight 120 ft.,  Passive Perception 12
 >   **Languages**: Undercommon
@@ -5794,12 +5553,11 @@
 >   **Armor Class**: 8 
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 10 ft., climb 10 ft.
->   **STR**: +2 (15)
->   **DEX**: -2 (6)
->   **CON**: +2 (14)
->   **INT**: -4 (2)
->   **WIS**: -2 (6)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | -2 (6) | +2 (14) | -4 (2) | -2 (6) | -5 (1)
+>
 >   **Damage Resistances**: Acid
 >   **Damage Immunities**: Lightning, Slashing
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
@@ -5822,12 +5580,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
 >   **Speed**: 5 ft., swim 30 ft.
->   **STR**: -3 (4)
->   **DEX**: +2 (15)
->   **CON**: +0 (11)
->   **INT**: -4 (3)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (4) | +2 (15) | +0 (11) | -4 (3) | +0 (10) | -3 (4)
 >   **Skills**: Perception +2, Stealth +4
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -5848,12 +5604,11 @@
 >   **Armor Class**: 11 (Hide Armor)
 >   **Hit Points**: 59 (7d10 + 21)
 >   **Speed**: 40 ft.
->   **STR**: +4 (19)
->   **DEX**: -1 (8)
->   **CON**: +3 (16)
->   **INT**: -3 (5)
->   **WIS**: -2 (7)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | -1 (8) | +3 (16) | -3 (5) | -2 (7) | -2 (7)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 8
 >   **Languages**: Common, Giant
 >   **Challenge**: 2 (450 XP)
@@ -5868,12 +5623,11 @@
 >   **Armor Class**: 8 
 >   **Hit Points**: 85 (9d10 + 36)
 >   **Speed**: 30 ft.
->   **STR**: +4 (19)
->   **DEX**: -2 (6)
->   **CON**: +4 (18)
->   **INT**: -4 (3)
->   **WIS**: -2 (6)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | -2 (6) | +4 (18) | -4 (3) | -2 (6) | -3 (5)
+>
 >   **Saving Throws**: WIS +0
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
@@ -5893,12 +5647,11 @@
 >   **Armor Class**: 16 (Chain Mail)
 >   **Hit Points**: 110 (13d10 + 39)
 >   **Speed**: 30 ft., fly 30 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (11)
->   **CON**: +3 (16)
->   **INT**: +2 (14)
->   **WIS**: +1 (12)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (11) | +3 (16) | +2 (14) | +1 (12) | +2 (15)
+>
 >   **Saving Throws**: DEX +3, CON +6, WIS +4, CHA +5
 >   **Skills**: Arcana +5, Deception +8, Perception +4
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
@@ -5924,12 +5677,11 @@
 >   **Armor Class**: 13 (Hide Armor)
 >   **Hit Points**: 15 (2d8 + 6)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (12)
->   **CON**: +3 (16)
->   **INT**: -2 (7)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (12) | +3 (16) | -2 (7) | +0 (11) | +0 (10)
+>
 >   **Skills**: Intimidation +2
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: Common, Orc
@@ -5948,12 +5700,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +0 (11)
->   **CON**: +4 (19)
->   **INT**: -2 (6)
->   **WIS**: +1 (13)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +0 (11) | +4 (19) | -2 (6) | +1 (13) | -2 (6)
+>
 >   **Saving Throws**: CON +7
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 11
 >   **Languages**: Otyugh
@@ -5973,12 +5724,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 5 ft., fly 60 ft.
->   **STR**: -4 (3)
->   **DEX**: +1 (13)
->   **CON**: -1 (8)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | +1 (13) | -1 (8) | -4 (2) | +1 (12) | -2 (7)
 >   **Skills**: Perception +3, Stealth +3
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -5997,12 +5746,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 59 (7d10 + 21)
 >   **Speed**: 40 ft.
->   **STR**: +5 (20)
->   **DEX**: +1 (12)
->   **CON**: +3 (17)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | +1 (12) | +3 (17) | -4 (3) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -6022,12 +5770,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 50 ft., climb 40 ft.
->   **STR**: +2 (14)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -4 (3)
->   **WIS**: +2 (14)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +2 (15) | +0 (10) | -4 (3) | +2 (14) | -2 (7)
+>
 >   **Skills**: Perception +4, Stealth +6
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -6047,12 +5794,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 59 (7d10 + 21)
 >   **Speed**: 60 ft., fly 90 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +0 (10)
->   **WIS**: +2 (15)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | +0 (10) | +2 (15) | +1 (13)
+>
 >   **Saving Throws**: DEX +4, WIS +4, CHA +3
 >   **Skills**: Perception +6
 >   **Senses**: Passive Perception 16
@@ -6068,12 +5814,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 32 (5d10 + 5)
 >   **Speed**: 30 ft., climb 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (15) | +1 (12) | -2 (6) | +0 (10) | -2 (6)
+>
 >   **Skills**: Stealth +6
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -6093,12 +5838,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 300 (24d10 + 168)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: +8 (26)
->   **DEX**: +2 (14)
->   **CON**: +7 (24)
->   **INT**: +6 (22)
->   **WIS**: +4 (18)
->   **CHA**: +7 (24)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (26) | +2 (14) | +7 (24) | +6 (22) | +4 (18) | +7 (24)
+>
 >   **Saving Throws**: DEX +8, CON +13, WIS +10
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
@@ -6125,12 +5869,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 200 (16d10 + 112)
 >   **Speed**: 40 ft., fly 120 ft.
->   **STR**: +7 (24)
->   **DEX**: +5 (20)
->   **CON**: +7 (24)
->   **INT**: +4 (19)
->   **WIS**: +6 (22)
->   **CHA**: +7 (25)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (24) | +5 (20) | +7 (24) | +4 (19) | +6 (22) | +7 (25)
+>
 >   **Saving Throws**: CON +12, WIS +11, CHA +12
 >   **Skills**: Perception +11
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -6159,12 +5902,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
 >   **Speed**: 20 ft., swim 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (15) | +3 (16) | -4 (2) | +1 (12) | -3 (5)
+>
 >   **Skills**: Perception +3, Stealth +4
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -6182,12 +5924,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: -4 (2)
->   **DEX**: +3 (16)
->   **CON**: +0 (11)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +3 (16) | +0 (11) | -5 (1) | +0 (10) | -4 (3)
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -6201,12 +5941,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 42 (5d10 + 15)
 >   **Speed**: 40 ft., swim 30 ft.
->   **STR**: +5 (20)
->   **DEX**: +0 (10)
->   **CON**: +3 (16)
->   **INT**: -4 (2)
->   **WIS**: +1 (13)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (20) | +0 (10) | +3 (16) | -4 (2) | +1 (13) | -2 (7)
+>
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -6226,12 +5965,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 40 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +0 (11)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (10) | +1 (13) | -4 (2) | +0 (11) | -2 (7)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -6245,12 +5983,11 @@
 >   **Armor Class**: 13 (Chain Shirt)
 >   **Hit Points**: 27 (5d8 + 5)
 >   **Speed**: 25 ft.
->   **STR**: +0 (10)
->   **DEX**: +0 (10)
->   **CON**: +1 (12)
->   **INT**: +1 (13)
->   **WIS**: +3 (16)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +0 (10) | +1 (12) | +1 (13) | +3 (16) | +1 (13)
+>
 >   **Skills**: Medicine +7, Persuasion +3, Religion +4
 >   **Senses**: Passive Perception 13
 >   **Languages**: Any two languages
@@ -6273,12 +6010,10 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 7 (2d4 + 2)
 >   **Speed**: 15 ft., fly 60 ft.
->   **STR**: -2 (6)
->   **DEX**: +2 (15)
->   **CON**: +1 (13)
->   **INT**: +0 (10)
->   **WIS**: +1 (12)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +2 (15) | +1 (13) | +0 (10) | +1 (12) | +0 (10)
 >   **Skills**: Perception +3, Stealth +4
 >   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: Understands Common and Draconic but can't speak them
@@ -6298,12 +6033,11 @@
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 10 ft., fly 60 ft.
->   **STR**: +1 (12)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -4 (2)
->   **WIS**: -1 (9)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +2 (15) | +0 (10) | -4 (2) | -1 (9) | -3 (5)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -6320,12 +6054,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 247 (15d20 + 90)
 >   **Speed**: 50 ft., burrow 30 ft.
->   **STR**: +9 (28)
->   **DEX**: -2 (7)
->   **CON**: +6 (22)
->   **INT**: -5 (1)
->   **WIS**: -1 (8)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +9 (28) | -2 (7) | +6 (22) | -5 (1) | -1 (8) | -3 (4)
+>
 >   **Saving Throws**: CON +11, WIS +4
 >   **Senses**: Blindsight 30 ft., Tremorsense 60 ft.,  Passive Perception 9
 >   **Languages**: --
@@ -6345,12 +6078,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 7 (3d4)
 >   **Speed**: 40 ft.
->   **STR**: -3 (5)
->   **DEX**: +3 (17)
->   **CON**: +0 (10)
->   **INT**: -2 (7)
->   **WIS**: +0 (10)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +3 (17) | +0 (10) | -2 (7) | +0 (10) | +0 (10)
 >   **Skills**: Stealth +5
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
@@ -6374,12 +6105,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 0 ft., swim 40 ft.
->   **STR**: -4 (2)
->   **DEX**: +3 (16)
->   **CON**: -1 (9)
->   **INT**: -5 (1)
->   **WIS**: -2 (7)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +3 (16) | -1 (9) | -5 (1) | -2 (7) | -4 (2)
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -6397,12 +6126,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 110 (13d8 + 52)
 >   **Speed**: 40 ft.
->   **STR**: +2 (14)
->   **DEX**: +3 (17)
->   **CON**: +4 (18)
->   **INT**: +1 (13)
->   **WIS**: +3 (16)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +3 (17) | +4 (18) | +1 (13) | +3 (16) | +5 (20)
+>
 >   **Skills**: Deception +10, Insight +8
 >   **Damage Vulnerabilities**: Piercing from Magic Weapons Wielded by Good Creatures
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -6427,12 +6155,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 20 ft.
->   **STR**: -4 (2)
->   **DEX**: +0 (11)
->   **CON**: -1 (9)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +0 (11) | -1 (9) | -4 (2) | +0 (10) | -3 (4)
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -6449,12 +6175,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 10 ft., fly 50 ft.
->   **STR**: -4 (2)
->   **DEX**: +2 (14)
->   **CON**: -1 (8)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +2 (14) | -1 (8) | -4 (2) | +1 (12) | -2 (6)
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -6472,12 +6196,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 75 (10d8 + 30)
 >   **Speed**: 30 ft., climb 30 ft., fly 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (17)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (17) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +2, CON +5, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Fire
@@ -6495,12 +6218,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
 >   **Speed**: 0 ft., swim 40 ft.
->   **STR**: +2 (14)
->   **DEX**: +1 (13)
->   **CON**: +1 (13)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +1 (13) | +1 (13) | -5 (1) | +0 (10) | -3 (4)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 12
 >   **Languages**: --
@@ -6519,12 +6241,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 195 (17d12 + 85)
 >   **Speed**: 30 ft., burrow 20 ft.
->   **STR**: +7 (24)
->   **DEX**: +1 (13)
->   **CON**: +5 (21)
->   **INT**: -3 (4)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (24) | +1 (13) | +5 (21) | -3 (4) | +0 (10) | -3 (5)
+>
 >   **Damage Immunities**: Cold, Fire
 >   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -6544,12 +6265,11 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
 >   **Speed**: 40 ft.
->   **STR**: +5 (21)
->   **DEX**: -1 (8)
->   **CON**: +2 (15)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | -1 (8) | +2 (15) | -4 (2) | +1 (12) | -2 (6)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
@@ -6566,12 +6286,11 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d10 + 2)
 >   **Speed**: 60 ft.
->   **STR**: +3 (16)
->   **DEX**: +0 (10)
->   **CON**: +1 (12)
->   **INT**: -4 (2)
->   **WIS**: +0 (11)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +0 (10) | +1 (12) | -4 (2) | +0 (11) | -2 (7)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
@@ -6585,12 +6304,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 248 (16d20 + 80)
 >   **Speed**: 20 ft., fly 120 ft.
->   **STR**: +9 (28)
->   **DEX**: +0 (10)
->   **CON**: +5 (20)
->   **INT**: -4 (3)
->   **WIS**: +0 (10)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +9 (28) | +0 (10) | +5 (20) | -4 (3) | +0 (10) | -1 (9)
+>
 >   **Saving Throws**: DEX +4, CON +9, WIS +4, CHA +3
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
@@ -6611,12 +6329,11 @@
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 93 (11d10 + 33)
 >   **Speed**: 10 ft., climb 10 ft.
->   **STR**: +4 (18)
->   **DEX**: -1 (8)
->   **CON**: +3 (17)
->   **INT**: -2 (7)
->   **WIS**: +3 (16)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | -1 (8) | +3 (17) | -2 (7) | +3 (16) | -2 (6)
+>
 >   **Skills**: Perception +6, Stealth +5
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 16
 >   **Languages**: --
@@ -6639,12 +6356,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 33 (6d10)
 >   **Speed**: 10 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (14)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -4 (3)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (14) | +0 (10) | -5 (1) | -4 (3) | -5 (1)
+>
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 6
@@ -6665,12 +6381,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 27 (5d8 + 5)
 >   **Speed**: 40 ft.
->   **STR**: +1 (13)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +1 (13)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +1 (12) | +1 (13) | -4 (2) | +1 (13) | -2 (6)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -6690,12 +6405,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 52 (7d10 + 14)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (14)
->   **CON**: +2 (15)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (14) | +2 (15) | -4 (3) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +3, Stealth +6
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -6715,12 +6429,11 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
 >   **Speed**: 30 ft., swim 40 ft.
->   **STR**: +1 (13)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: +1 (12)
->   **WIS**: +1 (13)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +0 (11) | +1 (12) | +1 (12) | +1 (13) | -1 (9)
+>
 >   **Skills**: Perception +5
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 15
 >   **Languages**: Sahuagin
@@ -6743,12 +6456,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 90 (12d10 + 24)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (14)
->   **CON**: +2 (15)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (14) | +2 (15) | +0 (11) | +0 (10) | +1 (12)
+>
 >   **Damage Vulnerabilities**: Cold
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire
@@ -6771,12 +6483,11 @@
 >   **Armor Class**: 14 (Leather Armor)
 >   **Hit Points**: 31 (7d8)
 >   **Speed**: 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +3 (16)
->   **CON**: +0 (11)
->   **INT**: +1 (12)
->   **WIS**: +0 (10)
->   **CHA**: +2 (14)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +3 (16) | +0 (11) | +1 (12) | +0 (10) | +2 (14)
+>
 >   **Skills**: Perception +2, Performance +6, Stealth +5
 >   **Senses**: Passive Perception 12
 >   **Languages**: Common, Elvish, Sylvan
@@ -6796,12 +6507,10 @@
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 10 ft.
->   **STR**: -4 (2)
->   **DEX**: +0 (11)
->   **CON**: -1 (8)
->   **INT**: -5 (1)
->   **WIS**: -1 (8)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +0 (11) | -1 (8) | -5 (1) | -1 (8) | -4 (2)
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -6815,12 +6524,11 @@
 >   **Armor Class**: 13 (Leather Armor)
 >   **Hit Points**: 16 (3d8 + 3)
 >   **Speed**: 30 ft.
->   **STR**: +0 (11)
->   **DEX**: +2 (14)
->   **CON**: +1 (12)
->   **INT**: +0 (11)
->   **WIS**: +1 (13)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (11) | +2 (14) | +1 (12) | +0 (11) | +1 (13) | +0 (11)
+>
 >   **Skills**: Nature +4, Perception +5, Stealth +6, Survival +5
 >   **Senses**: Passive Perception 15
 >   **Languages**: Any one language (usually Common)
@@ -6840,12 +6548,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 52 (7d8 + 21)
 >   **Speed**: 30 ft., swim 40 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (13)
->   **CON**: +3 (16)
->   **INT**: +1 (12)
->   **WIS**: +1 (12)
->   **CHA**: +1 (13)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (13) | +3 (16) | +1 (12) | +1 (12) | +1 (13)
+>
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 11
 >   **Languages**: Aquan, Common, Giant
 >   **Challenge**: 2 (450 XP)
@@ -6867,12 +6574,10 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 0 ft., swim 20 ft.
->   **STR**: -5 (1)
->   **DEX**: +1 (12)
->   **CON**: -1 (8)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +1 (12) | -1 (8) | -5 (1) | +0 (10) | -4 (2)
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
@@ -6886,12 +6591,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 16 (3d8 + 3)
 >   **Speed**: 40 ft.
->   **STR**: -2 (6)
->   **DEX**: +2 (14)
->   **CON**: +1 (13)
->   **INT**: -2 (6)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +2 (14) | +1 (13) | -2 (6) | +0 (10) | -1 (8)
 >   **Skills**: Stealth +4
 >   **Damage Vulnerabilities**: Radiant
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -6916,12 +6619,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
 >   **Speed**: 20 ft., swim 20 ft.
->   **STR**: +4 (18)
->   **DEX**: -1 (8)
->   **CON**: +3 (16)
->   **INT**: -3 (5)
->   **WIS**: +0 (10)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | -1 (8) | +3 (16) | -3 (5) | +0 (10) | -3 (5)
+>
 >   **Skills**: Stealth +2
 >   **Damage Resistances**: Cold, Fire
 >   **Damage Immunities**: Lightning
@@ -6944,12 +6646,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: -1 (8)
->   **CON**: +4 (18)
->   **INT**: -2 (7)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | -1 (8) | +4 (18) | -2 (7) | +0 (10) | -4 (3)
+>
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
 >   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 10
@@ -6973,12 +6674,10 @@
 >   **Armor Class**: 5 
 >   **Hit Points**: 13 (3d8)
 >   **Speed**: 0 ft.
->   **STR**: -5 (1)
->   **DEX**: -5 (1)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -4 (3)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | -5 (1) | +0 (10) | -5 (1) | -4 (3) | -5 (1)
 >   **Condition Immunities**: Blinded, Deafened, Frightened
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 6
 >   **Languages**: --
@@ -6995,12 +6694,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 45 (6d8 + 18)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (17)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (17) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +2, CON +5, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Cold
@@ -7020,12 +6718,11 @@
 >   **Armor Class**: 13 (Armor Scraps)
 >   **Hit Points**: 13 (2d8 + 4)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (14)
->   **CON**: +2 (15)
->   **INT**: -2 (6)
->   **WIS**: -1 (8)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (14) | +2 (15) | -2 (6) | -1 (8) | -3 (5)
+>
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
@@ -7043,12 +6740,11 @@
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 243 (18d10 + 144)
 >   **Speed**: 50 ft., fly 150 ft.
->   **STR**: +8 (26)
->   **DEX**: +6 (22)
->   **CON**: +8 (26)
->   **INT**: +7 (25)
->   **WIS**: +7 (25)
->   **CHA**: +10 (30)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +8 (26) | +6 (22) | +8 (26) | +7 (25) | +7 (25) | +10 (30)
+>
 >   **Saving Throws**: INT +14, WIS +14, CHA +17
 >   **Skills**: Perception +14
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -7086,12 +6782,10 @@
 >   **Armor Class**: 14 Natural
 >   **Hit Points**: 39 (6d8 + 12)
 >   **Speed**: 0 ft., fly 30 ft. (hover)
->   **STR**: -1 (8)
->   **DEX**: +2 (14)
->   **CON**: +2 (14)
->   **INT**: +1 (13)
->   **WIS**: +2 (14)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +2 (14) | +2 (14) | +1 (13) | +2 (14) | +0 (11)
 >   **Skills**: Perception +6
 >   **Condition Immunities**: Prone
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 16
@@ -7115,12 +6809,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 0 ft., fly 50 ft. (hover)
->   **STR**: -5 (1)
->   **DEX**: +2 (14)
->   **CON**: +0 (11)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +2 (14) | +0 (11) | +0 (10) | +0 (10) | +0 (11)
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -7141,12 +6833,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 20 ft., climb 20 ft.
->   **STR**: -4 (2)
->   **DEX**: +2 (14)
->   **CON**: -1 (8)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (2) | +2 (14) | -1 (8) | -5 (1) | +0 (10) | -4 (2)
 >   **Skills**: Stealth +4
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 10
 >   **Languages**: --
@@ -7166,12 +6856,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 75 (10d10 + 20)
 >   **Speed**: 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +3 (17)
->   **CON**: +2 (14)
->   **INT**: +3 (16)
->   **WIS**: +2 (15)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +3 (17) | +2 (14) | +3 (16) | +2 (15) | +3 (16)
+>
 >   **Saving Throws**: DEX +6, CON +5, WIS +5, CHA +6
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
@@ -7198,12 +6887,10 @@
 >   **Armor Class**: 15 (Leather Armor)
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 10 ft., fly 40 ft.
->   **STR**: -4 (3)
->   **DEX**: +4 (18)
->   **CON**: +0 (10)
->   **INT**: +2 (14)
->   **WIS**: +1 (13)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | +4 (18) | +0 (10) | +2 (14) | +1 (13) | +0 (11)
 >   **Skills**: Perception +3, Stealth +8
 >   **Senses**: Passive Perception 13
 >   **Languages**: Common, Elvish, Sylvan
@@ -7221,12 +6908,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 27 (6d8)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: +1 (12)
->   **WIS**: +2 (14)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (15) | +0 (10) | +1 (12) | +2 (14) | +3 (16)
+>
 >   **Skills**: Deception +5, Insight +4, Investigation +5, Perception +6, Persuasion +5, Sleight of Hand +4, Stealt+4
 >   **Senses**: Passive Perception 16
 >   **Languages**: Any two languages
@@ -7247,12 +6933,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 21 (6d6)
 >   **Speed**: 30 ft., fly 30 ft.
->   **STR**: -3 (5)
->   **DEX**: +0 (11)
->   **CON**: +0 (10)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +0 (11) | +0 (10) | +0 (11) | +0 (10) | +1 (12)
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 10
@@ -7273,12 +6957,10 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 2 (1d4)
 >   **Speed**: 10 ft., fly 40 ft.
->   **STR**: -3 (4)
->   **DEX**: +3 (16)
->   **CON**: +0 (11)
->   **INT**: -4 (2)
->   **WIS**: -1 (8)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (4) | +3 (16) | +0 (11) | -4 (2) | -1 (8) | -2 (6)
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
@@ -7293,12 +6975,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
 >   **Speed**: 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +2 (15)
->   **CON**: +5 (20)
->   **INT**: +0 (10)
->   **WIS**: +1 (12)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +2 (15) | +5 (20) | +0 (10) | +1 (12) | -1 (9)
+>
 >   **Saving Throws**: DEX +5, CON +8, WIS +4
 >   **Skills**: Athletics +12, Perception +4
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
@@ -7320,12 +7001,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
 >   **Speed**: 30 ft.
->   **STR**: +6 (22)
->   **DEX**: -1 (9)
->   **CON**: +5 (20)
->   **INT**: -4 (3)
->   **WIS**: +0 (11)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | -1 (9) | +5 (20) | -4 (3) | +0 (11) | -5 (1)
+>
 >   **Damage Immunities**: Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
 >   **Senses**: Darkvision 120 ft.,  Passive Perception 10
@@ -7348,12 +7028,11 @@
 >   **Armor Class**: 16 (Scale Mail)
 >   **Hit Points**: 230 (20d12 + 100)
 >   **Speed**: 50 ft., swim 50 ft.
->   **STR**: +9 (29)
->   **DEX**: +2 (14)
->   **CON**: +5 (20)
->   **INT**: +3 (16)
->   **WIS**: +4 (18)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +9 (29) | +2 (14) | +5 (20) | +3 (16) | +4 (18) | +4 (18)
+>
 >   **Saving Throws**: STR +14, CON +10, WIS +9, CHA +9
 >   **Skills**: Arcana +8, Athletics +14, History +8, Perception +9
 >   **Damage Resistances**: Cold
@@ -7380,12 +7059,10 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 66 (12d8 + 12)
 >   **Speed**: 30 ft., fly 60 ft.
->   **STR**: -1 (8)
->   **DEX**: +3 (17)
->   **CON**: +1 (13)
->   **INT**: +2 (15)
->   **WIS**: +1 (12)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +3 (17) | +1 (13) | +2 (15) | +1 (12) | +5 (20)
 >   **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 >   **Damage Resistances**: Cold, Fire, Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 15
@@ -7409,12 +7086,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 0 ft., fly 30 ft.
->   **STR**: -3 (5)
->   **DEX**: +2 (15)
->   **CON**: +0 (10)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -3 (5) | +2 (15) | +0 (10) | -4 (2) | +1 (12) | -3 (4)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 >   **Senses**: Blindsight 60 ft.,  Passive Perception 11
@@ -7435,12 +7110,10 @@
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (5d8)
 >   **Speed**: 20 ft., climb 20 ft.
->   **STR**: -4 (3)
->   **DEX**: +1 (13)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -2 (7)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | +1 (13) | +0 (10) | -5 (1) | -2 (7) | -5 (1)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 8
@@ -7459,12 +7132,10 @@
 >   **Armor Class**: 14 
 >   **Hit Points**: 36 (8d8)
 >   **Speed**: 30 ft., swim 30 ft.
->   **STR**: -1 (8)
->   **DEX**: +4 (18)
->   **CON**: +0 (11)
->   **INT**: -5 (1)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (8) | +4 (18) | +0 (11) | -5 (1) | +0 (10) | -4 (3)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 >   **Senses**: Blindsight 10 ft.,  Passive Perception 10
@@ -7483,12 +7154,11 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 28 (8d8 - 8)
 >   **Speed**: 0 ft., swim 40 ft.
->   **STR**: +1 (13)
->   **DEX**: +3 (16)
->   **CON**: -1 (9)
->   **INT**: -5 (1)
->   **WIS**: -2 (7)
->   **CHA**: -4 (2)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +3 (16) | -1 (9) | -5 (1) | -2 (7) | -4 (2)
+>
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 8
@@ -7509,12 +7179,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 24 (7d8 - 7)
 >   **Speed**: 30 ft.
->   **STR**: -1 (9)
->   **DEX**: +0 (11)
->   **CON**: -1 (9)
->   **INT**: -4 (2)
->   **WIS**: +0 (10)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -1 (9) | +0 (11) | -1 (9) | -4 (2) | +0 (10) | -4 (3)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
 >   **Senses**: Darkvision 30 ft.,  Passive Perception 10
@@ -7534,12 +7202,10 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 24 (7d8 - 7)
 >   **Speed**: 10 ft., fly 50 ft.
->   **STR**: -2 (6)
->   **DEX**: +2 (14)
->   **CON**: -1 (8)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +2 (14) | -1 (8) | -4 (3) | +1 (12) | -2 (6)
 >   **Skills**: Perception +5
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
@@ -7559,12 +7225,11 @@
 >   **Armor Class**: 25 (Natural Armor)
 >   **Hit Points**: 676 (33d20 + 330)
 >   **Speed**: 40 ft.
->   **STR**: +10 (30)
->   **DEX**: +0 (11)
->   **CON**: +10 (30)
->   **INT**: -4 (3)
->   **WIS**: +0 (11)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +10 (30) | +0 (11) | +10 (30) | -4 (3) | +0 (11) | +0 (11)
+>
 >   **Saving Throws**: INT +5, WIS +9, CHA +9
 >   **Damage Immunities**: Fire, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Frightened, Paralyzed, Poisoned
@@ -7600,12 +7265,11 @@
 >   **Armor Class**: 11 (Leather Armor)
 >   **Hit Points**: 32 (5d8 + 10)
 >   **Speed**: 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +0 (11)
->   **CON**: +2 (14)
->   **INT**: +0 (10)
->   **WIS**: +0 (10)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +0 (11) | +2 (14) | +0 (10) | +0 (10) | +0 (11)
+>
 >   **Skills**: Intimidation +2
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language (usually Common)
@@ -7625,12 +7289,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 37 (5d10 + 10)
 >   **Speed**: 40 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +2 (14)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +2 (14) | -4 (3) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +3, Stealth +6
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
 >   **Languages**: --
@@ -7650,12 +7313,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 138 (12d12 + 60)
 >   **Speed**: 30 ft.
->   **STR**: +6 (23)
->   **DEX**: -1 (8)
->   **CON**: +5 (21)
->   **INT**: +1 (12)
->   **WIS**: +3 (16)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | -1 (8) | +5 (21) | +1 (12) | +3 (16) | +1 (12)
+>
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Resistances**: Bludgeoning, Piercing
 >   **Senses**: Passive Perception 13
@@ -7678,12 +7340,11 @@
 >   **Armor Class**: 12 (Hide Armor)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 30 ft.
->   **STR**: +1 (13)
->   **DEX**: +0 (11)
->   **CON**: +1 (12)
->   **INT**: -1 (8)
->   **WIS**: +0 (11)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | +0 (11) | +1 (12) | -1 (8) | +0 (11) | -1 (8)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: Any one language
 >   **Challenge**: 1/8 (25 XP)
@@ -7700,12 +7361,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 95 (10d12 + 30)
 >   **Speed**: 50 ft.
->   **STR**: +6 (22)
->   **DEX**: -1 (9)
->   **CON**: +3 (17)
->   **INT**: -4 (2)
->   **WIS**: +0 (11)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (22) | -1 (9) | +3 (17) | -4 (2) | +0 (11) | -3 (5)
+>
 >   **Senses**: Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
@@ -7723,12 +7383,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 84 (8d10 + 40)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (13)
->   **CON**: +5 (20)
->   **INT**: -2 (7)
->   **WIS**: -1 (9)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (13) | +5 (20) | -2 (7) | -1 (9) | -2 (7)
+>
 >   **Skills**: Perception +2
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 12
 >   **Languages**: Giant
@@ -7749,12 +7408,10 @@
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 4 (1d6 + 1)
 >   **Speed**: 20 ft.
->   **STR**: -2 (6)
->   **DEX**: +1 (13)
->   **CON**: +1 (12)
->   **INT**: -3 (4)
->   **WIS**: -1 (8)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +1 (13) | +1 (12) | -3 (4) | -1 (8) | -4 (3)
 >   **Skills**: Stealth +3
 >   **Damage Vulnerabilities**: Fire
 >   **Condition Immunities**: Blinded, Deafened
@@ -7774,12 +7431,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 136 (13d12 + 52)
 >   **Speed**: 50 ft.
->   **STR**: +7 (25)
->   **DEX**: +0 (10)
->   **CON**: +4 (19)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -1 (9)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +7 (25) | +0 (10) | +4 (19) | -4 (2) | +1 (12) | -1 (9)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Passive Perception 14
 >   **Languages**: --
@@ -7796,12 +7452,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 67 (9d10 + 18)
 >   **Speed**: 50 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (14)
->   **CON**: +2 (15)
->   **INT**: +0 (11)
->   **WIS**: +3 (17)
->   **CHA**: +3 (16)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (14) | +2 (15) | +0 (11) | +3 (17) | +3 (16)
+>
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Paralyzed, Poisoned
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
@@ -7835,12 +7490,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 144 (17d8 + 68)
 >   **Speed**: 30 ft.
->   **STR**: +4 (18)
->   **DEX**: +4 (18)
->   **CON**: +4 (18)
->   **INT**: +3 (17)
->   **WIS**: +2 (15)
->   **CHA**: +4 (18)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +4 (18) | +4 (18) | +3 (17) | +2 (15) | +4 (18)
+>
 >   **Saving Throws**: DEX +9, WIS +7, CHA +9
 >   **Skills**: Perception +7, Stealth +9
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -7883,12 +7537,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 82 (11d8 + 33)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +3 (16)
->   **CON**: +3 (16)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +3 (16) | +3 (16) | +0 (11) | +0 (10) | +1 (12)
+>
 >   **Saving Throws**: DEX +6, WIS +3
 >   **Skills**: Perception +3, Stealth +6
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
@@ -7916,12 +7569,11 @@
 >   **Armor Class**: 17 (Splint)
 >   **Hit Points**: 58 (9d8 + 18)
 >   **Speed**: 30 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (13)
->   **CON**: +2 (14)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (13) | +2 (14) | +0 (10) | +0 (11) | +0 (10)
+>
 >   **Skills**: Athletics +5, Perception +2
 >   **Senses**: Passive Perception 12
 >   **Languages**: Any one language (usually Common)
@@ -7939,12 +7591,10 @@
 >   **Armor Class**: 5 
 >   **Hit Points**: 18 (4d8)
 >   **Speed**: 5 ft.
->   **STR**: -4 (3)
->   **DEX**: -5 (1)
->   **CON**: +0 (10)
->   **INT**: -5 (1)
->   **WIS**: -4 (3)
->   **CHA**: -5 (1)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | -5 (1) | +0 (10) | -5 (1) | -4 (3) | -5 (1)
 >   **Condition Immunities**: Blinded, Deafened, Frightened
 >   **Senses**: Blindsight 30 ft.,  Passive Perception 6
 >   **Languages**: --
@@ -7963,12 +7613,11 @@
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 104 (11d10 + 44)
 >   **Speed**: 40 ft., fly 60 ft.
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +4 (18)
->   **INT**: -1 (8)
->   **WIS**: +1 (13)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +4 (18) | -1 (8) | +1 (13) | -1 (8)
+>
 >   **Saving Throws**: DEX +5, WIS +4, CHA +2
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Poison
@@ -7993,12 +7642,10 @@
 >   **Armor Class**: 10 
 >   **Hit Points**: 5 (1d8 + 1)
 >   **Speed**: 10 ft., fly 50 ft.
->   **STR**: -2 (7)
->   **DEX**: +0 (10)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -3 (4)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (7) | +0 (10) | +1 (13) | -4 (2) | +1 (12) | -3 (4)
 >   **Skills**: Perception +3
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -8017,12 +7664,11 @@
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
 >   **Speed**: 60 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (12)
->   **CON**: +1 (13)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (12) | +1 (13) | -4 (2) | +1 (12) | -2 (7)
+>
 >   **Senses**: Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
@@ -8039,12 +7685,11 @@
 >   **Armor Class**: 13 (Barding Scraps)
 >   **Hit Points**: 22 (3d10 + 6)
 >   **Speed**: 60 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (12)
->   **CON**: +2 (15)
->   **INT**: -4 (2)
->   **WIS**: -1 (8)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (12) | +2 (15) | -4 (2) | -1 (8) | -3 (5)
+>
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
@@ -8061,12 +7706,11 @@
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
 >   **Speed**: 30 ft., swim 90 ft.
->   **STR**: +4 (18)
->   **DEX**: +2 (14)
->   **CON**: +4 (18)
->   **INT**: -3 (5)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +2 (14) | +4 (18) | -3 (5) | +0 (10) | -1 (8)
+>
 >   **Damage Resistances**: Acid; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
@@ -8090,12 +7734,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
 >   **Speed**: 30 ft.
->   **STR**: -4 (3)
->   **DEX**: +3 (16)
->   **CON**: -1 (8)
->   **INT**: -4 (2)
->   **WIS**: +1 (12)
->   **CHA**: -4 (3)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -4 (3) | +3 (16) | -1 (8) | -4 (2) | +1 (12) | -4 (3)
 >   **Skills**: Perception +3, Stealth +5
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -8113,12 +7755,11 @@
 >   **Armor Class**: 10 In Humanoid Form, 11 In Bear And Hybrid Form
 >   **Hit Points**: 135 (18d8 + 54)
 >   **Speed**: 30 ft., 40 ft., climb 30 ft. in bear or hybrid form
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (17)
->   **INT**: +0 (11)
->   **WIS**: +1 (12)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (17) | +0 (11) | +1 (12) | +1 (12)
+>
 >   **Skills**: Perception +7
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Senses**: Passive Perception 17
@@ -8141,12 +7782,11 @@
 >   **Armor Class**: 10 In Humanoid Form, 11 In Boar Or Hybrid Form
 >   **Hit Points**: 78 (12d8 + 24)
 >   **Speed**: 30 ft., 40 ft. in boar form
->   **STR**: +3 (17)
->   **DEX**: +0 (10)
->   **CON**: +2 (15)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (10) | +2 (15) | +0 (10) | +0 (11) | -1 (8)
+>
 >   **Skills**: Perception +2
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Senses**: Passive Perception 12
@@ -8169,12 +7809,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 33 (6d8 + 6)
 >   **Speed**: 30 ft.
->   **STR**: +0 (10)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +0 (10) | +2 (15) | +1 (12) | +0 (11) | +0 (10) | -1 (8)
+>
 >   **Skills**: Perception +2, Stealth +4
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 12
@@ -8197,12 +7836,11 @@
 >   **Armor Class**: 12 
 >   **Hit Points**: 120 (16d8 + 48)
 >   **Speed**: 30 ft., 40 ft. in tiger form
->   **STR**: +3 (17)
->   **DEX**: +2 (15)
->   **CON**: +3 (16)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +2 (15) | +3 (16) | +0 (10) | +1 (13) | +0 (11)
+>
 >   **Skills**: Perception +5, Stealth +4
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 15
@@ -8227,12 +7865,11 @@
 >   **Armor Class**: 11 In Humanoid Form, 12 In Wolf Or Hybrid Form
 >   **Hit Points**: 58 (9d8 + 18)
 >   **Speed**: 30 ft., 40 ft. in wolf form
->   **STR**: +2 (15)
->   **DEX**: +1 (13)
->   **CON**: +2 (14)
->   **INT**: +0 (10)
->   **WIS**: +0 (11)
->   **CHA**: +0 (10)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +1 (13) | +2 (14) | +0 (10) | +0 (11) | +0 (10)
+>
 >   **Skills**: Perception +4, Stealth +3
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Senses**: Passive Perception 14
@@ -8255,12 +7892,11 @@
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 32 (5d8 + 10)
 >   **Speed**: 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
->   **STR**: +2 (14)
->   **DEX**: +0 (10)
->   **CON**: +2 (14)
->   **INT**: -3 (5)
->   **WIS**: +0 (10)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (14) | +0 (10) | +2 (14) | -3 (5) | +0 (10) | +0 (11)
+>
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +2
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Cold
@@ -8278,12 +7914,11 @@
 >   **Armor Class**: 14 (Studded Leather)
 >   **Hit Points**: 45 (6d8 + 18)
 >   **Speed**: 30 ft.
->   **STR**: +2 (15)
->   **DEX**: +2 (14)
->   **CON**: +3 (16)
->   **INT**: +0 (10)
->   **WIS**: +1 (13)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +2 (15) | +2 (14) | +3 (16) | +0 (10) | +1 (13) | +2 (15)
+>
 >   **Skills**: Perception +3, Stealth +4
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Poison
@@ -8308,12 +7943,10 @@
 >   **Armor Class**: 19 
 >   **Hit Points**: 22 (9d4)
 >   **Speed**: 0 ft., fly 50 ft. (hover)
->   **STR**: -5 (1)
->   **DEX**: +9 (28)
->   **CON**: +0 (10)
->   **INT**: +1 (13)
->   **WIS**: +2 (14)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -5 (1) | +9 (28) | +0 (10) | +1 (13) | +2 (14) | +0 (11)
 >   **Damage Resistances**: Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Lightning, Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Poisoned, Prone, Restrained, Unconscious
@@ -8337,12 +7970,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 75 (10d10 + 20)
 >   **Speed**: 50 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (13)
->   **CON**: +2 (14)
->   **INT**: -2 (7)
->   **WIS**: +1 (12)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (13) | +2 (14) | -2 (7) | +1 (12) | -1 (8)
+>
 >   **Skills**: Perception +5, Stealth +3
 >   **Damage Immunities**: Cold
 >   **Senses**: Passive Perception 15
@@ -8364,12 +7996,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 11 (2d8 + 2)
 >   **Speed**: 40 ft.
->   **STR**: +1 (12)
->   **DEX**: +2 (15)
->   **CON**: +1 (12)
->   **INT**: -4 (3)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (12) | +2 (15) | +1 (12) | -4 (3) | +1 (12) | -2 (6)
+>
 >   **Skills**: Perception +3, Stealth +4
 >   **Senses**: Passive Perception 13
 >   **Languages**: --
@@ -8388,12 +8019,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 26 (4d10 + 4)
 >   **Speed**: 50 ft.
->   **STR**: +3 (16)
->   **DEX**: +1 (13)
->   **CON**: +1 (13)
->   **INT**: -2 (7)
->   **WIS**: +0 (11)
->   **CHA**: -1 (8)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (16) | +1 (13) | +1 (13) | -2 (7) | +0 (11) | -1 (8)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: Goblin, Worg
@@ -8411,12 +8041,10 @@
 >   **Armor Class**: 13 
 >   **Hit Points**: 67 (9d8 + 27)
 >   **Speed**: 0 ft., fly 60 ft. (hover)
->   **STR**: -2 (6)
->   **DEX**: +3 (16)
->   **CON**: +3 (16)
->   **INT**: +1 (12)
->   **WIS**: +2 (14)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>  -2 (6) | +3 (16) | +3 (16) | +1 (12) | +2 (14) | +2 (15)
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -8438,12 +8066,11 @@
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 110 (13d10 + 39)
 >   **Speed**: 20 ft., fly 80 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (16)
->   **INT**: -3 (5)
->   **WIS**: +1 (12)
->   **CHA**: -2 (6)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (16) | -3 (5) | +1 (12) | -2 (6)
+>
 >   **Skills**: Perception +4
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 14
 >   **Languages**: --
@@ -8461,12 +8088,11 @@
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 73 (7d8 + 42)
 >   **Speed**: 20 ft., burrow 20 ft.
->   **STR**: +3 (17)
->   **DEX**: +0 (10)
->   **CON**: +6 (22)
->   **INT**: +0 (11)
->   **WIS**: +0 (10)
->   **CHA**: +0 (11)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +3 (17) | +0 (10) | +6 (22) | +0 (11) | +0 (10) | +0 (11)
+>
 >   **Skills**: Perception +6, Stealth +3
 >   **Damage Resistances**: Piercing and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 16
@@ -8489,12 +8115,11 @@
 >   **Armor Class**: 12 Natural Armor
 >   **Hit Points**: 51 (6d10 + 18)
 >   **Speed**: 40 ft., climb 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +1 (13)
->   **CON**: +3 (16)
->   **INT**: -1 (8)
->   **WIS**: +1 (12)
->   **CHA**: -2 (7)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +1 (13) | +3 (16) | -1 (8) | +1 (12) | -2 (7)
+>
 >   **Skills**: Perception +3, Stealth +3
 >   **Damage Immunities**: Cold
 >   **Senses**: Darkvision 60 ft.,  Passive Perception 13
@@ -8518,12 +8143,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 127 (15d10 + 45)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +4 (19)
->   **DEX**: +2 (14)
->   **CON**: +3 (17)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +2 (14) | +3 (17) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +5, CON +6, WIS +3, CHA +5
 >   **Skills**: Perception +6, Stealth +5
 >   **Damage Immunities**: Acid
@@ -8546,12 +8170,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 152 (16d10 + 64)
 >   **Speed**: 40 ft., burrow 20 ft., fly 80 ft.
->   **STR**: +5 (21)
->   **DEX**: +0 (10)
->   **CON**: +4 (19)
->   **INT**: +2 (14)
->   **WIS**: +1 (13)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | +0 (10) | +4 (19) | +2 (14) | +1 (13) | +3 (17)
+>
 >   **Saving Throws**: DEX +4, CON +8, WIS +5, CHA +7
 >   **Skills**: Perception +9, Stealth +4
 >   **Damage Immunities**: Lightning
@@ -8571,12 +8194,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 110 (13d10 + 39)
 >   **Speed**: 40 ft., burrow 20 ft., fly 80 ft.
->   **STR**: +4 (19)
->   **DEX**: +0 (10)
->   **CON**: +3 (17)
->   **INT**: +1 (12)
->   **WIS**: +0 (11)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +0 (10) | +3 (17) | +1 (12) | +0 (11) | +2 (15)
+>
 >   **Saving Throws**: DEX +3, CON +6, WIS +3, CHA +5
 >   **Skills**: Perception +6, Persuasion +5, Stealth +3
 >   **Damage Immunities**: Fire
@@ -8598,12 +8220,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +5 (21)
->   **DEX**: +0 (10)
->   **CON**: +4 (19)
->   **INT**: +2 (14)
->   **WIS**: +1 (13)
->   **CHA**: +3 (17)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +5 (21) | +0 (10) | +4 (19) | +2 (14) | +1 (13) | +3 (17)
+>
 >   **Saving Throws**: DEX +3, CON +7, WIS +4, CHA +6
 >   **Skills**: Insight +4, Perception +7, Stealth +3
 >   **Damage Immunities**: Lightning
@@ -8628,12 +8249,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 119 (14d10 + 42)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +4 (19)
->   **DEX**: +1 (12)
->   **CON**: +3 (17)
->   **INT**: +3 (16)
->   **WIS**: +1 (13)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +1 (12) | +3 (17) | +3 (16) | +1 (13) | +2 (15)
+>
 >   **Saving Throws**: DEX +4, CON +6, WIS +4, CHA +5
 >   **Skills**: Deception +5, Perception +7, Stealth +4
 >   **Damage Immunities**: Acid
@@ -8655,12 +8275,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +6 (23)
->   **DEX**: +2 (14)
->   **CON**: +5 (21)
->   **INT**: +3 (16)
->   **WIS**: +1 (13)
->   **CHA**: +5 (20)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +2 (14) | +5 (21) | +3 (16) | +1 (13) | +5 (20)
+>
 >   **Saving Throws**: DEX +6, CON +9, WIS +5, CHA +9
 >   **Skills**: Insight +5, Perception +9, Persuasion +9, Stealth +6
 >   **Damage Immunities**: Fire
@@ -8685,12 +8304,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
 >   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
->   **STR**: +4 (19)
->   **DEX**: +1 (12)
->   **CON**: +3 (17)
->   **INT**: +3 (16)
->   **WIS**: +1 (13)
->   **CHA**: +2 (15)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (19) | +1 (12) | +3 (17) | +3 (16) | +1 (13) | +2 (15)
+>
 >   **Saving Throws**: DEX +4, CON +6, WIS +4, CHA +5
 >   **Skills**: Deception +5, Perception +7, Stealth +4
 >   **Damage Immunities**: Poison
@@ -8714,12 +8332,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
 >   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
->   **STR**: +6 (23)
->   **DEX**: +0 (10)
->   **CON**: +5 (21)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +0 (10) | +5 (21) | +2 (14) | +0 (11) | +4 (19)
+>
 >   **Saving Throws**: DEX +4, CON +9, WIS +4, CHA +8
 >   **Skills**: Perception +8, Stealth +4
 >   **Damage Immunities**: Fire
@@ -8739,12 +8356,11 @@
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 168 (16d10 + 80)
 >   **Speed**: 40 ft., fly 80 ft.
->   **STR**: +6 (23)
->   **DEX**: +0 (10)
->   **CON**: +5 (21)
->   **INT**: +2 (14)
->   **WIS**: +0 (11)
->   **CHA**: +4 (19)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +6 (23) | +0 (10) | +5 (21) | +2 (14) | +0 (11) | +4 (19)
+>
 >   **Saving Throws**: DEX +4, CON +9, WIS +4, CHA +8
 >   **Skills**: Arcana +6, History +6, Perception +8, Stealth +4
 >   **Damage Immunities**: Cold
@@ -8766,12 +8382,11 @@
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 133 (14d10 + 56)
 >   **Speed**: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
->   **STR**: +4 (18)
->   **DEX**: +0 (10)
->   **CON**: +4 (18)
->   **INT**: -2 (6)
->   **WIS**: +0 (11)
->   **CHA**: +1 (12)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +4 (18) | +0 (10) | +4 (18) | -2 (6) | +0 (11) | +1 (12)
+>
 >   **Saving Throws**: DEX +3, CON +7, WIS +3, CHA +4
 >   **Skills**: Perception +6, Stealth +3
 >   **Damage Immunities**: Cold
@@ -8794,12 +8409,11 @@
 >   **Armor Class**: 8 
 >   **Hit Points**: 22 (3d8 + 9)
 >   **Speed**: 20 ft.
->   **STR**: +1 (13)
->   **DEX**: -2 (6)
->   **CON**: +3 (16)
->   **INT**: -4 (3)
->   **WIS**: -2 (6)
->   **CHA**: -3 (5)
+>
+>   STR | DEX | CON | INT | WIS | CHA 
+>   :--: | :--: | :--: | :--: | :--: | :--: 
+>   +1 (13) | -2 (6) | +3 (16) | -4 (3) | -2 (6) | -3 (5)
+>
 >   **Saving Throws**: WIS +0
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
