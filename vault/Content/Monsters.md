@@ -3,7 +3,7 @@
 >  *Large aberration, lawful evil*
 >  **Armor Class**: 17 (Natural Armor)
 >  **Hit Points**: 135 (18d10 + 36)
->  **Speed**: 10 ft., swim 40 ft.
+>  **Speed**: 2 *(3m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -11,23 +11,23 @@
 >
 >  **Saving Throws**: CON +6, INT +8, WIS +6
 >  **Skills**: History +12, Perception +10
->  **Senses**: Darkvision 120 ft.,  Passive Perception 20
->  **Languages**: Deep Speech, Telepathy 120 ft.
+>  **Senses**: Darkvision 24 *(36m)*,  Passive Perception 20
+>  **Languages**: Deep Speech, Telepathy 24 *(36m)*
 >  **Challenge**: 10 (5,900 XP)
 > #### Traits 
 >  ***Amphibious.*** The aboleth can breathe air and water. 
 >
->  ***Mucous Cloud.*** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 5 feet of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater. 
+>  ***Mucous Cloud.*** While underwater, the aboleth is surrounded by transformative mucus. A creature that touches the aboleth or that hits it with a melee attack while within 1 *(1.5m)* of it must make a DC 14 Constitution saving throw. On a failure, the creature is diseased for 1d4 hours. The diseased creature can breathe only underwater. 
 >
 >  ***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 > #### Actions 
 >  ***Multiattack.*** The aboleth makes three tentacle attacks. 
 >
->  ***Tentacle.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed. 
+>  ***Tentacle.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 12 (2d6 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Constitution saving throw or become diseased. The disease has no effect for 1 minute and can be removed by any magic that cures disease. After 1 minute, the diseased creature's skin becomes translucent and slimy, the creature can't regain hit points unless it is underwater, and the disease can be removed only by heal or another disease-curing spell of 6th level or higher. When the creature is outside a body of water, it takes 6 (1d12) acid damage every 10 minutes unless moisture is applied to the skin before 10 minutes have passed. 
 >
->  ***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft. one target. *Hit:* 15 (3d6 + 5) bludgeoning damage. 
+>  ***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)* one target. *Hit:* 15 (3d6 + 5) bludgeoning damage. 
 >
->  ***Enslave (3/Day).*** The aboleth targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. 
+>  ***Enslave (3/Day).*** The aboleth targets one creature it can see within 6 *(9m)* of it. The target must succeed on a DC 14 Wisdom saving throw or be magically charmed by the aboleth until the aboleth dies or until it is on a different plane of existence from the target. The charmed target is under the aboleth's control and can't take reactions, and the aboleth and the target can communicate telepathically with each other over any distance. 
 >  Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 > #### Legendary Actions 
 >  The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn. 
@@ -44,7 +44,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 10 
 >   **Hit Points**: 9 (2d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -60,7 +60,7 @@
 >   *1st level (3 slots)*: bless, cure wounds, sanctuary
 > 
 > #### Actions 
->   ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+>   ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -68,7 +68,7 @@
 >   *Huge dragon, chaotic evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 195 (17d12 + 85)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -77,7 +77,7 @@
 >   **Saving Throws**: DEX +7, CON +10, WIS +6, CHA +8
 >   **Skills**: Perception +11, Stealth +7
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 21
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 21
 >   **Languages**: Common, Draconic
 >   **Challenge**: 14 (11,500 XP)
 > #### Traits 
@@ -86,24 +86,24 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.
->   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage.
->   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
->   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 60-­foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.
+>   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage.
+>   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 3 *(4.5m)*, one target. *Hit:* 15 (2d8 + 6) bludgeoning damage.
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 12 *(18m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check.
 >   ***Tail Attack.*** The dragon makes a tail attack.
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/13/1000/1000/636238871029832086.jpeg)
 >
 # Adult Blue Dragon
 >   *Huge dragon, lawful evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 225 (18d12 + 108)
->   **Speed**: 40 ft., burrow 30 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 6 *(9m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -112,7 +112,7 @@
 >   **Saving Throws**: DEX +5, CON +11, WIS +7, CHA +9
 >   **Skills**: Perception +12, Stealth +5
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 22
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 22
 >   **Languages**: Common, Draconic
 >   **Challenge**: 16 (15,000 XP)
 > #### Traits 
@@ -120,17 +120,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage. 
->   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6 + 7) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 90-­foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 2 *(3m)*, one target. *Hit:* 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d6 + 7) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 3 *(4.5m)*, one target. *Hit:* 16 (2d8 + 7) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 18 *(27m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/16/1000/1000/636238882493439723.jpeg)
 >
@@ -138,7 +138,7 @@
 >   *Huge dragon, chaotic good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 172 (15d12 + 75)
->   **Speed**: 40 ft., burrow 30 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 6 *(9m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -147,7 +147,7 @@
 >   **Saving Throws**: DEX +5, CON +10, WIS +6, CHA +8
 >   **Skills**: History +7, Perception +11, Persuasion +8, Stealth +5
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 21
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 21
 >   **Languages**: Common, Draconic
 >   **Challenge**: 13 (10,000 XP)
 > #### Traits 
@@ -155,19 +155,19 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 3 *(4.5m)*, one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Sleep Breath.*** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+>   ***Fire Breath.*** The dragon exhales fire in an 12 *(18m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Sleep Breath.*** The dragon exhales sleep gas in a 12 *(18m)* cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/18/1000/1000/636238885681129014.jpeg)
 >
@@ -175,7 +175,7 @@
 >   *Huge dragon, lawful good*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 212 (17d12 + 102)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -184,7 +184,7 @@
 >   **Saving Throws**: DEX +5, CON +11, WIS +7, CHA +9
 >   **Skills**: Insight +7, Perception +12, Stealth +5
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 22
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 22
 >   **Languages**: Common, Draconic
 >   **Challenge**: 15 (13,000 XP)
 > #### Traits 
@@ -193,13 +193,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
->   ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10 + 7) piercing damage.
->   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6 + 7) slashing damage.
->   ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>   ***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 2 *(3m)*, one target. *Hit:* 18 (2d10 + 7) piercing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d6 + 7) slashing damage.
+>   ***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 3 *(4.5m)*, one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.
->   ***Lightning Breath.*** The dragon exhales lightning in a 90- foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
->   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+>   ***Lightning Breath.*** The dragon exhales lightning in a 18 *(27m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 12 *(18m)* away from the dragon.
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -207,7 +207,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check.
 >   ***Tail Attack.*** The dragon makes a tail attack.
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/20/1000/1000/636238888310108665.jpeg)
 >
@@ -215,7 +215,7 @@
 >   *Huge dragon, chaotic good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 184 (16d12 + 80)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -224,7 +224,7 @@
 >   **Saving Throws**: DEX +6, CON +10, WIS +7, CHA +8
 >   **Skills**: Deception +8, Perception +12, Stealth +6
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 22
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 22
 >   **Languages**: Common, Draconic
 >   **Challenge**: 14 (11,500 XP)
 > #### Traits 
@@ -232,19 +232,19 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 3 *(4.5m)*, one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Acid Breath.*** The dragon exhales acid in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one. 
->   ***Slowing Breath.*** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+>   ***Acid Breath.*** The dragon exhales acid in an 12 *(18m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one. 
+>   ***Slowing Breath.*** The dragon exhales gas in a 12 *(18m)* cone. Each creature in that area must succeed on a DC 18 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/22/1000/1000/636238956325913912.jpeg)
 >
@@ -252,7 +252,7 @@
 >   *Huge dragon, lawful good*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 256 (19d12 + 133)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -261,7 +261,7 @@
 >   **Saving Throws**: DEX +8, CON +13, WIS +8, CHA +13
 >   **Skills**: Insight +8, Perception +14, Persuasion +13, Stealth +8
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 24
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 24
 >   **Languages**: Common, Draconic
 >   **Challenge**: 17 (18,000 XP)
 > #### Traits 
@@ -270,13 +270,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 3 *(4.5m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Weakening Breath.*** The dragon exhales gas in a 60-foot cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Fire Breath.*** The dragon exhales fire in a 12 *(18m)* cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 66 (12d10) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Weakening Breath.*** The dragon exhales gas in a 12 *(18m)* cone. Each creature in that area must succeed on a DC 21 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -284,7 +284,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/24/1000/1000/636238958915127190.jpeg)
 >
@@ -292,7 +292,7 @@
 >   *Huge dragon, lawful evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 207 (18d12 + 90)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -302,7 +302,7 @@
 >   **Skills**: Deception +8, Insight +7, Perception +12, Persuasion +8, Stealth +6
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 22
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 22
 >   **Languages**: Common, Draconic
 >   **Challenge**: 15 (13,000 XP)
 > #### Traits 
@@ -311,17 +311,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage. 
->   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage plus 7 (2d6) poison damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 3 *(4.5m)*, one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 12 *(18m)* cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/26/1000/1000/636238962276510242.jpeg)
 >
@@ -329,7 +329,7 @@
 >   *Huge dragon, chaotic evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 256 (19d12 + 133)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -338,7 +338,7 @@
 >   **Saving Throws**: DEX +6, CON +13, WIS +7, CHA +11
 >   **Skills**: Perception +13, Stealth +6
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 23
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 23
 >   **Languages**: Common, Draconic
 >   **Challenge**: 17 (18,000 XP)
 > #### Traits 
@@ -346,17 +346,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage. 
->   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage plus 7 (2d6) fire damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 3 *(4.5m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 12 *(18m)* cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/28/1000/1000/636238971817119794.jpeg)
 >
@@ -364,7 +364,7 @@
 >   *Huge dragon, lawful good*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 243 (18d12 + 126)
->   **Speed**: 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -373,7 +373,7 @@
 >   **Saving Throws**: DEX +5, CON +12, WIS +6, CHA +10
 >   **Skills**: Arcana +8, History +8, Perception +11, Stealth +5
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 21
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 21
 >   **Languages**: Common, Draconic
 >   **Challenge**: 16 (15,000 XP)
 > #### Traits 
@@ -381,13 +381,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 2 *(3m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 3 *(4.5m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Cold Breath.*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. 
->   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Cold Breath.*** The dragon exhales an icy blast in a 12 *(18m)* cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. 
+>   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 12 *(18m)* cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -395,7 +395,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 21 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/123/1000/1000/636252753945133025.jpeg)
 >
@@ -403,7 +403,7 @@
 >   *Huge dragon, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 200 (16d12 + 96)
->   **Speed**: 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, burrow 6 *(9m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -412,7 +412,7 @@
 >   **Saving Throws**: DEX +5, CON +11, WIS +6, CHA +6
 >   **Skills**: Perception +11, Stealth +5
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 21
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 21
 >   **Languages**: Common, Draconic
 >   **Challenge**: 13 (10,000 XP)
 > #### Traits 
@@ -421,17 +421,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage. 
->   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 15 ft., one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage plus 4 (1d8) cold damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +11 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +11 to hit, reach 3 *(4.5m)*, one target. *Hit:* 15 (2d8 + 6) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 14 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 12 *(18m)* cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 2 *(3m)* of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/125/1000/1000/636252755468117001.jpeg)
 >
@@ -439,7 +439,7 @@
 >   *Large elemental, neutral*
 >   **Armor Class**: 15 
 >   **Hit Points**: 90 (12d10 + 24)
->   **Speed**: 0 ft., fly 90 ft. (hover)
+>   **Speed**: 0, fly 18 *(27m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -448,16 +448,16 @@
 >   **Damage Resistances**: Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Auran
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+>   ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 3cm wide without squeezing.
 > 
 > #### Actions 
 >   ***Multiattack.*** The elemental makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage. 
->   ***Whirlwind (Recharge 4–6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. 
+>   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d8 + 5) bludgeoning damage. 
+>   ***Whirlwind (Recharge 4–6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up 4 *(6m)* away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 2 *(3m)* it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked prone. 
 >   If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/127/1000/1000/636252755648556800.jpeg)
@@ -466,7 +466,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 51 (6d10 + 18)
->   **Speed**: 60 ft.
+>   **Speed**: 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -477,11 +477,11 @@
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->    ***Pounce.*** If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the allosaurus can make one bite attack against it as a bonus action.
+>    ***Pounce.*** If the allosaurus moves at least 6 *(9m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the allosaurus can make one bite attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage.
->   ***Claw. ****Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage.
+>   ***Claw. ****Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -489,7 +489,7 @@
 >   *Gargantuan dragon, chaotic evil*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 367 (21d20 + 147)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -498,7 +498,7 @@
 >   **Saving Throws**: DEX +9, CON +14, WIS +9, CHA +11
 >   **Skills**: Perception +16, Stealth +9
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 26
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 26
 >   **Languages**: Common, Draconic
 >   **Challenge**: 21 (33,000 XP)
 > #### Traits 
@@ -507,17 +507,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
->   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.
->   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage.
->   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage.
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
->   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage plus 9 (2d8) acid damage.
+>   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage.
+>   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 4 *(6m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage.
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 18 *(27m)* line that is 2 *(3m)* wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check.
 >   ***Tail Attack.*** The dragon makes a tail attack.
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/129/315/315/636252755854649337.jpeg)
 >
@@ -525,7 +525,7 @@
 >   *Gargantuan dragon, lawful evil*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 481 (26d20 + 208)
->   **Speed**: 40 ft., burrow 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -534,7 +534,7 @@
 >   **Saving Throws**: DEX +7, CON +15, WIS +10, CHA +12
 >   **Skills**: Perception +17, Stealth +7
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 27
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 27
 >   **Languages**: Common, Draconic
 >   **Challenge**: 23 (50,000 XP)
 > #### Traits 
@@ -542,17 +542,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage. 
->   ***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6 + 9) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8 + 9) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 120-­-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 3 *(4.5m)*, one target. *Hit:* 20 (2d10 + 9) piercing damage plus 11 (2d10) lightning damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d6 + 9) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 4 *(6m)*, one target. *Hit:* 18 (2d8 + 9) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 24 *(36m)* line that is 2 *(3m)* wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/131/1000/1000/636252756020185006.jpeg)
 >
@@ -560,7 +560,7 @@
 >   *Gargantuan dragon, chaotic good*
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 297 (17d20 + 119)
->   **Speed**: 40 ft., burrow 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -569,7 +569,7 @@
 >   **Saving Throws**: DEX +6, CON +13, WIS +8, CHA +10
 >   **Skills**: History +9, Perception +14, Persuasion +10, Stealth +6
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 24
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 24
 >   **Languages**: Common, Draconic
 >   **Challenge**: 20 (25,000 XP)
 > #### Traits 
@@ -577,13 +577,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 4 *(6m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons: 
->   ***Fire Breath.*** The dragon exhales fire in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Sleep Breath.*** The dragon exhales sleep gas in a 90-foot cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it. 
+>   ***Fire Breath.*** The dragon exhales fire in an 18 *(27m)* line that is 2 *(3m)* wide. Each creature in that line must make a DC 21 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Sleep Breath.*** The dragon exhales sleep gas in a 18 *(27m)* cone. Each creature in that area must succeed on a DC 21 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -591,7 +591,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/133/1000/1000/636252756157427258.jpeg)
 >
@@ -599,7 +599,7 @@
 >   *Gargantuan dragon, lawful good*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 444 (24d20 + 192)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -608,7 +608,7 @@
 >   **Saving Throws**: DEX +7, CON +15, WIS +10, CHA +12
 >   **Skills**: Insight +10, Perception +17, Stealth +7
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 27
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 27
 >   **Languages**: Common, Draconic
 >   **Challenge**: 22 (41,000 XP)
 > #### Traits 
@@ -617,13 +617,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
->   ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 15 ft., one target. *Hit:* 20 (2d10 + 9) piercing damage.
->   ***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 10 ft., one target. *Hit:* 16 (2d6 + 9) slashing damage.
->   ***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 20 ft., one target. *Hit:* 18 (2d8 + 9) bludgeoning damage.
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+>   ***Bite.*** *Melee Weapon Attack:* +16 to hit, reach 3 *(4.5m)*, one target. *Hit:* 20 (2d10 + 9) piercing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +16 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d6 + 9) slashing damage.
+>   ***Tail.*** *Melee Weapon Attack:* +16 to hit, reach 4 *(6m)*, one target. *Hit:* 18 (2d8 + 9) bludgeoning damage.
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 20 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.
->   ***Lightning Breath.*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
->   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 60 feet away from the dragon.
+>   ***Lightning Breath.*** The dragon exhales lightning in a 24 *(36m)* line that is 2 *(3m)* wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 23 Strength saving throw. On a failed save, the creature is pushed 12 *(18m)* away from the dragon.
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -631,7 +631,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn.
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check.
 >   ***Tail Attack.*** The dragon makes a tail attack.
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/135/315/315/636252756372367681.jpeg)
 >
@@ -639,7 +639,7 @@
 >   *Gargantuan dragon, chaotic good*
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 350 (20d20 + 140)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -648,7 +648,7 @@
 >   **Saving Throws**: DEX +8, CON +14, WIS +10, CHA +11
 >   **Skills**: Deception +11, Perception +17, Stealth +8
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 27
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 27
 >   **Languages**: Common, Draconic
 >   **Challenge**: 21 (33,000 XP)
 > #### Traits 
@@ -656,13 +656,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 4 *(6m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Acid Breath.*** The dragon exhales acid in an 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one. 
->   ***Slowing Breath.*** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. 
+>   ***Acid Breath.*** The dragon exhales acid in an 18 *(27m)* line that is 2 *(3m)* wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one. 
+>   ***Slowing Breath.*** The dragon exhales gas in a 18 *(27m)* cone. Each creature in that area must succeed on a DC 22 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -670,7 +670,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/137/1000/1000/636252756714896878.jpeg)
 >
@@ -678,7 +678,7 @@
 >   *Gargantuan dragon, lawful good*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 546 (28d20 + 252)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -687,7 +687,7 @@
 >   **Saving Throws**: DEX +9, CON +16, WIS +10, CHA +16
 >   **Skills**: Insight +10, Perception +17, Persuasion +16, Stealth +9
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 27
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 27
 >   **Languages**: Common, Draconic
 >   **Challenge**: 24 (62,000 XP)
 > #### Traits 
@@ -696,13 +696,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10 + 10) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6 + 10) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 3 *(4.5m)*, one target. *Hit:* 21 (2d10 + 10) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d6 + 10) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 4 *(6m)*, one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 24 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Weakening Breath.*** The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Fire Breath.*** The dragon exhales fire in a 18 *(27m)* cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 71 (13d10) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Weakening Breath.*** The dragon exhales gas in a 18 *(27m)* cone. Each creature in that area must succeed on a DC 24 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -710,7 +710,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/139/315/315/636252756930565101.jpeg)
 >
@@ -718,7 +718,7 @@
 >   *Gargantuan dragon, lawful evil*
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 385 (22d20 + 154)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -728,7 +728,7 @@
 >   **Skills**: Deception +11, Insight +10, Perception +17, Persuasion +11, Stealth +8
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 27
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 27
 >   **Languages**: Common, Draconic
 >   **Challenge**: 22 (41,000 XP)
 > #### Traits 
@@ -737,17 +737,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage. 
->   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 22 (4d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 20 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 90-­-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +15 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage plus 10 (3d6) poison damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +15 to hit, reach 2 *(3m)*, one target. *Hit:* 22 (4d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +15 to hit, reach 4 *(6m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 18 *(27m)* cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 77 (22d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/141/1000/1000/636252757319464533.jpeg)
 >
@@ -755,7 +755,7 @@
 >   *Gargantuan dragon, chaotic evil*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 546 (28d20 + 252)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -764,7 +764,7 @@
 >   **Saving Throws**: DEX +7, CON +16, WIS +9, CHA +13
 >   **Skills**: Perception +16, Stealth +7
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 26
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 26
 >   **Languages**: Common, Draconic
 >   **Challenge**: 24 (62,000 XP)
 > #### Traits 
@@ -772,17 +772,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage. 
->   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6 + 10) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 3 *(4.5m)*, one target. *Hit:* 21 (2d10 + 10) piercing damage plus 14 (4d6) fire damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d6 + 10) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 4 *(6m)*, one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 18 *(27m)* cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/147/1000/1000/636252758629652181.jpeg)
 >
@@ -790,7 +790,7 @@
 >   *Gargantuan dragon, lawful good*
 >   **Armor Class**: 22 (Natural Armor)
 >   **Hit Points**: 487 (25d20 + 225)
->   **Speed**: 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -799,7 +799,7 @@
 >   **Saving Throws**: DEX +7, CON +16, WIS +9, CHA +13
 >   **Skills**: Arcana +11, History +11, Perception +16, Stealth +7
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 26
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 26
 >   **Languages**: Common, Draconic
 >   **Challenge**: 23 (50,000 XP)
 > #### Traits 
@@ -807,13 +807,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 15 ft., one target. *Hit:* 21 (2d10 + 10) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 10 ft., one target. *Hit:* 17 (2d6 + 10) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 20 ft., one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 3 *(4.5m)*, one target. *Hit:* 21 (2d10 + 10) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +17 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d6 + 10) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +17 to hit, reach 4 *(6m)*, one target. *Hit:* 19 (2d8 + 10) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Cold Breath.*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one. 
->   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 90-foot cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Cold Breath.*** The dragon exhales an icy blast in a 18 *(27m)* cone. Each creature in that area must make a DC 24 Constitution saving throw, taking 67 (15d8) cold damage on a failed save, or half as much damage on a successful one. 
+>   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 18 *(27m)* cone. Each creature in that area must succeed on a DC 24 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice). 
 >   In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 > 
@@ -821,7 +821,7 @@
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/151/1000/1000/636252758799225927.jpeg)
 >
@@ -829,7 +829,7 @@
 >   *Gargantuan dragon, chaotic evil*
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 333 (18d20 + 144)
->   **Speed**: 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, burrow 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -838,7 +838,7 @@
 >   **Saving Throws**: DEX +6, CON +14, WIS +7, CHA +8
 >   **Skills**: Perception +13, Stealth +6
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 23
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 23
 >   **Languages**: Common, Draconic
 >   **Challenge**: 20 (25,000 XP)
 > #### Traits 
@@ -847,17 +847,17 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 15 ft., one target. *Hit:* 19 (2d10 + 8) piercing damage plus 9 (2d8) cold damage. 
->   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 20 ft., one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
->   ***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
->   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (2d10 + 8) piercing damage plus 9 (2d8) cold damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 4 *(6m)*, one target. *Hit:* 17 (2d8 + 8) bludgeoning damage. 
+>   ***Frightful Presence.*** Each creature of the dragon's choice that is within 24 *(36m)* of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours. 
+>   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 18 *(27m)* cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The dragon regains spent legendary actions at the start of its turn. 
 >   ***Detect.*** The dragon makes a Wisdom (Perception) check. 
 >   ***Tail Attack.*** The dragon makes a tail attack. 
->   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+>   ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 3 *(4.5m)* of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/153/1000/1000/636252758955886210.jpeg)
 >
@@ -865,7 +865,7 @@
 >   *Large monstrosity, lawful neutral*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 199 (19d10 + 95)
->   **Speed**: 40 ft., fly 60 ft.
+>   **Speed**: 8 *(12m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -875,7 +875,7 @@
 >   **Skills**: Arcana +9, Perception +10, Religion +15
 >   **Damage Immunities**: Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Frightened
->   **Senses**: Truesight 120 ft.,  Passive Perception 20
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 20
 >   **Languages**: Common, Sphinx
 >   **Challenge**: 17 (18,000 XP)
 > #### Traits 
@@ -892,8 +892,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The sphinx makes two claw attacks. 
->   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 17 (2d10 + 6) slashing damage. 
->   ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw. 
+>   ***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 1 *(1.5m)*, one target. *Hit:* 17 (2d10 + 6) slashing damage. 
+>   ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 150m of the sphinx and able to hear the roar must make a saving throw. 
 >   ***First Roar.*** Each creature that fails a DC 18 Wisdom saving throw is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Second Roar.*** Each creature that fails a DC 18 Wisdom saving throw is deafened and frightened for 1 minute. A frightened creature is paralyzed and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
 >   ***Third Roar.*** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn't knocked prone.
@@ -901,7 +901,7 @@
 > #### Legendary Actions 
 >  The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn. 
 >   ***Claw Attack.*** The sphinx makes one claw attack. 
->   ***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see. 
+>   ***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see. 
 >   ***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/157/1000/1000/636252759145617281.jpeg)
@@ -910,7 +910,7 @@
 >   *Medium construct, unaligned*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 33 (6d8 + 6)
->   **Speed**: 25 ft.
+>   **Speed**: 5 *(7.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -918,7 +918,7 @@
 >
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Blindsight 60 ft.,  Passive Perception 6
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 6
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -927,7 +927,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The armor makes two melee attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/8/429/1000/1000/636306156895834255.jpeg)
 >
@@ -935,18 +935,18 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 14 (Natural Armor), 11 While Prone
 >   **Hit Points**: 39 (6d10 + 6)
->   **Speed**: 30 ft., burrow 10 ft.
+>   **Speed**: 6 *(9m)*, burrow 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (17) | +0 (11) | +1 (13) | -5 (1) | +1 (13) | -2 (6)
 >
->   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*, Tremorsense 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so. 
->   ***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so. 
+>   ***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 6 *(9m)* long and 1 *(1.5m)* wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/161/315/315/636252759871983921.jpeg)
 >
@@ -954,7 +954,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 15 Natural
 >   **Hit Points**: 68 (8d12 + 16)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -964,7 +964,7 @@
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
->   ***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>   ***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 18 (4d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -972,7 +972,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 19 (3d8 + 6)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -984,8 +984,8 @@
 >   **Challenge**: 1/2 (100 XP)
 > #### Actions 
 >   ***Multiattack.*** The ape makes two fist attacks. 
->   ***Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/50 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
+>   ***Fist.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) bludgeoning damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +5 to hit, range 25/10 *(15m)*, one target. *Hit:* 6 (1d6 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -993,7 +993,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 (15 With Mage Armor)
 >   **Hit Points**: 99 (18d8 + 18)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1020,7 +1020,7 @@
 >   *The archmage casts mind blank, stoneskin and mage armor spells on itself before combat.
 > 
 > #### Actions 
->   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+>   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/167/1000/1000/636252760213195530.jpeg)
 >
@@ -1028,7 +1028,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 15 (Studded Leather)
 >   **Hit Points**: 78 (12d8 + 24)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1043,12 +1043,12 @@
 > #### Traits 
 >   ***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit. 
 >   ***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. 
->   ***Sneak Attack.*** Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
+>   ***Sneak Attack.*** Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 1 *(1.5m)* of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.
 > 
 > #### Actions 
 >   ***Multiattack.*** The assassin makes two shortsword attacks. 
->   ***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. 
->   ***Light Crossbow.*** *Ranged Weapon Attack:* +6 to hit, range 80/320 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Shortsword.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. 
+>   ***Light Crossbow.*** *Ranged Weapon Attack:* +6 to hit, range 80/34 *(6m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/910/315/315/636334293020978804.png)
 >
@@ -1056,7 +1056,7 @@
 >   *Small plant, unaligned*
 >   **Armor Class**: 9 
 >   **Hit Points**: 10 (3d6)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1070,7 +1070,7 @@
 >   ***False Appearance.*** While the shrub remains motionless, it is indistinguishable from a normal shrub.
 > 
 > #### Actions 
->   ***Rake.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) slashing damage.
+>   ***Rake.*** *Melee Weapon Attack:* +1 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 (1d4 − 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/659/plant.jpg)
 >
@@ -1078,7 +1078,7 @@
 >   *Huge plant, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 59 (7d12 + 14)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1093,7 +1093,7 @@
 >   ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 > 
 > #### Actions 
->   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 14 (3d6 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/659/plant.jpg)
 >
@@ -1101,7 +1101,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1111,7 +1111,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1119,7 +1119,7 @@
 >   *Medium elemental, lawful neutral*
 >   **Armor Class**: 17 (Natural Armor, Shield)
 >   **Hit Points**: 39 (6d8 + 12)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1132,12 +1132,12 @@
 >   **Languages**: Ignan
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. 
+>   ***Heated Body.*** A creature that touches the azer or hits it with a melee attack while within 1 *(1.5m)* of it takes 5 (1d10) fire damage. 
 >   ***Heated Weapons.*** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack). 
->   ***Illumination.*** The azer sheds bright light in a 10-­foot radius and dim light for an additional 10 feet.
+>   ***Illumination.*** The azer sheds bright light in a radius 2 *(3m)* and dim light for an additional 2 *(3m)*.
 > 
 > #### Actions 
->   ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
+>   ***Warhammer.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/171/1000/1000/636252761112348397.jpeg)
 >
@@ -1145,7 +1145,7 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1154,10 +1154,10 @@
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
->   ***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The baboon has advantage on an attack roll against a creature if at least one of the baboon's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 − 1) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 (1d4 − 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1165,19 +1165,19 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 3 (1d4 + 1)
->   **Speed**: 20 ft., burrow 5 ft.
+>   **Speed**: 4 *(6m)*, burrow 1 *(1.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (4) | +0 (11) | +1 (12) | -4 (2) | +1 (12) | -3 (5)
->   **Senses**: Darkvision 30 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/528/1000/1000/636376327632236333.jpeg)
 >
@@ -1185,7 +1185,7 @@
 >   *Huge fiend, chaotic evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 262 (21d12 + 126)
->   **Speed**: 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1195,20 +1195,20 @@
 >   **Damage Resistances**: Cold, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 13
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 13
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 19 (22,000 XP)
 > #### Traits 
->   ***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons. 
->   ***Fire Aura.*** At the start of each of the balor's turns, each creature within 5 feet of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage. 
+>   ***Death Throes.*** When the balor dies, it explodes, and each creature within 6 *(9m)* of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons. 
+>   ***Fire Aura.*** At the start of each of the balor's turns, each creature within 1 *(1.5m)* of it takes 10 (3d6) fire damage, and flammable objects in the aura that aren't being worn or carried ignite. A creature that touches the balor or hits it with a melee attack while within 1 *(1.5m)* of it takes 10 (3d6) fire damage. 
 >   ***Magic Resistance.*** The balor has advantage on saving throws against spells and other magical effects. 
 >   ***Magic Weapons.*** The balor's weapon attacks are magical.
 > 
 > #### Actions 
 >   ***Multiattack.*** The balor makes two attacks: one with its longsword and one with its whip. 
->   ***Longsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice. 
->   ***Whip.*** *Melee Weapon Attack:* +14 to hit, reach 30 ft., one target. *Hit:* 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 25 feet toward the balor. 
->   ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>   ***Longsword.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 21 (3d8 + 8) slashing damage plus 13 (3d8) lightning damage. If the balor scores a critical hit, it rolls damage dice three times, instead of twice. 
+>   ***Whip.*** *Melee Weapon Attack:* +14 to hit, reach 6 *(9m)*, one target. *Hit:* 15 (2d6 + 8) slashing damage plus 10 (3d6) fire damage, and the target must succeed on a DC 20 Strength saving throw or be pulled up to 5 *(7.5m)* toward the balor. 
+>   ***Teleport.*** The balor magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/175/1000/1000/636252761612038117.jpeg)
 >
@@ -1216,7 +1216,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 (Leather Armor)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1226,8 +1226,8 @@
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage. 
->   ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 80 ft./320 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>   ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) slashing damage. 
+>   ***Light Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 16 *(24m)*/34 *(6m)*, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -1235,7 +1235,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 15 (Studded Leather)
 >   **Hit Points**: 65 (10d8 + 20)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1248,8 +1248,8 @@
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
 >   ***Multiattack.*** The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers. 
->   ***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage. 
->   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+>   ***Scimitar.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage. 
+>   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 5 (1d4 + 3) piercing damage.
 > 
 >  ***Reactions***: ***Parry.*** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 > 
@@ -1259,8 +1259,8 @@
 >   *Medium undead, chaotic evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 58 (13d8)
->   **Speed**: 40 ft., (hover)\r
-                    , walking 0 ft.
+>   **Speed**: 8 *(12m)*, (hover)\r
+                    , walking 0
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1269,7 +1269,7 @@
 >   **Damage Resistances**: Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >  **Damage Immunities**: Cold, Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, PetrifiedPoisoned,**rone** Restraine
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common, Elvish
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
@@ -1277,9 +1277,9 @@
 >   ***Incorporeal Movement.*** The banshee can move through other creatures and objects as if they were difficult terrain. She takes 5 (1d10) force damage if she ends her turn inside an object.
 > 
 > #### Actions 
->   ***Corrupting Touch.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 12 (3d6 + 2) necrotic damage.
->   ***Horrifying Visage.*** Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the banshee’s Horrifying Visage for the next 24 hours.
->   ***Wail (1/Day).*** The banshee releases a mournful wail, provided that she isn’t in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.
+>   ***Corrupting Touch.*** *Melee Spell Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (3d6 + 2) necrotic damage.
+>   ***Horrifying Visage.*** Each non-undead creature within 12 *(18m)* of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target’s saving throw is successful or the effect ends for it, the target is immune to the banshee’s Horrifying Visage for the next 24 hours.
+>   ***Wail (1/Day).*** The banshee releases a mournful wail, provided that she isn’t in sunlight. This wail has no effect on constructs and undead. All other creatures within 6 *(9m)* of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (3d6) psychic damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/8/446/315/315/636306384206418474.jpeg)
 >
@@ -1287,7 +1287,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 110 (13d8 + 52)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1298,8 +1298,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
 >   ***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it. 
@@ -1308,9 +1308,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice. 
->   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. 
->   ***Hurl Flame.*** Ranged Spell Attack: +5 to hit, range 150 ft., one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+>   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage. 
+>   ***Hurl Flame.*** Ranged Spell Attack: +5 to hit, range 30 *(45m)*, one target. *Hit:* 10 (3d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/486/315/315/636376302569423870.jpeg)
 >
@@ -1318,22 +1318,22 @@
 >   *Medium monstrosity, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | -1 (8) | +2 (15) | -4 (2) | -1 (8) | -2 (7)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
->   ***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
+>   ***Petrifying Gaze.*** If a creature starts its turn within 6 *(9m)* of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.
 >   A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again.
->   If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
+>   If it looks at the basilisk in the meantime, it must immediately make the save. If the basilisk sees its reflection within 6 *(9m)* of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/185/1000/1000/636252762168821795.jpeg)
 >
@@ -1341,12 +1341,12 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 5 ft., fly 30 ft.
+>   **Speed**: 1 *(1.5m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +2 (15) | -1 (8) | -4 (2) | +1 (12) | -3 (4)
->   **Senses**: Blindsight 60 ft.,  Passive Perception 11
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -1354,7 +1354,7 @@
 >   ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/305/1000/1000/636379812593010967.jpeg)
 >
@@ -1362,7 +1362,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1372,18 +1372,18 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision. 
 >   ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects. 
->   ***Steadfast.*** The devil can't be frightened while it can see an allied creature within 30 feet of it.
+>   ***Steadfast.*** The devil can't be frightened while it can see an allied creature within 6 *(9m)* of it.
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes two attacks: one with its beard and one with its glaive. 
->   ***Beard.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
->   ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 10 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
+>   ***Beard.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 6 (1d8 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. While poisoned in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Glaive.*** *Melee Weapon Attack:* +5 to hit, reach 2 *(3m)*, one target. *Hit:* 8 (1d10 + 3) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (1d10) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (1d10). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/193/1000/1000/636252763397604505.jpeg)
 >
@@ -1391,7 +1391,7 @@
 >   *Huge monstrosity, neutral evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 168 (16d12 + 64)
->   **Speed**: 50 ft., climb 40 ft.
+>   **Speed**: 10 *(15m)*, climb 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1399,16 +1399,16 @@
 >
 >   **Skills**: Perception +6, Stealth +7
 >   **Damage Immunities**: Lightning
->   **Senses**: Darkvision 90 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 18 *(27m)*,  Passive Perception 16
 >   **Languages**: Draconic
 >   **Challenge**: 11 (7,200 XP)
 > #### Actions 
 >   ***Multiattack.*** The behir makes two attacks: one with its bite and one to constrict. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage. 
->   ***Constrict.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends. 
->   ***Lightning Breath (Recharge 5–6).*** The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one. 
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 22 (3d10 + 6) piercing damage. 
+>   ***Constrict.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one Large or smaller creature. *Hit:* 17 (2d10 + 6) bludgeoning damage plus 17 (2d10 + 6) slashing damage. The target is grappled (escape DC 16) if the behir isn't already constricting a creature, and the target is restrained until this grapple ends. 
+>   ***Lightning Breath (Recharge 5–6).*** The behir exhales a line of lightning that is 4 *(6m)* long and 1 *(1.5m)* wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one. 
 >   ***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time. 
->   If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 feet of movement, exiting prone.
+>   If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 2 *(3m)* of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 3 *(4.5m)* of movement, exiting prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/195/1000/1000/636252763748680024.jpeg)
 >
@@ -1416,7 +1416,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 13 (Hide Armor)
 >   **Hit Points**: 67 (9d8 + 27)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1429,7 +1429,7 @@
 >   ***Reckless.*** At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 > 
 > #### Actions 
->   ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
+>   ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (1d12 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -1437,7 +1437,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 19 (3d8 + 6)
->   **Speed**: 40 ft., climb 30 ft.
+>   **Speed**: 8 *(12m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1452,15 +1452,15 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) slashing damage.
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
 # Black Dragon Wyrmling
 >   *Medium dragon, chaotic evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 33 (6d8 + 6)
->   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1469,15 +1469,15 @@
 >   **Saving Throws**: DEX +4, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +4
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Amphibious.*** The dragon can breathe air and water.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
->   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 15-­foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) acid damage.
+>   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 3 *(4.5m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/496/1000/1000/636376308217017511.jpeg)
 >
@@ -1485,7 +1485,7 @@
 >   *Large ooze, unaligned*
 >   **Armor Class**: 7 
 >   **Hit Points**: 85 (10d10 + 30)
->   **Speed**: 20 ft., climb 20 ft.
+>   **Speed**: 4 *(6m)*, climb 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1493,18 +1493,18 @@
 >
 >   **Damage Immunities**: Acid, Cold, Lightning, Slashing
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
->   **Senses**: Blindsight 60 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
->   ***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing. 
->   ***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed.
+>   ***Amorphous.*** The pudding can move through a space as narrow as 3cm wide without squeezing. 
+>   ***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 1 *(1.5m)* of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed.
 >   Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
->   The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round. 
+>   The pudding can eat through 5cm thick, nonmagical wood or metal in 1 round. 
 >   ***Spider Climb.*** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 > 
 > #### Actions 
->   ***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+>   ***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 > 
 >  ***Reactions***: ***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 > 
@@ -1514,7 +1514,7 @@
 >   *Medium fey, lawful good*
 >   **Armor Class**: 13 
 >   **Hit Points**: 22 (4d8 + 4)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1528,8 +1528,8 @@
 >   ***Keen Hearing and Smell.*** The dog has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. 
->   ***Teleport (Recharge 4–6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 40 feet to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage. 
+>   ***Teleport (Recharge 4–6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 8 *(12m)* to an unoccupied space it can see. Before or after teleporting, the dog can make one bite attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/205/315/315/636252764168652859.jpeg)
 >
@@ -1537,7 +1537,7 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 7 (2d6)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1548,10 +1548,10 @@
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight. 
->   ***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1559,7 +1559,7 @@
 >   *Medium dragon, lawful evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 52 (8d8 + 16)
->   **Speed**: 30 ft., burrow 15 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, burrow 3 *(4.5m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1568,12 +1568,12 @@
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage. 
->   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 30-­foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d10 + 3) piercing damage plus 3 (1d6) lightning damage. 
+>   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in a 6 *(9m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/209/1000/1000/636252764637244026.jpeg)
 >
@@ -1581,7 +1581,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1591,11 +1591,11 @@
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
->   ***Charge.*** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the boar moves at least 4 *(6m)* straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
 >   ***Relentless (Recharges after a Short or Long Rest).*** If the boar takes 7 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 > 
 > #### Actions 
->   ***Tusk.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) slashing damage.
+>   ***Tusk.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1603,7 +1603,7 @@
 >   *Large fiend, lawful evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
->   **Speed**: 40 ft., fly 40 ft.
+>   **Speed**: 8 *(12m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1614,8 +1614,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 9 (5,000 XP)
 > #### Traits 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision. 
@@ -1623,8 +1623,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes three attacks: two with its claws and one with its sting. 
->   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage. 
->   ***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 8 (1d8 + 4) slashing damage. 
+>   ***Sting.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/481/1000/1000/636328225187253200.jpeg)
 >
@@ -1632,7 +1632,7 @@
 >   *Medium dragon, chaotic good*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 16 (3d8 + 3)
->   **Speed**: 30 ft., burrow 15 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, burrow 3 *(4.5m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1641,14 +1641,14 @@
 >   **Saving Throws**: DEX +2, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 1 (200 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Sleep Breath.*** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+>   ***Fire Breath.*** The dragon exhales fire in an 4 *(6m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Sleep Breath.*** The dragon exhales sleep gas in a 3 *(4.5m)* cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/215/315/315/636252764963208954.jpeg)
 >
@@ -1656,7 +1656,7 @@
 >   *Medium dragon, lawful good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 32 (5d8 + 10)
->   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1665,17 +1665,17 @@
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Amphibious.*** The dragon can breathe air and water.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d10 + 3) piercing damage.
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.
->   ***Lightning Breath.*** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
->   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.
+>   ***Lightning Breath.*** The dragon exhales lightning in a 8 *(12m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (3d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 6 *(9m)* away from the dragon.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/492/315/315/636376306909593829.jpeg)
 >
@@ -1683,7 +1683,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 34 (4d10 + 12)
->   **Speed**: 40 ft., climb 30 ft.
+>   **Speed**: 8 *(12m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1698,8 +1698,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1707,14 +1707,14 @@
 >   *Medium humanoid, chaotic evil*
 >   **Armor Class**: 16 (Hide Armor, Shield)
 >   **Hit Points**: 27 (5d8 + 5)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +2 (14) | +1 (13) | -1 (8) | +0 (11) | -1 (9)
 >
 >   **Skills**: Stealth +6, Survival +2
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common, Goblin
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -1722,8 +1722,8 @@
 >   ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 > 
 > #### Actions 
->   ***Morningstar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8 + 2) piercing damage. 
->   ***Javelin.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
+>   ***Morningstar.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d8 + 2) piercing damage. 
+>   ***Javelin.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/221/1000/1000/636252765234633232.jpeg)
 >
@@ -1731,22 +1731,22 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 94 (9d10 + 45)
->   **Speed**: 40 ft., burrow 40 ft.
+>   **Speed**: 8 *(12m)*, burrow 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | +0 (11) | +5 (21) | -4 (2) | +0 (10) | -3 (5)
 >
 >   **Skills**: Perception +6
->   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 12 *(18m)*, Tremorsense 12 *(18m)*,  Passive Perception 16
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Standing Leap.*** The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
+>   ***Standing Leap.*** The bulette's long jump is up to 6 *(9m)* and its high jump is up to 3 *(4.5m)*, with or without a running start.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 30 (4d12 + 4) piercing damage. 
->   ***Deadly Leap.*** If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 30 (4d12 + 4) piercing damage. 
+>   ***Deadly Leap.*** If the bulette jumps at least 3 *(4.5m)* as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 1 *(1.5m)* out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls prone in the bulette's space.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/223/315/315/636252765369632881.jpeg)
 >
@@ -1754,7 +1754,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 9 
 >   **Hit Points**: 15 (2d10 + 4)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1764,7 +1764,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1772,7 +1772,7 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 40 ft., climb 30 ft.
+>   **Speed**: 8 *(12m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1785,7 +1785,7 @@
 >   ***Keen Smell.*** The cat has advantage on Wisdom (Perception) checks that rely on smell.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+>   ***Claws.*** *Melee Weapon Attack:* +0 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -1793,7 +1793,7 @@
 >   *Large monstrosity, neutral good*
 >   **Armor Class**: 12 
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1804,13 +1804,13 @@
 >   **Languages**: Elvish, Sylvan
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Charge.*** If the centaur moves at least 30 feet straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
+>   ***Charge.*** If the centaur moves at least 6 *(9m)* straight toward a target and then hits it with a pike attack on the same turn, the target takes an extra 10 (3d6) piercing damage.
 > 
 > #### Actions 
 >   ***Multiattack.*** The centaur makes two attacks: one with its pike and one with its hooves or two with its longbow. 
->   ***Pike.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage. 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
->   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Pike.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 9 (1d10 + 4) piercing damage. 
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/227/1000/1000/636252765573266420.jpeg)
 >
@@ -1818,7 +1818,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 85 (10d8 + 40)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1828,8 +1828,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision. 
@@ -1837,11 +1837,11 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes two attacks with its chains. 
->   ***Chain.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns. 
->   ***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 60 feet of it magically sprout razor-­edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried. 
+>   ***Chain.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. The target is grappled (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is restrained and takes 7 (2d6) piercing damage at the start of each of its turns. 
+>   ***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 12 *(18m)* of it magically sprout razor-­edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried. 
 >   Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is incapacitated or dies.
 > 
->  ***Reactions***: ***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
+>  ***Reactions***: ***Unnerving Mask.*** When a creature the devil can see starts its turn within 6 *(9m)* of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be frightened until the end of its turn.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/235/1000/1000/636252766618069332.jpeg)
 >
@@ -1849,22 +1849,22 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | +0 (11) | +4 (19) | -4 (3) | +2 (14) | +0 (10)
 >
 >   **Skills**: Perception +8
->   **Senses**: Darkvision 60 ft.,  Passive Perception 18
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 18
 >   **Languages**: Understands Draconic but can't speak  it
 >   **Challenge**: 6 (2,300 XP)
 > #### Actions 
 >   ***Multiattack.*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. 
->   ***Horns.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) bludgeoning damage. 
->   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
->   ***Fire Breath (Recharge 5–6).*** The dragon head exhales fire in a 15-­-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage. 
+>   ***Horns.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (1d12 + 4) bludgeoning damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Fire Breath (Recharge 5–6).*** The dragon head exhales fire in a 3 *(4.5m)* cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (7d8) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/237/1000/1000/636252766770156389.jpeg)
 >
@@ -1872,7 +1872,7 @@
 >   *Large aberration, chaotic evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 93 (11d10 + 33)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1881,16 +1881,16 @@
 >   **Skills**: Perception +4
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Understands Deep Speech but can't speak
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
 >   ***Amphibious.*** The chuul can breathe air and water.
->   ***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.
+>   ***Sense Magic.*** The chuul senses magic within 24 *(36m)* of it at will. This trait otherwise works like the detect magic spell but isn't itself magical.
 > 
 > #### Actions 
 >   ***Multiattack.*** The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
->   ***Pincer.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
+>   ***Pincer.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. The target is grappled (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures grappled.
 >   ***Tentacles.*** One creature grappled by the chuul must succeed on a DC 13 Constitution saving throw or be poisoned for 1 minute. Until this poison ends, the target is paralyzed. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/241/1000/1000/636252767122656355.jpeg)
@@ -1899,7 +1899,7 @@
 >   *Large construct, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 133 (14d10 + 56)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1907,7 +1907,7 @@
 >
 >   **Damage Immunities**: Acid, Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 9 (5,000 XP)
 > #### Traits 
@@ -1919,7 +1919,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The golem makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic. 
+>   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic. 
 >   ***Haste (Recharge 5–6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/243/315/315/636252767318152303.jpeg)
@@ -1928,14 +1928,14 @@
 >   *Large aberration, chaotic neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 78 (12d10 + 12)
->   **Speed**: 10 ft., fly 40 ft.
+>   **Speed**: 2 *(3m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (17) | +2 (15) | +1 (12) | +1 (13) | +1 (12) | +2 (14)
 >
 >   **Skills**: Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: Deep Speech, Undercommon
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
@@ -1945,9 +1945,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The cloaker makes two attacks: one with its bite and one with its tail. 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 5 feet of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check. 
->   ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 7 (1d8 + 3) slashing damage. 
->   ***Moan.*** Each creature within 60 feet of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 10 (2d6 + 3) piercing damage, and if the target is Large or smaller, the cloaker attaches to it. If the cloaker has advantage against the target, the cloaker attaches to the target's head, and the target is blinded and unable to breathe while the cloaker is attached. While attached, the cloaker can make this attack only against the target and has advantage on the attack roll. The cloaker can detach itself by spending 1 *(1.5m)* of its movement. A creature, including the target, can take its action to detach the cloaker by succeeding on a DC 16 Strength check. 
+>   ***Tail.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one creature. *Hit:* 7 (1d8 + 3) slashing damage. 
+>   ***Moan.*** Each creature within 12 *(18m)* of the cloaker that can hear its moan and that isn't an aberration must succeed on a DC 13 Wisdom saving throw or become frightened until the end of the cloaker's next turn. If a creature's saving throw is successful, the creature is immune to the cloaker's moan for the next 24 hours. 
 >   ***Phantasms (Recharges after a Short or Long Rest).*** The cloaker magically creates three illusory duplicates of itself if it isn't in bright light. The duplicates move with it and mimic its actions, shifting position so as to make it impossible to track which cloaker is the real one. If the cloaker is ever in an area of bright light, the duplicates disappear.
 >   Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
 >   A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
@@ -1958,7 +1958,7 @@
 >   *Huge giant, neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 200 (16d12 + 96)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -1978,8 +1978,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The giant makes two morningstar attacks. 
->   ***Morningstar.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 21 (3d8 + 8) piercing damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +12 to hit, range 60/240 ft., one target. *Hit:* 30 (4d10 + 8) bludgeoning damage.
+>   ***Morningstar.*** *Melee Weapon Attack:* +12 to hit, reach 2 *(3m)*, one target. *Hit:* 21 (3d8 + 8) piercing damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +12 to hit, range 60/28 *(12m)*, one target. *Hit:* 30 (4d10 + 8) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/249/1000/1000/636252767619414260.jpeg)
 >
@@ -1987,16 +1987,16 @@
 >   *Small monstrosity, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 27 (6d6 + 6)
->   **Speed**: 20 ft., fly 40 ft.
+>   **Speed**: 4 *(6m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -2 (6) | +1 (12) | +1 (12) | -4 (2) | +1 (13) | -3 (5)
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 3 (1d4 + 1) piercing damage, and the target must succeed on a DC 11 Constitution saving throw against being magically petrified. On a failed save, the creature begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified for 24 hours.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/251/315/315/636252767744669874.jpeg)
 >
@@ -2004,7 +2004,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 10 
 >   **Hit Points**: 4 (1d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2014,7 +2014,7 @@
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 0 (10 XP)
 > #### Actions 
->   ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+>   ***Club.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -2022,18 +2022,18 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (2d10 + 2)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +2 (14) | +1 (12) | -5 (1) | +0 (10) | -4 (3)
 >
->   **Senses**: Blindsight 10 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Constrict.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 14). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2041,7 +2041,7 @@
 >   *Medium dragon, chaotic good*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
->   **Speed**: 30 ft., climb 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2050,14 +2050,14 @@
 >   **Saving Throws**: DEX +3, CON +3, WIS +2, CHA +3
 >   **Skills**: Perception +4, Stealth +3
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 1 (200 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Acid Breath.*** The dragon exhales acid in an 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one. 
->   ***Slowing Breath.*** The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+>   ***Acid Breath.*** The dragon exhales acid in an 4 *(6m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one. 
+>   ***Slowing Breath.*** The dragon exhales gas in a 3 *(4.5m)* cone. Each creature in that area must succeed on a DC 11 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/255/1000/1000/636252768002215182.jpeg)
 >
@@ -2065,7 +2065,7 @@
 >   *Medium celestial, lawful good*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 97 (13d8 + 39)
->   **Speed**: 30 ft., fly 90 ft.
+>   **Speed**: 6 *(9m)*, fly 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2074,8 +2074,8 @@
 >   **Saving Throws**: CON +5, WIS +7, CHA +6
 >   **Damage Resistances**: Radiant
 >   **Damage Immunities**: Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Truesight 120 ft.,  Passive Perception 15
->   **Languages**: All, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 15
+>   **Languages**: All, Telepathy 24 *(36m)*
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
 >   ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components: 
@@ -2086,8 +2086,8 @@
 >   ***Shielded Mind.*** The couatl is immune to scrying and to any effect that would sense its emotions, read its thoughts, or detect its location.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one creature. *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake. 
->   ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target. 
+>   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 8 (1d6 + 5) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 24 hours. Until this poison ends, the target is unconscious. Another creature can use an action to shake the target awake. 
+>   ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one Medium or smaller creature. *Hit:* 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the target is restrained, and the couatl can't constrict another target. 
 >   ***Change Shape.*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 >   In a new form, the couatl retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and other actions are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks. If the new form has a bite attack, the couatl can use its bite in that form.
 > 
@@ -2097,20 +2097,20 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 20 ft., swim 20 ft.
+>   **Speed**: 4 *(6m)*, swim 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +0 (11) | +0 (10) | -5 (1) | -1 (8) | -4 (2)
 >   **Skills**: Stealth +2
->   **Senses**: Blindsight 30 ft.,  Passive Perception 9
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Amphibious.*** The crab can breathe air and water.
 > 
 > #### Actions 
->   ***Claw.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage.
+>   ***Claw.*** *Melee Weapon Attack:* +0 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2118,7 +2118,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 20 ft., swim 30 ft.
+>   **Speed**: 4 *(6m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2132,7 +2132,7 @@
 >   ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (escape DC 12). Until this grapple ends, the target is restrained, and the crocodile can't bite another target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2140,7 +2140,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 13 (Leather Armor)
 >   **Hit Points**: 33 (6d8 + 6)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2159,7 +2159,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The fanatic makes two melee attacks. 
->   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage.
+>   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one creature. *Hit:* 4 (1d4 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/259/1000/1000/636252768307230924.jpeg)
 >
@@ -2167,7 +2167,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 (Leather Armor)
 >   **Hit Points**: 9 (2d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2181,7 +2181,7 @@
 >   ***Dark Devotion.*** The cultist has advantage on saving throws against being charmed or frightened.
 > 
 > #### Actions 
->   ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) slashing damage.
+>   ***Scimitar.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d6 + 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/481/1000/1000/636364323106021375.png)
 >
@@ -2189,7 +2189,7 @@
 >   *Huge giant, chaotic neutral*
 >   **Armor Class**: 14 Natural Armor
 >   **Hit Points**: 138 (12d12 + 60)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2199,12 +2199,12 @@
 >   **Languages**: Giant
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
->   ***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 30 feet away.
+>   ***Poor Depth Perception.*** The cyclops has disadvantage on any attack roll against a target more than 6 *(9m)* away.
 > 
 > #### Actions 
 >   ***Multiattack.*** The cyclops makes two greatclub attacks.
->   ***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
->   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 30/120 ft., one target. *Hit:* 28 (4d10 + 6) bludgeoning damage.
+>   ***Greatclub.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 19 (3d8 + 6) bludgeoning damage.
+>   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 28 (4d10 + 6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/470/1000/1000/636376290137285130.jpeg)
 >
@@ -2212,14 +2212,14 @@
 >   *Small monstrosity, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 22 (5d6 + 5)
->   **Speed**: 10 ft., fly 30 ft.
+>   **Speed**: 2 *(3m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +1 (12) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
 >
 >   **Skills**: Stealth +3
->   **Senses**: Blindsight 60 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
@@ -2227,10 +2227,10 @@
 >   ***False Appearance.*** While the darkmantle remains motionless, it is indistinguishable from a cave formation such as a stalactite or stalagmite.
 > 
 > #### Actions 
->   ***Crush.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
+>   ***Crush.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 6 (1d6 + 3) bludgeoning damage, and the darkmantle attaches to the target. If the target is Medium or smaller and the darkmantle has advantage on the attack roll, it attaches by engulfing the target's head, and the target is also blinded and unable to breathe while the darkmantle is attached in this way.
 >   While attached to the target, the darkmantle can attack no other creature except the target but has advantage on its attack rolls. The darkmantle's speed also becomes 0, it can't benefit from any bonus to its speed, and it moves with the target.
->   A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 5 feet of movement. 
->   ***Darkness Aura (1/Day).*** A 15-­-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
+>   A creature can detach the darkmantle by making a successful DC 13 Strength check as an action. On its turn, the darkmantle can detach itself from the target by using 1 *(1.5m)* of movement. 
+>   ***Darkness Aura (1/Day).*** A radius 3 *(4.5m)*­ of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/263/315/315/636252768676699519.jpeg)
 >
@@ -2238,14 +2238,14 @@
 >   *Medium monstrosity, neutral evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 39 (6d8 + 12)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +2 (14) | +2 (14) | -4 (3) | +1 (13) | -2 (6)
 >
 >   **Skills**: Perception +5, Stealth +4
->   **Senses**: Darkvision 120 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 15
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -2253,7 +2253,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dog makes two bite attacks. 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the creature must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/265/1000/1000/636252768823194310.jpeg)
 >
@@ -2261,14 +2261,14 @@
 >   *Small humanoid, neutral good*
 >   **Armor Class**: 15 (Chain Shirt)
 >   **Hit Points**: 16 (3d6 + 6)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +2 (14) | +2 (14) | +1 (12) | +0 (10) | -1 (9)
 >
 >   **Skills**: Investigation +3, Perception +2, Stealth +4
->   **Senses**: Darkvision 120 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 12
 >   **Languages**: Gnomish, Terran, Undercommon
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
@@ -2279,8 +2279,8 @@
 >   1/day each: blindness/deafness, blur, disguise self
 > 
 > #### Actions 
->   ***War Pick.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
->   ***Poisoned Dart.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***War Pick.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. Hit: 6 (1d8 + 2) piercing damage.
+>   ***Poisoned Dart.*** *Ranged Weapon Attack:* +4 to hit, range 6/24 *(9m)*/*(36m)*, one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/112/1000/1000/636323610009818415.jpeg)
 >
@@ -2288,7 +2288,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 4 (1d8)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2298,7 +2298,7 @@
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2306,7 +2306,7 @@
 >   *Medium celestial, lawful good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 136 (16d8 + 64)
->   **Speed**: 30 ft., fly 90 ft.
+>   **Speed**: 6 *(9m)*, fly 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2316,8 +2316,8 @@
 >   **Skills**: Insight +9, Perception +9
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened
->   **Senses**: Darkvision 120 ft.,  Passive Perception 19
->   **Languages**: All, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 19
+>   **Languages**: All, Telepathy 24 *(36m)*
 >   **Challenge**: 10 (5,900 XP)
 > #### Traits 
 >   ***Angelic Weapons.*** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack). 
@@ -2328,7 +2328,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The deva makes two melee attacks. 
->   ***Mace.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage. 
+>   ***Mace.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d6 + 4) bludgeoning damage plus 18 (4d8) radiant damage. 
 >   ***Healing Touch (3/Day).*** The deva touches another creature. The target magically regains 20 (4d8 + 2) hit points and is freed from any curse, disease, poison, blindness, or deafness. 
 >   ***Change Shape.*** The deva magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the deva's choice).
 >   In a new form, the deva retains its game statistics and ability to speak, but its AC, movement modes, Strength, Dexterity, and special senses are replaced by those of the new form, and it gains any statistics and capabilities (except class features, legendary actions, and lair actions) that the new form has but that it lacks.
@@ -2339,7 +2339,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 37 (5d10 + 10)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2351,10 +2351,10 @@
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->   ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/484/315/315/636376300478361995.jpeg)
 >
@@ -2362,7 +2362,7 @@
 >   *Large elemental, chaotic good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 161 (14d10 + 84)
->   **Speed**: 30 ft., fly 90 ft.
+>   **Speed**: 6 *(9m)*, fly 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2370,7 +2370,7 @@
 >
 >   **Saving Throws**: DEX +6, WIS +7, CHA +9
 >   **Damage Immunities**: Lightning, Thunder
->   **Senses**: Darkvision 120 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 13
 >   **Languages**: Auran
 >   **Challenge**: 11 (7,200 XP)
 > #### Traits 
@@ -2382,8 +2382,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The djinni makes three scimitar attacks. 
->   ***Scimitar.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice). 
->   ***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
+>   ***Scimitar.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) slashing damage plus 3 (1d6) lightning or thunder damage (djinni's choice). 
+>   ***Create Whirlwind.*** A radius 1 *(1.5m)*, 6 *(9m)* tall cylinder of swirling air magically forms on a point the djinni can see within 24 *(36m)* of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 12 *(18m)* as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 >   A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/281/315/315/636252770322204007.jpeg)
@@ -2392,7 +2392,7 @@
 >   *Medium monstrosity, neutral*
 >   **Armor Class**: 14 
 >   **Hit Points**: 52 (8d8 + 16)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2400,7 +2400,7 @@
 >
 >   **Skills**: Deception +6, Insight +3
 >   **Condition Immunities**: Charmed
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: Common
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -2410,8 +2410,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The doppelganger makes two melee attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) bludgeoning damage. 
->   ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
+>   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d6 + 4) bludgeoning damage. 
+>   ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 12 *(18m)* of it. The effect can penetrate barriers, but 1 meter of wood or dirt, 50cm of stone, 5cm of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's concentration isn't broken (as if concentrating on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom (Insight) and Charisma (Deception, Intimidation, and Persuasion) checks against the target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/289/315/315/636252770983164351.jpeg)
 >
@@ -2419,7 +2419,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2429,7 +2429,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d4 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2437,7 +2437,7 @@
 >   *Gargantuan dragon, neutral*
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 341 (22d20 + 110)
->   **Speed**: 20 ft., swim 40 ft.
+>   **Speed**: 4 *(6m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2445,7 +2445,7 @@
 >
 >   **Saving Throws**: DEX +6, CON +11, WIS +7
 >   **Damage Resistances**: Fire
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
 >   **Languages**: Aquan, Draconic
 >   **Challenge**: 17 (18,000 XP)
 > #### Traits 
@@ -2453,10 +2453,10 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks. 
->   ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 16 (2d8 + 7) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 15 ft., one target. *Hit:* 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked prone. 
->   ***Steam Breath (Recharge 5–6).*** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
+>   ***Bite.*** *Melee Weapon Attack:* +13 to hit, reach 3 *(4.5m)*, one target. *Hit:* 26 (3d12 + 7) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +13 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d8 + 7) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +13 to hit, reach 3 *(4.5m)*, one target. *Hit:* 26 (3d12 + 7) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 2 *(3m)* away from the dragon turtle and knocked prone. 
+>   ***Steam Breath (Recharge 5–6).*** The dragon turtle exhales scalding steam in a 12 *(18m)* cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/291/1000/1000/636252771128151641.jpeg)
 >
@@ -2464,7 +2464,7 @@
 >   *Small fiend, chaotic evil*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 18 (4d6 + 4)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2473,14 +2473,14 @@
 >   **Damage Resistances**: Cold, Fire, Lightning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
->   **Languages**: Abyssal, Telepathy 60 ft.
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
+>   **Languages**: Abyssal, Telepathy 12 *(18m)*
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
 >   ***Multiattack.*** The dretch makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 5 (2d4) slashing damage. 
->   ***Fetid Cloud (1/Day).*** A 10­-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
+>   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d6) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (2d4) slashing damage. 
+>   ***Fetid Cloud (1/Day).*** A radius 2 *(3m)* of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be poisoned until the start of its next turn. While poisoned in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/293/1000/1000/636252771253285096.jpeg)
 >
@@ -2488,14 +2488,14 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 123 (13d10 + 52)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +3 (16) | +4 (18) | +1 (13) | +2 (14) | +1 (12)
 >
 >   **Skills**: Perception +5, Stealth +9
->   **Senses**: Darkvision 120 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 15
 >   **Languages**: Elvish, Undercommon
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
@@ -2509,9 +2509,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack. 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) piercing damage plus 9 (2d8) poison damage. 
->   ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
->   ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 2 (1d4) piercing damage plus 9 (2d8) poison damage. 
+>   ***Longsword.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/295/1000/1000/636252771409285458.jpeg)
 >
@@ -2519,14 +2519,14 @@
 >   *Medium humanoid, neutral evil*
 >   **Armor Class**: 15 (Chain Shirt)
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (10) | +2 (14) | +0 (10) | +0 (11) | +0 (11) | +1 (12)
 >
 >   **Skills**: Perception +2, Stealth +4
->   **Senses**: Darkvision 120 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 12
 >   **Languages**: Elvish, Undercommon
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -2537,8 +2537,8 @@
 >   ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 > 
 > #### Actions 
->   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
->   ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+>   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 6/24 *(9m)*/*(36m)*, one target. Hit: 5 (1d6 + 2) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/501/1000/1000/636376310726273495.jpeg)
 >
@@ -2546,7 +2546,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 11 (16 With Barkskin)
 >   **Hit Points**: 27 (5d8 + 5)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2563,7 +2563,7 @@
 >   2nd level (3 slots): animal messenger, barkskin
 > 
 > #### Actions 
->   ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
+>   ***Quarterstaff.*** *Melee Weapon Attack:* +2 to hit (+4 to hit with shillelagh), reach 1 *(1.5m)*, one target. *Hit:* 3 (1d6) bludgeoning damage, 4 (1d8) bludgeoning damage if wielded with two hands, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/299/1000/1000/636252771583275655.jpeg)
 >
@@ -2571,14 +2571,14 @@
 >   *Medium fey, neutral*
 >   **Armor Class**: 11 (16 With Barkskin)
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (10) | +1 (12) | +0 (11) | +2 (14) | +2 (15) | +4 (18)
 >
 >   **Skills**: Perception +4, Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Elvish, Sylvan
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -2588,11 +2588,11 @@
 >   1/day each: barkskin, pass without trace, shillelagh 
 >   ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects. 
 >   ***Speak with Beasts and Plants.*** The dryad can communicate with beasts and plants as if they shared a language. 
->   ***Tree Stride.*** Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+>   ***Tree Stride.*** Once on her turn, the dryad can use 2 *(3m)* of her movement to step magically into one living tree within her reach and emerge from a second living tree within 12 *(18m)* of the first tree, appearing in an unoccupied space within 1 *(1.5m)* of the second tree. Both trees must be Large or bigger.
 > 
 > #### Actions 
->   ***Club.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh. 
->   ***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+>   ***Club.*** *Melee Weapon Attack:* +2 to hit (+6 to hit with shillelagh), reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh. 
+>   ***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 6 *(9m)* of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 >   Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours. 
 >   The dryad can have no more than one humanoid and up to three beasts charmed at a time.
 > 
@@ -2602,14 +2602,14 @@
 >   *Medium humanoid, lawful evil*
 >   **Armor Class**: 16 (Scale Mail, Shield)
 >   **Hit Points**: 26 (4d8 + 8)
->   **Speed**: 25 ft.
+>   **Speed**: 5 *(7.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +0 (11) | +2 (14) | +0 (11) | +0 (10) | -1 (9)
 >
 >   **Damage Resistances**: Poison
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
 >   **Languages**: Dwarvish, Undercommon
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -2618,8 +2618,8 @@
 > 
 > #### Actions 
 >   ***Enlarge (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the duergar is Large, doubles its damage dice on Strength-based weapon attacks (included in the attacks), and makes Strength checks and Strength saving throws with advantage. If the duergar lacks the room to become Large, it attains the maximum size possible in the space available. 
->   ***War Pick.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged. 
->   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged. 
+>   ***War Pick.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage while enlarged. 
+>   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage, or 9 (2d6 + 2) piercing damage while enlarged. 
 >   ***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns invisible until it attacks, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the duergar wears or carries is invisible with it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/309/1000/1000/636252772101183765.jpeg)
@@ -2628,7 +2628,7 @@
 >   *Small elemental, neutral evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 17 (5d6)
->   **Speed**: 30 ft., fly 30 ft.
+>   **Speed**: 6 *(9m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2637,16 +2637,16 @@
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Auran, Terran
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success. 
+>   ***Death Burst.*** When the mephit dies, it explodes in a burst of dust. Each creature within 1 *(1.5m)* of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute. A blinded creature can repeat the saving throw on each of its turns, ending the effect on itself on a success. 
 >   ***Innate Spellcasting.***(1/Day). The mephit can innately cast sleep, requiring no material components. Its innate spellcasting ability is Charisma.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) slashing damage. 
->   ***Blinding Breath (Recharge 6).*** The mephit exhales a 15- foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d4 + 2) slashing damage. 
+>   ***Blinding Breath (Recharge 6).*** The mephit exhales a 3 *(4.5m)* cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/313/1000/1000/636252772213922157.jpeg)
 >
@@ -2654,7 +2654,7 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2667,7 +2667,7 @@
 >   ***Keen Sight.*** The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 > 
 > #### Actions 
->   ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.  
+>   ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) slashing damage.  
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/515/1000/1000/636376317171111968.jpeg)
 >
@@ -2675,7 +2675,7 @@
 >   *Large elemental, neutral*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 126 (12d10 + 60)
->   **Speed**: 30 ft., burrow 30 ft.
+>   **Speed**: 6 *(9m)*, burrow 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2685,7 +2685,7 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Paralyzed, Petrified, Poisoned, Unconscious
->   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*, Tremorsense 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Terran
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -2694,7 +2694,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The elemental makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/317/315/315/636252772331779404.jpeg)
 >
@@ -2702,7 +2702,7 @@
 >   *Large elemental, lawful evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 200 (16d10 + 112)
->   **Speed**: 40 ft., fly 60 ft.
+>   **Speed**: 8 *(12m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2710,7 +2710,7 @@
 >
 >   **Saving Throws**: INT +7, WIS +6, CHA +7
 >   **Damage Immunities**: Fire
->   **Senses**: Darkvision 120 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 12
 >   **Languages**: Ignan
 >   **Challenge**: 11 (7,200 XP)
 > #### Traits 
@@ -2722,8 +2722,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice. 
->   ***Scimitar.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage. 
->   ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. *Hit:* 17 (5d6) fire damage.
+>   ***Scimitar.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage. 
+>   ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 24 *(36m)*, one target. *Hit:* 17 (5d6) fire damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/325/1000/1000/636252775714332067.jpeg)
 >
@@ -2731,7 +2731,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 76 (8d12 + 24)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2741,11 +2741,11 @@
 >   **Languages**: --
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
->   ***Trampling Charge.*** If the elephant moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
+>   ***Trampling Charge.*** If the elephant moves at least 4 *(6m)* straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the elephant can make one stomp attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Gore.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) piercing damage. 
->   ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
+>   ***Gore.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 19 (3d8 + 6) piercing damage. 
+>   ***Stomp.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2753,7 +2753,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d10 + 2)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2763,11 +2763,11 @@
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
->   ***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>   ***Charge.*** If the elk moves at least 4 *(6m)* straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) bludgeoning damage. 
->   ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one prone creature. *Hit:* 8 (2d4 + 3) bludgeoning damage.
+>   ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) bludgeoning damage. 
+>   ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one prone creature. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -2775,7 +2775,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 153 (18d8 + 72)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2785,8 +2785,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 12
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 12
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 12 (8,400 XP)
 > #### Traits 
 >   ***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks). 
@@ -2794,8 +2794,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The erinyes makes three attacks. 
->   ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage. 
->   ***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
+>   ***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage if used with two hands, plus 13 (3d8) poison damage. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage plus 13 (3d8) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be poisoned. The poison lasts until it is removed by the lesser restoration spell or similar magic.
 > 
 >  ***Reactions***: ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 > 
@@ -2805,14 +2805,14 @@
 >   *Medium monstrosity, neutral evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 44 (8d8 + 8)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +2 (15) | +1 (13) | -2 (7) | +1 (12) | -1 (8)
 >
 >   **Skills**: Perception +3, Stealth +4, Survival +3
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -2822,9 +2822,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
->   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. 
->   ***Web (Recharge 5–6).*** *Ranged Weapon Attack:* +4 to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Constitution saving throw or be poisoned for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) slashing damage. 
+>   ***Web (Recharge 5–6).*** *Ranged Weapon Attack:* +4 to hit, range 30/12 *(18m)*, one Large or smaller creature. *Hit:* The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, vulnerability to fire damage, and immunity to bludgeoning, poison, and psychic damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/339/315/315/636252776771842998.jpeg)
 >
@@ -2832,14 +2832,14 @@
 >   *Large giant, chaotic evil*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 85 (10d10 + 30)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +5 (21) | -1 (8) | +3 (17) | -2 (6) | +0 (10) | -1 (8)
 >
 >   **Skills**: Perception +4
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Giant, Orc
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
@@ -2848,8 +2848,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar. 
->   ***Battleaxe.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage. 
->   ***Morningstar.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) piercing damage.
+>   ***Battleaxe.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d8 + 5) slashing damage. 
+>   ***Morningstar.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d8 + 5) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/341/1000/1000/636252776953634777.jpeg)
 >
@@ -2857,7 +2857,7 @@
 >   *Large elemental, neutral*
 >   **Armor Class**: 13 
 >   **Hit Points**: 102 (12d10 + 36)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2866,17 +2866,17 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Ignan
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns. 
->   ***Illumination.*** The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet. 
->   ***Water Susceptibility.*** For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
+>   ***Fire Form.*** The elemental can move through a space as narrow as 3cm wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 1 *(1.5m)* of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns. 
+>   ***Illumination.*** The elemental sheds bright light in a radius 6 *(9m)* and dim light in an additional 6 *(9m)*. 
+>   ***Water Susceptibility.*** For every 1 *(1.5m)* the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 > 
 > #### Actions 
 >   ***Multiattack.*** The elemental makes two touch attacks. 
->   ***Touch.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
+>   ***Touch.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/343/1000/1000/636252777098624896.jpeg)
 >
@@ -2884,7 +2884,7 @@
 >   *Huge giant, lawful evil*
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 162 (13d12 + 78)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2898,8 +2898,8 @@
 >   **Challenge**: 9 (5,000 XP)
 > #### Actions 
 >   ***Multiattack.*** The giant makes two greatsword attacks. 
->   ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 28 (6d6 + 7) slashing damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/240 ft., one target. *Hit:* 29 (4d10 + 7) bludgeoning damage.
+>   ***Greatsword.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 28 (6d6 + 7) slashing damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +11 to hit, range 60/28 *(12m)*, one target. *Hit:* 29 (4d10 + 7) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/357/1000/1000/636252778143767005.jpeg)
 >
@@ -2907,7 +2907,7 @@
 >   *Tiny undead, neutral evil*
 >   **Armor Class**: 13 
 >   **Hit Points**: 40 (9d4 + 18)
->   **Speed**: 0 ft., fly 40 ft. (hover)
+>   **Speed**: 0, fly 8 *(12m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2916,11 +2916,11 @@
 >   **Damage Resistances**: Lightning, Necrotic, Piercing
 >   **Damage Immunities**: Cold, Fire, Poison
 >   **Condition Immunities**: Charmed, Frightened, Paralyzed, Poisoned, Prone
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Common
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
->   ***Illumination.*** The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.
+>   ***Illumination.*** The flameskull sheds either dim light in a radius 3 *(4.5m)*, or bright light in a radius 3 *(4.5m)* and dim light for an additional 3 *(4.5m)*. It can switch between the options as an action.
 >   ***Magic Resistance.*** The flameskull has advantage on saving throws against spells and other magical effects.
 >   ***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a *dispel magic* or *remove curse* spell is cast on them.
 >   ***Spellcasting.*** The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
@@ -2933,7 +2933,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The flameskull uses Fire Ray twice.
->   ***Fire Ray.*** *Ranged Spell Attack:* +5 to hit, range 30 ft., one target. *Hit:* 10 (3d6) fire damage.
+>   ***Fire Ray.*** *Ranged Spell Attack:* +5 to hit, range 6 *(9m)*, one target. *Hit:* 10 (3d6) fire damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/487/315/315/636364325235118776.png)
 >
@@ -2941,7 +2941,7 @@
 >   *Medium construct, neutral*
 >   **Armor Class**: 9 
 >   **Hit Points**: 93 (11d8 + 44)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -2949,12 +2949,12 @@
 >
 >   **Damage Immunities**: Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
 >   ***Berserk.*** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
->   The golem's creator, if within 60 feet of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again. 
+>   The golem's creator, if within 12 *(18m)* of the berserk golem, can try to calm it by speaking firmly and persuasively. The golem must be able to hear its creator, who must take an action to make a DC 15 Charisma (Persuasion) check. If the check succeeds, the golem ceases being berserk. If it takes damage while still at 40 hit points or fewer, the golem might go berserk again. 
 >   ***Aversion of Fire.*** If the golem takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn. 
 >   ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
 >    ***Lightning Absorption.*** Whenever the golem is subjected to lightning damage, it takes no damage and instead regains a number of hit points equal to the lightning damage dealt.
@@ -2963,7 +2963,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The golem makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/359/315/315/636252778311644574.jpeg)
 >
@@ -2971,19 +2971,19 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 14 
 >   **Hit Points**: 5 (2d4)
->   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (4) | +4 (18) | +0 (11) | -4 (2) | +1 (12) | -3 (5)
->   **Senses**: Blindsight 10 ft.,  Passive Perception 11
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Flyby.*** The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/517/1000/1000/636376319640572721.jpeg)
 >
@@ -2991,7 +2991,7 @@
 >   *Small construct, unaligned*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 17 (5d6)
->   **Speed**: 0 ft., fly 50 ft. (hover)
+>   **Speed**: 0, fly 10 *(15m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3000,7 +3000,7 @@
 >   **Saving Throws**: DEX +4
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Blindsight 60 ft.,  Passive Perception 7
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 7
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -3008,7 +3008,7 @@
 >   ***False Appearance.*** While the sword remains motionless and isn't flying, it is indistinguishable from a normal sword.
 > 
 > #### Actions 
->   ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage.
+>   ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d8 + 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/77/599/1000/1000/636473151106171093.png)
 >
@@ -3016,18 +3016,18 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 20 ft., swim 20 ft.
+>   **Speed**: 4 *(6m)*, swim 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -5 (1) | +1 (13) | -1 (8) | -5 (1) | -1 (8) | -4 (3)
 >   **Skills**: Perception +1, Stealth +3
->   **Senses**: Darkvision 30 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Amphibious.*** The frog can breathe air and water. 
->   ***Standing Leap.*** The frog's long jump is up to 10 feet and its high jump is up to 5 feet, with or without a running start.
+>   ***Standing Leap.*** The frog's long jump is up to 2 *(3m)* and its high jump is up to 1 *(1.5m)*, with or without a running start.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/523/315/315/636376321230650501.jpeg)
 >
@@ -3035,7 +3035,7 @@
 >   *Huge giant, neutral evil*
 >   **Armor Class**: 15 (Patchwork Armor)
 >   **Hit Points**: 138 (12d12 + 60)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3049,8 +3049,8 @@
 >   **Challenge**: 8 (3,900 XP)
 > #### Actions 
 >   ***Multiattack.*** The giant makes two greataxe attacks. 
->   ***Greataxe.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 25 (3d12 + 6) slashing damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10 + 6) bludgeoning damage.
+>   ***Greataxe.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 25 (3d12 + 6) slashing damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/28 *(12m)*, one target. *Hit:* 28 (4d10 + 6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/405/1000/1000/636252786158646348.jpeg)
 >
@@ -3058,7 +3058,7 @@
 >   *Medium elemental, chaotic evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (7d8 + 21)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3067,7 +3067,7 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Petrified, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Terran
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -3075,8 +3075,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The gargoyle makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/407/315/315/636252786295384889.jpeg)
 >
@@ -3084,29 +3084,29 @@
 >   *Large ooze, unaligned*
 >   **Armor Class**: 6 
 >   **Hit Points**: 84 (8d10 + 40)
->   **Speed**: 15 ft.
+>   **Speed**: 3 *(4.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | -4 (3) | +5 (20) | -5 (1) | -2 (6) | -5 (1)
 >
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
->   **Senses**: Blindsight 60 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw. 
 >   Creatures inside the cube can be seen but have total cover.
->   A creature within 5 feet of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.
+>   A creature within 1 *(1.5m)* of the cube can take an action to pull a creature or object out of the cube. Doing so requires a successful DC 12 Strength check, and the creature making the attempt takes 10 (3d6) acid damage.
 >   The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time. 
 >   ***Transparent.*** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
 > 
 > #### Actions 
->   ***Pseudopod.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) acid damage. 
+>   ***Pseudopod.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 10 (3d6) acid damage. 
 >   ***Engulf.*** The cube moves up to its speed. While doing so, it can enter Large or smaller creatures' spaces. Whenever the cube enters a creature's space, the creature must make a DC 12 Dexterity saving throw.
->   On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
+>   On a successful save, the creature can choose to be pushed 1 *(1.5m)* back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
 >   On a failed save, the cube enters the creature's space, and the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can't breathe, is restrained, and takes 21 (6d6) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
->   An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
+>   An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 1 *(1.5m)* of the cube.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/409/1000/1000/636252786406028958.jpeg)
 >
@@ -3114,7 +3114,7 @@
 >   *Medium undead, chaotic evil*
 >   **Armor Class**: 13 
 >   **Hit Points**: 36 (8d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3123,16 +3123,16 @@
 >   **Damage Resistances**: Necrotic
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours. 
->   ***Turning Defiance.*** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
+>   ***Stench.*** Any creature that starts its turn within 1 *(1.5m)* of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours. 
+>   ***Turning Defiance.*** The ghast and any ghouls within 6 *(9m)* of it have advantage on saving throws against effects that turn undead.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 12 (2d8 + 3) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 12 (2d8 + 3) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/411/315/315/636252786516023032.jpeg)
 >
@@ -3140,7 +3140,7 @@
 >   *Medium undead, any*
 >   **Armor Class**: 11 
 >   **Hit Points**: 45 (10d8)
->   **Speed**: 0 ft., fly 40 ft. (hover)
+>   **Speed**: 0, fly 8 *(12m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3148,19 +3148,19 @@
 >   **Damage Resistances**: Acid, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Cold, Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: Any languages it knew in life
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
->   ***Ethereal Sight.*** The ghost can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
+>   ***Ethereal Sight.*** The ghost can see 12 *(18m)* into the Ethereal Plane when it is on the Material Plane, and vice versa.
 >   ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 > 
 > #### Actions 
->   ***Withering Touch.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6 + 3) necrotic damage.
+>   ***Withering Touch.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 17 (4d6 + 3) necrotic damage.
 >   ***Etherealness.*** The ghost enters the Ethereal Plane from the Material Plane, or vice versa. It is visible on the Material Plane while it is in the Border Ethereal, and vice versa, yet it can't affect or be affected by anything on the other plane.
->   ***Horrifying Visage.*** Each non-undead creature within 60 feet of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.
->   ***Possession (Recharge 6).*** One humanoid that the ghost can see within 5 feet of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
->   The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
+>   ***Horrifying Visage.*** Each non-undead creature within 12 *(18m)* of the ghost that can see it must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. If the save fails by 5 or more, the target also ages 1d4 × 10 years. A frightened target can repeat the saving throw at the end of each of its turns, ending the frightened condition on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to this ghost's Horrifying Visage for the next 24 hours. The aging effect can be reversed with a greater restoration spell, but only within 24 hours of it occurring.
+>   ***Possession (Recharge 6).*** One humanoid that the ghost can see within 1 *(1.5m)* of it must succeed on a DC 13 Charisma saving throw or be possessed by the ghost; the ghost then disappears, and the target is incapacitated and loses control of its body. The ghost now controls the body but doesn't deprive the target of awareness. The ghost can't be targeted by any attack, spell, or other effect, except ones that turn undead, and it retains its alignment, Intelligence, Wisdom, Charisma, and immunity to being charmed and frightened. It otherwise uses the possessed target's statistics, but doesn't gain access to the target's knowledge, class features, or proficiencies.
+>   The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the dispel evil and good spell. When the possession ends, the ghost reappears in an unoccupied space within 1 *(1.5m)* of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/413/1000/1000/636252786639798307.jpeg)
 >
@@ -3168,7 +3168,7 @@
 >   *Medium undead, chaotic evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3176,19 +3176,19 @@
 >
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common
 >   **Challenge**: 1 (200 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 9 (2d6 + 2) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/483/315/315/636364323937041514.png)
 >
 # Giant Ape
 >   *Huge beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 157 (15d12 + 60)
->   **Speed**: 40 ft., climb 40 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3200,8 +3200,8 @@
 >   **Challenge**: 7 (2,900 XP)
 > #### Actions 
 >   ***Multiattack.*** The ape makes two fist attacks. 
->   ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d10 + 6) bludgeoning damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 50/100 ft., one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
+>   ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 22 (3d10 + 6) bludgeoning damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 10/20 *(15m)*/*(30m)*, one target. *Hit:* 30 (7d6 + 6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3209,13 +3209,13 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d8 + 4)
->   **Speed**: 30 ft., burrow 10 ft.
+>   **Speed**: 6 *(9m)*, burrow 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +0 (10) | +2 (15) | -4 (2) | +1 (12) | -3 (5)
 >
->   **Senses**: Darkvision 30 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -3223,8 +3223,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The badger makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (2d4 + 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/530/1000/1000/636376327839601860.jpeg)
 >
@@ -3232,13 +3232,13 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 22 (4d10)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +3 (16) | +0 (11) | -4 (2) | +1 (12) | -2 (6)
 >
->   **Senses**: Blindsight 60 ft.,  Passive Perception 11
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -3246,7 +3246,7 @@
 >   ***Keen Hearing.*** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3254,7 +3254,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 42 (5d10 + 15)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3264,11 +3264,11 @@
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Charge.*** If the boar moves at least 20 feet straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the boar moves at least 4 *(6m)* straight toward a target and then hits it with a tusk attack on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
 >   ***Relentless (Recharges after a Short or Long Rest).*** If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 > 
 > #### Actions 
->   ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>   ***Tusk.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3276,16 +3276,16 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 4 (1d6 + 1)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (5) | +2 (14) | +1 (12) | -5 (1) | -2 (7) | -4 (3)
->   **Senses**: Blindsight 30 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3293,19 +3293,19 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 60 (8d12 + 8)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | +2 (14) | +1 (12) | -5 (1) | +0 (10) | -4 (3)
 >
 >   **Skills**: Perception +2
->   **Senses**: Blindsight 10 ft.,  Passive Perception 12
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. 
->   ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one creature. *Hit:* 11 (2d6 + 4) piercing damage. 
+>   ***Constrict.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 16). Until this grapple ends, the creature is restrained, and the snake can't constrict another target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3313,21 +3313,21 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +2 (15) | +0 (11) | -5 (1) | -1 (9) | -4 (3)
 >
 >   **Skills**: Stealth +4
->   **Senses**: Blindsight 30 ft.,  Passive Perception 9
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Amphibious.*** The crab can breathe air and water.
 > 
 > #### Actions 
->   ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
+>   ***Claw.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3335,7 +3335,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 85 (9d12 + 27)
->   **Speed**: 30 ft., swim 50 ft.
+>   **Speed**: 6 *(9m)*, swim 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3350,8 +3350,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The crocodile makes two attacks: one with its bite and one with its tail. 
->   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target. 
->   ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target not grappled by the crocodile. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
+>   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the crocodile can't bite another target. 
+>   ***Tail.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target not grappled by the crocodile. *Hit:* 14 (2d8 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3359,7 +3359,7 @@
 >   *Large beast, neutral good*
 >   **Armor Class**: 13 
 >   **Hit Points**: 26 (4d10 + 4)
->   **Speed**: 10 ft., fly 80 ft.
+>   **Speed**: 2 *(3m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3374,8 +3374,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The eagle makes two attacks: one with its beak and one with its talons. 
->   ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
->    ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage.
+>    ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/894/315/315/636334286969931904.jpeg)
 >
@@ -3383,7 +3383,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 42 (5d12 + 10)
->   **Speed**: 60 ft.
+>   **Speed**: 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3394,11 +3394,11 @@
 >   **Languages**: Elvish, Giant Elk  and Sylvan but can't speak them
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
+>   ***Charge.*** If the elk moves at least 4 *(6m)* straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one prone creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
+>   ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one prone creature. *Hit:* 22 (4d8 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3406,19 +3406,19 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 4 (1d6 + 1)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (8) | +0 (10) | +1 (12) | -5 (1) | -2 (7) | -4 (3)
->   **Senses**: Blindsight 30 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
->   ***Illumination.*** The beetle sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+>   ***Illumination.*** The beetle sheds bright light in a radius 2 *(3m)* and dim light for an additional 2 *(3m)*.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 − 1) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d6 − 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/896/1000/1000/636334287498492864.jpeg)
 >
@@ -3426,23 +3426,23 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 18 (4d8)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (12) | +1 (13) | +0 (11) | -4 (2) | +0 (10) | -4 (3)
 >
 >   **Skills**: Perception +2, Stealth +3
->   **Senses**: Darkvision 30 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Amphibious.*** The frog can breathe air and water. 
->   ***Standing Leap.*** The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+>   ***Standing Leap.*** The frog's long jump is up to 4 *(6m)* and its high jump is up to 2 *(3m)*, with or without a running start.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target. 
->   ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target. 
+>   ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the frog, and it takes 5 (2d4) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 *(1.5m)* of movement, exiting prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/521/1000/1000/636376321052503535.jpeg)
 >
@@ -3450,7 +3450,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3460,11 +3460,11 @@
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Charge.*** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the goat moves at least 4 *(6m)* straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
 >   ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
+>   ***Ram.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3472,7 +3472,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3486,7 +3486,7 @@
 >   ***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3494,17 +3494,17 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +1 (12) | +1 (13) | -4 (2) | +0 (10) | -3 (5)
 >
->   **Senses**: Darkvision 30 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3512,14 +3512,14 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 52 (8d10 + 8)
->   **Speed**: 10 ft., swim 60 ft.
+>   **Speed**: 2 *(3m)*, swim 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (17) | +1 (13) | +1 (13) | -3 (4) | +0 (10) | -3 (4)
 >
 >   **Skills**: Perception +4, Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -3528,8 +3528,8 @@
 >   ***Water Breathing.*** The octopus can breathe only underwater.
 > 
 > #### Actions 
->   ***Tentacles.*** *Melee Weapon Attack:* +5 to hit, reach 15 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target. 
->   ***Ink Cloud (Recharges after a Short or Long Rest).*** A 20- foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
+>   ***Tentacles.*** *Melee Weapon Attack:* +5 to hit, reach 3 *(4.5m)*, one target. *Hit:* 10 (2d6 + 3) bludgeoning damage. If the target is a creature, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, and the octopus can't use its tentacles on another target. 
+>   ***Ink Cloud (Recharges after a Short or Long Rest).*** A radius 4 *(6m)* cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/898/315/315/636334288003435302.jpeg)
 >
@@ -3537,14 +3537,14 @@
 >   *Large beast, neutral*
 >   **Armor Class**: 12 
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 5 ft., fly 60 ft.
+>   **Speed**: 1 *(1.5m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +2 (15) | +1 (12) | -1 (8) | +1 (13) | +0 (10)
 >
 >   **Skills**: Perception +5, Stealth +4
->   **Senses**: Darkvision 120 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 15
 >   **Languages**: Elvish, Giant Owl  and Sylvan but can't speak them
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -3552,7 +3552,7 @@
 >   ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 > 
 > #### Actions 
->   ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 8 (2d6 + 1) slashing damage.
+>   ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (2d6 + 1) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/535/1000/1000/636376331788287090.jpeg)
 >
@@ -3560,18 +3560,18 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 14 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (10) | +4 (18) | +1 (13) | -4 (2) | +0 (10) | -4 (3)
 >
 >   **Skills**: Perception +2
->   **Senses**: Blindsight 10 ft.,  Passive Perception 12
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 6 (1d4 + 4) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3579,20 +3579,20 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 7 (2d6)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -2 (7) | +2 (15) | +0 (11) | -4 (2) | +0 (10) | -3 (4)
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell. 
->   ***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit*: 4 (1d4 + 2) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit*: 4 (1d4 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/538/1000/1000/636376332197953299.jpeg)
 >
@@ -3600,19 +3600,19 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 52 (7d10 + 14)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +1 (13) | +2 (15) | -5 (1) | -1 (9) | -4 (3)
 >
->   **Senses**: Blindsight 60 ft.,  Passive Perception 9
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
 >   ***Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting. 
->   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target. 
->   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target. 
+>   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3620,7 +3620,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 16 (3d10)
->   **Speed**: 0 ft., swim 40 ft.
+>   **Speed**: 0, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3630,11 +3630,11 @@
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Charge.*** If the sea horse moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the sea horse moves at least 4 *(6m)* straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) bludgeoning damage. It the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone. 
 >   ***Water Breathing.*** The sea horse can breathe only underwater.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
+>   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3642,14 +3642,14 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
->   **Speed**: 0 ft., swim 50 ft.
+>   **Speed**: 0, swim 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +6 (23) | +0 (11) | +5 (21) | -5 (1) | +0 (10) | -3 (5)
 >
 >   **Skills**: Perception +3
->   **Senses**: Blindsight 60 ft.,  Passive Perception 13
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -3657,7 +3657,7 @@
 >   ***Water Breathing.*** The shark can breathe only underwater.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10 + 6) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 22 (3d10 + 6) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3665,14 +3665,14 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 26 (4d10 + 4)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +3 (16) | +1 (12) | -4 (2) | +0 (11) | -3 (4)
 >
 >   **Skills**: Stealth +7
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -3681,8 +3681,8 @@
 >   ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
->   ***Web (Recharge 5–6).*** *Ranged Weapon Attack:* +5 to hit, range 30/60 ft., one creature. *Hit:* The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 7 (1d8 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 9 (2d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way. 
+>   ***Web (Recharge 5–6).*** *Ranged Weapon Attack:* +5 to hit, range 30/12 *(18m)*, one creature. *Hit:* The target is restrained by webbing. As an action, the restrained target can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/323/1000/1000/636252775648743317.jpeg)
 >
@@ -3690,22 +3690,22 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 39 (6d10 + 6)
->   **Speed**: 20 ft., swim 40 ft.
+>   **Speed**: 4 *(6m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +1 (13) | +1 (13) | -4 (2) | +0 (10) | -4 (3)
 >
->   **Senses**: Darkvision 30 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Amphibious.*** The toad can breathe air and water.
->   ***Standing Leap.*** The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
+>   ***Standing Leap.*** The toad's long jump is up to 4 *(6m)* and its high jump is up to 2 *(3m)*, with or without a running start.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target. 
->   ***Swallow.*** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 5 feet of movement, exiting prone.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage plus 5 (1d10) poison damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the toad can't bite another target. 
+>   ***Swallow.*** The toad makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, it has total cover against attacks and other effects outside the toad, and it takes 10 (3d6) acid damage at the start of each of the toad's turns. The toad can have only one target swallowed at a time. If the toad dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 *(1.5m)* of movement, exiting prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3713,7 +3713,7 @@
 >   *Large beast, neutral*
 >   **Armor Class**: 10 
 >   **Hit Points**: 22 (3d10 + 6)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3725,12 +3725,12 @@
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell.
->   ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
 >   ***Multiattack.*** The vulture makes two attacks: one with its beak and one with its talons. 
->   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. 
->   ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) piercing damage. 
+>   ***Talons.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d6 + 2) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3738,7 +3738,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 10 ft., fly 50 ft.
+>   **Speed**: 2 *(3m)*, fly 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3748,7 +3748,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Actions 
->   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d6 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3756,21 +3756,21 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 9 (2d8)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (11) | +3 (16) | +0 (10) | -3 (4) | +1 (12) | -3 (5)
 >
 >   **Skills**: Perception +3, Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d4 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3778,14 +3778,14 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 40 ft., climb 40 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (12) | +3 (16) | +1 (13) | -4 (3) | +1 (12) | -3 (4)
 >
 >   **Skills**: Perception +3, Stealth +7
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -3794,7 +3794,7 @@
 >   ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3802,24 +3802,24 @@
 >   *Medium aberration, neutral*
 >   **Armor Class**: 9 
 >   **Hit Points**: 67 (9d8 + 27)
->   **Speed**: 10 ft., swim 10 ft.
+>   **Speed**: 2 *(3m)*, swim 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (10) | -1 (8) | +3 (16) | -4 (3) | +0 (10) | -2 (6)
 >
 >   **Condition Immunities**: Prone
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Aberrant Ground.*** The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn. 
->   ***Gibbering.*** The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 20 feet of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
+>   ***Aberrant Ground.*** The ground in a radius 2 *(3m)* around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn. 
+>   ***Gibbering.*** The mouther babbles incoherently while it can see any creature and isn't incapacitated. Each creature that starts its turn within 4 *(6m)* of the mouther and can hear the gibbering must succeed on a DC 10 Wisdom saving throw. On a failure, the creature can't take reactions until the start of its next turn and rolls a d8 to determine what it does during its turn. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can't make such an attack.
 > 
 > #### Actions 
 >   ***Multiattack.*** The gibbering mouther makes one bite attack and, if it can, uses its Blinding Spittle. 
->   ***Bite.***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther. 
->   ***Blinding Spittle (Recharge 5–6).*** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
+>   ***Bite.***. *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 17 (5d6) piercing damage. If the target is Medium or smaller, it must succeed on a DC 10 Strength saving throw or be knocked prone. If the target is killed by this damage, it is absorbed into the mouther. 
+>   ***Blinding Spittle (Recharge 5–6).*** The mouther spits a chemical glob at a point it can see within 3 *(4.5m)* of it. The glob explodes in a blinding flash of light on impact. Each creature within 1 *(1.5m)* of the flash must succeed on a DC 13 Dexterity saving throw or be blinded until the end of the mouther's next turn.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/333/315/315/636252776252001529.jpeg)
 >
@@ -3827,7 +3827,7 @@
 >   *Large fiend, chaotic evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 157 (15d10 + 75)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3837,8 +3837,8 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 13
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 13
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 9 (5,000 XP)
 > #### Traits 
 >   ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components: 
@@ -3848,8 +3848,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell. 
->   ***Pincer.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target. 
->   ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
+>   ***Pincer.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. If the target is a Medium or smaller creature, it is grappled (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target. 
+>   ***Fist.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/337/315/315/636252776677682465.jpeg)
 >
@@ -3857,7 +3857,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 16 (Studded Leather, Shield)
 >   **Hit Points**: 112 (15d8 + 45)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3874,8 +3874,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The gladiator makes three melee attacks or two ranged attacks. 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +7 to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack. 
->   ***Shield Bash.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +7 to hit, reach 1 *(1.5m)* and range 20/12 *(18m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack. 
+>   ***Shield Bash.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 > 
 >  ***Reactions***: ***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
 > 
@@ -3885,22 +3885,22 @@
 >   *Medium humanoid, chaotic evil*
 >   **Armor Class**: 15 (Hide Armor, Shield)
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +1 (12) | +0 (11) | -2 (6) | +0 (10) | -2 (7)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Gnoll
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
 >   ***Rampage.*** When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage. 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack. 
->   ***Longbow.*** *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d4 + 2) piercing damage. 
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +3 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/345/1000/1000/636252777224997611.jpeg)
 >
@@ -3908,7 +3908,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 4 (1d8)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3918,11 +3918,11 @@
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
->   ***Charge.*** If the goat moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the goat moves at least 4 *(6m)* straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Strength saving throw or be knocked prone. 
 >   ***Sure-Footed.*** The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage.
+>   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d4 + 1) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -3930,21 +3930,21 @@
 >   *Small humanoid, neutral evil*
 >   **Armor Class**: 15 (Leather Armor, Shield)
 >   **Hit Points**: 7 (2d6)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (8) | +2 (14) | +0 (10) | +0 (10) | -1 (8) | -1 (8)
 >   **Skills**: Stealth +6
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: Common, Goblin
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Nimble Escape.*** The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
 > 
 > #### Actions 
->   ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage. 
->   ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) slashing damage. 
+>   ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/34 *(6m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/351/315/315/636252777818652432.jpeg)
 >
@@ -3952,7 +3952,7 @@
 >   *Medium dragon, lawful good*
 >   **Armor Class**: 17 Natural Armor
 >   **Hit Points**: 60 (8d8 + 24)
->   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3961,17 +3961,17 @@
 >   **Saving Throws**: DEX +4, CON +5, WIS +2, CHA +5
 >   **Skills**: Perception +4, Stealth +4
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
 >   **Amphibious**: The dragon can breathe air and water.
 > 
 > #### Actions 
->   **Bite**: *Melee Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 9 (1d10 + 4) piercing damage.
+>   **Bite**: *Melee Weapon Attack*: +6 to hit, reach 1 *(1.5m)*, one target. *Hit*: 9 (1d10 + 4) piercing damage.
 >   **Breath Weapons (Recharge 5–6)**: The dragon uses one of the following breath weapons.
->   **Fire Breath**: The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
->   **Weakening Breath**: The dragon exhales gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   **Fire Breath**: The dragon exhales fire in a 3 *(4.5m)* cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one.
+>   **Weakening Breath**: The dragon exhales gas in a 3 *(4.5m)* cone. Each creature in that area must succeed on a DC 13 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/7/516/315/315/636285466148376212.jpeg)
 >
@@ -3979,7 +3979,7 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -3987,16 +3987,16 @@
 >
 >   **Skills**: Perception +4
 >   **Condition Immunities**: Petrified
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
+>   ***Trampling Charge.*** If the gorgon moves at least 4 *(6m)* straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked prone. If the target is prone, the gorgon can make one attack with its hooves against it as a bonus action.
 > 
 > #### Actions 
->   ***Gore.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 18 (2d12 + 5) piercing damage.
->   ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. 
->   ***Petrifying Breath (Recharge 5–6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the greater restoration spell or other magic.
+>   ***Gore.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 18 (2d12 + 5) piercing damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 16 (2d10 + 5) bludgeoning damage. 
+>   ***Petrifying Breath (Recharge 5–6).*** The gorgon exhales petrifying gas in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is restrained. The restrained target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is petrified until freed by the greater restoration spell or other magic.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/355/315/315/636252778125099430.jpeg)
 >
@@ -4004,7 +4004,7 @@
 >   *Medium ooze, unaligned*
 >   **Armor Class**: 8 
 >   **Hit Points**: 22 (3d8 + 9)
->   **Speed**: 10 ft., climb 10 ft.
+>   **Speed**: 2 *(3m)*, climb 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4013,17 +4013,17 @@
 >   **Skills**: Stealth +2
 >   **Damage Resistances**: Acid, Cold, Fire
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
->   **Senses**: Blindsight 60 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing. 
+>   ***Amorphous.*** The ooze can move through a space as narrow as 3cm wide without squeezing. 
 >   ***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
->   The ooze can eat through 2-inch-thick, nonmagical metal in 1 round. 
+>   The ooze can eat through 5cm thick, nonmagical metal in 1 round. 
 >   ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oily pool or wet rock.
 > 
 > #### Actions 
->   ***Pseudopod.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
+>   ***Pseudopod.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/658/ooze.jpg)
 >
@@ -4031,7 +4031,7 @@
 >   *Medium dragon, lawful evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 38 (7d8 + 7)
->   **Speed**: 30 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4041,15 +4041,15 @@
 >   **Skills**: Perception +4, Stealth +3
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Amphibious.*** The dragon can breathe air and water.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage. 
->   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage plus 3 (1d6) poison damage. 
+>   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 3 *(4.5m)* cone. Each creature in that area must make a DC 11 Constitution saving throw, taking 21 (6d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/363/315/315/636252778639163748.jpeg)
 >
@@ -4057,14 +4057,14 @@
 >   *Medium fey, neutral evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 82 (11d8 + 33)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +1 (12) | +3 (16) | +1 (13) | +2 (14) | +2 (14)
 >
 >   **Skills**: Arcana +3, Deception +4, Perception +4, Stealth +3
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Common, Draconic, Sylvan
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -4074,7 +4074,7 @@
 >   ***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage. 
 >   ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 >   The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised. 
 >   ***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
@@ -4085,14 +4085,14 @@
 >   *Medium monstrosity, neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 27 (6d8)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +2 (14) | +0 (11) | -4 (3) | +2 (14) | -3 (5)
 >
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -4100,8 +4100,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The grick makes one attack with its tentacles. If that attack hits, the grick can make one beak attack against the same target. 
->   ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage. 
->   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d6 + 2) slashing damage. 
+>   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/369/1000/1000/636252779341924439.jpeg)
 >
@@ -4109,14 +4109,14 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 59 (7d10 + 21)
->   **Speed**: 30 ft., fly 80 ft.
+>   **Speed**: 6 *(9m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +2 (15) | +3 (16) | -4 (2) | +1 (13) | -1 (8)
 >
 >   **Skills**: Perception +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 15
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -4124,8 +4124,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The griffon makes two attacks: one with its beak and one with its claws. 
->   ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/373/315/315/636252779693862725.jpeg)
 >
@@ -4133,7 +4133,7 @@
 >   *Medium humanoid, neutral evil*
 >   **Armor Class**: 11 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4141,7 +4141,7 @@
 >
 >   **Skills**: Athletics +5, Perception +3, Stealth +3
 >   **Condition Immunities**: Blinded
->   **Senses**: Blindsight 30 ft.,  Passive Perception 13
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 13
 >   **Languages**: Undercommon
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -4150,7 +4150,7 @@
 >   ***Stone Camouflage.*** The grimlock has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 > 
 > #### Actions 
->   ***Spiked Bone Club.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
+>   ***Spiked Bone Club.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/375/315/315/636252780049813181.jpeg)
 >
@@ -4158,7 +4158,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 16 (Chain Shirt, Shield)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4169,7 +4169,7 @@
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -4177,7 +4177,7 @@
 >   *Large monstrosity, lawful good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 127 (15d10 + 45)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4186,7 +4186,7 @@
 >   **Saving Throws**: DEX +8, CON +7, INT +7, WIS +8, CHA +8
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Celestial, Common
 >   **Challenge**: 10 (5,900 XP)
 > #### Traits 
@@ -4201,8 +4201,8 @@
 >   6th level (1 slot): true seeing
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one. 
->   ***Spit Poison.*** *Ranged Weapon Attack:* +8 to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one creature. *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one. 
+>   ***Spit Poison.*** *Ranged Weapon Attack:* +8 to hit, range 15/6 *(9m)*, one creature. *Hit:* The target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/377/315/315/636252780447421771.jpeg)
 >
@@ -4210,7 +4210,7 @@
 >   *Large monstrosity, lawful neutral*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
->   **Speed**: 40 ft., fly 60 ft.
+>   **Speed**: 8 *(12m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4220,7 +4220,7 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Psychic
 >   **Condition Immunities**: Charmed, Frightened
->   **Senses**: Truesight 120 ft.,  Passive Perception 18
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 18
 >   **Languages**: Common, Sphinx
 >   **Challenge**: 11 (7,200 XP)
 > #### Traits 
@@ -4236,12 +4236,12 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The sphinx makes two claw attacks. 
->   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage.
 > 
 > #### Legendary Actions 
 >  The sphinx can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The sphinx regains spent legendary actions at the start of its turn. 
 >   ***Claw Attack.*** The sphinx makes one claw attack. 
->   ***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see. 
+>   ***Teleport (Costs 2 Actions).*** The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see. 
 >   ***Cast a Spell (Costs 3 Actions).*** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/383/315/315/636252780786457550.jpeg)
@@ -4250,7 +4250,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 65 (10d8 + 20)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4258,15 +4258,15 @@
 >
 >   **Skills**: Athletics +5, Perception +2
 >   **Damage Resistances**: Fire
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Common, Draconic
 >   **Challenge**: 5 (1,800 XP)
 > #### Actions 
 >   ***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack. 
->   ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
->   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage. 
->   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage. 
->   ***Fire Breath (Recharge 5–6).*** The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
+>   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage. 
+>   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 20/80 *(30m)*/*(120m)*, one target. *Hit:* 6 (1d10 + 1) piercing damage. 
+>   ***Fire Breath (Recharge 5–6).*** The veteran exhales fire in a 3 *(4.5m)* cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/387/315/315/636252781353903793.jpeg)
 >
@@ -4274,7 +4274,7 @@
 >   *Medium monstrosity, chaotic evil*
 >   **Armor Class**: 11 
 >   **Hit Points**: 38 (7d8 + 7)
->   **Speed**: 20 ft., fly 40 ft.
+>   **Speed**: 4 *(6m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4285,10 +4285,10 @@
 >   **Challenge**: 1 (200 XP)
 > #### Actions 
 >   ***Multiattack.*** The harpy makes two attacks: one with its claws and one with its club. 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) slashing damage. 
->   ***Club.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) bludgeoning damage. 
->   ***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
->   While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 5 feet. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (2d4 + 1) slashing damage. 
+>   ***Club.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d4 + 1) bludgeoning damage. 
+>   ***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 90m of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
+>   While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 1 *(1.5m)* away from the harpy, the target must move on its turn toward the harpy by the most direct route, trying to get within 1 *(1.5m)*. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
 >   A target that successfully saves is immune to this harpy's song for the next 24 hours.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/391/315/315/636252781955908234.jpeg)
@@ -4297,7 +4297,7 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4310,7 +4310,7 @@
 >   ***Keen Sight.*** The hawk has advantage on Wisdom (Perception) checks that rely on sight.
 > 
 > #### Actions 
->   ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+>   ***Talons.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/900/1000/1000/636334288270143064.jpeg)
 >
@@ -4318,7 +4318,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 45 (7d8 + 14)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4326,16 +4326,16 @@
 >
 >   **Skills**: Perception +5
 >   **Damage Immunities**: Fire
->   **Senses**: Darkvision 60 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 15
 >   **Languages**: Understands Infernal but can't speak it
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
->   ***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage. 
->   ***Fire Breath (Recharge 5–6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage. 
+>   ***Fire Breath (Recharge 5–6).*** The hound exhales fire in a 3 *(4.5m)* cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/393/315/315/636252782461361426.jpeg)
 >
@@ -4343,7 +4343,7 @@
 >   *Large fiend, chaotic evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 136 (13d10 + 65)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4353,17 +4353,17 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects. 
->   ***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+>   ***Stench.*** Any creature that starts its turn within 2 *(3m)* of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 > 
 > #### Actions 
 >   ***Multiattack.*** The hezrou makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/321/315/315/636252775562934524.jpeg)
 >
@@ -4371,7 +4371,7 @@
 >   *Huge giant, chaotic evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 105 (10d12 + 40)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4383,8 +4383,8 @@
 >   **Challenge**: 5 (1,800 XP)
 > #### Actions 
 >   ***Multiattack.*** The giant makes two greatclub attacks. 
->   ***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 18 (3d8 + 5) bludgeoning damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/240 ft., one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
+>   ***Greatclub.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 18 (3d8 + 5) bludgeoning damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +8 to hit, range 60/28 *(12m)*, one target. *Hit:* 21 (3d10 + 5) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/331/315/315/636252776196140305.jpeg)
 >
@@ -4392,7 +4392,7 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 40 ft., fly 60 ft.
+>   **Speed**: 8 *(12m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4407,8 +4407,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The hippogriff makes two attacks: one with its beak and one with its claws. 
->   ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d10 + 3) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/335/315/315/636252776578605778.jpeg)
 >
@@ -4416,21 +4416,21 @@
 >   *Medium humanoid, lawful evil*
 >   **Armor Class**: 18 (Chain Mail, Shield)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +1 (12) | +1 (12) | +0 (10) | +0 (10) | -1 (9)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common, Goblin
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
+>   ***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 1 *(1.5m)* of an ally of the hobgoblin that isn't incapacitated.
 > 
 > #### Actions 
->   ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands. 
->   ***Longbow.*** *Ranged Weapon Attack:* +3 to hit, range 150/600 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>   ***Longsword.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +3 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/389/315/315/636252781431932597.jpeg)
 >
@@ -4438,21 +4438,21 @@
 >   *Tiny construct, neutral*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 5 (2d4)
->   **Speed**: 20 ft., fly 40 ft.
+>   **Speed**: 4 *(6m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (4) | +2 (15) | +0 (11) | +0 (10) | +0 (10) | -2 (7)
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be poisoned for 1 minute. If the saving throw fails by 5 or more, the target is instead poisoned for 5 (1d10) minutes and unconscious while poisoned in this way.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/287/315/315/636379803928245506.jpeg)
 >
@@ -4460,7 +4460,7 @@
 >   *Large fiend, lawful evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 148 (17d10 + 55)
->   **Speed**: 20 ft., fly 60 ft.
+>   **Speed**: 4 *(6m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4470,8 +4470,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 13
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 13
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 11 (7,200 XP)
 > #### Traits 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision. 
@@ -4479,9 +4479,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack. 
->   ***Fork.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing. 
->   ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 150 ft., one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
+>   ***Fork.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d8 + 6) piercing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 10 (1d8 + 6) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (3d6) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (3d6). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom (Medicine) check. The wound also closes if the target receives magical healing. 
+>   ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 30 *(45m)*, one target. *Hit:* 14 (4d6) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/347/315/315/636252777255936976.jpeg)
 >
@@ -4489,14 +4489,14 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 0 ft., swim 40 ft.
+>   **Speed**: 0, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +1 (13) | +2 (15) | -5 (1) | +0 (10) | -3 (4)
 >
 >   **Skills**: Perception +2
->   **Senses**: Blindsight 30 ft.,  Passive Perception 12
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -4504,7 +4504,7 @@
 >   ***Water Breathing.*** The shark can breathe only underwater.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -4512,14 +4512,14 @@
 >   *Huge monstrosity, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 172 (15d12 + 75)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +5 (20) | +1 (12) | +5 (20) | -4 (2) | +0 (10) | -2 (7)
 >
 >   **Skills**: Perception +6
->   **Senses**: Darkvision 60 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 16
 >   **Languages**: --
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
@@ -4532,7 +4532,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The hydra makes as many bite attacks as it has heads. 
->   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 10 (1d10 + 5) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/349/315/315/636252777669218389.jpeg)
 >
@@ -4540,7 +4540,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 5 (1d8 + 1)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4551,10 +4551,10 @@
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
->   ***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d6) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/902/1000/1000/636334288674955736.jpeg)
 >
@@ -4562,7 +4562,7 @@
 >   *Large fiend, lawful evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 180 (19d10 + 76)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4572,8 +4572,8 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >  **Damage Immunities**: Cold, Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Blindsight 60 ft., Darkvision 120 ft.,  Passive Perception 12
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Blindsight 12 *(18m)*, Darkvision 24 *(36m)*,  Passive Perception 12
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 14 (11,500 XP)
 > #### Traits 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision. 
@@ -4581,12 +4581,12 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The devil makes three attacks: one with its bite, one with its claws, and one with its tail. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage. 
->   ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage. 
->   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage. 
->   ***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) piercing damage plus 10 (3d6) cold damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d4 + 5) slashing damage plus 10 (3d6) cold damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 12 (2d6 + 5) bludgeoning damage plus 10 (3d6) cold damage. 
+>   ***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 12 *(18m)* of it. The wall is 30cm thick and up to 6 *(9m)* long and 2 *(3m)* high, or it's a hemispherical dome up to 4 *(6m)* in diameter.
 >   When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is incapacitated. The creature then makes a DC 17 Dexterity saving throw, taking 35 (10d6) cold damage on a failed save, or half as much damage on a successful one.
->   The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 10-­foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+>   The wall lasts for 1 minute or until the devil is incapacitated or dies. The wall can be damaged and breached; each 2 *(3m)* section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (5d6) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/353/315/315/636252777966974765.jpeg)
 >
@@ -4594,7 +4594,7 @@
 >   *Small elemental, neutral evil*
 >   **Armor Class**: 11 
 >   **Hit Points**: 21 (6d6)
->   **Speed**: 30 ft., fly 30 ft.
+>   **Speed**: 6 *(9m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4603,17 +4603,17 @@
 >   **Damage Vulnerabilities**: Bludgeoning, Fire
 >   **Damage Immunities**: Cold, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Aquan, Auran
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one. 
+>   ***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 1 *(1.5m)* of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one. 
 >   ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice. 
 >   ***Innate Spellcasting.***(1/Day). The mephit can innately cast fog cloud, requiring no material components. Its innate spellcasting ability is Charisma.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage. 
->   ***Frost Breath (Recharge 6).*** The mephit exhales a 15- foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) cold damage. 
+>   ***Frost Breath (Recharge 6).*** The mephit exhales a 3 *(4.5m)* cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (2d4) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/290/315/315/636379804105821214.jpeg)
 >
@@ -4621,7 +4621,7 @@
 >   *Tiny fiend, lawful evil*
 >   **Armor Class**: 13 
 >   **Hit Points**: 10 (3d4 + 3)
->   **Speed**: 20 ft., fly 40 ft.
+>   **Speed**: 4 *(6m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4630,16 +4630,16 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
 >   **Languages**: Common, Infernal
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
->   ***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 20 ft.), a raven (20 ft., fly 60 ft.), or a spider (20 ft., climb 20 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
+>   ***Shapechanger.*** The imp can use its action to polymorph into a beast form that resembles a rat (speed 4 *(6m)*), a raven (4 *(6m)*, fly 12 *(18m)*), or a spider (4 *(6m)*, climb 4 *(6m)*), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
 >   ***Devil's Sight.*** Magical darkness doesn't impede the imp's darkvision. 
 >   ***Magic Resistance.*** The imp has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
->   ***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+>   ***Sting (Bite in Beast Form).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must make on a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
 >   ***Invisibility.*** The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/361/315/315/636252778560366227.jpeg)
@@ -4648,7 +4648,7 @@
 >   *Medium elemental, neutral*
 >   **Armor Class**: 14 
 >   **Hit Points**: 104 (16d8 + 32)
->   **Speed**: 50 ft., fly 50 ft. (hover)
+>   **Speed**: 10 *(15m)*, fly 10 *(15m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4658,7 +4658,7 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 60 ft.,  Passive Perception 18
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 18
 >   **Languages**: Auran  Understands Common but doesn't speak it
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
@@ -4667,7 +4667,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The stalker makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/367/315/315/636252779159282339.jpeg)
 >
@@ -4675,7 +4675,7 @@
 >   *Large construct, unaligned*
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 210 (20d10 + 100)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4683,7 +4683,7 @@
 >
 >   **Damage Immunities**: Fire, Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 16 (15,000 XP)
 > #### Traits 
@@ -4694,9 +4694,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The golem makes two melee attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage. 
->   ***Sword.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 23 (3d10 + 7) slashing damage. 
->   ***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 15-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Slam.*** *Melee Weapon Attack:* +13 to hit, reach 1 *(1.5m)*, one target. *Hit:* 20 (3d8 + 7) bludgeoning damage. 
+>   ***Sword.*** *Melee Weapon Attack:* +13 to hit, reach 2 *(3m)*, one target. *Hit:* 23 (3d10 + 7) slashing damage. 
+>   ***Poison Breath (Recharge 6).*** The golem exhales poisonous gas in a 3 *(4.5m)* cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/371/315/315/636252779460570049.jpeg)
 >
@@ -4704,7 +4704,7 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4715,10 +4715,10 @@
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The jackal has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
->   ***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4 – 1) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 (1d4 – 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -4726,14 +4726,14 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 90 (12d12 + 12)
->   **Speed**: 0 ft., swim 60 ft.
+>   **Speed**: 0, swim 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | +0 (10) | +1 (13) | -4 (3) | +1 (12) | -2 (7)
 >
 >   **Skills**: Perception +3
->   **Senses**: Blindsight 120 ft.,  Passive Perception 13
+>   **Senses**: Blindsight 24 *(36m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -4742,7 +4742,7 @@
 >   ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6 + 4) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 21 (5d6 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -4750,7 +4750,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 18 (Plate)
 >   **Hit Points**: 52 (8d8 + 16)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4764,9 +4764,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The knight makes two melee attacks. 
->   ***Greatsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage. 
->   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage. 
->   ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
+>   ***Greatsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage. 
+>   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 20/80 *(30m)*/*(120m)*, one target. *Hit:* 5 (1d10) piercing damage. 
+>   ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 6 *(9m)* of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 > 
 >  ***Reactions***: ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
 > 
@@ -4776,21 +4776,21 @@
 >   *Small humanoid, lawful evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 5 (2d6 - 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -2 (7) | +2 (15) | -1 (9) | -1 (8) | -2 (7) | -1 (8)
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: Common, Draconic
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight. 
->   ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage. 
->   ***Sling.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.
+>   ***Dagger.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage. 
+>   ***Sling.*** *Ranged Weapon Attack:* +4 to hit, range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/379/1000/1000/636252780450300625.jpeg)
 >
@@ -4798,7 +4798,7 @@
 >   *Gargantuan monstrosity, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 472 (27d20 + 189)
->   **Speed**: 20 ft., swim 60 ft.
+>   **Speed**: 4 *(6m)*, swim 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4807,27 +4807,27 @@
 >   **Saving Throws**: STR +17, DEX +7, CON +14, INT +13, WIS +11
 >   **Damage Immunities**: Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Frightened, Paralyzed
->   **Senses**: Truesight 120 ft.,  Passive Perception 14
->   **Languages**: Abyssal, Celestial, Infernal, Primordial, Telepathy 120 ft. but can't speak
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 14
+>   **Languages**: Abyssal, Celestial, Infernal, Primordial, Telepathy 24 *(36m)* but can't speak
 >   **Challenge**: 23 (50,000 XP)
 > #### Traits 
 >   ***Amphibious.*** The kraken can breathe air and water. 
->   ***Freedom of Movement.*** The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 5 feet of movement to escape from nonmagical restraints or being grappled. 
+>   ***Freedom of Movement.*** The kraken ignores difficult terrain, and magical effects can't reduce its speed or cause it to be restrained. It can spend 1 *(1.5m)* of movement to escape from nonmagical restraints or being grappled. 
 >   ***Siege Monster.*** The kraken deals double damage to objects and structures.
 > 
 > #### Actions 
 >   ***Multiattack.*** The kraken makes three tentacle attacks, each of which it can replace with one use of Fling. 
->   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 5 ft., one target. *Hit:* 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns.
->   If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone. 
->   ***Tentacle.*** *Melee Weapon Attack:* +17 to hit, reach 30 ft., one target. *Hit:* 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target. 
->   ***Fling.*** One Large or smaller object held or creature grappled by the kraken is thrown up to 60 feet in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone. 
->   ***Lightning Storm.*** The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +17 to hit, reach 1 *(1.5m)*, one target. *Hit:* 23 (3d8 + 10) piercing damage. If the target is a Large or smaller creature grappled by the kraken, that creature is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the kraken, and it takes 42 (12d6) acid damage at the start of each of the kraken's turns.
+>   If the kraken takes 50 damage or more on a single turn from a creature inside it, the kraken must succeed on a DC 25 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 2 *(3m)* of the kraken. If the kraken dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 3 *(4.5m)* of movement, exiting prone. 
+>   ***Tentacle.*** *Melee Weapon Attack:* +17 to hit, reach 6 *(9m)*, one target. *Hit:* 20 (3d6 + 10) bludgeoning damage, and the target is grappled (escape DC 18). Until this grapple ends, the target is restrained. The kraken has ten tentacles, each of which can grapple one target. 
+>   ***Fling.*** One Large or smaller object held or creature grappled by the kraken is thrown up to 12 *(18m)* in a random direction and knocked prone. If a thrown target strikes a solid surface, the target takes 3 (1d6) bludgeoning damage for every 2 *(3m)* it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 18 Dexterity saving throw or take the same damage and be knocked prone. 
+>   ***Lightning Storm.*** The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 24 *(36m)* of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > #### Legendary Actions 
 >  The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn. 
 >   ***Tentacle Attack or Fling.*** The kraken makes one tentacle attack or uses its Fling. 
 >   ***Lightning Storm (Costs 2 Actions).*** The kraken uses Lightning Storm. 
->   ***Ink Cloud (Costs 3 Actions).*** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
+>   ***Ink Cloud (Costs 3 Actions).*** While underwater, the kraken expels an ink cloud in a radius 12 *(18m)*. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/381/1000/1000/636252780680163799.jpeg)
 >
@@ -4835,14 +4835,14 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 97 (13d10 + 26)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +1 (13) | +2 (15) | +2 (14) | +2 (15) | +3 (16)
 >
 >   **Skills**: Deception +7, Insight +4, Stealth +3
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Abyssal, Common
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
@@ -4853,8 +4853,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch. 
->   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 14 (2d10 + 3) slashing damage. Dagger. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage. 
->   ***Intoxicating Touch.*** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
+>   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d10 + 3) slashing damage. Dagger. *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d4 + 3) piercing damage. 
+>   ***Intoxicating Touch.*** Melee Spell Attack: +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/385/315/315/636252780906064244.jpeg)
 >
@@ -4862,7 +4862,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 7 
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 15 ft.
+>   **Speed**: 3 *(4.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4871,7 +4871,7 @@
 >   **Damage Resistances**: Cold
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Charmed, Frightened, Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
 >   **Languages**: Understands Infernal but can't speak it
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -4879,7 +4879,7 @@
 >   ***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.
 > 
 > #### Actions 
->   ***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
+>   ***Fist.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/149/1000/1000/636252758704142054.jpeg)
 >
@@ -4887,7 +4887,7 @@
 >   *Medium undead, any evil alignment*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 135 (18d8 + 54)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4898,12 +4898,12 @@
 >   **Damage Resistances**: Cold, Lightning, Necrotic
 >   **Damage Immunities**: Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 19
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 19
 >   **Languages**: Common plus up to five other languages
 >   **Challenge**: 21 (33,000 XP)
 > #### Traits 
 >   ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead. 
->   ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery. 
+>   ***Rejuvenation.*** If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 1 *(1.5m)* of the phylactery. 
 >   ***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared: 
 >   *Cantrips (at will)*: mage hand, prestidigitation, ray of frost 
 >   1st level (4 slots): detect magic, magic missile, shield, thunderwave 
@@ -4918,14 +4918,14 @@
 >   ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 > 
 > #### Actions 
->   ***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > #### Legendary Actions 
 >  The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn. 
 >   ***Cantrip.*** The lich casts a cantrip. 
 >   ***Paralyzing Touch (Costs 2 Actions).*** The lich uses its Paralyzing Touch. 
->   ***Frightening Gaze (Costs 2 Actions).*** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours. 
->   ***Disrupt Life (Costs 3 Actions).*** Each living creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
+>   ***Frightening Gaze (Costs 2 Actions).*** The lich fixes its gaze on one creature it can see within 2 *(3m)* of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours. 
+>   ***Disrupt Life (Costs 3 Actions).*** Each living creature within 4 *(6m)* of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/165/1000/1000/636252760084366499.jpeg)
 >
@@ -4933,7 +4933,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 26 (4d10 + 4)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4945,13 +4945,13 @@
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Keen Smell.*** The lion has advantage on Wisdom (Perception) checks that rely on smell. 
->   ***Pack Tactics***: The lion has advantage on an attack roll against a creature if at least one of the lion’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
->   ***Pounce.*** If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action. 
->   ***Running Leap.*** With a 10-foot running start, the lion can long jump up to 25 feet.
+>   ***Pack Tactics***: The lion has advantage on an attack roll against a creature if at least one of the lion’s allies is within 1 *(1.5m)* of the creature and the ally isn’t incapacitated.
+>   ***Pounce.*** If the lion moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the lion can make one bite attack against it as a bonus action. 
+>   ***Running Leap.*** With a 2 *(3m)* running start, the lion can long jump up to 5 *(7.5m)*.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -4959,16 +4959,16 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 20 ft., climb 20 ft.
+>   **Speed**: 4 *(6m)*, climb 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +0 (11) | +0 (10) | -5 (1) | -1 (8) | -4 (3)
->   **Senses**: Darkvision 30 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -4976,7 +4976,7 @@
 >   *Medium humanoid, neutral*
 >   **Armor Class**: 15 (Natural Armor, Shield)
 >   **Hit Points**: 22 (4d8 + 4)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -4991,10 +4991,10 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The lizardfolk makes two melee attacks, each one with a different weapon. 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Heavy Club.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) bludgeoning damage. 
->   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Spiked Shield.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Heavy Club.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) bludgeoning damage. 
+>   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Spiked Shield.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/233/315/315/636252766314905259.jpeg)
 >
@@ -5002,7 +5002,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 (15 With Mage Armor)
 >   **Hit Points**: 40 (9d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5022,7 +5022,7 @@
 >   5th level (1 slot): cone of cold
 > 
 > #### Actions 
->   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+>   ***Dagger.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -5030,7 +5030,7 @@
 >   *Small elemental, neutral evil*
 >   **Armor Class**: 11 
 >   **Hit Points**: 22 (5d6 + 5)
->   **Speed**: 30 ft., fly 30 ft.
+>   **Speed**: 6 *(9m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5039,17 +5039,17 @@
 >   **Damage Vulnerabilities**: Cold
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Ignan, Terran
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 1 *(1.5m)* of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. 
 >   ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma. 
 >   ***Innate Spellcasting.***(1/Day). The mephit can innately cast heat metal (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage. 
->   ***Fire Breath (Recharge 6).*** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage. 
+>   ***Fire Breath (Recharge 6).*** The mephit exhales a 3 *(4.5m)* cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/292/315/315/636379804350894228.jpeg)
 >
@@ -5057,22 +5057,22 @@
 >   *Small elemental, chaotic neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 9 (2d6 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -2 (7) | +2 (15) | +1 (12) | -1 (8) | +0 (11) | +0 (10)
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Ignan
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited. 
->   ***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+>   ***Death Burst.*** When the magmin dies, it explodes in a burst of fire and magma. Each creature within 2 *(3m)* of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one. Flammable objects that aren't being worn or carried in that area are ignited. 
+>   ***Ignited Illumination.*** As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a radius 2 *(3m)* and dim light for an additional 2 *(3m)*.
 > 
 > #### Actions 
->   ***Touch.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
+>   ***Touch.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (1d6) fire damage at the end of each of its turns.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/183/315/315/636252762034276620.jpeg)
 >
@@ -5080,7 +5080,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5090,11 +5090,11 @@
 >   **Languages**: --
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
->   ***Trampling Charge.*** If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
+>   ***Trampling Charge.*** If the mammoth moves at least 4 *(6m)* straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (4d8 + 7) piercing damage. 
->   ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one prone creature. *Hit:* 29 (4d10 + 7) bludgeoning damage.
+>   ***Gore.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 25 (4d8 + 7) piercing damage. 
+>   ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one prone creature. *Hit:* 29 (4d10 + 7) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5102,13 +5102,13 @@
 >   *Large monstrosity, lawful evil*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
->   **Speed**: 30 ft., fly 50 ft.
+>   **Speed**: 6 *(9m)*, fly 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (17) | +3 (16) | +3 (17) | -2 (7) | +1 (12) | -1 (8)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: Common
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -5116,9 +5116,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes. 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage. 
->   ***Tail Spike.*** *Ranged Weapon Attack:* +5 to hit, range 100/200 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage. 
+>   ***Tail Spike.*** *Ranged Weapon Attack:* +5 to hit, range 20/40 *(30m)*/*(60m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/187/315/315/636252762623266809.jpeg)
 >
@@ -5126,7 +5126,7 @@
 >   *Large fiend, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 189 (18d10 + 90)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5136,8 +5136,8 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Pois
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 13
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 13
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 16 (15,000 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects. 
@@ -5146,9 +5146,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The marilith makes seven attacks: six with its longswords and one with its tail. 
->   ***Longsword.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets. 
->   ***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>   ***Longsword.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one creature. *Hit:* 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets. 
+>   ***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see.
 > 
 >  ***Reactions***: ***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 > 
@@ -5158,7 +5158,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 5 (1d8 + 1)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5172,7 +5172,7 @@
 >   ***Keen Hearing and Smell.*** The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/191/1000/1000/636252763295291063.jpeg)
 >
@@ -5180,26 +5180,26 @@
 >   *Medium monstrosity, lawful evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 127 (17d8 + 51)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +0 (10) | +2 (15) | +3 (16) | +1 (12) | +1 (13) | +2 (15)
 >
 >   **Skills**: Deception +5, Insight +4, Perception +4, Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Common
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
->   ***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
+>   ***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 6 *(9m)* of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the greater restoration spell or other magic.
 >   Unless surprised, a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
->   If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
+>   If the medusa sees itself reflected on a polished surface within 6 *(9m)* of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 > 
 > #### Actions 
 >   ***Multiattack.*** The medusa makes either three melee attacks--one with its snake hair and two with its shortsword--or two ranged attacks with its longbow. 
->   ***Snake Hair.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage. 
->   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
+>   ***Snake Hair.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage. 
+>   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/580/1000/1000/636376361850900325.jpeg)
 >
@@ -5207,7 +5207,7 @@
 >   *Medium humanoid, neutral*
 >   **Armor Class**: 11 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 10 ft., swim 40 ft.
+>   **Speed**: 2 *(3m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5221,7 +5221,7 @@
 >   ***Amphibious.*** The merfolk can breathe air and water.
 > 
 > #### Actions 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +2 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +2 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/197/1000/1000/636252763841141413.jpeg)
 >
@@ -5229,13 +5229,13 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 10 ft., swim 40 ft.
+>   **Speed**: 2 *(3m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +0 (10) | +2 (15) | -1 (8) | +0 (10) | -1 (9)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Abyssal, Aquan
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -5243,9 +5243,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The merrow makes two attacks: one with its bite and one with its claws or harpoon. 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4 + 4) slashing damage. 
->   ***Harpoon.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 20 feet toward the merrow.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d4 + 4) slashing damage. 
+>   ***Harpoon.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a Huge or smaller creature, it must succeed on a Strength contest against the merrow or be pulled up to 4 *(6m)* toward the merrow.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/203/315/315/636252764097970952.jpeg)
 >
@@ -5253,7 +5253,7 @@
 >   *Medium monstrosity, neutral*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 58 (9d8 + 18)
->   **Speed**: 15 ft.
+>   **Speed**: 3 *(4.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5262,7 +5262,7 @@
 >   **Skills**: Stealth +5
 >   **Damage Immunities**: Acid
 >   **Condition Immunities**: Prone
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -5272,8 +5272,8 @@
 >   ***Grappler.*** The mimic has advantage on attack rolls against any creature grappled by it.
 > 
 > #### Actions 
->   ***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait. 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
+>   ***Pseudopod.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait. 
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/211/315/315/636252764731637373.jpeg)
 >
@@ -5281,24 +5281,24 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 76 (9d10 + 27)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +0 (11) | +3 (16) | -2 (6) | +3 (16) | -1 (9)
 >
 >   **Skills**: Perception +7
->   **Senses**: Darkvision 60 ft.,  Passive Perception 17
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 17
 >   **Languages**: Abyssal
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
->   ***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone. 
+>   ***Charge.*** If the minotaur moves at least 2 *(3m)* straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 2 *(3m)* away and knocked prone. 
 >   ***Labyrinthine Recall.*** The minotaur can perfectly recall any path it has traveled. 
 >   ***Reckless.*** At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 > 
 > #### Actions 
->   ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12 + 4) slashing damage. 
->   ***Gore.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
+>   ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 17 (2d12 + 4) slashing damage. 
+>   ***Gore.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/217/1000/1000/636252765009181721.jpeg)
 >
@@ -5306,7 +5306,7 @@
 >   *Large undead, lawful evil*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 67 (9d10 + 18)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5315,15 +5315,15 @@
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: Understands Abyssal but can't speak  it
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
+>   ***Charge.*** If the skeleton moves at least 2 *(3m)* straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 2 *(3m)* away and knocked prone.
 > 
 > #### Actions 
->   ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12 + 4) slashing damage. 
->   ***Gore.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) piercing damage.
+>   ***Greataxe.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 17 (2d12 + 4) slashing damage. 
+>   ***Gore.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/480/1000/1000/636376298435934058.jpeg)
 >
@@ -5331,7 +5331,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5345,7 +5345,7 @@
 >   ***Sure-Footed.*** The mule has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 > 
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5353,7 +5353,7 @@
 >   *Medium undead, lawful evil*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 58 (9d8 + 18)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5364,13 +5364,13 @@
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: The languages it knew in life
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
 >   ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
->   ***Rotting Fist.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
->   ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+>   ***Rotting Fist.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
+>   ***Dreadful Glare.*** The mummy targets one creature it can see within 12 *(18m)* of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/225/1000/1000/636252765553048566.jpeg)
 >
@@ -5378,7 +5378,7 @@
 >   *Medium undead, lawful evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 97 (13d8 + 39)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5389,12 +5389,12 @@
 >   **Damage Vulnerabilities**: Fire
 >   **Damage Immunities**: Necrotic, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: The languages it knew in life
 >   **Challenge**: 15 (13,000 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
->   ***Rejuvenation.*** A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord's heart.
+>   ***Rejuvenation.*** A destroyed mummy lord gains a new body in 24 hours if its heart is intact, regaining all its hit points and becoming active again. The new body appears within 1 *(1.5m)* of the mummy lord's heart.
 >   ***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 >   *Cantrips (at will)*: sacred flame, thaumaturgy
 >   1st level (4 slots): command, guiding bolt, shield of faith
@@ -5406,16 +5406,16 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
->   ***Rotting Fist.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
->   ***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+>   ***Rotting Fist.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the remove curse spell or other magic.
+>   ***Dreadful Glare.*** The mummy lord targets one creature it can see within 12 *(18m)* of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 > 
 > #### Legendary Actions 
 >  The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 >   ***Attack.*** The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
->   ***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
->   ***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
->   ***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
->   ***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
+>   ***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 1 *(1.5m)* of the mummy lord must succeed on a DC 16 Constitution saving throw or be blinded until the end of the creature's next turn.
+>   ***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 2 *(3m)* of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be stunned until the end of the mummy lord's next turn.
+>   ***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 12 *(18m)* of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
+>   ***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 12 *(18m)*, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/660/undead.jpg)
 >
@@ -5423,7 +5423,7 @@
 >   *Large fiend, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 184 (16d10 + 96)
->   **Speed**: 20 ft., fly 30 ft.
+>   **Speed**: 4 *(6m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5433,18 +5433,18 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 11
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 11
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 13 (10,000 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
 >   ***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 32 (5d10 + 5) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 15 (3d6 + 5) slashing damage. 
->   ***Horror Nimbus (Recharge 5–6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours. 
->   ***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 32 (5d10 + 5) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (3d6 + 5) slashing damage. 
+>   ***Horror Nimbus (Recharge 5–6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 3 *(4.5m)* of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours. 
+>   ***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/261/1000/1000/636252768396688147.jpeg)
 >
@@ -5452,7 +5452,7 @@
 >   *Medium fiend, neutral evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 112 (15d8 + 45)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5461,7 +5461,7 @@
 >   **Skills**: Deception +7, Insight +6, Perception +6, Stealth +6
 >   **Damage Resistances**: Cold, Fire; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Condition Immunities**: Charmed
->   **Senses**: Darkvision 120 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 16
 >   **Languages**: Abyssal, Common, Infernal, Primordial
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -5471,7 +5471,7 @@
 >   ***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
->   ***Claws.***(Hag Form Only). *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage. 
+>   ***Claws.***(Hag Form Only). *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage. 
 >   ***Change Shape.*** The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies. 
 >   ***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession. 
 >   ***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A protection from evil and good spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the greater restoration spell or similar magic.
@@ -5482,7 +5482,7 @@
 >   *Large fiend, neutral evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
->   **Speed**: 60 ft., fly 90 ft.
+>   **Speed**: 12 *(18m)*, fly 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5494,11 +5494,11 @@
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
 >   ***Confer Fire Resistance.*** The nightmare can grant resistance to fire damage to anyone riding it. 
->   ***Illumination.*** The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
+>   ***Illumination.*** The nightmare sheds bright light in a radius 2 *(3m)* and dim light for an additional 2 *(3m)*.
 > 
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage. 
->   ***Ethereal Stride.*** The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage. 
+>   ***Ethereal Stride.*** The nightmare and up to three willing creatures within 1 *(1.5m)* of it magically enter the Ethereal Plane from the Material Plane, or vice versa.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/273/315/315/636252769493472144.jpeg)
 >
@@ -5506,7 +5506,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 15 (Breastplate)
 >   **Hit Points**: 9 (2d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5517,7 +5517,7 @@
 >   **Languages**: Any two languages
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Rapier.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>   ***Rapier.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d8 + 1) piercing damage.
 > 
 >  ***Reactions***: ***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 > 
@@ -5527,14 +5527,14 @@
 >   *Medium aberration, neutral evil*
 >   **Armor Class**: 15 Natural
 >   **Hit Points**: 45 (6d8 + 18)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +3 (16) | +3 (16) | +1 (13) | +0 (10) | -1 (8)
 >
 >   **Skills**: Arcana +3, Insight +4, Perception +2, Stealth +5
->   **Senses**: Truesight 120 ft.,  Passive Perception 12
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 12
 >   **Languages**: Undercommon
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -5542,9 +5542,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The nothic makes two claw attacks.
->   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
->   ***Rotting Gaze.*** The nothic targets one creature it can see within 30 feet of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
->   ***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma (Deception) check against the nothic’s Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed.
+>   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage.
+>   ***Rotting Gaze.*** The nothic targets one creature it can see within 6 *(9m)* of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
+>   ***Weird Insight.*** The nothic targets one creature it can see within 6 *(9m)* of it. The target must contest its Charisma (Deception) check against the nothic’s Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/475/1000/1000/636364321398842272.png)
 >
@@ -5552,7 +5552,7 @@
 >   *Large ooze, unaligned*
 >   **Armor Class**: 8 
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 10 ft., climb 10 ft.
+>   **Speed**: 2 *(3m)*, climb 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5561,15 +5561,15 @@
 >   **Damage Resistances**: Acid
 >   **Damage Immunities**: Lightning, Slashing
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Exhaustion, Frightened, Prone
->   **Senses**: Blindsight 60 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing. 
+>   ***Amorphous.*** The jelly can move through a space as narrow as 3cm wide without squeezing. 
 >   ***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 > 
 > #### Actions 
->   ***Pseudopod.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
+>   ***Pseudopod.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 > 
 >  ***Reactions***: ***Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly.
 > 
@@ -5579,13 +5579,13 @@
 >   *Small beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 3 (1d6)
->   **Speed**: 5 ft., swim 30 ft.
+>   **Speed**: 1 *(1.5m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (4) | +2 (15) | +0 (11) | -4 (3) | +0 (10) | -3 (4)
 >   **Skills**: Perception +2, Stealth +4
->   **Senses**: Darkvision 30 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -5594,8 +5594,8 @@
 >   ***Water Breathing.*** The octopus can breathe only underwater.
 > 
 > #### Actions 
->   ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target. 
->   ***Ink Cloud (Recharges after a Short or Long Rest).*** A 5-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
+>   ***Tentacles.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target. 
+>   ***Ink Cloud (Recharges after a Short or Long Rest).*** A radius 1 *(1.5m)* cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the Dash action as a bonus action.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/921/315/315/636334602449110996.jpeg)
 >
@@ -5603,18 +5603,18 @@
 >   *Large giant, chaotic evil*
 >   **Armor Class**: 11 (Hide Armor)
 >   **Hit Points**: 59 (7d10 + 21)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | -1 (8) | +3 (16) | -3 (5) | -2 (7) | -2 (7)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: Common, Giant
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
->   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.
+>   ***Greatclub.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
+>   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +6 to hit, reach 1 *(1.5m)* or range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/285/315/315/636252770535203221.jpeg)
 >
@@ -5622,7 +5622,7 @@
 >   *Large undead, neutral evil*
 >   **Armor Class**: 8 
 >   **Hit Points**: 85 (9d10 + 36)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5631,14 +5631,14 @@
 >   **Saving Throws**: WIS +0
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: Understands Common and Giant but can't speak  them
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 > 
 > #### Actions 
->   ***Morningstar.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
+>   ***Morningstar.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/287/315/315/636252770700032248.jpeg)
 >
@@ -5646,7 +5646,7 @@
 >   *Large giant, lawful evil*
 >   **Armor Class**: 16 (Chain Mail)
 >   **Hit Points**: 110 (13d10 + 39)
->   **Speed**: 30 ft., fly 30 ft.
+>   **Speed**: 6 *(9m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5654,7 +5654,7 @@
 >
 >   **Saving Throws**: DEX +3, CON +6, WIS +4, CHA +5
 >   **Skills**: Arcana +5, Deception +8, Perception +4
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Common, Giant
 >   **Challenge**: 7 (2,900 XP)
 > #### Traits 
@@ -5666,8 +5666,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The oni makes two attacks, either with its claws or its glaive. 
->   ***Claw (Oni Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage. 
->   ***Glaive.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form. 
+>   ***Claw (Oni Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) slashing damage. 
+>   ***Glaive.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form. 
 >   ***Change Shape.*** The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/297/1000/1000/636252771507213738.jpeg)
@@ -5676,22 +5676,22 @@
 >   *Medium humanoid, chaotic evil*
 >   **Armor Class**: 13 (Hide Armor)
 >   **Hit Points**: 15 (2d8 + 6)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +1 (12) | +3 (16) | -2 (7) | +0 (11) | +0 (10)
 >
 >   **Skills**: Intimidation +2
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Common, Orc
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
 >   ***Aggressive***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 > 
 > #### Actions 
->   ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage. 
->   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+>   ***Greataxe.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (1d12 + 3) slashing damage. 
+>   ***Javelin.*** *Melee or *Ranged Weapon Attack:* +5 to hit, reach 1 *(1.5m)* or range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/301/1000/1000/636252771691385727.jpeg)
 >
@@ -5699,22 +5699,22 @@
 >   *Large aberration, neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +0 (11) | +4 (19) | -2 (6) | +1 (13) | -2 (6)
 >
 >   **Saving Throws**: CON +7
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
 >   **Languages**: Otyugh
 >   **Challenge**: 5 (1,800 XP)
-> #### Traits ***Limited Telepathy.*** The otyugh can magically transmisimple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
+> #### Traits ***Limited Telepathy.*** The otyugh can magically transmisimple messages and images to any creature within 24 *(36m)* of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 > 
 > #### Actions 
 >   ***Multiattack.*** The otyugh makes three attacks: one with its bite and two with its tentacles. 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. 
->   ***Tentacle.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target. 
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (1d10) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured. 
+>   ***Tentacle.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target. 
 >   ***Tentacle Slam.*** The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/305/315/315/636252771931366466.jpeg)
@@ -5723,13 +5723,13 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 5 ft., fly 60 ft.
+>   **Speed**: 1 *(1.5m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (3) | +1 (13) | -1 (8) | -4 (2) | +1 (12) | -2 (7)
 >   **Skills**: Perception +3, Stealth +3
->   **Senses**: Darkvision 120 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -5737,7 +5737,7 @@
 >   ***Keen Hearing and Sight.*** The owl has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 > 
 > #### Actions 
->   ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
+>   ***Talons.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/533/1000/1000/636376331660233857.jpeg)
 >
@@ -5745,14 +5745,14 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 59 (7d10 + 21)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +5 (20) | +1 (12) | +3 (17) | -4 (3) | +1 (12) | -2 (7)
 >
 >   **Skills**: Perception +3
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -5760,8 +5760,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The owlbear makes two attacks: one with its beak and one with its claws. 
->   ***Beak.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one creature. *Hit:* 10 (1d10 + 5) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 10 (1d10 + 5) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d8 + 5) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/315/315/315/636252772225295187.jpeg)
 >
@@ -5769,7 +5769,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 50 ft., climb 40 ft.
+>   **Speed**: 10 *(15m)*, climb 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5781,11 +5781,11 @@
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Keen Smell.*** The panther has advantage on Wisdom (Perception) checks that rely on smell. 
->   ***Pounce.*** If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
+>   ***Pounce.*** If the panther moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5793,7 +5793,7 @@
 >   *Large celestial, chaotic good*
 >   **Armor Class**: 12 
 >   **Hit Points**: 59 (7d10 + 21)
->   **Speed**: 60 ft., fly 90 ft.
+>   **Speed**: 12 *(18m)*, fly 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5805,7 +5805,7 @@
 >   **Languages**: Celestial, Common, Elvish  and Sylvan but can't speak
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/303/1000/1000/636379808797059368.png)
 >
@@ -5813,14 +5813,14 @@
 >   *Large monstrosity, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 32 (5d10 + 5)
->   **Speed**: 30 ft., climb 30 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (15) | +2 (15) | +1 (12) | -2 (6) | +0 (10) | -2 (6)
 >
 >   **Skills**: Stealth +6
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -5829,7 +5829,7 @@
 >   ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/319/315/315/636252772538300448.jpeg)
 >
@@ -5837,7 +5837,7 @@
 >   *Large fiend, lawful evil*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 300 (24d10 + 168)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5847,8 +5847,8 @@
 >   **Damage Resistances**: Cold; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 14
->   **Languages**: Infernal, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 14
+>   **Languages**: Infernal, Telepathy 24 *(36m)*
 >   **Challenge**: 20 (25,000 XP)
 > #### Traits 
 >   ***Fear Aura.*** incapacitated, frightened
@@ -5857,10 +5857,10 @@
 >   ***Innate Spellcasting.*** detect magic, fireball, hold monster, wall of fire
 > #### Actions 
 >   ***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail. 
->   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
->   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 17 (2d8 + 8) slashing damage. 
->   ***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage. 
->   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
+>   ***Bite.*** *Melee Weapon Attack:* +14 to hit, reach 1 *(1.5m)*, one target. *Hit:* 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns. The poisoned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Claw.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d8 + 8) slashing damage. 
+>   ***Mace.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 24 (3d10 + 8) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/311/315/315/636252772132434763.jpeg)
 >
@@ -5868,7 +5868,7 @@
 >   *Large celestial, lawful good*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 200 (16d10 + 112)
->   **Speed**: 40 ft., fly 120 ft.
+>   **Speed**: 8 *(12m)*, fly 24 *(36m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5878,8 +5878,8 @@
 >   **Skills**: Perception +11
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened
->   **Senses**: Truesight 120 ft.,  Passive Perception 21
->   **Languages**: All, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 21
+>   **Languages**: All, Telepathy 24 *(36m)*
 >   **Challenge**: 16 (15,000 XP)
 > #### Traits 
 >   ***Angelic Weapons.*** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack). 
@@ -5892,7 +5892,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The planetar makes two melee attacks. 
->   ***Greatsword.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage. 
+>   ***Greatsword.*** *Melee Weapon Attack:* +12 to hit, reach 1 *(1.5m)*, one target. *Hit:* 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage. 
 >   ***Healing Touch*** (4/Day). The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/303/315/315/636252771762002496.jpeg)
@@ -5901,7 +5901,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 68 (8d10 + 24)
->   **Speed**: 20 ft., swim 40 ft.
+>   **Speed**: 4 *(6m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5915,7 +5915,7 @@
 >   ***Hold Breath.*** The plesiosaurus can hold its breath for 1 hour.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6 + 4) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 2 *(3m)*, one target. *Hit:* 14 (3d6 + 4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/488/315/315/636376304583147024.jpeg)
 >
@@ -5923,16 +5923,16 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +3 (16) | +0 (11) | -5 (1) | +0 (10) | -4 (3)
->   **Senses**: Blindsight 10 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5940,7 +5940,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 42 (5d10 + 15)
->   **Speed**: 40 ft., swim 30 ft.
+>   **Speed**: 8 *(12m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5955,8 +5955,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (1d8 + 5) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (1d8 + 5) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5964,7 +5964,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -5974,7 +5974,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -5982,7 +5982,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 13 (Chain Shirt)
 >   **Hit Points**: 27 (5d8 + 5)
->   **Speed**: 25 ft.
+>   **Speed**: 5 *(7.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6001,7 +6001,7 @@
 >   3rd level (2 slots): dispel magic,* spirit guardians*
 > 
 > #### Actions 
->   ***Mace.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
+>   ***Mace.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -6009,22 +6009,22 @@
 >   *Tiny dragon, neutral good*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 7 (2d4 + 2)
->   **Speed**: 15 ft., fly 60 ft.
+>   **Speed**: 3 *(4.5m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -2 (6) | +2 (15) | +1 (13) | +0 (10) | +1 (12) | +0 (10)
 >   **Skills**: Perception +3, Stealth +4
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: Understands Common and Draconic but can't speak them
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The pseudodragon has advantage on saving throws against spells and other magical effects. 
->   ***Limited Telepathy.*** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.
+>   ***Limited Telepathy.*** The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 30m of it that can understand a language.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage. 
->   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage. 
+>   ***Sting.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration, or until it takes damage or another creature uses an action to shake it awake.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/283/1000/1000/636252770521719244.jpeg)
 >
@@ -6032,7 +6032,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 10 ft., fly 60 ft.
+>   **Speed**: 2 *(3m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6045,7 +6045,7 @@
 >   ***Flyby.*** The pteranodon doesn’t provoke an opportunity attack when it flies out of an enemy’s reach.
 >     
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (2d4 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -6053,23 +6053,24 @@
 >   *Gargantuan monstrosity, unaligned*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 247 (15d20 + 90)
->   **Speed**: 50 ft., burrow 30 ft.
+>   **Speed**: 10 *(15m)*, burrow 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +9 (28) | -2 (7) | +6 (22) | -5 (1) | -1 (8) | -3 (4)
 >
 >   **Saving Throws**: CON +11, WIS +4
->   **Senses**: Blindsight 30 ft., Tremorsense 60 ft.,  Passive Perception 9
+>   **Senses**: Blindsight 6 *(9m)*, Tremorsense 12 *(18m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 15 (13,000 XP)
-> #### Traits ***Tunneler.*** The worm can burrow through solid rock at halits burrow speed and leaves a 10-foot-diameter tunnel in its wake.
+> #### Traits 
+>   ***Tunneler.*** The worm can burrow through solid rock at halits burrow speed and leaves a diameter 2 *(3m)* tunnel in its wake.
 > 
 > #### Actions 
 >   ***Multiattack.*** The worm makes two attacks: one with its bite and one with its stinger. 
->   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.
->   If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone. 
->   ***Tail Stinger.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one creature. *Hit:* 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, it has total cover against attacks and other effects outside the worm, and it takes 21 (6d6) acid damage at the start of each of the worm's turns.
+>   If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 2 *(3m)* of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 4 *(6m)* of movement, exiting prone. 
+>   ***Tail Stinger.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one creature. *Hit:* 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/275/315/315/636252769846436684.jpeg)
 >
@@ -6077,7 +6078,7 @@
 >   *Tiny fiend, chaotic evil*
 >   **Armor Class**: 13 
 >   **Hit Points**: 7 (3d4)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6086,16 +6087,16 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
 >   **Languages**: Abyssal, Common
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
->   ***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 10 ft. fly 40 ft.), a centipede (40 ft., climb 40 ft.), or a toad (40 ft., swim 40 ft.), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
+>   ***Shapechanger.*** The quasit can use its action to polymorph into a beast form that resembles a bat (speed 2 *(3m)* fly 8 *(12m)*), a centipede (8 *(12m)*, climb 8 *(12m)*), or a toad (8 *(12m)*, swim 8 *(12m)*), or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
 >   ***Magic Resistance.*** The quasit has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
->   ***Claws (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
->   ***Scare (1/Day).*** One creature of the quasit's choice within 20 feet of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success. 
+>   ***Claws (Bite in Beast Form).*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d4 + 3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. 
+>   ***Scare (1/Day).*** One creature of the quasit's choice within 4 *(6m)* of it must succeed on a DC 10 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the quasit is within line of sight, ending the effect on itself on a success. 
 >   ***Invisibility.*** The quasit magically turns invisible until it attacks or uses Scare, or until its concentration ends (as if concentrating on a spell). Any equipment the quasit wears or carries is invisible with it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/271/315/315/636252769318699115.jpeg)
@@ -6104,12 +6105,12 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 0 ft., swim 40 ft.
+>   **Speed**: 0, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +3 (16) | -1 (9) | -5 (1) | -2 (7) | -4 (2)
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -6117,7 +6118,7 @@
 >   ***Water Breathing.*** The quipper can breathe only underwater.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/253/1000/1000/636252767919065233.jpeg)
 >
@@ -6125,7 +6126,7 @@
 >   *Medium fiend, lawful evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 110 (13d8 + 52)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6134,7 +6135,7 @@
 >   **Skills**: Deception +10, Insight +8
 >   **Damage Vulnerabilities**: Piercing from Magic Weapons Wielded by Good Creatures
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: Common, Infernal
 >   **Challenge**: 13 (10,000 XP)
 > #### Traits 
@@ -6146,7 +6147,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The rakshasa makes two claw attacks.
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/247/315/315/636252767480157951.jpeg)
 >
@@ -6154,19 +6155,19 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +0 (11) | -1 (9) | -4 (2) | +0 (10) | -3 (4)
->   **Senses**: Darkvision 30 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +0 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/541/315/315/636376335435407571.jpeg)
 >
@@ -6174,7 +6175,7 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 10 ft., fly 50 ft.
+>   **Speed**: 2 *(3m)*, fly 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6187,7 +6188,7 @@
 >   ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a baby crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
 > 
 > #### Actions 
->   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/553/1000/1000/636376341568391037.jpeg)
 >
@@ -6195,7 +6196,7 @@
 >   *Medium dragon, chaotic evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 75 (10d8 + 30)
->   **Speed**: 30 ft., climb 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, climb 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6204,12 +6205,12 @@
 >   **Saving Throws**: DEX +2, CON +5, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 4 (1,100 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage. 
->   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (1d10 + 4) piercing damage plus 3 (1d6) fire damage. 
+>   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 3 *(4.5m)* cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 24 (7d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/239/315/315/636252766855622680.jpeg)
 >
@@ -6217,22 +6218,22 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
->   **Speed**: 0 ft., swim 40 ft.
+>   **Speed**: 0, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +2 (14) | +1 (13) | +1 (13) | -5 (1) | +0 (10) | -3 (4)
 >
 >   **Skills**: Perception +2
->   **Senses**: Blindsight 30 ft.,  Passive Perception 12
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 12
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+>   ***Pack Tactics.*** The shark has advantage on an attack roll against a creature if at least one of the shark's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated. 
 >   ***Water Breathing.*** The shark can breathe only underwater.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -6240,23 +6241,23 @@
 >   *Huge monstrosity, unaligned*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 195 (17d12 + 85)
->   **Speed**: 30 ft., burrow 20 ft.
+>   **Speed**: 6 *(9m)*, burrow 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +7 (24) | +1 (13) | +5 (21) | -3 (4) | +0 (10) | -3 (5)
 >
 >   **Damage Immunities**: Cold, Fire
->   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*, Tremorsense 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 11 (7,200 XP)
 > #### Traits 
->   ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.
+>   ***Heated Body.*** A creature that touches the remorhaz or hits it with a melee attack while within 1 *(1.5m)* of it takes 10 (3d6) fire damage.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 10 ft., one target. *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target. 
+>   ***Bite.*** *Melee Weapon Attack:* +11 to hit, reach 2 *(3m)*, one target. *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target. 
 >   ***Swallow.*** The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns.
->   If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.
+>   If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 2 *(3m)* of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 3 *(4.5m)* of movement, exiting prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/231/315/315/636252766143328421.jpeg)
 >
@@ -6264,7 +6265,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 45 (6d10 + 12)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6274,10 +6275,10 @@
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
+>   ***Charge.*** If the rhinoceros moves at least 4 *(6m)* straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 > 
 > #### Actions 
->   ***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
+>   ***Gore.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d8 + 5) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -6285,7 +6286,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 13 (2d10 + 2)
->   **Speed**: 60 ft.
+>   **Speed**: 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6295,7 +6296,7 @@
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (2d4 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/904/315/315/636334288913250513.jpeg)
 >
@@ -6303,7 +6304,7 @@
 >   *Gargantuan monstrosity, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 248 (16d20 + 80)
->   **Speed**: 20 ft., fly 120 ft.
+>   **Speed**: 4 *(6m)*, fly 24 *(36m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6319,8 +6320,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The roc makes two attacks: one with its beak and one with its talons. 
->   ***Beak.*** *Melee Weapon Attack:* +13 to hit, reach 10 ft., one target. *Hit:* 27 (4d8 + 9) piercing damage. 
->   ***Talons.*** *Melee Weapon Attack:* +13 to hit, reach 5 ft., one target. *Hit:* 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
+>   ***Beak.*** *Melee Weapon Attack:* +13 to hit, reach 2 *(3m)*, one target. *Hit:* 27 (4d8 + 9) piercing damage. 
+>   ***Talons.*** *Melee Weapon Attack:* +13 to hit, reach 1 *(1.5m)*, one target. *Hit:* 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/229/315/315/636252765590929622.jpeg)
 >
@@ -6328,14 +6329,14 @@
 >   *Large monstrosity, neutral evil*
 >   **Armor Class**: 20 (Natural Armor)
 >   **Hit Points**: 93 (11d10 + 33)
->   **Speed**: 10 ft., climb 10 ft.
+>   **Speed**: 2 *(3m)*, climb 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | -1 (8) | +3 (17) | -2 (7) | +3 (16) | -2 (6)
 >
 >   **Skills**: Perception +6, Stealth +5
->   **Senses**: Darkvision 60 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 16
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -6345,9 +6346,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 22 (4d8 + 4) piercing damage. 
->   ***Tendril.*** *Melee Weapon Attack:* +7 to hit, reach 50 ft., one creature. *Hit:* The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target. 
->   ***Reel.*** The roper pulls each creature grappled by it up to 25 feet straight toward it.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 22 (4d8 + 4) piercing damage. 
+>   ***Tendril.*** *Melee Weapon Attack:* +7 to hit, reach 10 *(15m)*, one creature. *Hit:* The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target. 
+>   ***Reel.*** The roper pulls each creature grappled by it up to 5 *(7.5m)* straight toward it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/560/1000/1000/636376344528091115.jpeg)
 >
@@ -6355,7 +6356,7 @@
 >   *Large construct, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 33 (6d10)
->   **Speed**: 10 ft.
+>   **Speed**: 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6363,7 +6364,7 @@
 >
 >   **Damage Immunities**: Poison, Psychic
 >   **Condition Immunities**: Blinded, Charmed, Deafened, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Blindsight 60 ft.,  Passive Perception 6
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 6
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -6372,7 +6373,7 @@
 >   ***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.
 > 
 > #### Actions 
->   ***Smother.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
+>   ***Smother.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one Medium or smaller creature. *Hit:* The creature is grappled (escape DC 13). Until this grapple ends, the target is restrained, blinded, and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/213/1000/1000/636252764761726261.jpeg)
 >
@@ -6380,22 +6381,22 @@
 >   *Medium monstrosity, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 27 (5d8 + 5)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +1 (12) | +1 (13) | -4 (2) | +1 (13) | -2 (6)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Iron Scent.*** The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.
+>   ***Iron Scent.*** The rust monster can pinpoint, by scent, the location of ferrous metal within 6 *(9m)* of it.
 >   ***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
->   ***Antennae.*** The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d8 + 1) piercing damage.
+>   ***Antennae.*** The rust monster corrodes a nonmagical ferrous metal object it can see within 1 *(1.5m)* of it. If the object isn't being worn or carried, the touch destroys 30 liters of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch.
 >   If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/207/1000/1000/636252764265020108.jpeg)
@@ -6404,7 +6405,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 52 (7d10 + 14)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6416,11 +6417,11 @@
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell. 
->   ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+>   ***Pounce.*** If the tiger moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (1d10 + 5) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (1d10 + 5) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -6428,26 +6429,26 @@
 >   *Medium humanoid, lawful evil*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (4d8 + 4)
->   **Speed**: 30 ft., swim 40 ft.
+>   **Speed**: 6 *(9m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +1 (13) | +0 (11) | +1 (12) | +1 (12) | +1 (13) | -1 (9)
 >
 >   **Skills**: Perception +5
->   **Senses**: Darkvision 120 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 15
 >   **Languages**: Sahuagin
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
 >   ***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points. 
 >   ***Limited Amphibiousness.*** The sahuagin can breathe air and water, but it needs to be submerged at least once every 4 hours to avoid suffocating. 
->   ***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
+>   ***Shark Telepathy.*** The sahuagin can magically command any shark within 24 *(36m)* of it, using a limited telepathy.
 > 
 > #### Actions 
 >   ***Multiattack.*** The sahuagin makes two melee attacks: one with its bite and one with its claws or spear. 
->   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) slashing damage. 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>   ***Bite.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d4 + 1) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d4 + 1) slashing damage. 
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/177/1000/1000/636252761683746719.jpeg)
 >
@@ -6455,7 +6456,7 @@
 >   *Large elemental, neutral evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 90 (12d10 + 24)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6464,17 +6465,17 @@
 >   **Damage Vulnerabilities**: Cold
 >   **Damage Resistances**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Fire
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Ignan
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 feet of it takes 7 (2d6) fire damage. 
+>   ***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 1 *(1.5m)* of it takes 7 (2d6) fire damage. 
 >   ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 > 
 > #### Actions 
 >   ***Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail. 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20 ft./60 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage. 
->   ***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +7 to hit, reach 1 *(1.5m)* or range 4 *(6m)*/12 *(18m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 + 4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (escape DC 14). Until this grapple ends, the target is restrained, the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/173/1000/1000/636252761197608364.jpeg)
 >
@@ -6482,7 +6483,7 @@
 >   *Medium fey, chaotic neutral*
 >   **Armor Class**: 14 (Leather Armor)
 >   **Hit Points**: 31 (7d8)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6496,9 +6497,9 @@
 >   ***Magic Resistance.*** The satyr has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
->   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4 + 1) bludgeoning damage. 
->   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
->   ***Shortbow.*** *Ranged Weapon Attack:* +5 to hit, range 80/320 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+>   ***Ram.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (2d4 + 1) bludgeoning damage. 
+>   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage.
+>   ***Shortbow.*** *Ranged Weapon Attack:* +5 to hit, range 80/34 *(6m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/169/1000/1000/636252760706340605.jpeg)
 >
@@ -6506,16 +6507,16 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 11 (Natural Armor)
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 10 ft.
+>   **Speed**: 2 *(3m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +0 (11) | -1 (8) | -5 (1) | -1 (8) | -4 (2)
->   **Senses**: Blindsight 10 ft.,  Passive Perception 9
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Actions 
->   ***Sting.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Sting.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -6523,7 +6524,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 13 (Leather Armor)
 >   **Hit Points**: 16 (3d8 + 3)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6538,8 +6539,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The scout makes two melee attacks or two ranged attacks. 
->   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, ranged 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, ranged 30/120 *(45m)*/*(180m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/163/1000/1000/636252759915100020.jpeg)
 >
@@ -6547,23 +6548,23 @@
 >   *Medium fey, chaotic evil*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 52 (7d8 + 21)
->   **Speed**: 30 ft., swim 40 ft.
+>   **Speed**: 6 *(9m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +1 (13) | +3 (16) | +1 (12) | +1 (12) | +1 (13)
 >
->   **Senses**: Darkvision 60 ft.,  Passive Perception 11
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 11
 >   **Languages**: Aquan, Common, Giant
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Amphibious.*** The hag can breathe air and water. 
->   ***Horrific Appearance.*** Any humanoid that starts its turn within 30 feet of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
+>   ***Horrific Appearance.*** Any humanoid that starts its turn within 6 *(9m)* of the hag and can see the hag's true form must make a DC 11 Wisdom saving throw. On a failed save, the creature is frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the hag is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the hag's Horrific Appearance for the next 24 hours.
 >   Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage. 
->   ***Death Glare.*** The hag targets one frightened creature she can see within 30 feet of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points. 
+>   ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage. 
+>   ***Death Glare.*** The hag targets one frightened creature she can see within 6 *(9m)* of her. If the target can see the hag, it must succeed on a DC 11 Wisdom saving throw against this magic or drop to 0 hit points. 
 >   ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 >   The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
 > 
@@ -6573,7 +6574,7 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 0 ft., swim 20 ft.
+>   **Speed**: 0, swim 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6590,7 +6591,7 @@
 >   *Medium undead, chaotic evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 16 (3d8 + 3)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6600,16 +6601,16 @@
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing. 
+>   ***Amorphous.*** The shadow can move through a space as narrow as 3cm wide without squeezing. 
 >   ***Shadow Stealth.*** While in dim light or darkness, the shadow can take the Hide action as a bonus action. 
 >   ***Sunlight Weakness.*** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 > 
 > #### Actions 
->   ***Strength Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
+>   ***Strength Drain.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 9 (2d6 + 2) necrotic damage, and the target's Strength score is reduced by 1d4. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 >   If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/155/315/315/636252758977032019.jpeg)
@@ -6618,7 +6619,7 @@
 >   *Large plant, unaligned*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
->   **Speed**: 20 ft., swim 20 ft.
+>   **Speed**: 4 *(6m)*, swim 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6628,7 +6629,7 @@
 >   **Damage Resistances**: Cold, Fire
 >   **Damage Immunities**: Lightning
 >   **Condition Immunities**: Blinded, Deafened, Exhaustion
->   **Senses**: Blindsight 60 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -6636,7 +6637,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it. 
->   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
+>   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
 >   ***Engulf.*** The shambling mound engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/563/315/315/636376346968079714.jpeg)
@@ -6645,7 +6646,7 @@
 >   *Large construct, unaligned*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6653,19 +6654,19 @@
 >
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Poisoned
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Understands commands given in any language but can't speak
 >   **Challenge**: 7 (2,900 XP)
 > #### Traits 
->   ***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian. 
+>   ***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 12 *(18m)* of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian. 
 >   ***Regeneration.*** The shield guardian regains 10 hit points at the start of its turn if it has at least 1 hit point. 
 >   ***Spell Storing.*** A spellcaster who wears the shield guardian's amulet can cause the guardian to store one spell of 4th level or lower. To do so, the wearer must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer or when a situation arises that was predefined by the spellcaster, the guardian casts the stored spell with any parameters set by the original caster, requiring no components. When the spell is cast or a new spell is stored, any previously stored spell is lost.
 > 
 > #### Actions 
 >   ***Multiattack.*** The guardian makes two fist attacks. 
->   ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+>   ***Fist.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 > 
->  ***Reactions***: ***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
+>  ***Reactions***: ***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 1 *(1.5m)* of the wearer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/145/315/315/636252758362792494.jpeg)
 >
@@ -6673,19 +6674,19 @@
 >   *Medium plant, unaligned*
 >   **Armor Class**: 5 
 >   **Hit Points**: 13 (3d8)
->   **Speed**: 0 ft.
+>   **Speed**: 0
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -5 (1) | -5 (1) | +0 (10) | -5 (1) | -4 (3) | -5 (1)
 >   **Condition Immunities**: Blinded, Deafened, Frightened
->   **Senses**: Blindsight 30 ft.,  Passive Perception 6
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 6
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 > 
->  ***Reactions***: ***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
+>  ***Reactions***: ***Shriek.*** When bright light or a creature is within 6 *(9m)* of the shrieker, it emits a shriek audible within 90m of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/571/1000/1000/636376357634308010.jpeg)
 >
@@ -6693,7 +6694,7 @@
 >   *Medium dragon, lawful good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 45 (6d8 + 18)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6702,14 +6703,14 @@
 >   **Saving Throws**: DEX +2, CON +5, WIS +2, CHA +4
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10 + 4) piercing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 9 (1d10 + 4) piercing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Cold Breath.*** The dragon exhales an icy blast in a 15-foot cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. 
->   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 15-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Cold Breath.*** The dragon exhales an icy blast in a 3 *(4.5m)* cone. Each creature in that area must make a DC 13 Constitution saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one. 
+>   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 3 *(4.5m)* cone. Each creature in that area must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/143/315/315/636252757538355953.jpeg)
 >
@@ -6717,7 +6718,7 @@
 >   *Medium undead, lawful evil*
 >   **Armor Class**: 13 (Armor Scraps)
 >   **Hit Points**: 13 (2d8 + 4)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6726,12 +6727,12 @@
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: Understands all languages it knew in life but can't speak
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/34 *(6m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/472/315/315/636376294573239565.jpeg)
 >
@@ -6739,7 +6740,7 @@
 >   *Large celestial, lawful good*
 >   **Armor Class**: 21 (Natural Armor)
 >   **Hit Points**: 243 (18d10 + 144)
->   **Speed**: 50 ft., fly 150 ft.
+>   **Speed**: 10 *(15m)*, fly 30 *(45m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6750,8 +6751,8 @@
 >   **Damage Resistances**: Radiant; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Poisoned
->   **Senses**: Truesight 120 ft.,  Passive Perception 24
->   **Languages**: All, Telepathy 120 ft.
+>   **Senses**: Truesight 24 *(36m)*,  Passive Perception 24
+>   **Languages**: All, Telepathy 24 *(36m)*
 >   **Challenge**: 21 (33,000 XP)
 > #### Traits 
 >   ***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack). 
@@ -6764,16 +6765,16 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The solar makes two greatsword attacks. 
->   ***Greatsword.*** *Melee Weapon Attack:* +15 to hit, reach 5 ft., one target. *Hit:* 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage. 
->   ***Slaying Longbow.*** *Ranged Weapon Attack:* +13 to hit, range 150/600 ft., one target. *Hit:* 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die. 
->   ***Flying Sword.*** The solar releases its greatsword to hover magically in an unoccupied space within 5 feet of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 50 feet and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies. 
+>   ***Greatsword.*** *Melee Weapon Attack:* +15 to hit, reach 1 *(1.5m)*, one target. *Hit:* 22 (4d6 + 8) slashing damage plus 27 (6d8) radiant damage. 
+>   ***Slaying Longbow.*** *Ranged Weapon Attack:* +13 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 15 (2d8 + 6) piercing damage plus 27 (6d8) radiant damage. If the target is a creature that has 100 hit points or fewer, it must succeed on a DC 15 Constitution saving throw or die. 
+>   ***Flying Sword.*** The solar releases its greatsword to hover magically in an unoccupied space within 1 *(1.5m)* of it. If the solar can see the sword, the solar can mentally command it as a bonus action to fly up to 10 *(15m)* and either make one attack against a target or return to the solar's hands. If the hovering sword is targeted by any effect, the solar is considered to be holding it. The hovering sword falls if the solar dies. 
 >   ***Healing Touch (4/Day).*** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 > 
 > #### Legendary Actions 
 >  The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn. 
->   ***Teleport.*** The solar magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see. 
->   ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one. 
->   ***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
+>   ***Teleport.*** The solar magically teleports, along with any equipment it is wearing or carrying, up to 24 *(36m)* to an unoccupied space it can see. 
+>   ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a radius 2 *(3m)* must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one. 
+>   ***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 6 *(9m)* of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/121/315/315/636252748079664097.jpeg)
 >
@@ -6781,26 +6782,26 @@
 >   *Medium aberration, lawful neutral*
 >   **Armor Class**: 14 Natural
 >   **Hit Points**: 39 (6d8 + 12)
->   **Speed**: 0 ft., fly 30 ft. (hover)
+>   **Speed**: 0, fly 6 *(9m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (8) | +2 (14) | +2 (14) | +1 (13) | +2 (14) | +0 (11)
 >   **Skills**: Perception +6
 >   **Condition Immunities**: Prone
->   **Senses**: Darkvision 120 ft.,  Passive Perception 16
->   **Languages**: Deep Speech, Telepathy 120 ft., Undercommon
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 16
+>   **Languages**: Deep Speech, Telepathy 24 *(36m)*, Undercommon
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 2 (1d6 − 1) piercing damage.
->   ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.
+>   ***Bite.*** *Melee Weapon Attack:* +1 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d6 − 1) piercing damage.
+>   ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 18 *(27m)* of it. It can use each ray only once on a turn.
 >   *Confusion Ray.* The target must succeed on a DC 13 Wisdom saving throw, or it can’t take reactions until the end of its next turn. On its turn, the target can’t move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can’t attack, it does nothing on its turn.
 >   *Paralyzing Ray.* The target must succeed on a DC 13 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 >   *Fear Ray.* The target must succeed on a DC 13 Wisdom saving throw or be frightened for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.
 >   *Wounding Ray.* The target must make a DC 13 Constitution saving throw, taking 16 (3d10) necrotic damage on a failed save, or half as much damage on a successful one.
 >   ***Create Food and Water.*** The spectator magically creates enough food and water to sustain itself for 24 hours.
 > 
->  ***Reactions***: ***Spell Reflection.*** If the spectator makes a successful saving throw against a spell, or a spell attack misses it, the spectator can choose another creature (including the spellcaster) it can see within 30 feet of it. The spell targets the chosen creature instead of the spectator. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
+>  ***Reactions***: ***Spell Reflection.*** If the spectator makes a successful saving throw against a spell, or a spell attack misses it, the spectator can choose another creature (including the spellcaster) it can see within 6 *(9m)* of it. The spell targets the chosen creature instead of the spectator. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/14/485/315/315/636364324602733616.png)
 >
@@ -6808,7 +6809,7 @@
 >   *Medium undead, chaotic evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 0 ft., fly 50 ft. (hover)
+>   **Speed**: 0, fly 10 *(15m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6816,7 +6817,7 @@
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Understands all languages it knew in life but can't speak
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -6824,7 +6825,7 @@
 >   ***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 > 
 > #### Actions 
->   ***Life Drain.*** *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+>   ***Life Drain.*** *Melee Spell Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 10 (3d6) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/119/1000/1000/636252747399435720.jpeg)
 >
@@ -6832,13 +6833,13 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 20 ft., climb 20 ft.
+>   **Speed**: 4 *(6m)*, climb 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (2) | +2 (14) | -1 (8) | -5 (1) | +0 (10) | -4 (2)
 >   **Skills**: Stealth +4
->   **Senses**: Darkvision 30 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
@@ -6847,7 +6848,7 @@
 >   ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/575/315/315/636376359864842950.jpeg)
 >
@@ -6855,7 +6856,7 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 75 (10d10 + 20)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6864,7 +6865,7 @@
 >   **Saving Throws**: DEX +6, CON +5, WIS +5, CHA +6
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Abyssal, Common
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
@@ -6878,7 +6879,7 @@
 >   5th level (2 slots): dominate person
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one creature. *Hit:* 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/117/315/315/636252746851035686.jpeg)
 >
@@ -6886,7 +6887,7 @@
 >   *Tiny fey, neutral good*
 >   **Armor Class**: 15 (Leather Armor)
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 10 ft., fly 40 ft.
+>   **Speed**: 2 *(3m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6896,8 +6897,8 @@
 >   **Languages**: Common, Elvish, Sylvan
 >   **Challenge**: 1/4 (50 XP)
 > #### Actions 
->   ***Longsword.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage. 
->   ***Shortbow.*** *Ranged Weapon Attack:* +6 to hit, range 40/160 ft., one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake. 
+>   ***Longsword.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 slashing damage. 
+>   ***Shortbow.*** *Ranged Weapon Attack:* +6 to hit, range 8/32 *(12m)*/*(48m)*, one target. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake. 
 >   ***Heart Sight.*** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw. 
 >   ***Invisibility.*** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
 > 
@@ -6907,7 +6908,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 
 >   **Hit Points**: 27 (6d8)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6919,12 +6920,12 @@
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Cunning Action.*** On each of its turns, the spy can use a bonus action to take the Dash, Disengage, or Hide action. 
->   ***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
+>   ***Sneak Attack (1/Turn).*** The spy deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 1 *(1.5m)* of an ally of the spy that isn't incapacitated and the spy doesn't have disadvantage on the attack roll.
 > 
 > #### Actions 
 >   ***Multiattack.*** The spy makes two melee attacks. 
->   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Shortsword.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Hand Crossbow.*** *Ranged Weapon Attack:* +4 to hit, range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -6932,23 +6933,23 @@
 >   *Small elemental, neutral evil*
 >   **Armor Class**: 10 
 >   **Hit Points**: 21 (6d6)
->   **Speed**: 30 ft., fly 30 ft.
+>   **Speed**: 6 *(9m)*, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (5) | +0 (11) | +0 (10) | +0 (11) | +0 (10) | +1 (12)
 >   **Damage Immunities**: Fire, Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Aquan, Ignan
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
->   ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage. 
+>   ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 1 *(1.5m)* of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (1d8) fire damage. 
 >   ***Innate Spellcasting.***(1/Day). The mephit can innately cast blur, requiring no material components. Its innate spellcasting ability is Charisma.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage. 
->   ***Steam Breath (Recharge 6).*** The mephit exhales a 15- foot cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Claws.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 2 (1d4) slashing damage plus 2 (1d4) fire damage. 
+>   ***Steam Breath (Recharge 6).*** The mephit exhales a 3 *(4.5m)* cone of scalding steam. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 4 (1d8) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/113/315/315/636252745841820724.jpeg)
 >
@@ -6956,17 +6957,17 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 2 (1d4)
->   **Speed**: 10 ft., fly 40 ft.
+>   **Speed**: 2 *(3m)*, fly 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (4) | +3 (16) | +0 (11) | -4 (2) | -1 (8) | -2 (6)
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/8 (25 XP)
 > #### Actions 
->   ***Blood Drain.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one creature. *Hit:* 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
->   The stirge can detach itself by spending 5 feet of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
+>   ***Blood Drain.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d4 + 3) piercing damage, and the stirge attaches to the target. While attached, the stirge doesn't attack. Instead, at the start of each of the stirge's turns, the target loses 5 (1d4 + 3) hit points due to blood loss.
+>   The stirge can detach itself by spending 1 *(1.5m)* of its movement. It does so after it drains 10 hit points of blood from the target or the target dies. A creature, including the target, can use its action to detach the stirge.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/111/1000/1000/636252745395103202.jpeg)
 >
@@ -6974,7 +6975,7 @@
 >   *Huge giant, neutral*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 126 (11d12 + 55)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -6982,15 +6983,15 @@
 >
 >   **Saving Throws**: DEX +5, CON +8, WIS +4
 >   **Skills**: Athletics +12, Perception +4
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Giant
 >   **Challenge**: 7 (2,900 XP)
 > #### Traits 
 >   ***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 > 
 > #### Actions 
->   ***Multiattack.*** The giant makes two greatclub attacks. Greatclub. *Melee Weapon Attack:* +9 to hit, reach 15 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/240 ft., one target. *Hit:* 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
+>   ***Multiattack.*** The giant makes two greatclub attacks. Greatclub. *Melee Weapon Attack:* +9 to hit, reach 3 *(4.5m)*, one target. *Hit:* 19 (3d8 + 6) bludgeoning damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +9 to hit, range 60/28 *(12m)*, one target. *Hit:* 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.
 > 
 >  ***Reactions***: ***Rock Catching.*** If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity saving throw, catch the missile and take no bludgeoning damage from it.
 > 
@@ -7000,7 +7001,7 @@
 >   *Large construct, unaligned*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7008,7 +7009,7 @@
 >
 >   **Damage Immunities**: Poison, Psychic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Adamantine
 >   **Condition Immunities**: Charmed, Exhaustion, Frightened, Paralyzed, Petrified, Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 10
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 10 (5,900 XP)
 > #### Traits 
@@ -7018,8 +7019,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The golem makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 19 (3d8 + 6) bludgeoning damage. 
->   ***Slow (Recharge 5–6).*** The golem targets one or more creatures it can see within 10 feet of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 19 (3d8 + 6) bludgeoning damage. 
+>   ***Slow (Recharge 5–6).*** The golem targets one or more creatures it can see within 2 *(3m)* of it. Each target must make a DC 17 Wisdom saving throw against this magic. On a failed save, a target can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the target can take either an action or a bonus action on its turn, not both. These effects last for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/107/315/315/636252743780112834.jpeg)
 >
@@ -7027,7 +7028,7 @@
 >   *Huge giant, chaotic good*
 >   **Armor Class**: 16 (Scale Mail)
 >   **Hit Points**: 230 (20d12 + 100)
->   **Speed**: 50 ft., swim 50 ft.
+>   **Speed**: 10 *(15m)*, swim 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7048,9 +7049,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The giant makes two greatsword attacks. 
->   ***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 30 (6d6 + 9) slashing damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/240 ft., one target. *Hit:* 35 (4d12 + 9) bludgeoning damage. 
->   ***Lightning Strike (Recharge 5–6).*** The giant hurls a magical lightning bolt at a point it can see within 500 feet of it. Each creature within 10 feet of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Greatsword.*** *Melee Weapon Attack:* +14 to hit, reach 2 *(3m)*, one target. *Hit:* 30 (6d6 + 9) slashing damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +14 to hit, range 60/28 *(12m)*, one target. *Hit:* 35 (4d12 + 9) bludgeoning damage. 
+>   ***Lightning Strike (Recharge 5–6).*** The giant hurls a magical lightning bolt at a point it can see within 150m of it. Each creature within 2 *(3m)* of that point must make a DC 17 Dexterity saving throw, taking 54 (12d8) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/105/315/315/636252743254029469.jpeg)
 >
@@ -7058,23 +7059,23 @@
 >   *Medium fiend, neutral evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 66 (12d8 + 12)
->   **Speed**: 30 ft., fly 60 ft.
+>   **Speed**: 6 *(9m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (8) | +3 (17) | +1 (13) | +2 (15) | +1 (12) | +5 (20)
 >   **Skills**: Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7
 >   **Damage Resistances**: Cold, Fire, Lightning, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Darkvision 60 ft.,  Passive Perception 15
->   **Languages**: Abyssal, Common, Infernal, Telepathy 60 ft.
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 15
+>   **Languages**: Abyssal, Common, Infernal, Telepathy 12 *(18m)*
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
 >   ***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence. 
 >   ***Shapechanger.*** The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 > 
 > #### Actions 
->   ***Claw (Fiend Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage. 
->   ***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
+>   ***Claw (Fiend Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage. 
+>   ***Charm.*** One humanoid the fiend can see within 6 *(9m)* of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
 >   The fiend can have only one target charmed at a time. If it charms another, the effect on the previous target ends. 
 >   ***Draining Kiss.*** The fiend kisses a creature charmed by it or a willing creature. The target must make a DC 15 Constitution saving throw against this magic, taking 32 (5d10 + 5) psychic damage on a failed save, or half as much damage on a successful one. The target's hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. 
 >   ***Etherealness.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
@@ -7085,14 +7086,14 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 0 ft., fly 30 ft.
+>   **Speed**: 0, fly 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -3 (5) | +2 (15) | +0 (10) | -4 (2) | +1 (12) | -3 (4)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
->   **Senses**: Blindsight 60 ft.,  Passive Perception 11
+>   **Senses**: Blindsight 12 *(18m)*,  Passive Perception 11
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -7101,7 +7102,7 @@
 >   ***Swarm.*** The swarm can occupy another creature’s space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can’t regain hit points or gain temporary hit points.
 > 
 > #### Actions 
->   ***Bite. ****Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
+>   ***Bite. ****Melee Weapon Attack:* +4 to hit, reach 0, one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/906/315/315/636334289313689439.jpeg)
 >
@@ -7109,21 +7110,21 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 (Natural Armor)
 >   **Hit Points**: 22 (5d8)
->   **Speed**: 20 ft., climb 20 ft.
+>   **Speed**: 4 *(6m)*, climb 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (3) | +1 (13) | +0 (10) | -5 (1) | -2 (7) | -5 (1)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
->   **Senses**: Blindsight 10 ft.,  Passive Perception 8
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
 >   ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 > 
 > #### Actions 
->   ***Bite. ****Melee Weapon Attack:* +3 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
+>   ***Bite. ****Melee Weapon Attack:* +3 to hit, reach 0, one target in the swarm's space. *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7131,21 +7132,21 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 14 
 >   **Hit Points**: 36 (8d8)
->   **Speed**: 30 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (8) | +4 (18) | +0 (11) | -5 (1) | +0 (10) | -4 (3)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
->   **Senses**: Blindsight 10 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 2 *(3m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
 >   ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 > 
 > #### Actions 
->   ***Bite.***. *Melee Weapon Attack:* +6 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.***. *Melee Weapon Attack:* +6 to hit, reach 0, one creature in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer. The target must make a DC 10 Constitution saving throw, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7153,7 +7154,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 28 (8d8 - 8)
->   **Speed**: 0 ft., swim 40 ft.
+>   **Speed**: 0, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7161,7 +7162,7 @@
 >
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
@@ -7170,7 +7171,7 @@
 >   ***Water Breathing.*** The swarm can breathe only underwater.
 > 
 > #### Actions 
->   ***Bite.***. *Melee Weapon Attack:* +5 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
+>   ***Bite.***. *Melee Weapon Attack:* +5 to hit, reach 0, one creature in the swarm's space. *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/18/276/315/315/636379781035768521.jpeg)
 >
@@ -7178,14 +7179,14 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 24 (7d8 - 7)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -1 (9) | +0 (11) | -1 (9) | -4 (2) | +0 (10) | -4 (3)
 >   **Damage Resistances**: Bludgeoning, Piercing, Slashing
 >   **Condition Immunities**: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
->   **Senses**: Darkvision 30 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 6 *(9m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -7193,7 +7194,7 @@
 >   ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 > 
 > #### Actions 
->   ***Bite.***. *Melee Weapon Attack:* +2 to hit, reach 0 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+>   ***Bite.***. *Melee Weapon Attack:* +2 to hit, reach 0, one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/9/908/315/315/636334289541603972.jpeg)
 >
@@ -7201,7 +7202,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 24 (7d8 - 7)
->   **Speed**: 10 ft., fly 50 ft.
+>   **Speed**: 2 *(3m)*, fly 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7216,7 +7217,7 @@
 >   ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 > 
 > #### Actions 
->   ***Beaks.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
+>   ***Beaks.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target in the swarm's space. *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/555/315/315/636376341743427326.jpeg)
 >
@@ -7224,7 +7225,7 @@
 >   *Gargantuan monstrosity, unaligned*
 >   **Armor Class**: 25 (Natural Armor)
 >   **Hit Points**: 676 (33d20 + 330)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7233,7 +7234,7 @@
 >   **Saving Throws**: INT +5, WIS +9, CHA +9
 >   **Damage Immunities**: Fire, Poison; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Condition Immunities**: Charmed, Frightened, Paralyzed, Poisoned
->   **Senses**: Blindsight 120 ft.,  Passive Perception 10
+>   **Senses**: Blindsight 24 *(36m)*,  Passive Perception 10
 >   **Languages**: --
 >   **Challenge**: 30 (155,000 XP)
 > #### Traits 
@@ -7244,13 +7245,13 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite. 
->   ***Bite.*** *Melee Weapon Attack:* +19 to hit, reach 10 ft., one target. *Hit:* 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target. 
->   ***Claw.*** *Melee Weapon Attack:* +19 to hit, reach 15ft., one target. *Hit:* 28 (4d8 + 10) slashing damage. 
->   ***Horns.*** *Melee Weapon Attack:* +19 to hit, reach 10ft., one target. *Hit:* 32 (4d10 + 10) piercing damage. 
->   ***Tail.*** *Melee Weapon Attack:* +19 to hit, reach 20ft., one target. *Hit:* 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone. 
->   ***Frightful Presence.*** Each creature of the tarrasque's choice within 120 feet of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours. 
+>   ***Bite.*** *Melee Weapon Attack:* +19 to hit, reach 2 *(3m)*, one target. *Hit:* 36 (4d12 + 10) piercing damage. If the target is a creature, it is grappled (escape DC 20). Until this grapple ends, the target is restrained, and the tarrasque can't bite another target. 
+>   ***Claw.*** *Melee Weapon Attack:* +19 to hit, reach 3 *(4.5m)*, one target. *Hit:* 28 (4d8 + 10) slashing damage. 
+>   ***Horns.*** *Melee Weapon Attack:* +19 to hit, reach 2 *(3m)*, one target. *Hit:* 32 (4d10 + 10) piercing damage. 
+>   ***Tail.*** *Melee Weapon Attack:* +19 to hit, reach 4 *(6m)*, one target. *Hit:* 24 (4d6 + 10) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be knocked prone. 
+>   ***Frightful Presence.*** Each creature of the tarrasque's choice within 24 *(36m)* of it and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, with disadvantage if the tarrasque is within line of sight, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the tarrasque's Frightful Presence for the next 24 hours. 
 >   ***Swallow.*** The tarrasque makes one bite attack against a Large or smaller creature it is grappling. If the attack hits, the target takes the bite's damage, the target is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the tarrasque, and it takes 56 (16d6) acid damage at the start of each of the tarrasque's turns.
->   If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
+>   If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 2 *(3m)* of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 6 *(9m)* of movement, exiting prone.
 > 
 > #### Legendary Actions 
 >   <The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
@@ -7264,7 +7265,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 11 (Leather Armor)
 >   **Hit Points**: 32 (5d8 + 10)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7275,12 +7276,12 @@
 >   **Languages**: Any one language (usually Common)
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
 >   ***Multiattack.*** The thug makes two melee attacks. 
->   ***Mace.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) bludgeoning damage. 
->   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 100/400 ft., one target. *Hit:* 5 (1d10) piercing damage.
+>   ***Mace.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d6 + 2) bludgeoning damage. 
+>   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +2 to hit, range 20/80 *(30m)*/*(120m)*, one target. *Hit:* 5 (1d10) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/99/1000/1000/636252741335519081.jpeg)
 >
@@ -7288,23 +7289,23 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 12 
 >   **Hit Points**: 37 (5d10 + 10)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (17) | +2 (15) | +2 (14) | -4 (3) | +1 (12) | -1 (8)
 >
 >   **Skills**: Perception +3, Stealth +6
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: --
 >   **Challenge**: 1 (200 XP)
 > #### Traits 
 >   ***Keen Smell.*** The tiger has advantage on Wisdom (Perception) checks that rely on smell. 
->   ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
+>   ***Pounce.*** If the tiger moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage.
->   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d10 + 3) piercing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7312,7 +7313,7 @@
 >   *Huge plant, chaotic good*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 138 (12d12 + 60)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7329,9 +7330,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The treant makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 16 (3d6 + 6) bludgeoning damage. 
->   ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 60/180 ft., one target. *Hit:* 28 (4d10 + 6) bludgeoning damage. 
->   ***Animate Trees (1/Day).*** The treant magically animates one or two trees it can see within 60 feet of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 120 feet from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
+>   ***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 16 (3d6 + 6) bludgeoning damage. 
+>   ***Rock.*** *Ranged Weapon Attack:* +10 to hit, range 12/36 *(18m)*/*(54m)*, one target. *Hit:* 28 (4d10 + 6) bludgeoning damage. 
+>   ***Animate Trees (1/Day).*** The treant magically animates one or two trees it can see within 12 *(18m)* of it. These trees have the same statistics as a treant, except they have Intelligence and Charisma scores of 1, they can't speak, and they have only the Slam action option. An animated tree acts as an ally of the treant. The tree remains animate for 1 day or until it dies; until the treant dies or is more than 24 *(36m)* from the tree; or until the treant takes a bonus action to turn it back into an inanimate tree. The tree then takes root if possible.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/97/315/315/636252740537990664.jpeg)
 >
@@ -7339,7 +7340,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 12 (Hide Armor)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7349,10 +7350,10 @@
 >   **Languages**: Any one language
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
->   ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
+>   ***Spear.*** *Melee or *Ranged Weapon Attack:* +3 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one target. *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -7360,7 +7361,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 95 (10d12 + 30)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7370,11 +7371,11 @@
 >   **Languages**: --
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Trampling Charge.*** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
+>   ***Trampling Charge.*** If the triceratops moves at least 4 *(6m)* straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone. If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 > 
 > #### Actions 
->   ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 24 (4d8 + 6) piercing damage. 
->   ***Stomp.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
+>   ***Gore.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 24 (4d8 + 6) piercing damage. 
+>   ***Stomp.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one prone creature. *Hit:* 22 (3d10 + 6) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7382,14 +7383,14 @@
 >   *Large giant, chaotic evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 84 (8d10 + 40)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (18) | +1 (13) | +5 (20) | -2 (7) | -1 (9) | -2 (7)
 >
 >   **Skills**: Perception +2
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Giant
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -7398,8 +7399,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d6 + 4) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/95/315/315/636252739682234623.jpeg)
 >
@@ -7407,7 +7408,7 @@
 >   *Small plant, neutral evil*
 >   **Armor Class**: 13 Natural Armor
 >   **Hit Points**: 4 (1d6 + 1)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7415,14 +7416,14 @@
 >   **Skills**: Stealth +3
 >   **Damage Vulnerabilities**: Fire
 >   **Condition Immunities**: Blinded, Deafened
->   **Senses**: Blindsight 60 ft. (blind beyond this radius),  Passive Perception 9
+>   **Senses**: Blindsight 12 *(18m)* (blind beyond this radius),  Passive Perception 9
 >   **Languages**: Common understands but canât speak
 >   **Challenge**: 1/8 (25 XP)
 > #### Traits 
 >   ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.
 > 
 > #### Actions 
->   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+>   ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 3 (1d4 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/464/1000/1000/636376286997771487.png)
 >
@@ -7430,7 +7431,7 @@
 >   *Huge beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 136 (13d12 + 52)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7442,8 +7443,8 @@
 >   **Challenge**: 8 (3,900 XP)
 > #### Actions 
 >   ***Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target. 
->   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 33 (4d12 + 7) piercing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the tyrannosaurus can't bite another target. 
+>   ***Tail.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 20 (3d8 + 7) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/594/1000/1000/636376369004412963.jpeg)
 >
@@ -7451,7 +7452,7 @@
 >   *Large celestial, lawful good*
 >   **Armor Class**: 12 
 >   **Hit Points**: 67 (9d10 + 18)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7459,11 +7460,11 @@
 >
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Charmed, Paralyzed, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
->   **Languages**: Celestial, Elvish, Sylvan, Telepathy 60 ft.
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
+>   **Languages**: Celestial, Elvish, Sylvan, Telepathy 12 *(18m)*
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. 
+>   ***Charge.*** If the unicorn moves at least 4 *(6m)* straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone. 
 >   ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components: 
 >   At will: detect evil and good, druidcraft, pass without trace 
 >   1/day each: calm emotions, dispel evil and good, entangle 
@@ -7472,15 +7473,15 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The unicorn makes two attacks: one with its hooves and one with its horn. 
->   ***Hooves.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
->   ***Horn.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) piercing damage. 
+>   ***Hooves.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage. 
+>   ***Horn.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d8 + 4) piercing damage. 
 >   ***Healing Touch (3/Day).*** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) hit points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target. 
->   ***Teleport (1/Day).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 feet of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
+>   ***Teleport (1/Day).*** The unicorn magically teleports itself and up to three willing creatures it can see within 1 *(1.5m)* of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 > 
 > #### Legendary Actions 
 >   <The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn. 
 >   ***Hooves.*** The unicorn makes one attack with its hooves. 
->   ***Shimmering Shield (Costs 2 Actions).*** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 feet of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn. 
+>   ***Shimmering Shield (Costs 2 Actions).*** The unicorn creates a shimmering, magical field around itself or another creature it can see within 12 *(18m)* of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn. 
 >   ***Heal Self (Costs 3 Actions).*** The unicorn magically regains 11 (2d8 + 2) hit points.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/93/1000/1000/636252739248798123.jpeg)
@@ -7489,7 +7490,7 @@
 >   *Medium undead, lawful evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 144 (17d8 + 68)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7498,13 +7499,13 @@
 >   **Saving Throws**: DEX +9, WIS +7, CHA +9
 >   **Skills**: Perception +7, Stealth +9
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Darkvision 120 ft.,  Passive Perception 17
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 17
 >   **Languages**: the languages it knew in life
 >   **Challenge**: 13 (10,000 XP)
 > #### Traits 
 >   ***Shapechanger.*** If the vampire isn't in sunlight or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
->   While in bat form, the vampire can't speak, its walking speed is 5 feet, and it has a flying speed of 30 feet. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
->   While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 20 feet, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight. 
+>   While in bat form, the vampire can't speak, its walking speed is 1 *(1.5m)*, and it has a flying speed of 6 *(9m)*. Its statistics, other than its size and speed, are unchanged. Anything it is wearing transforms with it, but nothing it is carrying does. It reverts to its true form if it dies.
+>   While in mist form, the vampire can't take any actions, speak, or manipulate objects. It is weightless, has a flying speed of 4 *(6m)*, can hover, and can enter a hostile creature's space and stop there. In addition, if air can pass through a space, the mist can do so without squeezing, and it can’t pass through water. It has advantage on Strength, Dexterity, and Constitution saving throws, and it is immune to all nonmagical damage, except the damage it takes from sunlight. 
 >   ***Legendary Resistance (3/Day).*** If the vampire fails a saving throw, it can choose to succeed instead. 
 >   ***Misty Escape.*** When it drops to 0 hit points outside its resting place, the vampire transforms into a cloud of mist (as in the Shapechanger trait) instead of falling unconscious, provided that it isn't in sunlight or running water. If it can't transform, it is destroyed.
 >   While it has 0 hit points in mist form, it can't revert to its vampire form, and it must reach its resting place within 2 hours or be destroyed. Once in its resting place, it reverts to its vampire form. It is then paralyzed until it regains at least 1 hit point. After spending 1 hour in its resting place with 0 hit points, it regains 1 hit point. 
@@ -7518,9 +7519,9 @@
 > 
 > #### Actions 
 >   ***Multiattack. (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack. 
->   ***Unarmed Strike (Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one creature. *Hit:* 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18). 
->   ***Bite. (Bat or Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control. 
->   ***Charm.*** The vampire targets one humanoid it can see within 30 feet of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
+>   ***Unarmed Strike (Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 8 (1d8 + 4) bludgeoning damage. Instead of dealing damage, the vampire can grapple the target (escape DC 18). 
+>   ***Bite. (Bat or Vampire Form Only).*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 7 (1d6 + 4) piercing damage plus 10 (3d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. A humanoid slain in this way and then buried in the ground rises the following night as a vampire spawn under the vampire's control. 
+>   ***Charm.*** The vampire targets one humanoid it can see within 6 *(9m)* of it. If the target can see the vampire, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed by the vampire. The charmed target regards the vampire as a trusted friend to be heeded and protected. Although the target isn't under the vampire's control, it takes the vampire's requests or actions in the most favorable way it can, and it is a willing target for the vampire's bite attack.
 >   Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect. 
 >   ***Children of the Night (1/Day).*** The vampire magically calls 2d4 swarms of bats or rats (swarm of bats, swarm of rats), provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves (wolf) instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
 > 
@@ -7536,7 +7537,7 @@
 >   *Medium undead, neutral evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 82 (11d8 + 33)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7545,7 +7546,7 @@
 >   **Saving Throws**: DEX +6, WIS +3
 >   **Skills**: Perception +3, Stealth +6
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: the languages it knew in life
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -7559,8 +7560,8 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack. 
->   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13). 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+>   ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 8 (2d4 + 3) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13). 
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one willing creature, or a creature that is grappled by the vampire, incapacitated, or restrained. *Hit:* 6 (1d6 + 3) piercing damage plus 7 (2d6) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/89/1000/1000/636252738148839638.jpeg)
 >
@@ -7568,7 +7569,7 @@
 >   *Medium humanoid, any*
 >   **Armor Class**: 17 (Splint)
 >   **Hit Points**: 58 (9d8 + 18)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7580,9 +7581,9 @@
 >   **Challenge**: 3 (700 XP)
 > #### Actions 
 >   ***Multiattack.*** The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack. 
->   ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
->   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage. 
->   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 100/400 ft., one target. *Hit:* 6 (1d10 + 1) piercing damage.
+>   ***Longsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands. 
+>   ***Shortsword.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) piercing damage. 
+>   ***Heavy Crossbow.*** *Ranged Weapon Attack:* +3 to hit, range 20/80 *(30m)*/*(120m)*, one target. *Hit:* 6 (1d10 + 1) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/656/humanoid.jpg)
 >
@@ -7590,13 +7591,13 @@
 >   *Medium plant, unaligned*
 >   **Armor Class**: 5 
 >   **Hit Points**: 18 (4d8)
->   **Speed**: 5 ft.
+>   **Speed**: 1 *(1.5m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >  -4 (3) | -5 (1) | +0 (10) | -5 (1) | -4 (3) | -5 (1)
 >   **Condition Immunities**: Blinded, Deafened, Frightened
->   **Senses**: Blindsight 30 ft.,  Passive Perception 6
+>   **Senses**: Blindsight 6 *(9m)*,  Passive Perception 6
 >   **Languages**: --
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
@@ -7604,7 +7605,7 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The fungus makes 1d4 Rotting Touch attacks.
->   ***Rotting Touch.*** *Melee Weapon Attack:* +2 to hit, reach 10 ft., one creature. *Hit:* 4 (1d8) necrotic damage.
+>   ***Rotting Touch.*** *Melee Weapon Attack:* +2 to hit, reach 2 *(3m)*, one creature. *Hit:* 4 (1d8) necrotic damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/573/315/315/636376357964412799.jpeg)
 >
@@ -7612,7 +7613,7 @@
 >   *Large fiend, chaotic evil*
 >   **Armor Class**: 15 (Natural Armor)
 >   **Hit Points**: 104 (11d10 + 44)
->   **Speed**: 40 ft., fly 60 ft.
+>   **Speed**: 8 *(12m)*, fly 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7622,18 +7623,18 @@
 >   **Damage Resistances**: Cold, Fire, Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 120 ft.,  Passive Perception 11
->   **Languages**: Abyssal, Telepathy 120 ft.
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 11
+>   **Languages**: Abyssal, Telepathy 24 *(36m)*
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
 >   ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 > 
 > #### Actions 
 >   ***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons. 
->   ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. 
->   ***Talons.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 14 (2d10 + 3) slashing damage. 
->   ***Spores (Recharge 6).*** A 15­-foot­-radius cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it. 
->   ***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 20 feet of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
+>   ***Beak.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage. 
+>   ***Talons.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 14 (2d10 + 3) slashing damage. 
+>   ***Spores (Recharge 6).*** A radius 3 *(4.5m)* cloud of toxic spores extends out from the vrock. The spores spread around corners. Each creature in that area must succeed on a DC 14 Constitution saving throw or become poisoned. While poisoned in this way, a target takes 5 (1d10) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Emptying a vial of holy water on the target also ends the effect on it. 
+>   ***Stunning Screech (1/Day).*** The vrock emits a horrific screech. Each creature within 4 *(6m)* of it that can hear it and that isn't a demon must succeed on a DC 14 Constitution saving throw or be stunned until the end of the vrock's next turn.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/87/315/315/636252737538172594.jpeg)
 >
@@ -7641,7 +7642,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 10 
 >   **Hit Points**: 5 (1d8 + 1)
->   **Speed**: 10 ft., fly 50 ft.
+>   **Speed**: 2 *(3m)*, fly 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7652,10 +7653,10 @@
 >   **Challenge**: 0 (10 XP)
 > #### Traits 
 >   ***Keen Sight and Smell.*** The vulture has advantage on Wisdom (Perception) checks that rely on sight or smell. 
->   ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Beak.*** *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.
+>   ***Beak.*** *Melee Weapon Attack:* +2 to hit, reach 1 *(1.5m)*, one target. *Hit:* 2 (1d4) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7663,7 +7664,7 @@
 >   *Large beast, unaligned*
 >   **Armor Class**: 11 
 >   **Hit Points**: 19 (3d10 + 3)
->   **Speed**: 60 ft.
+>   **Speed**: 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7673,10 +7674,10 @@
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
->   ***Trampling Charge.*** If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
+>   ***Trampling Charge.*** If the horse moves at least 4 *(6m)* straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 > 
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7684,7 +7685,7 @@
 >   *Large undead, lawful evil*
 >   **Armor Class**: 13 (Barding Scraps)
 >   **Hit Points**: 22 (3d10 + 6)
->   **Speed**: 60 ft.
+>   **Speed**: 12 *(18m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7693,11 +7694,11 @@
 >   **Damage Vulnerabilities**: Bludgeoning
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 9
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 9
 >   **Languages**: --
 >   **Challenge**: 1/2 (100 XP)
 > #### Actions 
->   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
+>   ***Hooves.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/660/undead.jpg)
 >
@@ -7705,7 +7706,7 @@
 >   *Large elemental, neutral*
 >   **Armor Class**: 14 (Natural Armor)
 >   **Hit Points**: 114 (12d10 + 48)
->   **Speed**: 30 ft., swim 90 ft.
+>   **Speed**: 6 *(9m)*, swim 18 *(27m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7714,18 +7715,18 @@
 >   **Damage Resistances**: Acid; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 60 ft.,  Passive Perception 10
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 10
 >   **Languages**: Aquan
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
->   ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. 
->   ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
+>   ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 3cm wide without squeezing. 
+>   ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 4 *(6m)* until the end of its next turn.
 > 
 > #### Actions 
 >   ***Multiattack.*** The elemental makes two slam attacks. 
->   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
+>   ***Slam.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) bludgeoning damage. 
 >   ***Whelm (Recharge 4–6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
->   The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
+>   The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target grappled by it takes 13 (2d8 + 4) bludgeoning damage. A creature within 1 *(1.5m)* of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength and succeeding.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/84/315/315/636252736680781387.jpeg)
 >
@@ -7733,7 +7734,7 @@
 >   *Tiny beast, unaligned*
 >   **Armor Class**: 13 
 >   **Hit Points**: 1 (1d4 - 1)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7746,7 +7747,7 @@
 >   ***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 1 piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/attachments/2/648/beast.jpg)
 >
@@ -7754,7 +7755,7 @@
 >   *Medium humanoid, neutral good*
 >   **Armor Class**: 10 In Humanoid Form, 11 In Bear And Hybrid Form
 >   **Hit Points**: 135 (18d8 + 54)
->   **Speed**: 30 ft., 40 ft., climb 30 ft. in bear or hybrid form
+>   **Speed**: 6 *(9m)*, 8 *(12m)*, climb 6 *(9m)* in bear or hybrid form
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7771,9 +7772,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** In bear form, the werebear makes two claw attacks. In humanoid form, it makes two greataxe attacks. In hybrid form, it can attack like a bear or a humanoid. 
->   ***Bite (Bear or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy. 
->   ***Claw (Bear or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage. 
->   ***Greataxe (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 10 (1d12 + 4) slashing damage.
+>   ***Bite (Bear or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be cursed with werebear lycanthropy. 
+>   ***Claw (Bear or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage. 
+>   ***Greataxe (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (1d12 + 4) slashing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/82/1000/1000/636252736005297867.jpeg)
 >
@@ -7781,7 +7782,7 @@
 >   *Medium humanoid, neutral evil*
 >   **Armor Class**: 10 In Humanoid Form, 11 In Boar Or Hybrid Form
 >   **Hit Points**: 78 (12d8 + 24)
->   **Speed**: 30 ft., 40 ft. in boar form
+>   **Speed**: 6 *(9m)*, 8 *(12m)* in boar form
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7794,13 +7795,13 @@
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
 >   ***Shapechanger.*** The wereboar can use its action to polymorph into a boar-humanoid hybrid or into a boar, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
->   ***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 15 feet straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
+>   ***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 3 *(4.5m)* straight toward a target and then hits it with its tusks on the same turn, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone. 
 >   ***Relentless (Recharges after a Short or Long Rest).*** If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 > 
 > #### Actions 
 >   ***Multiattack (Humanoid or Hybrid Form Only).*** The wereboar makes two attacks, only one of which can be with its tusks. 
->   ***Maul (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) bludgeoning damage. 
->   ***Tusks (Boar or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
+>   ***Maul (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) bludgeoning damage. 
+>   ***Tusks (Boar or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) slashing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with wereboar lycanthropy.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/80/315/315/636252735506840152.jpeg)
 >
@@ -7808,7 +7809,7 @@
 >   *Medium humanoid, lawful evil*
 >   **Armor Class**: 12 
 >   **Hit Points**: 33 (6d8 + 6)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7816,7 +7817,7 @@
 >
 >   **Skills**: Perception +2, Stealth +4
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: Common (can't speak in rat form)
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
@@ -7825,9 +7826,9 @@
 > 
 > #### Actions 
 >   ***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite. 
->   ***Bite (Rat or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy. 
->   ***Shortsword (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage. 
->   ***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+>   ***Bite (Rat or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d4 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 11 Constitution saving throw or be cursed with wererat lycanthropy. 
+>   ***Shortsword (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage. 
+>   ***Hand Crossbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 6/24 *(9m)*/*(36m)*, one target. *Hit:* 5 (1d6 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/78/1000/1000/636252735121410517.jpeg)
 >
@@ -7835,7 +7836,7 @@
 >   *Medium humanoid, neutral*
 >   **Armor Class**: 12 
 >   **Hit Points**: 120 (16d8 + 48)
->   **Speed**: 30 ft., 40 ft. in tiger form
+>   **Speed**: 6 *(9m)*, 8 *(12m)* in tiger form
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7843,20 +7844,20 @@
 >
 >   **Skills**: Perception +5, Stealth +4
 >   **Damage Immunities**: Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
->   **Senses**: Darkvision 60 ft.,  Passive Perception 15
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 15
 >   **Languages**: Common (can't speak in tiger form)
 >   **Challenge**: 4 (1,100 XP)
 > #### Traits 
 >   ***Shapechanger.*** The weretiger can use its action to polymorph into a tiger-humanoid hybrid or into a tiger, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies. 
 >   ***Keen Hearing and Smell.*** The weretiger has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
->   ***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 15 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
+>   ***Pounce (Tiger or Hybrid Form Only).*** If the weretiger moves at least 3 *(4.5m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as a bonus action.
 > 
 > #### Actions 
 >   ***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the weretiger makes two scimitar attacks or two longbow attacks. In hybrid form, it can attack like a humanoid or make two claw attacks. 
->   ***Bite (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy. 
->   ***Claw (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage. 
->   ***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage.
->   ***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Bite (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 8 (1d10 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 13 Constitution saving throw or be cursed with weretiger lycanthropy. 
+>   ***Claw (Tiger or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d8 + 3) slashing damage. 
+>   ***Scimitar (Humanoid or Hybrid Form Only).*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage.
+>   ***Longbow (Humanoid or Hybrid Form Only).*** *Ranged Weapon Attack:* +4 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/76/1000/1000/636252734783831163.jpeg)
 >
@@ -7864,7 +7865,7 @@
 >   *Medium humanoid, chaotic evil*
 >   **Armor Class**: 11 In Humanoid Form, 12 In Wolf Or Hybrid Form
 >   **Hit Points**: 58 (9d8 + 18)
->   **Speed**: 30 ft., 40 ft. in wolf form
+>   **Speed**: 6 *(9m)*, 8 *(12m)* in wolf form
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7881,9 +7882,9 @@
 > 
 > #### Actions 
 >   ***Multiattack. (Humanoid or Hybrid Form Only).*** The werewolf makes two attacks: one with its bite and one with its claws or spear. 
->   ***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy. 
->   ***Claws. (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 7 (2d4 + 2) slashing damage. 
->   ***Spear (Humanoid Form Only).*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
+>   ***Bite (Wolf or Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage. If the target is a humanoid, it must succeed on a DC 12 Constitution saving throw or be cursed with werewolf lycanthropy. 
+>   ***Claws. (Hybrid Form Only).*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 7 (2d4 + 2) slashing damage. 
+>   ***Spear (Humanoid Form Only).*** *Melee or *Ranged Weapon Attack:* +4 to hit, reach 1 *(1.5m)* or range 20/12 *(18m)*, one creature. *Hit:* 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/74/1000/1000/636252734224239957.jpeg)
 >
@@ -7891,7 +7892,7 @@
 >   *Medium dragon, chaotic evil*
 >   **Armor Class**: 16 (Natural Armor)
 >   **Hit Points**: 32 (5d8 + 10)
->   **Speed**: 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
+>   **Speed**: 6 *(9m)*, burrow 3 *(4.5m)*, fly 12 *(18m)*, swim 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7900,12 +7901,12 @@
 >   **Saving Throws**: DEX +2, CON +4, WIS +2, CHA +2
 >   **Skills**: Perception +4, Stealth +2
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 10 ft., Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Blindsight 2 *(3m)*, Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Draconic
 >   **Challenge**: 2 (450 XP)
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage. 
->   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d10 + 2) piercing damage plus 2 (1d4) cold damage. 
+>   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast of hail in a 3 *(4.5m)* cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (5d8) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/415/1000/1000/636252789083357808.jpeg)
 >
@@ -7913,7 +7914,7 @@
 >   *Medium undead, neutral evil*
 >   **Armor Class**: 14 (Studded Leather)
 >   **Hit Points**: 45 (6d8 + 18)
->   **Speed**: 30 ft.
+>   **Speed**: 6 *(9m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7923,7 +7924,7 @@
 >   **Damage Resistances**: Necrotic; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Exhaustion, Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: The languages it knew in life
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
@@ -7931,10 +7932,10 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack. 
->   ***Life Drain.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+>   ***Life Drain.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 5 (1d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 >   A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time. 
->   ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. 
->   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 150/600 ft., one target. *Hit:* 6 (1d8 + 2) piercing damage.
+>   ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands. 
+>   ***Longbow.*** *Ranged Weapon Attack:* +4 to hit, range 30/120 *(45m)*/*(180m)*, one target. *Hit:* 6 (1d8 + 2) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/56/315/315/636252726349692861.jpeg)
 >
@@ -7942,7 +7943,7 @@
 >   *Tiny undead, chaotic evil*
 >   **Armor Class**: 19 
 >   **Hit Points**: 22 (9d4)
->   **Speed**: 0 ft., fly 50 ft. (hover)
+>   **Speed**: 0, fly 10 *(15m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7950,17 +7951,17 @@
 >   **Damage Resistances**: Acid, Cold, Fire, Necrotic, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
 >   **Damage Immunities**: Lightning, Poison
 >   **Condition Immunities**: Exhaustion, Grappled, Paralyzed, Poisoned, Prone, Restrained, Unconscious
->   **Senses**: Darkvision 120 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 24 *(36m)*,  Passive Perception 12
 >   **Languages**: The languages it knew in life
 >   **Challenge**: 2 (450 XP)
 > #### Traits 
->   ***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 feet of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points. 
+>   ***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 1 *(1.5m)* of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points. 
 >   ***Ephemeral.*** The will-o'-wisp can't wear or carry anything. 
 >   ***Incorporeal Movement.*** The will-o'-wisp can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object. 
->   ***Variable Illumination.*** The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
+>   ***Variable Illumination.*** The will-o'-wisp sheds bright light in a radius 1-4 *(1.5-6m)* and dim light for an additional distance equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 > 
 > #### Actions 
->   ***Shock.*** Melee Spell Attack: +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage. 
+>   ***Shock.*** Melee Spell Attack: +4 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 9 (2d8) lightning damage. 
 >   ***Invisibility.*** The will-o'-wisp and its light magically become invisible until it attacks or uses its Consume Life, or until its concentration ends (as if concentrating on a spell).
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/585/315/315/636376363763232290.jpeg)
@@ -7969,7 +7970,7 @@
 >   *Large monstrosity, neutral evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 75 (10d10 + 20)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -7982,12 +7983,12 @@
 >   **Challenge**: 3 (700 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
->   ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated. 
+>   ***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated. 
 >   ***Snow Camouflage.*** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone. 
->   ***Cold Breath (Recharge 5–6).*** The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone. 
+>   ***Cold Breath (Recharge 5–6).*** The wolf exhales a blast of freezing wind in a 3 *(4.5m)* cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/54/315/315/636252725270715296.jpeg)
 >
@@ -7995,7 +7996,7 @@
 >   *Medium beast, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 11 (2d8 + 2)
->   **Speed**: 40 ft.
+>   **Speed**: 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8007,10 +8008,10 @@
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
->   ***Pack Tactics.*** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>   ***Pack Tactics.*** The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
+>   ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/16/482/1000/1000/636376300223855327.jpeg)
 >
@@ -8018,21 +8019,21 @@
 >   *Large monstrosity, neutral evil*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 26 (4d10 + 4)
->   **Speed**: 50 ft.
+>   **Speed**: 10 *(15m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +3 (16) | +1 (13) | +1 (13) | -2 (7) | +0 (11) | -1 (8)
 >
 >   **Skills**: Perception +4
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: Goblin, Worg
 >   **Challenge**: 1/2 (100 XP)
 > #### Traits 
 >   ***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 > 
 > #### Actions 
->   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+>   ***Bite.*** *Melee Weapon Attack:* +5 to hit, reach 1 *(1.5m)*, one target. *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/52/1000/1000/636252724662073178.jpeg)
 >
@@ -8040,7 +8041,7 @@
 >   *Medium undead, neutral evil*
 >   **Armor Class**: 13 
 >   **Hit Points**: 67 (9d8 + 27)
->   **Speed**: 0 ft., fly 60 ft. (hover)
+>   **Speed**: 0, fly 12 *(18m)* (hover)
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8048,7 +8049,7 @@
 >   **Damage Resistances**: Acid, Cold, Fire, Lightning, Thunder; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks that aren't Silvered
 >   **Damage Immunities**: Necrotic, Poison
 >   **Condition Immunities**: Charmed, Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
->   **Senses**: Darkvision 60 ft.,  Passive Perception 12
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 12
 >   **Languages**: The languages it knew in life
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
@@ -8056,8 +8057,8 @@
 >   ***Sunlight Sensitivity.*** While in sunlight, the wraith has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 > 
 > #### Actions 
->   ***Life Drain.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. 
->   ***Create Specter.*** The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
+>   ***Life Drain.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. *Hit:* 21 (4d8 + 3) necrotic damage. The target must succeed on a DC 14 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0. 
+>   ***Create Specter.*** The wraith targets a humanoid within 2 *(3m)* of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a specter in the space of its corpse or in the nearest unoccupied space. The specter is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/50/1000/1000/636252724191790008.jpeg)
 >
@@ -8065,21 +8066,21 @@
 >   *Large dragon, unaligned*
 >   **Armor Class**: 13 (Natural Armor)
 >   **Hit Points**: 110 (13d10 + 39)
->   **Speed**: 20 ft., fly 80 ft.
+>   **Speed**: 4 *(6m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
 >   +4 (19) | +0 (10) | +3 (16) | -3 (5) | +1 (12) | -2 (6)
 >
 >   **Skills**: Perception +4
->   **Senses**: Darkvision 60 ft.,  Passive Perception 14
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 14
 >   **Languages**: --
 >   **Challenge**: 6 (2,300 XP)
 > #### Actions 
 >   ***Multiattack.*** The wyvern makes two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one other attack. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. 
->   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage. 
->   ***Stinger.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one creature. *Hit:* 11 (2d6 + 4) piercing damage. 
+>   ***Claws.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d8 + 4) slashing damage. 
+>   ***Stinger.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one creature. *Hit:* 11 (2d6 + 4) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/48/315/315/636252723695596000.jpeg)
 >
@@ -8087,7 +8088,7 @@
 >   *Medium elemental, neutral*
 >   **Armor Class**: 19 (Natural Armor)
 >   **Hit Points**: 73 (7d8 + 42)
->   **Speed**: 20 ft., burrow 20 ft.
+>   **Speed**: 4 *(6m)*, burrow 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8095,18 +8096,18 @@
 >
 >   **Skills**: Perception +6, Stealth +3
 >   **Damage Resistances**: Piercing and Slashing from Nonmagical Attacks that aren't Adamantine
->   **Senses**: Darkvision 60 ft., Tremorsense 60 ft.,  Passive Perception 16
+>   **Senses**: Darkvision 12 *(18m)*, Tremorsense 12 *(18m)*,  Passive Perception 16
 >   **Languages**: Terran
 >   **Challenge**: 5 (1,800 XP)
 > #### Traits 
 >   ***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through. 
 >   ***Stone Camouflage.*** The xorn has advantage on Dexterity (Stealth) checks made to hide in rocky terrain. 
->   ***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
+>   ***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 12 *(18m)* of it.
 > 
 > #### Actions 
 >   ***Multiattack.*** The xorn makes three claw attacks and one bite attack.
->   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) slashing damage. 
->   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (3d6 + 3) piercing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 6 (1d6 + 3) slashing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (3d6 + 3) piercing damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/46/1000/1000/636252723241554579.jpeg)
 >
@@ -8114,7 +8115,7 @@
 >   *Large monstrosity, chaotic evil*
 >   **Armor Class**: 12 Natural Armor
 >   **Hit Points**: 51 (6d10 + 18)
->   **Speed**: 40 ft., climb 40 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8122,7 +8123,7 @@
 >
 >   **Skills**: Perception +3, Stealth +3
 >   **Damage Immunities**: Cold
->   **Senses**: Darkvision 60 ft.,  Passive Perception 13
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 13
 >   **Languages**: Yeti
 >   **Challenge**: 3 (700 XP)
 >
@@ -8133,8 +8134,8 @@
 >     
 > #### Actions 
 >   ***Multiattack.*** The yeti can use its Chilling Gaze and makes two claw attacks.
->   ***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. *Hit:* 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
->   ***Chilling Gaze.*** The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target’s saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
+>   ***Claw.*** Melee Weapon Attack: +6 to hit, reach 1 *(1.5m)*, one target. *Hit:* 7 (1d6 + 4) slashing damage plus 3 (1d6) cold damage.
+>   ***Chilling Gaze.*** The yeti targets one creature it can see within 6 *(9m)* of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (3d6) cold damage and then be paralyzed for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target’s saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/8/662/1000/1000/636313413410825930.jpeg)
 >
@@ -8142,7 +8143,7 @@
 >   *Large dragon, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 127 (15d10 + 45)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8151,7 +8152,7 @@
 >   **Saving Throws**: DEX +5, CON +6, WIS +3, CHA +5
 >   **Skills**: Perception +6, Stealth +5
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 16
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 16
 >   **Languages**: Common, Draconic
 >   **Challenge**: 7 (2,900 XP)
 > #### Traits 
@@ -8159,9 +8160,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
->   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 30­-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage plus 4 (1d8) acid damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Acid Breath (Recharge 5–6).*** The dragon exhales acid in a 6 *(9m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (11d8) acid damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/70/1000/1000/636252732861675698.jpeg)
 >
@@ -8169,7 +8170,7 @@
 >   *Large dragon, lawful evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 152 (16d10 + 64)
->   **Speed**: 40 ft., burrow 20 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 4 *(6m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8178,14 +8179,14 @@
 >   **Saving Throws**: DEX +4, CON +8, WIS +5, CHA +7
 >   **Skills**: Perception +9, Stealth +4
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 19
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 19
 >   **Languages**: Common, Draconic
 >   **Challenge**: 9 (5,000 XP)
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage. 
->   ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage. 
->   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +9 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d10 + 5) piercing damage plus 5 (1d10) lightning damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +9 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) slashing damage. 
+>   ***Lightning Breath (Recharge 5–6).*** The dragon exhales lightning in an 12 *(18m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/68/1000/1000/636252732434296782.jpeg)
 >
@@ -8193,7 +8194,7 @@
 >   *Large dragon, chaotic good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 110 (13d10 + 39)
->   **Speed**: 40 ft., burrow 20 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, burrow 4 *(6m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8202,16 +8203,16 @@
 >   **Saving Throws**: DEX +3, CON +6, WIS +3, CHA +5
 >   **Skills**: Perception +6, Persuasion +5, Stealth +3
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 16
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 16
 >   **Languages**: Common, Draconic
 >   **Challenge**: 6 (2,300 XP)
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Sleep Breath.*** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
+>   ***Fire Breath.*** The dragon exhales fire in a 8 *(12m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Sleep Breath.*** The dragon exhales sleep gas in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/66/1000/1000/636252731911060874.jpeg)
 >
@@ -8219,7 +8220,7 @@
 >   *Large dragon, lawful good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 142 (15d10 + 60)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8228,7 +8229,7 @@
 >   **Saving Throws**: DEX +3, CON +7, WIS +4, CHA +6
 >   **Skills**: Insight +4, Perception +7, Stealth +3
 >   **Damage Immunities**: Lightning
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 17
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 17
 >   **Languages**: Common, Draconic
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
@@ -8236,11 +8237,11 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
->   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 10 ft., one target. *Hit:* 16 (2d10 + 5) piercing damage.
->   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage.
+>   ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 2 *(3m)*, one target. *Hit:* 16 (2d10 + 5) piercing damage.
+>   ***Claw.*** *Melee Weapon Attack:* +8 to hit, reach 1 *(1.5m)*, one target. *Hit:* 12 (2d6 + 5) slashing damage.
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons.
->   ***Lightning Breath.*** The dragon exhales lightning in a 60- foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
->   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.
+>   ***Lightning Breath.*** The dragon exhales lightning in a 12 *(18m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (10d10) lightning damage on a failed save, or half as much damage on a successful one.
+>   ***Repulsion Breath.*** The dragon exhales repulsion energy in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 8 *(12m)* away from the dragon.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/64/315/315/636252731269768088.jpeg)
 >
@@ -8248,7 +8249,7 @@
 >   *Large dragon, chaotic good*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 119 (14d10 + 42)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8257,16 +8258,16 @@
 >   **Saving Throws**: DEX +4, CON +6, WIS +4, CHA +5
 >   **Skills**: Deception +5, Perception +7, Stealth +4
 >   **Damage Immunities**: Acid
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 17
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 17
 >   **Languages**: Common, Draconic
 >   **Challenge**: 7 (2,900 XP)
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Acid Breath.*** The dragon exhales acid in an 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one. 
->   ***Slowing Breath.*** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
+>   ***Acid Breath.*** The dragon exhales acid in an 8 *(12m)* line that is 1 *(1.5m)* wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one. 
+>   ***Slowing Breath.*** The dragon exhales gas in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 14 Constitution saving throw. On a failed save, the creature can't use reactions, its speed is halved, and it can't make more than one attack on its turn. In addition, the creature can use either an action or a bonus action on its turn, but not both. These effects last for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself with a successful save.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/62/1000/1000/636252729761648292.jpeg)
 >
@@ -8274,7 +8275,7 @@
 >   *Large dragon, lawful good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8283,7 +8284,7 @@
 >   **Saving Throws**: DEX +6, CON +9, WIS +5, CHA +9
 >   **Skills**: Insight +5, Perception +9, Persuasion +9, Stealth +6
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 19
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 19
 >   **Languages**: Common, Draconic
 >   **Challenge**: 10 (5,900 XP)
 > #### Traits 
@@ -8291,11 +8292,11 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Fire Breath.*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one. 
->   ***Weakening Breath.*** The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Fire Breath.*** The dragon exhales fire in a 6 *(9m)* cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one. 
+>   ***Weakening Breath.*** The dragon exhales gas in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/60/1000/1000/636252729283446963.jpeg)
 >
@@ -8303,7 +8304,7 @@
 >   *Large dragon, lawful evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 136 (16d10 + 48)
->   **Speed**: 40 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8313,7 +8314,7 @@
 >   **Skills**: Deception +5, Perception +7, Stealth +4
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 17
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 17
 >   **Languages**: Common, Draconic
 >   **Challenge**: 8 (3,900 XP)
 > #### Traits 
@@ -8321,9 +8322,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
->   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage plus 7 (2d6) poison damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Poison Breath (Recharge 5–6).*** The dragon exhales poisonous gas in a 6 *(9m)* cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/58/315/315/636252728834677623.jpeg)
 >
@@ -8331,7 +8332,7 @@
 >   *Large dragon, chaotic evil*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 178 (17d10 + 85)
->   **Speed**: 40 ft., climb 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, climb 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8340,14 +8341,14 @@
 >   **Saving Throws**: DEX +4, CON +9, WIS +4, CHA +8
 >   **Skills**: Perception +8, Stealth +4
 >   **Damage Immunities**: Fire
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 18
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 18
 >   **Languages**: Common, Draconic
 >   **Challenge**: 10 (5,900 XP)
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage. 
->   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
->   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Fire Breath (Recharge 5–6).*** The dragon exhales fire in a 6 *(9m)* cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/399/315/315/636252784386259001.jpeg)
 >
@@ -8355,7 +8356,7 @@
 >   *Large dragon, lawful good*
 >   **Armor Class**: 18 (Natural Armor)
 >   **Hit Points**: 168 (16d10 + 80)
->   **Speed**: 40 ft., fly 80 ft.
+>   **Speed**: 8 *(12m)*, fly 16 *(24m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8364,16 +8365,16 @@
 >   **Saving Throws**: DEX +4, CON +9, WIS +4, CHA +8
 >   **Skills**: Arcana +6, History +6, Perception +8, Stealth +4
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 18
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 18
 >   **Languages**: Common, Draconic
 >   **Challenge**: 9 (5,000 XP)
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 17 (2d10 + 6) piercing damage. 
->   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. 
+>   ***Bite.*** *Melee Weapon Attack:* +10 to hit, reach 2 *(3m)*, one target. *Hit:* 17 (2d10 + 6) piercing damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +10 to hit, reach 1 *(1.5m)*, one target. *Hit:* 13 (2d6 + 6) slashing damage. 
 >   ***Breath Weapons (Recharge 5–6).*** The dragon uses one of the following breath weapons. 
->   ***Cold Breath.*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one. 
->   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+>   ***Cold Breath.*** The dragon exhales an icy blast in a 6 *(9m)* cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one. 
+>   ***Paralyzing Breath.*** The dragon exhales paralyzing gas in a 6 *(9m)* cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/401/315/315/636252784740667730.jpeg)
 >
@@ -8381,7 +8382,7 @@
 >   *Large dragon, chaotic evil*
 >   **Armor Class**: 17 (Natural Armor)
 >   **Hit Points**: 133 (14d10 + 56)
->   **Speed**: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
+>   **Speed**: 8 *(12m)*, burrow 4 *(6m)*, fly 16 *(24m)*, swim 8 *(12m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8390,7 +8391,7 @@
 >   **Saving Throws**: DEX +3, CON +7, WIS +3, CHA +4
 >   **Skills**: Perception +6, Stealth +3
 >   **Damage Immunities**: Cold
->   **Senses**: Blindsight 30 ft., Darkvision 120 ft.,  Passive Perception 16
+>   **Senses**: Blindsight 6 *(9m)*, Darkvision 24 *(36m)*,  Passive Perception 16
 >   **Languages**: Common, Draconic
 >   **Challenge**: 6 (2,300 XP)
 > #### Traits 
@@ -8398,9 +8399,9 @@
 > 
 > #### Actions 
 >   ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws. 
->   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 10 ft., one target. *Hit:* 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage. 
->   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage. 
->   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
+>   ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 2 *(3m)*, one target. *Hit:* 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage. 
+>   ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 1 *(1.5m)*, one target. *Hit:* 11 (2d6 + 4) slashing damage. 
+>   ***Cold Breath (Recharge 5–6).*** The dragon exhales an icy blast in a 6 *(9m)* cone. Each creature in that area must make a DC 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/403/1000/1000/636252785358767533.jpeg)
 >
@@ -8408,7 +8409,7 @@
 >   *Medium undead, neutral evil*
 >   **Armor Class**: 8 
 >   **Hit Points**: 22 (3d8 + 9)
->   **Speed**: 20 ft.
+>   **Speed**: 4 *(6m)*
 >
 >   STR | DEX | CON | INT | WIS | CHA 
 >   :--: | :--: | :--: | :--: | :--: | :--: 
@@ -8417,14 +8418,14 @@
 >   **Saving Throws**: WIS +0
 >   **Damage Immunities**: Poison
 >   **Condition Immunities**: Poisoned
->   **Senses**: Darkvision 60 ft.,  Passive Perception 8
+>   **Senses**: Darkvision 12 *(18m)*,  Passive Perception 8
 >   **Languages**: Understands the languages of its creator but can't speak
 >   **Challenge**: 1/4 (50 XP)
 > #### Traits 
 >   ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 > 
 > #### Actions 
->   ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
+>   ***Slam.*** *Melee Weapon Attack:* +3 to hit, reach 1 *(1.5m)*, one target. *Hit:* 4 (1d6 + 1) bludgeoning damage.
 > 
 > ![Image](https://media-waterdeep.cursecdn.com/avatars/thumbnails/0/71/1000/1000/636252733510786769.jpeg)
 >
