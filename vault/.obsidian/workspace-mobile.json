@@ -76,8 +76,7 @@
                     ]
                   }
                 ],
-                "direction": "horizontal",
-                "sizes": [0.2, 0.8]
+                "direction": "horizontal"
               },
               {
                 "id": "fc0ceaba14edcfc3",
@@ -124,20 +123,16 @@
                     ]
                   }
                 ],
-                "direction": "horizontal",
-                "sizes": [0.2, 0.8]
+                "direction": "horizontal"
               }
             ],
-            "direction": "vertical",
-            "sizes": [0.5, 0.5]
+            "direction": "vertical"
           }
         ],
-        "direction": "vertical",
-        "sizes": [0.6, 0.4]
+        "direction": "vertical"
       }
     ],
-    "direction": "vertical",
-    "sizes": [0.5, 0.5]
+    "direction": "vertical"
   },
   "left": {
     "id": "0730cc7ab83ea581",
@@ -260,11 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217138f785b4cbc1",
+  "active": "90a930b4adecaadd",
   "lastOpenFiles": [
-    "Content/Monsters.md",
     "Content/Spells.md",
     "Content/Arvandor Adventures/Backstory.md",
+    "Content/Monsters.md",
     "Untitled.md",
     "Content/Arvandor Adventures/Unsorted Notes and Ideas.md",
     "Content/Arvandor Adventures/Session Notes/Session 0.md",
