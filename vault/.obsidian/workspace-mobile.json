@@ -59,47 +59,54 @@
                       "icon": "lucide-list",
                       "title": "Outline"
                     },
-                    "group": "e5bcae8484d57d31"
+                    "group": "9efeaa46660e69a8"
                   }
                 ],
                 "currentTab": 1
               },
               {
-                "id": "825b9c52d48069ec",
-                "type": "tabs",
+                "id": "ed21b17e0342c13a",
+                "type": "split",
                 "children": [
                   {
-                    "id": "0658e2d5823f6c74",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Content/Monsters.md",
-                        "mode": "preview",
-                        "source": false
+                    "id": "825b9c52d48069ec",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0658e2d5823f6c74",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Content/Monsters.md",
+                            "mode": "preview",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Monsters"
+                        },
+                        "group": "758f4b292151add1"
                       },
-                      "icon": "lucide-file",
-                      "title": "Monsters"
-                    },
-                    "group": "758f4b292151add1"
-                  },
-                  {
-                    "id": "d20209143d9c8c3a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Content/Spells.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Backstory"
-                    },
-                    "group": "e5bcae8484d57d31"
+                      {
+                        "id": "e7309f17838c2112",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Content/Spells.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Spells"
+                        },
+                        "group": "9efeaa46660e69a8"
+                      }
+                    ],
+                    "currentTab": 1
                   }
                 ],
-                "currentTab": 1
+                "direction": "vertical"
               }
             ],
             "direction": "horizontal"
@@ -231,11 +238,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "217138f785b4cbc1",
+  "active": "e7309f17838c2112",
   "lastOpenFiles": [
-    "Content/Monsters.md",
     "Content/Arvandor Adventures/Backstory.md",
     "Content/Spells.md",
+    "Content/Monsters.md",
     "Untitled.md",
     "Content/Arvandor Adventures/Unsorted Notes and Ideas.md",
     "Content/Arvandor Adventures/Session Notes/Session 0.md",
