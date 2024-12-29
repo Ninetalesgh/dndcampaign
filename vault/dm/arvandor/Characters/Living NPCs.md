@@ -25,7 +25,7 @@
   His operations stand in opposition to The Thieves' Guild, whose main business is smuggling goods to avoid the toll, which cuts into Dain's pockets.
     ==INSIGHT== He doesn't actually seem to care that much about the smuggling, (if the players know about his business) he just doesn't want there to exist an opposition to his underworld enterprises.
   +DEX,+CON,+CHA (Rogue - Mastermind)
-#### Lines
+###### Lines
   "Power isn’t inherited; it’s built brick by brick, deal by deal."
   "My father clung to tradition like a drowning man. I prefer to swim."
   "Religion and magic—tools for the idle. I’ll take cunning and coin any day."
@@ -82,7 +82,7 @@ Human, F. (b. 1460 DR)
          maybe a desecrated ground, a ritual site or a cursed object.
   She diligently purifies drinking water and tends to the gardens daily, and keeps the main floor of Waukeen's Chapel clean.
   +WIS,-CON (Cleric - Nature, Chauntea)
-  Lines:
+###### Lines
   "Every morning, I purify the water, and every evening, I pray it will stay clean."
   "I ask Chauntea for strength, but some days, it feels like I’m holding the harvest alone."
   "I see Garrin sinking deeper every day... I just don’t know how to pull him back, he doesn't believe Lyanna is still alive."
@@ -117,7 +117,7 @@ Human, M. (b. 1458 DR)
   He lacks motivation to take initiative in anything related to 
     The Goblin Activity until he sobers up. 
   +STR,+CON,-CHA (Barbarian - Storm Herald, Tundra)
-  Lines:
+###### Lines
   "The crops don’t ask questions, and neither does the ale. Maybe that’s why I stick to 'em."
   "You come here to buy crops or to preach at me? Either way, make it quick."
   "She had her mother’s fire, y’know? Too much spirit for this patch o’ dirt."
@@ -152,7 +152,7 @@ Dwarf, M. (b. 1400 DR)
   In the family documents the players get hints about Mithdral, the dwarven mining town beneath them and floor plans of The Crypt and The Estates. 
     See [[Deceased NPCs#Tazlyn Stonewright#Her Notes]]
   +STR,+CON,+CHA,-INT,-WIS (??+Tarvern Brawler)
-  Lines:
+###### Lines
   "A secret ingredient? Why, it’s love, of course! And maybe a splash of ale, but that’s just for the baker!"
   "Ye know, dough’s a lot like people — it rises best with a little warmth and patience!"
   "A loaf of bread is like a good friendship — crusty on the outside, soft on the inside, and it smells divine."
@@ -192,7 +192,7 @@ Half-Orc, F. (b. 1470 DR)
   Once the town becomes aware of The Army (if the players don't make efforts of keeping it quiet), 
     she will face severe hostility by many and The Guard will lynch her. Dain Elster doesn't approve but he won't adequately punish the perpetrators. "While it was not necessary, I won't destabilize The Guard now."  
   +STR,+INT (Fighter - Champion)
-  Lines:
+###### Lines
   *To kids watching her work* "You lot standing there won’t get this plank shaved any faster. If you want to help, grab some of those sanding tools and make yourselves useful."
   *When a kid asks about what she's doing* "Because it works. Fancy doesn’t hold up when the rain and wind come through."
   *Handing a child a scrap of wood* "Here. You carve, I’ll fix. Just don’t stab yourself or me in the process."
@@ -210,7 +210,7 @@ Half-Elf, F. (b. 1452 DR)
   Once there is more info on The Goblin Activity, she will urge the players, Garrin Harvestsong, or Dain Elster, for a diplomatic approach to resolve the conflict. 
   ??
   +CHA,-STR (Bard - Eloquence)
-  Lines:
+###### Lines
   "The art of negotiation is not in speaking loudly but in listening closely. The answers often lie in what isn’t said."
   (The Goblin Activity)
   "We must understand what they want, what drives them. The smallest spark can ignite a war—but it can also light a path to peace."
@@ -230,7 +230,7 @@ Dwarf, M. (b. 1355 DR)
   Officially responsible for maintenance of the elevators, assigned to repairing The Bridge Elevator when the players first arrive.
   Concerned because some of his students are involved in The Stockpile Business.
   +STR,+INT (Artificer - Battle Smith)
-  Lines:
+###### Lines
   "Aye, Dain wants the elevator done in two days? Let him get his hands dirty, then. This takes time, not shortcuts."
   "If it's broken, it'll get fixed. I don't care what anyone says, but it's gonna get fixed right."
   *grumbling* "No, I'm not rushing. If it's not done proper, you’ll have a heap of trouble on your hands."
@@ -252,7 +252,7 @@ Halfling, F. (b. 1468 DR)
   > [!WARNING] maybe leader of The Thieves' Guild ?? 
   
   +CON,+INT (Artificer - Alchemist)
-  Lines:
+###### Lines
   (if confronted about The Thieves' Guild)
   *if pushed on the issue, staring* "I do not know what you are talking about. You better hope you are not accusing a member of the faculty of involvement in unlawful activity. Out."
 ###### Quest
@@ -270,7 +270,7 @@ Human, M. (b. 1475 DR)
     he is hesitant because it's The Stockpile and most delvers allegedly haven not come back out, 
     but might relay careful exploration to the players.
   +DEX (Ranger - Hunter)
-  Lines:
+###### Lines
   "Some maps are blank for a reason; they’re waiting for people like us to fill them in."
   "Adventuring solo was simpler. Now, I’ve got students relying on me not to get us all killed. But hey, you look like you can handle danger."
   "Every scar tells a story, my favorite ones come with treasure at the end. But now I’m learning to make sure the next one isn’t on someone I’m responsible for."
@@ -309,7 +309,7 @@ White-Dragonborn, F. (b. 1458 DR)
   She believes to be a descendant of Glacirax.
   She encourages the players and Theron Windrunner to find out more about Mithdral. 
     ==INSIGHT== She doesn't actually seem to care about Mithdral.
-  Lines:
+###### Lines
   "Arcane studies are not just about power; they are about understanding the world’s complexities, finding the connections that others miss."
   "Our discipline isn't just about magic—it's about clarity, precision, and knowing how to adapt to every situation."
   *observing a student’s work* "I expect more than just talent from my students. It's not enough to simply wield magic—they must understand the responsibility that comes with it."
