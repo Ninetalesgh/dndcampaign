@@ -90,8 +90,8 @@
                       {
                         "id": "90a930b4adecaadd",
                         "type": "leaf",
-                        "size": 0.2,
-                        "dimension": 0.2,
+                        "size": 20,
+                        "dimension": 20,
                         "state": {
                           "type": "outline",
                           "state": {
@@ -111,6 +111,8 @@
                       {
                         "id": "0658e2d5823f6c74",
                         "type": "leaf",
+                        "size": 80,
+                        "dimension": 80,
                         "state": {
                           "type": "markdown",
                           "state": {
