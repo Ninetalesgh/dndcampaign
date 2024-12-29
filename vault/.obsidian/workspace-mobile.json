@@ -22,7 +22,7 @@
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Backstory"
+                  "title": "backstory"
                 }
               }
             ]
@@ -36,32 +36,18 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "90a930b4adecaadd",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "database/monsters.md"
-                      },
-                      "icon": "lucide-list",
-                      "title": "Outline"
-                    },
-                    "group": "758f4b292151add1"
-                  },
-                  {
                     "id": "217138f785b4cbc1",
                     "type": "leaf",
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "database/spells.md"
+                        "file": "dm/arvandor/backstory.md"
                       },
                       "icon": "lucide-list",
                       "title": "Outline"
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "ed21b17e0342c13a",
@@ -82,9 +68,8 @@
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "Monsters"
-                        },
-                        "group": "758f4b292151add1"
+                          "title": "monsters"
+                        }
                       },
                       {
                         "id": "e7309f17838c2112",
@@ -97,12 +82,10 @@
                             "source": false
                           },
                           "icon": "lucide-file",
-                          "title": "Spells"
-                        },
-                        "group": "9efeaa46660e69a8"
+                          "title": "spells"
+                        }
                       }
-                    ],
-                    "currentTab": 1
+                    ]
                   }
                 ],
                 "direction": "vertical"
@@ -237,10 +220,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7309f17838c2112",
+  "active": "87570e7d0c37d008",
   "lastOpenFiles": [
-    "dm/arvandor/backstory.md",
+    "database/monsters.md",
     "database/spells.md",
-    "database/monsters.md"
+    "dm/arvandor/backstory.md"
   ]
 }
