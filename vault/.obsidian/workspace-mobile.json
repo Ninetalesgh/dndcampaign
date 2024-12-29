@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Content/Arvandor Adventures/Backstory.md",
+                    "file": "dm/arvandor/backstory.md",
                     "mode": "source",
                     "source": false
                   },
@@ -41,7 +41,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Content/Monsters.md"
+                        "file": "database/monsters.md"
                       },
                       "icon": "lucide-list",
                       "title": "Outline"
@@ -54,7 +54,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Content/Spells.md"
+                        "file": "database/spells.md"
                       },
                       "icon": "lucide-list",
                       "title": "Outline"
@@ -77,7 +77,7 @@
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "Content/Monsters.md",
+                            "file": "database/monsters.md",
                             "mode": "preview",
                             "source": false
                           },
@@ -92,7 +92,7 @@
                         "state": {
                           "type": "markdown",
                           "state": {
-                            "file": "Content/Spells.md",
+                            "file": "database/spells.md",
                             "mode": "source",
                             "source": false
                           },
@@ -185,7 +185,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Content/Spells.md",
+            "file": "database/spells.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,7 +204,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Content/Spells.md",
+            "file": "database/spells.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -218,7 +218,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Content/Spells.md"
+            "file": "database/spells.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -239,52 +239,8 @@
   },
   "active": "e7309f17838c2112",
   "lastOpenFiles": [
-    "Content/Arvandor Adventures/Backstory.md",
-    "Content/Spells.md",
-    "Content/Monsters.md",
-    "Untitled.md",
-    "Content/Arvandor Adventures/Unsorted Notes and Ideas.md",
-    "Content/Arvandor Adventures/Session Notes/Session 0.md",
-    "Content/Arvandor Adventures/Session Notes",
-    "Content/Arvandor Adventures/Scenes & Events.md",
-    "Content/Arvandor Adventures/Scene Ideas.md",
-    "Unsorted Notes and Ideas.md",
-    "Content/Arvandor Adventures/Quests/The Stockpile Business.md",
-    "Content/Arvandor Adventures/Quests/The Lost Mines of Mithdral.md",
-    "Content/Arvandor Adventures/Quests/The House Vinea Legacy.md",
-    "Content/Arvandor Adventures/Quests/The Harbingers of the Cold.md",
-    "Content/Arvandor Adventures/Quests",
-    "Content/Arvandor Adventures/Overview Test.canvas",
-    "Content/Arvandor Adventures/Locations.md",
-    "Content/Arvandor Adventures/Characters/PCs.md",
-    "Content/Arvandor Adventures/Characters/Living NPCs.md",
-    "Content/Arvandor Adventures/Characters/Deceased NPCs.md",
-    "Content/Arvandor Adventures/Characters",
-    "Content/Arvandor Adventures",
-    "Adventures in New Arvandal.md",
-    "Images/Action Icons/Dash_A.png",
-    "Content/Characters/Living NPCs.md",
-    "Images/Wondrous Items/Used images RAW/war mage scepter.png",
-    "Images/Wondrous Items/Used images RAW/Urn Flail.png",
-    "Images/Wondrous Items/Used images RAW/Thalioel's Tear.png",
-    "Images/Wondrous Items/Used images RAW/Spear.png",
-    "Images/Wondrous Items/Used images RAW/Shortsword 2.png",
-    "Images/Wondrous Items/Used images RAW/Shortbow 2.png",
-    "Images/Wondrous Items/Used images RAW/Shield.png",
-    "Images/Wondrous Items/Used images RAW/Scimitar.png",
-    "Images/Wondrous Items/Used images RAW/Rapier.png",
-    "Images/Wondrous Items/Used images RAW",
-    "Images/Wondrous Items/Unused Images",
-    "Images/Wondrous Items/need text fixing",
-    "Images/Wondrous Items/bg3 items/spell icons",
-    "Images/Wondrous Items/bg3 items",
-    "Images/Wondrous Items",
-    "Content/Quests/The Lost Mines of Mithdral.md",
-    "Scene Ideas.md",
-    "Locations.md",
-    "Content/Scenes & Events.md",
-    "Content/Game Rules & Mechanics/Weapon Mastery Actions.md",
-    "Content/Game Rules & Mechanics/Conditions.md",
-    "NPCs.md"
+    "dm/arvandor/backstory.md",
+    "database/spells.md",
+    "database/monsters.md"
   ]
 }
