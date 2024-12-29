@@ -90,6 +90,8 @@
                       {
                         "id": "90a930b4adecaadd",
                         "type": "leaf",
+                        "size": 0.2,
+                        "dimension": 0.2,
                         "state": {
                           "type": "outline",
                           "state": {
@@ -124,8 +126,7 @@
                     ]
                   }
                 ],
-                "direction": "horizontal",
-                "size": 0.2
+                "direction": "horizontal"
               }
             ],
             "direction": "vertical"
