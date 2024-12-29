@@ -1,4 +1,3 @@
-
 # Aboleth
 >  *Large aberration, lawful evil*
 >  **Armor Class**: 17 (Natural Armor)
