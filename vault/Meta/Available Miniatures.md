@@ -1,3 +1,4 @@
+Miniatures:
 Stirge CR 1/8, 25 XP
 Nothic CR 2, 450 XP
 Troglodyte CR 1/4, 50 XP
@@ -17,3 +18,24 @@ Hobgoblin Iron Shadow CR 2, 450 XP
 Hobgoblin Captain CR 3, 700 XP
 Hobgoblin Devastator CR 4, 1100 XP
 Hobgoblin Warlord CR 6, 2300 XP
+
+Feywild 2D plastic:
+Blink Dog CR 1/4, 50 XP
+Giant Snail CR 1/4, 50 XP
+Redcap CR 3, 700 XP
+Bullywug Knight CR 3, 700 XP
+Quickling CR 1, 200 XP
+Feywild Goblin
+Jabberwock CR 13, 10.000 XP
+Myconoid Adult CR 1/2, 100 XP
+Darkling CR 1/2, 100 XP
+Troll CR 5, 1800 XP
+Peryton CR 2, 450 XP
+Harengon Brigand CR 1/8, 25 XP
+
+Dnd Board game:
+Goblin CR 1/4, 50 XP
+Skeleton CR 1/4, 50 XP
+Gnoll CR 1/2, 100 XP
+Bugbear CR 1, 200 XP
+Troll CR 5, 1800 XP

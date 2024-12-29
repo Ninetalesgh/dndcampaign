@@ -27,9 +27,6 @@ In the temple there is books on what happened to the ruins and the estate.
 Blue estate - the two siblings have separated living quarters, he east, she West ( with access to the tower, water, and basement ).
 
 
-The Blue Estate
-- The Tollkeeper and his mistress and servants reside in the estate. Mistress Name: TODO
-
 
 Ruins in the shallow lake
 - Cave underneath collapsed a long time ago, accessible through passage from outter remains
