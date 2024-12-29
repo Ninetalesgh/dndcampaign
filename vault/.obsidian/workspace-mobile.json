@@ -28,84 +28,105 @@
             ]
           },
           {
-            "id": "c52042d73ad93e3e",
-            "type": "tabs",
+            "id": "082539eeefb740b1",
+            "type": "split",
             "children": [
               {
-                "id": "d20209143d9c8c3a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Content/Spells.md",
-                    "mode": "source",
-                    "source": false
+                "id": "9996f68543c18287",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "c52042d73ad93e3e",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "d20209143d9c8c3a",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Content/Spells.md",
+                            "mode": "preview",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Spells"
+                        },
+                        "group": "e5bcae8484d57d31"
+                      }
+                    ]
                   },
-                  "icon": "lucide-file",
-                  "title": "Spells"
-                },
-                "group": "1d74255682d8263a"
-              }
-            ]
-          },
-          {
-            "id": "5cb90629c8724d7f",
-            "type": "tabs",
-            "children": [
+                  {
+                    "id": "197d77a1edbda12e",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "217138f785b4cbc1",
+                        "type": "leaf",
+                        "state": {
+                          "type": "outline",
+                          "state": {
+                            "file": "Content/Spells.md"
+                          },
+                          "icon": "lucide-list",
+                          "title": "Outline"
+                        },
+                        "group": "e5bcae8484d57d31"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
               {
-                "id": "6f569b9426cf32ce",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Content/Spells.md"
+                "id": "fc0ceaba14edcfc3",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "825b9c52d48069ec",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "0658e2d5823f6c74",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Content/Monsters.md",
+                            "mode": "preview",
+                            "source": false
+                          },
+                          "icon": "lucide-file",
+                          "title": "Monsters"
+                        },
+                        "group": "758f4b292151add1"
+                      }
+                    ]
                   },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                },
-                "group": "1d74255682d8263a"
+                  {
+                    "id": "cd78bf6b823da52c",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "90a930b4adecaadd",
+                        "type": "leaf",
+                        "state": {
+                          "type": "outline",
+                          "state": {
+                            "file": "Content/Monsters.md"
+                          },
+                          "icon": "lucide-list",
+                          "title": "Outline"
+                        },
+                        "group": "758f4b292151add1"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
               }
-            ]
-          },
-          {
-            "id": "35b89fcf69984dcf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c76c959d992c2f75",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Content/Monsters.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Monsters"
-                },
-                "group": "295d816a1e33b5f8"
-              }
-            ]
-          },
-          {
-            "id": "2c3c5952294ca592",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b68ae5a3176cb92b",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Content/Monsters.md"
-                  },
-                  "icon": "lucide-list",
-                  "title": "Outline"
-                },
-                "group": "295d816a1e33b5f8"
-              }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -182,7 +203,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Content/Arvandor Adventures/Backstory.md",
+            "file": "Content/Spells.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -201,7 +222,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Content/Arvandor Adventures/Backstory.md",
+            "file": "Content/Spells.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -215,7 +236,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Content/Arvandor Adventures/Backstory.md"
+            "file": "Content/Spells.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -234,11 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87570e7d0c37d008",
+  "active": "217138f785b4cbc1",
   "lastOpenFiles": [
+    "Content/Monsters.md",
     "Content/Spells.md",
     "Content/Arvandor Adventures/Backstory.md",
-    "Content/Monsters.md",
     "Untitled.md",
     "Content/Arvandor Adventures/Unsorted Notes and Ideas.md",
     "Content/Arvandor Adventures/Session Notes/Session 0.md",
