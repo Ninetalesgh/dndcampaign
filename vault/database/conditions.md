@@ -1,5 +1,6 @@
 #### Bleeding 
-  TODO bleeding
+  TODO bleeding another check 
+  wow great
 #### Blinded
   Automatically fail ability checks that require sight.
   Attack rolls against you have Advantage, your attack rolls have disadvantage.
