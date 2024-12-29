@@ -4,136 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "762d5921d37aec21",
-        "type": "split",
+        "id": "e2da2dcb482c2876",
+        "type": "tabs",
         "children": [
           {
-            "id": "48be30dcbc15d126",
-            "type": "split",
-            "dimension": 74.62253193960511,
-            "children": [
-              {
-                "id": "e2da2dcb482c2876",
-                "type": "tabs",
-                "dimension": 70.27687296416939,
-                "children": [
-                  {
-                    "id": "0626f4cf6476998a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  }
-                ]
+            "id": "0626f4cf6476998a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Example Encounter Canvas.canvas",
+                "viewState": {
+                  "x": -335.68722825768054,
+                  "y": -207.74014197424378,
+                  "zoom": -0.3333333333333334
+                }
               },
-              {
-                "id": "981c17d608f513bb",
-                "type": "split",
-                "dimension": 29.723127035830622,
-                "children": [
-                  {
-                    "id": "226259a9ece736c4",
-                    "type": "tabs",
-                    "dimension": 19.642857142857142,
-                    "children": [
-                      {
-                        "id": "d3c16f6db9f1c0c4",
-                        "type": "leaf",
-                        "state": {
-                          "type": "outline",
-                          "state": {
-                            "file": "Content/Spells.md"
-                          },
-                          "icon": "lucide-list",
-                          "title": "Outline of Spells"
-                        },
-                        "group": "83e4d37696801b26"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "93d21c01501afd6e",
-                    "type": "tabs",
-                    "dimension": 80.35714285714286,
-                    "children": [
-                      {
-                        "id": "eeb2d5ddeb144892",
-                        "type": "leaf",
-                        "state": {
-                          "type": "markdown",
-                          "state": {
-                            "file": "Content/Spells.md",
-                            "mode": "preview",
-                            "source": false
-                          },
-                          "icon": "lucide-file",
-                          "title": "Spells"
-                        },
-                        "group": "83e4d37696801b26"
-                      }
-                    ]
-                  }
-                ],
-                "direction": "horizontal"
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "efe34889c64287a6",
-            "type": "split",
-            "dimension": 25.377468060394893,
-            "children": [
-              {
-                "id": "3ef919a11160ca4c",
-                "type": "tabs",
-                "dimension": 19.642857142857142,
-                "children": [
-                  {
-                    "id": "76299b5398f5c36c",
-                    "type": "leaf",
-                    "state": {
-                      "type": "outline",
-                      "state": {
-                        "file": "Content/Spells.md"
-                      },
-                      "icon": "lucide-list",
-                      "title": "Outline of Spells"
-                    },
-                    "group": "911c44848e35e48e"
-                  }
-                ]
-              },
-              {
-                "id": "a1a73d3ec182508e",
-                "type": "tabs",
-                "dimension": 80.35714285714286,
-                "children": [
-                  {
-                    "id": "c7986a71d0da0bcf",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Content/Monsters.md",
-                        "mode": "preview",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Monsters"
-                    },
-                    "group": "911c44848e35e48e"
-                  }
-                ]
-              }
-            ],
-            "direction": "horizontal"
+              "icon": "lucide-layout-dashboard",
+              "title": "Example Encounter Canvas"
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -286,9 +177,10 @@
   },
   "active": "0626f4cf6476998a",
   "lastOpenFiles": [
+    "Content/Monsters.md",
+    "Example Encounter Canvas.canvas",
     "Content/Spells.md",
     "Untitled.md",
-    "Content/Monsters.md",
     "Content/Wondrous Items.md",
     "Content/Arvandor Adventures/Quests/The Harbingers of the Cold.md",
     "Content/Arvandor Adventures/Backstory.md",
@@ -331,7 +223,6 @@
     "Images/Location Art",
     "Content/Game Rules & Mechanics/Conditions.md",
     "Meta/IRL Notes.md",
-    "The Harbinger of the Cold.md",
-    "Meta/Items WIP and Templates.md"
+    "The Harbinger of the Cold.md"
   ]
 }
