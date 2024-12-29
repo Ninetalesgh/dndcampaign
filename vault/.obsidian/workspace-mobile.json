@@ -76,7 +76,8 @@
                     ]
                   }
                 ],
-                "direction": "horizontal"
+                "direction": "horizontal",
+                "sizes": [0.2, 0.8]
               },
               {
                 "id": "fc0ceaba14edcfc3",
@@ -127,13 +128,16 @@
                 "sizes": [0.2, 0.8]
               }
             ],
-            "direction": "vertical"
+            "direction": "vertical",
+            "sizes": [0.5, 0.5]
           }
         ],
-        "direction": "vertical"
+        "direction": "vertical",
+        "sizes": [0.6, 0.4]
       }
     ],
-    "direction": "vertical"
+    "direction": "vertical",
+    "sizes": [0.5, 0.5]
   },
   "left": {
     "id": "0730cc7ab83ea581",
