@@ -61,7 +61,8 @@
                     },
                     "group": "e5bcae8484d57d31"
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "825b9c52d48069ec",
@@ -89,15 +90,16 @@
                       "type": "markdown",
                       "state": {
                         "file": "Content/Spells.md",
-                        "mode": "preview",
+                        "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Spells"
+                      "title": "Backstory"
                     },
                     "group": "e5bcae8484d57d31"
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "horizontal"
@@ -229,11 +231,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90a930b4adecaadd",
+  "active": "217138f785b4cbc1",
   "lastOpenFiles": [
-    "Content/Spells.md",
-    "Content/Arvandor Adventures/Backstory.md",
     "Content/Monsters.md",
+    "Content/Arvandor Adventures/Backstory.md",
+    "Content/Spells.md",
     "Untitled.md",
     "Content/Arvandor Adventures/Unsorted Notes and Ideas.md",
     "Content/Arvandor Adventures/Session Notes/Session 0.md",
