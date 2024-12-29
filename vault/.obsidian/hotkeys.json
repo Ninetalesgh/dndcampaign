@@ -1,9 +1,17 @@
 {
-  "switcher:open": [],
-  "outline:open-for-current": [
+  "switcher:open": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
       ],
       "key": "O"
     }
