@@ -150,7 +150,7 @@ Dwarf, M. (b. 1400 DR)
   He knows Tazlyn built The Mountain Pass and Balin was in charge of the new road after The Collapse and The Academy, 
     but unaware Tazlyn was the architect of The Estates and The Crypt.   
   In the family documents the players get hints about Mithdral, the dwarven mining town beneath them and floor plans of The Crypt and The Estates. 
-    See [[deceased _npcs#Tazlyn Stonewright#Her Notes]]
+    See [[deceased_npcs#Tazlyn Stonewright#Her Notes]]
   +STR,+CON,+CHA,-INT,-WIS (??+Tarvern Brawler)
 ###### Lines
   "A secret ingredient? Why, it’s love, of course! And maybe a splash of ale, but that’s just for the baker!"
