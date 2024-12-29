@@ -10,12 +10,12 @@
           {
             "id": "48be30dcbc15d126",
             "type": "split",
-            "dimension": 71.31242740998839,
+            "dimension": 74.62253193960511,
             "children": [
               {
                 "id": "e2da2dcb482c2876",
                 "type": "tabs",
-                "dimension": 73.59752959341225,
+                "dimension": 70.27687296416939,
                 "children": [
                   {
                     "id": "0626f4cf6476998a",
@@ -32,7 +32,7 @@
               {
                 "id": "981c17d608f513bb",
                 "type": "split",
-                "dimension": 26.402470406587746,
+                "dimension": 29.723127035830622,
                 "children": [
                   {
                     "id": "226259a9ece736c4",
@@ -85,7 +85,7 @@
           {
             "id": "efe34889c64287a6",
             "type": "split",
-            "dimension": 28.687572590011612,
+            "dimension": 25.377468060394893,
             "children": [
               {
                 "id": "3ef919a11160ca4c",
@@ -284,10 +284,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eeb2d5ddeb144892",
+  "active": "0626f4cf6476998a",
   "lastOpenFiles": [
-    "Content/Monsters.md",
     "Content/Spells.md",
+    "Untitled.md",
+    "Content/Monsters.md",
     "Content/Wondrous Items.md",
     "Content/Arvandor Adventures/Quests/The Harbingers of the Cold.md",
     "Content/Arvandor Adventures/Backstory.md",

@@ -1,0 +1,4 @@
+/* Hide the close button on tabs */
+.workspace-tab-header-close {
+  display: none;
+}

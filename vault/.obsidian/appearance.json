@@ -1,1 +1,6 @@
-{}
+{
+  "enabledCssSnippets": [
+    "freeze-tabs",
+    "style-common"
+  ]
+}
