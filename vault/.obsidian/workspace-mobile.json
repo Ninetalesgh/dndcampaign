@@ -77,7 +77,7 @@
                   }
                 ],
                 "direction": "horizontal",
-                "size": 0.2
+                "size": 0.5
               },
               {
                 "id": "fc0ceaba14edcfc3",
@@ -90,7 +90,7 @@
                       {
                         "id": "90a930b4adecaadd",
                         "type": "leaf",
-                        "size": 20,
+                        "size": 0.2,
                         "dimension": 20,
                         "state": {
                           "type": "outline",
@@ -111,7 +111,7 @@
                       {
                         "id": "0658e2d5823f6c74",
                         "type": "leaf",
-                        "size": 80,
+                        "size": 0.8,
                         "dimension": 80,
                         "state": {
                           "type": "markdown",
@@ -128,13 +128,17 @@
                     ]
                   }
                 ],
-                "direction": "horizontal"
+                "direction": "horizontal",
+                "size": 0.5
               }
             ],
-            "direction": "vertical"
+            "direction": "vertical",
+            "size": 0.5,
+            "dimension": 50
           }
         ],
-        "direction": "vertical"
+        "direction": "vertical",
+        "dimension": 30
       }
     ],
     "direction": "vertical"
