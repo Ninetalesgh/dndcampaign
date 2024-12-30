@@ -5,12 +5,7 @@
 
 
 ##### Items
-<<<<<<< Updated upstream
 ##### Backstory
-=======
-##### Backstory
-
-
 
 Jouni
 
@@ -38,4 +33,3 @@ TODO -> 4 lvl 1 Druid Spells
 Shapeshift Beasts:
 TODO -> 4 CR 1/4 beast stat blocks
 TODO -> 4 CR 1 beast stat blocks
->>>>>>> Stashed changes

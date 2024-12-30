@@ -99,11 +99,7 @@ LOCATIONS LOCATIONS LOCATIONS
 South of the river: (North to South, West to East)
 
 
-<<<<<<< Updated upstream
-
-=======
 between Tyrluk and High Horn ~80km road
->>>>>>> Stashed changes
 
 
 TODO 
