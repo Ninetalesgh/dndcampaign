@@ -42,3 +42,20 @@ for (int i = 1; i<6;++i)
 
 **BOLD TEXT**
 *ITALIC TEXT*
+
+
+```dataviewjs
+
+//console.log(window);
+let conditions = dv.page('conditions');
+
+console.log(window);
+dv.paragraph("hello");
+dv.paragraph(window.__dirname);
+
+dv.list(dv.pages().where(p => p.file.name == "conditions"));
+
+//dv.list(dv.pages().file.name);
+//dv.table(["Teeest", "wow"], dv.pages().map(p => [p.file.name, 'ye']))
+```
+

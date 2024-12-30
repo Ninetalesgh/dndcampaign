@@ -3,6 +3,10 @@ Player character questions:
   What is something your character regrets from their youth?
   Give me a sentence or two of backstory.
 
+<<<<<<< Updated upstream
+=======
+player note taking! 
+>>>>>>> Stashed changes
 
 TTRPG gives you a safe space to explore characters 
 and behaving that you project out.
