@@ -48,7 +48,19 @@ Rules:
   One item can be attuned per SR.
   One item can be unattuned per SR.
 
-
-  Stacked advantage or flat advantage.
-
   Ammo or not?
+
+
+#### Describing player character actions:
+
+###### Rogue:
+TODO ::: Mage hand, internal switch
+
+###### Druid:
+TODO ::: scorpion spirit, sting whip
+
+###### Warlock:
+When spellcasting -> You feel the warmth of this devilish breath flow through you and you feel how this power from hell washes together with your celestial spark like a boiling drop of red ink in clear water. You feel your soul becoming enveloped by this comforting opaque mist. As you open your eyes you feel a shimmer of red flow along your radiant glowing eyes, releasing your power.
+
+###### Paladin:
+TODO ::: Seasons, winter for death, spring for life, summer for radiant/fire, autumn for crowd control?
