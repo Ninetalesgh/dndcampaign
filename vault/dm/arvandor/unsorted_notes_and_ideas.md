@@ -207,3 +207,42 @@ Goblins and orcs might already have made camp there.
 
 myth drannor 
 endless blood war, yugoloths offshoot with nycaloth generals
+
+
+make quest for plate armor for the Fighter.
+Alchemy lab in Vinea Basement where blood infusions are found.
+
+
+introduce NPCs that are in positions of authority but are bad people.
+
+
+
+
+
+CR per character from MCDM Flee, Mortals!
+
+char lvl, easy, standard, hard, CR Cap
+1, 1/8, 1/8, 1/4, 1
+2, 1/8, 1/4, 1/2, 3
+3, 1/4, 1/2, 3/4, 4
+4, 1/2, 3/4,   1, 6
+5,   1, 3/2, 5/2, 8
+6, 3/2,   2,   3, 9
+7,   2, 5/2, 7/2, 10
+8, 5/2,   3,   4, 12
+9,   3, 7/2, 9/2, 13
+
+
+
+Cool Combat encounters:
+
+CR 3, Basilisk
+CR 6, Bulette
+
+CR 1, Animated Armor
+
+Clockworks:
+
+CR 1/2, Gear Spider
+CR 2, Bolt-Thrower
+CR 4, Clockwork Sentinel

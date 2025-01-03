@@ -30,7 +30,3 @@ Entering The Academy:
 
 
 Entering The Stockpile:
-
-
-![image](https://5e.tools/img/bestiary/tokens/MM/Azer.webp)
-[azer](https://5e.tools/bestiary.html#azer_mm)
