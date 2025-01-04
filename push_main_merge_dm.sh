@@ -8,6 +8,8 @@ echo == STASH POP
 git stash pop
 echo == RM VAULT/DM/
 git rm *vault/dm/*
+echo == ADD ALL
+git add -A
 echo == COMMIT
 git commit -m "update main"
 echo == PUSH
@@ -24,3 +26,5 @@ echo == COMMIT
 git commit -m "update dm"
 echo == PUSH
 git push
+
+echo test
