@@ -26,5 +26,3 @@ echo == COMMIT
 git commit -m "update dm"
 echo == PUSH
 git push
-
-echo test
