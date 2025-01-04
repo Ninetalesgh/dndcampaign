@@ -11,6 +11,8 @@ By default I will exclude
 
 It is okay to not find the right in-character words for a moment! 
 
+Ask me anything about the environment your characters are in or what they experience at any time!
+
 My creative freedom with your characters backstories? I will assume a lot of freedom, but if you can think of something at any point that bothers or would bother you, let me know please! For example if you really like this backstory person of your character and would dislike it if they turn out to be an antagonist.
 
 
