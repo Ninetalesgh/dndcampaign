@@ -1,22 +1,22 @@
 #!/bin/bash
 
 
-== STASH
+echo == STASH
 git stash
-== CHECKOUT MAIN
+echo == CHECKOUT MAIN
 git checkout main
-== POP
+echo == POP
 git stash pop
-== RM VAULT/DM/
+echo == RM VAULT/DM/
 git rm *vault/dm/*
-== COMMIT
+echo == COMMIT
 git commit -m "update"
-== PUSH
+echo == PUSH
 git push
-== CHECKOUT DM
+echo == CHECKOUT DM
 git checkout dm
-== MERGE MAIN
+echo == MERGE MAIN
 git merge main
-== POP
+echo == POP
 git stash pop
 git status
