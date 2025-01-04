@@ -1,14 +1,37 @@
 
-## Important things for players:
+# Important things for players:
+> Will delete this section after Session 0, just some things I want to bring up.
 
-Our content boundaries? 
-My creative freedom with your characters backstories?
-Your session note taking and post-session summarization?
+## Playing 
+
+Our content boundaries? This is meant as a space in which you feel powerful and if you want to experiment and explore character traits you would like to project out.
+By default I will exclude 
 
 
-## Game Mechanics
 
-### Basics
+It is okay to not find the right in-character words for a moment! 
+
+My creative freedom with your characters backstories? I will assume a lot of freedom, but if you can think of something at any point that bothers or would bother you, let me know please! For example if you really like this backstory person of your character and would dislike it if they turn out to be an antagonist.
+
+
+## Organizing
+Frequency of play? Every 2 weeks will in reality be significantly less. Attempting weekly would be the most fluent. Too infrequent will be a very different experience and break immersion significantly.
+
+Your session note taking and post-session summarization? Will help all of us stay on the same page and it's nice to have to review. I'll be taking my own notes, but seeing written down what you recall, noticed, and cared about in a session would help me a lot. This can be either one, a couple, or all players.
+
+I bring tokens to help players with remembering game rules and keep track of what's going on.
+
+Character sheets? You should all have a character sheet, either digital or physical. 
+
+Displaying order of Initiative? I haven't really thought of a good way of doing that yet, any ideas welcome for when we get there. (Cards? Just a whiteboard visible for everyone might work too!)
+
+Do we want to play with Ammo? We have noone that will use ammo naturally all the time, so this would allow "specific arrows, bolts, or darts" to be more special and stand out for the occasional shot.
+
+There will be time progression throughout the day (unlike in Baldur's Gate), but rests are limited to 2 Short Rests between Long Rests? 
+
+# Game Mechanics
+
+## Basics
 
   Ability Scores | Description | Examples | Saving Throws
   :-- | :-- | :-- | :--
@@ -23,7 +46,7 @@ Your session note taking and post-session summarization?
 
 - **Proficiency** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
 - **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw 
-  - ***Attack*** -> STR for melee, DEX for ranged, Varies for Spell Attack. Add your Proficiency Bonus if it's with a weapon you're proficient with or always add it if it's a Spell Attack. 
+  - ***Attack Roll*** -> STR for melee, DEX for ranged, Varies for Spell Attack. Add your Proficiency Bonus if it's with a weapon you're proficient with or always add it if it's a Spell Attack. When you roll equal to or higher than your target's AC, you hit and roll the damage you do!
   - ***Ability Check*** -> Either roll on an Ability directly or on a Skill (Athletics, Acrobatics, etc.). Add your Proficiency Bonus to Ability Checks you are proficient in. 
     - ***Tools*** -> Proficiency stacks with Skills when Tools are used, if you have Proficiency in both the Skill and the Tool for an associated check you roll with Advantage.
   - ***Saving Throw*** -> Add your Proficiency Bonus if you're proficient in the Saving Throw of the Ability in question. I'll shorthand this to "Saves" in most places.
@@ -31,8 +54,11 @@ Your session note taking and post-session summarization?
 - **Difficulty Class (DC)** -> Very easy 5, easy 10, medium 15, hard 20, Very hard 25, nearly impossible 30 
 - **Armor Class (AC)** -> Your Base AC + DEX. You can only have one Base AC, by default that is 10.
 - **Health Points (HP)** -> Your Health, when it drops to 0 you are on the brink of death! You can never have more HP than your HP maximum.
+- **Long Rest (LR)** -> 8 Hours of rest (of which ~6 are sleep) to regain all your HP and Spell Slots and everything else that regenerates or refreshes after Long Rests.
+- **Hit Dice** -> Type of dice that represents how tough you are depending on your class. You have an amount of Hit Dice equal to your Level. You regenerate all your Hit Dice after a Long Rest. 
+- **Short Rest (SR)** -> 1 Hour of rest. Spend and roll as many Hit Dice as you want to regenerate HP. Some resources regenerate after Short Rests.
 
-### Turn Based Play
+## Turn Based Play
 While we're not playing Turn Based do what you want, ask the GM anything, role play ahead!
 We play Turn Based in dangerous time sensitive situations like Combat. When we do, we use Initiative.
 
@@ -61,8 +87,7 @@ What you can do:
   - You can also fall Prone at will, of course.
   - *ON GRIDS ONLY*: Diagonal movement costs $3/2$, rounding down the total (so 2 full diagonal "steps" cost 3) 
 - **Actions**
-- ***Attack*** -> Melee, Ranged, Spell. If you roll a 20 on an attack roll you score a ***Critical Hit***!
-  
+- ***Attack*** -> Melee, Ranged, Spell. If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you double ALL the damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
   - *Melee Attack* -> Attack something in range, unless otherwise specified, your Melee Attack range is 1 (so you can attack things directly next to you).
   - *Ranged Attack* -> Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage.
   - *Spell Attack* -> Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage.
@@ -87,13 +112,12 @@ What you can do:
 - **Ready Action Trigger** -> Trigger the Action you readied!
 
 
-### Advanced
-
+## Advanced Rules
 
 - **Temporary HP (THP)** -> Extra health that allows you to go above your HP max, usually from some invigorating or morale boosting effect. You can only ever have one THP pool and they don't stack (for example, if you have 6 THP and would gain 10 THP from some effect, your THP becomes the higher one, in this case 10). THP are not healing.
 - **Death Saves & Death** -> When you hit 0 HP you get the [Unconscious](#Unconscious) Condition.
 
-#### Damage Types
+### Damage Types
 
 > **Resistance** to a Damage Type halves all damage of that type you take (round down),
 > **Vulnerability** doubles it.
@@ -113,22 +137,19 @@ What you can do:
   - **Force** -> Energy.
   - **Psychic** -> Brain Hurty.
 
-#### Vision & Light
+### Vision & Light
 
 - **Bright Light** -> See normally. Even gloomy daus provide Bright Light, as do torches, lanterns, fires, and other sources of illumination with specific radius.
 - **Dim Light** -> Lightly obscured area. Dim Light is usally a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light, so does for example a full moon.
 - **Darkness** -> Heavily Obscured area. Characters face Darkness outdoors at night, withing the confines of an unlit dungeon, or in an area of magical Darkness.
 
-##### Special senses
+#### Special senses
 - **Blindsight** -> sense things moving around you.
 - **Darkvision** -> see in darkness like a cat.
 - **Tremorsense** -> like a snake you can feel the ground vibrations.
 - **Truesight** -> See invisible things.
 
-
-
-
-#### Cover
+### Cover
 Draw lines from one corner of the your square to 4 corners of one of the squares of the creature you're attacking. If ANY line is obstructed, the target is behind Cover and gains benefits of at least Half Cover.
 
 Cover | Benefit
@@ -140,7 +161,7 @@ Total | Can't be targeted directly
 Example for Three-Quarters Cover:
 ![Image|300](https://i.sstatic.net/02ukW.png)
 
-#### Creature Sizes
+### Creature Sizes
 
 Size | Squares
 :-- | :--
@@ -151,9 +172,25 @@ Large | 4
 Huge | 9
 Gargantuan | 16
 
-#### Conditions
-##### Bleeding 
-  TODO better phrasing of this block
+### Spell Casting
+
+TODO 
+Spell Slots, Visual, Semantic 
+Only one Spell Slot consume per Turn. 
+
+### Magic Items
+
+Every player can have up to 3 magic items attuned.
+ TODO
+  Magic items are noticably magical when you handle them.
+  One item can be identified per SR.
+  A maximum of 3 attunements total.
+  One item can be attuned per SR.
+  One item can be unattuned per SR.
+
+### Conditions
+#### Bleeding 
+   better phrasing of this block
   A Bleeding creature loses the specified amount of hit points at the beginning of each of its turns, i.e a creature that is "Bleeding (1d4)" loses 1d4 hit points at the beginning of each of its turns.
       Hit point loss represents loss of vital fluids, and is distinct from damage. Unless otherwise specified, it can't be resisted or reduced in any way. It has no effect on creatures with 0 hit points.
       Creatures that do not have blood or some equivalent vital fluid are immune to any effect that directly causes Hit Point Loss.
@@ -161,65 +198,65 @@ Gargantuan | 16
       Rarely, some effects may cause a creature to accrue multiple instances of the Bleeding condition, and will specify if this is the case. Stacking wounds of the same value count as a single instance of the Bleeding condition with a Hit Point Loss value equal to their total cumulative Hit Point Loss value.
   The Bleeding condition ends for a creature that regains any hit points.
   Additionally, as an action, a creature may attempt a DC 12 Wisdom (Medicine) check to stanch the wounds of a Bleeding creature, ending the effect on a success.
-##### Blinded
+#### Blinded
   Automatically fail ability checks that require sight.
   Attack rolls against you have Advantage, your attack rolls have disadvantage.
-##### Burning
+#### Burning
   A Burning creature is on fire, and takes the specified amount of fire damage at the beginning of each of its turns, i.e. "Burning (1d10)."
   If a creature that is already Burning would gain the Burning condition from another source, the condition with the higher Burning value overrides that with the lesser value.
   The creature or a creature that can reach it may smother the flames as an action, ending the Burning condition for that creature. A Burning creature that is doused in water, that takes any cold damage, or that is in an airless environment, such as a bag of holding, has the condition immediately end for it.
-##### Charmed
+#### Charmed
   You can't attack charmer or target the charmer with harmful magical effects.
   The charmer has advantage on any ability check to interact with you socially.
-##### Deafened
+#### Deafened
   Automatically fail ability checks that require hearing.
   Immune to Thunder Damage.
-##### Exhaustion Levels
+#### Exhaustion Levels
   You die when you reach 6 Levels of exhaustion.
   You get -2 * Levels on every d20 check.  
   Speed reduced by 1 * Levels.
   Every long rest reduces Levels by 1.
-##### Frightened
+#### Frightened
   Disadvantage on Ability Checks and Attack Rolls while the source of fear is within LoS.
   Can't willingly move closer to the source of fear.
-##### Grappled
+#### Grappled
   Disadvantage on Attack Rolls against targets other than your grappler.
   The grappler can move you with extra movement cost.
-##### Incapacitated
+#### Incapacitated
   Can't take Actions, Bonus Actions or Reactions and your Concentration is broken.
   You can't speak.
   Disadvantage on Initiative Roll.
-##### Invisible
+#### Invisible
   This mechanically includes being hidden.
   Advantage on Initiative Roll.
   Attacks against you have Disadvantage and your attacks have Advantage.
-##### Paralyzed
+#### Paralyzed
   Incapacitated.
   Speed 0.
   Fail all STR/DEX Saving Throws.
   Attacks against you have Advantage and if they are within range 1 always Critical.
-##### Petrified
+#### Petrified
   Incapacitated.
   Speed 0.
   Fail all STR/DEX Saving Throws.
   Attacks against you have Advantage.
   Resist all damage, immune to Poison.
   Cease aging and your weight is \*10. (you are some material like stone or gold)
-##### Poisoned 
+#### Poisoned 
   Disadvantage on Ability Checks and Attack Rolls. 
-##### Prone 
+#### Prone 
   Spend half of your Speed to stand up. (can't if Speed 0)
   Disadvantage on attack rolls.
   Attacks against you have Disadvantage, if they are within range 1 they have Advantage instead.
-##### Restrained
+#### Restrained
   Speed 0.
   Disadvantage on Attack Rolls and DEX saving throws.
   Attacks against you have Advantage.
-##### Stunned
+#### Stunned
   Incapacitated.
   Fail all STR/DEX Saving Throws.
   Attack against you have Advantage.
-##### Unconscious
+#### Unconscious
   Prone.
   Incapacitated.
   Speed 0.
@@ -227,24 +264,73 @@ Gargantuan | 16
   Attacks against you have Advantage and if they are within range 1 always Critical.
   Unaware of your surroundings.
 
-#### Weapon Mastery Actions
-##### Cleave
+### Weapons and Armor Types
+#### Simple Melee Weapons
+- Club
+- Dagger
+- Greatclub
+- Handaxe
+- Javelin
+- Light Hammer
+- Mace
+- Quarterstaff
+- Sickle
+- Spear
+#### Simple Ranged Weapons
+- Dart
+- Light Crossbow
+- Shortbow
+- Sling
+#### Martial Melee Weapons
+- Battleaxe 
+- Flail 
+- Glaive 
+- Greataxe 
+- Greatsword
+- Halberd
+- Lance 
+- Longsword
+- Maul
+- Morningstar
+- Pike 
+- Rapier
+- Scimitar
+- Shortsword
+- Trident 
+- Warhammer 
+- War Pick 
+- Whip 
+#### Martial Ranged Weapons
+- Blowgun 
+- Hand Crossbow 
+- Heavy Crossbow
+- Longbow 
+- Musket 
+- Pistol 
+#### Armor Types
+- Light Armor
+- Medium Armor
+- Heavy Armor
+- Shields
+
+### Weapon Mastery Actions
+#### Cleave
   Allowed to make a second attack against another creature within 1 range of the first target also within your reach, without damage modifier.
-##### Graze
+#### Graze
   Still deal <1d4> + Damage Modifier when missing an attack.
-##### Nick
+#### Nick
   Allowed to make the additional attack you receive from wielding two Light weapons as part of the initial attack action.
-##### Push
+#### Push
   Allowed to push a creature by <1d4>-1 you hit. (STR/DEX save?)
-##### Sap
+#### Sap
   Target you hit gets disadvantage on its next attack.
-##### Slow
+#### Slow
   Reduces movement speed by <1d4> on hit.
-##### Topple
+#### Topple
   Knock target Prone on hit. (CON/STR/DEX save?)
-##### Vex
+#### Vex
   On hit, choose ally to give advantage on the target for their next hit.
-##### Brace
+#### Brace
   Can opportunity attack when enemy enters range.
-##### Rush
+#### Rush
   Can move an extra <1d4> to attack.
