@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 echo == STASH
 git stash
 echo == CHECKOUT MAIN
@@ -19,4 +18,3 @@ echo == MERGE MAIN
 git merge main
 echo == POP
 git stash pop
-git status
