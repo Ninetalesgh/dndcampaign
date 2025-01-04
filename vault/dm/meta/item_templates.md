@@ -29,7 +29,7 @@ When attacking while Invisible deal an extra 1d6 damage.
 Gloves - Gain an additional Reaction. -1 AC. Attunement.
 
 
-
+spear with finesse and brace.
 
 
 webgrip rucksack - This spider leather bag is lined with a thin layer of adhesive web. 

@@ -1,15 +1,4 @@
 
-Player character questions:
-  What is something your character regrets from their youth?
-  Give me a sentence or two of backstory.
-
-player note taking! 
-
-TTRPG gives you a safe space to explore characters 
-and behaving that you project out.
-
-it is okay to not find the right in-character words for a moment.
-
 Brennan Lee Mulligan: Characters are not opaque, they are stained glass and you, 
 the player is the light that shines through.
 
