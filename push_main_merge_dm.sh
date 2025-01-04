@@ -4,8 +4,13 @@ echo == STASH
 git stash
 echo == CHECKOUT MAIN
 git checkout main
+<<<<<<< Updated upstream
 echo == POP
 git stash pop
+=======
+echo == STASH APPLY
+git stash apply
+>>>>>>> Stashed changes
 echo == RM VAULT/DM/
 git rm *vault/dm/*
 echo == ADD ALL
