@@ -4,23 +4,14 @@ echo == STASH
 git stash
 echo == CHECKOUT MAIN
 git checkout main
-<<<<<<< HEAD
-echo == STASH POP
-=======
-<<<<<<< Updated upstream
-echo == POP
->>>>>>> main
-git stash pop
-=======
 echo == STASH APPLY
 git stash apply
->>>>>>> Stashed changes
 echo == RM VAULT/DM/
 git rm *vault/dm/*
 echo == ADD ALL
 git add -A
 echo == COMMIT
-git commit -m "update main"
+git commit -m "update"
 echo == PUSH
 git push
 echo == CHECKOUT DM
@@ -35,5 +26,3 @@ echo == COMMIT
 git commit -m "update dm"
 echo == PUSH
 git push
-
-echo test
