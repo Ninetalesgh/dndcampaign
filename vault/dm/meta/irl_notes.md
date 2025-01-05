@@ -1,9 +1,4 @@
 
-Table manners:
-  How gory?
-  Special fears to be gentle with, spiders, snakes, drowning?
-
-
 
 Smite of Summer (The searing heat):
 Duration: 1 minute.
