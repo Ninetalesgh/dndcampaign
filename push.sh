@@ -11,7 +11,7 @@ git rm -r *vault/dm/*
 printf "\n== ADD ALL\n"
 git add -A
 printf "\n== COMMIT\n"
-git commit -m "update"
+git commit -m "update main"
 printf "\n== PUSH\n"
 git push
 printf "\n== CHECKOUT DM\n"
