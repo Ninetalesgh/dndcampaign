@@ -14,6 +14,8 @@ It is okay to not find the right in-character words for a moment! Also please fo
 
 Ask me anything about the environment your characters are in or what they experience at any time!
 
+Especially level 1 and 2 are "tutorial" like. To get to know the character, DnD in general, etc. They're not going to be dangerous.
+
 Our content boundaries? This is meant as a safe space in which you feel powerful and have the ability to experiment and explore character traits you would like to project out. 
 This refers to both off-screen and on-screen, from my side:
 - Keep Player vs Player interaction consensual. You guys can tell me in private if you're okay with other players hurting (or mind controlling or whatever) your character, and I will forward it to players I deem appropriate. Or you communicate it directly between each other. Either way, get consent before you do something bad to other players' characters! 
