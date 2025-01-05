@@ -72,16 +72,19 @@ The Round:
 > Each Round is rougly 6 seconds.
 > During each round everyone gets 1 Turn.
 
-- **Roll Initiative**
-  Roll a d20 + DEX, if you are Surprised you have Disadvantage on this roll,
-  if you are [Invisible](#Invisible) (or Hidden) you have Advantage instead.
+- **Roll Initiative** -> Roll a d20 + DEX, if you are Surprised you have Disadvantage on this roll, if you are [Invisible](#Invisible) (or Hidden) you have Advantage instead.
 
 What you can do:
 > 1 Move!
+>
 > 1 Action (A) -> Your main thing!
+>
 > 1 Bonus Action (BA) -> Hastily drink a potion? Also some Spells or Feats are Bonus Actions. 
+>
 > 1 Reaction (R) -> Readied Action Trigger or Opportunity Attack?
+>
 > 1 Free Action -> Something very minor, like open a door or push a button.
+>
 > 1 Shout something!
 
 - **Movement**: Move - up to a range equal to your Speed. You can do this in parts (for example, move 1, use Action, move 4, use Bonus Action, move 1).
