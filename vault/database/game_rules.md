@@ -15,14 +15,14 @@ It is okay to not find the right in-character words for a moment! Also please fo
 Ask me anything about the environment your characters are in or what they experience at any time!
 
 Our content boundaries? This is meant as a safe space in which you feel powerful and have the ability to experiment and explore character traits you would like to project out. 
-  This refers to both off-screen and on-screen, from my side:
-- Keep Player vs Player interaction consensual. You guys can tell me in private if you're okay with other players hurting (or mind controlling or whatever) your character, and I will forward it to players I deem appropriate. Or you communicate it directly between each other. Either way, get consent before you do something bad to other players! 
+This refers to both off-screen and on-screen, from my side:
+- Keep Player vs Player interaction consensual. You guys can tell me in private if you're okay with other players hurting (or mind controlling or whatever) your character, and I will forward it to players I deem appropriate. Or you communicate it directly between each other. Either way, get consent before you do something bad to other players' characters! 
 - We will exclude any non-consensual sexual acts on- and off-screen.
 - Otherwise, you can be mean, violent, devious, berating, flirty, or even polite to any of the NPCs I play.
 
 
 ## Organizing
-Frequency of play? Every 2 weeks will in reality be significantly less. Attempting weekly would be the most fluent. Too infrequent will be a very different experience and break immersion significantly.
+Frequency of play? Attempting weekly would be the most fluent. Too infrequent will be a very different experience and break immersion significantly.
 
 Missing sessions? Missing sessions every now and then should be okay, depending on what's currently going on in-world. but it's always possible to have your character fade into the background for a session.  
 
