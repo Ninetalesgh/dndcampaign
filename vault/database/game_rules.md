@@ -3,36 +3,49 @@
 > Will delete this section after Session 0, just some things I want to bring up.
 
 ## Playing 
+I will attempt to introduce several game aspects, and then we see what we like. (Social Interaction, Exploration, Action)
+I like presenting a tense experience in a gritty world. Comedy or humor naturally emerges from interactions, I feel. Obviously you as players can be as dorky or comedic as you like, and there will be dorky non-player-characters (NPCs) or encounters that I present more light hearted, but in general the world would have a serious tone. I'm super happy to try out anything though, please let me know what you would like to experience!
 
-Our content boundaries? This is meant as a space in which you feel powerful and if you want to experiment and explore character traits you would like to project out.
-By default I will exclude 
+I will play scenes out with your characters sometimes, to show what kind of game flow or descriptions you can come up with yourselves (also because I enjoy it), I hope I won't represent your characters in ways you really dislike. Please let me know what you like / dislike whenever it comes up.
 
+My creative freedom with your characters backstories? I will assume a lot of freedom, but if you can think of something at any point that bothers or would bother you, let me know please! For example if you really like this backstory person of your character and would dislike it if they turn out to be an antagonist.
 
-
-It is okay to not find the right in-character words for a moment! 
+It is okay to not find the right in-character words for a moment! Also please forgive me if I don't sometimes.
 
 Ask me anything about the environment your characters are in or what they experience at any time!
 
-My creative freedom with your characters backstories? I will assume a lot of freedom, but if you can think of something at any point that bothers or would bother you, let me know please! For example if you really like this backstory person of your character and would dislike it if they turn out to be an antagonist.
+Our content boundaries? This is meant as a safe space in which you feel powerful and if you want to experiment and explore character traits you would like to project out. 
+This refers to both off-screen and on-screen:
+From my side:
+- Keep Player vs Player interaction consensual. You guys can tell me in private if you're okay with other players hurting (or mind controlling or whatever) your character, and I will forward it to players I deem appropriate. Or you communicate it directly between each other. Either way, get consent before you do something bad to other players! 
+- We will exclude any non-consensual sexual acts on- and off-screen.
+- Otherwise, you can be mean, violent, devious, berating, flirty, or even polite to any of the NPCs I play.
 
 
 ## Organizing
 Frequency of play? Every 2 weeks will in reality be significantly less. Attempting weekly would be the most fluent. Too infrequent will be a very different experience and break immersion significantly.
 
-Your session note taking and post-session summarization? Will help all of us stay on the same page and it's nice to have to review. I'll be taking my own notes, but seeing written down what you recall, noticed, and cared about in a session would help me a lot. This can be either one, a couple, or all players.
+Missing sessions? Missing sessions every now and then should be okay, depending on what's currently going on in-world. but it's always possible to have your character fade into the background for a session.  
+
+Your session note taking and post-session summarization? Will help all of us stay on the same page and it's nice to have to review. I'll be taking my own notes, but seeing it written down what you recall, noticed, and cared about in a session would help me a lot. This can be either one, a couple, or all players.
 
 I bring tokens to help players with remembering game rules and keep track of what's going on.
 
 Character sheets? You should all have a character sheet, either digital or physical. 
 
-Displaying order of Initiative? I haven't really thought of a good way of doing that yet, any ideas welcome for when we get there. (Cards? Just a whiteboard visible for everyone might work too!)
+There will be rough in-game time progression throughout the day (unlike in Baldur's Gate), but do we limit rests to 2 Short Rests between Long Rests? 
+
+Displaying order of Initiative? I haven't really thought of a good way of doing that yet, any ideas welcome for when we get there. (Cards? Just a whiteboard visible for everyone might work too!) could a player always do this instead of me?
 
 Do we want to play with Ammo? We have noone that will use ammo naturally all the time, so this would allow "specific arrows, bolts, or darts" to be more special and stand out for the occasional shot.
 
-There will be time progression throughout the day (unlike in Baldur's Gate), but rests are limited to 2 Short Rests between Long Rests? 
+Do we want a rules lawyer player on standby? If there's a rules misunderstanding that player has the rules ready and I can focus on other things in the meanwhile. Most of the time I don't think it'll be needed, but sometimes double checking what a spell or effect does doesn't hurt.
+
+Last but very important: Again, please let me know if something is not fun I will do my best to improve or change play to fit all the players' desires. 
+If you are disinterested entirely or want to step out for other reasons, please also communicate that directly \<3.
+This is supposed to be a fun time together, not just a scheduled duty on your calendar. 
 
 # Game Mechanics
-
 ## Basics
 
   Ability Scores | Description | Examples | Saving Throws
@@ -52,7 +65,7 @@ There will be time progression throughout the day (unlike in Baldur's Gate), but
   - ***Ability Check*** -> Either roll on an Ability directly or on a Skill (Athletics, Acrobatics, etc.). Add your Proficiency Bonus to Ability Checks you are proficient in. 
     - ***Tools*** -> Proficiency stacks with Skills when Tools are used, if you have Proficiency in both the Skill and the Tool for an associated check you roll with Advantage.
   - ***Saving Throw*** -> Add your Proficiency Bonus if you're proficient in the Saving Throw of the Ability in question. I'll shorthand this to "Saves" in most places.
-- **Advantage & Disadvantage** -> Roll twice on d20 tests, with Advantage you take the higher roll of the two, with Disadvantage you take the lower.
+- **Advantage & Disadvantage** -> Roll twice on d20 tests, with Advantage you take the higher roll of the two, with Disadvantage you take the lower. Advantage and Disadvantage cancel each other out and never stack (for example, 3 sources of Advantage and 1 source of Disadvantage result in a normal roll).
 - **Difficulty Class (DC)** -> Very easy 5, easy 10, medium 15, hard 20, Very hard 25, nearly impossible 30 
 - **Armor Class (AC)** -> Your Base AC + DEX. You can only have one Base AC, by default that is 10.
 - **Health Points (HP)** -> Your Health, when it drops to 0 you are on the brink of death! You can never have more HP than your HP maximum.
@@ -74,8 +87,8 @@ The Round:
 
 - **Roll Initiative** -> Roll a d20 + DEX, if you are Surprised you have Disadvantage on this roll, if you are [Invisible](#Invisible) (or Hidden) you have Advantage instead.
 
-What you can do:
-> 1 Move!
+What you can do when we play Turn Based:
+> 1 Movement!
 >
 > 1 Action (A) -> Your main thing!
 >
@@ -111,10 +124,10 @@ What you can do:
 - ***Help*** -> Help someone elses Ability Check or Attack Roll, giving them Advantage. 
 - **Drink Potion** -> Drink carefully, regenerate the maximum rollable result.
 - **Bonus Actions**
-- **Drink Potion** -> Drink fast! Roll dice! Spill some! 
+  - **Drink Potion** -> Drink fast! Roll dice! Spill some! 
 - **Reaction**
-- **Opportunity Attack** -> Melee Attack someone who moves out of your Melee range (not if they're pushed or otherwise physically moved by force).
-- **Ready Action Trigger** -> Trigger the Action you readied!
+  - **Opportunity Attack** -> Melee Attack someone who moves out of your Melee range (not if they're pushed or otherwise physically moved by force).
+  - **Ready Action Trigger** -> Trigger the Action you readied!
 
 
 ## Advanced Rules
@@ -132,12 +145,12 @@ What you can do:
   - **Slashing** -> Cut things.
   - **Bludgeoning** -> Bonk.
   - **Poison** -> McDonalds.
-  - **Fire** -> Kitchen oven.
+  - **Fire** -> Hottie.
   - **Cold** -> Very icy.
   - **Lightning** -> That's shocking.
-  - **Acid** -> Corroding spit.
+  - **Acid** -> Alien blood and chemicals.
   - **Thunder** -> VERY LOUD THINGS.
-  - **Necrotic** -> Death and life drain.
+  - **Necrotic** -> Rot, death of flesh.
   - **Radiant** -> Holy fire and sun lasers.
   - **Force** -> Energy.
   - **Psychic** -> Brain Hurty.
@@ -145,9 +158,10 @@ What you can do:
 ### Vision & Light
 
 - **Bright Light** -> See normally. Even gloomy daus provide Bright Light, as do torches, lanterns, fires, and other sources of illumination with specific radius.
-- **Dim Light** -> Lightly obscured area. Dim Light is usally a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light, so does for example a full moon.
+- **Dim Light** -> Lightly Obscured area. Dim Light is usally a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light, so does for example a full moon.
+  - Lightly Obscured means Disadvantage on WIS (Perception) to see. 
 - **Darkness** -> Heavily Obscured area. Characters face Darkness outdoors at night, withing the confines of an unlit dungeon, or in an area of magical Darkness.
-
+  - Attempting to see something Heavily Obscured is mechanically equivalent to being [Blinded](#Blinded).
 #### Special senses
 - **Blindsight** -> sense things moving around you.
 - **Darkvision** -> see in darkness like a cat.
@@ -164,6 +178,7 @@ Three-Quarter | +5 AC and DEX Saves
 Total | Can't be targeted directly
 
 Example for Three-Quarters Cover:
+
 ![Image|300](https://i.sstatic.net/02ukW.png)
 
 ### Creature Sizes
@@ -177,10 +192,27 @@ Large | 4
 Huge | 9
 Gargantuan | 16
 
+### Creature Types
+
+- **Aberration** ->  (Usually Arcana)
+- **Beast** ->  (Usually Nature)
+- **Celestial** ->  (Usually Religion)
+- **Construct** ->  (Usually Arcana)
+- **Dragon** ->  (Usually Nature)
+- **Elemental** ->  (Usually Arcana)
+- **Fey** ->  (Usually Arcana)
+- **Fiend** ->  (Usually Religion)
+- **Giant** ->  (Usually History)
+- **Humanoid** ->  (Usually History)
+- **Monstrosity** ->  (Usually Arcana)
+- **Ooze** ->  (Usually Nature)
+- **Plant** ->  (Usually Nature)
+- **Undead** ->  (Usually Religion)
+
 ### Spell Casting
 
 TODO 
-Spell Slots, Visual, Semantic 
+Spell Slots, Visual, Semantic, Ritual, Concentration
 Only one Spell Slot consume per Turn. 
 
 ### Magic Items
@@ -205,7 +237,7 @@ Every player can have up to 3 magic items attuned.
   Additionally, as an action, a creature may attempt a DC 12 Wisdom (Medicine) check to stanch the wounds of a Bleeding creature, ending the effect on a success.
 #### Blinded
   Automatically fail ability checks that require sight.
-  Attack rolls against you have Advantage, your attack rolls have disadvantage.
+  Attack rolls against you have Advantage, your attack rolls have Disadvantage.
 #### Burning
   A Burning creature is on fire, and takes the specified amount of fire damage at the beginning of each of its turns, i.e. "Burning (1d10)."
   If a creature that is already Burning would gain the Burning condition from another source, the condition with the higher Burning value overrides that with the lesser value.
@@ -216,11 +248,12 @@ Every player can have up to 3 magic items attuned.
 #### Deafened
   Automatically fail ability checks that require hearing.
   Immune to Thunder Damage.
-#### Exhaustion Levels
-  You die when you reach 6 Levels of exhaustion.
-  You get -2 * Levels on every d20 check.  
-  Speed reduced by 1 * Levels.
-  Every long rest reduces Levels by 1.
+#### Exhaustion
+  Exhaustion stacks.
+  You die when you reach 6 levels of exhaustion.
+  You get $-2 * Levels$ on every d20 check.  
+  Speed reduced by $1 * Levels$.
+  Every Long Rest lets you recover from 1 level of Exhaustion.
 #### Frightened
   Disadvantage on Ability Checks and Attack Rolls while the source of fear is within LoS.
   Can't willingly move closer to the source of fear.
@@ -339,3 +372,14 @@ Every player can have up to 3 magic items attuned.
   Can opportunity attack when enemy enters range.
 #### Rush
   Can move an extra <1d4> to attack.
+
+
+### Character Needs
+
+Only relevant when resources become scarce.
+
+Per day:
+- About 3 liters of fluid. If you consume less than half of that you gain 1 [Exhaustion](#Exhaustion).
+- About 500g of food. If you consume less than half of that you must succeed on a DC 10 CON Save or gain 1 Exhaustion. Starting at day 5 you additionally gain 1 Exhaustion at the end of every day without Save. 
+
+Exhaustion caused by dehydration or malnutrition can't be removed unless you consume a daily portion of fluid or food respectively. 

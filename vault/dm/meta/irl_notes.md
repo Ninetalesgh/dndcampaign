@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Brennan Lee Mulligan: Characters are not opaque, they are stained glass and you, 
 the player is the light that shines through.
 
@@ -40,6 +41,14 @@ Rules:
   Ammo or not?
 
 
+=======
+Table manners:
+  How gory?
+  Special fears to be gentle with, spiders, snakes, drowning?
+
+
+
+>>>>>>> main
 
 Smite of Summer (The searing heat):
 Duration: 1 minute.
