@@ -1,28 +1,28 @@
 #!/bin/bash
 
-echo \n== STASH
+printf "\n== STASH"
 git stash
-echo \n== CHECKOUT MAIN
+printf "\n== CHECKOUT MAIN"
 git checkout main
-echo \n== STASH APPLY
+printf "\n== STASH APPLY"
 git stash apply
-echo \n== RM VAULT/DM/
+printf "\n== RM VAULT/DM/"
 git rm -r *vault/dm/*
-echo \n== ADD ALL
+printf "\n== ADD ALL"
 git add -A
-echo \n== COMMIT
+printf "\n== COMMIT"
 git commit -m "update"
-echo \n== PUSH
+printf "\n== PUSH"
 git push
-echo \n== CHECKOUT DM
+printf "\n== CHECKOUT DM"
 git checkout dm
-echo \n== MERGE MAIN
+printf "\n== MERGE MAIN"
 git merge main
-echo \n== STASH POP
+printf "\n== STASH POP"
 git stash pop
-echo \n== ADD ALL
+printf "\n== ADD ALL"
 git add -A
-echo \n== COMMIT
+printf "\n== COMMIT"
 git commit -m "update dm"
-echo \n== PUSH
+printf "\n== PUSH"
 git push
