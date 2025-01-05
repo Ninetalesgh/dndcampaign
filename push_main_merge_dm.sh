@@ -1,28 +1,28 @@
 #!/bin/bash
 
-echo == STASH
+echo \n== STASH
 git stash
-echo == CHECKOUT MAIN
+echo \n== CHECKOUT MAIN
 git checkout main
-echo == STASH APPLY
+echo \n== STASH APPLY
 git stash apply
-echo == RM VAULT/DM/
+echo \n== RM VAULT/DM/
 git rm -r *vault/dm/*
-echo == ADD ALL
+echo \n== ADD ALL
 git add -A
-echo == COMMIT
+echo \n== COMMIT
 git commit -m "update"
-echo == PUSH
+echo \n== PUSH
 git push
-echo == CHECKOUT DM
+echo \n== CHECKOUT DM
 git checkout dm
-echo == MERGE MAIN
+echo \n== MERGE MAIN
 git merge main
-echo == STASH POP
+echo \n== STASH POP
 git stash pop
-echo == ADD ALL
+echo \n== ADD ALL
 git add -A
-echo == COMMIT
+echo \n== COMMIT
 git commit -m "update dm"
-echo == PUSH
+echo \n== PUSH
 git push
