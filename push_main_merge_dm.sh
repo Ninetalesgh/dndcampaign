@@ -7,7 +7,7 @@ git checkout main
 echo == STASH APPLY
 git stash apply
 echo == RM VAULT/DM/
-git rm *vault/dm/*
+git rm -r *vault/dm/*
 echo == ADD ALL
 git add -A
 echo == COMMIT
