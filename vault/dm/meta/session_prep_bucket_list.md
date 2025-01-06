@@ -1,6 +1,12 @@
 ## TODO
 
-Kazimir, Warlock, Druid watch in the crowd. [TODO] Split these up a *little*, one more introductory scene.
+
+- NPC characters with pictures on the github
+- add heroic inspiration and skills to the rules
+- in play, force characters to introduce themselves to others
+
+- mufi and kal relation, how much do they know of each other already? does mufi expect scorpion talking? 
+
 
 
 ## The Thief
