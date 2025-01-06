@@ -216,6 +216,8 @@ Alchemy lab in Vinea Basement where blood infusions are found.
 introduce NPCs that are in positions of authority but are bad people.
 
 
+shelf stretches around $3km^2$.
+
 
 
 

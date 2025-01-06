@@ -10,10 +10,10 @@ Alex Vinea, Saphira Vinea, Thalia Vinea, Elysia Vinea, Lyessa Vinea, Riven Vinea
 ##### Women
   Thrainna Ironwhisper, Iria Ironwhisper, Brunhild Ironwhisper, Keldra Ironwhisper, Brynna Ironwhisper, Dagna Ironwhisper, Freya Ironwhisper, Thalira Ironwhisper
 
-### Male First Names
+### First Names
  Human
-    M: Alden   Berric Cedric Darian Gavin Halston Loras Merrick
-    F: Adeline Brynn  Calla  Delia  Eliza Fiona   Saria Tessa Yvette
+    M: Alden Cedric Darian Gavin Halston Loras Merrick
+    F: Adeline Brynn  Calla   Eliza Fiona   Saria Tessa Yvette
     
 ### Family Names:
   Human: Lareth Mylen Tovan Kendral Arvesh Kaelir Zareth Tavrik
