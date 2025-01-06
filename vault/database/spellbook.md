@@ -3,32 +3,65 @@
 ## Cantrips
 ### Light
 *Evocation Cantrip*
-**Casting Time**: Action
-**Range**: Touch
-**Components**: V
-**Duration**: 1 hour
+- **Casting Time**: Action
+- **Range**: Touch
+- **Components**: V
+- **Duration**: 1 hour
 You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a radius 4 *(6m)* and Dim Light for an additional range of 4. The light can be colored as you like.
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 
+## Level 1
+
+### Cure Wounds
+*Level 1 Abjuration*
+- **Casting Time**: Action
+- **Range**: Touch
+- **Components**: V, S
+- **Duration**: Instantaneous
+A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
+- **Using a Higher-Level Spell Slot.** The healing increases by 2d8 for each spell slot level above 1.
+
+### Healing Word
+*Level 1 Abjuration*
+- **Casting Time**: Bonus Action
+- **Range**: 12 *(18m)*
+- **Components**: V
+- **Duration**: Instantaneous
+A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
+- **Using a Higher-Level Spell Slot.** The healing increases by 2d4 for each spell slot level above 1.
+
 # Druid
+
+## Level 1
+### Create or Destroy Water
+*Level 1 Transmutation*
+**Casting Time**: Action
+**Range**: 6 *(9m)*
+**Components**: V, S
+**Duration**: Instantaneous
+You do one of the following:
+  - Create Water. You create up to 40 liters of clean water within range in an open container. Alternatively, the water falls as rain in a size 6 Cube within range, extinguishing exposed flames there.
+  - Destroy Water. You destroy up to 40 liters of water in an open container within range. Alternatively, you destroy fog in a size 6 Cube within range.
+- **Using a Higher-Level Spell Slot.** You create or destroy 40 additional liters of water, or the size of the Cube increases by 1, for each spell slot level above 1.
+
 # Paladin
 ## Cantrips
 
 ## Level 1 
 ### Purify Food and Drink
 *Level 1 Transmutation*
-**Casting Time**: Action or Ritual
-**Range**: 2 *(3m)*
-**Components**: V, S
-**Duration**: Instantaneous
+- **Casting Time**: Action or Ritual
+- **Range**: 2 *(3m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
 You remove poison and rot from nonmagical food and drink in a radius 1 Sphere centered on a point within range.
 
 ### Detect Poison and Disease
 *Level 1 Divination*
-**Casting Time**: Action or Ritual
-**Range**: Self, Radius 6 *(9m)*
-**Components**: V, S
-**Duration**: Concentration, up to 10 minutes
+- **Casting Time**: Action or Ritual
+- **Range**: Self, Radius 6 *(9m)*
+- **Components**: V, S
+- **Duration**: Concentration, up to 10 minutes
 For the duration, you sense the location of poisons, poisonous or venomous creatures, and magical contagions within 30 feet of yourself. You sense the kind of poison, creature, or contagion in each case.
 The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sheet of lead.
 
@@ -72,19 +105,19 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 ## Cantrips
 ### Guidance
 *Divination Cantrip*
-**Casting Time**: Action
-**Range**: Touch
-**Components**: V, S
-**Duration**: Concentration, up to 1 minute
+- **Casting Time**: Action
+- **Range**: Touch
+- **Components**: V, S
+- **Duration**: Concentration, up to 1 minute
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any Ability Check using the chosen skill.
 
 ## Level 1
 ### Sanctuary
 Level 1 Abjuration
-**Casting Time**: Bonus action
-**Range**: 6 *(9m)*
-**Components**: V, S
-**Duration**: 1 minute
+- **Casting Time**: Bonus action
+- **Range**: 6 *(9m)*
+- **Components**: V, S
+- **Duration**: 1 minute
 You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an Attack Roll or a damaging spell must succeed on a WIS Save or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
 The spell ends if the warded creature makes an Attack Roll, casts a spell, or deals damage.
 
@@ -93,36 +126,36 @@ The spell ends if the warded creature makes an Attack Roll, casts a spell, or de
 ## Cantrips
 ### Eldritch Blast
 *Evocation Cantrip*
-**Casting Time**: Action
-**Range**: 24 *(36m)*
-**Components**: V, S
-**Duration**: Instantaneous
+- **Casting Time**: Action
+- **Range**: 24 *(36m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
 You hurl a beam of crackling energy. Ranged Spell Attack -> 1d10 Force damage.
 
 ## Level 1
 ### Hex
 *Level 1 Enchantment*
-**Casting Time**: Bonus Action
-**Range**: 18 *(27m)*
-**Components**: V, S
-**Duration**: Concentration, up to 1 hour
+- **Casting Time**: Bonus Action
+- **Range**: 18 *(27m)*
+- **Components**: V, S
+- **Duration**: Concentration, up to 1 hour
 You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an Attack Roll. Also, choose one Ability when you cast the spell. The target has Disadvantage on Ability Checks made with the chosen Ability.
 If the target drops to 0 HP before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 
 ### Armor of Agathys
 *Level 1 Abjuration*
-**Casting Time**: Bonus Action
-**Range**: Self
-**Components**: V, S
-**Duration**: 1 hour
+- **Casting Time**: Bonus Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: 1 hour
 Protective magical frost surrounds you. You gain 5 Temporary HP. If a creature hits you with a melee Attack Roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary HP.
 
 ### Arms of Hadar
 *Level 1 Conjuration*
-**Casting Time**: Action
-**Range**: Self, Radius 2 *(3m)*
-**Components**: V, S
-**Duration**: Instantaneous
+- **Casting Time**: Action
+- **Range**: Self, Radius 2 *(3m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
 Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a radius 2 *(3m)* makes a STR Save. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
 
 
