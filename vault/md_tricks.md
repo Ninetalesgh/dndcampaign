@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 >[!TIP] This is a Tip
 
 >[!WARNING] This is a Warning
@@ -60,5 +61,7 @@ dv.list(dv.pages().where(p => p.file.name == "conditions"));
 //dv.table(["Teeest", "wow"], dv.pages().map(p => [p.file.name, 'ye']))
 ```
 
+=======
+>>>>>>> main
 =======
 >>>>>>> main
