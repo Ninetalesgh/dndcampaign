@@ -26,3 +26,5 @@ printf "\n== MERGE MAIN\n"
 git merge main
 printf "\n== STASH POP\n"
 git stash pop
+printf "\n== PUSH\n"
+git push
