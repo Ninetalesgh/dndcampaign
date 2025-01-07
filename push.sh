@@ -16,10 +16,10 @@ printf "\n== PUSH\n"
 git push
 printf "\n== CHECKOUT DM\n"
 git checkout dm
-printf "\n== MERGE MAIN\n"
-git merge main
 printf "\n== STASH POP\n"
 git stash pop
+printf "\n== MERGE MAIN\n"
+git merge main
 printf "\n== ADD ALL\n"
 git add -A
 printf "\n== COMMIT\n"
