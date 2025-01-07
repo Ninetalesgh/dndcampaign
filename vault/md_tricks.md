@@ -1,5 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> main
 >[!TIP] This is a Tip
 
 >[!WARNING] This is a Warning
@@ -60,8 +66,12 @@ dv.list(dv.pages().where(p => p.file.name == "conditions"));
 //dv.list(dv.pages().file.name);
 //dv.table(["Teeest", "wow"], dv.pages().map(p => [p.file.name, 'ye']))
 ```
+<<<<<<< HEAD
 
 =======
 >>>>>>> main
 =======
+>>>>>>> main
+=======
+>>>>>>> Stashed changes
 >>>>>>> main
