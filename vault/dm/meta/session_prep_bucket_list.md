@@ -1,6 +1,8 @@
 ## TODO
 
 
+- secrets/whispering for some information to encourage player role playing?
+
 - NPC characters with pictures on the github
 - add heroic inspiration and skills to the rules
 - in play, force characters to introduce themselves to others
@@ -9,6 +11,8 @@
 
 
 
+
+??
 ## The Thief
 
 - **Berric Morgrim.** Missing tooth, patchy beard. (jittering hand)
@@ -32,7 +36,7 @@ thief threatens XYZ and then rushes to sewer entrance
 
 # Review Characters
 
-## Druid - Jouni - ?
+## Druid - Jouni - Kal
 [TODO]
 
 ## Fighter - Value - Kazamir
@@ -44,15 +48,27 @@ thief threatens XYZ and then rushes to sewer entrance
 ## Rogue - Klara - Mutafa'il
 [TODO]
 
-## Warlock - Theresa - ?
+## Warlock - Theresa - Ayra
 [TODO]
 
 
 
 # Strong Introduction
+Rushing towards the attack on the farm huts.
+
 # Potential Scenes
+
+
 # Secrets and Clues
+
+- Garrin and Alenna's daughter's corpse is in the Vinea ruin tower
+
 # Fantastic Locations
+
+- The farmhouse on the shelf
+
+- The Academy Alchemy department (Maris Tindle?)
+
 # NPCs
 # Monsters
 Kobold, Goblin, Skeleton, Zombie
