@@ -8,11 +8,7 @@ Cambion -> Short, fiery-red hair, tucked neatly behind her pointed ears. Her ski
 ## Scenes
 [Session 0](./session_notes/session_00.md#ayras-pact): Gives Ayra her pact to sign.
 
-<<<<<<< HEAD
-# Street Kid Tobben
-=======
 # Stray Tobben
->>>>>>> main
 Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a little greasy straight brown hair.
 ## Scenes
 [Session 0](./session_notes/session_00.md#mufis-performance): Gets keys & tells Mufi about getting around in the pit.
