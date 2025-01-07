@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 
 >[!TIP] This is a Tip
 
@@ -61,4 +59,3 @@ dv.list(dv.pages().where(p => p.file.name == "conditions"));
 //dv.list(dv.pages().file.name);
 //dv.table(["Teeest", "wow"], dv.pages().map(p => [p.file.name, 'ye']))
 ```
->>>>>>> Stashed changes
