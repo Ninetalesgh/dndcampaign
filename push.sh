@@ -1,5 +1,11 @@
 #!/bin/bash
 
+printf "\n== ADD DM\n"
+git add vault/dm/*
+printf "\n== COMMIT\n"
+git commit -m "update dm"
+printf "\n== PUSH\n"
+git push
 printf "\n== STASH\n"
 git stash
 printf "\n== CHECKOUT MAIN\n"
@@ -20,9 +26,3 @@ printf "\n== MERGE MAIN\n"
 git merge main
 printf "\n== STASH POP\n"
 git stash pop
-printf "\n== ADD ALL\n"
-git add -A
-printf "\n== COMMIT\n"
-git commit -m "update dm"
-printf "\n== PUSH\n"
-git push
