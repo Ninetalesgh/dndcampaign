@@ -3,6 +3,7 @@
 
 
 
+<<<<<<< HEAD
 #### Describing player character actions:
 
 ###### Rogue (Mutafa'il):
@@ -37,4 +38,6 @@ TODO ::: Seasons, winter for death, spring for life, summer for radiant/fire, au
 
 
 
+=======
+>>>>>>> main
 
