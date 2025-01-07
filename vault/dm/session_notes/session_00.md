@@ -1,47 +1,25 @@
-## TODO
 
-
-- NPC characters with pictures on the github
-- add heroic inspiration and skills to the rules
-- in play, force characters to introduce themselves to others
-
-- mufi and kal relation, how much do they know of each other already? does mufi expect scorpion talking? 
-
-
-
-## The Thief
-
-- **Berric Morgrim.** Missing tooth, patchy beard. (jittering hand)
-
-thief threatens XYZ and then rushes to sewer entrance
-
-[TODO] maybe this is not a great scene now
-
-
-<<<<<<< HEAD
 Alpine trade city of New Arvandal, sitting in the Stormhorns, between Tyrluk and High Horn. 
-## Resting on the Shelf
-KAL
-
+## Kal resting on the Shelf
 - Travelled here with the circus troupe Cha-Cha Charmers, they had a scorpid whisperer and that seemed an alright party to walk with. 
 - He let you have one of the scorpions as pet, which you now let loose.
 - Sitting at the embankment, fresh summer breeze of alpine air washing past you. the scorpion resting next to you. 
 - The scorpion suddenly lowers its sting and clenches its claws.. you feel a slight tremble in the earth. The scorpion starts dashing away from you. Something.. must've scared it.
 - While turning back into town, in the distance you see some smoke rising on the edge of the shelf, something is going on there.
 - You decide to just go back to town and see a group of people gathering around something..
-MUFI SCENE
 
-## Tuition Payments
-KAZIMIR
+SWITCH SCENE
 
+## Kazimir's Tuition Struggle
 - **Halston Tharbek.** -> Human. short straight black hair, slender eyes and some damage to his skin on his cheeks. glasses low on his nose.
 
 - Academy halls, relaxing on one of the library chairs placed on the side of the foyer. Halston approaches you, with a couple of papers in hand. "Kazimir, I still have you on this list.. you do know that your tuition is due.. you better pay up before the semester begins, otherwise we will unfortunately have to impose some form of suspension." 
 - Pushes up his glasses "oh and also.. we will be swiping the foyer halls now, so please put those chairs back in the library and then get out." Walks away..
-- You go out to clear your head.. walk through the town streets, run into a crowd gathering around something... MUFI SCENE
+- You go out to clear your head.. walk through the town streets, run into a crowd gathering around something... 
+
+SWITCH SCENE
 
 ## Ayra's Pact
-
 - **Mizora**. Cambion -> Short, fiery-red hair, tucked neatly behind her pointed ears. Her skin is pale blue, with purplish lips and coal-black eyes, iris speckled with fire. She adorns her hair with gold and rubies in an ornament similar to a tiara, and she dresses in a simple, yet elegant blue dress with a gilded belt. Her four horns and large wings give her an imposing presence, despite her alluring demeanour.
 
 - Ayra in dream: lush green landscape. mountains in the distance, with pointy snow tips. birds singing. bubbly clouds sitting low on the horizon, it feels like you could be on an island floating in empty space. 
@@ -52,10 +30,11 @@ KAZIMIR
 - Clause G § 13: 'Targets shall be limited to the infernal, the demonic, and the wicked undeserving of celestial residence.'  
 - Clause H § 11: 'Should the promised soul refuse obeyance or neglect duty, the pact-holder shall cast the promised in Avernus as a lemure.'  
 - Clause Z § 5: 'If the soul-binder consents to separation, she will release the soul-bearer from all obligation within six months.'
+- After signing she vanishes. you look around, see a crowd gathering on the plaza.. you approach. 
 
-- After signing she vanishes. you look around, see a crowd gathering on the plaza.. you approach. MUFI SCENE 
+SWITCH SCENE 
 
-## Mufi's Introduction
+## Mufi's Performance
 - **Street kid Tobben.** Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a little greasy straight brown hair.
 - **Guard Tessa Marwick.** Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
 
@@ -72,9 +51,7 @@ KAZIMIR
 
 SWITCH SCENE
 
-
-## The High Road Pollution
-NYARI
+## Nyari Investigates the Pollution
 - **Florist Delia Leabrace.** Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel eyes, barefoot. 
 - [Alenna Harvestsong](./../arvandor/characters/living_npcs.md#alenna-harvestsong) -> Dark hair, warm brown skin tone. orange white robes dusted from gardening.
 - Nyari up on the high road with Alenna and Delia, she wants to show you what Delia has been dealing with. 
@@ -88,7 +65,6 @@ NYARI
 - Down below you're sure you saw at least 3 people get buried by the rubble you just saw fall. 
 
 SWITCH SCENE
-
 
 ## The Elevator Scene
 
@@ -115,50 +91,3 @@ SWITCH SCENE
 - A farmer runs in "the outer farms are being attacked!"
 - Guard captain (bald, scarred, tall) to Dain "almost all of our units are currently deployed in the stockpile."
 - Dain facing Garrin "Garrin! get some bodies and take care of this."
-
-=======
->>>>>>> main
-
-
-# Secrets
-
-<<<<<<< HEAD
-> Kazimir has seen Street Kid Tobben around with Maris (Tindle), his alchemy teacher, a couple of weeks ago when you spotted her in the pit.
-=======
->>>>>>> main
-
-> Kazimir knows Berric's jittering hand symptoms as likely caused by Black Lotus, which.. well, refining it makes money.
-
-
-
-[Veshka Tovan](./../arvandor/characters/living_npcs.md#veshka-tovan).
-
-
-# Review Characters
-
-## Druid - Jouni - ?
-[TODO]
-
-## Fighter - Value - Kazamir
-[TODO]
-
-## Paladin - Basti - Nyari
-[TODO]
-
-## Rogue - Klara - Mutafa'il
-[TODO]
-
-## Warlock - Theresa - ?
-[TODO]
-
-
-
-# Strong Introduction
-# Potential Scenes
-# Secrets and Clues
-# Fantastic Locations
-# NPCs
-# Monsters
-Kobold, Goblin, Skeleton, Zombie
-# Magic Items
-
