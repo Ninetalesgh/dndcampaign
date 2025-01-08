@@ -411,6 +411,18 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 # Paladin
 ## Level 1
 
+### Beacon of Valor
+Level 1 Enchantment
+Casting Time: Bonus action
+Range: 6 *(9m)*
+Components: V, S
+Duration: 1 round
+
+You let out a defiant cry, bolstering your nearby allies.
+
+Each other friendly creature within range that can see you gains advantage on the first attack or saving throw it makes before the end of your next turn.
+Classes: Paladin
+
 ### Compelled Duel
 *Level 1 Enchantment*
 - **Casting Time**: Bonus Action
