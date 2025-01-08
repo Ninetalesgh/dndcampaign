@@ -130,9 +130,7 @@ Half | +2 AC and DEX Saves
 Three-Quarter | +5 AC and DEX Saves
 Total | Can't be targeted directly
 
-Example for Three-Quarters Cover:
-
-![Image|300](https://i.sstatic.net/02ukW.png)
+![Image|400](https://i.imgur.com/keobl8S.png)
 
 ### Creature Sizes
 
