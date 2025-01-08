@@ -4,7 +4,7 @@
 ## 1 (strong melee damage and grappler)
 STR | DEX | CON
 :--: | :--: | :--: 
-+2 (15) | +1 (12) | +2 (14)
+15 (+2)  | 12 (+1)  | 14 (+2)
 
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: Perception +4, Stealth +5
@@ -22,7 +22,7 @@ STR | DEX | CON
 ## 2 (fast and prevent opportunity attacks)
 STR | DEX | CON
 :--: | :--: | :--: 
-+2 (14) | +2 (15) | +0 (10)
+14 (+2)  | 15 (+2)  | 10 (+0)
 
 - **Speed**: 10 *(15m)*, Climb 8 *(12m)*
 - **Skills**: Perception +4, Stealth +6
@@ -37,7 +37,7 @@ STR | DEX | CON
 ## 3 (web related + a bit of blindsight)
 STR | DEX | CON
 :--: | :--: | :--: 
-+1 (12) | +3 (16) | +1 (13)
+12 (+1)  | 16 (+3)  | 13 (+1)
 
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: Perception +3, Stealth +7
@@ -55,7 +55,7 @@ STR | DEX | CON
 ## 4 (strong blindsight, high poison damage)
 STR | DEX | CON
 :--: | :--: | :--: 
--3 (5) | +2 (14) | +1 (12)
+5 (-3)  | 14 (+2)  | 12 (+1)
 
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: -
@@ -69,7 +69,7 @@ STR | DEX | CON
 ## 5 (burrower)
 STR | DEX | CON
 :--: | :--: | :--: 
-+1 (13) | +0 (10) | +3 (17)
+13 (+1)  | 10 (+0)  | 17 (+3)
 
 - **Speed**: 6 *(9m)*, Burrow 2 *(3m)*
 - **Skills**: Perception +3
