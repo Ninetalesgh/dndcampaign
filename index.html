@@ -7,14 +7,59 @@
 </head>
 <body>
 
-  <h2><a href="/vault/database/game_rules.md">Rules Overview</a></h2>
-  <h2><a href="/vault/database/spellbook.md">Spellbook</a></h2>
-  <h2><a href="/vault/database/wildshape.md">Wildshapes</a></h2>
-  <h2><a href="/vault/database/alchemy.md">Alchemy</a></h2>
 
+  <div class="container">
+    <div class="row" style="align-items:start;">
+
+      <div class="col-2" style="width:100px;min-width:100px;flex-basis:20%;">
+
+        <ul style="margin:0;padding:0;text-align:left;">
+          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/game_rules.md')">Rules</button></li>
+          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/spellbook.md')">Spellbook</button></li>
+          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/wildshapes.md')">Wildshapes</button></li>
+          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/alchemy.md')">Alchemy</button></li>
+        </ul>
+      </div>
+      <div class="col-2 content-holder-1" style="width:auto;min-width:100px;flex-basis:80%;"></div>
+    </div>
+  </div>
+    
   <script>
 
-    document.write("hellotest");
+    async function fetchMdAsHtml(relativeMdPath)
+    {
+      var mdUrl = "https://ninetalesgh.github.io/dndcampaign/" + relativeMdPath;
+      try 
+      {
+        const response = await fetch(mdUrl);
+
+        if (!response.ok)
+        {
+          throw new Error('network error');
+        }
+
+        const data = await response.text();
+        return data;
+      }
+      catch (error)
+      {
+        console.error('fetch error', error);
+      }
+    }
+
+    function fetchMd(relativeMdUrl)
+    {
+      fetchMdAsHtml(relativeMdUrl)
+      .then(data => {
+        const div = document.createElement('div');
+        div.innerHTML = data;
+
+        const contentHolder = document.querySelector('.content-holder-1');
+        contentHolder.appendChild(div);
+      });
+    }
+
+
 
   </script>
 

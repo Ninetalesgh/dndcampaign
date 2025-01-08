@@ -10,13 +10,13 @@ STR | DEX | CON
 - **Skills**: Perception +4, Stealth +5
 - **Passive Perception**: 14
 - **Traits**:
-  - *Darkvision.* 24 *(36m)*
+  - *Darkvision.* Range 24 *(36m)*
   - *Extraordinary Leap.* The Long Jump distance is tripled.
   - *Spider Climb.* You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 - **Actions**:
   - ***Sting.*** *Melee Weapon Attack*: +4 to hit, reach 1.
     - *Hit*: 1d8 + 2 Piercing damage + 1d8 Poison damage.
-  - ***Claw Clench.*** *Melee Weapon Attack*: +4 to hit, reach 1, one Small or Tiny creature. 
+  - ***Grapple.*** *Melee Weapon Attack*: +4 to hit, reach 1, one Small or Tiny creature. 
     - *Hit*: The target is Grappled (escape DC 12). You can only have one creature grappled at a time.
 
 ## 2 (fast and prevent opportunity attacks)
@@ -28,7 +28,7 @@ STR | DEX | CON
 - **Skills**: Perception +4, Stealth +6
 - **Passive Perception**: 14
 - **Traits**: 
-  - *Darkvision.* 12 *(18m)*
+  - *Darkvision.* Range 12 *(18m)*
   - *Prowl.* Once per turn, you can move at half your speed without provoking Opportunity Attacks. At the end of this movement, you can take the Hide action.
 - **Actions**:
   - ***Claws.*** *Melee Attack Roll*: +4, reach 1. 
@@ -43,8 +43,8 @@ STR | DEX | CON
 - **Skills**: Perception +3, Stealth +7
 - **Passive Perception**: 13
 - **Traits**: 
-  - *Blindsight.* 2 *(3m)*
-  - *Darkvision.* 12 *(18m)*
+  - *Blindsight.* Range 2 *(3m)*
+  - *Darkvision.* Range 12 *(18m)*
   - *Spider Climb.* You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
   - *Web Sense.* While in contact with a web, you know the exact location of any other creature in contact with the same web.
   - *Web Walker.* You ignore movement restrictions caused by webbing.
@@ -61,7 +61,7 @@ STR | DEX | CON
 - **Skills**: -
 - **Passive Perception**: 8
 - **Traits**: 
-  - *Blindsight.* 6 *(9m)*
+  - *Blindsight.* Range 6 *(9m)*
 - **Actions**:
   - **Sting**. *Melee Weapon Attack*: +4 to hit, reach 1, one creature. 
     - *Hit*: 1d4 + 2 Piercing damage, and the target must make a DC 11 CON Save, taking 3d6 Poison damage on a failed save, or half as much damage on a successful one.
@@ -75,7 +75,7 @@ STR | DEX | CON
 - **Skills**: Perception +3
 - **Passive Perception**: 8
 - **Traits**: 
-  - *Darkvision.* 12 *(18m)*
+  - *Darkvision.* Range 12 *(18m)*
 - **Actions**:
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1, one creature. 
     - *Hit*: 2d4 + 1 Piercing damage.
