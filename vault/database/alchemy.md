@@ -2,7 +2,7 @@
 ## Potions
 
 ### Potion of Healing
-Rogue's Morsel | Extract Salt | Potion of Healing
+Rogue's Morsel | Grind down | Potion of Healing
 :--: | :--: | :--: 
 ![\|45](https://bg3.wiki/w/images/a/aa/Rogue%27s_Morsel_Item_Icon.png) | ![\|45](https://bg3.wiki/w/images/4/45/Extract_White_Salts_Item_Icon.png) | ![\|45](https://bg3.wiki/w/images/0/04/POT_Potion_of_Healing_Unfaded_Icon.png)
 
