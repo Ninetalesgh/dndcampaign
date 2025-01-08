@@ -8,17 +8,17 @@
 <body>
 
 
-  <div class="container">
+  <div class="container" style="padding-left:0;">
     <div class="row" style="align-items:start;">
-
-      <div class="col-2" style="width:100px;min-width:100px;max-width:100px;flex-basis:20%;">
-
-        <ul style="margin:0;padding:0;text-align:left;">
-          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/game_rules.md')">Rules</button></li>
-          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/spellbook.md')">Spellbook</button></li>
-          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/wildshapes.md')">Wildshapes</button></li>
-          <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/alchemy.md')">Alchemy</button></li>
-        </ul>
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:100px;flex-basis:20%;padding:0;">
+        <div class="navigation" style="width:110px;min-width:90px;">
+          <ul style="margin:0;padding:0;text-align:left;">
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/game_rules.md')">Rules</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/spellbook.md')">Spellbook</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/wildshapes.md')">Wildshapes</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/alchemy.md')">Alchemy</button></li>
+          </ul>
+        </div>
       </div>
       <div class="col-2 content-holder-1 dndcontent" style="width:auto;min-width:100px;flex-basis:80%;"></div>
     </div>
@@ -26,13 +26,36 @@
     
   <script>
 
-
-    function resolveRelativePath(link)
+    function setNavPosition()
     {
-      //TODO
-      return link;
-    }
+      const navigation = document.querySelector('.navigation');
+      const wrapperRect = navigation.parentElement.getBoundingClientRect();
 
+      {
+        let computedStyle = window.getComputedStyle(navigation);
+        let minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
+        let currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
+        var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
+
+        console.log(currentWidth);
+      }
+
+      navigation.style.width = `${wrapperRect.width}px`;
+
+      if (window.scrollY > 0 && hasSpaceNextToContent ) 
+      {
+        navigation.style.position = 'fixed';
+        navigation.style.top = 0;
+        navigation.style.left = `${wrapperRect.left}px`;
+      } 
+      else 
+      {
+        navigation.style.position = 'relative';
+        navigation.style.top = '0px';
+        navigation.style.left = '0px';
+      }
+
+    }
 
     function reformatHeader(line)
     {
@@ -77,17 +100,13 @@
         
         //italic
         lines[i] = lines[i].replace(/\*([^ ][^*]*[^ ])\*/g, "<i>$1</i>");
-
-        
-        //TODO make this smarter
+  
         let indent = 0;
         let counter = 0;
         while(counter < lines[i].length && lines[i][counter++] === " ")
         {
           indent += 10;
         }
-
-        console.log(indent);
 
         //paragraph
         lines[i] = '<p style="margin-left:'+ indent.toString() + 'px;">' + lines[i] + '</p>';
@@ -185,7 +204,15 @@
     }
 
     fetchMd('/vault/database/alchemy.md');
-
+    window.addEventListener('scroll', setNavPosition);
+    window.addEventListener('resize', setNavPosition);
+    window.addEventListener('load', () => 
+    {
+        const navigation = document.querySelector('.navigation');
+        const wrapperRect = navigation.parentElement.getBoundingClientRect();
+        navigation.style.width = `${wrapperRect.width}px`;
+        navigation.style.top = '0px';
+    });
 
   </script>
 
