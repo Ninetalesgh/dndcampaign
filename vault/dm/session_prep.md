@@ -63,17 +63,16 @@
 
   
 
-###### Rogue (Mutafa'il):
+###### Rogue (Mufi):
 
-TODO ::: Mage hand, internal switch
+TODO ::: Mage hand, internal switch?
 
   
 
-###### Druid:
+###### Druid (Kal):
 
 TODO ::: scorpion spirit, sting whip
 
-  
   
 
 stat blocks CR 1/4: Giant Wolf Spider, Panther, Badger, Giant Centipede, Male Steeder
@@ -86,43 +85,17 @@ cool stat blocks CR 1: Bulette Hatchling, Cadaver Collector Headcounter (spiked 
 
   
 
-###### Warlock:
+###### Warlock (Ayra):
 
   
-
 When flying and fireball -> Your eyes turn deep red as you clench your teeth and explode in a ball of fire and sear up through the infernal cloud with a trail of fire. Your wings holding you steady and self satisfied with your display of strength.
 
   
-
 When killing antagonist -> Their soul rises from their corpse and a hellish voice echoes through the halls: "mmmhh welcome to the ranks, soldier.". With a scream the soul burns into a bright infernal implosion to a sudden quiet.
 
   
 
 ###### Paladin (Nyári):
 
-  
-  
 
-###### Fighter:
-
-TODO ::: alchemy for potions, elixiers, grenades, and coatings.
-
-
-Enemies for ingredients:
-Mephits (wings),
-Automatons (Broken Machinery, Crystalline Lens),
-Carrion Crawler (tentacle),
-Hook Horror (hook),
-Imp (patagium),
-Spiders (Silk gland),
-Worg (fang),
-Gremishka (tail),
-Frost Salamander (tongue)
-
-Locations for ingredients:
-
-florist -> Black Oleander
-
-farms -> Mugwort
-
-graveyard -> Bonecap
+###### Fighter (Kazimir):
