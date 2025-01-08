@@ -82,14 +82,32 @@
       for (let i = 0; i < lines.length; ++i)
       {
         //Annoying things
-        if (lines[i].startsWith("#"))
+        if(lines[i].trim() === "")
+        {
+          continue;
+        }
+        else if (lines[i].startsWith("#"))
         {
           lines[i] = reformatHeader(lines[i]);
           continue;
         }
-        else if(lines[i].trim() === "")
+        else if(lines[i].trimStart().startsWith(">"))
         {
-          continue;
+          // for (let j = i; j < lines.length; ++j)
+          // {
+          //   if (lines[j].trimStart().startsWith(">"))
+          //   {
+          //     lines[j] = lines[j].substring(1);
+
+          //     console.log(lines[j]);
+          //   }
+          //   else
+          //   {
+          //     lines[j-1] += '</blockquote>';
+          //     break;
+          //   }
+          // }
+          // lines[i] = '<blockquote>' + lines[i];
         }
 
         //images 
@@ -203,7 +221,7 @@
       });
     }
 
-    fetchMd('/vault/database/alchemy.md');
+    fetchMd('/vault/database/game_rules.md');
     window.addEventListener('scroll', setNavPosition);
     window.addEventListener('resize', setNavPosition);
     window.addEventListener('load', () => 
