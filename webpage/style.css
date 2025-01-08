@@ -159,7 +159,6 @@ p{
   border-radius: 5px;
 }
 
-
 .wrapper{
   position:absolute;
   width:100%;
@@ -565,6 +564,43 @@ form a{
   transition: transform 0.5s;
 }
 
+/* ----- DnD Content ------ */
+
+.dndcontent h1{
+  font-size: 40px;
+  margin: 20px 0 0 0;
+}
+
+.dndcontent h2{
+  font-size: 35px;
+  margin: 20px 0 0 0;
+}
+
+.dndcontent h3{
+  font-size: 25px;
+  margin: 20px 0 0 0;
+}
+
+.dndcontent img{
+  padding: 0px;
+}
+
+.dndcontent table{
+  border-collapse: 3px;
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+.dndcontent td{
+  margin: 0px;
+  padding:  0 10px 0 10px;
+  border: 1px solid black;
+}
+
+.dndcontent tr{
+  margin: 0px;
+  padding:  0px;
+}
 
 /* ----- Footer ------ */
 
