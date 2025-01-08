@@ -27,17 +27,14 @@ Fire Amber | Burn to Ash | Alchemist's Fire
 # Ingredients
 
 ### Bonecap
-- *An acidic, foul-tasting mushroom that can be found anywhere bodies have been buried. Or left to rot.*
-![\|30](https://bg3.wiki/w/images/thumb/4/49/Bonecap_Item_Icon.png/30px-Bonecap_Item_Icon.png)
-- **Price**: 5 gp
+*An acidic, foul-tasting mushroom that can be found anywhere bodies have been buried. Or left to rot.*
+**Price**: 5 gp ![\|30](https://bg3.wiki/w/images/thumb/4/49/Bonecap_Item_Icon.png/30px-Bonecap_Item_Icon.png)
 ### Fire Amber
-- *Lambent from within, these crystals are the very progenitors of flame.*
-![\|30](https://bg3.wiki/w/images/thumb/5/5d/Fire_Amber_Item_Icon.png/30px-Fire_Amber_Item_Icon.png)
-- **Price**: 2 gp
+*Lambent from within, these crystals are the very progenitors of flame.*
+**Price**: 2 gp ![\|30](https://bg3.wiki/w/images/thumb/5/5d/Fire_Amber_Item_Icon.png/30px-Fire_Amber_Item_Icon.png)
 ### Rogue's Morsel
-- *Frequently referenced in tales of roguish adventures, this mushroom can be quite the boon for those who know how to use it.*
-![\|30](https://bg3.wiki/w/images/thumb/a/aa/Rogue%27s_Morsel_Item_Icon.png/30px-Rogue%27s_Morsel_Item_Icon.png)
-- **Price**: 2 gp
+*Frequently referenced in tales of roguish adventures, this mushroom can be quite the boon for those who know how to use it.*
+**Price**: 2 gp ![\|30](https://bg3.wiki/w/images/thumb/a/aa/Rogue%27s_Morsel_Item_Icon.png/30px-Rogue%27s_Morsel_Item_Icon.png)
 
 
 
