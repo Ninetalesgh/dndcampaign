@@ -97,5 +97,7 @@ When killing antagonist -> Their soul rises from their corpse and a hellish voic
 
 ###### Paladin (Nyári):
 
+TODO: Divine Favor Seasonal? 
+
 
 ###### Fighter (Kazimir):
