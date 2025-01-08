@@ -106,3 +106,23 @@ When killing antagonist -> Their soul rises from their corpse and a hellish voic
 ###### Fighter:
 
 TODO ::: alchemy for potions, elixiers, grenades, and coatings.
+
+
+Enemies for ingredients:
+Mephits (wings),
+Automatons (Broken Machinery, Crystalline Lens),
+Carrion Crawler (tentacle),
+Hook Horror (hook),
+Imp (patagium),
+Spiders (Silk gland),
+Worg (fang),
+Gremishka (tail),
+Frost Salamander (tongue)
+
+Locations for ingredients:
+
+florist -> Black Oleander
+
+farms -> Mugwort
+
+graveyard -> Bonecap
