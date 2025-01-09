@@ -10,7 +10,7 @@
 
   <div class="container" style="padding-left:0;">
     <div class="row" style="align-items:start;">
-      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:100px;flex-basis:20%;padding:0;">
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;">
         <div class="navigation" style="width:110px;min-width:90px;">
           <ul style="margin:0;padding:0;text-align:left;">
             <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/game_rules.md')">Rules</button></li>
@@ -20,42 +20,123 @@
           </ul>
         </div>
       </div>
-      <div class="col-2 content-holder-1 dndcontent" style="width:auto;min-width:100px;flex-basis:80%;"></div>
+      <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:60%;"></div>
+
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:20%;padding:0;">
+        <div class="navigation dndindex" style="width:auto;min-width:100px;flex-basis:20%;">
+          some indexing goes here
+        </div>
+      </div>
     </div>
   </div>
     
   <script>
 
+    class TreeNode {
+      constructor(value){
+        this.name = value ? value.innerText : "";
+        this.element = value;
+        this.parent = null;
+        this.children = [];
+      }
+      addChild(childNode) {
+        this.children.push(childNode);
+        childNode.parent = this;
+      }
+    }
+
+    var rootNode = new TreeNode(null);
+    
+    function addTreeNodeToList(treeNode, parentElement)
+    {
+      parentElement.innerHTML = treeNode.name; 
+      if (treeNode.children.length > 0)
+      {
+        const unorderedList = document.createElement('ul'); 
+        treeNode.children.forEach(childNode => {
+          const listItem = document.createElement('li');          
+          addTreeNodeToList(childNode, listItem);
+          unorderedList.appendChild(listItem);
+        });
+        parentElement.appendChild(unorderedList);
+      }
+    }
+
+    function indexContentPage(contentWrapper)
+    {
+      rootNode = new TreeNode(null);
+      let content = contentWrapper.firstChild;      
+      let first = content.firstChild;
+      let element = first;
+
+      let previousDepth = '';
+      let currentNode = rootNode;
+      while(element)
+      {
+        let currentDepth = '';
+        if(element.localName === 'h1') { currentDepth = element.localName; }
+        else if(element.localName === 'h2') { currentDepth = element.localName; }
+        else if(element.localName === 'h3') { currentDepth = element.localName; }
+        else if(element.localName === 'h4') { currentDepth = element.localName; }
+        else if(element.localName === 'h5') { currentDepth = element.localName; }
+        else if(element.localName === 'h6') { currentDepth = element.localName; }
+
+        if (currentDepth !== '')
+        {
+          if (currentDepth <= previousDepth)
+          {
+            currentNode = currentNode.parent;
+          }
+          
+          let childNode = new TreeNode(element);
+          currentNode.addChild(childNode);
+          currentNode = childNode;          
+          previousDepth = currentDepth;
+        }
+        element = element.nextElementSibling;
+      }
+      
+      let index = document.querySelector('.dndindex');
+      index.innerHTML = '';
+      addTreeNodeToList(rootNode, index);
+
+
+     // console.log(rootNode);
+    }
+
     function setNavPosition()
     {
-      const navigation = document.querySelector('.navigation');
-      const wrapperRect = navigation.parentElement.getBoundingClientRect();
+      const navigationDivs = document.querySelectorAll('.navigation'); 
+      navigationDivs.forEach((navigation) => {
+        const wrapperRect = navigation.parentElement.getBoundingClientRect();
+        {
+          let computedStyle = window.getComputedStyle(navigation);
+          let minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
+          let currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
+          var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
+        }
 
-      {
-        let computedStyle = window.getComputedStyle(navigation);
-        let minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
-        let currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
-        var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
+        navigation.style.width = `${wrapperRect.width}px`;
 
-        console.log(currentWidth);
-      }
-
-      navigation.style.width = `${wrapperRect.width}px`;
-
-      if (window.scrollY > 0 && hasSpaceNextToContent ) 
-      {
-        navigation.style.position = 'fixed';
-        navigation.style.top = 0;
-        navigation.style.left = `${wrapperRect.left}px`;
-      } 
-      else 
-      {
-        navigation.style.position = 'relative';
-        navigation.style.top = '0px';
-        navigation.style.left = '0px';
-      }
-
+        if (window.scrollY > 0 && hasSpaceNextToContent ) 
+        {
+          navigation.style.position = 'fixed';
+          navigation.style.top = 0;
+          navigation.style.left = `${wrapperRect.left}px`;
+        } 
+        else 
+        {
+          navigation.style.position = 'relative';
+          navigation.style.top = '0px';
+          navigation.style.left = '0px';
+        }
+      });
     }
+
+    //
+    //PARSER FROM HERE
+    //
+    //
 
     function reformatHeader(line)
     {
@@ -91,23 +172,9 @@
           lines[i] = reformatHeader(lines[i]);
           continue;
         }
-        else if(lines[i].trimStart().startsWith(">"))
+        else if(lines[i].trimStart().startsWith(">[!INFO]"))
         {
-          // for (let j = i; j < lines.length; ++j)
-          // {
-          //   if (lines[j].trimStart().startsWith(">"))
-          //   {
-          //     lines[j] = lines[j].substring(1);
-
-          //     console.log(lines[j]);
-          //   }
-          //   else
-          //   {
-          //     lines[j-1] += '</blockquote>';
-          //     break;
-          //   }
-          // }
-          // lines[i] = '<blockquote>' + lines[i];
+          //TODO maybe get obsidian specifics into this
         }
 
         //images 
@@ -215,9 +282,9 @@
         const div = document.createElement('div');
         div.innerHTML = data;
 
-        const contentHolder = document.querySelector('.content-holder-1');
-        contentHolder.innerHTML = "";
-        contentHolder.appendChild(div);
+        const contentHolder = document.querySelector('.dndcontent');
+        contentHolder.innerHTML = div.outerHTML;
+        indexContentPage(contentHolder);
       });
     }
 
@@ -227,8 +294,6 @@
     window.addEventListener('load', () => 
     {
         const navigation = document.querySelector('.navigation');
-        const wrapperRect = navigation.parentElement.getBoundingClientRect();
-        navigation.style.width = `${wrapperRect.width}px`;
         navigation.style.top = '0px';
     });
 
