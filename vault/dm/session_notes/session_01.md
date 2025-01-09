@@ -10,13 +10,20 @@
 
 - reach the city gates, a lookout on the tower matches eyes with Tess: "West side of the shelf, the Mylen farmstead!"
 
-- ~3km distance ATHLETICS check to keep a good pace. 
+- ~5km distance ATHLETICS check to keep a good pace. 
 
 - bad visibility between the grain fields 
 
 
 # Potential Scenes
 
+## Rushing to Help
+
+- Players rush to help, wounded warg and some goblins still around to catch up with.
+- capture one alive? 
+
+- Tess beats one goblin to death violently.
+- if noone speaks Goblin, Tess will snark "The carpenter probably does".
 
 # Secrets and Clues
 
