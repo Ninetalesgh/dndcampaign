@@ -1,7 +1,7 @@
 
 # CR 1/4
 
-## 1 (strong melee damage and grappler)
+## 1 (strong melee)
 STR | DEX | CON
 :--: | :--: | :--: 
 15 (+2)  | 12 (+1)  | 14 (+2)
@@ -19,7 +19,7 @@ STR | DEX | CON
   - ***Grapple.*** *Melee Weapon Attack*: +4 to hit, reach 1, one Small or Tiny creature. 
     - *Hit*: The target is Grappled (escape DC 12). You can only have one creature grappled at a time.
 
-## 2 (fast and prevent opportunity attacks)
+## 2 (fast and nimble)
 STR | DEX | CON
 :--: | :--: | :--: 
 14 (+2)  | 15 (+2)  | 10 (+0)
@@ -29,12 +29,12 @@ STR | DEX | CON
 - **Passive Perception**: 14
 - **Traits**: 
   - *Darkvision.* Range 12 *(18m)*
-  - *Prowl.* Once per turn, you can move at half your speed without provoking Opportunity Attacks. At the end of this movement, you can take the Hide action.
+  - *Prowl.* Once per turn, you can move at half your speed without provoking Opportunity Attacks. At the end of this movement, you can take the Hide action for free.
 - **Actions**:
   - ***Claws.*** *Melee Attack Roll*: +4, reach 1. 
     - *Hit*: 1d4 + 2 Slashing damage, or 2d4 + 2 Slashing damage if you had Advantage on the Attack Roll.
 
-## 3 (web related + a bit of blindsight)
+## 3 (web walker + blindsight)
 STR | DEX | CON
 :--: | :--: | :--: 
 12 (+1)  | 16 (+3)  | 13 (+1)
@@ -52,7 +52,7 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1, one creature. 
     - *Hit*: 1d6 + 1 Piercing damage, and the target must make a DC 11 CON Save, taking 2d6 Poison damage on a failed save, or half as much damage on a successful one.
 
-## 4 (strong blindsight, high poison damage)
+## 4 (strong blindsight, poison)
 STR | DEX | CON
 :--: | :--: | :--: 
 5 (-3)  | 14 (+2)  | 12 (+1)
