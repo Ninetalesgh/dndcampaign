@@ -26,7 +26,7 @@ function strip5EToolsItemTag(string)
   return string.replace(/(?:\{@item )?([^|]+)(?:\|(?:[^}]*)\})?/g, (m, g) => (g));
 }
 
-function strip5EToolsCombatTags(string)
+function strip5EToolsTags(string)
 {
   //specific
   let strippedString = string.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/g, (m, g1, g2) => (g1 ? g1 : g2));
@@ -55,9 +55,7 @@ function strip5EToolsCombatTags(string)
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./g, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
   strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cone|cube|square|sphere)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\sline/g, (m, g1) => `a length ${convertFeetInt(g1)} line`);
-  //strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(?:cone|cube|square|sphere)|(?:a|an)\s([0-9]+)-foot\s(?:line)/g, (...args) => {console.log(...args); });
-  
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\sline/g, (m, g1) => `a length ${convertFeetInt(g1)} line`);  
 
   return convertFeetString(strippedString);
 }
@@ -93,6 +91,7 @@ function parseAlignment(alignmentString)
   else if (alignmentString === "G") { return "Good";}
   else if (alignmentString === "E") { return "Evil";}
   else if (alignmentString === "U") { return "Unaligned";}
+  else if (alignmentString === "A") { return "Any Alignment";}
   else { return alignmentString;}
 }
 
@@ -107,11 +106,11 @@ function convertMonsterSubSection(subsectionName, array)
     array.forEach(action => {
       let actionEntries = new Array();
       action.entries.forEach(actionEntry => {
-        let stripped = strip5EToolsCombatTags(actionEntry);
+        let stripped = strip5EToolsTags(actionEntry);
         actionEntries.push(stripped);
       });
 
-      let resultString = `   - **${strip5EToolsCombatTags(action.name)}**. ${actionEntries.join(', ')}`;
+      let resultString = `   - **${strip5EToolsTags(action.name)}**. ${actionEntries.join(', ')}`;
       result.push(resultString);
     });
   }
@@ -164,6 +163,11 @@ function convert5EMonsterToText(jsonObject)
     output.push(totalTypeString);
   }  
   
+  // Initiative
+  {
+    output.push(`- **Initiative**: ${calculateAbilityMod(data.dex)}`)
+  }
+
   // AC
   {
     let armorClasses = new Array();
@@ -178,7 +182,8 @@ function convert5EMonsterToText(jsonObject)
         });
       }
       
-      let acString = `${ac.ac ? ac.ac.toString() : ac} (${listOfArmorSources.join(', ')})`;
+      let armorSourcesString = listOfArmorSources.length ? ` (${listOfArmorSources.join(', ')})` : '';
+      let acString = `${ac.ac ? ac.ac.toString() : ac}${armorSourcesString}`;
       armorClasses.push(acString);      
     });
 
@@ -222,7 +227,6 @@ function convert5EMonsterToText(jsonObject)
       skills.push(`${key}: ${data.skill[key].toString()}`);
     }
 
-
     let skillsString = `- **Skills**: ${skills.join(', ')}`;
     output.push(skillsString);
   }
@@ -249,7 +253,7 @@ function convert5EMonsterToText(jsonObject)
     if (data.languages)
     {
       data.languages.forEach(language => {
-        languages.push(language);
+        languages.push(strip5EToolsTags(language));
       });
 
       let languagesString = `- **Languages**: ${languages.join(', ')}`;
@@ -262,6 +266,73 @@ function convert5EMonsterToText(jsonObject)
   {
     let array = convertMonsterSubSection("Traits", data.trait);  
     array.forEach(a => output.push(a));
+  }
+
+  // Spellcasting
+  if (data.spellcasting)
+  {
+    data.spellcasting.forEach(spellcastingEntries => { 
+      let spellcastingSection = new Array(); 
+      spellcastingEntries.headerEntries.forEach(entry => {
+        spellcastingSection.push(strip5EToolsTags(entry));
+      });
+
+      let spellcastingName = spellcastingEntries.name ? spellcastingEntries.name : 'Spellcasting';
+      let spellsResult = `   - **${spellcastingName}**. ${spellcastingSection.join(', ')}`;
+      output.push(spellsResult);
+
+      if (spellcastingEntries.will)
+      {
+        let spellList = new Array();
+        spellcastingEntries.will.forEach(spell => {
+          spellList.push(strip5EToolsTags(spell));
+        });
+        
+        let spellLevelString = `     - *At will*: ${spellList.join(', ')}`;
+        output.push(spellLevelString);
+      }
+
+      if (spellcastingEntries.daily)
+      {
+        for (let key in spellcastingEntries.daily)
+        {
+          let value = spellcastingEntries.daily[key];
+          let spellList = new Array();
+          value.forEach(spell => {
+            spellList.push(strip5EToolsTags(spell));
+          });
+
+          let perDay = key.match(/[0-9]+/);
+          perDay = perDay ? `${perDay}/day each` : 'daily';
+          let spellLevelString = `     - *${perDay}*: ${spellList.join(', ')}`;
+          output.push(spellLevelString);
+        }
+      }
+
+      for (let key in spellcastingEntries.spells)
+      {
+      //  skills.push(`${key}: ${data.skill[key].toString()}`);
+        let spellLevel = '';
+        let value = spellcastingEntries.spells[key];
+        if (parseInt(key) === 0)
+        {
+          spellLevel = `Cantrips`;
+        }
+        else
+        {
+          spellSlots = value.slots === 1 ? '(1 slot)' : `(${value.slots} slots)`;
+          spellLevel = `Level ${key} ${spellSlots}`;
+        }
+
+        let spellList = new Array();
+        value.spells.forEach(spell => {
+          spellList.push(strip5EToolsTags(spell));
+        });
+
+        let spellLevelString = `     - *${spellLevel}*: ${spellList.join(', ')}`;
+        output.push(spellLevelString);
+      }
+    });
   }
 
   // Actions
