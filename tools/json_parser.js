@@ -297,7 +297,7 @@ function convert5EJsonToText(json)
     });
   }
 
-  let result = mdText.join('\n');
+  let result = mdText.join('\n') + '\n\n';
 
   navigator.clipboard.writeText(result).then(() => {
     console.log("copied md to clipboard!");
