@@ -13,97 +13,22 @@
       <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;">
         <div class="navigation" style="width:110px;min-width:90px;">
           <ul style="margin:0;padding:0;text-align:left;">
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/game_rules.md')">Rules</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/spellbook.md')">Spellbook</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/wildshapes.md')">Wildshapes</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="fetchMd('/vault/database/alchemy.md')">Alchemy</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/game_rules.md')">Rules</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/spellbook.md')">Spellbook</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/wildshapes.md')">Wildshapes</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/alchemy.md')">Alchemy</button></li>
           </ul>
         </div>
       </div>
       <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:60%;"></div>
 
       <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:20%;padding:0;">
-        <div class="navigation dndindex" style="width:auto;min-width:100px;flex-basis:20%;">
-          some indexing goes here
-        </div>
+        <div class="navigation dndindex" style="width:auto;min-width:100px;flex-basis:20%;"></div>
       </div>
     </div>
   </div>
     
   <script>
-
-    class TreeNode {
-      constructor(value){
-        this.name = value ? value.innerText : "";
-        this.element = value;
-        this.parent = null;
-        this.children = [];
-      }
-      addChild(childNode) {
-        this.children.push(childNode);
-        childNode.parent = this;
-      }
-    }
-
-    var rootNode = new TreeNode(null);
-    
-    function addTreeNodeToList(treeNode, parentElement)
-    {
-      parentElement.innerHTML = treeNode.name; 
-      if (treeNode.children.length > 0)
-      {
-        const unorderedList = document.createElement('ul'); 
-        treeNode.children.forEach(childNode => {
-          const listItem = document.createElement('li');          
-          addTreeNodeToList(childNode, listItem);
-          unorderedList.appendChild(listItem);
-        });
-        parentElement.appendChild(unorderedList);
-      }
-    }
-
-    function indexContentPage(contentWrapper)
-    {
-      rootNode = new TreeNode(null);
-      let content = contentWrapper.firstChild;      
-      let first = content.firstChild;
-      let element = first;
-
-      let previousDepth = '';
-      let currentNode = rootNode;
-      while(element)
-      {
-        let currentDepth = '';
-        if(element.localName === 'h1') { currentDepth = element.localName; }
-        else if(element.localName === 'h2') { currentDepth = element.localName; }
-        else if(element.localName === 'h3') { currentDepth = element.localName; }
-        else if(element.localName === 'h4') { currentDepth = element.localName; }
-        else if(element.localName === 'h5') { currentDepth = element.localName; }
-        else if(element.localName === 'h6') { currentDepth = element.localName; }
-
-        if (currentDepth !== '')
-        {
-          if (currentDepth <= previousDepth)
-          {
-            currentNode = currentNode.parent;
-          }
-          
-          let childNode = new TreeNode(element);
-          currentNode.addChild(childNode);
-          currentNode = childNode;          
-          previousDepth = currentDepth;
-        }
-        element = element.nextElementSibling;
-      }
-      
-      let index = document.querySelector('.dndindex');
-      index.innerHTML = '';
-      addTreeNodeToList(rootNode, index);
-
-
-     // console.log(rootNode);
-    }
-
     function setNavPosition()
     {
       const navigationDivs = document.querySelectorAll('.navigation'); 
@@ -275,20 +200,153 @@
       }
     }
 
-    function fetchMd(relativeMdUrl)
-    {
-      fetchMdAsHtml(relativeMdUrl)
-      .then(data => {
-        const div = document.createElement('div');
-        div.innerHTML = data;
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+/// INDEXING
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
 
-        const contentHolder = document.querySelector('.dndcontent');
-        contentHolder.innerHTML = div.outerHTML;
-        indexContentPage(contentHolder);
-      });
+    class TreeNode {
+      constructor(value){
+        this.name = value ? value.innerText : "";
+        this.element = value;
+        this.parent = null;
+        this.children = [];
+      }
+      addChild(childNode) {
+        this.children.push(childNode);
+        childNode.parent = this;
+      }
+    }
+    var rootNode = new TreeNode(null);
+  
+    function addTreeNodeToList(treeNode, parentElement)
+    {
+      parentElement.innerHTML = treeNode.name; 
+      if (treeNode.children.length > 0)
+      {
+        const unorderedList = document.createElement('ul'); 
+        treeNode.children.forEach(childNode => {
+          const listItem = document.createElement('li');          
+          addTreeNodeToList(childNode, listItem);
+          unorderedList.appendChild(listItem);
+        });
+        parentElement.appendChild(unorderedList);
+      }
     }
 
-    fetchMd('/vault/database/game_rules.md');
+    function generateIndexTree(rootTreeNode, content)
+    {
+      let element = content.firstChild;
+      let previousDepth = '';
+      let currentNode = rootTreeNode;
+      while(element)
+      {
+        let currentDepth = '';
+        if(element.localName === 'h1') { currentDepth = element.localName; }
+        else if(element.localName === 'h2') { currentDepth = element.localName; }
+        else if(element.localName === 'h3') { currentDepth = element.localName; }
+        else if(element.localName === 'h4') { currentDepth = element.localName; }
+        else if(element.localName === 'h5') { currentDepth = element.localName; }
+        else if(element.localName === 'h6') { currentDepth = element.localName; }
+
+        if (currentDepth !== '')
+        {
+          if (currentDepth <= previousDepth)
+          {
+            currentNode = currentNode.parent;
+          }
+          
+          let childNode = new TreeNode(element);
+          currentNode.addChild(childNode);
+          currentNode = childNode;          
+          previousDepth = currentDepth;
+        }
+        element = element.nextElementSibling;
+      }
+    }
+
+
+    function getIndexedContentPage(name) { return rootNode.children.find(node => node.name === name); }
+
+    function indexContent(name, content)
+    {
+      let test = getIndexedContentPage(name);
+
+      if (!getIndexedContentPage(name))
+      {
+        let newNode = new TreeNode(null);
+        newNode.parent = rootNode;
+        newNode.name = name;
+        rootNode.addChild(newNode);
+
+        generateIndexTree(newNode, content);
+      }
+    }
+
+    async function fetchMd(relativeMdUrl)
+    {
+      console.log('fetch & cache: ' + relativeMdUrl);
+
+      let div = null;
+      await fetchMdAsHtml(relativeMdUrl)
+      .then(data => {
+        div = document.createElement('div');
+        div.innerHTML = data;
+        indexContent(relativeMdUrl, div);
+      });
+      
+      return div;
+    }
+    
+    function applyNodeToView(node)
+    {
+      const contentHolder = document.querySelector('.dndcontent');
+      contentHolder.innerHTML = node.element.outerHTML;
+          
+      let index = document.querySelector('.dndindex');
+      index.innerHTML = '';
+      addTreeNodeToList(node, index);
+    }
+
+    function setContentPage(relativeMdUrl)
+    {
+      let contentNode = getIndexedContentPage(relativeMdUrl);
+
+      if (contentNode)
+      {
+        applyNodeToView(contentNode);
+      }
+      else
+      {
+        fetchMd(relativeMdUrl).then((div) => {
+          let contentNode = getIndexedContentPage(relativeMdUrl);
+          if (contentNode)
+          {
+            contentNode.element = div;
+          }
+          else
+          {
+            console.log("huh 1");
+          }
+        }).then(() => {
+          let contentNode = getIndexedContentPage(relativeMdUrl);
+          if (contentNode)
+          {
+            applyNodeToView(contentNode);
+          }
+          else
+          {
+            console.log("huh 2");
+          }
+        });
+      }
+    }
+
+    setContentPage('/vault/database/game_rules.md');
+
     window.addEventListener('scroll', setNavPosition);
     window.addEventListener('resize', setNavPosition);
     window.addEventListener('load', () => 
