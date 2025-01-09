@@ -87,7 +87,7 @@
     }
     var rootNode = new TreeNode(null);
   
-    function addTreeNodeToList(treeNode, parentElement)
+    function addTreeNodeToIndexView(treeNode, parentElement)
     {
       parentElement.innerHTML = treeNode.name; 
       if (treeNode.children.length > 0)
@@ -95,7 +95,7 @@
         const unorderedList = document.createElement('ul'); 
         treeNode.children.forEach(childNode => {
           const listItem = document.createElement('li');          
-          addTreeNodeToList(childNode, listItem);
+          addTreeNodeToIndexView(childNode, listItem);
           unorderedList.appendChild(listItem);
         });
         parentElement.appendChild(unorderedList);
@@ -133,19 +133,18 @@
       }
     }
 
-
     function getIndexedContentPage(name) { return rootNode.children.find(node => node.name === name); }
 
-    function indexContent(name, content)
+    function indexContent(parentNode, name, content)
     {
-      let test = getIndexedContentPage(name);
+      let exists = getIndexedContentPage(name);
 
       if (!getIndexedContentPage(name))
       {
         let newNode = new TreeNode(null);
-        newNode.parent = rootNode;
+        newNode.parent = parentNode;
         newNode.name = name;
-        rootNode.addChild(newNode);
+        parentNode.addChild(newNode);
 
         generateIndexTree(newNode, content);
       }
@@ -160,7 +159,7 @@
       .then(data => {
         div = document.createElement('div');
         div.innerHTML = data;
-        indexContent(relativeMdUrl, div);
+        indexContent(rootNode, relativeMdUrl, div);
       });
       
       return div;
@@ -173,7 +172,15 @@
           
       let index = document.querySelector('.dndindex');
       index.innerHTML = '';
-      addTreeNodeToList(node, index);
+      addTreeNodeToIndexView(node, index);
+    }
+
+    function applyCustomDivToView(div)
+    {      
+      let dummyNode = new TreeNode(null);
+      dummyNode.element = div;
+      generateIndexTree(dummyNode, div);
+      applyNodeToView(dummyNode);
     }
 
     function setContentPage(relativeMdUrl)
@@ -213,7 +220,20 @@
     setContentPage('/vault/database/game_rules.md');
 
     window.addEventListener('paste', (event) => {
-      convert5EJsonToText(event.clipboardData.getData('text'));
+      try 
+      {
+        let result = convert5EJsonToText(event.clipboardData.getData('text'));
+        let div = document.createElement('div');
+        div.innerHTML = result;
+        applyCustomDivToView(div);
+      }
+      catch (error) 
+      {
+        console.log(error);
+        return;
+      }
+
+
       event.preventDefault();
     }); 
 
