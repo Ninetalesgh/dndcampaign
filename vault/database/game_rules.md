@@ -10,7 +10,7 @@
   Wisdom (WIS) | Perceptiveness and mental fortitude | Notice things in the environment or in creatures' behaviour | Resist a mental assault           
   Charisma (CHA) | Confidence, poise, and charm | Influence, entertain, or deceive | Assert your identity
 
-> Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always $(AbilityScore-10)/2$ rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.  
+>[!INFO] Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always $(AbilityScore-10)/2$ rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.
 
 - **Proficiency** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
 - **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw 
@@ -41,17 +41,14 @@ The Round:
 - **Roll Initiative** -> Roll a d20 + DEX, if you are Surprised you have Disadvantage on this roll, if you are [Invisible](#Invisible) (or Hidden) you have Advantage instead.
 
 What you can do when we play Turn Based:
-> 1 Movement!
->
-> 1 Action (A) -> Your main thing!
->
-> 1 Bonus Action (BA) -> Hastily drink a potion? Also some Spells or Feats are Bonus Actions. 
->
-> 1 Reaction (R) -> Readied Action Trigger or Opportunity Attack?
->
-> 1 Free Action -> Something very minor, like open a door or push a button.
->
-> 1 Shout something!
+
+> **1 Movement!**
+> **1 Action (A)** -> Your main thing!
+> **1 Bonus Action (BA)** -> Hastily drink a potion? Also some Spells or Feats are Bonus Actions. 
+> **1 Reaction (R)** -> Readied Action Trigger or Opportunity Attack?
+> **1 Free Action** -> Something very minor, like open a door or push a button.
+> **1 Shout something!**
+
 
 - **Movement**: Move - up to a range equal to your Speed. You can do this in parts (for example, move 1, use Action, move 4, use Bonus Action, move 1).
   - Move slower through Difficult Terrain. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples. 
@@ -130,6 +127,7 @@ Half | +2 AC and DEX Saves
 Three-Quarter | +5 AC and DEX Saves
 Total | Can't be targeted directly
 
+Example Cover:
 ![Image|400](https://i.imgur.com/keobl8S.png)
 
 ### Creature Sizes
