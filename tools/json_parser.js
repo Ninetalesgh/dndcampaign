@@ -29,14 +29,22 @@ function strip5EToolsItemTag(string)
 function strip5EToolsCombatTags(string)
 {
   //specific
-  let strippedString = string.replace(/\{@hit\s([0-9]+)\}/g, (m, g) => (`${parseInt(g) < 0 ? '-' : '+'}${parseInt(g).toString()}`));
+  let strippedString = string.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/g, (m, g1, g2) => (g1 ? g1 : g2));
+  strippedString = strippedString.replace(/\{@hit\s([0-9]+)\}/g, (m, g) => (`${parseInt(g) < 0 ? '-' : '+'}${parseInt(g).toString()}`));
   strippedString = strippedString.replace(/\{@h\}([0-9]+)/g, (m, g) => (`\n    *Hit*: ${parseInt(g).toString()}`));
-  strippedString = strippedString.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/g, (m, g1, g2) => (g1 ? g1 : g2));
   strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, (m, g) => (`DC ${g}`));
   strippedString = strippedString.replace(/\{@atk\smw\}/g, () => ('*Melee Weapon Attack*:'));
   strippedString = strippedString.replace(/\{@atk\srw\}/g, () => ('*Ranged Weapon Attack*:'));
-  strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, (m, g) => (`DC ${g}`));
+  strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, () => ('*Melee or Ranged Weapon Attack*:'));
+  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/g, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
+
+  //custom
   strippedString = strippedString.replace(/\ssaving\sthrow/g, () => (' Save'));
   strippedString = strippedString.replace(/[sS]trength/g, () => ('STR'));
   strippedString = strippedString.replace(/[dD]exterity/g, () => ('DEX'));
@@ -46,11 +54,10 @@ function strip5EToolsCombatTags(string)
   strippedString = strippedString.replace(/[cC]harism/g, () => ('CHA'));
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./g, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
-  strippedString = strippedString.replace(/\{@recharge\}/g, (m) => ('(recharge 6)'));
-
-  //general
-  //strippedString = strippedString.replace(/(?:\{@[a-z]+\s([^}]+)\})|(?:\{@[a-z^\s]+\})/g, (m, g) => (g || ''));
-
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cone|cube|square|sphere)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\sline/g, (m, g1) => `a length ${convertFeetInt(g1)} line`);
+  //strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(?:cone|cube|square|sphere)|(?:a|an)\s([0-9]+)-foot\s(?:line)/g, (...args) => {console.log(...args); });
+  
 
   return convertFeetString(strippedString);
 }
@@ -90,10 +97,26 @@ function parseAlignment(alignmentString)
 }
 
 
-function convert5EJsonToText(json)
+function convertMonsterSubSection(subsectionName, array)
 {
-  let data = JSON.parse(json);
-  convert5EMonsterToText(data);
+  let result = new Array();
+
+  result.push(`- **${subsectionName}**:`);
+  if (array)
+  {
+    array.forEach(action => {
+      let actionEntries = new Array();
+      action.entries.forEach(actionEntry => {
+        let stripped = strip5EToolsCombatTags(actionEntry);
+        actionEntries.push(stripped);
+      });
+
+      let resultString = `   - **${strip5EToolsCombatTags(action.name)}**. ${actionEntries.join(', ')}`;
+      result.push(resultString);
+    });
+  }
+
+  return result;
 }
 
 function convert5EMonsterToText(jsonObject)
@@ -235,62 +258,49 @@ function convert5EMonsterToText(jsonObject)
   }
 
   // Traits
+  if (data.trait)
   {
-    let traits = new Array();
-
-    if (data.trait)
-    {
-      let traitEntries = new Array();
-      data.trait.forEach(trait => {
-        trait.entries.forEach(traitEntry => {
-          traitEntries.push(strip5EToolsCombatTags(traitEntry));
-        });
-
-        let traitString = `   - **${trait.name}**. ${traitEntries.join(', ')}`;
-        traits.push(traitString);
-      });
-    }
-
-    output.push('- **Traits**:');
-
-    if (traits.length)
-    {
-      traits.forEach(trait => {
-        output.push(trait);
-      });
-    }
+    let array = convertMonsterSubSection("Traits", data.trait);  
+    array.forEach(a => output.push(a));
   }
 
   // Actions
-  {
-    let actions = new Array();
-    if (data.action)
+  if (data.action)
     {
-      data.action.forEach(action => {
-        let actionEntries = new Array();
-        action.entries.forEach(actionEntry => {
-          let stripped = strip5EToolsCombatTags(actionEntry);
-          actionEntries.push(stripped);
-        });
-
-        let actionString = `   - **${strip5EToolsCombatTags(action.name)}**. ${actionEntries.join(', ')}`;
-        actions.push(actionString);
-      });
-    }
-  
-    output.push('- **Actions**:');
-
-    if (actions.length)
-    {
-      actions.forEach(action => {
-        output.push(action);
-      });
-    }
+      let array = convertMonsterSubSection("Actions", data.action);  
+      array.forEach(a => output.push(a));
   }
 
-  let result = output.join('\n'); 
-  console.log(result);
+  // Reactions
+  if (data.reaction)
+  {
+    let array = convertMonsterSubSection("Reactions", data.reaction);  
+    array.forEach(a => output.push(a));
+  }
 
-  const contentHolder = document.querySelector('.dndcontent');
-  contentHolder.innerHTML = parseMd(result);
+  let result = output.join('\n');  
+  return result;
+}
+
+function convert5EJsonToText(json)
+{
+  let data = JSON.parse(json);
+  let mdText = new Array();
+  if (data.name)
+  {    
+    mdText.push(convert5EMonsterToText(data));
+  }
+  else if (data.length && data.length > 0)
+  {
+    data.forEach(item => {
+      mdText.push(convert5EMonsterToText(item));
+    });
+  }
+
+  let result = mdText.join('\n');
+
+  navigator.clipboard.writeText(result).then(() => {
+    console.log("copied md to clipboard!");
+  });
+  return parseMd(result);
 }
