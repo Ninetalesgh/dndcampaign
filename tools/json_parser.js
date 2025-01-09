@@ -1,0 +1,296 @@
+function convertFeetInt(feetValueInt)
+{
+  let squares = (feetValueInt / 5);
+  let meters = squares * 1.5;
+
+  return `${squares} *(${meters}m)*`;
+}
+
+function convertFeetString(feetInString)
+{
+  return feetInString.replace(/([0-9]+) ft./g, (m, g) => (convertFeetInt(g)));
+}
+
+function convertFeetRangeInts(nearRange,farRange)
+{
+  let squaresNear = (nearRange / 5);
+  let metersNear = squaresNear * 1.5;
+  let squaresFar = (farRange / 5);
+  let metersFar = squaresFar * 1.5;
+  
+  return `${squaresNear}/${squaresFar} *(${metersNear}m/${metersFar}m)*`;
+}
+
+function strip5EToolsItemTag(string)
+{
+  return string.replace(/(?:\{@item )?([^|]+)(?:\|(?:[^}]*)\})?/g, (m, g) => (g));
+}
+
+function strip5EToolsCombatTags(string)
+{
+  //specific
+  let strippedString = string.replace(/\{@hit\s([0-9]+)\}/g, (m, g) => (`${parseInt(g) < 0 ? '-' : '+'}${parseInt(g).toString()}`));
+  strippedString = strippedString.replace(/\{@h\}([0-9]+)/g, (m, g) => (`\n    *Hit*: ${parseInt(g).toString()}`));
+  strippedString = strippedString.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/g, (m, g1, g2) => (g1 ? g1 : g2));
+  strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@atk\smw\}/g, () => ('*Melee Weapon Attack*:'));
+  strippedString = strippedString.replace(/\{@atk\srw\}/g, () => ('*Ranged Weapon Attack*:'));
+  strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, (m, g) => (`DC ${g}`));
+  strippedString = strippedString.replace(/\ssaving\sthrow/g, () => (' Save'));
+  strippedString = strippedString.replace(/[sS]trength/g, () => ('STR'));
+  strippedString = strippedString.replace(/[dD]exterity/g, () => ('DEX'));
+  strippedString = strippedString.replace(/[cC]onstitution/g, () => ('CON'));
+  strippedString = strippedString.replace(/[iI]ntelligence/g, () => ('INT'));
+  strippedString = strippedString.replace(/[wW]isdom/g, () => ('WIS'));
+  strippedString = strippedString.replace(/[cC]harism/g, () => ('CHA'));
+  strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./g, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
+  strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
+  strippedString = strippedString.replace(/\{@recharge\}/g, (m) => ('(recharge 6)'));
+
+  //general
+  //strippedString = strippedString.replace(/(?:\{@[a-z]+\s([^}]+)\})|(?:\{@[a-z^\s]+\})/g, (m, g) => (g || ''));
+
+
+  return convertFeetString(strippedString);
+}
+
+function calculateAbilityMod(abilityScore)
+{
+  abilityScore = abilityScore % 2 === 0 ? abilityScore / 2 : (abilityScore - 1) / 2;
+  let abilityModifier = abilityScore - 5;
+  if (abilityModifier >= 0)
+  {
+    return `+${abilityModifier}`;
+  }
+
+  return abilityModifier.toString();
+}
+
+function parseSize(sizeString)
+{
+  if (sizeString === "T") { return "Tiny"; }
+  else if (sizeString === "S") { return "Small"; }
+  else if (sizeString === "M") { return "Medium"; }
+  else if (sizeString === "L") { return "Large"; }
+  else if (sizeString === "H") { return "Huge"; }
+  else if (sizeString === "G") { return "Gargantuan"; }
+  else { return sizeString; }
+}
+
+function parseAlignment(alignmentString)
+{
+  if (alignmentString === "L") { return "Lawful";}
+  else if (alignmentString === "N") { return "Neutral";}
+  else if (alignmentString === "C") { return "Chaotic";}
+  else if (alignmentString === "G") { return "Good";}
+  else if (alignmentString === "E") { return "Evil";}
+  else if (alignmentString === "U") { return "Unaligned";}
+  else { return alignmentString;}
+}
+
+
+function convert5EJsonToText(json)
+{
+  let data = JSON.parse(json);
+  convert5EMonsterToText(data);
+}
+
+function convert5EMonsterToText(jsonObject)
+{
+  let data = jsonObject;
+
+  let output = new Array();
+  output.push("### " + data.name);
+
+  // CR
+  {
+    let crString = `**CR**: ${data.cr}`;
+    output.push(crString);
+  }
+
+  // Size, Type, and Alignment 
+  {
+    let sizes = new Array();
+    data.size.forEach(size => {
+      sizes.push(parseSize(size)); // TODO translate sizes
+    });
+    
+    let typeTagsString = '';
+    let typeString = '';
+    if (data.type.tags)
+    {
+      let typeTags = new Array();
+      data.type.tags.forEach(type => {
+        typeTags.push(type);
+      });
+      typeTagsString = ` (${typeTags.join(', ')})`;      
+      typeString = data.type.type;
+    }
+    else
+    {
+      typeString = data.type;
+    }
+      
+    let alignments = new Array();
+    data.alignment.forEach(alignment => {
+      alignments.push(parseAlignment(alignment)); //TODO translate alignment
+    });
+
+    let totalTypeString = `*${sizes.join(', ')} ${typeString}${typeTagsString}, ${alignments.join(' ')}*`;
+    output.push(totalTypeString);
+  }  
+  
+  // AC
+  {
+    let armorClasses = new Array();
+
+    data.ac.forEach(ac => {      
+      let listOfArmorSources = new Array();
+
+      if (ac.from)
+      {
+        ac.from.forEach(armor => {
+          listOfArmorSources.push(strip5EToolsItemTag(armor));
+        });
+      }
+      
+      let acString = `${ac.ac ? ac.ac.toString() : ac} (${listOfArmorSources.join(', ')})`;
+      armorClasses.push(acString);      
+    });
+
+    let armorClassesString = '- **AC**: ' + armorClasses.join(', ');
+    output.push(armorClassesString);
+  }
+
+  // HP
+  { 
+    let hpString = `- **HP**: ${data.hp.average.toString()} (${data.hp.formula})`;
+    output.push(hpString);
+  } 
+
+  // Speed
+  {
+    let speeds = new Array();
+    for (let key in data.speed)
+    {
+      speeds.push(`${key}: ${convertFeetInt(data.speed[key])}`);
+    }
+
+    let speedString = '- **Speed**: ' + speeds.join(', ');
+    output.push(speedString);
+  }
+
+  // Ability Scores
+  {
+    output.push('');
+    output.push('STR | DEX | CON | INT | WIS | CHA');
+    output.push(' :--: | :--: | :--: | :--: | :--: | :--: '); 
+    let scoreString = `${data.str} (${calculateAbilityMod(data.str)}) | ${data.dex} (${calculateAbilityMod(data.dex)}) | ${data.con} (${calculateAbilityMod(data.con)}) | ${data.int} (${calculateAbilityMod(data.int)}) | ${data.wis} (${calculateAbilityMod(data.wis)}) | ${data.cha} (${calculateAbilityMod(data.cha)}) `;
+    output.push(scoreString);
+    output.push('');
+  }
+
+  // Skills
+  {
+    let skills = new Array();
+    for (let key in data.skill)
+    {
+      skills.push(`${key}: ${data.skill[key].toString()}`);
+    }
+
+
+    let skillsString = `- **Skills**: ${skills.join(', ')}`;
+    output.push(skillsString);
+  }
+
+  //Senses
+  {
+    let senses = new Array();
+
+    if (data.senses)
+    {
+      data.senses.forEach(sense => {       
+        senses.push(`${convertFeetString(sense)}`);
+      });
+    }
+    
+    senses.push(`passive perception ${data.passive}`);
+    let sensesString = `- **Senses**: ${senses.join(', ')}`;
+    output.push(sensesString);
+  }
+
+  // Languages
+  {
+    let languages = new Array();
+    if (data.languages)
+    {
+      data.languages.forEach(language => {
+        languages.push(language);
+      });
+
+      let languagesString = `- **Languages**: ${languages.join(', ')}`;
+      output.push(languagesString);
+    }
+  }
+
+  // Traits
+  {
+    let traits = new Array();
+
+    if (data.trait)
+    {
+      let traitEntries = new Array();
+      data.trait.forEach(trait => {
+        trait.entries.forEach(traitEntry => {
+          traitEntries.push(strip5EToolsCombatTags(traitEntry));
+        });
+
+        let traitString = `   - **${trait.name}**. ${traitEntries.join(', ')}`;
+        traits.push(traitString);
+      });
+    }
+
+    output.push('- **Traits**:');
+
+    if (traits.length)
+    {
+      traits.forEach(trait => {
+        output.push(trait);
+      });
+    }
+  }
+
+  // Actions
+  {
+    let actions = new Array();
+    if (data.action)
+    {
+      data.action.forEach(action => {
+        let actionEntries = new Array();
+        action.entries.forEach(actionEntry => {
+          let stripped = strip5EToolsCombatTags(actionEntry);
+          actionEntries.push(stripped);
+        });
+
+        let actionString = `   - **${strip5EToolsCombatTags(action.name)}**. ${actionEntries.join(', ')}`;
+        actions.push(actionString);
+      });
+    }
+  
+    output.push('- **Actions**:');
+
+    if (actions.length)
+    {
+      actions.forEach(action => {
+        output.push(action);
+      });
+    }
+  }
+
+  let result = output.join('\n'); 
+  console.log(result);
+
+  const contentHolder = document.querySelector('.dndcontent');
+  contentHolder.innerHTML = parseMd(result);
+}
