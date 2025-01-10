@@ -14,7 +14,7 @@
         return line;
       }
 
-      return '<' + resultH + '>' + line + '</' + resultH + '>';
+      return `<${resultH} id="${line.replace(/\s/g, '_')}">${line}</${resultH}>`;
     }
 
     function parseMd(input)
