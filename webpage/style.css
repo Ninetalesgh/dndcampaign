@@ -71,9 +71,10 @@ nav ul li{
   display: inline-block;
   margin-right: 20px;
 }
+
 a{
   text-decoration: none;
-  color: var(--color-foreground-0);
+  color: var(--color-foreground-1);
 }
 
 p{

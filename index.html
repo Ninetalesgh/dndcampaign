@@ -93,6 +93,7 @@
       if (treeNode.children.length > 0)
       {
         const unorderedList = document.createElement('ul');
+
         unorderedList.onclick = function(e){
           e.target.classList.toggle('collapsed');
           if (e.target.innerHTML[0] === '+' || e.target.innerHTML[0] === '-')
@@ -103,22 +104,27 @@
             e.stopPropagation();
           }
         };
-        
-        unorderedList.scroll = function(e){
-          console.log('test');
-        };
-        
+
         treeNode.children.forEach(childNode => {
           const listItem = document.createElement('li');
-          listItem.onclick = function (e){
-            console.log(e);
-
-          };
           
-          addTreeNodeToIndexView(childNode, listItem);
+          // Set Link
+          if (childNode.children.length === 0)
+          {
+            const a = document.createElement('a');
+            a.href = `#${childNode.name.replace(/\s/g, '_')}`;
+            listItem.appendChild(a);            
+            addTreeNodeToIndexView(childNode, a);
+          }
+          else
+          {
+            addTreeNodeToIndexView(childNode, listItem);
+          }
+
           unorderedList.appendChild(listItem);
         });
         parentElement.appendChild(unorderedList);
+        //unorderedList.style.zIndex = parentElement.style.zIndex + 1;
       }
     }
 
