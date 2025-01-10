@@ -6,17 +6,17 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container" style="padding-left:0;">
+  <div class="container" style="padding:0;">
     <div class="row" style="align-items:start;">
       <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;">
         <div class="navigation" style="width:110px;min-width:90px;">
-          <ul style="margin:0;padding:0;margin-top:10px;text-align:left;">
+          <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/game_rules.md')">Rules</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/spells.md')">Spells</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/wildshapes.md')">Wildshapes</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/alchemy.md')">Alchemy</button></li>
           </ul>
-          <ul style="margin:0;padding:0;margin-top:10px;text-align:left;">
+          <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/ayra.md')">Ayra</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/kal.md')">Kal</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/kazimir.md')">Kazimir</button></li>
@@ -92,9 +92,23 @@
       parentElement.innerHTML = treeNode.name; 
       if (treeNode.children.length > 0)
       {
-        const unorderedList = document.createElement('ul'); 
+        const unorderedList = document.createElement('ul');
+        unorderedList.onclick = function(e){ 
+          console.log(e.target.innerHTML);
+          e.stopPropagation();
+        };
         treeNode.children.forEach(childNode => {
-          const listItem = document.createElement('li');          
+          const listItem = document.createElement('li');
+          
+          if (childNode.children.length > 0)
+          {
+            // collapse?
+          }
+          else
+          {
+            // navigate to?
+          }
+
           addTreeNodeToIndexView(childNode, listItem);
           unorderedList.appendChild(listItem);
         });
@@ -102,32 +116,31 @@
       }
     }
 
+    function getHeaderElementDepth(element)
+    {
+      return element && element.localName && element.localName.startsWith('h') && element.localName <= 'h6' ? element.localName : '';
+    }
+
     function generateIndexTree(rootTreeNode, content)
     {
       let element = content.firstChild;
       let previousDepth = '';
-      let currentNode = rootTreeNode;
+      let parentNode = rootTreeNode;
       while(element)
       {
-        let currentDepth = '';
-        if(element.localName === 'h1') { currentDepth = element.localName; }
-        else if(element.localName === 'h2') { currentDepth = element.localName; }
-        else if(element.localName === 'h3') { currentDepth = element.localName; }
-        else if(element.localName === 'h4') { currentDepth = element.localName; }
-        else if(element.localName === 'h5') { currentDepth = element.localName; }
-        else if(element.localName === 'h6') { currentDepth = element.localName; }
+        let currentDepth = getHeaderElementDepth(element);
 
         if (currentDepth !== '')
         {
-          if (currentDepth <= previousDepth)
+          // backtrack until we find a lower numbered header
+          while(currentDepth <= getHeaderElementDepth(parentNode.element))
           {
-            currentNode = currentNode.parent;
+            parentNode = parentNode.parent;
           }
           
           let childNode = new TreeNode(element);
-          currentNode.addChild(childNode);
-          currentNode = childNode;          
-          previousDepth = currentDepth;
+          parentNode.addChild(childNode);
+          parentNode = childNode;          
         }
         element = element.nextElementSibling;
       }
@@ -217,47 +230,46 @@
       }
     }
  
-    const urlParams = new URLSearchParams(window.location.search);
-
-    let contentPageUrl = '/vault/database/game_rules.md';
-    for (const [key, value] of urlParams)
+    // EXECUTION
     {
-      if (key === 'page')
+      const urlParams = new URLSearchParams(window.location.search);
+
+      let contentPageUrl = '/vault/database/game_rules.md';
+      for (const [key, value] of urlParams)
       {
-        contentPageUrl = `/vault/database/${value}.md`
+        if (key === 'page')
+        {
+          contentPageUrl = `/vault/database/${value}.md`
+        }
       }
+
+      setContentPage(contentPageUrl);
+      
+      window.addEventListener('paste', (event) => {
+        try 
+        {
+          let result = convert5EJsonToText(event.clipboardData.getData('text'));
+          let div = document.createElement('div');
+          div.innerHTML = result;
+          applyCustomDivToView(div);
+        }
+        catch (error) 
+        {
+          console.log(error);
+          return;
+        }
+
+        event.preventDefault();
+      }); 
+
+      window.addEventListener('scroll', setNavPosition);
+      window.addEventListener('resize', setNavPosition);
+      window.addEventListener('load', () => 
+      {
+          const navigation = document.querySelector('.navigation');
+          navigation.style.top = '0px';
+      });
     }
-
-    setContentPage(contentPageUrl);
-    
-
-
-    window.addEventListener('paste', (event) => {
-      try 
-      {
-        let result = convert5EJsonToText(event.clipboardData.getData('text'));
-        let div = document.createElement('div');
-        div.innerHTML = result;
-        applyCustomDivToView(div);
-      }
-      catch (error) 
-      {
-        console.log(error);
-        return;
-      }
-
-
-      event.preventDefault();
-    }); 
-
-    window.addEventListener('scroll', setNavPosition);
-    window.addEventListener('resize', setNavPosition);
-    window.addEventListener('load', () => 
-    {
-        const navigation = document.querySelector('.navigation');
-        navigation.style.top = '0px';
-    });
-
   </script>
 
 </body>

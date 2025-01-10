@@ -45,6 +45,12 @@ nav{
 
 ul{
   list-style-type: none;
+  margin-left: 5px;
+  border-left: 2px dotted var(--color-foreground-1);
+}
+
+li{
+  padding-left:3px;
 }
 
 nav ul{
