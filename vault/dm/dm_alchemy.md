@@ -515,7 +515,7 @@ Potion of Superior Healing
 ![\|45](https://bg3.wiki/w/images/5/5d/POT_Remedial_Potion_Unfaded_Icon.png)
 ### Potion of Vitality
 ![\|45](https://bg3.wiki/w/images/b/bd/POT_Potion_of_Vitality_Unfaded_Icon.png)
-### Potion Invulnerability
+### Potion of Invulnerability
 ![\|45](https://bg3.wiki/w/images/f/f6/POT_Potion_Invulnerability_Unfaded_Icon.png)
 
 ## Coatings
