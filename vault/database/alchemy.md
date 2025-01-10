@@ -1,8 +1,8 @@
 # Concoctions
 ## Potions
 ### Potion of Healing
-- **Action.** *Carefully drink or administer*: Regain 10 HP.
-- **Bonus Action.** *Hastily drink or administer*: Regain 2d4 + 2 HP.
+- **Action.** *Carefully administer*: Regain 10 HP.
+- **Bonus Action.** *Hastily administer*: Regain 2d4 + 2 HP.
 
 **Production**:
 *Grind down dried Rogue's Morsel and boil in salt water.*
