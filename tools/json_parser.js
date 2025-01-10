@@ -34,9 +34,9 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@h\}([0-9]+)/g, (m, g) => (`\n    *Hit*: ${parseInt(g).toString()}`));
   strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/g, (m, g) => (g));
   strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, (m, g) => (`DC ${g}`));
-  strippedString = strippedString.replace(/\{@atk\smw\}/g, () => ('*Melee Weapon Attack*:'));
-  strippedString = strippedString.replace(/\{@atk\srw\}/g, () => ('*Ranged Weapon Attack*:'));
-  strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, () => ('*Melee or Ranged Weapon Attack*:'));
+  strippedString = strippedString.replace(/\{@atk\smw\}/g, () => ('*Melee Attack*:'));
+  strippedString = strippedString.replace(/\{@atk\srw\}/g, () => ('*Ranged Attack*:'));
+  strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, () => ('*Melee or Ranged Attack*:'));
   strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => (g));
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, (m, g) => (g));
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, (m, g) => (g));
@@ -56,8 +56,9 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
   strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cone|cube|square|sphere)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
   strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\sline/g, (m, g1) => `a length ${convertFeetInt(g1)} line`);  
+  strippedString = convertFeetString(strippedString);
 
-  return convertFeetString(strippedString);
+  return strippedString;
 }
 
 function calculateAbilityMod(abilityScore)
@@ -95,7 +96,6 @@ function parseAlignment(alignmentString)
   else { return alignmentString;}
 }
 
-
 function convertMonsterSubSection(subsectionName, array)
 {
   let result = new Array();
@@ -110,7 +110,7 @@ function convertMonsterSubSection(subsectionName, array)
         actionEntries.push(stripped);
       });
 
-      let resultString = `   - **${strip5EToolsTags(action.name)}**. ${actionEntries.join(', ')}`;
+      let resultString = `   - **${strip5EToolsTags(action.name)}**. ${actionEntries.join('\n   ')}`;
       result.push(resultString);
     });
   }
@@ -135,7 +135,7 @@ function convert5EMonsterToText(jsonObject)
   {
     let sizes = new Array();
     data.size.forEach(size => {
-      sizes.push(parseSize(size)); // TODO translate sizes
+      sizes.push(parseSize(size));
     });
     
     let typeTagsString = '';
@@ -156,7 +156,7 @@ function convert5EMonsterToText(jsonObject)
       
     let alignments = new Array();
     data.alignment.forEach(alignment => {
-      alignments.push(parseAlignment(alignment)); //TODO translate alignment
+      alignments.push(parseAlignment(alignment));
     });
 
     let totalTypeString = `*${sizes.join(', ')} ${typeString}${typeTagsString}, ${alignments.join(' ')}*`;
@@ -368,7 +368,7 @@ function convert5EJsonToText(json)
     });
   }
 
-  let result = mdText.join('\n') + '\n\n';
+  let result = mdText.join('\n') + '\n';
 
   navigator.clipboard.writeText(result).then(() => {
     console.log("copied md to clipboard!");
