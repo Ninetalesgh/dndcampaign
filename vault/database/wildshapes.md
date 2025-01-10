@@ -1,4 +1,5 @@
-### CR 1/4 Strong Melee
+## CR 1/4
+### Strong Melee
 *Medium*
 - **Initiative**: +1
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
@@ -18,7 +19,7 @@ STR | DEX | CON
   - ***Grapple.*** *Melee Weapon Attack*: +4 to hit, reach 1 *(1.5m)*, one Small or Tiny creature. 
    *Hit*: The target is Grappled (escape DC 12). You can only have one creature grappled at a time.
 
-### CR 1/4 Nimble
+### Nimble
 *Small*
 - **Initiative**: +2
 - **Speed**: 10 *(15m)*, Climb 8 *(12m)*
@@ -35,7 +36,7 @@ STR | DEX | CON
   - ***Claws.*** *Melee Attack Roll*: +4, reach 1 *(1.5m)*, one target. 
    *Hit*: 1d4 + 2 Slashing damage, or 2d4 + 2 Slashing damage if you had Advantage on the Attack Roll.
 
-### CR 1/4 Web Walker
+### Web Walker
 *Medium*
 - **Initiative**: +3
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
@@ -54,7 +55,7 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1 *(1.5m)*, one creature. 
    *Hit*: 1d6 + 1 Piercing damage, and the target must make a DC 11 CON Save, taking 2d6 Poison damage on a failed save, or half as much damage on a successful one.
 
-### CR 1/4 Poisonous 
+### Poisonous 
 *Small*
 - **Initiative**: +2
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
@@ -70,7 +71,7 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
    *Hit*: 1d4 + 2 Piercing damage, and the target must make a DC 11 CON Save, taking 3d6 Poison damage on a failed save, or half as much damage on a successful one.
 
-### CR 1/4 Burrower
+### Burrower
 *Medium*
 - **Initiative**: +0
 - **Speed**: 6 *(9m)*, Burrow 2 *(3m)*
@@ -86,8 +87,8 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1 *(1.5m)*, one creature. 
    *Hit*: 2d4 + 1 Piercing damage.
 
-
-### CR 1 Burrower
+## CR 1
+### Burrower
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 6 *(9m)*, burrow: 6 *(9m)*
@@ -111,7 +112,7 @@ STR | DEX | CON
    You gain resistance to Piercing and Slashing damage.
    Whenever You take 10 or more damage from a single source, you are pushed 2 *(3m)* away from the damage's source.
 
-### CR 1 Spiked Carapace
+### Spiked Carapace
 *Small*
 - **Initiative**: +1
 - **Speed**: walk: 6 *(9m)*
@@ -133,7 +134,7 @@ STR | DEX | CON
 - **Reactions**:
    - **Battlespike Caltrop**. When a Medium or larger creature enters your space, you can force the creature to succeed on a DC 12 DEX Save or take 2d4 Piercing damage and fall prone.
 
-### CR 1 Chameleonic
+### Chameleonic
 *Small*
 - **Initiative**: +2
 - **Speed**: walk: 10 *(18m)*, climb: 10 *(18m)*
@@ -158,7 +159,7 @@ STR | DEX | CON
     *Hit*: 1d4 + 2 Piercing damage, and the target must succeed on a DC 11 CON Save or be Poisoned for the next minute.
    A creature poisoned in this way repeats this Save at the end of each of its turns, ending the effect on a success, or falling asleep until the beginning of its next turn on a failure. A creature wakes up early if it takes any damage, or if a creature uses an Action to shake it awake.
 
-### CR 1 Hook-Claw Climber 
+### Hook-Claw Climber 
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 8 *(12m)*, climb: 6 *(9m)*
@@ -180,7 +181,7 @@ STR | DEX | CON
    - **Claw Hook**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 1d8 + 2 Slashing damage and the target is Grappled (escape DC 12).
 
-### CR 1 Blind Grappler
+### Blind Grappler
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 6 *(9m)*, climb: 6 *(9m)*
@@ -201,7 +202,7 @@ STR | DEX | CON
    - **Scuttle**. When you would make a Save against a spell or magical effect, you can move up to 2 *(3m)*.
    If this movement puts you out of range or area of the spell or magical effect, you are unaffected.
 
-### CR 1 Huge Defensive 
+### Huge Defensive 
 *Huge*
 - **Initiative**: +0
 - **Speed**: walk: 10 *(15m)*
@@ -228,7 +229,7 @@ STR | DEX | CON
 - **Reactions**:
    - **Fend Off**. When a creature enters your reach, you can use your Reaction to make an attack with your claw against that creature.
 
-### CR 1 Ranged Stunner
+### Ranged Stunner
 *Small*
 - **Initiative**: +3
 - **Speed**: walk: 6 *(9m)*
@@ -248,7 +249,7 @@ STR | DEX | CON
    - **Stunning Sling**. *Ranged Attack*: +5 to hit, range 6/24 *(9m/36m)*, one target. 
     *Hit*: 1d4 + 3 Bludgeoning damage and the target must succeed on a DC 13 CON Save or be Stunned until the beginning of its next turn.
 
-### CR 1 Poison Shooter
+### Poison Shooter
 *Small*
 - **Initiative**: +2
 - **Speed**: walk: 5 *(7.5m)*, climb: 5 *(7.5m)*
