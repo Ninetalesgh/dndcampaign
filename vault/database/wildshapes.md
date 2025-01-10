@@ -124,7 +124,7 @@ STR | DEX | CON
 - **Reactions**:
    - **Battlespike Caltrop**. When a Medium or larger creature enters your space, you can force the creature to succeed on a DC 12 DEX Save or take 2d4 Piercing damage and fall prone.
 
-### CR 1 Chameleonic Carapace
+### CR 1 Chameleonic
 *Tiny*
 - **Initiative**: +2
 - **Speed**: walk: 10 *(18m)*, climb: 10 *(18m)*
