@@ -1,5 +1,6 @@
 ### CR 1/4 Strong Melee
 *Medium*
+- **Initiative**: +1
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 
 STR | DEX | CON
@@ -19,6 +20,7 @@ STR | DEX | CON
 
 ### CR 1/4 Nimble
 *Small*
+- **Initiative**: +2
 - **Speed**: 10 *(15m)*, Climb 8 *(12m)*
 
 STR | DEX | CON
@@ -35,6 +37,7 @@ STR | DEX | CON
 
 ### CR 1/4 Web Walker
 *Medium*
+- **Initiative**: +3
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 
 STR | DEX | CON
