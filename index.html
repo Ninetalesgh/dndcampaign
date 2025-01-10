@@ -93,15 +93,15 @@
       if (treeNode.children.length > 0)
       {
         const unorderedList = document.createElement('ul');
-        unorderedList.onclick = function(e){ 
-                    
-          let fileName = e.target.parentElement;
+        unorderedList.onclick = function(e){
           e.target.classList.toggle('collapsed');
+          if (e.target.innerHTML[0] === '+' || e.target.innerHTML[0] === '-')
+          {
+            let char = e.target.innerHTML[0] === '+' ? '-' : '+';
+            e.target.innerHTML = char + e.target.innerHTML.slice(1);
 
-          let char = e.target.innerHTML[0] === '+' ? '-' : '+';
-          e.target.innerHTML = char + e.target.innerHTML.slice(1);
-
-          e.stopPropagation();
+            e.stopPropagation();
+          }
         };
         
         unorderedList.scroll = function(e){
@@ -110,6 +110,10 @@
         
         treeNode.children.forEach(childNode => {
           const listItem = document.createElement('li');
+          listItem.onclick = function (e){
+            console.log(e);
+
+          };
           
           addTreeNodeToIndexView(childNode, listItem);
           unorderedList.appendChild(listItem);
