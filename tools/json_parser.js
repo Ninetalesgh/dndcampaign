@@ -231,6 +231,87 @@ function convert5EMonsterToText(jsonObject)
     output.push(skillsString);
   }
 
+  // Resistances
+  {
+    if (data.resist)
+    {
+      let resistances = new Array();
+      let specialResistances = new Array();
+
+      data.resist.forEach(resistance => {
+        if (typeof resistance === "string")
+          {
+            resistances.push(resistance);
+          }
+          else
+          {
+            specialResistances.push(resistance);
+          }
+      });
+
+      if (resistances.length)
+      {
+        resistances = [`${resistances.join(', ')};`];
+      }
+
+      specialResistances.forEach(sr => {
+        let specialResistanceString = `${sr.preNote} ${sr.resist.join(', ')} ${sr.note}`;
+        resistances.push(specialResistanceString);
+      });
+
+      if (resistances.length)
+      {
+        let resistancesString = `- **Resistances**: ${resistances.join(', ')}`;
+        output.push(resistancesString.replace(/;,/g, ';'));
+      }
+    }
+  }
+
+  // Immunities
+  {
+    let immunities = new Array();
+    if (data.immune)
+    {
+      data.immune.forEach(immunity => {
+        if (typeof immunity === "string")
+          {
+            immunities.push(immunity);
+          }
+          else
+          {
+            console.log("TODO immunity notes.");
+          }
+      });
+
+      console.log(immunities);
+      if (immunities.length)
+      {
+        immunities = [`${immunities.join(', ')};`];
+      }
+      console.log(immunities);
+    }
+
+    if (data.conditionImmune)
+    {
+      data.conditionImmune.forEach(immunity => {
+        if (typeof immunity === "string")
+        {
+          immunities.push(immunity);
+        }
+        else
+        {
+          console.log("TODO condition immunity notes.");
+        }
+      });
+    }
+
+    if (immunities.length)
+    {
+      let immunitiesString = `- **Immunities**: ${immunities.join(', ')}`;
+      output.push(immunitiesString.replace(/;,/g, ';'));
+    }
+  }
+
   //Senses
   {
     let senses = new Array();
@@ -311,7 +392,6 @@ function convert5EMonsterToText(jsonObject)
 
       for (let key in spellcastingEntries.spells)
       {
-      //  skills.push(`${key}: ${data.skill[key].toString()}`);
         let spellLevel = '';
         let value = spellcastingEntries.spells[key];
         if (parseInt(key) === 0)
