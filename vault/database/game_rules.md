@@ -10,7 +10,7 @@
   Wisdom (WIS) | Perceptiveness and mental fortitude | Notice things in the environment or in creatures' behaviour | Resist a mental assault           
   Charisma (CHA) | Confidence, poise, and charm | Influence, entertain, or deceive | Assert your identity
 
->[!INFO] Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always $(AbilityScore-10)/2$ rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.
+>[!INFO] Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always *(AbilityScore-10)/2* rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.
 
 - **Proficiency** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
 - **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw 
@@ -31,7 +31,7 @@ While we're not playing Turn Based do what you want, ask the GM anything, role p
 We play Turn Based in dangerous time sensitive situations like Combat. When we do, we use Initiative.
 
 - Each **Round** of Initiative lets everyone (Players, NPCs and Monsters) take their turn once! Each Round takes roughly 6 seconds, which makes 1 minute = 10 Rounds. 
-- We use a custom distance unit in game, it's just a unitless value and 1 unit equals $2/3m$ in the fantasy world. I'll always have both this unit and meters listed in rules. On table play one Inch (or one square on miniature terrain with a grid) equals 1 unit. When looking up online content which is displayed in *feet*, divide that value by 5 to get to our unitless value (for example 30 feet = 6).
+- We use a custom distance unit in game, it's just a unitless value and 1 unit is the size of one real world miniature square and equals *~1.5m* in the fantasy world. I'll always have both this unit and meters listed in rules. On table play one Inch (or one square on miniature terrain with a grid) equals 1 unit. When looking up online content which is displayed in *feet*, divide that value by 5 to get to our unitless value (for example 30 feet = 6).
 
 The Round: 
 > Roll Initiative at the beginning *(Are you Surprised or Hidden?)*
@@ -53,7 +53,7 @@ What you can do when we play Turn Based:
 - **Movement**: Move - up to a range equal to your Speed. You can do this in parts (for example, move 1, use Action, move 4, use Bonus Action, move 1).
   - Move slower through Difficult Terrain. Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are examples. 
   - You can also fall Prone at will, of course.
-  - *ON GRIDS ONLY*: Diagonal movement costs $3/2$, rounding down the total (so 2 full diagonal "steps" cost 3) 
+  - *ON GRIDS ONLY*: Diagonal movement costs 3/2, rounding down the total (so 2 full diagonal "steps" cost 3) 
 - **Actions**
 - ***Attack*** -> Melee, Ranged, Spell. If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you double ALL the damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
   - *Melee Attack* -> Attack something in range, unless otherwise specified, your Melee Attack range is 1 (so you can attack things directly next to you).
@@ -200,8 +200,8 @@ Every player can have up to 3 magic items attuned.
 #### Exhaustion
   Exhaustion stacks.
   You die when you reach 6 levels of exhaustion.
-  You get $-2 * Levels$ on every d20 check.  
-  Speed reduced by $1 * Levels$.
+  You get *-2 * Levels* on every d20 check.  
+  Speed reduced by *1 * Levels*.
   Every Long Rest lets you recover from 1 level of Exhaustion.
 #### Frightened
   Disadvantage on Ability Checks and Attack Rolls while the source of fear is within LoS.
