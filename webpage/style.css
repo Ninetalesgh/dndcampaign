@@ -24,6 +24,7 @@ body{
   font-family: 'Poppins', sans-serif;
   color: var(--color-foreground-1);
   background: var(--color-background-1);
+  height: 100%;
 }
 
 .navbar{
@@ -47,10 +48,19 @@ ul{
   list-style-type: none;
   margin-left: 5px;
   border-left: 2px dotted var(--color-foreground-1);
+  cursor: pointer;
 }
 
 li{
   padding-left:3px;
+}
+
+.collapsed ul{
+  border-left: 3px solid var(--color-foreground-0);
+}
+
+.collapsed li{
+  display: none;
 }
 
 nav ul{

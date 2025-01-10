@@ -6,10 +6,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container" style="padding:0;">
-    <div class="row" style="align-items:start;">
-      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;">
-        <div class="navigation" style="width:110px;min-width:90px;">
+  <div class="container" style="padding:0;height:100vh;">
+    <div class="row" style="align-items:start;height:100vh;">
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;height:100vh;">
+        <div class="navigation" style="width:110px;min-width:90px;height:100vh;">
           <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/game_rules.md')">Rules</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/spells.md')">Spells</button></li>
@@ -27,7 +27,7 @@
       </div>
       <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:60%;"></div>
 
-      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:20%;padding:0;">
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:20%;padding:0;height:100vh;">
         <div class="navigation dndindex" style="width:auto;min-width:100px;flex-basis:20%;"></div>
       </div>
     </div>
@@ -88,27 +88,29 @@
     var rootNode = new TreeNode(null);
   
     function addTreeNodeToIndexView(treeNode, parentElement)
-    {
-      parentElement.innerHTML = treeNode.name; 
+    {  
+      parentElement.innerHTML = (treeNode.children.length > 0 ? '- ' : '') + treeNode.name.replace(/^.*(\/[a-zA-Z_0-9]+.md)$/g,'$1');
       if (treeNode.children.length > 0)
       {
         const unorderedList = document.createElement('ul');
         unorderedList.onclick = function(e){ 
-          console.log(e.target.innerHTML);
+                    
+          let fileName = e.target.parentElement;
+          e.target.classList.toggle('collapsed');
+
+          let char = e.target.innerHTML[0] === '+' ? '-' : '+';
+          e.target.innerHTML = char + e.target.innerHTML.slice(1);
+
           e.stopPropagation();
         };
+        
+        unorderedList.scroll = function(e){
+          console.log('test');
+        };
+        
         treeNode.children.forEach(childNode => {
           const listItem = document.createElement('li');
           
-          if (childNode.children.length > 0)
-          {
-            // collapse?
-          }
-          else
-          {
-            // navigate to?
-          }
-
           addTreeNodeToIndexView(childNode, listItem);
           unorderedList.appendChild(listItem);
         });
@@ -262,7 +264,26 @@
         event.preventDefault();
       }); 
 
+      // let index = document.querySelector('.dndindex');
+      // // console.log(index);
+      // index.onclick = function() {
+      //   console.log('test');
+      // };
+      
+     
+
       window.addEventListener('scroll', setNavPosition);
+      // window.addEventListener('scroll', (e) => {
+      //   const x = event.clientX || 0;
+      //   const y = event.clientY || 0;
+
+      //   const hoveredElement = document.elementFromPoint(x,y);
+
+      //   //console.log(event);
+      //  // console.log(`${x} -- ${y}`);
+      //   event.stopPropagation();
+      // });
+
       window.addEventListener('resize', setNavPosition);
       window.addEventListener('load', () => 
       {
