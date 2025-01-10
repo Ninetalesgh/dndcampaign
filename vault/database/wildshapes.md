@@ -99,7 +99,7 @@ STR | DEX | CON
    - **Blood Sense**. You know the exact location of each creature within 24 *(36m)* of it that does not have all of its hit points.
    - **Shock Attack**. If you start your turn underground, creatures without tremorsense may not take reactions on your turn while within 1 *(1.5m)* of it.
 - **Actions**:
-   - **Armorpiercing Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
+   - **Armor piercing Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 2d10 + 2 Piercing damage.
    This attack treats any AC higher than 15 as though it were 15.
 - **Reactions**:
