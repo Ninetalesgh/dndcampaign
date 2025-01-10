@@ -75,16 +75,6 @@ TODO ::: scorpion spirit, sting whip
 
   
 
-stat blocks CR 1/4: Giant Wolf Spider, Panther, Badger, Giant Centipede, Male Steeder
-
-  
-  
-  
-
-cool stat blocks CR 1: Bulette Hatchling, Cadaver Collector Headcounter (spiked carapace), Chameleonic Pseudodragon (without fly), Deinonychus (crawl onto big things, switch damage types and attack effects), Giant Crawling Claw, Short-Faced Hyena, Starmarked Giraffe (big protective for friendos), Vegepygmy Hunter, purple grung (ranged, poison, climber)
-
-  
-
 ###### Warlock (Ayra):
 
   
