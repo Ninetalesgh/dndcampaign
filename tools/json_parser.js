@@ -32,26 +32,26 @@ function strip5EToolsTags(string)
   let strippedString = string.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/g, (m, g1, g2) => (g1 ? g1 : g2));
   strippedString = strippedString.replace(/\{@hit\s([0-9]+)\}/g, (m, g) => (`${parseInt(g) < 0 ? '-' : '+'}${parseInt(g).toString()}`));
   strippedString = strippedString.replace(/\{@h\}([0-9]+)/g, (m, g) => (`\n    *Hit*: ${parseInt(g).toString()}`));
-  strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, (m, g) => (`DC ${g}`));
-  strippedString = strippedString.replace(/\{@atk\smw\}/g, () => ('*Melee Attack*:'));
-  strippedString = strippedString.replace(/\{@atk\srw\}/g, () => ('*Ranged Attack*:'));
-  strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, () => ('*Melee or Ranged Attack*:'));
-  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, (m, g) => (g));
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => (g));
+  strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/g, '$1');
+  strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/g, 'DC $1');
+  strippedString = strippedString.replace(/\{@atk\smw\}/g, '*Melee Attack*:');
+  strippedString = strippedString.replace(/\{@atk\srw\}/g, '*Ranged Attack*:');
+  strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, '*Melee or Ranged Attack*:');
+  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, '$1');
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/g, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
 
   //custom
-  strippedString = strippedString.replace(/\ssaving\sthrow/g, () => (' Save'));
-  strippedString = strippedString.replace(/[sS]trength/g, () => ('STR'));
-  strippedString = strippedString.replace(/[dD]exterity/g, () => ('DEX'));
-  strippedString = strippedString.replace(/[cC]onstitution/g, () => ('CON'));
-  strippedString = strippedString.replace(/[iI]ntelligence/g, () => ('INT'));
-  strippedString = strippedString.replace(/[wW]isdom/g, () => ('WIS'));
-  strippedString = strippedString.replace(/[cC]harism/g, () => ('CHA'));
+  strippedString = strippedString.replace(/\ssaving\sthrow/g, ' Save');
+  strippedString = strippedString.replace(/[sS]trength/g, 'STR');
+  strippedString = strippedString.replace(/[dD]exterity/g, 'DEX');
+  strippedString = strippedString.replace(/[cC]onstitution/g, 'CON');
+  strippedString = strippedString.replace(/[iI]ntelligence/g, 'INT');
+  strippedString = strippedString.replace(/[wW]isdom/g, 'WIS');
+  strippedString = strippedString.replace(/[cC]harism/g, 'CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./g, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
   strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cone|cube|square|sphere)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
@@ -227,8 +227,11 @@ function convert5EMonsterToText(jsonObject)
       skills.push(`${key}: ${data.skill[key].toString()}`);
     }
 
-    let skillsString = `- **Skills**: ${skills.join(', ')}`;
-    output.push(skillsString);
+    if (skills.length)
+    {
+      let skillsString = `- **Skills**: ${skills.join(', ')}`;
+      output.push(skillsString);
+    }
   }
 
   // Resistances
