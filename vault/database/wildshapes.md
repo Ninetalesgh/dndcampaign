@@ -1,9 +1,11 @@
 ### CR 1/4 Strong Melee
+*Medium*
+- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
+
 STR | DEX | CON
 :--: | :--: | :--: 
 15 (+2)  | 12 (+1)  | 14 (+2)
 
-- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: Perception +4, Stealth +5
 - **Passive Perception**: 14
 - **Traits**:
@@ -17,11 +19,13 @@ STR | DEX | CON
     - *Hit*: The target is Grappled (escape DC 12). You can only have one creature grappled at a time.
 
 ### CR 1/4 Nimble
+*Small*
+- **Speed**: 10 *(15m)*, Climb 8 *(12m)*
+
 STR | DEX | CON
 :--: | :--: | :--: 
 14 (+2)  | 15 (+2)  | 10 (+0)
 
-- **Speed**: 10 *(15m)*, Climb 8 *(12m)*
 - **Skills**: Perception +4, Stealth +6
 - **Passive Perception**: 14
 - **Traits**: 
@@ -32,11 +36,13 @@ STR | DEX | CON
     - *Hit*: 1d4 + 2 Slashing damage, or 2d4 + 2 Slashing damage if you had Advantage on the Attack Roll.
 
 ### CR 1/4 Web Walker
+*Medium*
+- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
+
 STR | DEX | CON
 :--: | :--: | :--: 
 12 (+1)  | 16 (+3)  | 13 (+1)
 
-- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: Perception +3, Stealth +7
 - **Passive Perception**: 13
 - **Traits**: 
@@ -50,11 +56,14 @@ STR | DEX | CON
     - *Hit*: 1d6 + 1 Piercing damage, and the target must make a DC 11 CON Save, taking 2d6 Poison damage on a failed save, or half as much damage on a successful one.
 
 ### CR 1/4 Poisonous 
+*Small*
+- **Initiative**: +2
+- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
+
 STR | DEX | CON
 :--: | :--: | :--: 
 5 (-3)  | 14 (+2)  | 12 (+1)
 
-- **Speed**: 6 *(9m)*, Climb 6 *(9m)*
 - **Skills**: -
 - **Passive Perception**: 8
 - **Traits**: 
@@ -64,11 +73,14 @@ STR | DEX | CON
     - *Hit*: 1d4 + 2 Piercing damage, and the target must make a DC 11 CON Save, taking 3d6 Poison damage on a failed save, or half as much damage on a successful one.
 
 ### CR 1/4 Burrower
+*Medium*
+- **Initiative**: +0
+- **Speed**: 6 *(9m)*, Burrow 2 *(3m)*
+
 STR | DEX | CON
 :--: | :--: | :--: 
 13 (+1)  | 10 (+0)  | 17 (+3)
 
-- **Speed**: 6 *(9m)*, Burrow 2 *(3m)*
 - **Skills**: Perception +3
 - **Passive Perception**: 8
 - **Traits**: 
@@ -103,7 +115,7 @@ STR | DEX | CON
    Whenever You take 10 or more damage from a single source, you are pushed 2 *(3m)* away from the damage's source.
 
 ### CR 1 Spiked Carapace
-*Tiny*
+*Small*
 - **Initiative**: +1
 - **Speed**: walk: 6 *(9m)*
 
@@ -125,7 +137,7 @@ STR | DEX | CON
    - **Battlespike Caltrop**. When a Medium or larger creature enters your space, you can force the creature to succeed on a DC 12 DEX Save or take 2d4 Piercing damage and fall prone.
 
 ### CR 1 Chameleonic
-*Tiny*
+*Small*
 - **Initiative**: +2
 - **Speed**: walk: 10 *(18m)*, climb: 10 *(18m)*
 
