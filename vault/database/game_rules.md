@@ -12,7 +12,7 @@
 
 >[!INFO] Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always *(AbilityScore-10)/2* rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.
 
-- **Proficiency** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
+- **Proficiency Bonus (PB)** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
 - **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw 
   - ***Attack Roll*** -> STR for melee, DEX for ranged, Varies for Spell Attack. Add your Proficiency Bonus if it's with a weapon you're proficient with or always add it if it's a Spell Attack. When you roll equal to or higher than your target's AC, you hit and roll the damage you do!
   - ***Ability Check*** -> Either roll on an Ability directly or on a Skill (Athletics, Acrobatics, etc.). Add your Proficiency Bonus to Ability Checks you are proficient in. 
@@ -160,14 +160,14 @@ Gargantuan | 16
 
 ### Spell Casting
 
-TODO 
+[TODO]
 Spell Slots, Visual, Semantic, Ritual, Concentration
 Only one Spell Slot consume per Turn. 
 
 ### Magic Items
 
 Every player can have up to 3 magic items attuned.
- TODO
+ [TODO]
   Magic items are noticably magical when you handle them.
   One item can be identified per SR.
   A maximum of 3 attunements total.
@@ -176,7 +176,7 @@ Every player can have up to 3 magic items attuned.
 
 ### Conditions
 #### Bleeding 
-   better phrasing of this block
+  [TODO] better phrasing of this block
   A Bleeding creature loses the specified amount of hit points at the beginning of each of its turns, i.e a creature that is "Bleeding (1d4)" loses 1d4 hit points at the beginning of each of its turns.
       Hit point loss represents loss of vital fluids, and is distinct from damage. Unless otherwise specified, it can't be resisted or reduced in any way. It has no effect on creatures with 0 hit points.
       Creatures that do not have blood or some equivalent vital fluid are immune to any effect that directly causes Hit Point Loss.
@@ -228,7 +228,7 @@ Every player can have up to 3 magic items attuned.
   Fail all STR/DEX Saving Throws.
   Attacks against you have Advantage.
   Resist all damage, immune to Poison.
-  Cease aging and your weight is \*10. (you are some material like stone or gold)
+  Cease aging and your weight is multiplied by 10. (you are some material like stone or gold)
 #### Poisoned 
   Disadvantage on Ability Checks and Attack Rolls. 
 #### Prone 
