@@ -216,8 +216,21 @@
         });
       }
     }
+ 
+    const urlParams = new URLSearchParams(window.location.search);
 
-    setContentPage('/vault/database/game_rules.md');
+    let contentPageUrl = '/vault/database/game_rules.md';
+    for (const [key, value] of urlParams)
+    {
+      if (key === 'page')
+      {
+        contentPageUrl = `/vault/database/${value}.md`
+      }
+    }
+
+    setContentPage(contentPageUrl);
+    
+
 
     window.addEventListener('paste', (event) => {
       try 
