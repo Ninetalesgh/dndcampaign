@@ -171,7 +171,7 @@ STR | DEX | CON
    - **Claw Hook**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 1d8 + 2 Slashing damage and the target is Grappled (escape DC 12).
 
-### CR 1 Blindsight Strong Claws
+### CR 1 Blind Grappler
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 6 *(9m)*, climb: 6 *(9m)*
