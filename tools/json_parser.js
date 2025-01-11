@@ -227,7 +227,7 @@ function convert5EMonsterToText(jsonObject)
       skills.push(`${key}: ${data.skill[key].toString()}`);
     }
 
-    if (skills.length)
+    if (skills.length > 0)
     {
       let skillsString = `- **Skills**: ${skills.join(', ')}`;
       output.push(skillsString);
@@ -252,7 +252,7 @@ function convert5EMonsterToText(jsonObject)
           }
       });
 
-      if (resistances.length)
+      if (resistances.length > 0)
       {
         resistances = [`${resistances.join(', ')};`];
       }
@@ -262,7 +262,7 @@ function convert5EMonsterToText(jsonObject)
         resistances.push(specialResistanceString);
       });
 
-      if (resistances.length)
+      if (resistances.length > 0)
       {
         let resistancesString = `- **Resistances**: ${resistances.join(', ')}`;
         output.push(resistancesString.replace(/;,/g, ';'));
@@ -287,7 +287,7 @@ function convert5EMonsterToText(jsonObject)
       });
 
       console.log(immunities);
-      if (immunities.length)
+      if (immunities.length > 0)
       {
         immunities = [`${immunities.join(', ')};`];
       }
@@ -308,7 +308,7 @@ function convert5EMonsterToText(jsonObject)
       });
     }
 
-    if (immunities.length)
+    if (immunities.length > 0)
     {
       let immunitiesString = `- **Immunities**: ${immunities.join(', ')}`;
       output.push(immunitiesString.replace(/;,/g, ';'));

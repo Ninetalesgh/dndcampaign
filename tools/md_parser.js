@@ -14,7 +14,12 @@
         return line;
       }
 
-      return `<${resultH} id="${line.replace(/\s/g, '_')}">${line}</${resultH}>`;
+      return `</div><${resultH} id="${line.toLowerCase().replace(/\s/g, '-')}">${line}</${resultH}><div>`;
+    }
+
+    function reformatLink(name, link)
+    {
+      return `<p class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</p><ul class="collapsed"></ul>`;
     }
 
     function parseMd(input)
@@ -47,6 +52,10 @@
         //italic
         lines[i] = lines[i].replace(/\*([^ ][^*]*[^ ])\*/g, "<i>$1</i>");
   
+        //links    
+        lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
+
+        //paragraph
         let indent = 0;
         let counter = 0;
         while(counter < lines[i].length && lines[i][counter++] === " ")
@@ -54,9 +63,9 @@
           indent += 10;
         }
 
-        //paragraph
         lines[i] = '<p style="margin-left:'+ indent.toString() + 'px;">' + lines[i] + '</p>';
       }
+      lines.push('</div>');
 
       //Tables
       for (let i = 0; i < lines.length; ++i)
@@ -117,14 +126,14 @@
 
     async function fetchMdAsHtml(relativeMdPath)
     {
-      let mdUrl = "https://ninetalesgh.github.io/dndcampaign/" + relativeMdPath;
+      let mdUrl = "https://ninetalesgh.github.io/dndcampaign/vault/database" + relativeMdPath;
       try 
       {
         const response = await fetch(mdUrl);
 
         if (!response.ok)
         {
-          throw new Error('network error');
+          throw new Error(`error fetching: ${mdUrl}`);
         }
 
         const data = await response.text();
