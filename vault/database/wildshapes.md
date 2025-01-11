@@ -17,7 +17,7 @@ STR | DEX | CON
   - ***Sting.*** *Melee Weapon Attack*: +4 to hit, reach 1.
    *Hit*: 1d8 + 2 Piercing damage + 1d8 Poison damage.
   - ***Grapple.*** *Melee Weapon Attack*: +4 to hit, reach 1 *(1.5m)*, one Small or Tiny creature. 
-   *Hit*: The target is Grappled (escape DC 12). You can only have one creature grappled at a time.
+   *Hit*: The target is [Grappled](conditions.md#grappled) (escape DC 12). You can only have one creature [Grappled](conditions.md#grappled) at a time.
 
 ### Nimble
 *Small*
@@ -128,11 +128,11 @@ STR | DEX | CON
 - **Actions**:
    - **Slash**. *Melee Attack*: +7 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 2d4 + 2 Slashing damage.
-   Any hit with this attack against a grappled or incapacitated creature becomes a critical hit.
+   Any hit with this attack against a [Grappled](conditions.md#grappled) or [Incapacitated](conditions.md#incapacitated) creature becomes a critical hit.
    - **Spikeroll Charge**. You use any amount of your remaining movement to run in a straight line, then curl into a ball and roll for an equal distance.
    If the roll would collide a creature, the creature makes a DC 12 DEX Save, moving to the nearest unoccupied space on a success, or taking 4d6 Piercing damage and stopping your roll on a failure.
 - **Reactions**:
-   - **Battlespike Caltrop**. When a Medium or larger creature enters your space, you can force the creature to succeed on a DC 12 DEX Save or take 2d4 Piercing damage and fall prone.
+   - **Battlespike Caltrop**. When a Medium or larger creature enters your space, you can force the creature to succeed on a DC 12 DEX Save or take 2d4 Piercing damage and fall [Prone](conditions.md#prone).
 
 ### Chameleonic
 *Small*
@@ -171,15 +171,15 @@ STR | DEX | CON
 - **Skills**: perception: +3
 - **Senses**: passive perception 13
 - **Traits**:
-   - **Pack Tactics**. You have advantage on an attack roll against a creature if at least one of your allies is within 1 *(1.5m)* of the creature and the ally isn't incapacitated.
-   - **Leaping Pounce**. Your long jump is up to 8 *(12m)* and your high jump is up to 4 *(6m)*, with or without a running start. If you jumps at least 4 *(6m)* then hit a creature with the claw attack, the target must succeed on a DC 12 STR Save or be knocked prone.
-   - **Foe-Climber**. If you hit a Large or larger creature with a claw attack, instead of grappling you climb onto the creature. While climbing on a creature, the creature has Disadvantage on attack rolls that target you.
+   - **Pack Tactics**. You have advantage on an attack roll against a creature if at least one of your allies is within 1 *(1.5m)* of the creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
+   - **Leaping Pounce**. Your long jump is up to 8 *(12m)* and your high jump is up to 4 *(6m)*, with or without a running start. If you jumps at least 4 *(6m)* then hit a creature with the claw attack, the target must succeed on a DC 12 STR Save or be knocked [Prone](conditions.md#prone).
+   - **Foe-Climber**. If you hit a Large or larger creature with a claw attack, instead of grappling you climb onto the creature. While climbing onto a creature, the creature has Disadvantage on attack rolls that target you.
 - **Actions**:
    - **Multiattack**. You make two attacks, one of which may be with your sting.
    - **Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
-    *Hit*: 1d6 + 2 Piercing damage. This attack scores a critical hit on an 18-20 against a prone creature.
+    *Hit*: 1d6 + 2 Piercing damage. This attack scores a critical hit on an 18-20 against a [Prone](conditions.md#prone) creature.
    - **Claw Hook**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
-    *Hit*: 1d8 + 2 Slashing damage and the target is Grappled (escape DC 12).
+    *Hit*: 1d8 + 2 Slashing damage and the target is [Grappled](conditions.md#grappled) (escape DC 12).
 
 ### Blind Grappler
 *Medium*
@@ -196,8 +196,8 @@ STR | DEX | CON
 - **Actions**:
    - **Claw Hammer**. *Melee Attack*: +5 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 1d12 + 3 Bludgeoning damage and the target is pushed 1 *(1.5m)* away.
-   - **Grasping Pounce**. You leap toward a Medium or smaller creature within 4 *(6m)* and attempt to grasp it. The creature must succeed on a DC 13 STR Save or be knocked prone and Grappled (escape DC 13).
-   - **Crush**. One creature grappled by you must succeed on a DC 13 CON Save or take 13 (3d8) Bludgeoning damage, or half as much on a success.
+   - **Grasping Pounce**. You leap toward a Medium or smaller creature within 4 *(6m)* and attempt to grasp it. The creature must succeed on a DC 13 STR Save or be knocked [Prone](conditions.md#prone) and [Grappled](conditions.md#grappled) (escape DC 13).
+   - **Crush**. One creature [Grappled](conditions.md#grappled) by you must succeed on a DC 13 CON Save or take 13 (3d8) Bludgeoning damage, or half as much on a success.
 - **Reactions**:
    - **Scuttle**. When you would make a Save against a spell or magical effect, you can move up to 2 *(3m)*.
    If this movement puts you out of range or area of the spell or magical effect, you are unaffected.
@@ -214,8 +214,8 @@ STR | DEX | CON
 - **Skills**: perception: +2
 - **Senses**: passive perception 12
 - **Traits**:
-   - **Unwieldy Height**. When you attempt to stand from prone, you must make a DC 12 STR (Athletics) check.
-   On a failure, you remain prone and can't try to stand again until the beginning of your next turn.
+   - **Unwieldy Height**. When you attempt to stand from [Prone](conditions.md#prone), you must make a DC 12 STR (Athletics) check.
+   On a failure, you remain [Prone](conditions.md#prone) and can't try to stand again until the beginning of your next turn.
    - **Protective Loom**. Creatures that are beneath you in your space and are at least two sizes smaller than you have 1/2 cover against Ranged Attacks.
 - **Actions**:
    - **Claw Hammer**. *Melee Attack*: +4 to hit, reach 2 *(3m)*, one target. 
