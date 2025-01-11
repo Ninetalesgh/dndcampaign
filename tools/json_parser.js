@@ -37,11 +37,11 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@atk\smw\}/g, '*Melee Attack*:');
   strippedString = strippedString.replace(/\{@atk\srw\}/g, '*Ranged Attack*:');
   strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, '*Melee or Ranged Attack*:');
-  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](spells.md#${g.toLower().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](spells.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, '$1');
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, '$1');
-  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLower().replace(' ', '-')})`);
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLower().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/g, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
 
   //custom
@@ -54,8 +54,9 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/[cC]harism/g, 'CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./g, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/g, (m, g) => (convertFeetInt(g)));
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cone|cube|square|sphere)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\sline/g, (m, g1) => `a length ${convertFeetInt(g1)} line`);  
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cube|square)/g, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(sphere|circle)/g, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(line|cone)/g, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2}`);
   strippedString = convertFeetString(strippedString);
 
   return strippedString;
@@ -73,7 +74,20 @@ function calculateAbilityMod(abilityScore)
   return abilityModifier.toString();
 }
 
-function parseSize(sizeString)
+function parseSpellSchool(schoolString)
+{
+  if (schoolString === "A") { return "Abjuration"; }
+  else if (schoolString === "C") { return "Conjuration"; }
+  else if (schoolString === "D") { return "Divination"; }
+  else if (schoolString === "E") { return "Enchantment"; }
+  else if (schoolString === "V") { return "Evocation"; }
+  else if (schoolString === "I") { return "Illusion"; }
+  else if (schoolString === "N") { return "Necromancy"; }
+  else if (schoolString === "T") { return "Transmutation"; }
+  else { return schoolString; }
+}
+
+function parseMonsterSize(sizeString)
 {
   if (sizeString === "T") { return "Tiny"; }
   else if (sizeString === "S") { return "Small"; }
@@ -118,6 +132,165 @@ function convertMonsterSubSection(subsectionName, array)
   return result;
 }
 
+function convertSpellRange(range)
+{
+  let rangeString = '';
+  if (range.distance.amount)
+  {
+    rangeString = convertFeetInt(range.distance.amount);
+
+    if (range.type === "point")
+    {
+      rangeString = `${rangeString}`;
+    }
+    else if (range.type === "cube" || range.type === "square")
+    {
+      rangeString = `Self, a size ${rangeString} ${range.type}`;
+    }
+    else if (range.type === "line" || range.type === "cone")
+    {
+      rangeString = `Self, a length ${rangeString} ${range.type}`;
+    }
+    else if (range.type === "sphere" || range.type === "circle")
+    {
+      rangeString = `Self, a radius ${rangeString} ${range.type}`;
+    }
+  }
+  else
+  {
+    rangeString = range.distance.type[0].toUpperCase() + range.distance.type.slice(1);
+    console.log(rangeString);
+  }
+
+  return `- **Range**: ${rangeString}`;
+}
+
+function convert5ESpellToText(jsonObject)
+{
+  let data = jsonObject;
+  let output = new Array();
+  output.push("### " + data.name);
+
+  // Level & School
+  {
+
+    const levelSchoolString = data.level ? `*Level ${data.level} ${parseSpellSchool(data.school)}*` : `*${parseSpellSchool(data.school)} Cantrip*`;
+    output.push(levelSchoolString);
+  }
+
+  // Casting Time
+  {
+    let timeArray = new Array();
+
+    data.time.forEach(time => {
+      let timeEntryString = '';
+      if (time.unit === "action") { timeEntryString = "Action"; }
+      else if (time.unit === "bonus action")  { timeEntryString = "Bonus Action"; }
+      else if (time.unit === "reaction") { timeEntryString = "Reaction"; }
+      else { timeEntryString = `${number} ${unit}`;}
+
+      if (time.condition)
+      {
+        timeEntryString = `${timeEntryString}, ${time.condition}`;
+      }
+      
+      timeArray.push(timeEntryString);
+    });
+
+    const ritualString = data.meta && data.meta.ritual ? ' or Ritual' : ''; 
+    const timesString = `- **Casting Time**: ${timeArray.join(';')}${ritualString}`;
+    output.push(timesString);
+  }
+
+  // Range
+  output.push(convertSpellRange(data.range));
+
+  // Components
+  {
+    let components = new Array();
+    if (data.components.v)
+    {
+      components.push("V");
+    }
+    if (data.components.s)
+    {
+      components.push("S");
+    }
+
+    const componentsString = `- **Components**: ${components.join(', ')}`;
+    output.push(componentsString);
+  }
+
+  // Duration
+  {
+    let durations = new Array();
+
+    data.duration.forEach(duration => {    
+      let durationString = 'Instantaneous';
+      if (duration.type !== "instant")
+      {
+        console.log('HAHA');
+        durationString = `${duration.duration.amount} ${duration.duration.type}${duration.duration.amount > 1 ? 's' : ''}`;    
+        if (duration.concentration)
+        {
+          durationString = `[Concentration](conditions.md#concentration), up to ${durationString}`;
+        }
+      }
+      
+      durations.push(durationString);
+    });
+
+    const durationsString = `- **Duration**: ${durations.join(';')}`;
+    output.push(durationsString);
+  }
+
+  // Spell Description
+  {
+    if (data.entries)
+    {
+      let descriptionEntries = new Array();
+      data.entries.forEach(entry => {
+        descriptionEntries.push(strip5EToolsTags(entry));
+      });
+      
+      const descriptionString = `${descriptionEntries.join('\n')}`;
+      output.push(descriptionString);
+    }
+  }
+
+  // Upcast
+  {
+    if (data.entriesHigherLevel)
+    {
+      let upcastEntries = new Array();
+      data.entriesHigherLevel.forEach(entry => {
+        let upcastEntryString = `**${entry.name}.** ${entry.entries.join('\n')}`;
+        upcastEntries.push(upcastEntryString);
+      });
+
+      const upcastString = `${upcastEntries.join('\n')}`;
+      output.push(upcastString);
+    }
+  }
+
+  // Classes
+  {
+    if (data.classes && data.classes.fromClassList)
+    {
+      let classes = new Array();
+      data.classes.fromClassList.forEach(classEntry => {
+        classes.push(classEntry.name);
+      });
+
+      const classesString = `- **Classes**: ${classes.join(', ')}`;
+      output.push(classesString);
+    }
+  } 
+
+  const result = output.join('\n');
+  return result;
+}
+
 function convert5EMonsterToText(jsonObject)
 {
   let data = jsonObject;
@@ -135,7 +308,7 @@ function convert5EMonsterToText(jsonObject)
   {
     let sizes = new Array();
     data.size.forEach(size => {
-      sizes.push(parseSize(size));
+      sizes.push(parseMonsterSize(size));
     });
     
     let typeTagsString = '';
@@ -436,18 +609,24 @@ function convert5EMonsterToText(jsonObject)
   return result;
 }
 
+
+
 function convert5EJsonToText(json)
 {
-  let data = JSON.parse(json);
   let mdText = new Array();
-  if (data.name)
-  {    
-    mdText.push(convert5EMonsterToText(data));
-  }
-  else if (data.length && data.length > 0)
+  if (json.name && json.school && json.time && json.range && json.components && json.duration)
   {
-    data.forEach(item => {
-      mdText.push(convert5EMonsterToText(item));
+    mdText.push(convert5ESpellToText(json));
+  }
+  else if (json.name)
+  {    
+    mdText.push(convert5EMonsterToText(json));
+  }
+  else if (json.length && json.length > 0)
+  {
+    console.log("ARRAY?");
+    json.forEach(item => {
+      mdText.push(convert5EJsonToText(item));
     });
   }
 

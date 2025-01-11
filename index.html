@@ -321,7 +321,7 @@
       window.addEventListener('paste', (event) => {
         try 
         {
-          let result = convert5EJsonToText(event.clipboardData.getData('text'));
+          let result = convert5EJsonToText(JSON.parse(event.clipboardData.getData('text')));
           let div = document.createElement('div');
           div.innerHTML = result;
           applyCustomDivToView(div);
