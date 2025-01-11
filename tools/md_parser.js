@@ -17,23 +17,16 @@
       return `</div><${resultH} id="${line.toLowerCase().replace(/\s/g, '-')}">${line}</${resultH}><div>`;
     }
 
-    function reformatLink2(name, link)
+    function reformatLink(name, link)
     {
       return `<button class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</button>`;
-    }
-
-    function reformatLinks(line)
-    {
-      line = line.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink2(g1, g2));
-
-
-      return line;
     }
 
     function parseMd(input)
     {
       const lines = input.split('\n');
     
+      // First pass, paragraphing and adding placeholders for inline content
       for (let i = 0; i < lines.length; ++i)
       {
         //Annoying things
@@ -61,7 +54,7 @@
         lines[i] = lines[i].replace(/\*([^ ].*[^ ])\*/g, "<i>$1</i>");
   
         //links    
-        lines[i] = reformatLinks(lines[i]);
+        lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
 
         //paragraph
         let indent = 0;
@@ -75,7 +68,7 @@
       }
       lines.push('</div>');
 
-      //Tables
+      //Second pass, Tables
       for (let i = 0; i < lines.length; ++i)
       {
         let tableMatches = lines[i].match(/[ ]?(:?--:?)[ ]?\|?/g);
