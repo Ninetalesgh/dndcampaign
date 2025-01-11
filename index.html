@@ -271,7 +271,13 @@
 
     function toggleInlineLinkContent(inlineLink)
     {
-      let ulElement = inlineLink.nextElementSibling;
+      let ulElement = inlineLink.parentElement;
+      while (ulElement && ulElement.tagName !== "P")
+      {
+        console.log(ulElement);
+        ulElement = ulElement.parentElement;
+      } 
+      ulElement = ulElement.nextElementSibling;
       ulElement.classList.toggle('collapsed');
       if (ulElement.children.length === 0)
       {
@@ -280,7 +286,7 @@
           {
             console.log(`found '${node.name}'`);
             let li = document.createElement('li');
-            li.innerHTML = node.element.nextElementSibling.innerHTML;
+            li.innerHTML = node.element.nextElementSibling.outerHTML;
             ulElement.appendChild(li);
           }
         });
