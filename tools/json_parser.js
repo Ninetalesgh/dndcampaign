@@ -37,11 +37,11 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@atk\smw\}/g, '*Melee Attack*:');
   strippedString = strippedString.replace(/\{@atk\srw\}/g, '*Ranged Attack*:');
   strippedString = strippedString.replace(/\{@atk\smw,rw\}/g, '*Melee or Ranged Attack*:');
-  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](spells.md#${g.toLower().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/g, '$1');
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/g, '$1');
-  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, '$1');
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, '$1');
+  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLower().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/g, (m, g) => `[${g}](conditions.md#${g.toLower().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/g, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
 
   //custom
