@@ -207,7 +207,7 @@
 
           if (narrowSearchNode !== node)
           {
-            console.log(`Looking for '${split.join(', ')}' in '${node.name}'.\nFound '${narrowSearchNode.name}'.`);
+            console.log(`Looking for '${split.join(', ')}' in '${node.name}'.\nFound '${narrowSearchNode ? narrowSearchNode.name : 'null'}'.`);
             resultNode = narrowSearchNode;
           }
           else

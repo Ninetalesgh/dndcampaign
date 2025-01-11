@@ -111,7 +111,7 @@ What you can do when we play Turn Based:
 - **Dim Light** -> Lightly Obscured area. Dim Light is usally a boundary between Bright Light and surrounding Darkness. The soft light of twilight and dawn also counts as Dim Light, so does for example a full moon.
   - Lightly Obscured means Disadvantage on WIS (Perception) to see. 
 - **Darkness** -> Heavily Obscured area. Characters face Darkness outdoors at night, withing the confines of an unlit dungeon, or in an area of magical Darkness.
-  - Attempting to see something Heavily Obscured is mechanically equivalent to being [Blinded](conditions.md#Blinded).
+  - Attempting to see something Heavily Obscured is mechanically equivalent to being [Blinded](conditions.md#blinded).
 #### Special senses
 - **Blindsight** -> sense things moving around you.
 - **Darkvision** -> see in darkness like a cat.
