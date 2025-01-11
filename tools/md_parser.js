@@ -51,7 +51,7 @@
         lines[i] = lines[i].replace(/\*\*([^ ][^*]*[^ ])\*\*/g, "<b>$1</b>");
         
         //italic
-        lines[i] = lines[i].replace(/\*([^ ].*[^ ])\*/g, "<i>$1</i>");
+        lines[i] = lines[i].replace(/\*([^ ].*?[^ ])\*/g, "<i>$1</i>");
   
         //links    
         lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));

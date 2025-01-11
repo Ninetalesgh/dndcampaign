@@ -1,27 +1,4 @@
-
-# Common
-## Cantrips
-
-### Guidance
-*Divination Cantrip*
-- **Casting Time**: Action
-- **Range**: Touch
-- **Components**: V, S
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
-- **Classes**: Artificer, Cleric, Druid
-
-### Light
-*Evocation Cantrip*
-- **Casting Time**: Action
-- **Range**: Touch
-- **Components**: V
-- **Duration**: 1 hour
-You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a radius 4 *(6m)* and Dim Light for an additional range of 4. The light can be colored as you like.
-Covering the object with something opaque blocks the light. The spell ends if you cast it again.
-- **Classes**: Artificer, Bard, Cleric, Sorcerer, Wizard
-
-## Level 1
+# Spells A
 ### Animal Friendship
 *Level 1 Enchantment*
 - **Casting Time**: Action
@@ -34,6 +11,27 @@ Target a Beast that you can see within range. The target must succeed on a WIS S
 **Using a Higher-Level Spell Slot.** You can target one additional Beast for each spell slot level above 1.
 - **Classes**: Bard, Druid, Ranger
 
+### Armor of Agathys
+*Level 1 Abjuration*
+- **Casting Time**: Bonus Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: 1 hour
+Protective magical frost surrounds you. You gain 5 Temporary HP. If a creature hits you with a melee Attack Roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary HP.
+**Using a Higher-Level Spell Slot.** The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
+- **Classes**: Warlock
+
+### Arms of Hadar
+*Level 1 Conjuration*
+- **Casting Time**: Action
+- **Range**: Self, Radius 2 *(3m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
+Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a radius 2 *(3m)* makes a STR Save. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
+- **Classes**: Warlock
+
+# Spells B
 ### Bane
 *Level 1 Enchantment*
 - **Casting Time**: Action
@@ -45,6 +43,16 @@ Up to three creatures of your choice that you can see within range must each mak
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Warlock
+
+### Beacon of Valor
+*Level 1 Enchantment*
+- **Casting Time**: Bonus Action
+- **Range**: 6 *(9m)*
+- **Components**: V, S
+- **Duration**: 1 round
+You let out a defiant cry, bolstering your nearby allies.
+Each other friendly creature within range that can see you gains advantage on the first attack or Save it makes before the end of your next turn.
+- **Classes**: Paladin
 
 ### Bless
 *Level 1 Enchantment*
@@ -58,6 +66,7 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Cleric, Paladin
 
+# Spells C
 ### Ceremony
 *Level 1 Abjuration*
 - **Casting Time**: 1 hour or Ritual
@@ -105,6 +114,18 @@ You speak a one-word command to a creature you can see within range. The target 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Paladin
 
+### Compelled Duel
+*Level 1 Enchantment*
+- **Casting Time**: Bonus Action
+- **Range**: 6 *(9m)*
+- **Components**: V
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
+
+You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 6 *(9m)* away from you.
+
+The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 6 *(9m)* away from the target.
+- **Classes**: Paladin
+
 ### Comprehend Languages
 *Level 1 Divination*
 - **Casting Time**: Action or Ritual
@@ -137,6 +158,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 **Using a Higher-Level Spell Slot.** The healing increases by 2d8 for each spell slot level above 1.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 
+# Spells D
 ### Detect Evil and Good
 *Level 1 Divination*
 - **Casting Time**: Action
@@ -171,6 +193,26 @@ For the duration, you sense the location of poisons, poisonous or venomous creat
 The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sheet of lead.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 
+### Divine Favor
+*Level 1 Transmutation*
+- **Casting Time**: Bonus Action
+- **Range**: Self
+- **Components**: V, S
+- **Duration**: 1 minute
+
+Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
+- **Classes**: Paladin
+
+# Spells E
+### Eldritch Blast
+*Evocation Cantrip*
+- **Casting Time**: Action
+- **Range**: 24 *(36m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
+You hurl a beam of crackling energy. Ranged Spell Attack -> 1d10 Force damage.
+- **Classes**: Warlock
+
 ### Entangle
 *Level 1 Conjuration*
 - **Casting Time**: Action
@@ -193,6 +235,7 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 
+# Spells F
 ### Faerie Fire
 *Level 1 Evocation*
 - **Casting Time**: Action
@@ -217,6 +260,7 @@ You create a radius 4 *(6m)* Sphere of fog centered on a point within range. The
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 4 *(6m)* for each spell slot level above 1.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
 
+# Spells G
 ### Goodberry
 *Level 1 Conjuration*
 - **Casting Time**: Action
@@ -229,6 +273,26 @@ Ten berries appear in your hand and are infused with magic for the duration. A c
 Uneaten berries disappear when the spell ends.
 - **Classes**: Druid, Ranger
 
+### Guidance
+*Divination Cantrip*
+- **Casting Time**: Action
+- **Range**: Touch
+- **Components**: V, S
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
+- **Classes**: Artificer, Cleric, Druid
+# L0
+### Light
+*Evocation Cantrip*
+- **Casting Time**: Action
+- **Range**: Touch
+- **Components**: V
+- **Duration**: 1 hour
+You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a radius 4 *(6m)* and Dim Light for an additional range of 4. The light can be colored as you like.
+Covering the object with something opaque blocks the light. The spell ends if you cast it again.
+- **Classes**: Artificer, Bard, Cleric, Sorcerer, Wizard
+
+# Spells H
 ### Healing Word
 *Level 1 Abjuration*
 - **Casting Time**: Bonus Action
@@ -238,6 +302,16 @@ Uneaten berries disappear when the spell ends.
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 **Using a Higher-Level Spell Slot.** The healing increases by 2d4 for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Druid
+
+### Hellish Rebuke
+*Level 1 Evocation*
+- **Casting Time**: Reaction, which you take in response to taking damage from a creature that you can see within range 12 *(18m)* of yourself
+- **Range**: 60 feet
+- **Components**: V, S
+- **Duration**: Instantaneous
+The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
+- **Classes**: Warlock
 
 ### Heroism
 *Level 1 Enchantment*
@@ -251,6 +325,19 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Paladin
 
+### Hex
+*Level 1 Enchantment*
+- **Casting Time**: Bonus Action
+- **Range**: 18 *(27m)*
+- **Components**: V, S
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an Attack Roll. Also, choose one Ability when you cast the spell. The target has Disadvantage on Ability Checks made with the chosen Ability.
+If the target drops to 0 HP before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
+**Using a Higher-Level Spell Slot.** Your [Concentration](conditions.md#concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
+- **Classes**: Warlock
+
+
+# Spells I
 ### Ice Knife
 *Level 1 Conjuration*
 - **Casting Time**: Action
@@ -277,6 +364,7 @@ If the spell is dispelled, the original script and the illusion both disappear.
 A creature that has Truesight can read the hidden message.
 - **Classes**: Bard, Warlock, Wizard
 
+# Spells J
 ### Jump
 *Level 1 Transmutation*
 - **Casting Time**: Bonus Action
@@ -289,6 +377,7 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
 
+# Spells L
 ### Longstrider
 *Level 1 Transmutation*
 - **Casting Time**: Action
@@ -301,6 +390,7 @@ You touch a creature. The target's Speed increases by 2 *(3m)* until the spell e
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Artificer, Bard, Druid, Ranger, Wizard
 
+# Spells P
 ### Protection from Evil and Good
 *Level 1 Abjuration*
 - **Casting Time**: Action
@@ -320,6 +410,7 @@ Until the spell ends, one willing creature you touch is protected against creatu
 You remove poison and rot from nonmagical food and drink in a radius 1 Sphere centered on a point within range.
 - **Classes**: Artificer, Cleric, Druid, Paladin
 
+# Spells S
 ### Sanctuary
 Level 1 Abjuration
 - **Casting Time**: Bonus Action
@@ -339,111 +430,6 @@ The spell ends if the warded creature makes an Attack Roll, casts a spell, or de
 
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 - **Classes**: Cleric, Paladin
-
-### Speak with Animals
-*Level 1 Divination*
-- **Casting Time**: Action or Ritual
-- **Range**: Self
-- **Components**: V, S
-- **Duration**: 10 minutes
-For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
-Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
-- **Classes**: Bard, Druid, Ranger, Warlock
-
-### Tasha's Hideous Laughter
-*Level 1 Enchantment*
-- **Casting Time**: Action
-- **Range**: 30 feet
-- **Components**: V, S
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-
-One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it becomes [Prone](conditions.md#prone) and [Incapacitated](conditions.md#incapacitated) for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [Prone](conditions.md#prone) condition on itself.
-
-At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
-
-**Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level about 1.
-- **Classes**: Bard, Warlock, Wizard
-
-### Thunderwave
-*Level 1 Evocation*
-- **Casting Time**: Action
-- **Range**: Self, size 3 *(4.5m)* Cube
-- **Components**: V, S
-- **Duration**: Instantaneous
-
-You unleash a wave of thunderous energy. Each creature in a size 3 *(4.5m)* Cube originating from you makes a CON Save. On a failed save, a creature takes 2d8 Thunder damage and is pushed 2 *(3m)* away from you. On a successful save, a creature takes half as much damage only.
-
-In addition, unsecured objects that are entirely within the Cube are pushed 2 *(3m)* away from you, and a thunderous boom is audible within 60 *(90m)*.
-
-**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
-- **Classes**: Bard, Druid, Sorcerer, Wizard
-
-### Unseen Servant
-*Level 1 Conjuration*
-- **Casting Time**: Action or Ritual
-- **Range**: 12 *(18m)*
-- **Components**: V, S
-- **Duration**: 1 hour
-
-This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
-
-Once on each of your turns as a Bonus Action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
-
-If you command the servant to perform a task that would move it more than 12 *(18m)* away from you, the spell ends.
-- **Classes**: Bard, Warlock, Wizard
-
-### Witch Bolt
-*Level 1 Evocation*
-- **Casting Time**: Action
-- **Range**: 60 feet
-- **Components**: V, S, M (a twig struck by lightning)
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-
-A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
-
-On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
-
-The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
-
-**Using a Higher-Level Spell Slot.** The initial damage increases by 1d12 for each spell slot level above 1.
-- **Classes**: Sorcerer, Warlock, Wizard
-
-# Paladin
-## Level 1
-
-### Beacon of Valor
-Level 1 Enchantment
-Casting Time: Bonus action
-Range: 6 *(9m)*
-Components: V, S
-Duration: 1 round
-
-You let out a defiant cry, bolstering your nearby allies.
-
-Each other friendly creature within range that can see you gains advantage on the first attack or saving throw it makes before the end of your next turn.
-Classes: Paladin
-
-### Compelled Duel
-*Level 1 Enchantment*
-- **Casting Time**: Bonus Action
-- **Range**: 6 *(9m)*
-- **Components**: V
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-
-You try to compel a creature into a duel. One creature that you can see within range makes a Wisdom saving throw. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 6 *(9m)* away from you.
-
-The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 6 *(9m)* away from the target.
-- **Classes**: Paladin
-
-### Divine Favor
-*Level 1 Transmutation*
-- **Casting Time**: Bonus Action
-- **Range**: Self
-- **Components**: V, S
-- **Duration**: 1 minute
-
-Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
-- **Classes**: Paladin
 
 ### Smite of Autumn
 *Level 1 Evocation*
@@ -485,55 +471,73 @@ The target takes an extra 2d8 Cold or Necrotic damage (your choice) from the att
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
 - **Classes**: Paladin
 
-# Warlock
-## Cantrips
-### Eldritch Blast
-*Evocation Cantrip*
-- **Casting Time**: Action
-- **Range**: 24 *(36m)*
-- **Components**: V, S
-- **Duration**: Instantaneous
-You hurl a beam of crackling energy. Ranged Spell Attack -> 1d10 Force damage.
-- **Classes**: Warlock
-
-## Level 1
-### Armor of Agathys
-*Level 1 Abjuration*
-- **Casting Time**: Bonus Action
+### Speak with Animals
+*Level 1 Divination*
+- **Casting Time**: Action or Ritual
 - **Range**: Self
 - **Components**: V, S
-- **Duration**: 1 hour
-Protective magical frost surrounds you. You gain 5 Temporary HP. If a creature hits you with a melee Attack Roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary HP.
-**Using a Higher-Level Spell Slot.** The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
-- **Classes**: Warlock
+- **Duration**: 10 minutes
+For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
+Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
+- **Classes**: Bard, Druid, Ranger, Warlock
 
-### Arms of Hadar
-*Level 1 Conjuration*
-- **Casting Time**: Action
-- **Range**: Self, Radius 2 *(3m)*
-- **Components**: V, S
-- **Duration**: Instantaneous
-Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a radius 2 *(3m)* makes a STR Save. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
-**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
-- **Classes**: Warlock
-
-### Hellish Rebuke
-*Level 1 Evocation*
-- **Casting Time**: Reaction, which you take in response to taking damage from a creature that you can see within range 12 *(18m)* of yourself
-- **Range**: 60 feet
-- **Components**: V, S
-- **Duration**: Instantaneous
-The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
-**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
-- **Classes**: Warlock
-
-### Hex
+# Spells T
+### Tasha's Hideous Laughter
 *Level 1 Enchantment*
-- **Casting Time**: Bonus Action
-- **Range**: 18 *(27m)*
+- **Casting Time**: Action
+- **Range**: 30 feet
 - **Components**: V, S
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an Attack Roll. Also, choose one Ability when you cast the spell. The target has Disadvantage on Ability Checks made with the chosen Ability.
-If the target drops to 0 HP before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
-**Using a Higher-Level Spell Slot.** Your [Concentration](conditions.md#concentration) can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
-- **Classes**: Warlock
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
+
+One creature of your choice that you can see within range makes a Wisdom saving throw. On a failed save, it becomes [Prone](conditions.md#prone) and [Incapacitated](conditions.md#incapacitated) for the duration. During that time, it laughs uncontrollably if it's capable of laughter, and it can't end the [Prone](conditions.md#prone) condition on itself.
+
+At the end of each of its turns and each time it takes damage, it makes another Wisdom saving throw. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
+
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level about 1.
+- **Classes**: Bard, Warlock, Wizard
+
+### Thunderwave
+*Level 1 Evocation*
+- **Casting Time**: Action
+- **Range**: Self, size 3 *(4.5m)* Cube
+- **Components**: V, S
+- **Duration**: Instantaneous
+
+You unleash a wave of thunderous energy. Each creature in a size 3 *(4.5m)* Cube originating from you makes a CON Save. On a failed save, a creature takes 2d8 Thunder damage and is pushed 2 *(3m)* away from you. On a successful save, a creature takes half as much damage only.
+
+In addition, unsecured objects that are entirely within the Cube are pushed 2 *(3m)* away from you, and a thunderous boom is audible within 60 *(90m)*.
+
+**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
+- **Classes**: Bard, Druid, Sorcerer, Wizard
+
+# Spells U
+### Unseen Servant
+*Level 1 Conjuration*
+- **Casting Time**: Action or Ritual
+- **Range**: 12 *(18m)*
+- **Components**: V, S
+- **Duration**: 1 hour
+
+This spell creates an Invisible, mindless, shapeless, Medium force that performs simple tasks at your command until the spell ends. The servant springs into existence in an unoccupied space on the ground within range. It has AC 10, 1 Hit Point, and a Strength of 2, and it can't attack. If it drops to 0 Hit Points, the spell ends.
+
+Once on each of your turns as a Bonus Action, you can mentally command the servant to move up to 15 feet and interact with an object. The servant can perform simple tasks that a human could do, such as fetching things, cleaning, mending, folding clothes, lighting fires, serving food, and pouring drinks. Once you give the command, the servant performs the task to the best of its ability until it completes the task, then waits for your next command.
+
+If you command the servant to perform a task that would move it more than 12 *(18m)* away from you, the spell ends.
+- **Classes**: Bard, Warlock, Wizard
+
+# Spells W
+### Witch Bolt
+*Level 1 Evocation*
+- **Casting Time**: Action
+- **Range**: 60 feet
+- **Components**: V, S, M (a twig struck by lightning)
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
+
+A beam of crackling energy lances toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against it. On a hit, the target takes 2d12 Lightning damage.
+
+On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Lightning damage to the target automatically, even if the first attack missed.
+
+The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
+
+**Using a Higher-Level Spell Slot.** The initial damage increases by 1d12 for each spell slot level above 1.
+- **Classes**: Sorcerer, Warlock, Wizard

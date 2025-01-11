@@ -36,8 +36,9 @@
     </div>
   </div>
     
-  <script src="tools/json_parser.js"></script>
   <script src="tools/md_parser.js"></script>
+  <script src="tools/csv_parser.js"></script>
+  <script src="tools/json_parser.js"></script>
   <script>
     function setNavPosition()
     {
@@ -321,10 +322,29 @@
       window.addEventListener('paste', (event) => {
         try 
         {
-          let result = convert5EJsonToText(JSON.parse(event.clipboardData.getData('text')));
-          let div = document.createElement('div');
-          div.innerHTML = result;
-          applyCustomDivToView(div);
+          const clipboardData = event.clipboardData.getData('text');
+          if (clipboardData)
+          {
+            let result = null;
+            if (clipboardData.startsWith('{'))
+            {
+              result = convert5EJsonToHtml(JSON.parse(clipboardData));
+            }
+            else
+            {
+              result = convertCsvToHtml(clipboardData);
+            }
+            if (result)
+            {
+              let div = document.createElement('div');
+              div.innerHTML = result;
+              applyCustomDivToView(div);
+            }
+            else
+            {
+              console.log(`No parsing for: ${clipboardData}`);
+            }
+          }
         }
         catch (error) 
         {
