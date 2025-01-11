@@ -12,6 +12,7 @@
   --color-button-0-hover: #7e7359;
   --color-footer-background: #000000;
   --color-footer-foreground: #837b65;
+  --color-inline-box: #698d4b;
 }
 
 *{
@@ -78,6 +79,18 @@ li{
 
 .inline-link:hover{
   background-color: var(--color-button-0-hover);
+}
+
+.inline-link-placeholder{
+  margin-left: 0;
+  border-left: none;
+}
+
+.inline-link-placeholder li{
+  border: 1px solid var(--color-foreground-1);
+  background-color: var(--color-inline-box);
+  border-radius: 15px;
+  padding: 0 8px 0 8px;
 }
 
 .collapsed li{
