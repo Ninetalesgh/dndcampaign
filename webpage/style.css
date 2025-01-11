@@ -325,8 +325,9 @@ small{
 
 .dndcontent td{
   margin: 0px;
-  padding:  0 10px 0 10px;
+  padding:  0 6px 0 6px;
   border: 1px solid black;
+  width:fit-content;
 }
 
 .dndcontent tr{
