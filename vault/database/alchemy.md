@@ -15,7 +15,7 @@ Rogue's Morsel | Salt | Potion of Healing
 
 ## Coatings
 ### Basic Poison
-- **Bonus Action.** *Coat Weapon*: Targets must succeed a DC 11 CON Save or become Poisoned for 2 turns. 
+- **Bonus Action.** *Coat Weapon*: Targets must succeed a DC 11 CON Save or become [Poisoned](conditions.md#poisoned) for 2 turns. 
 
 **Production**:
 *Grind down Bonecap and mix with oil.*
@@ -29,7 +29,7 @@ Bonecap | Vitriol | Basic Poison
 
 ### Alchemist's Fire
 - **Throw.** *Ranged Attack*: range 4/12 *(6m/18m)*, one target.
-  *Hit*: The target must succeed on a DEX Save (DC 8 + your DEX modifier + your PB) or take 1d4 Fire damage and start Burning.
+  *Hit*: The target must succeed on a DEX Save (DC 8 + your DEX modifier + your PB) or take 1d4 Fire damage and start [Burning](conditions.md#burning).
 
 **Production**:
 *Crush Fire Amber to Ash and boil.*
