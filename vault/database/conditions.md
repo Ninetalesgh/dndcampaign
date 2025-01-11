@@ -1,5 +1,5 @@
 
-## Bleeding 
+## Bleeding
   A Bleeding creature loses the specified amount of HP at the beginning of each of its turns.
   The Bleeding condition ends upon regaining any HP.
   As an Action a creature may attempt a DC 12 WIS (Medicine) check to remove Bleeding from a creature.
@@ -50,9 +50,9 @@
   Attacks against you have Advantage.
   Resist all damage, immune to Poison.
   Cease aging and your weight is multiplied by 10. (you are some material like stone or gold)
-## Poisoned 
+## Poisoned
   Disadvantage on Ability Checks and Attack Rolls. 
-## Prone 
+## Prone
   Spend half of your Speed to stand up. (can't if Speed 0)
   Disadvantage on Attack Rolls.
   Attacks against you have Disadvantage, if they are within range 1 they have Advantage instead.
