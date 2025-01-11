@@ -11,24 +11,24 @@
       <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;height:100vh;">
         <div class="navigation" style="width:110px;min-width:90px;height:100vh;">
           <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/game_rules.md')">Rules</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/spells.md')">Spells</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/wildshapes.md')">Wildshapes</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/alchemy.md')">Alchemy</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/game_rules.md')">Rules</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/spells.md')">Spells</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/wildshapes.md')">Wildshapes</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/alchemy.md')">Alchemy</button></li>
           </ul>
           <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/ayra.md')">Ayra</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/kal.md')">Kal</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/kazimir.md')">Kazimir</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/mufi.md')">Mutafa'il</button></li>
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/vault/database/characters/nyari.md')">Nyari</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/ayra.md')">Ayra</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/kal.md')">Kal</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/kazimir.md')">Kazimir</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/mufi.md')">Mutafa'il</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/nyari.md')">Nyari</button></li>
           </ul>
         </div>
       </div>
-      <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:60%;"></div>
+      <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:55%;"></div>
 
-      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:20%;padding:0;height:100vh;">
-        <div class="navigation dndindex" style="width:auto;min-width:100px;flex-basis:20%;"></div>
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:25%;padding:0;height:100vh;">
+        <div class="navigation dndindex" style="width:auto;min-width:100px;"></div>
       </div>
     </div>
   </div>
@@ -87,9 +87,9 @@
     }
     var rootNode = new TreeNode(null);
   
-    function addTreeNodeToIndexView(treeNode, parentElement)
+    function addTreeNodeToIndexViewRecursive(treeNode, parentElement)
     {  
-      parentElement.innerHTML = (treeNode.children.length > 0 ? '- ' : '') + treeNode.name.replace(/^.*(\/[a-zA-Z_0-9]+.md)$/g,'$1');
+      parentElement.innerHTML = (treeNode.children.length > 0 ? '- ' : '') + treeNode.name;//.replace(/^.*(\/[a-zA-Z0-9_]+.md)$/g,'$1');
       if (treeNode.children.length > 0)
       {
         const unorderedList = document.createElement('ul');
@@ -112,13 +112,13 @@
           if (childNode.children.length === 0)
           {
             const a = document.createElement('a');
-            a.href = `#${childNode.name.replace(/\s/g, '_')}`;
+            a.href = `#${childNode.name.toLowerCase().replace(/\s/g, '-')}`;
             listItem.appendChild(a);            
-            addTreeNodeToIndexView(childNode, a);
+            addTreeNodeToIndexViewRecursive(childNode, a);
           }
           else
           {
-            addTreeNodeToIndexView(childNode, listItem);
+            addTreeNodeToIndexViewRecursive(childNode, listItem);
           }
 
           unorderedList.appendChild(listItem);
@@ -141,10 +141,10 @@
       while(element)
       {
         let currentDepth = getHeaderElementDepth(element);
-
+        
         if (currentDepth !== '')
         {
-          // backtrack until we find a lower numbered header
+          // backtrack until we find a lower numbered header          
           while(currentDepth <= getHeaderElementDepth(parentNode.element))
           {
             parentNode = parentNode.parent;
@@ -152,42 +152,96 @@
           
           let childNode = new TreeNode(element);
           parentNode.addChild(childNode);
-          parentNode = childNode;          
+          parentNode = childNode;
+          previousDepth = currentDepth;        
         }
+      
         element = element.nextElementSibling;
       }
     }
 
+    //Only finds top level page nodes
     function getIndexedContentPage(name) { return rootNode.children.find(node => node.name === name); }
+
+
+    function findIndexedContentNodeRecursive(parentNode, name)
+    {
+      let resultNode = null;
+      for (let childNode of parentNode.children)
+      {
+        if (childNode.name.toLowerCase().replaceAll(' ', '-') === name)
+        {
+          return childNode;
+        }
+        else if (childNode.children.length > 0)
+        {
+          const childResultNode = findIndexedContentNodeRecursive(childNode, name);
+          if (childResultNode)
+          {
+            return childResultNode;
+          }
+        }
+      }
+
+      return null;
+    }
+
+    //Searches all indexed pages
+    async function getIndexedContentNode(link)
+    {
+      let resultNode = null;
+      //get link node
+      const match = link.match(/([^(#]+)#([^)\s]+)/);
+      if (match)
+      {
+        await fetchMd(`/${match[1]}`).then(node => {
+          let split = match[2].split('#');
+          let narrowSearchNode = node;
+          console.log(`looking for '${split.join(', ')}' in ${node.name}`);
+          for (let id of split)
+          {
+            narrowSearchNode = findIndexedContentNodeRecursive(narrowSearchNode, id);
+          }
+
+          if (narrowSearchNode !== node)
+          {
+            resultNode = narrowSearchNode;
+          }
+        });
+      }
+
+      return resultNode;
+    }
 
     function indexContent(parentNode, name, content)
     {
-      let exists = getIndexedContentPage(name);
-
-      if (!getIndexedContentPage(name))
+      let node = getIndexedContentPage(name);
+      if (!node)
       {
-        let newNode = new TreeNode(null);
-        newNode.parent = parentNode;
-        newNode.name = name;
-        parentNode.addChild(newNode);
-
-        generateIndexTree(newNode, content);
+        node = new TreeNode(null);
+        node.parent = parentNode;
+        node.name = name;
+        node.element = content;
+        parentNode.addChild(node);
+        generateIndexTree(node, content);
       }
+      return node;
     }
 
     async function fetchMd(relativeMdUrl)
     {
-      console.log('fetch & cache: ' + relativeMdUrl);
-
-      let div = null;
-      await fetchMdAsHtml(relativeMdUrl)
-      .then(data => {
-        div = document.createElement('div');
-        div.innerHTML = data;
-        indexContent(rootNode, relativeMdUrl, div);
-      });
-      
-      return div;
+      let contentNode = getIndexedContentPage(relativeMdUrl);
+      if (!contentNode)
+      {
+        console.log('fetch & cache: ' + relativeMdUrl);
+        await fetchMdAsHtml(relativeMdUrl)
+        .then(data => {
+          let div = document.createElement('div');
+          div.innerHTML = data;
+          contentNode = indexContent(rootNode, relativeMdUrl, div);
+        });
+      }      
+      return contentNode;
     }
     
     function applyNodeToView(node)
@@ -197,7 +251,7 @@
           
       let index = document.querySelector('.dndindex');
       index.innerHTML = '';
-      addTreeNodeToIndexView(node, index);
+      addTreeNodeToIndexViewRecursive(node, index);
     }
 
     function applyCustomDivToView(div)
@@ -210,52 +264,43 @@
 
     function setContentPage(relativeMdUrl)
     {
-      let contentNode = getIndexedContentPage(relativeMdUrl);
+      fetchMd(relativeMdUrl).then((node) => {
+            applyNodeToView(node);
+        });
+    }
 
-      if (contentNode)
+    function toggleInlineLinkContent(inlineLink)
+    {
+      let ulElement = inlineLink.nextElementSibling;
+      ulElement.classList.toggle('collapsed');
+      if (ulElement.children.length === 0)
       {
-        applyNodeToView(contentNode);
-      }
-      else
-      {
-        fetchMd(relativeMdUrl).then((div) => {
-          let contentNode = getIndexedContentPage(relativeMdUrl);
-          if (contentNode)
+        getIndexedContentNode(inlineLink.dataset.url).then((node) => {
+          if (node)
           {
-            contentNode.element = div;
-          }
-          else
-          {
-            console.log("huh 1");
-          }
-        }).then(() => {
-          let contentNode = getIndexedContentPage(relativeMdUrl);
-          if (contentNode)
-          {
-            applyNodeToView(contentNode);
-          }
-          else
-          {
-            console.log("huh 2");
+            console.log(`found '${node.name}'`);
+            let li = document.createElement('li');
+            li.innerHTML = node.element.nextElementSibling.innerHTML;
+            ulElement.appendChild(li);
           }
         });
       }
     }
- 
+    
     // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);
-
-      let contentPageUrl = '/vault/database/game_rules.md';
+      
+      let contentPageUrl = '/game_rules.md';
       for (const [key, value] of urlParams)
       {
         if (key === 'page')
         {
-          contentPageUrl = `/vault/database/${value}.md`
+          contentPageUrl = `/${value}.md`
         }
       }
 
-      setContentPage(contentPageUrl);
+      setContentPage(contentPageUrl);      
       
       window.addEventListener('paste', (event) => {
         try 
@@ -273,27 +318,9 @@
 
         event.preventDefault();
       }); 
-
-      // let index = document.querySelector('.dndindex');
-      // // console.log(index);
-      // index.onclick = function() {
-      //   console.log('test');
-      // };
-      
      
 
       window.addEventListener('scroll', setNavPosition);
-      // window.addEventListener('scroll', (e) => {
-      //   const x = event.clientX || 0;
-      //   const y = event.clientY || 0;
-
-      //   const hoveredElement = document.elementFromPoint(x,y);
-
-      //   //console.log(event);
-      //  // console.log(`${x} -- ${y}`);
-      //   event.stopPropagation();
-      // });
-
       window.addEventListener('resize', setNavPosition);
       window.addEventListener('load', () => 
       {
