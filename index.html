@@ -11,7 +11,6 @@
       <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;height:100vh;">
         <div class="navigation" style="width:110px;min-width:90px;height:100vh;">
           <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
-            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/game_rules.md')">Rules</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/spells.md')">Spells</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/wildshapes.md')">Wildshapes</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/alchemy.md')">Alchemy</button></li>
@@ -22,6 +21,10 @@
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/kazimir.md')">Kazimir</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/mufi.md')">Mutafa'il</button></li>
             <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/nyari.md')">Nyari</button></li>
+          </ul>
+          <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/game_rules.md')">Rules</button></li>
+            <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/conditions.md')">Conditions</button></li>
           </ul>
         </div>
       </div>
@@ -274,23 +277,28 @@
       let ulElement = inlineLink.parentElement;
       while (ulElement && ulElement.tagName !== "P")
       {
-        console.log(ulElement);
         ulElement = ulElement.parentElement;
       } 
       ulElement = ulElement.nextElementSibling;
-      ulElement.classList.toggle('collapsed');
-      if (ulElement.children.length === 0)
+      if (ulElement.dataset.link && ulElement.dataset.link === inlineLink.dataset.url)
+      {
+        ulElement.classList.toggle('collapsed');    
+      }
+      else
       {
         getIndexedContentNode(inlineLink.dataset.url).then((node) => {
           if (node)
           {
             console.log(`found '${node.name}'`);
+            ulElement.setAttribute('data-link', inlineLink.dataset.url);
             let li = document.createElement('li');
             li.innerHTML = node.element.nextElementSibling.outerHTML;
-            ulElement.appendChild(li);
+            ulElement.innerHTML = li.outerHTML;
+            //ulElement.appendChild(li);
+            ulElement.classList.toggle('collapsed', false);    
           }
         });
-      }
+      }      
     }
     
     // EXECUTION

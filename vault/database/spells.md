@@ -444,7 +444,7 @@ The spell ends if you make an attack roll against a creature other than the targ
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 
 ### Smite of Autumn
-  *Level 1 Evocation*
+*Level 1 Evocation*
 - **Casting Time**: Bonus Action, after a successful Melee Attack 
 - **Range**: Self
 - **Components**: V
@@ -453,7 +453,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Smite of Spring
-  *Level 1 Evocation*
+*Level 1 Evocation*
 - **Casting Time**: Bonus Action, after a successful Melee Attack 
 - **Range**: Self
 - **Components**: V
@@ -462,7 +462,7 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 
 ### Smite of Summer
-  *Level 1 Evocation*
+*Level 1 Evocation*
 - **Casting Time**: Bonus Action, after a successful Melee Attack 
 - **Range**: Self
 - **Components**: V
@@ -471,7 +471,7 @@ The target takes an extra 1d6 Fire damage from the attack. At the start of each 
 **Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
 
 ### Smite of Winter
-  *Level 1 Evocation*
+*Level 1 Evocation*
 - **Casting Time**: Bonus Action, after a successful Melee Attack 
 - **Range**: Self
 - **Components**: V
