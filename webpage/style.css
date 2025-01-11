@@ -64,9 +64,13 @@ li{
 
 .inline-link{
   width:fit-content;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
   margin-left: 0px;
   border-radius: 15px;
-  padding: 0 3px 0 3px;
+  display: inline-block;
+  border:none;
+  padding: 0 6px 0 6px;
   background-color: var(--color-button-0);
   cursor: pointer;
   transition: background-color 0.25s ease;

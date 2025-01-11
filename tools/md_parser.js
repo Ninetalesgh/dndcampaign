@@ -17,9 +17,17 @@
       return `</div><${resultH} id="${line.toLowerCase().replace(/\s/g, '-')}">${line}</${resultH}><div>`;
     }
 
-    function reformatLink(name, link)
+    function reformatLink2(name, link)
     {
-      return `<p class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</p><ul class="collapsed"></ul>`;
+      return `<button class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</button>`;
+    }
+
+    function reformatLinks(line)
+    {
+      line = line.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink2(g1, g2));
+
+
+      return line;
     }
 
     function parseMd(input)
@@ -53,7 +61,7 @@
         lines[i] = lines[i].replace(/\*([^ ][^*]*[^ ])\*/g, "<i>$1</i>");
   
         //links    
-        lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
+        lines[i] = reformatLinks(lines[i]);
 
         //paragraph
         let indent = 0;
@@ -63,7 +71,7 @@
           indent += 10;
         }
 
-        lines[i] = '<p style="margin-left:'+ indent.toString() + 'px;">' + lines[i] + '</p>';
+        lines[i] = '<p style="margin-left:'+ indent.toString() + 'px;">' + lines[i] + '</p><ul class="collapsed inline-link-placeholder"></ul>';
       }
       lines.push('</div>');
 
