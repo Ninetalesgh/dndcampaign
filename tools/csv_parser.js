@@ -40,7 +40,7 @@ function addTags(string)
   taggedString = taggedString.replace(regex, (m, g) => `is [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
   regex = new RegExp(`has\\sthe\\s${conditionsGroup}\\sor\\s${conditionsGroup}\\scondition`, 'gmi');
   taggedString = taggedString.replace(regex, (m, g1, g2) => `is [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')}) or [${g2}](conditions.md#${g2.toLowerCase().replace(' ', '-')})`);
-  regex = new RegExp(`\\s${conditionsGroup}(\\s|,|\.)`, 'gmi');
+  regex = new RegExp(`\\b${conditionsGroup}\\b`, 'gmi');
   taggedString = taggedString.replace(regex, (m, g1, g2) => ` [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')})${g2}`);
   return taggedString;
 }
