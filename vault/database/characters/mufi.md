@@ -2,14 +2,15 @@
 
 - *Hit Point Die:* **D8**
 
-☐ STR (**Save -1**) | ☑ DEX (**Save +5**) | ☐ CON (**Save +1**) 
+☐ STR (Save -1) | ☑ **DEX (Save +5)** | ☐ CON (Save +1) 
  :-- | :-- | :-- 
 8 (-1) | 17 (+3) | 13 (+1) 
 ☐ Athletics +1 | ☑☑ **Acrobatics +7** | . 
 . | ☑☑ **Sleight of Hand +7**| . 
 . | ☑ **Stealth +5** | . 
 
-☑ INT (**Save +5**) | ☐ WIS (**Save +1**) | ☐ CHA (**Save -1**)
+
+☑ **INT (Save +5)** | ☐ WIS (Save +1) | ☐ CHA (Save -1)
 :-- | :-- | :-- 
 16 (+3) | 12 (+1) | 8 (-1) 
 ☑ **Arcana +5** | ☐ Animal Handling +1 | ☐ Deception -1
