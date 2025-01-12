@@ -1,18 +1,19 @@
 # Stats
-
 - *Hit Point Die:* **D8**
+- *Speed:* **6**
 
-☐ STR (Save -1) | ☑ **DEX (Save +5)** | ☐ CON (Save +1) 
+STR 8 (-1) | DEX 17 (+3) | CON 13 (+1) 
  :-- | :-- | :-- 
-8 (-1) | 17 (+3) | 13 (+1) 
+☐ STR Save -1 | ☑ **DEX Save +5** | ☐ CON Save +1
 ☐ Athletics +1 | ☑☑ **Acrobatics +7** | . 
-. | ☑☑ **Sleight of Hand +7**| . 
+. | ☑☑ **Sleight of Hand +7** | . 
 . | ☑ **Stealth +5** | . 
 
 
-☑ **INT (Save +5)** | ☐ WIS (Save +1) | ☐ CHA (Save -1)
+
+INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1) 
 :-- | :-- | :-- 
-16 (+3) | 12 (+1) | 8 (-1) 
+☑ **INT Save +5** | ☐ WIS Save +1 | ☐ CHA Save -1
 ☑ **Arcana +5** | ☐ Animal Handling +1 | ☐ Deception -1
 ☐ History +3 | ☐ Insight +1 | ☐ Intimidation -1
 ☑ **Investigation +5** | ☐ Medicine +1 | ☐ Performance -3

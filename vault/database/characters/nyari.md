@@ -1,12 +1,32 @@
-## Character Info
+# Stats
 
-[TODO]
+- *Hit Point Die:* **D10**
+- *Speed:* **7**
 
-## Feats
 
-[TODO]
+STR 17 (+3) | DEX 8 (-1) | CON 14 (+2) 
+ :-- | :-- | :-- 
+☐ STR Save +3 | ☐ DEX Save -1 | ☐ CON Save +2 
+☑ **Athletics +5** | ☐ Acrobatics -1 | . 
+. | ☐ Sleight of Hand -1 | . 
+. | ☐ Stealth -1 | . 
 
-## Prepared Spells
+
+
+INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
+:-- | :-- | :-- 
+☐ INT Save +0 | ☑ **WIS Save +2** | ☑ **CHA Save +5**
+☐ Arcana +5 | ☐ Animal Handling +1 | ☐ Deception -1
+☐ History +3 | ☐ Insight +1 | ☐ Intimidation -1
+☐ Investigation +5 | ☐ Medicine +1 | ☐ Performance -3
+☑ **Nature +3** | ☐ Perception +3 | ☐ Persuasion -1
+☑ **Religion +3** | ☑ **Survival +1** | .
+
+
+# Feats
+
+
+# Prepared Spells
 
 - **Level 1**
   [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink)
