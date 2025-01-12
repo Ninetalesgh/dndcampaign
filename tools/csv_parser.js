@@ -8,7 +8,6 @@ function convertFeetInt(feetValueInt)
 
 function convertStringToCustomFormat(string)
 {
-  //custom
   let strippedString = string.replace(/\ssaving\sthrow/gm, ' Save');
   strippedString = strippedString.replace(/\sstrength/gmi, ' STR');
   strippedString = strippedString.replace(/\sdexterity/gmi, ' DEX');
@@ -17,14 +16,34 @@ function convertStringToCustomFormat(string)
   strippedString = strippedString.replace(/\swisdom/gmi, ' WIS');
   strippedString = strippedString.replace(/\scharism/gmi, ' CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./gm, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
-  strippedString = strippedString.replace(/([0-9]+)\sfeet/gm, (m, g) => (convertFeetInt(g)));
   strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)?(?:radius)?(?:\s|-)(sphere|circle|emanation|radius)/gmi, (m, g1, g2) => g2.toLowerCase() === 'radius' ? `a radius ${convertFeetInt(g1)} sphere` : `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)?(?:radius)?(?:\s|-)(sphere|circle|emanation|radius|diameter)/gmi, (m, g1, g2) => {
+    if (g2.toLowerCase() === 'radius') { return `a radius ${convertFeetInt(g1)} sphere` }
+    else if (g2.toLowerCase() === 'diameter') { return `a diameter ${convertFeetInt(g1)}` }
+    else { return `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`}});
   strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/([0-9]+) ft./gm, (m, g) => (convertFeetInt(g)));
+  strippedString = strippedString.replace(/([0-9]+)(?:-|\s)foot(?:\s|-)(high|tall|long|wide)/gmi, (m, g1, g2) => {
+    if (g2.toLowerCase() === 'long'){ `length ${convertFeetInt(g1)}`}
+    else if (g2.toLowerCase() === 'wide'){ `width ${convertFeetInt(g1)}`}
+    else { return `height ${convertFeetInt(g1)}`; }});
+  strippedString = strippedString.replace(/1\s(?:ft.|foot)/gm, (m) => '30cm');
+  strippedString = strippedString.replace(/([0-9]+)\s(?:ft.|feet)/gm, (m, g) => (convertFeetInt(g)));
   return strippedString;
 }
 
+function addTags(string)
+{
+  const conditionsGroup = '(Bleeding|Blinded|Burning|Charmed|Choking|Deafened|Frightened|Grappled|Incapacitated|Invisible|Paralyzed|Petrified|Poisoned|Prone|Restrained|Stunned|Unconscious)'; 
+  let regex = new RegExp(`have\\sthe\\s${conditionsGroup}\\scondition`, 'gmi');
+  let taggedString = string.replace(regex, (m, g) => `be [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  regex = new RegExp(`has\\sthe\\s${conditionsGroup}\\scondition`, 'gmi');
+  taggedString = taggedString.replace(regex, (m, g) => `is [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  regex = new RegExp(`has\\sthe\\s${conditionsGroup}\\sor\\s${conditionsGroup}\\scondition`, 'gmi');
+  taggedString = taggedString.replace(regex, (m, g1, g2) => `is [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')}) or [${g2}](conditions.md#${g2.toLowerCase().replace(' ', '-')})`);
+  regex = new RegExp(`\\s${conditionsGroup}(\\s|,|\.)`, 'gmi');
+  taggedString = taggedString.replace(regex, (m, g1, g2) => ` [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')})${g2}`);
+  return taggedString;
+}
 
 //Column indices expect to be in this order:
 // Index 0: "Name"
@@ -37,9 +56,17 @@ function convertStringToCustomFormat(string)
 // Index 7: "Text"
 // Index 8: "At Higher Levels"
 // Index 9: "Classes"
+// Index 10: "Source"
+// Index 11: "Page"
+
 function convertCsvPartsToSpell(lineParts, columns)
 {
   let output = new Array();
+
+  if (lineParts.length < 12)
+  {
+    return "";
+  }
 
   // Name
   output.push(`### ${lineParts[columns[0]]}`);
@@ -88,7 +115,7 @@ function convertCsvPartsToSpell(lineParts, columns)
 
   // Text
   {
-    const descriptionString = convertStringToCustomFormat(lineParts[columns[7]].replace(/have\sthe\s(Paralyzed|Charmed|Restrained|Frightened|Prone|Stunned)\scondition/gmi, (m, g) => `be [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`));
+    const descriptionString = addTags(convertStringToCustomFormat(lineParts[columns[7]]));
     output.push(descriptionString);
   }
 
@@ -115,6 +142,13 @@ function convertCsvPartsToSpell(lineParts, columns)
     output.push(classesString);
   }
 
+  // Source
+  {
+    const pageString = lineParts[columns[11]] === 'undefined' ? '' : `, page ${lineParts[columns[11]]}`;
+    const sourceString = `*(Source: ${lineParts[columns[10]]}${pageString})*`;
+    output.push(sourceString);
+  }
+
   return `${output.join('\n')}\n`;
 }
 
@@ -125,7 +159,7 @@ function convertCsvToHtml(csvString)
 
   let lines = csvString.split('\n');
 
-  let columns = new Array(10);
+  let columns = new Array(12);
   {
     let parts = lines[0].slice(1, -1).split('","');
     columns[0] = parts.indexOf('Name');
@@ -138,13 +172,18 @@ function convertCsvToHtml(csvString)
     columns[7] = parts.indexOf('Text');
     columns[8] = parts.indexOf('At Higher Levels');
     columns[9] = parts.indexOf('Classes');
+    columns[10] = parts.indexOf('Source');
+    columns[11] = parts.indexOf('Page');
   }
-
-  console.log(columns);
-
+  let currentLetter = '';
   for (let i = 1; i < lines.length; ++i)
   {
     let elements = lines[i].slice(1, -1).split('","');
+    if (elements[0][0] > currentLetter)
+    {
+      currentLetter = elements[0][0];
+      mdText.push(`# Spells ${currentLetter}`)
+    }
     mdText.push(convertCsvPartsToSpell(elements, columns));
   }
 
