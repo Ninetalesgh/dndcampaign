@@ -153,11 +153,44 @@ function convertCsvPartsToSpell(lineParts, columns)
 }
 
 
+function convertCsvToSpellLinks(csvString)
+{
+  const lines = csvString.split('\n');
+  let spellLevels = new Array(10);
+  let levelColumn = 3;
+  for (let i = 1; i < lines.length; ++i)
+  {
+      let elements = lines[i].slice(1, -1).split('","');
+      if (elements.length < 3) { continue; }
+
+      let level = elements[levelColumn] === 'Cantrip' ? 0 : parseInt(elements[levelColumn][0]);
+      if (!spellLevels[level])
+      {
+        spellLevels[level] = new Array(); 
+        spellLevels[level].push(level ? `## Level ${level}` : '## Cantrips'); 
+      }
+
+      spellLevels[level].push(`[${elements[0]}](spells.md#spells-${elements[0][0].toLowerCase()}#${elements[0].toLowerCase().replace(' ', '-')})`);
+  }
+  let result = new Array();
+
+  spellLevels.forEach(levelEntry => {
+    if (levelEntry)
+    {
+      levelEntry.forEach(levelSpellEntry => {
+        result.push(levelSpellEntry);
+      });
+    }
+  });
+
+  return result.join('\n');
+}
+
 function convertCsvToHtml(csvString)
 {
   let mdText = new Array();
 
-  let lines = csvString.split('\n');
+  const lines = csvString.split('\n');
 
   let columns = new Array(12);
   {
@@ -175,18 +208,25 @@ function convertCsvToHtml(csvString)
     columns[10] = parts.indexOf('Source');
     columns[11] = parts.indexOf('Page');
   }
-  let currentLetter = '';
-  for (let i = 1; i < lines.length; ++i)
+  if (columns[0] === -1 && columns[1] === -1)
   {
-    let elements = lines[i].slice(1, -1).split('","');
-    if (elements[0][0] > currentLetter)
-    {
-      currentLetter = elements[0][0];
-      mdText.push(`# Spells ${currentLetter}`)
-    }
-    mdText.push(convertCsvPartsToSpell(elements, columns));
+    mdText.push(convertCsvToSpellLinks(csvString));
   }
-
+  else
+  {
+    let currentLetter = '';
+    for (let i = 1; i < lines.length; ++i)
+    {
+      let elements = lines[i].slice(1, -1).split('","');
+      if (elements[0][0] > currentLetter)
+        {
+          currentLetter = elements[0][0];
+          mdText.push(`# Spells ${currentLetter}`)
+        }
+        mdText.push(convertCsvPartsToSpell(elements, columns));
+      }    
+  }
+      
   let result = mdText.join('\n');
   navigator.clipboard.writeText(result).then(() => {
     console.log("copied md to clipboard!");
