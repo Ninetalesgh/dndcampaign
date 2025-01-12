@@ -17,7 +17,7 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 - **Components**: S
 - **Duration**: 1 round
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
 *(Source: XGE, page 150)*
 
@@ -49,7 +49,7 @@ You create an acidic bubble at a point within range, where it explodes in a radi
 - **Components**: V, S
 - **Duration**: 1 round
 The target’s impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and has the Dazed condition until the end of its next turn.
-At Higher Levels. The damage increases by 2d8 for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -60,7 +60,7 @@ At Higher Levels. The damage increases by 2d8 for every slot level above 3.
 - **Components**: V, S
 - **Duration**: Instantaneous
 A line of roaring flame 6 *(9m)* long and 1 *(1.5m)* wide emanates from you in a direction you choose. Each creature in the line must make a DEX Save. A creature takes 3d8 fire damage on a failed save, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 - **Classes**: Sorcerer, Wizard
 *(Source: XGE, page 150)*
 
@@ -82,7 +82,7 @@ Choose up to three creatures within range. Each target's Hit Point maximum and c
 - **Components**: S
 - **Duration**: 24 hours
 You create a spectral globe around the head of a willing creature you can see within range. The globe is filled with fresh air that lasts until the spell ends. If the creature has more than one head, the globe of air appears around only one of its heads (which is all the creature needs to avoid suffocation, assuming that all its heads share the same respiratory system).
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, you can create two additional globes of fresh air for each slot level above 2nd.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
 *(Source: AAG, page 22)*
 
@@ -227,7 +227,7 @@ With a ritual that takes 10 minutes, you can designate additional friendly creat
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You begin to exude lashing shadowy tendrils of pure antilife energy to a distance of 4 *(6m)*. When a living creature starts its turn within this area, you may force it to succeed on a CON Save or take 5d6 Necrotic damage.
 Creatures in the area fail death saves automatically, instead of rolling, and cannot be stabilized without regaining at least 1 hit point.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Necrotic damage increases by 2d6 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Necrotic damage increases by 2d6 for each slot level above 4.
 - **Classes**: Cleric, Sorcerer, Warlock
 *(Source: CS)*
 
@@ -250,7 +250,7 @@ After that, the shard persists but loses its arcane potency.
 - **Components**: V, S
 - **Duration**: Instantaneous
 You whisper magical words that antagonize one creature of your choice within range. The target must make a WIS Save. On a failed save, the target takes 4d4 psychic damage and must immediately use its reaction to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its reaction is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
 - **Classes**: 
 *(Source: BMT, page 50)*
 
@@ -388,7 +388,7 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a ra
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 The billowing flames of a dragon blast from your feet, granting you explosive speed. For the duration, your speed increases by 4 *(6m)* and moving doesn't provoke opportunity attacks.
 When you move within 1 *(1.5m)* of a creature or an object that isn't being worn or carried, it takes 1d6 fire damage from your trail of heat. A creature or object can take this damage only once during a turn.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, increase your speed by 1 *(1.5m)* for each spell slot level above 3rd. The spell deals an additional 1d6 fire damage for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, increase your speed by 1 *(1.5m)* for each spell slot level above 3rd. The spell deals an additional 1d6 fire damage for each slot level above 3rd.
 - **Classes**: Artificer, Ranger, Sorcerer, Wizard
 *(Source: FTD, page 19)*
 
@@ -502,7 +502,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 - **Components**: V
 - **Duration**: Instantaneous
 You force a creature you can see within 6 *(9m)* to make a CHAa Save. On a failed save, you and the creature teleport to switch places with one another, and the creature becomes the new target of the triggering spell.
-At Higher Levels. When you cast this spell using a spell slot of Level 8 or higher, the range increases by 6 *(9m)* for each slot level above 7.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the range increases by 6 *(9m)* for each slot level above 7.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -730,7 +730,7 @@ The target must succeed on a CON Save or take 10d8 Slashing damage and be [Poiso
 A pool of black sludge bubbles up from the earth in a radius 3 *(4.5m)* circle within range, making the area Difficult Terrain for the duration.
 Each creature that enters the area for the first time on a turn or that starts its turn there must make a STR Saving Throw. On a Failure, the creature takes 6d6 Poison damage and is [Restrained](conditions.md#restrained) until the beginning of its next turn while in the area. The escape DC is equal to your spell save DC.
 On a Success, the creature takes half damage.
-At Higher Levels. The radius of the spell’s area increases by 1 *(1.5m)* for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The radius of the spell’s area increases by 1 *(1.5m)* for every slot level above 4.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -882,7 +882,7 @@ If you don’t issue any commands to them, they defend themselves from hostile c
 - **Duration**: Instantaneous
 You call down a bolt of baleful red lightning from above a creature you can see within 24 *(36m)*. The creature must succeed on a DEX Save or take 14 (4d6) lightning plus 11 (2d10) Necrotic damage, or half as much on a success.
 A creature reduced to 0 Hit Points by this damage is unaffected by the first source of healing it receives before the beginning of its next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage dealt by it increases by 1d10 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage dealt by it increases by 1d10 for each slot level above 3.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -938,7 +938,7 @@ You tug at a creature through the connection of its spilt blood. If the creature
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You attempt to wrench control of the body of a creature you can see within range by manipulating its blood. The creature must succeed on a CON Save or have its movement and attacks controlled by you for the next minute.
 At the beginning of each of the creature’s turns, the creature takes 11 (2d10) Necrotic damage, then moves up to its speed and takes the attack action, or uses its multiattack if it has one. The affected creature controls its own Bonus Action and Reaction, and repeats this Save at the end of each of its turns, ending the effect on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the damage increases by 2d10 for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the damage increases by 2d10 for each slot level above 6.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -972,7 +972,7 @@ You follow a teleporting creature through the trail of its astral conduit, arriv
 You rocket up to 3 *(4.5m)* in a straight line, then a line of solid fire flashes out from your palm in a length 3 *(4.5m)* line that is 1 *(1.5m)* wide.
 Each creature in the area must succeed on a STR Save or take 3d6 fire plus 3d6 piercing damage and be pushed 3 *(4.5m)* away, or take half as much damage and not be pushed away on a success.
 If you have fewer than half your maximum Hit Points, each affected creature subtracts 1d4 from the result of its Save.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the distance of your dash and length of the line increase by 1 *(1.5m)* for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the distance of your dash and length of the line increase by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -1005,7 +1005,7 @@ Your body becomes blurred. For the duration, any creature has Disadvantage on at
 - **Duration**: Instantaneous
 You breathe forth a torrent of boiling water in a length 6 *(9m)* cone. Each creature in the area must succeed on a CON Save or take 12d6 Fire damage, or half as much damage on a successful one.
 Each Medium or smaller creature in the area is pushed up to 3 *(4.5m)* away.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the Fire damage increases by 2d6 for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Fire damage increases by 2d6 for each slot level above 6.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -1018,7 +1018,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 7 or high
 You cause up to six pillars of stone to burst from places on the ground that you can see within range. Each pillar is a cylinder that has a diameter of 1 *(1.5m)* and a height of up to 6 *(9m)*. The ground where a pillar appears must be wide enough for its diameter, and you can target the ground under a creature if that creature is Medium or smaller. Each pillar has AC 5 and 30 hit points. When reduced to 0 hit points, a pillar crumbles into rubble, which creates an area of difficult terrain with a radius 2 *(3m)* sphere that lasts until the rubble is cleared. Eacha diameter 1 *(1.5m)* portion of the area requires at least 1 minute to clear by hand.
 If a pillar is created under a creature, that creature must succeed on a DEX Save or be lifted by the pillar. A creature can choose to fail the save.
 If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes 6d6 bludgeoning damage and is [restrained](conditions.md#restrained), pinched between the pillar and the obstacle. The [restrained](conditions.md#restrained) creature can use an action to make a STR or DEX check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [restrained](conditions.md#restrained) and must either move off the pillar or fall off it.
-At Higher Levels. When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 - **Classes**: Druid
 *(Source: XGE, page 150)*
 
@@ -1041,7 +1041,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 - **Duration**: Instantaneous
 A driving spray of seawater rushes forth, twisting and swerving as though forced down an unseen channel.
 Make a ranged spell attack against the target. On a hit, the target takes 4d8 Bludgeoning damage and is pushed up to 3 *(4.5m)* in a direction of your choice.
-At Higher Levels. The damage increases by 1d8 for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d8 for every slot level above 2.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -1074,7 +1074,7 @@ You attempt to infect the brain of a creature you can see within range with a ma
 The ground beneath a creature you can see within 12 *(18m)* cracks, spewing forth a hissing jet of putrid fumes.
 The creature must succeed on a CON Save or take 3d10 necrotic plus 3d6 Poison damage, or take half as much damage on a success.
 A creature killed by this damage is dragged through a planar rift to Thanatos.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage increases by 1d10 and the Poison damage increases by 1d6 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage increases by 1d10 and the Poison damage increases by 1d6 for each slot level above 3.
 - **Classes**: Warlock
 *(Source: CS)*
 
@@ -1096,7 +1096,7 @@ One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a go
 - **Duration**: 10 minutes
 Your magic shields your allies, ablating any hostile magics. Choose up to three creatures within range. Each gains 5 Temporary Hit Points that last for the duration.
 While a creature has any of these Temporary Hit Points, it has advantage on Saves against spells and magical effects.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, a target’s Hit Points increase by an additional 5 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, a target’s Hit Points increase by an additional 5 for each slot level above 2.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -1120,7 +1120,7 @@ Flammable objects in the Cone that aren't being worn or carried start [burning](
 - **Duration**: Instantaneous
 You call down a height 20 *(30m)*,a radius 2 *(3m)* sphere Column of red-hot iron in a space you can see within range.
 Each creature in the area is pushed to the nearest unoccupied space, then must make a DEX Save. On a failure, a creature takes 8d8 Bludgeoning plus 4d6 Fire damage and is [Prone](conditions.md#prone). On a success, a creature takes half as much damage.
-At Higher Levels. The Fire damage increases by 4d6 for each spell slot level above 7.
+**Using a Higher-Level Spell Slot.** The Fire damage increases by 4d6 for each spell slot level above 7.
 - **Classes**: Warlock
 *(Source: CS)*
 
@@ -1167,7 +1167,7 @@ The creature becomes Indifferent about creatures of your choice that it's Hostil
 - **Components**: S
 - **Duration**: Instantaneous
 Choose one object weighing 0.5kg to 2.5kg within range that isn't being worn or carried. The object flies in a straight line up to 18 *(27m)* in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a DEX Save. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 2.5kgs, and the damage increases by 1d8, for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 2.5kgs, and the damage increases by 1d8, for each slot level above 1st.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: XGE, page 150)*
 
@@ -1189,7 +1189,7 @@ When a creature Cursed in this way would take any damage due to failing a Save, 
 - **Components**: S
 - **Duration**: 10 minutes
 You make a calming gesture, and up to three willing creatures of your choice that you can see within range fall [unconscious](conditions.md#unconscious) for the spell's duration. The spell ends on a target early if it takes damage or someone uses an action to shake or slap it awake. If a target remains [unconscious](conditions.md#unconscious) for the full duration, that target gains the benefit of a short rest, and it can't be affected by this spell again until it finishes a long rest.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional willing creature for each slot level above 3rd.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: XGE, page 151)*
 
@@ -1210,7 +1210,7 @@ As a reaction when a creature you can see within range casts a spell that target
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You awaken the sense of mortality in one creature you can see within range. A construct or an undead is immune to this effect. The target must succeed on a WIS Save or become [frightened](conditions.md#frightened) of you until the spell ends. The [frightened](conditions.md#frightened) target can repeat the Save at the end of each of its turns, ending the effect on itself on a success.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 6 *(9m)* of each other when you target them.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st. The creatures must be within 6 *(9m)* of each other when you target them.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 151)*
 
@@ -1235,7 +1235,7 @@ Natural armor used by the target suffers the same penalty, but recovers when the
 You create a radius 1 *(1.5m)* sphere of dense, acrid vapors centered on a point within range. The Sphere spreads around corners, and its area is heavily obscured and counts as difficult terrain.
 A creature that starts its turn in the area or enters it for the first time on a turn takes 2d6 Acid damage.
 It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, its radius increases by 1 *(1.5m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, its radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -1280,7 +1280,7 @@ You warp the lean of unfolding events, transforming one roll with advantage into
 You hurl an undulating, warbling mass of chaotic energy at one creature in range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 + 1d6 damage. Choose one of the d8s. The number rolled on that die determines the attack's damage type, as shown below.
 Chaos Boltd8Damage Type1Acid2Cold3Fire4Force5Lightning6Poison7Psychic8ThunderIf you roll the same number on both d8s, the chaotic energy leaps from the target to a different creature of your choice within 6 *(9m)* of it. Make a new attack roll against the new target, and make a new damage roll, which could cause the chaotic energy to leap again.
 A creature can be targeted only once by each casting of this spell.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, each target takes 1d6 extra damage of the type rolled for each slot level above 1st.
 - **Classes**: Sorcerer
 *(Source: XGE, page 151)*
 
@@ -1314,7 +1314,7 @@ The creature makes death Saves while at 0 Hit Points, even if it ordinarily woul
 - **Components**: V, S
 - **Duration**: Instantaneous
 You teleport to an unoccupied space in the area affected by a spell, placing yourself in its area of effect.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, you additionally gain 10 Temporary Hit Points for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you additionally gain 10 Temporary Hit Points for each slot level above 3.
 - **Classes**: Sorcerer
 *(Source: CS)*
 
@@ -1406,7 +1406,7 @@ If you roll the same number on two or more of the d8s, the orb leaps to a differ
 Stone and soil churn in a great deafening wave, rising forth from you in a length 12 *(18m)* cone. The area becomes Difficult Terrain.
 Each creature in the area must make a STR Saving Throw. On a Failure, a creature takes 10d8 Bludgeoning damage and is [Prone](conditions.md#prone). On a Success, a creature takes half damage.
 Caves, fissures, and simple structures in the area collapse; creatures trapped within be [Restrained](conditions.md#restrained). The escape DC is equal to your spell save DC.
-At Higher Levels. The damage increases by 3d8 for every slot level above 7.
+**Using a Higher-Level Spell Slot.** The damage increases by 3d8 for every slot level above 7.
 - **Classes**: Druid
 *(Source: CS)*
 
@@ -1487,7 +1487,7 @@ The Sphere moves 2 *(3m)* away from you at the start of each of your turns.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You sink a terrifying spectral claw into the head (or closest equivalent) of a creature within reach and drag it towards you. Make a melee spell attack with a reach of 3 *(4.5m)*.
 On a hit, the target takes 4d10 Necrotic damage and is dragged up to 2 *(3m)* toward you, then must succeed on a WIS Save or be [Frightened](conditions.md#frightened) for the next minute. A [Frightened](conditions.md#frightened) creature repeats this save at the end of each of its turns, ending the effect on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 2d10 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 2d10 for each slot level above 3.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -1500,7 +1500,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 You touch a metal object and Cold radiates through it, forcing one creature wearing or wielding that object to make a CON Save.
 The creature takes 10d8 Cold damage on a failure, or half as much on a success.
 If the object was a nonmagical weapon, shield, or suit of armor, it cracks and shatters, becoming unusable.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the Cold damage increases by 2d8 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the Cold damage increases by 2d8 for each slot level above 5.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -1602,7 +1602,7 @@ For the duration, you can take a Bonus Action to designate a direction that is h
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 A shimmering haze emanates forth from you in a radius 4 *(6m)* sphere for the duration, allowing creatures within to see outward, but preventing distant creatures from seeing those within.
 Creatures more than 6 *(9m)* away from an affected space treat that space as Heavily Obscured.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the radius increases by 1 *(1.5m)* for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the radius increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Artificer, Bard, Druid, Ranger
 *(Source: CS)*
 
@@ -1637,7 +1637,7 @@ You unleash a blast of cold air. Each creature in a length 12 *(18m)* cone origi
 a radius 2 *(3m)* sphere cylinder of luminous runes shimmers into existence at a point you can see within range, extending 20 *(30m)* into the air.
 The circle is an object that can be damaged and destroyed. It has 40 Hit Points, an AC equal to your Spell Save DC, and immunity to poison and Psychic damage.
 The circle provides total cover and blocks exit by nonmagical means, but freely allows creatures to enter. While the circle has 40 or more Hit Points, it additionally blocks teleportation and ethereal travel.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the circle has 10 additional Hit Points for each level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the circle has 10 additional Hit Points for each level above 6.
 - **Classes**: Cleric, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -1727,7 +1727,7 @@ As a Bonus Action on your later turns, you can teleport the spirit to an unoccup
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You conjure two Yeth Hounds that last for a minute in unoccupied spaces you can see within 12 *(18m)*. The yeth hounds act on your initiative and follow your verbal commands.
 When this spell ends, the yeth hounds dissolve into smoke.
-At Higher Levels. When you cast this spell using a spell slot of Level 8 or higher, you summon one additional yeth hound for each slot level above 7.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you summon one additional yeth hound for each slot level above 7.
 - **Classes**: Druid, Warlock
 *(Source: CS)*
 
@@ -1877,7 +1877,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 - **Components**: S
 - **Duration**: 10 minutes
 You touch the corpse of a Medium or larger creature that died in the last minute and consume its lingering vitality, desiccating its flesh to dust and gaining 2d8 Temporary Hit Points that last for the duration.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
 - **Classes**: Druid
 *(Source: CS)*
 
@@ -1888,7 +1888,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 2 or high
 - **Components**: S
 - **Duration**: 10 minutes
 You touch the corpse of a Medium or larger creature that died in the last minute and consume its lingering vitality, desiccating its flesh to dust and gaining 2d8 Temporary Hit Points that last for the duration.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
 - **Classes**: Druid
 *(Source: CS)*
 
@@ -1964,7 +1964,7 @@ You teleport to switch places with a creature friendly to or [charmed](condition
 - **Duration**: 1 round
 You cast forth a roil of electrical energy that clings where it strikes. Make a ranged spell attack against a target within range.
 On a hit, the target takes 8d8 Lightning damage and has disadvantage on Saves against effects that deal Lightning damage until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -1976,7 +1976,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 - **Duration**: 10 turns
 An energizing spark of electricity crackles across your fingers. One creature within 1 *(1.5m)* of you must succeed on a CON Save or take 4d6 lighting damage and be [Stunned](conditions.md#stunned) until the end of its next turn.
 A creature that succeeds on this Save instead gains 4d6 Temporary Hit Points that last for up to 10 minutes. While it has any of these Temporary Hit Points, the creature’s melee attacks deal an additional 2d6 Lightning damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the damage and Temporary Hit Points increase by 1d6 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the damage and Temporary Hit Points increase by 1d6 for each slot level above 2.
 - **Classes**: Artificer
 *(Source: CS)*
 
@@ -2092,7 +2092,7 @@ While a creature has any of these Temporary Hit Points, it is [restrained](condi
 - **Components**: V, S
 - **Duration**: 8 hours
 A mass of tiny spiders begins to swarm around you in a radius 3 *(4.5m)* circle. When a creature starts its turn in the area or enters it for the first time on a turn, you may force it to succeed on a CON Save or take 10 Poison damage, or half as much on a success. The spell lasts 8 hours, or until it has dealt a total of 100 damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the spell’s radius increases by 2 *(3m)* and the maximum damage it can deal increases by 100 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the spell’s radius increases by 2 *(3m)* and the maximum damage it can deal increases by 100 for each slot level above 5.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -2116,7 +2116,7 @@ On your later turns, you must take the Magic action to maintain control of the t
 - **Duration**: 1 hour
 Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 24 *(36m)* of you. When you do so, make a ranged spell attack. On a hit, the target takes 4d12 radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote.
 If you have four or more motes remaining, they shed bright light in a radius 6 *(9m)* sphere and dim light for an additional 6 *(9m)*. If you have one to three motes remaining, they shed dim light in a radius 6 *(9m)* sphere.
-At Higher Levels. When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: XGE, page 152)*
 
@@ -2158,7 +2158,7 @@ The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Blu
 - **Components**: V, S
 - **Duration**: Instantaneous
 Gravity momentarily intensifies in the area within 3 *(4.5m)* of you. Each other creature in the area must succeed on a STR Save or fall [prone](conditions.md#prone). Any fall damage taken as a result deals maximum damage, instead of rolling.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -2181,7 +2181,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 - **Duration**: 1 hour
 You curse a creature you can see within range to weaken its vital force, forcing it to make a CHAa Save. On a failure, the target takes 6d6 Poison damage and is Cursed for the duration. On a successful Save, the creature takes half as much Poison damage.
 While Cursed in this way, the creature has Disadvantage on Saves against Poison damage or the [Poisoned](conditions.md#poisoned) condition.
-At Higher Levels. The Poison damage increases by 1d6 for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The Poison damage increases by 1d6 for every slot level above 4.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer, Warlock
 *(Source: CS)*
 
@@ -2206,7 +2206,7 @@ The skeletal liberator is [Charmed](conditions.md#charmed) by you for 1 hour, or
 - **Duration**: 10 days
 You grasp the face of a creature within your reach and drive your thumb into its eye, forcing it to succeed on a CHAa Save or be Cursed for the duration of the spell. One of the cursed creature’s eyes clouds over, occasionally weeping a small amount of blood, and it gains disadvantage on WIS (Perception) checks.
 As an action, you can see through the cursed creature’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Duration is 30 days. If you use a spell slot of Level 7 or higher, the spell lasts until it is dispelled.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Duration is 30 days. If you use a spell slot of Level 7 or higher, the spell lasts until it is dispelled.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -2231,7 +2231,7 @@ As a Bonus Action, you can move the lights up to 12 *(18m)* to a space within ra
 Threads of dark power leap from your fingers to pierce up to five Small or Medium corpses you can see within range. Each corpse immediately stands up and becomes undead. You decide whether it is a zombie or a skeleton (the statistics for zombies and skeletons are in the Monster Manual), and it gains a bonus to its attack and damage rolls equal to your spellcasting ability modifier.
 You can use a bonus action to mentally command the creatures you make with this spell, issuing the same command to all of them. To receive the command, a creature must be within 12 *(18m)* of you. You decide what action the creatures will take and where they will move during their next turn, or you can issue a general command, such as to guard a chamber or passageway against your foes. If you issue no commands, the creatures do nothing except defend themselves against hostile creatures. Once given an order, the creatures continue to follow it until their task is complete.
 The creatures are under your control until the spell ends, after which they become inanimate once more.
-At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, you animate up to two additional corpses for each slot level above 5th.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 153)*
 
@@ -2267,7 +2267,7 @@ At the beginning of each of your turns, if a source of Bright Light is within 3 
 Requires language proficiency in DrowBlack-violet shadowflame gathers in your hand, then flies off, clinging where it strikes.
 Make a ranged spell attack against the target. On a hit, the target takes 2d10 Fire damage and the target is wreathed in writhing shadows for the duration. These shadows are dispelled early if the target is illuminated by Bright Light.
 Whenever the wreathed creature is hit with an attack, it takes an additional 1d6 Necrotic damage.
-At Higher Levels. The Fire damage increases by 1d10 for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The Fire damage increases by 1d10 for every slot level above 2.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2279,7 +2279,7 @@ At Higher Levels. The Fire damage increases by 1d10 for every slot level above 2
 - **Duration**: Instantaneous
 Requires language proficiency in DrowInvisible light flashes in a radius 4 *(6m)* sphere within range, searing unwary eyes.
 Each creature in the area takes 6d8 Radiant damage, then must make a DEX Saving Throw. On a failure, a creature cannot benefit from Darkvision or Truesight for the next hour, or until cured by Lesser Restoration or similar magic that could cure the [Blinded](conditions.md#blinded) condition.
-At Higher Levels. The Radiant damage increases by 2d8 for every slot level above 6.
+**Using a Higher-Level Spell Slot.** The Radiant damage increases by 2d8 for every slot level above 6.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2361,7 +2361,7 @@ If any of this spell's area overlaps with an area of Darkness created by a spell
 You create an illusory creature or effect that fits within a size 4 *(6m)* cube and extends to all senses, appearing in a space you can see within range.
 Once on each of your turns (no action required), you can move the effect up to 6 *(9m)*, then force one creature within 1 *(1.5m)* of it to make an INT Save. On a failure, the creature takes 4d8 Psychic damage.
 A creature that succeeds on this Save, or that uses its action to disbelieve the illusion with a successful INT (Investigation) check made against your spell save DC, becomes immune to the illusion’s effects and can see through it.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Psychic damage increases by 1d8 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Psychic damage increases by 1d8 for each slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2498,7 +2498,7 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 You teleport to a previously designated infernal sanctuary, appearing in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below).
 When you do so, you can summon a Devil of CR 8 or below to take your place, giving it a single command as you do which it will follow to the best of its ability. When the spell ends or the summoned Devil is reduced to 0 Hit Points, it is banished back to Baator.
 You must designate a sanctuary by casting this spell within an archway on the plane of Baator. If you cast this spell without first preparing a sanctuary, the spell has no effect.
-At Higher Levels. If you use a level 9 spell slot, you can summon any willing Devil known to you. If you summon a devil of CR 10 or greater in this way, it is not bound to follow your command.
+**Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, you can summon any willing Devil known to you. If you summon a devil of CR 10 or greater in this way, it is not bound to follow your command.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2542,7 +2542,7 @@ Each time you cast this spell, you can create a new demiplane or connect the sha
 - **Duration**: Instantaneous
 A roiling whip of lacerating fire springs from your hand as you lash out in a frenzied series of strikes. Make a melee spell attack against the target.
 On a hit, the target takes 2d4 slashing plus 2d6 Fire damage. A creature hit by two or more of these attacks in a turn must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, you make an additional attack for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you make an additional attack for each slot level above 2.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -2566,7 +2566,7 @@ The creature has disadvantage on the next CON Save it makes in the next minute.
 - **Duration**: 1 round
 One Large or smaller creature that you can see is mobbed by spectral crows that swarm around it, pecking viciously.
 The creature is [Blinded](conditions.md#blinded) for the duration, or until it moves at least 1 *(1.5m)*, and must succeed on a DEX Save or take 8d6 Piercing damage, or half as much on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, it can affect a Huge or smaller creature. If you cast it using a spell slot of Level 6 or higher, it can affect a Gargantuan or smaller creature.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, it can affect a Huge or smaller creature. If you cast it using a spell slot of Level 6 or higher, it can affect a Gargantuan or smaller creature.
 - **Classes**: Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -2692,7 +2692,7 @@ On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 Your palm flares with black fire and you reach to grab a creature’s flesh. Make a melee spell attack.
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHAa (Persuasion) checks until cured by Lesser Restoration or similar magic.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -2787,7 +2787,7 @@ You choose a point you can see within range, twisting and altering gravity for c
 Each creature in the area must succeed on a CON Save or float 2 *(3m)* into the air and begin Levitating for the next minute.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success or falling up to 6 *(9m)* in a direction of your choice on a failure.
 A creature that strikes a solid object, creature, or surface while falling in this way takes falling damage as normal.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the radius affected increases by 1 *(1.5m)* for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the radius affected increases by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2799,7 +2799,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 - **Duration**: 8 hours
 Do you need to squeeze a few more gold pieces out of a merchant as you try to sell that weird octopus statue you liberated from the chaos temple? Do you need to downplay the worth of some magical assets when the tax collector stops by? Distort value has you covered.
 You cast this spell on an object no more than 30cm on a side, doubling the object's perceived value by adding illusory flourishes or polish to it, or reducing its perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain its true value with a successful INT (Investigation) check against your spell save DC.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 30cm for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 30cm for each slot level above 1st.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: AI, page 75)*
 
@@ -2901,7 +2901,7 @@ A lurid, sickly green crack between planes opens at a point you can see within r
 The Clawpacks are friendly to you and obey your mental commands (no action required) for as long as you maintain concentration. If you don’t issue any commands to the Clawpacks or lose concentration, they attack the nearest creature on their turn.
 In combat, the Clawpacks share your initiative count, but take their turns immediately after yours.
 When the spell ends, the Clawpacks become hostile to all creatures (including each other) and disregard your commands. At the beginning of each of your turns roll a d20 for each remaining Clawpack; on a 1-5, it disappears.
-At Higher Levels. When you cast this spell using a spell slot of Level 9, two additional Ratfolk Clawpacks emerge from the breach at the beginning of each of your turns, appearing in spaces within 2 *(3m)* of it.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, two additional Ratfolk Clawpacks emerge from the breach at the beginning of each of your turns, appearing in spaces within 2 *(3m)* of it.
 - **Classes**: Bard, Warlock, Wizard
 *(Source: CS)*
 
@@ -2914,7 +2914,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 9, two ad
 You dim one source of Bright Light you can see within 12 *(18m)* to Dim Light, or extinguish a source of Dim Light you can see in the area.
 Casting this spell does not reveal your position to any creature you are [Invisible](conditions.md#invisible) to or Hidden from.
 Magical light sources produced by a spell of a higher level than this spell was cast at are unaffected.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional target in range for each slot level above 1. You may choose the same target multiple times.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional target in range for each slot level above 1. You may choose the same target multiple times.
 - **Classes**: Artificer, Rogue, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -2971,7 +2971,7 @@ This effect ends early if the target is reduced to 0 Hit Points, or if it ends t
 - **Duration**: Instantaneous
 A fearsome shadow descends upon a radius 3 *(4.5m)* circle centered on a point you can see within range, forcing each creature in the area to make a WIS Save.
 On a failure, a creature must use its reaction move up to its half its speed in a direction of your choice. If the target doesn’t have a reaction available or cannot move, it instead falls [prone](conditions.md#prone).
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the radius of the shadow increases by 1 *(1.5m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the radius of the shadow increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2984,7 +2984,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 3 or high
 You raise the stone used in the spell’s casting aloft, causing it burst into flame, then hurl it at a target you can see within range. Make a ranged spell attack.
 On a hit, the target takes 1d4 + your spellcasting modifier Bludgeoning damage and 1d10 Fire damage.
 On a critical hit, the target must succeed on a STR Save or be knocked [prone](conditions.md#prone).
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, the attack has advantage.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the attack has advantage.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -3067,7 +3067,7 @@ Whispering to the spirits of nature, you create one of the following effects wit
 Choose an unoccupieda size 1 *(1.5m)* cube of air that you can see within range. An elemental force that resembles a dust devil appears in the cube and lasts for the spell's duration.
 Any creature that ends its turn within 1 *(1.5m)* of the dust devil must make a STR Save. On a failed save, the creature takes 1d8 bludgeoning damage and is pushed 2 *(3m)* away from the dust devil. On a successful save, the creature takes half as much damage and isn't pushed.
 As a bonus action, you can move the dust devil up to 6 *(9m)* in any direction. If the dust devil moves over sand, dust, loose dirt, or light gravel, it sucks up the material and forms a radius 2 *(3m)* sphere cloud of debris around itself that lasts until the start of your next turn. The cloud heavily obscures its area.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: XGE, page 154)*
 
@@ -3090,7 +3090,7 @@ This spell’s damage increases by 2d10 when you reach 5th level (4d10), 11th le
 - **Components**: V, S
 - **Duration**: Instantaneous
 You cause a tremor in the ground within range. Each creature other than you in that area must make a DEX Save. On a failed save, a creature takes 1d6 bludgeoning damage and is knocked [prone](conditions.md#prone). If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with eacha diameter 1 *(1.5m)* portion requiring at least 1 minute to clear by hand.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
 - **Classes**: Bard, Druid, Sorcerer, Wizard
 *(Source: XGE, page 155)*
 
@@ -3112,7 +3112,7 @@ Choose one creature you can see within range. Yellow strips of magical energy lo
 - **Duration**: Instantaneous
 You touch a creature and drain the life from the earth in a radius 1 *(1.5m)* circle around it, parching the ground and desiccating any corpses in the area.
 The target regains 9d8 Hit Points, or regains twice as many Hit Points if a creature was reduced to 0 Hit Points in the affected area since the end of your last turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the healing increases by 1d8 for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the healing increases by 1d8 for each slot level above 6.
 - **Classes**: Druid
 *(Source: CS)*
 
@@ -3138,7 +3138,7 @@ A creature within a distance from a collapsing structure equal to half the struc
 Fire erupts from the earth in a radius 2 *(3m)* sphere, height 8 *(12m)* Column centered on a point you can see within range.
 Each creature in the area must succeed on a DEX Save or take 8d6 Fire damage and fall [prone](conditions.md#prone), or take half as much damage on a success.
 A [Prone](conditions.md#prone) creature has Disadvantage on this Save.
-At Higher Levels. If you use a level 7 or 8 spell slot, you create a second plume immediately after the first. If you use a level 9 spell slot, you create three plumes in sequence.
+**Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, you create a second plume immediately after the first. If you use a level 9 spell slot, you create three plumes in sequence.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -3171,7 +3171,7 @@ Until the beginning of your next turn, you add your INT modifier to your AC agai
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Choose one creature you can see within range, and choose one of the following damage types: acid, cold, fire, lightning, or thunder. The target must succeed on a CON Save or be affected by the spell for its duration. The first time each turn the affected target takes damage of the chosen type, the target takes an extra 2d6 damage of that type. Moreover, the target loses any resistance to that damage type until the spell ends.
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 6 *(9m)* of each other when you target them.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, you can target one additional creature for each slot level above 4th. The creatures must be within 6 *(9m)* of each other when you target them.
 - **Classes**: Artificer, Druid, Warlock, Wizard
 *(Source: XGE, page 155)*
 
@@ -3219,7 +3219,7 @@ You exert control over the elements, creating one of the following effects withi
 Requires the spellcaster to have removed their finger without assistance.
 You relinquish yourself to forces beyond your control, choosing to fail a Save instead of rolling.
 Before suffering the Save’s effects, you gain 15 Temporary Hit Points that last until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, the Temporary Hit Points increase by 5 for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the Temporary Hit Points increase by 5 for each slot level above 1.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer
 *(Source: CS)*
 
@@ -3232,7 +3232,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 2 or high
 You attempt to weaken the vital structure of a non-ooze creature you can see within range. The target must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) for the next minute.
 While [Poisoned](conditions.md#poisoned) in this way, attacks against the creature score a critical on an 18-20.
 At the end of each of its turns, the target can make another CON Save. On a success, the spell ends on the target.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the critical range increases by 1 for each two slot levels above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the critical range increases by 1 for each two slot levels above 3.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -3243,7 +3243,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 - **Components**: V, S
 - **Duration**: 1 round
 You attempt to harden the outer layer of a creature you can see within range. The target must make a CON Saving Throw. On a Failure, the target takes 4d8 Necrotic damage and is [Petrified](conditions.md#petrified) until the end of your next turn. This effect ends early if the target takes 15 or more damage from a single source.
-At Higher Levels. The damage increases by 2d8 for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -3301,7 +3301,7 @@ Whenever the affected creature chooses another creature as a target, it must cho
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A tendril of inky darkness reaches out from you, touching a creature you can see within range to drain life from it. The target must make a DEX Save. On a successful save, the target takes 2d8 necrotic damage, and the spell ends. On a failed save, the target takes 4d8 necrotic damage, and until the spell ends, you can use your action on each of your turns to automatically deal 4d8 necrotic damage to the target. The spell ends if you use your action to do anything else, if the target is ever outside the spell's range, or if the target has total cover from you.
 Whenever the spell deals damage to a target, you regain hit points equal to half the amount of necrotic damage the target takes.
-At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: XGE, page 155)*
 
@@ -3380,7 +3380,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Sturdy roots snake forth from your body, digging deep into the earth around you in a radius 1 *(1.5m)* circle. Until the spell ends, the area is difficult terrain, your speed is reduced to 0, and you gain the maximum number of Temporary Hit Points possible when targeted with any spell or magical effect that grants Temporary Hit Points.
 If you move or are moved, the spell ends immediately.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, the spell’s radius increases by 1 *(1.5m)* for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the spell’s radius increases by 1 *(1.5m)* for each slot level above 1.
 - **Classes**: Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -3392,7 +3392,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 2 or high
 - **Duration**: 1 minute
 Deadly venom beads on your fingers as you drag them across a creature in range. The target takes 2d6 Poison damage, then must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) for the next minute.
 At the end of each of its turns, the target can make another CON Save. On a success, the spell ends on the target.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, it deals 3 (1d6) additional Poison damage for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, it deals 3 (1d6) additional Poison damage for each slot level above 2.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -3404,7 +3404,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 3 or high
 - **Duration**: Instantaneous
 You fire a volatile Sphere of roiling flame, which travels an uncertain distance before exploding. You choose a direction, launching a fireball that explodes in a radius 4 *(6m)* sphere centered on a point 2d8 x 1 *(1.5m)* away from you.
 Each creature in the area must succeed on a DEX Save or take 6d6 Fire damage and be knocked [prone](conditions.md#prone), or take half as much damage on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the damage increases by 2d6 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the damage increases by 2d6 for each slot level above 2.
 - **Classes**: Sorcerer
 *(Source: CS)*
 
@@ -3415,7 +3415,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 3 or high
 - **Components**: V, S
 - **Duration**: Instantaneous
 Choose a point you can see on the ground within range. A fountain of churned earth and stone erupts in a size 4 *(6m)* cube centered on that point. Each creature in that area must make a DEX Save. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Eacha size 1 *(1.5m)* square portion of the area requires at least 1 minute to clear by hand.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d12 for each slot level above 3rd.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: XGE, page 155)*
 
@@ -3485,7 +3485,7 @@ You take the Dash action, and until the spell ends, you can take that action aga
 You touch a piece of ammunition, setting it aglow with an infusion of volatile magics.
 The first time you make an attack using this ammunition during this spell’s duration, the attack deals an additional 4d6 Fire damage on a hit.
 Whether you hit or miss, the piece of ammunition then explodes. Each creature within 2 *(3m)* of the target must make a DEX Save. On a failed Save, a creature takes 4d6 Fire damage, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases to 10 minutes.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases to 10 minutes.
 - **Classes**: Artificer, Ranger, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -3598,7 +3598,7 @@ You teleport up to 12 *(18m)* to an unoccupied space you can see. On each of you
 When you need to make sure something gets done, you can't rely on vague promises, sworn oaths, or binding contracts of employment. When you cast this spell, choose one humanoid within range that can see and hear you, and that can understand you. The creature must succeed on a WIS Save or become [charmed](conditions.md#charmed) by you for the duration. While the creature is [charmed](conditions.md#charmed) in this way, it undertakes to perform any services or activities you ask of it in a friendly manner, to the best of its ability.
 You can set the creature new tasks when a previous task is completed, or if you decide to end its current task. If the service or activity might cause harm to the creature, or if it conflicts with the creature's normal activities and desires, the creature can make another WIS Save to try to end the effect. This save is made with advantage if you or your companions are fighting the creature. If the activity would result in certain death for the creature, the spell ends.
 When the spell ends, the creature knows it was [charmed](conditions.md#charmed) by you.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 - **Classes**: Bard, Cleric, Wizard
 *(Source: AI, page 75)*
 
@@ -3623,7 +3623,7 @@ Requires a noble title.
 You call upon oaths given by your ally, crushing in your hand a token of fealty gifted to you by them and sending a cry for help rippling across the planes.
 The creature recognizes you as the sender, and can choose to immediately be teleported to an unoccupied space of your choice within 6 *(9m)* of you.
 If the creature is dead, it can form a spiritual body to aid you that appears as it did in life with full resources, and dissolves into light when reduced to 0 Hit Points, or after 1 hour. A dead creature summoned in this way can never again be summoned with this spell.
-At Higher Levels. When you cast this spell using a spell slot of Level 8 or higher, you can target one additional creature for each slot level above 7.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you can target one additional creature for each slot level above 7.
 - **Classes**: Cleric, Sorcerer
 *(Source: CS)*
 
@@ -3679,7 +3679,7 @@ The target also has Resistance to all damage except Psychic damage, and it has I
 - **Duration**: 1 minute
 Each other creature in a radius 1 *(1.5m)* column extending beneath and around you is doused in a fine mist of glistening oil, and must succeed on a CON Save or take 8d6 Poison damage, or half as much on a success.
 If an affected creature takes any Fire damage in the next minute, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) Fire damage at the end of each of its turns.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the spell’s radius increases by 2 *(3m)* for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s radius increases by 2 *(3m)* for each slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -3829,7 +3829,7 @@ Flammable objects in the area that aren't being worn or carried start [burning](
 - **Components**: V
 - **Duration**: Instantaneous
 You cause the fires engulfing a creature to flare explosively. One [burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save or take 3d6 Fire damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, the damage increases by 1d6 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the damage increases by 1d6 for each slot level above 2.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -3851,7 +3851,7 @@ You teleport to an unoccupied space you can see within 6 *(9m)*, then can make u
 - **Duration**: Instantaneous
 You strike the ground, splitting open a undefined, undefined, depth 4 *(6m)* fissure in it extending from you.
 Each Large or smaller creature in the fissure’s area must make a DEX Saving Throw. On a Failure, the creature falls into the fissure. On a Success, the creature moves to the nearest unoccupied space outside the fissure’s area.
-At Higher Levels. The fissure’s length increases by 1 *(1.5m)* for every slot level above 3rd.
+**Using a Higher-Level Spell Slot.** The fissure’s length increases by 1 *(1.5m)* for every slot level above 3rd.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -3875,7 +3875,7 @@ As a bonus action on subsequent turns, you can move the field to another creatur
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You touch a quiver containing arrows or bolts. When a target is hit by a ranged weapon attack using a piece of ammunition drawn from the quiver, the target takes an extra 1d6 fire damage. The spell's magic ends on a piece of ammunition when it hits or misses, and the spell ends when twelve pieces of ammunition have been drawn from the quiver.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the number of pieces of ammunition you can affect with this spell increases by two for each slot level above 3rd.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
 *(Source: XGE, page 156)*
 
@@ -3935,7 +3935,7 @@ The target must succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 A line of distorted space 30 *(45m)* long and 1 *(1.5m)* wide extends from your space, superpositioning each creature in the line’s area.
 Until the end of your next turn, or until you leave the area, you and each creature in the area count as being within 1 *(1.5m)* of each other creature in the area, and can teleport to any unoccupied space in the area as a Bonus Action.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases by 1 round for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases by 1 round for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -3971,7 +3971,7 @@ If you maintain your Concentration on this spell for the entire possible duratio
 - **Duration**: Instantaneous
 You dip in and out of reality, channeling the energy of your passage into bolts of cosmic force. Make three ranged spell attack rolls against one or more targets in range.
 On a hit, the target takes 3d6 lightning plus 2d10 Force damage. Before or after making each of these attacks, you may teleport up to 6 *(9m)* to an unoccupied space you can see.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, you make one additional attack for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, you make one additional attack for each slot level above 6.
 - **Classes**: Sorcerer, Warlock
 *(Source: CS)*
 
@@ -4066,7 +4066,7 @@ The spell's area can't overlap with the area of another Forbiddance spell. If yo
 - **Duration**: Instantaneous
 You send two arcane bolts soaring to strike in quick succession. You can direct them at one target or several.
 Make a ranged spell attack for each bolt, resolving one at a time. On a hit, the target takes 2d10 Force damage and the next spell attack you make against the same target this turn has advantage.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, you create one additional bolt for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you create one additional bolt for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -4113,7 +4113,7 @@ A creature with Natural Armor or a similar trait that this effect ends for has i
 - **Components**: V, S
 - **Duration**: Instantaneous
 You sweep a massive spectral claw in a length 3 *(4.5m)* cone. Each creature in the area must make a DEX Save. On a failed Save, a creature takes 4d8 Slashing damage and is pushed up to 2 *(3m)* directly away from you. On a success, a creature takes half as much damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -4180,7 +4180,7 @@ The spell ends early if the target takes damage or if you make an attack roll, d
 - **Duration**: Instantaneous
 Freezing cold blasts from your fingertips in a length 3 *(4.5m)* cone. Each creature in that area must make a CON Save, taking 2d8 cold damage on a failed save, or half as much damage on a successful one.
 The cold freezes nonmagical liquids in the area that aren't being worn or carried.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 - **Classes**: Wizard
 *(Source: IDRotF, page 318)*
 
@@ -4266,7 +4266,7 @@ When you cast this spell, you can speak the name of a specific creature (a pseud
 - **Components**: V, S
 - **Duration**: 24 hours
 You fortify the fabric of the planes in a size 6 *(9m)* cube you can see within range. Within that area, portals close and can't be opened for the duration. Spells and other effects that allow planar travel or open portals, such as gate or plane shift, fail if used to enter or leave the area. The cube is stationary.
-At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, the spell lasts until dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: SatO, page 12)*
 
@@ -4325,7 +4325,7 @@ You summon a lash of crackling, unfiltered death and swing it at a creature. Mak
 - **Components**: V, S
 - **Duration**: Instantaneous
 Pale flames erupt beneath up to two creatures you can see within range, forcing each of them to succeed on a DEX Save or take 2d6 fire plus 1d10 Necrotic damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, you can select one additional target for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can select one additional target for each slot level above 2.
 - **Classes**: Cleric, Wizard
 *(Source: CS)*
 
@@ -4373,7 +4373,7 @@ On a success, the effect ends.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range falls [prone](conditions.md#prone) and is wracked with agony for the next minute.
 At the beginning of each of the creature’s turns, it must succeed on a CON Save or take 3d10 Psychic damage and be unable to stand until the beginning of its next turn, ending the effect on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, you can target one additional creature for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, you can target one additional creature for each slot level above 5.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -4425,7 +4425,7 @@ You open the mind of a creature you can see to the infinite timeless void that e
 The target must succeed on a WIS Save or be [Frightened](conditions.md#frightened) and Dazed until the end of its next turn as it struggles against reality.
 On a successful Save or when this effect ends for it, the creature takes 4d6 Psychic damage as the Dark Lady’s truth finds brief footing in its mind.
 A creature that fails the initial Save by 10 or more is completely unaffected by the spell.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the duration becomes 1 minute.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the duration becomes 1 minute.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -4450,7 +4450,7 @@ Any spell of level 5 or lower cast from outside the barrier can't affect anythin
 You grow a dense ball of luminescent spores between your hands and send it flying at a target in range. Make a ranged spell attack. On a hit, the target takes 3d6 Poison damage plus 3d6 Radiant damage.
 On a hit or miss, glowing spores linger in the air around the target in a radius 3 *(4.5m)* sphere, shedding dim light in the area for the next minute.
 Creatures in the area cannot benefit from Invisibility.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the Poison damage increases by 2d6 and the radius of light increases by 1 *(1.5m)* for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Poison damage increases by 2d6 and the radius of light increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Druid, Ranger, Warlock
 *(Source: CS)*
 
@@ -4463,7 +4463,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 A bright glyph flares on the ground in an unoccupied radius 1 *(1.5m)* circle you can see within range.
 The first time a creature enters that space in the next minute, a wave of pressure explodes from the glyph’s center in a radius 2 *(3m)* sphere, forcing each creature in the area to make a CON Save.
 On a failed Save, a creature takes 4d8 Thunder damage, or takes half as much damage on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or above, the spell’s duration increases to 1 hour.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the spell’s duration increases to 1 hour.
 - **Classes**: Artificer, Ranger
 *(Source: CS)*
 
@@ -4488,7 +4488,7 @@ Requires a spellcaster that has forgotten a loved one’s face.
 You scribe a glyph of roiling shadow in the air at a point you can see within range where it flares, draining the reality from around it in a radius 1 *(1.5m)* sphere.
 Each creature in the area must succeed on a CHAa Save or take 5d10 Force damage, or half as much on a success.
 A creature killed by this damage turns to shadow and melts away, disintegrating entirely.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Force damage increases by 1d10 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Force damage increases by 1d10 for each slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -4593,7 +4593,7 @@ A target that isn’t [Frightened](conditions.md#frightened) can use its reactio
 - **Components**: V, S
 - **Duration**: 1 minute
 You fire a bolt of clinging shadow at a creature, diminishing any lights it carries. Make a ranged spell attack against a creature in range. On a hit, the creature takes 3d10 plus your spellcasting modifier Necrotic damage and any sources of bright light within 1 *(1.5m)* of it are reduced to dim light for the next minute.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, you fire an additional bolt at a creature in range for each three spell levels above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, you fire an additional bolt at a creature in range for each three spell levels above 2.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -4604,7 +4604,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 5 or high
 - **Components**: S
 - **Duration**: Instantaneous
 You sink into the earth, traveling through the uncountable layers of ancient death to rise from another plot. You use 2 *(3m)* of your movement to step magically into a Large or larger area of loose earth and emerge in an unoccupied space within 1 *(1.5m)* of any Large or large area of loose earth within 12 *(18m)*.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 1 minute (concentration), and you may repeat this transportation ability as a bonus action on each of your turns for the duration.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 1 minute (concentration), and you may repeat this transportation ability as a bonus action on each of your turns for the duration.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -4755,7 +4755,7 @@ You create a harmless sensory effect using air, such as causing leaves to rustle
 - **Duration**: Instantaneous
 You touch a creature and send a torrent of wind driving into it, forcing it to make a STR Save.
 On a failure, the target takes 3d8 Bludgeoning damage and is pushed up to 4 *(6m)* away, or takes half as much damage and is pushed half as far on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the distance the target is pushed increases by 2 *(3m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the distance the target is pushed increases by 2 *(3m)* for each slot level above 2.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -4783,7 +4783,7 @@ As a Bonus Action on your later turns, you can change the direction in which the
 Water swirls violently in a radius 6 *(9m)* emanation from a point you can see within range for the duration. Creatures in the area treat any movement away from its center as being over Difficult Terrain.
 A creature that starts its turn in the area must make a STR Saving Throw. On a failure, the creature is dragged up to 2 *(3m)* toward the area’s center.
 If this spell targeted an area of water, a creature that fails this Save additionally takes 2d8 Bludgeoning damage.
-At Higher Levels. The size of the Emanation increases by 2 *(3m)* for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The size of the Emanation increases by 2 *(3m)* for every slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -4870,7 +4870,7 @@ You unleash virulent magic on a creature you can see within range. The target ma
 - **Duration**: Instantaneous
 You extend a small gift toward a creature within range. If the creature has an INT score of 4 or higher and could carry the gift, it must succeed on a WIS Save or accept the gift. A target automatically succeeds on this Save if it can’t be [Charmed](conditions.md#charmed).
 While it carries the gift, the creature has disadvantage on attacks that target you, and may repeat this Save as an action, discarding the gift on a success. A creature makes this Save with advantage if you took any hostile action toward it since the end of its last turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the target is additionally Charmed by you while it carries the gift.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the target is additionally Charmed by you while it carries the gift.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -4905,7 +4905,7 @@ Choose a creature that you can see within range. Positive energy washes through 
 You call forth a nature spirit to soothe the wounded. The intangible spirit appears in a space that is a size 1 *(1.5m)* cube you can see within range. The spirit looks like a transparent beast or fey (your choice).
 Until the spell ends, whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore 1d6 hit points to that creature (no action required). The spirit can't heal constructs or undead. The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice). After healing that number of times, the spirit disappears.
 As a bonus action on your turn, you can move the spirit up to 6 *(9m)* to a space you can see.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d6 for each slot level above 2nd.
 - **Classes**: Druid, Ranger
 *(Source: XGE, page 157)*
 
@@ -4962,7 +4962,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 You fill a creature you can see within range with the unquenched fires of Phlegethos, forcing it to make a CHAa Save. On a failure, the target takes 5d10 Fire damage and is Cursed for the duration.
 The Cursed creature is [Charmed](conditions.md#charmed) by you and takes 5d10 Fire damage the first time each turn that it disobeys one of your commands.
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
-At Higher Levels. The initial damage increases by 2d10 for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The initial damage increases by 2d10 for each spell slot level above 6.
 - **Classes**: Cleric
 *(Source: CS)*
 
@@ -5110,7 +5110,7 @@ As a bonus action on your turn, you can dismiss this spell and cause the weapon 
 You shout forth a mortal challenge to an enemy you can see within range, forcing it to make a WIS Save.
 On a failure, the creature takes 3d6 Psychic damage whenever it takes a hostile action while it is further than 4 *(6m)* from you.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, you can target an additional creature for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can target an additional creature for each slot level above 2.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -5156,7 +5156,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 - **Duration**: Instantaneous
 Infernal flames dance upon your palm before hurtling toward a creature within range. Make a ranged spell attack.
 On a hit, the target takes 4d6 Fire damage. On a critical hit, the target additionally begins [Burning](conditions.md#burning) (1d10).
-At Higher Levels. When you cast this spell using a spell slot of Level 3, it scores a critical on an 18-20. When you cast this spell using a spell slot of Level 4 or higher, it scores a critical on an 16-20.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3, it scores a critical on an 18-20. When you cast this spell using a spell slot of Level 4 or higher, it scores a critical on an 16-20.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5226,7 +5226,7 @@ Hailstones turn ground in the Cylinder into Difficult Terrain until the end of y
 You touch a willing creature, hardening its blood into needles that fly forth toward a creature within 12 *(18m)* of it.
 The ally loses 4d10 Hit Points, then the target must succeed on a DEX Save or take 8d10 Piercing damage. On a successful Save, the target takes half as much damage.
 If the willing creature is reduced to 0 Hit Points by this effect, the target has Disadvantage on its Save.
-At Higher Levels. The Piercing damage increases by 1d10 for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The Piercing damage increases by 1d10 for each spell slot level above 3.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5337,7 +5337,7 @@ At the end of each of its turns, an affected target can make a WIS Save. If it s
 - **Duration**: Instantaneous
 You whisper fears into the mind of a creature you can see within range, forcing it to make a WIS Save. On a failure, the target is [Frightened](conditions.md#frightened) of any number of creatures of your choice until the end of your next turn.
 While [Frightened](conditions.md#frightened) in this way, a creature treats all creatures it can see as hostile.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, you can select one additional target for each two slot levels above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you can select one additional target for each two slot levels above 3.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5362,7 +5362,7 @@ The devil is unfriendly toward you and your companions. Roll initiative for the 
 On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a CHAa (Deception, Intimidation, or Persuasion) check contested by its WIS (Insight) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as ""attack my enemies,"" ""explore the room ahead,"" or ""bear this message to the queen""—until it completes the activity, at which point it returns to you to report having done so.
 If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for 3d6 minutes, and then it disappears.
 If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no CHAa checks required.
-At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 158)*
 
@@ -5373,7 +5373,7 @@ At Higher Levels. When you cast this spell using a spell slot of 6th level or hi
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Infernal flames wreath an ally you can see within range, bolstering its STR. The target’s melee attacks have advantage and deal an additional 1d6 Fire damage on a hit.
-At Higher Levels. The damage increases by 1d6 for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Bard, Warlock, Wizard
 *(Source: CS)*
 
@@ -5419,7 +5419,7 @@ A creature you touch makes a CON Save, taking 2d10 Necrotic damage on a failed s
 You attempt to tear forth secrets from the mind of a [Frightened](conditions.md#frightened) creature within range, forcing it to make an INT Save.
 On a failure, the target takes 10d6 Psychic damage and you learn whichever secret the target most wants to conceal from you.
 On a success, the target takes half as much damage and can choose what information it reveals to you.
-At Higher Levels. The damage increases by 1d6 for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Warlock
 *(Source: CS)*
 
@@ -5443,7 +5443,7 @@ When the swarm appears, each creature in it makes a CON Save, taking 4d10 Pierci
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Requires language proficiency in DrowEach creature of your choice in a radius 8 *(12m)* emanation from you must make a CON Saving Throw. On a failure, a creature takes 6d6 Poison damage and is [Poisoned](conditions.md#poisoned) for 1 minute.
 A creature [Poisoned](conditions.md#poisoned) in this way repeats this Save at the end of each of its turns, ending the effect on a success.
-At Higher Levels. The range of the Emanation increases by 4 *(6m)* for every slot level above 7.
+**Using a Higher-Level Spell Slot.** The range of the Emanation increases by 4 *(6m)* for every slot level above 7.
 - **Classes**: Cleric, Druid, Wizard
 *(Source: CS)*
 
@@ -5454,7 +5454,7 @@ At Higher Levels. The range of the Emanation increases by 4 *(6m)* for every slo
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on INT, WIS, and CHA Saves.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 6 *(9m)* of each other when you target them.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 6 *(9m)* of each other when you target them.
 - **Classes**: Artificer
 *(Source: TCE, page 107)*
 
@@ -5588,7 +5588,7 @@ Each affected creature becomes [Petrified](conditions.md#petrified) until the be
 - **Components**: S
 - **Duration**: 1 round
 You level a pitiless glare at a [Frightened](conditions.md#frightened) creature you can see within range. The target must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) until the beginning of its next turn, or until it takes any damage.
-At Higher Levels. You can target one additional creature for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -5624,7 +5624,7 @@ Of the many tactics employed by master magician and renowned adventurer Jim Dark
 “Jim's magic missile is an ancient and powerful spell, as well as being the name of my band in Wizard Academy.
 ”— Jim DarkmagicAny apprentice wizard can cast a boring old magic missile. Sure, it always strikes its target. Yawn. Do away with the drudgery of your grandfather's magic with this improved version of the spell, as used by Jim Darkmagic!You create three twisting, whistling, hypoallergenic, gluten-free darts of magical force. Each dart targets a creature of your choice that you can see within range. Make a ranged spell attack for each missile. On a hit, a missile deals 2d4 force damage to its target.
 If the attack roll scores a critical hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a critical hit. If the attack roll for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
 - **Classes**: Wizard
 *(Source: AI, page 76)*
 
@@ -5661,7 +5661,7 @@ You can move through the space of another creature, and it doesn't count as diff
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves.
 The target must make a CHAa save. On a failure, the creature is Cursed for the duration. A creature Cursed in this way treats all movement through water as being over Difficult Terrain, and immediately sinks 2 *(3m)* whenever it starts its turn swimming.
-At Higher Levels. If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn’t require Concentration and lasts until dispelled.
+**Using a Higher-Level Spell Slot.** If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn’t require Concentration and lasts until dispelled.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -5789,7 +5789,7 @@ When the spell ends, the target floats gently to the ground if it is still aloft
 - **Components**: V, S
 - **Duration**: Instantaneous
 You sacrifice some of your health to mend another creature's injuries. You take 4d8 necrotic damage, which can't be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
 - **Classes**: Cleric, Wizard
 *(Source: XGE, page 160)*
 
@@ -5844,7 +5844,7 @@ A stroke of lightning forming a undefined, undefined Line blasts out from you in
 - **Components**: V, S
 - **Duration**: Instantaneous
 A crackling ball of lightning kindles into existence at a point you can see, then rapidly expands. Each creature in a radius 4 *(6m)* sphere centered on that point must make a DEX Save. A target takes 8d6 Lightning damage on a failed save, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the radius increases by 1 *(1.5m)* for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the radius increases by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5857,7 +5857,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 A sheet of continuous lightning rises to the sky, encasing a radius 4 *(6m)* sphere cylinder centered on a point you can see for the next minute.
 A creature that is in the wall’s space when it appears, that enters the wall’s space for the first time on a turn, or that ends its turn there must make a DEX Save.
 On a failure, a creature takes 8d6 Lightning damage and is pushed up to 4 *(6m)* to a side of your choice, or takes half as much damage on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the Lightning damage increases by 2d6 for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Lightning damage increases by 2d6 for each slot level above 6.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5884,7 +5884,7 @@ The creature can’t take bonus actions or reactions.
 The creature gains vulnerability to Fire damage.
 The creature takes 1d10 Fire damage (before vulnerability is applied) whenever it deals any Fire damage.
 This spell’s effects last until cured by Greater Restoration or similar magic.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the duration becomes 1 minute (concentration). On each of your turns until the spell ends, you can use your bonus action to force the target to repeat the Save, applying another effect of your choice to the target on a failure.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the duration becomes 1 minute (concentration). On each of your turns until the spell ends, you can use your bonus action to force the target to repeat the Save, applying another effect of your choice to the target on a failure.
 - **Classes**: Druid
 *(Source: CS)*
 
@@ -5917,7 +5917,7 @@ Whenever a creature cursed in this way receives magical healing, it gains the sa
 - **Components**: V, S
 - **Duration**: Instantaneous
 You chant forth a stream of infernal invectives, choosing an intact corpse or an [Unconscious](conditions.md#unconscious) creature you can see within range. The target rises up under your control, moves up to its speed and makes a melee attack, then returns to its previous state.
-At Higher Levels. You can target one additional creature or corpse for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** You can target one additional creature or corpse for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -5987,7 +5987,7 @@ Whenever one affected creature enters a space within 1 *(1.5m)* of the other for
 - **Duration**: Instantaneous
 You bless a willing creature or one summoned by you with the undivided attention of the Spider Queen. The creature immediately dies, exploding in a torrent of venomous spiders. Each creature within 3 *(4.5m)* of it must succeed on a CON Save or take 14 (4d6) piercing plus 14 (4d6) Poison damage, or half as much on a success.
 If the target is a drow, shunned, or spiderkind creature, you may cast this spell with a casting time of 1 bonus action.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, it may additionally target the corpse of any friendly creature that died in the last minute.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, it may additionally target the corpse of any friendly creature that died in the last minute.
 - **Classes**: Cleric, Druid, Ranger
 *(Source: CS)*
 
@@ -6169,7 +6169,7 @@ Design Note: Spellcasters Without Spell Slots. At DM discretion, a spellcasting 
 Spectral jaws snap shut in a radius 2 *(3m)* emanation from a Bloodied creature you can see within range. Each creature in the area must make a DEX Saving Throw.
 On a failure, the creature takes 3d6 Piercing damage and is [Restrained](conditions.md#restrained) until the end of your next turn, or takes half as much damage on a success. You gain Temporary Hit Points equal to half the total Hit Points lost in this way.
 The escape DC for this restraint is equal to your spell save DC.
-At Higher Levels. The size of the Emanation increases by 1 *(1.5m)* for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The size of the Emanation increases by 1 *(1.5m)* for every slot level above 3.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -6182,7 +6182,7 @@ At Higher Levels. The size of the Emanation increases by 1 *(1.5m)* for every sl
 You attempt to bind a creature’s magic, forcing it to make a WIS Save.
 On a failure, you can choose a spell level. You learn each spell of that level that the target can cast, then can choose one spell revealed in this way.
 The target loses the ability to cast that spell for the next minute.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 24 hours.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 24 hours.
 - **Classes**: Artificer, Paladin
 *(Source: CS)*
 
@@ -6311,7 +6311,7 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 You create six tiny meteors in your space. They float in the air and orbit you for the spell's duration. When you cast the spell—and as a bonus action on each of your turns thereafter—you can expend one or two of the meteors, sending them streaking toward a point or points you choose within 24 *(36m)* of you. Once a meteor reaches its destination or impacts against a solid surface, the meteor explodes. Each creature within 1 *(1.5m)* of the point where the meteor explodes must make a DEX Save. A creature takes 2d6 fire damage on a failed save, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the number of meteors created increases by two for each slot level above 3rd.
 - **Classes**: Sorcerer, Wizard
 *(Source: XGE, page 161)*
 
@@ -6438,7 +6438,7 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 One creature you can see within range must make an INT Saving Throw. On a failure, the target takes 2d6 Poison damage plus 2d10 Psychic damage and the target is [Frightened](conditions.md#frightened) for 1 minute.
 A creature that fails this Save by 5 or more must answer any question asked of it while [Frightened](conditions.md#frightened) in this way, though the spell does not compel it to answer truthfully.
 The [Frightened](conditions.md#frightened) creature repeats this Save at the end of each of its turns, ending the effect on a success.
-At Higher Levels. You can target one additional creature for every slot level above 3.
+**Using a Higher-Level Spell Slot.** You can target one additional creature for every slot level above 3.
 - **Classes**: Bard, Warlock
 *(Source: CS)*
 
@@ -6449,7 +6449,7 @@ At Higher Levels. You can target one additional creature for every slot level ab
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 You send a pulse of terrible mental static that briefly overwhelms the faculties of nearby creatures. Each creature of your choice within 3 *(4.5m)* of you must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 8 or higher, the radius increases by 3 *(4.5m)* for each slot level above 7.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the radius increases by 3 *(4.5m)* for each slot level above 7.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -6661,7 +6661,7 @@ For the duration, whenever a creature casts a spell that affects a spherical are
 - **Duration**: Instantaneous
 A bolt of lightning leaps from each of your splayed fingertips. Up to ten creatures in a length 18 *(27m)* cone must make a DEX Save.
 A creature takes 8d6 Lightning damage on a failed save, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, you can instead have it target up to 5 creatures each in twoa length 18 *(27m)* cones extending from you.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, you can instead have it target up to 5 creatures each in twoa length 18 *(27m)* cones extending from you.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -6683,7 +6683,7 @@ For the duration, spells you cast with a casting time of 1 action and a range of
 - **Duration**: Instantaneous
 You delve into your mind palace, instantly poring through memories of study and experimentation in minute detail.
 You can immediately replace a number of your prepared spells equal to your INT modifier.
-At Higher Levels. When you cast this spell using a spell slot of Level 8 or higher, you can use your action to cast a spell this turn as if you had not cast a spell as a bonus action this turn.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you can use your action to cast a spell this turn as if you had not cast a spell as a bonus action this turn.
 - **Classes**: Wizard
 *(Source: CS)*
 
@@ -6752,7 +6752,7 @@ When the spell ends, the phantoms immediately disappear.
 - **Duration**: Instantaneous
 A brilliant globe of magical energy darts from your outstretched hand, unerringly striking a target within range.
 The globe deals 2d10 Force damage to its target, and half as much Force damage to each other creature within 1 *(1.5m)* of it.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the spell creates one additional globe for each slot above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the spell creates one additional globe for each slot above 4.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -6882,7 +6882,7 @@ Until the spell ends, a creature that moves within 1 *(1.5m)* of you for the fir
 - **Components**: V
 - **Duration**: 1 hour
 “I once heard a motivational speech by Jim and it was the worst ninety seconds of my life. What does Omin see in him, anyway?”— Walnut DankgrassYou address allies, staff, or innocent bystanders to exhort and inspire them to greatness, whether they have anything to get excited about or not. Choose up to five creatures within range that can hear you. For the duration, each affected creature gains 5 temporary hit points and has advantage on WIS Saves. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes. Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 5 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the temporary hit points increase by 5 for each slot level above 3rd.
 - **Classes**: Bard, Cleric
 *(Source: AI, page 77)*
 
@@ -6992,7 +6992,7 @@ If you target an undead with this spell, the target doesn't make a Save. Instead
 An agonizing wave of seafoam and stinging tendrils surge forth from you in a length 6 *(9m)* cone.
 Each creature in the area must make a CON Saving Throw. On a failure, a creature takes 6d6 Poison damage. On a success, a creature takes half as much damage.
 A creature that fails this Save by 5 or more additionally is [Paralyzed](conditions.md#paralyzed) until the end of its next turn.
-At Higher Levels. The Poison damage increases by 2d6 for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The Poison damage increases by 2d6 for every slot level above 4.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -7006,7 +7006,7 @@ Requires language proficiency in DrowYou extinguish each light source in a radiu
 On a failure, a creature falls asleep, gaining the [Unconscious](conditions.md#unconscious) condition until the end of your next turn.
 A creature that fails this Save by 5 or more remains [Unconscious](conditions.md#unconscious) for 1 minute, and can repeat this Save at the end of each of its turns, ending the effect on a success.
 An [Unconscious](conditions.md#unconscious) creature wakes if it takes any damage, or if a creature uses an action to wake it.
-At Higher Levels. The range of the Emanation increases by 2 *(3m)* for every slot level above 6.
+**Using a Higher-Level Spell Slot.** The range of the Emanation increases by 2 *(3m)* for every slot level above 6.
 - **Classes**: Bard, Cleric, Druid, Warlock
 *(Source: CS)*
 
@@ -7062,7 +7062,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 Requires a noble title.
 You bind a willing creature to an oath it made in the last minute, cursing it.
 The Cursed creature cannot voluntarily take positive actions directly contrary to that oath, and you know if this curse ends for it.
-At Higher Levels. When you cast this spell using a spell slot of Level 9, the cursed creature additionally cannot be magically compelled to take such actions.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, the cursed creature additionally cannot be magically compelled to take such actions.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -7086,7 +7086,7 @@ While you have three or more Water Weirds created by this spell active, you have
 - **Components**: V, S
 - **Duration**: 1 hour
 A mantle of shadow spreads out behind you, granting you a flying speed of 12 *(18m)* while you are in Dim Light or Darkness for the duration. When you are illuminated by Bright Light or the spell ends, you immediately fall if you are still aloft.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the duration becomes 8 hours.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the duration becomes 8 hours.
 - **Classes**: Cleric, Paladin, Sorcerer
 *(Source: CS)*
 
@@ -7111,7 +7111,7 @@ A creature that is flying makes this Save with disadvantage.
 You conjure a yawning,a radius 2 *(3m)* sphere conduit to Baator in an unoccupied space you can see within range. This portal can be damaged and destroyed (15 AC, 250 HP, immunity to Fire and Poison).
 When you cast this spell, and at the beginning of each of your turns, you can summon a willing creature of CR 5 or lower that you are familiar with from Baator to an unoccupied space within 2 *(3m)* of the portal. When you summon a creature in this way, the portal loses Hit Points equal to half the summoned creature’s maximum Hit Points.
 A creature summoned in this way is banished back to Baator when it is reduced to 0 Hit Points, when the portal is destroyed, or when the spell ends.
-At Higher Levels. The portal’s Hit Points and Hit Point maximum increase by 50 for each spell slot level above 7.
+**Using a Higher-Level Spell Slot.** The portal’s Hit Points and Hit Point maximum increase by 50 for each spell slot level above 7.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -7123,7 +7123,7 @@ At Higher Levels. The portal’s Hit Points and Hit Point maximum increase by 50
 - **Duration**: Instantaneous
 You touch a [prone](conditions.md#prone) creature and a layer of bone begins to encase its body; the creature must succeed on a CON Save or gain 20 Temporary Hit Points.
 While the creature has any of these Temporary Hit Points, it is [Blinded](conditions.md#blinded), [Restrained](conditions.md#restrained), [Choking](conditions.md#choking), and its AC becomes 20.
-At Higher Levels. The Temporary Hit Points increase by 5 for each spell slot level above 2.
+**Using a Higher-Level Spell Slot.** The Temporary Hit Points increase by 5 for each spell slot level above 2.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7205,7 +7205,7 @@ Cantrip Upgrade. The Psychic damage increases by ld8 when you reach levels 5 (2d
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You infest a creature you can see within range with fast-growing spores, causing tendrils of mycelia to burst from its flesh and root it in place. The target must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) for the next minute.
 A creature [Poisoned](conditions.md#poisoned) in this way repeats this Save at the end of each of its turns, ending the effect on a success or taking 6d6 Piercing damage and being [restrained](conditions.md#restrained) until the end of its next turn on a failure. The escape DC is equal to your save DC.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the damage increases by 2d6 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the damage increases by 2d6 for each slot level above 4.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -7313,7 +7313,7 @@ For the duration, you or a creature you choose can ride the steed. The steed use
 You begin an ancient chant which spews forth a slithering cloud of foul, miasmatic vapors that travels between your foes, leaving death in its wake. Make a ranged spell attack against a creature in range.
 On a hit, the target takes 6d6 Necrotic damage.
 If this attack hits, you may have the plague chant leap to another creature within 3 *(4.5m)* of the previous target that you have not yet targeted with this spell this turn. Make a new attack roll against the new target, which could cause this ability to leap again.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, each attack deals an additional 1d6 Necrotic damage for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, each attack deals an additional 1d6 Necrotic damage for each slot level above 4.
 - **Classes**: Cleric
 *(Source: CS)*
 
@@ -7375,7 +7375,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You anoint an edged weapon or piece of ammunition you touch with a drop of your corrupted life essence, poisoning it for the next minute. The first time each turn a creature is dealt piercing or Slashing damage with the weapon, it must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) until the end of its next turn.
 When you cast this spell, you lose one hit point, then may choose to lose one unexpended hit die. If you do, the spell doesn’t require Concentration.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional weapon or piece of ammunition in range for each two slot levels above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional weapon or piece of ammunition in range for each two slot levels above 1.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -7409,7 +7409,7 @@ The target must then make a WIS Saving Throw. On a failure, the target is additi
 - **Duration**: Instantaneous
 A blast of icy wind rushes out from you in each direction, driving your foes away.
 Each creature within 2 *(3m)* of you must succeed on a STR Save or take 3d8 Cold damage and be pushed up to 2 *(3m)* away.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the spell’s radius and the distance a creature is pushed on a failed Save each increase by 1 *(1.5m)* for each slot level above 2
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the spell’s radius and the distance a creature is pushed on a failed Save each increase by 1 *(1.5m)* for each slot level above 2
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7510,7 +7510,7 @@ The [Stunned](conditions.md#stunned) target makes a CON Save at the end of each 
 - **Components**: V
 - **Duration**: 1 round
 You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and has the Dazed condition until the end of its next turn. This damage can’t reduce a creature below 1 Hit Point.
-At Higher Levels. The Psychic damage increases by 10 for every slot level above 5.
+**Using a Higher-Level Spell Slot.** The Psychic damage increases by 10 for every slot level above 5.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7770,7 +7770,7 @@ You touch a creature, attempting to violently drive the impurities from its body
 The target must make a CON Save. On a failed save, the target takes 10d8 Necrotic damage, plus an additional 2d8 Necrotic damage for each condition affecting it.
 On a successful save, the target takes half as much damage, then each condition affecting it ends.
 The conditions ended can be [bleeding](conditions.md#bleeding), [blinded](conditions.md#blinded), [burning](conditions.md#burning), [charmed](conditions.md#charmed), [choking](conditions.md#choking), confused, cursed, dazed, [deafened](conditions.md#deafened), diseased, dominated, [frightened](conditions.md#frightened), [paralyzed](conditions.md#paralyzed), [petrified](conditions.md#petrified), [poisoned](conditions.md#poisoned), possessed, [stunned](conditions.md#stunned), or turned.
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the additional Necrotic damage per condition increases by 1d8 damage for each slot level beyond 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the additional Necrotic damage per condition increases by 1d8 damage for each slot level beyond 6.
 - **Classes**: Cleric, Druid, Wizard
 *(Source: CS)*
 
@@ -7827,7 +7827,7 @@ You suppress one spell of Level 7 or below affecting a space or creature you can
 You trigger an overwhelming fight or flight response in a creature you can see within range, forcing it to make a WIS Save.
 On a failure, the creature is [Frightened](conditions.md#frightened) until the end of your next turn and must use its reaction, if available, to move half its speed directly away from you.
 On a successful Save, the target can use its reaction to make a melee attack.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, you can target one additional target for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you can target one additional target for each slot level above 1.
 - **Classes**: Druid, Ranger, Warlock
 *(Source: CS)*
 
@@ -7841,7 +7841,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 2 or high
 Three bolts of fire flare from above, each exploding in a radius 1 *(1.5m)* sphere centered on a point within range you can see.
 Each flammable object in the area of one or more explosions ignites, and each creature in the area of one or more of the explosions must make a DEX Save, unless it is beneath total cover.
 On a failed Save, a creature takes 3d6 Fire damage.
-At Higher Levels. When you cast this spell using a spell slot of 3th level or above, the spell’s Fire damage increases by 1d6 for each two slot levels above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3th level or above, the spell’s Fire damage increases by 1d6 for each two slot levels above 2.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7866,7 +7866,7 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tes
 - **Duration**: Instantaneous
 You rais an earthen mound from an area of loose earth you can see within range.
 The mound is 1 *(1.5m)* high, 2 *(3m)* wide, and up to 6 *(9m)* long. The area becomes difficult terrain and provides half cover against ranged attacks.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, you can create an additional mound within range for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can create an additional mound within range for each slot level above 2.
 - **Classes**: Artificer, Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -7877,7 +7877,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 3 or high
 - **Components**: V, S
 - **Duration**: Instantaneous
 A jagged spire of stone bursts from the earth in a spray of debris in a height 6 *(9m)*,a radius 1 *(1.5m)* sphere Column you can see within range. Each creature in the area is pushed to the nearest unoccupied space and must make a DEX Saving Throw. On a Failure, a creature takes 8d6 Slashing damage. On a Failure by 5 or More, the target is additionally launched up to 6 *(9m)* into the air.
-At Higher Levels. The damage increases by 1d6 for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for every slot level above 4.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -7889,7 +7889,7 @@ At Higher Levels. The damage increases by 1d6 for every slot level above 4.
 - **Duration**: 1 hour
 Up to 5 corpses within 12 *(18m)* of you that have been dead for no longer than 1 year rise as Horde Ghouls that act on your turn and follow your metal commands.
 The ghouls remain animate for 1 hour, after which time they collapse and die.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, it may animate 5 additional Horde Ghouls for each slot level above 5. If you cast this spell using a spell slot of Level 9, it may animate any number of Horde Ghouls from corpses within range.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, it may animate 5 additional Horde Ghouls for each slot level above 5. If you cast this spell using a spell slot of Level 9, it may animate any number of Horde Ghouls from corpses within range.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7924,7 +7924,7 @@ When the spell ends or the rat-king drops to 0 Hit Points, it reverts to its nor
 - **Duration**: Instantaneous
 You unleash a shimmering lance of psychic power from your forehead at a creature that you can see within range. Alternatively, you can utter a creature's name. If the named target is within range, it becomes the spell's target even if you can't see it. If the named target isn't within range, the lance dissipates without effect.
 The target must make an INT Save. On a failed save, the target takes 7d6 psychic damage and is [incapacitated](conditions.md#incapacitated) until the start of your next turn. On a successful save, the creature takes half as much damage and isn't [incapacitated](conditions.md#incapacitated).
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, the damage increases by 1d6 for each slot level above 4th.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: FTD, page 21)*
 
@@ -7969,7 +7969,7 @@ You shoot a greenish ray at a creature within range. Make a ranged spell attack 
 - **Duration**: Instantaneous
 A field of frozen blades bursts forth in a length 6 *(9m)* cone extending from a point you can see within range and shatters; each creature in the area must make a 5d8 Cold damage plus 5d6 Slashing damage.
 On a success, a creature takes half as much damage.
-At Higher Levels. The Cold damage increases by 1d8 and the Slashing damage increases by 1d6 for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The Cold damage increases by 1d8 and the Slashing damage increases by 1d6 for each spell slot level above 6.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7992,7 +7992,7 @@ The zombies remain under your control for 1 minute, after which they become host
 - **Duration**: Instantaneous
 Wisps of shadow rush forth at your command, tearing through a creature within range. Make a ranged spell attack.
 On a hit, the target takes 6d8 Psychic damage. Then, if the target is attuned to one or more magic items, it must succeed on a CHAa Save or lose attunement to one such item of its choice.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the Psychic damage increases by 1d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Psychic damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -8004,7 +8004,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 - **Duration**: Instantaneous
 Rivulets of dust swirl through the air in a radius 4 *(6m)* emanation from you. Each creature in the area must make a CON Saving Throw. On a Failure, a creature takes 6d10 Force damage plus 4d8 Necrotic damage. On a Success, a creature takes half damage.
 Then, each plant, corpse, and organic object in the area that isn’t magical disintegrates.
-At Higher Levels. If you use a level 9 spell slot, the damage is maximized, instead of rolling.
+**Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, the damage is maximized, instead of rolling.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -8107,7 +8107,7 @@ Requires proficiency in Thieves’ Cant.
 You touch a corpse or other remains, infusing it with a jolt of necromantic power. For the duration, the target counts as Undead (rather than as a corpse), and can’t be returned to life.
 The spell also effectively prevents effects such as Speak With Dead, Gentle Repose, or Animate Dead from working on the target, since they can’t affect Undead.
 At DM discretion, this spell might increase the likelihood of spontaneous forms of undeath.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the effect lasts until dispelled.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the effect lasts until dispelled.
 - **Classes**: Cleric, Wizard
 *(Source: CS)*
 
@@ -8179,7 +8179,7 @@ You touch a creature that has died within the last minute. That creature revives
 A bridge of ice binds two creatures within 1 *(1.5m)* of each other that you can see within range.
 Each bound creature is dragged with the other when it moves, can move only at half its Speed, and takes 4d8 Cold damage at the start of each of its turns.
 A creature can shatter this bridge as an Action with a successful STR Save or by destroying it (AC 15, 30 HP, Vulnerability to Fire).
-At Higher Levels. The Hit Points of the ice increase by 15 for each spell slot level above 5.
+**Using a Higher-Level Spell Slot.** The Hit Points of the ice increase by 15 for each spell slot level above 5.
 - **Classes**: Druid, Ranger, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -8192,7 +8192,7 @@ At Higher Levels. The Hit Points of the ice increase by 15 for each spell slot l
 You raise a radius 6 *(9m)* sphere spherical barrier of opaque ice centered on a point you can see within 12 *(18m)*, where it appears suspended and stationary in space, requiring no support. If the barrier cuts through a creature’s space when it appears, the creature within its area is pushed to a side of the wall of the creature’s choice.
 The barrier can be damaged and destroyed (AC 10, 100 Hit Points, vulnerability to Fire damage), and whenever a creature deals 25 or more damage to the barrier in a turn it may open a breach large enough for a Medium creature to squeeze through at a point in the attack’s reach or range.
 If the barrier has 50 Hit Points or fewer, a Large creature may squeeze through any hole opened in it.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the barrier’s Hit Points increase by 10 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the barrier’s Hit Points increase by 10 for each slot level above 5.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8203,7 +8203,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 6 or high
 - **Components**: S
 - **Duration**: Instantaneous
 A burst of cold energy emanates from you in a length 6 *(9m)* cone. Each creature in that area must make a CON Save. On a failed save, a creature takes 3d8 cold damage and is hindered by ice formations for 1 minute, or until it or another creature within reach of it uses an action to break away the ice. A creature hindered by ice has its speed reduced to 0. On a successful save, a creature takes half as much damage and isn't hindered by ice.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, increase the cold damage by 1d8 for each slot level above 2nd.
 - **Classes**: Sorcerer, Wizard
 *(Source: FTD, page 21)*
 
@@ -8237,7 +8237,7 @@ You kindle the bloodlust of a friendly creature you can see within range. The cr
 You wrench an unbound Demon from the depths of The Abyss, conjuring it to an unoccupied space within range. You choose the Demon’s type, which must be of Challenge Rating 7 or below.
 The demon acts on its own Initiative under the DM’s control, is hostile to all creatures including you, and remains until it is reduced to 0 Hit Points, at which point it is banished back to The Abyss.
 Most demons summoned in this way will attack the nearest creature on each of their turns, and will rampage indiscriminately until destroyed.
-At Higher Levels. The Challenge Rating of Demons you can summon this way increases by 2 for every slot level above 5.
+**Using a Higher-Level Spell Slot.** The Challenge Rating of Demons you can summon this way increases by 2 for every slot level above 5.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -8249,7 +8249,7 @@ At Higher Levels. The Challenge Rating of Demons you can summon this way increas
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You disintegrate one nonmagical metal object you can see within range into a flurry of razor flakes, destroying it.
 Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Save. On a failure, a target takes 6d6 Slashing damage and begins [Bleeding](conditions.md#bleeding) (2d6).
-At Higher Levels. The damage increases by 3d6 for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The damage increases by 3d6 for each spell slot level above 6.
 - **Classes**: Cleric, Druid, Warlock
 *(Source: CS)*
 
@@ -8273,7 +8273,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a creature that that does not have all of its Hit Points, flooding its wounds with deadly salts. The target must make a CON Saving Throw. On a failure, the target takes 4d10 Necrotic damage. On a success, the target takes half as much damage.
 If the target is [Bleeding](conditions.md#bleeding), this damage is maximized and the condition ends for it.
-At Higher Levels. The Necrotic damage increases by 1d10 for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The Necrotic damage increases by 1d10 for every slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8309,7 +8309,7 @@ When one or more of these targets rolls initiative in the area, each target in t
 You conjure forth a raging whirlwind of blood in a radius 3 *(4.5m)* circle centered on a point you can see within range.
 The area is difficult terrain, and a living creature that starts its turn in the area must succeed on a CON Save or lose one unexpended hit die, or drop to 0 Hit Points if it cannot.
 Whenever a creature loses a hit die in this way, the whirlwind’s radius grows by 1 *(1.5m)*, then each creature in its area takes 1d6 Slashing damage.
-At Higher Levels. If you cast this spell using a spell slot of Level 7 or higher, the Duration is 1 hour. If you use a Level 9 spell slot, the spell lasts until it is dispelled. Using a spell slot of Level 7 or higher grants a Duration that doesn’t require Concentration.
+**Using a Higher-Level Spell Slot.** If you cast this spell using a spell slot of Level 7 or higher, the Duration is 1 hour. If you use a Level 9 spell slot, the spell lasts until it is dispelled. Using a spell slot of Level 7 or higher grants a Duration that doesn’t require Concentration.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -8341,7 +8341,7 @@ The air quivers around up to five creatures of your choice that you can see with
 - **Duration**: Instantaneous
 You launch a cascade of shimmering orbs in a length 12 *(18m)* cone that detonate as they land, forcing each creature in the Cone’s area to make three DEX Saves.
 For each failed Save, a creature takes 3d6 damage of one type of your choice. The chosen type may be acid, cold, fire, lightning, or thunder.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or above, damage suffered on each failed Save increases by 1d6 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or above, damage suffered on each failed Save increases by 1d6 for each slot level above 5.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -8363,7 +8363,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 - **Components**: V
 - **Duration**: Instantaneous
 A tearing, sand-filled wind whips forth from you in a undefined, undefined Line, forcing each creature in the area to make a CON Saving Throw. On a Failure, a creature takes 10d6 Slashing damage, is pushed up to 2 *(3m)* away and is [Blinded](conditions.md#blinded) until the end of your next turn. On a Success, a creature takes half damage.
-At Higher Levels. The line’s width increases by 1 *(1.5m)* for every slot level above 5.
+**Using a Higher-Level Spell Slot.** The line’s width increases by 1 *(1.5m)* for every slot level above 5.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8386,7 +8386,7 @@ If the target is affected by one or more magical effects such as a contract, cur
 - **Components**: V, S
 - **Duration**: Instantaneous
 You call down a harsh burst of cleansing light on a creature you can see within range. The target must make a DEX Save. On a failure, it takes 2d8 Radiant damage and you can end one spell of level 3 or below affecting it.
-At Higher Levels. The Radiant damage increases by 2d8 for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The Radiant damage increases by 2d8 for each spell slot level above 3.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -8398,7 +8398,7 @@ At Higher Levels. The Radiant damage increases by 2d8 for each spell slot level 
 - **Duration**: Instantaneous
 As a reaction when a creature you can see targets you with a melee attack, you scream a gout of vengeful flame at your attacker, forcing it to succeed on a DEX Save or take 3d6 Fire damage and make its attack with disadvantage.
 A Dragonborn or Draconic Bloodline Sorcerer that casts this spell may choose for this damage to instead be of the type associated with their draconic ancestry.
-At Higher Levels. When you cast this spell using a spell slot of Level 2 or higher, you may make this reaction when targeted by a ranged or melee attack made by a creature you can see within 12 *(18m)* of you.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may make this reaction when targeted by a ranged or melee attack made by a creature you can see within 12 *(18m)* of you.
 - **Classes**: Sorcerer
 *(Source: CS)*
 
@@ -8438,7 +8438,7 @@ On a successful Save, the creature gains the full benefit of the magical healing
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A translucent cyst of smoking flesh burgeons forth to encase a creature you can see within range, forcing it to make a DEX Save. On a failure, the target is [Restrained](conditions.md#restrained). The escape DC is equal to your spell save DC.
 While [Restrained](conditions.md#restrained) in this way, the creature takes 4d10 Fire damage at the beginning of each of its turns. If the creature dies while [Restrained](conditions.md#restrained) in this way, it is teleported to Avernus, where it returns to life with 1 Hit Point.
-At Higher Levels. The damage increases by 2d10 for each spell slot level above 6.
+**Using a Higher-Level Spell Slot.** The damage increases by 2d10 for each spell slot level above 6.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -8509,7 +8509,7 @@ You can set a condition for the spell to end early. The condition can be anythin
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You weave together threads of shadow to create a sword of solidified gloom in your hand. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 2d8 psychic damage on a hit and has the finesse, light, and thrown properties (range 20/60). In addition, when you use the sword to attack a target that is in dim light or darkness, you make the attack roll with advantage.
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
-At Higher Levels. When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8. When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8. When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: XGE, page 164)*
 
@@ -8523,7 +8523,7 @@ You transform a segment of a nonmagical object or surface into an illusory versi
 The segment can be no larger than a size 3 *(4.5m)* cube, and must extend from a point on the object or surface you can see within range. The transformed segment’s appearance remains unchanged, but it otherwise acts as empty space.
 A creature can use its action to make an INT (Investigation) or WIS (Perception) check against your spell save DC to notice this effect. The effect is self-evident to a creature that physically interacts with the object. A creature inside the object can see through it as though it were transparent.
 When the spell ends, each creature and object in the space is ejected to the nearest unoccupied space and takes 1d10 Force damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the maximum size of the affected segment increases by 1 *(1.5m)* in each direction for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the maximum size of the affected segment increases by 1 *(1.5m)* in each direction for each slot level above 5.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -8568,7 +8568,7 @@ A creature [grappled](conditions.md#grappled) by you makes this Save with disadv
 - **Components**: V, S
 - **Duration**: Instantaneous
 You teleport to an unoccupied space you can see within range. This spell fails if you or your destination is illuminated by Bright Light.
-At Higher Levels. The range increases by 2 *(3m)* for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The range increases by 2 *(3m)* for every slot level above 2.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -8620,7 +8620,7 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 You send a spray of jagged stone shards flying in a length 3 *(4.5m)* cone. Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d6 Piercing damage.
 On a Failure by 5 or More, the creature takes the effect’s damage and also is [Blinded](conditions.md#blinded) until the end of its next turn.
 On a Success, a creature takes half damage.
-At Higher Levels. The Piercing damage increases by 1d6 for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The Piercing damage increases by 1d6 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -8646,7 +8646,7 @@ A cloud of hateful seed-crystals swarms a creature you can see within range, bor
 If this damage reduces the target to 40 Hit Points or fewer, it must succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed) until the end of its next turn.
 If the target fails this Save by 5 or more, it dies, freezes solid, and shatters into pieces.
 Damage dealt by this spell ignores resistance and immunity to Cold damage.
-At Higher Levels. If you use a level 9 spell slot, the damage increases by 40.
+**Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, the damage increases by 40.
 - **Classes**: Druid, Warlock
 *(Source: CS)*
 
@@ -8735,7 +8735,7 @@ The [Choking](conditions.md#choking) creature repeats this Save at the end of ea
 - **Duration**: Instantaneous
 You drain the moisture from the mouth of a creature, punishing it for casting a spell. After the spell resolves, the target must succeed on a CON Save or take 2d8 Necrotic damage and be unable to speak or perform the verbal components of spells until the end of its next turn.
 On a successful Save, the target takes half as much damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or above, the spell’s damage increases by 2d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or above, the spell’s damage increases by 2d8 for each slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8758,7 +8758,7 @@ If you teleported 2 *(3m)* or fewer in this way, this attack has advantage.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You call forth a foul plume of smoke within a creature you can see within range. The target must make a CON Save. On a failure, the target is [Poisoned](conditions.md#poisoned) for the duration, and repeats this Save at the end of each of its turns, ending the effect on a success.
 Whenever the [Poisoned](conditions.md#poisoned) creature speaks or casts a spell with a verbal component for the first time on a turn, it takes 4d6 Poison damage and is [Blinded](conditions.md#blinded) until the beginning of its next turn.
-At Higher Levels. The damage increases by 2d6 for each spell slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by 2d6 for each spell slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -8782,7 +8782,7 @@ When a creature moves into the spell's area for the first time on a turn or star
 A befouling wind blows in a length 12 *(18m)* line that is 2 *(3m)* across, traveling from one point you can see within range to another.
 Each creature in the area must succeed on a STR Save or take 6d6 Poison damage and be pushed up to 4 *(6m)* in the direction of the wind’s travel.
 On a successful Save, a creature takes half as much damage and is not pushed.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or above, a creature that fails its Save against this spell is additionally Poisoned until the end of your next turn.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, a creature that fails its Save against this spell is additionally Poisoned until the end of your next turn.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -8794,7 +8794,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 5 or abov
 - **Duration**: Instantaneous
 You plunge a hand into a surface made of nonmagical earth or stone, tearing forth a slab and flinging it at a target within range.
 The target must make either a STR or DEX Saving Throw (target’s choice). On a , the target takes 7d8 Bludgeoning damage and is [Prone](conditions.md#prone). On a Success, the target takes half damage.
-At Higher Levels. The damage increases by 2d8 for every slot level above 3.
+**Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -8865,7 +8865,7 @@ The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts t
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You assail the senses of a creature you can see within range, making it feel as though the earth has ceased to support them and they are falling into it. The creature must succeed on an INT Save or fall [prone](conditions.md#prone) and be [Blinded](conditions.md#blinded) for the next minute.
 When the target stands from [prone](conditions.md#prone), the effect ends and the creature takes 4d10 Psychic damage, feeling as though its spirit has smashed into its body after a long fall.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the target must repeat this Save whenever it attempts to stand, taking 2d10 Psychic damage and failing to stand on a failed save.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the target must repeat this Save whenever it attempts to stand, taking 2d10 Psychic damage and failing to stand on a failed save.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -8968,7 +8968,7 @@ Creatures that don't sleep, such as elves, or that have Immunity to the Exhausti
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 Requires language proficiency in DrowYou target one [Blinded](conditions.md#blinded), [Poisoned](conditions.md#poisoned), or [Incapacitated](conditions.md#incapacitated) creature that you can see within range, forcing it to make a CON Saving Throw.
 On a failure, the target falls asleep and is [Unconscious](conditions.md#unconscious) for the duration. The creature can repeat this Save whenever it takes damage or when a creature uses an action to attempt to wake it, ending the effect on a success.
-At Higher Levels. The duration increases by 1 hour for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The duration increases by 1 hour for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -9069,7 +9069,7 @@ When the target ends its turn illuminated by Bright Light, it can repeat this Sa
 - **Duration**: Instantaneous
 You call upon elements of the natural environment, weaving them together into components of a spiked cage that crashes together around a creature you can see within range.
 The target must succeed on a DEX Save or take 4d8 Piercing damage and be [restrained](conditions.md#restrained) until the beginning of its next turn, or take half as much damage on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -9096,7 +9096,7 @@ After the trap is triggered, the spell ends when no creature is [restrained](con
 - **Components**: V, S
 - **Duration**: Instantaneous
 A flurry of magic snowballs erupts from a point you choose within range. Each creature in a radius 1 *(1.5m)* sphere centered on that point must make a DEX Save. A creature takes 3d6 cold damage on a failed save, or half as much damage on a successful one.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.
 - **Classes**: Sorcerer, Wizard
 *(Source: XGE, page 165)*
 
@@ -9179,7 +9179,7 @@ This Save cannot be failed voluntarily.
 - **Duration**: 1 hour
 You plant a spectral seed in a Medium or Large plant within 1 *(1.5m)*, transforming it into a Gravesnag that remains under your control for the next hour, after which it becomes hostile to you and your allies and indifferent to all other creatures.
 This control ends early if you give the gravesnag a suicidal command, or if you or your allies deal any damage to it.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Gravesnag dies when the spell ends.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Gravesnag dies when the spell ends.
 Spawn Blood Echo
 - **Classes**: Druid, Ranger
 *(Source: CS)*
@@ -9305,7 +9305,7 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable.
 Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 2 *(3m)* of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
 In addition, any creature of your choice that you can see that starts its turn within 2 *(3m)* of you has its speed reduced by 2 *(3m)* until the start of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
 - **Classes**: 
 *(Source: TCE, page 108)*
 
@@ -9317,7 +9317,7 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the reaper spirit stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.
 The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
 - **Classes**: 
 *(Source: BMT, page 50)*
 
@@ -9383,7 +9383,7 @@ You may pass through other creatures and move through a space as small as 3cm wi
 - **Components**: V, S
 - **Duration**: Instantaneous
 You spray a length 3 *(4.5m)* cone of spectral cards. Each creature in that area must make a DEX Save. On a failed save, a creature takes 2d10 force damage and is [blinded](conditions.md#blinded) until the end of its next turn. On a successful save, a creature takes half as much damage only.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
 - **Classes**: 
 *(Source: BMT, page 50)*
 
@@ -9395,7 +9395,7 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 - **Duration**: 1 minute
 A roiling growth of multifarious fungus that lasts for a minute bursts forth in a radius 1 *(1.5m)* circle centered on a point you can see within range, exuding toxic spores.
 The area is difficult terrain for nonplant creatures other than you, and a nonplant creature that starts its turn in the area takes 20 Poison damage. This effect ends early if the area is dealt 20 or more fire or Radiant damage from a single source.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, you may create an additional area of fungal growth centered on a point you can see within range for every two slot levels above the 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you may create an additional area of fungal growth centered on a point you can see within range for every two slot levels above the 3.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -9418,7 +9418,7 @@ The target takes an extra 4d6 Psychic damage from the attack, and the target mus
 - **Duration**: 1 round
 You inculcate a dreadful fear of light in a creature you can see within range, forcing it to make a WIS Save.
 On a failure, the target is [Frightened](conditions.md#frightened) of each source of Bright Light it can see until the end of its next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, you can target one additional target for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you can target one additional target for each slot level above 3.
 - **Classes**: Bard, Cleric, Paladin, Warlock
 *(Source: CS)*
 
@@ -9463,7 +9463,7 @@ You launch a mote of light at one creature or object within range. Make a ranged
 Your fingers crackle with electricity as you reach for a creature. Make a melee spell attack.
 On a hit, the target takes 3d10 Lightning damage. A target dealt 20 or more Lightning damage by this attack is pushed up to 3 *(4.5m)* away and is dazed until the end of its next turn.
 The dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or above, the Lightning damage increases by 1d10 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, the Lightning damage increases by 1d10 for each slot level above 2.
 - **Classes**: Artificer
 *(Source: CS)*
 
@@ -9520,7 +9520,7 @@ Each creature that starts its turn in the Sphere must succeed on a CON Save or b
 You levitate a Gargantuan (radius 4 *(6m)*) clump of rock and soil within 60 *(90m)*, wrenching it from the earth and up to 12 *(18m)* into the air. At the beginning of each of your turns, you can move the clump up to 12 *(18m)*.
 Each creature standing on the clump when it moves, or whose space the clump enters, gains the [Prone](conditions.md#prone) condition.
 When the spell ends, the clump falls; each creature on it and each creature in a radius 4 *(6m)* sphere Column beneath it must make a DEX Saving Throw. On a Failure, a creature takes 8d8 Bludgeoning damage is buried alive, gaining the [Restrained](conditions.md#restrained) condition if it does not have a Burrow speed. The escape DC is equal to your spell save DC. On a Success, a creature takes half damage.
-At Higher Levels. The radius of the clump you can levitate, and of the Column beneath it when it falls, increases by 1 *(1.5m)* for every slot level above 7.
+**Using a Higher-Level Spell Slot.** The radius of the clump you can levitate, and of the Column beneath it when it falls, increases by 1 *(1.5m)* for every slot level above 7.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9532,7 +9532,7 @@ At Higher Levels. The radius of the clump you can levitate, and of the Column be
 - **Duration**: Instantaneous
 You cast a handful of small stones into the air, where they grow into a rain of boulders, falling in a radius 2 *(3m)* sphere, height 6 *(9m)* Column within range.
 Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d8 Bludgeoning damage. On a Failure by 5 or More, a creature takes the spell’s damage and additionally is [Prone](conditions.md#prone). On a Success, a creature takes half damage.
-At Higher Levels. The Bludgeoning damage increases by 1d8 for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by 1d8 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9556,7 +9556,7 @@ Oily acid pours down in a radius 2 *(3m)* sphere, height 8 *(12m)* Cylinder with
 When you cast this spell and at the start of each of your turns, nonmagical stone in the area is disintegrated to a depth of 2 *(3m)*. A creature that starts its turn in the area must make a DEX Saving Throw.
 On a failure, the creature takes 8d8 Acid damage, plus an additional 4d6 Fire damage if the creature is touching a stone surface.
 On a success, a creature takes half damage.
-At Higher Levels. The Cylinder’s radius and height each increase by 2 *(3m)* for every slot level above 7.
+**Using a Higher-Level Spell Slot.** The Cylinder’s radius and height each increase by 2 *(3m)* for every slot level above 7.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9568,7 +9568,7 @@ At Higher Levels. The Cylinder’s radius and height each increase by 2 *(3m)* f
 - **Duration**: 1 minute
 A field of stones springs into the air around you, shielding you from harm. For the duration, you have a +3 bonus to your AC.
 This effect ends early if you are hit with an attack, or if you cast another spell that provides a magical bonus to your AC.
-At Higher Levels. The duration increases to 10 minutes if you use a slot level above 2.
+**Using a Higher-Level Spell Slot.** The duration increases to 10 minutes if you use a slot level above 2.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -9591,7 +9591,7 @@ Until the spell ends, one willing creature you touch has Resistance to Bludgeoni
 a radius 4 *(6m)* sphere of whirling air springs into existence, centered on a point you choose within range. The sphere remains for the spell's duration. Each creature in the sphere when it appears or that ends its turn there must succeed on a STR Save or take 2d6 bludgeoning damage. The sphere's space is difficult terrain.
 Until the spell ends, you can use a bonus action on each of your turns to cause a bolt of lightning to leap from the center of the sphere toward one creature you choose within 12 *(18m)* of the center. Make a ranged spell attack. You have advantage on the attack roll if the target is in the sphere. On a hit, the target takes 4d6 lightning damage.
 Creatures within 6 *(9m)* of the sphere have disadvantage on WIS (Perception) checks made to listen.
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by 1d6 for each slot level above 4th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, the damage for each of its effects increases by 1d6 for each slot level above 4th.
 - **Classes**: Sorcerer, Wizard
 *(Source: XGE, page 166)*
 
@@ -9771,7 +9771,7 @@ You utter foul words, summoning one demon from the chaos of the Abyss. You choos
 Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
 At the end of each of the demon's turns, it makes a CHAa Save. The demon has disadvantage on this Save if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can't cross the circle or harm it, and it can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
-At Higher Levels. When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 166)*
 
@@ -9785,7 +9785,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 d6Demons Summoned1-2Two demons of challenge rating 1 or lower3-4Four demons of challenge rating 1/2 or lower5-6Eight demons of challenge rating 1/4 or lowerThe DM chooses the demons, such as manes or dretches, and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demons can't cross the circle or harm it, and they can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
-At Higher Levels. When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 167)*
 
@@ -9797,7 +9797,7 @@ At Higher Levels. When you cast this spell using a spell slot of 6th or 7th leve
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
 - **Classes**: 
 *(Source: TCE, page 113)*
 
@@ -9856,7 +9856,7 @@ A creature can use its action to repeat this Save, or to make a STR (Athletics) 
 - **Components**: V, S
 - **Duration**: 1 hour
 Requires language proficiency in DrowYou gather shadows to yourself, soaking your flesh in darkness. For 1 hour, you ignore the effects of Sunlight Sensitivity, and have Advantage on checks made to Hide while in Darkness.
-At Higher Levels. If you use a level 3 or higher spell slot, the duration is 8 hours.
+**Using a Higher-Level Spell Slot.** If you use a level 3 or higher spell slot, the duration is 8 hours.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9933,11 +9933,11 @@ When a creature you can see within range casts that spell, you can reveal your c
 *Transmutation Cantrip*
 - **Casting Time**: Bonus Action
 - **Range**: Self
-- **Components**: M (a melee weapon that deals Bludgeoning damage worth at least 1 sp)
+- **Components**: M (a melee weapon that deals Bludgeoning damage)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 Requires proficiency in Thieves’ Cant.
 You twirl the weapon used in the spell’s casting, deftly manipulating its weight. Until the beginning of your next turn, the weapon counts as having the Finesse property, and adds both your STR and DEX modifiers to its damage on a hit, rather than just one of those.
-At Higher Levels. At Higher Levels. At Level 5, a creature hit with the weapon used in the spell’s casting is pushed 1 *(1.5m)* away. This distance increases by 1 *(1.5m)* at 11th level (2 *(3m)*) and 17th level (3 *(4.5m)*.
+**Using a Higher-Level Spell Slot.** At Level 5, a creature hit with the weapon used in the spell’s casting is pushed 1 *(1.5m)* away. This distance increases by 1 *(1.5m)* at 11th level (to a total of 2 *(3m)*) and 17th level (to a total of 3 *(4.5m)*).
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9960,7 +9960,7 @@ Potions obtained from the cauldron that aren't consumed disappear when you cast 
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A stream of acid emanates from you in a line 6 *(9m)* long and 1 *(1.5m)* wide in a direction you choose. Each creature in the line must succeed on a DEX Save or be covered in acid for the spell's duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at start of each of its turns.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
 - **Classes**: Artificer
 *(Source: TCE, page 115)*
 
@@ -9983,7 +9983,7 @@ At the end of each of its turns and each time it takes damage, it makes another 
 - **Components**: V
 - **Duration**: 1 round
 You psychically lash out at one creature you can see within range. The target must make an INT Save. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 6 *(9m)* of each other when you target them.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 6 *(9m)* of each other when you target them.
 - **Classes**: 
 *(Source: TCE, page 115)*
 
@@ -10199,7 +10199,7 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 You disrupt a creature’s thoughts. Make a melee spell attack against the target. On a hit, the target takes 6d10 nonlethal Psychic damage and must succeed on an INT Save or suffer one of the following effects of your choice:Until the end of your next turn, the target’s Proficiency Bonus is reduced to 0.
 Until the end of your next turn, the target treats all other creatures as hostile.
 You can choose one spell; until the target completes a Short or Long Rest, it can’t cast that spell.
-At Higher Levels. The damage increases by 1d10 for each spell slot level above 4.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock
 *(Source: CS)*
 
@@ -10224,7 +10224,7 @@ A target that is Concentrating on a spell has disadvantage on this Save, and is 
 - **Duration**: Instantaneous
 You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, and each creature within 2 *(3m)* of the space you left must make a CON Save, taking 3d10 thunder damage on a failed save, or half as much damage on a successful one. The thunder can be heard from up to 60 *(90m)* away.
 You can bring along objects as long as their weight doesn't exceed what you can carry. You can also teleport one willing creature of your size or smaller who is carrying gear up to its carrying capacity. The creature must be within 1 *(1.5m)* of you when you cast this spell, and there must be an unoccupied space within 1 *(1.5m)* of your destination space for the creature to appear in; otherwise, the creature is left behind.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d10 for each slot level above 3rd.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: XGE, page 168)*
 
@@ -10257,7 +10257,7 @@ Your strike rings with thunder that is audible within 60 *(90m)* of you, and the
 - **Components**: S
 - **Duration**: Instantaneous
 Make a melee spell attack. On a hit, the target takes 5d10 Thunder damage and is pushed 3 *(4.5m)* away from you. A creature pushed into a wood or plaster wall or object less than a 30cm thick is pushed through it.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d10 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d10 for each slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -10292,7 +10292,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 Requires language proficiency in DrowA wave of soporific violet motes washes forth from you in a length 6 *(9m)* cone.
 Each creature in the area has the Dazed condition until the end of your next turn and must make a WIS Saving Throw.
 On a failure, the creature additionally falls asleep, gaining the [Unconscious](conditions.md#unconscious) condition until the end of your next turn. The creature wakes early if it takes any damage.
-At Higher Levels. The Cone’s size increases by 2 *(3m)* for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The Cone’s size increases by 2 *(3m)* for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -10317,7 +10317,7 @@ You touch one Tiny, nonmagical object that isn't attached to another object or a
 As a bonus action, you can mentally command the creature if it is within 24 *(36m)* of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.
 ) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.
 When the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.
 - **Classes**: Artificer, Wizard
 *(Source: XGE, page 168)*
 
@@ -10329,7 +10329,7 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 - **Duration**: Instantaneous
 You shout forth a magically amplified roar in a length 6 *(9m)* cone.
 Each creature in the area takes 4d8 Thunder damage, then must makea WIS Save. On a failure, a creature is [Frightened](conditions.md#frightened) until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the Thunder damage increases by 1d8 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Thunder damage increases by 1d8 for each slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer
 *(Source: CS)*
 
@@ -10397,7 +10397,7 @@ Whenever a creature within 6 *(9m)* of you takes any bludgeoning, piercing, or S
 A web of electricity envelops a creature you can see within range, forcing it to make a CON Save.
 On a failed Save, the target takes 4d6 Lightning damage and is [restrained](conditions.md#restrained) until the end of your next turn.
 This restraint’s escape DC is equal to your Spell Save DC.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or above, you can target one additional creature for each two slot levels above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, you can target one additional creature for each two slot levels above 2.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10548,7 +10548,7 @@ While Dominated in this way, the creature takes 1d10 Psychic damage whenever it 
 You send a snarling maw of flame forward to seek a target in range. Make a ranged spell attack, ignoring half-cover and three-quarters cover.
 On a hit, the target takes 4d6 Piercing damage plus 4d6 Fire damage.
 This attack can target any creature in range to which a traversable path exists, even if it is behind total cover.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -10563,7 +10563,7 @@ One creature you can see within range sinks into its own shadow (no Save), falli
 The creature takes 4d6 Psychic damage at the beginning of each of its turns, and can use its action to attempt to claw its way out with a STR (Athletics) or DEX (Acrobatics) check, ending the effect on a success.
 When it does, a creature within 1 *(1.5m)* of the space the affected creature departed can use its reaction to give the creature advantage on its check.
 When this effect ends for a creature, it reappears in the space it departed from, or the nearest unoccupied space if it cannot.
-At Higher Levels. When you cast this spell using a spell slot of Level 9, the Psychic damage increases by 4d6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, the Psychic damage increases by 4d6.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10576,7 +10576,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 9, the Ps
 You send a snarling maw of flame forward to seek a target in range. Make a ranged spell attack, ignoring half-cover and three-quarters cover.
 On a hit, the target takes 4d6 Piercing damage plus 4d6 Fire damage.
 This attack can target any creature in range to which a traversable path exists, even if it is behind total cover.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -10659,7 +10659,7 @@ Until the spell ends, you can make the attack again on each of your turns as a M
 - **Components**: V
 - **Duration**: Instantaneous
 You send corruption spiraling out from a [Bleeding](conditions.md#bleeding), Diseased, [Paralyzed](conditions.md#paralyzed), or [Poisoned](conditions.md#poisoned) creature you can see within range, forcing each creature within 3 *(4.5m)* of it to succeed on a CON Save or be afflicted with the same conditions until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, the affected radius increases by 1 *(1.5m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the affected radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Cleric, Druid, Ranger
 *(Source: CS)*
 
@@ -10683,7 +10683,7 @@ While there, you can see into the Material Plane, can move through solid surface
 - **Duration**: Instantaneous
 You magically STRen the toxins afflicting a [Poisoned](conditions.md#poisoned) creature you can see within range, dealing 50 Poison damage to it.
 A creature reduced below 50 Hit Points in this way must then succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed) for as long as it remains [Poisoned](conditions.md#poisoned).
-At Higher Levels. When you cast this spell using a spell slot of Level 7 or higher, the Poison damage increases by 10 for each slot level above 6.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Poison damage increases by 10 for each slot level above 6.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -10718,7 +10718,7 @@ You point at a location within range, and a glowing,a diameter 0.
 - **Components**: V, S
 - **Duration**: Instantaneous
 You magically twist space around another creature you can see within range. The target must succeed on a CON Save (the target can choose to fail), or the target is teleported to an unoccupied space of your choice that you can see within range. The chosen space must be on a surface or in a liquid that can support the target without the target having to squeeze.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 6 *(9m)* for each slot level above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the range of the spell increases by 6 *(9m)* for each slot level above 2nd.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: SCC, page 38)*
 
@@ -10795,7 +10795,7 @@ A shimmering wall of bright light appears at a point you choose within range. Th
 When the wall appears, each creature in its area must make a CON Save. On a failed save, a creature takes 4d8 radiant damage, and it is [blinded](conditions.md#blinded) for 1 minute. On a successful save, it takes half as much damage and isn't [blinded](conditions.md#blinded). A [blinded](conditions.md#blinded) creature can make a CON Save at the end of each of its turns, ending the effect on itself on a success.
 A creature that ends its turn in the wall's area takes 4d8 radiant damage.
 Until the spell ends, you can use an action to launch a beam of radiance from the wall at one creature you can see within 12 *(18m)* of it. Make a ranged spell attack. On a hit, the target takes 4d8 radiant damage. Whether you hit or miss, reduce the length of the wall by 2 *(3m)*. If the wall's length drops to 0 *(0m)*, the spell ends.
-At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: XGE, page 170)*
 
@@ -10970,7 +10970,7 @@ The webs are flammable. Anya size 1 *(1.5m)* cube of webs exposed to fire burns 
 - **Duration**: Instantaneous
 Requires language proficiency in DrowA cord of tough, stretchy webbing extends from your palm, attaching itself to a target you can see within range.
 An unwilling target can make a DEX Save to avoid this effect, or can remove it as an action with a successful STR (Athletics) check made against your spell save DC.
-At Higher Levels. The range increases by 30 for every slot level above 2.
+**Using a Higher-Level Spell Slot.** The range increases by 30 for every slot level above 2.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -11017,7 +11017,7 @@ A [restrained](conditions.md#restrained) creature can use an action to make a ST
 - **Duration**: [Concentration](conditions.md#concentration), up to 8 hours
 Requires language proficiency in DrowYou transform up to two ordinary spiders within 1 *(1.5m)* of you into Dire Widows, which appear in unoccupied spaces within 3 *(4.5m)* of you.
 The spiders act on your Initiative in combat and under your telepathic control. When the spell ends, the spiders return to their original size and disposition.
-At Higher Levels. he forms your spiders can take change when cast with higher slot levels. At level 5+, they can be Deathleapers At level 7+, they can be Feyspitters. At level 8+, they can be Blade Spiders. At level 9, they can be Giant Spiders.
+**Using a Higher-Level Spell Slot.** he forms your spiders can take change when cast with higher slot levels. At level 5+, they can be Deathleapers At level 7+, they can be Feyspitters. At level 8+, they can be Blade Spiders. At level 9, they can be Giant Spiders.
 - **Classes**: Druid, Rangerr, Warlock
 *(Source: CS)*
 
@@ -11052,7 +11052,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You create an illusory portal to the far realm in an unoccupied space within range that fills a size 2 *(3m)* cube. A creature other than you that starts its turn within 6 *(9m)* of the portal and can see it takes 1d4 Psychic damage. A creature other than you that starts its turn within the portal’s space must make an INT Save. A creature takes 8d8 Psychic damage and is [Stunned](conditions.md#stunned) until the beginning of its next turn on a failed save, or takes half as much damage and is not [Stunned](conditions.md#stunned) on a success.
 On each of your turns until the spell ends, you can use your Bonus Action to force each creature within 12 *(18m)* of the portal to succeed on a STR Save or be pulled 2 *(3m)* towards it.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or higher, the distance a creature is pulled on a failed STR save increases by 1 *(1.5m)* for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the distance a creature is pulled on a failed STR save increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Warlock
 *(Source: CS)*
 
@@ -11096,7 +11096,7 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 - **Duration**: Instantaneous
 You invoke both death and life upon a radius 2 *(3m)* sphere centered on a point within range. Each creature of your choice in that area must make a CON Save, taking 2d6 necrotic damage on a failed save, or half as much damage on a successful one. Nonmagical vegetation in that area withers.
 In addition, one creature of your choice in that area can spend and roll one of its unspent Hit Dice and regain a number of hit points equal to the roll plus your spellcasting ability modifier.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot above the 2nd, and the number of Hit Dice that can be spent and added to the healing roll increases by one for each slot above 2nd.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: SCC, page 38)*
 
@@ -11141,7 +11141,7 @@ Within that range, you can additionally detect the general density of earth and 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You overwhelm a creature in range with indescribable pain. The target must succeed on a CON Save or fall [prone](conditions.md#prone) and be unable to stand on its following turn.
 A creature that fails this save by 5 or more subtracts 1d4 from attacks and Saves it makes for the next minute.
-At Higher Levels. When you cast this spell using a spell slot of Level 3 or higher, you may target one additional creature for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you may target one additional creature for each slot level above 2.
 - **Classes**: Bard, Sorcerer
 *(Source: CS)*
 
@@ -11195,7 +11195,7 @@ You touch a willing creature and envelop it in empowering flames. Until the end 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Razor-sharp blades of hardened magic whirl through the air in a radius 2 *(3m)* sphere centered on you.
 A creature other than you that starts its turn in the area, or that enters it for the first time on a turn, must succeed on a DEX Save or take 4d10 Slashing damage. On a successful save, the creature takes half as much damage.
-At Higher Levels. When you cast this spell using a spell slot of Level 5 or above, the Slashing damage increases by 1d10 for each slot level above 4.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the Slashing damage increases by 1d10 for each slot level above 4.
 - **Classes**: Artificer, Paladin
 *(Source: CS)*
 
@@ -11207,7 +11207,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 5 or abov
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range feels a cold, spectral hand sink into its chest and grip its heart.
 At the beginning of each of the creature’s turns it takes 4d8 Necrotic damage and must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the beginning of its next turn, ending the effect on a success.
-At Higher Levels. When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for every slot level above the 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for every slot level above the 3.
 - **Classes**: Wizard
 *(Source: CS)*
 
@@ -11218,7 +11218,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 4 or high
 - **Components**: V, S
 - **Duration**: Instantaneous
 A thunderous wind descends around you, forcing each creature within 3 *(4.5m)* of you to succeed on a STR Save or take 4d8 Bludgeoning damage and be knocked [prone](conditions.md#prone). Then, you can fly up to 12 *(18m)*.
-At Higher Levels. When you cast this spell using a spell slot of Level 6 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 5.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
