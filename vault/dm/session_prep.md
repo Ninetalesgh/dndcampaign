@@ -20,7 +20,7 @@
 
 [TODO]
 
-  This should exist
+This should exist
 
 # Strong Introduction
 
