@@ -74,6 +74,7 @@ TODO ::: Mage hand, internal switch?
 TODO ::: scorpion spirit, sting whip
 
   
+cool spells: vector-spread
 
 ###### Warlock (Ayra):
 
@@ -88,6 +89,14 @@ When killing antagonist -> Their soul rises from their corpse and a hellish voic
 ###### Paladin (Nyári):
 
 TODO: Divine Favor Seasonal? 
+
+spell: wither and bloom
+spells: flash freeze
+Smite of Autumn,
+Smite of Spring,
+Smite of Summer,
+Smite of Winter,
+
 
 
 ###### Fighter (Kazimir):
