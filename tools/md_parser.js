@@ -48,10 +48,10 @@
         lines[i] = lines[i].replace(/!\[([^\|]+)\|([^\]]+)\]\(([^)]+)\)/g, '<img src="$3" style="width:$2px;">');
 
         //bold
-        lines[i] = lines[i].replace(/\*\*([^ ][^*]*[^ ])\*\*/g, "<b>$1</b>");
+        lines[i] = lines[i].replace(/\*\*((?:[^\s].*?[^\s])|[^\s])\*\*/g, "<b>$1</b>");
         
         //italic
-        lines[i] = lines[i].replace(/\*([^ ].*?[^ ])\*/g, "<i>$1</i>");
+        lines[i] = lines[i].replace(/\*((?:[^\s].*?[^\s])|[^\s])\*/g, "<i>$1</i>");
   
         //links    
         lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));

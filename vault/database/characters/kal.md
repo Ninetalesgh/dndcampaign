@@ -21,9 +21,8 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 ☐ Religion +0 | ☐ **Survival +5** | .
 
 
-Skill Proficiencies: Athletics, Nature, Perception, Survival, Intimidation 
-Weapon Proficiencies: Simple Weapons, Light Armor, Shield
-Tool Proficiencies: Herbalism Kit, Weaver's Tools
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons, Medium Armor, Light Armor, Shield
+- **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
 
 
 # Feats

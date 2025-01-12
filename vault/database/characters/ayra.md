@@ -22,6 +22,9 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 ☐ Religion +0 | ☐ Survival +0 | .
 
 
+
+Tool Proficiencies: Thieves' Tools
+
 # Feats
 
 
