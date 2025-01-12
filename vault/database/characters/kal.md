@@ -6,6 +6,18 @@
 
 # Prepared Spells
 
+- **Cantrips**
+  [TODO] Which cantrips did you want again?
+- **Level 1**
+  [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
+
+# Prepared Wildshapes
+
+[TODO] This is for level 2, but I wanted to make sure the links work.
+
+[Nimble Shape](wildshapes.md#cr-1/4#nimble)
+
+
 # Known Spells
 ## Cantrips
 [Control Flames](spells.md#spells-c#control-flames)

@@ -8,7 +8,11 @@
 
 ## Prepared Spells
 
-# Paladin Spells
+- **Level 1**
+  [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink)
+  [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
+
+# Paladin Spell Reference
 ## Level 1
 [Beacon of Valor](spells.md#spells-b#beacon-of-valor)
 [Bless](spells.md#spells-b#bless)

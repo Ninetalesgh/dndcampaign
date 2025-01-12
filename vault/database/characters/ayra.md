@@ -1,13 +1,38 @@
 
 # Stats
 
-# Feats
+- *Hit Point Die:* **D8**
 
+STR | DEX | CON 
+☐ STR (**Save +2**) | ☐ DEX (**Save +2**) | ☐ CON (**Save +2**) 
+ :-- | :-- | :-- 
+10 (+0) | 14 (+2) | 14 (+2) 
+☐ Athletics +0 | ☐ Acrobatics +2 | . 
+. | ☑ **Sleight of Hand +4**| . 
+. | ☐ Stealth +2 | . 
+
+☐ INT (**Save +0**) | ☑ WIS (**Save +2**) | ☑ CHA (**Save +5**)
+:-- | :-- | :-- 
+10 (+0) | 10 (+0) | 17 (+3) 
+☑ **Arcana +2** | ☐ Animal Handling +0 | ☐ Deception +3
+☐ History +0 | ☐ Insight +0 | ☑ **Intimidation +5**
+☐ Investigation +0 | ☑ **Medicine +2** | ☐ Performance +3
+☐ Nature +0 | ☐ Perception +0 | ☐ Persuasion +3
+☐ Religion +0 | ☐ Survival +0 | .
+
+# Feats
 
 # Prepared Spells
 
+[TODO] You had a Cantrip to choose still, I think, right?
+- **Cantrips** [Eldritch Blast](spells.md#spells-e#eldritch-blast), [Light](spells.md#spells-l#light)
 
-# Warlock Spells
+- **Level 1**
+  [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
+  [Hex](spells.md#spells-h#hex)
+
+
+# Warlock Spell Reference
 
 ## Cantrips
 [Blade Ward](spells.md#spells-b#blade-ward)

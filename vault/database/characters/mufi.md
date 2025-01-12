@@ -1,8 +1,34 @@
 # Stats
 
+- *Hit Point Die:* **D8**
+
+☐ STR (**Save -1**) | ☑ DEX (**Save +5**) | ☐ CON (**Save +1**) 
+ :-- | :-- | :-- 
+8 (-1) | 17 (+3) | 13 (+1) 
+☐ Athletics +1 | ☑☑ **Acrobatics +7** | . 
+. | ☑☑ **Sleight of Hand +7**| . 
+. | ☑ **Stealth +5** | . 
+
+☑ INT (**Save +5**) | ☐ WIS (**Save +1**) | ☐ CHA (**Save -1**)
+:-- | :-- | :-- 
+16 (+3) | 12 (+1) | 8 (-1) 
+☑ **Arcana +5** | ☐ Animal Handling +1 | ☐ Deception -1
+☐ History +3 | ☐ Insight +1 | ☐ Intimidation -1
+☑ **Investigation +5** | ☐ Medicine +1 | ☐ Performance -3
+☐ Nature +3 | ☑ **Perception +3** | ☐ Persuasion -1
+☐ Religion +3 | ☐ Survival +1 | .
+
 # Feats
 
+- ***LEG DAY LEGend.*** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks.
+
 # Prepared Spells
+
+- **Cantrips**: [Guidance](spells.md#spells-g#guidance), [Light](spells.md#spells-l#light)
+- **Level 1** 
+  [Sanctuary](spells.md#spells-s#sanctuary) *one free use per Long Rest*
+
+
 
 # Wizard Spells
 ## Cantrips
