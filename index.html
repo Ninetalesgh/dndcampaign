@@ -313,7 +313,14 @@
       {
         if (key === 'page')
         {
-          contentPageUrl = `/${value}.md`
+          if (page.match(/(ayra|kal|kazimir|mufi|nyari)/))
+          {
+            contentPageUrl = `/characters/${value}.md`;
+          }
+          else
+          {
+            contentPageUrl = `/${value}.md`;
+          }
         }
       }
 
