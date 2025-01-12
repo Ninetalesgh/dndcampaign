@@ -170,7 +170,7 @@ function convertCsvToSpellLinks(csvString)
         spellLevels[level].push(level ? `## Level ${level}` : '## Cantrips'); 
       }
 
-      spellLevels[level].push(`[${elements[0]}](spells.md#spells-${elements[0][0].toLowerCase()}#${elements[0].toLowerCase().replace(' ', '-')})`);
+      spellLevels[level].push(`[${elements[0]}](spells.md#spells-${elements[0][0].toLowerCase()}#${elements[0].toLowerCase().replace(/\s/g, '-')})`);
   }
   let result = new Array();
 
