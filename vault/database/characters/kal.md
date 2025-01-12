@@ -1,3 +1,11 @@
+# Stats
+
+# Proficiencies
+
+# Feats
+
+# Prepared Spells
+
 # Known Spells
 ## Cantrips
 [Control Flames](spells.md#spells-c#control-flames)

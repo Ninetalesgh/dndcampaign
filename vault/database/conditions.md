@@ -1,73 +1,64 @@
 
 ## Bleeding
-A Bleeding creature loses the specified amount of HP at the beginning of each of its turns.
-The Bleeding condition ends upon regaining any HP.
-As an Action a creature may attempt a DC 12 WIS (Medicine) check to remove Bleeding from a creature.
+A bleeding creature loses the specified amount of HP at the beginning of each of its turns.
+The bleeding condition ends upon regaining any HP.
+As an Action a creature may attempt a DC 12 WIS (Medicine) check to remove bleeding from itself or another creature.
 ## Blinded
-Automatically fail ability checks that require sight.
-Attack rolls against you have Advantage, your attack rolls have Disadvantage.
+A blinded creature automatically fails ability checks that require sight.
+Attack rolls against it have Advantage and that creature attacks with Disadvantage.
 ## Burning
-A Burning creature takes the specified amount of Fire damage at the beginning of each of its turns.
-As an Action a creature can end the Burning condition for a creature.
-Burning ends upon taking Cold damage, being in airless environment, or being doused in water.
+A burning creature takes the specified amount of Fire damage at the beginning of each of its turns.
+As an Action a creature can end the burning condition for itself or another creature.
+burning ends upon taking Cold damage, being in airless environment, or being doused in water.
 ## Charmed
-You can't attack charmer or target the charmer with harmful magical effects.
-The charmer has advantage on any ability check to interact with you socially.
+A charmed creature can't attack the charmer or target the charmer with harmful magical effects.
+The charmer has advantage on any ability check to interact with the charmed creature socially.
 ## Concentration
-Whenever you take damage you have to succeed a CON Save with DC 10 or half the damage you took, whichever is higher. On fail Concentration ends.
+A concentrating creature has to take a CON Save with DC 10 or DC *(half the damage taken)*, whichever is higher. On failure the concentration ends.
+New concentration always replaces an old one, a creature can only hold one spell concentration at a time.
 ## Deafened
-Automatically fail ability checks that require hearing.
-Immune to Thunder Damage.
+A deafened creature automatically fails ability checks that require hearing.
+Immunity to thunder damage.
 ## Exhaustion
-Exhaustion stacks.
-You die when you reach 6 levels of exhaustion.
-You get *-2 * Levels* on every d20 check.  
-Speed reduced by *1 * Levels*.
-Every Long Rest lets you recover from 1 level of Exhaustion.
+You can accumulate multiple stacks of exhaustion.
+You die when you reach 6 stacks of exhaustion.
+You get *(-2 * stacks of exhaustion)* on every d20 roll.  
+Your speed is reduced by *(1 * stacks of exhaustion)*.
+Every Long Rest lets you recover from 1 stack of Exhaustion.
 ## Frightened
-Disadvantage on Ability Checks and Attack Rolls while the source of fear is within line of sight.
-Can't willingly move closer to the source of fear.
+A frightened creature has Disadvantage on Ability Checks and Attack Rolls while the source of fear is within line of sight and it can't willingly move closer to the source of fear.
 ## Grappled
-Disadvantage on Attack Rolls against targets other than your grappler.
+A grappled creature has Disadvantage on Attack Rolls against targets other than its grappler.
 A grappling creature can move together with the grappled creature(s) at half speed.
 ## Incapacitated
-Can't take Actions, Bonus Actions or Reactions and your Concentration is broken.
-You can't speak.
-Disadvantage on Initiative Roll.
+An incapacitated creature can't take Actions, Bonus Actions or Reactions and its [Concentration](conditions.md#concentration) is broken, it can't speak and has Disadvantage on its Initiative Roll.
 ## Invisible
-This mechanically includes being hidden.
-Advantage on Initiative Roll.
-Attacks against you have Disadvantage and your attacks have Advantage.
+An invisible creature has Advantage on its Attack- and Initiative Rolls.
+Attacks against invisible creatures have Disadvantage.
 ## Paralyzed
-Incapacitated.
-Speed 0.
-Fail all STR/DEX Saving Throws.
-Attacks against you have Advantage and if they are within range 1 always Critical.
+A paralyzed creature is [Incapacitated](conditions.md#incapacitated) and its speed is 0.
+It fails all STR and DEX Saves.
+Attacks against a paralyzed creature have Advantage and if they are within range 1 always Critical Hits.
 ## Petrified
-Incapacitated.
-Speed 0.
-Fail all STR/DEX Saving Throws.
-Attacks against you have Advantage.
-Resist all damage, immune to Poison.
-Cease aging and your weight is multiplied by 10. (you are some material like stone or gold)
+A petrified creature is [Incapacitated](conditions.md#incapacitated) and its speed is 0, it ceases to age and its weight is multiplied by 10.
+It fails all STR and DEX Saves.
+Attacks against a petrified creature have Advantage.
+A petrified creature resists all damage and is immune to poison damage.
 ## Poisoned
-Disadvantage on Ability Checks and Attack Rolls. 
+A poisoned creature has Disadvantage on Ability Checks and Attack Rolls. 
 ## Prone
-Spend half of your Speed to stand up. (can't if Speed 0)
-Disadvantage on Attack Rolls.
-Attacks against you have Disadvantage, if they are within range 1 they have Advantage instead.
+A prone creature has Disadvantage on Attack Rolls.
+Attacks against a prone creature have Disadvantage, if they are within range 1 they have Advantage instead.
+If its speed is not 0, a prone creature can spend half of its speed to stand up.
 ## Restrained
-Speed 0.
-Disadvantage on Attack Rolls and DEX saving throws.
-Attacks against you have Advantage.
+A restrained creature has Disadvantage on Attack Rolls and DEX Saves and its speed is 0.
+Attacks against a restrained creature have Advantage.
 ## Stunned
-Incapacitated.
-Fail all STR/DEX Saving Throws.
-Attack against you have Advantage.
+A stunned creature is [Incapacitated](conditions.md#incapacitated).
+It fails all STR and DEX Saves.
+Attack against a stunned creature have Advantage.
 ## Unconscious
-Prone.
-Incapacitated.
-Speed 0.
-Fail all STR/DEX Saving Throws.
-Attacks against you have Advantage and if they are within range 1 always Critical.
-Unaware of your surroundings.
+An unconscious creature is [Prone](conditions.md#prone), [Incapacitated](conditions.md#incapacitated) and its speed is 0.
+It fails all STR and DEX Saves.
+Attacks against unconscious creatures have Advantage and if they are within range 1 always Critical Hits.
+An unconscious creature is unaware of its surroundings.

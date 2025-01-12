@@ -1,10 +1,10 @@
+# Stats
 
+# Feats
 
 # Prepared Spells
 
-
 # Wizard Spells
-
 ## Cantrips
 [Acid Splash](spells.md#spells-a#acid-splash)
 [Blade Ward](spells.md#spells-b#blade-ward)
