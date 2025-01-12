@@ -241,7 +241,7 @@
       let contentNode = getIndexedContentPage(relativeMdUrl);
       if (!contentNode)
       {
-        console.log('fetch & cache: ' + relativeMdUrl);
+        console.log('Fetching and caching: ' + relativeMdUrl);
         await fetchMdAsHtml(relativeMdUrl)
         .then(data => {
           let div = document.createElement('div');
