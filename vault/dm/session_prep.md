@@ -73,7 +73,6 @@ TODO ::: Mage hand, internal switch?
 
 TODO ::: scorpion spirit, sting whip
 
-  
 cool spells: vector-spread
 
 ###### Warlock (Ayra):
