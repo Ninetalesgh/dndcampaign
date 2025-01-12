@@ -15,7 +15,7 @@ A charmed creature can't attack the charmer or target the charmer with harmful m
 The charmer has advantage on any ability check to interact with the charmed creature socially.
 ## Concentration
 Whenever a concentrating creature takes damage, it has to take a CON Save with DC 10 or DC *(half the damage taken)*, whichever is higher. On failure the concentration ends.
-A creature can only hold **one** spell concentration at a time.
+*A creature can only hold only ONE spell concentration at a time.*
 ## Deafened
 A deafened creature automatically fails ability checks that require hearing.
 It is immune to thunder damage.
