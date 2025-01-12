@@ -9,13 +9,13 @@ Attack rolls against it have Advantage and that creature attacks with Disadvanta
 ## Burning
 A burning creature takes the specified amount of Fire damage at the beginning of each of its turns.
 Burning ends upon taking cold damage, being in an airless environment, or being doused in water.
-As an Action a creature can end the burning condition for itself or another creature.
+As an Action a creature can douse another burning creature or fall [Prone](conditions.md#prone) and douse itself on the ground.
 ## Charmed
 A charmed creature can't attack the charmer or target the charmer with harmful magical effects.
 The charmer has advantage on any ability check to interact with the charmed creature socially.
 ## Concentration
-A concentrating creature has to take a CON Save with DC 10 or DC *(half the damage taken)*, whichever is higher. On failure the concentration ends.
-A creature can only hold one spell concentration at a time.
+Whenever a concentrating creature takes damage, it has to take a CON Save with DC 10 or DC *(half the damage taken)*, whichever is higher. On failure the concentration ends.
+A creature can only hold **one** spell concentration at a time.
 ## Deafened
 A deafened creature automatically fails ability checks that require hearing.
 It is immune to thunder damage.
