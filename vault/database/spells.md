@@ -5913,7 +5913,7 @@ You create a spectral sword that hovers within range. It lasts for the duration.
 - **Classes**: Bard, Wizard
 *(Source: PHB'24, page 302)*
 
-### Mordenkainen’s Altered Orbs
+### Mordenkainen's Altered Orbs
 *Level 2 Evocation*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -5923,7 +5923,7 @@ For the duration, whenever a creature casts a spell that affects a spherical are
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Arcing Fingertips
+### Mordenkainen's Arcing Fingertips
 *Level 5 Evocation*
 - **Casting Time**: Action
 - **Range**: Self, a length 18 *(27m)* cone
@@ -5934,7 +5934,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 6 or high
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Celerity
+### Mordenkainen's Celerity
 *Level 4 Transmutation*
 - **Casting Time**: Action
 - **Range**: Self
@@ -5944,7 +5944,7 @@ For the duration, spells you cast with a casting time of 1 action and a range of
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Cogitation
+### Mordenkainen's Cogitation
 *Level 7 Enchantment*
 - **Casting Time**: Bonus Action
 - **Range**: Self
@@ -5955,7 +5955,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 8 or high
 - **Classes**: Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Defense Against Oozes and Slimes
+### Mordenkainen's Defense Against Oozes and Slimes
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Self
@@ -5965,7 +5965,7 @@ Until the spell ends, a protective barrier envelops you, protecting you against 
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Defense Against Silence
+### Mordenkainen's Defense Against Silence
 *Level 2 Abjuration*
 - **Casting Time**: Action
 - **Range**: 6 *(9m)*
@@ -5975,7 +5975,7 @@ As part of the casting of this spell, you smash the piece of pottery used as a m
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Disjunction
+### Mordenkainen's Disjunction
 *Level 9 Enchantment*
 - **Casting Time**: Action
 - **Range**: Self, a radius 6 *(9m)* sphere
@@ -5985,7 +5985,7 @@ You attempt to sunder all active magic in a radius 6 *(9m)* sphere centered on y
 - **Classes**: Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Encompassing Vision
+### Mordenkainen's Encompassing Vision
 *Level 3 Divination*
 - **Casting Time**: Action
 - **Range**: Self
@@ -5995,7 +5995,7 @@ You gain an enhanced awareness of your surroundings as your vision stretches in 
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Faithful Phantoms
+### Mordenkainen's Faithful Phantoms
 *Level 5 Conjuration*
 - **Casting Time**: Action
 - **Range**: 18 *(27m)*
@@ -6005,7 +6005,7 @@ You sculpt raw magical force into two phantasmal constructs, summoning two Faith
 - **Classes**: Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Force Missiles
+### Mordenkainen's Force Missiles
 *Level 4 Evocation*
 - **Casting Time**: Action
 - **Range**: 24 *(36m)*
@@ -6016,7 +6016,7 @@ At Higher Levels. When you cast this spell using a spell slot of Level 5 or high
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Ingenious Aegis
+### Mordenkainen's Ingenious Aegis
 *Level 2 Abjuration*
 - **Casting Time**: Action
 - **Range**: Self
@@ -6026,7 +6026,7 @@ A protective magical force surrounds you, shielding you from the dim-witted.For 
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Instant Opposition
+### Mordenkainen's Instant Opposition
 *Level 7 Abjuration*
 - **Casting Time**: Reaction
 - **Range**: Self
@@ -6036,7 +6036,7 @@ You attempt to neutralize a spell as it is cast, meeting it with a tailored blen
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Invisibility to Exotic Ancestries
+### Mordenkainen's Invisibility to Exotic Ancestries
 *Level 3 Illusion*
 - **Casting Time**: Action
 - **Range**: Self
@@ -6046,7 +6046,7 @@ You and anything you are wearing or carrying become [invisible](conditions.md#in
 - **Classes**: Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Involuntary Wizardry
+### Mordenkainen's Involuntary Wizardry
 *Level 5 Enchantment*
 - **Casting Time**: Action
 - **Range**: 24 *(36m)*
@@ -6056,7 +6056,7 @@ You call forth a magical spasm from a creature you can see within range, forcing
 - **Classes**: Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Lucubration
+### Mordenkainen's Lucubration
 *Level 6 Enchantment*
 - **Casting Time**: Action
 - **Range**: Self
@@ -6066,7 +6066,7 @@ You recall a spell of Level 5 or below with a casting time greater than 1 action
 - **Classes**: Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Protection From Armored Assailants
+### Mordenkainen's Protection From Armored Assailants
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -6076,7 +6076,7 @@ Until the spell ends, one willing creature you touch is protected against creatu
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Protection From Avians
+### Mordenkainen's Protection From Avians
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -6086,7 +6086,7 @@ Until the spell ends, one willing creature you touch is protected against flying
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Protection From Insects and Arachnids
+### Mordenkainen's Protection From Insects and Arachnids
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Self
@@ -6096,7 +6096,7 @@ Until the spell ends, one willing creature you touch is protected against terres
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Protection From Lycanthropes
+### Mordenkainen's Protection From Lycanthropes
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -6106,7 +6106,7 @@ Until the spell ends, one willing creature you touch is protected against lycant
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Protection From Reptiles and Amphibians
+### Mordenkainen's Protection From Reptiles and Amphibians
 *Level 1 Abjuration*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -6116,7 +6116,7 @@ Until the spell ends, one willing creature you touch is protected against reptil
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
-### Mordenkainen’s Reversed Advance
+### Mordenkainen's Reversed Advance
 *Level 3 Abjuration*
 - **Casting Time**: Action
 - **Range**: Self
