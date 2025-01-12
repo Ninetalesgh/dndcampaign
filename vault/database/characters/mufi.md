@@ -1,5 +1,5 @@
 # Stats
-test
+
 # Feats
 
 # Prepared Spells
@@ -158,7 +158,7 @@ test
 [Mirror Image](spells.md#spells-m#mirror-image)
 [Misty Step](spells.md#spells-m#misty-step)
 [Mordenkainen's Altered Orbs](spells.md#spells-m#mordenkainen's-altered-orbs)
-[Mordenkainen's Defense Against Silence](spells.md#spells-m#mordenkainen's-defenseagainst-silence)
+[Mordenkainen's Defense Against Silence](spells.md#spells-m#mordenkainen's-defense-against-silence)
 [Mordenkainen's Ingenious Aegis](spells.md#spells-m#mordenkainen's-ingenious-aegis)
 [Nathair's Mischief](spells.md#spells-n#nathair's-mischief)
 [Nystul's Magic Aura](spells.md#spells-n#nystul's-magic-aura)
