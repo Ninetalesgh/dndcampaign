@@ -1,6 +1,6 @@
 
 # Character Sheet
-
+## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 13 *(Leather Armor + DEX)*
 - **HP**: 12
@@ -32,7 +32,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 
 [TODO] You had a Cantrip to choose still, I think, right?
 
-# What you can do
+## Feats and Actions
 ### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
@@ -52,7 +52,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 - **Spells**
   [Hellish Rebuke](spells.md#spells-h#hellish-rebuke)
 
-# Passive Feats
+### Passive Feats
 *- Extra lineage feat at level 3.*
 
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
@@ -68,20 +68,20 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 
 # Reminders
 ### After Short Rest
-###### Expend HP Dice to regain HP
+##### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended die.
-###### Regain all Spell Slots
+##### Regain all Spell Slots
 ### After Long Rest
-###### Regain all HP & HP Dice
-###### Regain all Spell Slots
-###### Regain Healing Hands charge
+##### Regain all HP & HP Dice
+##### Regain all Spell Slots
+##### Regain Healing Hands charge
 ### After Level-Up
-###### Recalculate HP
-###### Add 1 HP Die
-###### Check Class Level-Up
-###### Switch 1 Warlock Spell
-###### Switch 1 Eldritch Invocation
-###### Learn new Eldritch Invocations
+##### Recalculate HP
+##### Add 1 HP Die
+##### Check Class Level-Up
+##### Switch 1 Warlock Spell
+##### Switch 1 Eldritch Invocation
+##### Learn new Eldritch Invocations
 
 # Warlock Spell Reference
 ## Cantrips

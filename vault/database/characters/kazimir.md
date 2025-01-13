@@ -1,5 +1,5 @@
 # Character Sheet
-
+## Stats and Proficiencies
 - **Initiative**: +4 *(DEX + PB)*
 - **AC**: 13 *(Leather Armor + DEX)*
 - **HP**: 12
@@ -32,7 +32,7 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Tool Proficiencies**: Alchemist's Supplies, Healer's Kit.
 - **Languages**: Common, [TODO] 2 more?
 
-# What you can do
+## What you can do
 ### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 
@@ -43,7 +43,7 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 ### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-# Passive Feats
+### Passive Feats
 *- Extra lineage feat at level 3.*
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - [Alert](./../feats.md#alert) *(Already included above)*
@@ -53,15 +53,15 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 
 # Reminders
 ### After Short Rest
-###### Expend HP Dice to regain HP
+##### Expend HP Dice to regain HP
 Regain *(d10 + CON)* HP per expended die.
-###### Regain 1 Second Wind charge
+##### Regain 1 Second Wind charge
 ### After Long Rest
-###### Regain all HP & HP Dice
-###### Regain all Second Wind charges
-###### Switch 1 Weapon Mastery
+##### Regain all HP & HP Dice
+##### Regain all Second Wind charges
+##### Switch 1 Weapon Mastery
 ### After Level-Up
-###### Recalculate HP
-###### Add 1 HP Die
-###### Check Class Level-Up
-###### Switch Fighting Style
+##### Recalculate HP
+##### Add 1 HP Die
+##### Check Class Level-Up
+##### Switch Fighting Style

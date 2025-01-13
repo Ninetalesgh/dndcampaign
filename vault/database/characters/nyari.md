@@ -1,5 +1,5 @@
 # Character Sheet
-
+## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
 - **AC**: 18 *(Chain Mail + Shield)*
 - **HP**: 12
@@ -29,22 +29,23 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 - **Tool Proficiencies**: [TODO]
 - **Languages**: Common, [TODO] 2 more, right?
 
-##### Action
+## Feats and Actions
+### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
-##### Bonus Action
+### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 charges)*
 
-##### Reaction
+### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
-# Prepared Spells
+### Prepared Spells
 [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink), [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
 
-# Passive Feats
+### Passive Feats
 *- Extra lineage feat at level 5.*
 - [Alert](./../feats.md#alert) *(Already included above)*
 - [Weapon Mastery](feats.md#weapon-mastery): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
@@ -53,21 +54,21 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 
 # Reminders
 ### After Short Rest
-###### Expend HP Dice to regain HP
+##### Expend HP Dice to regain HP
 Regain *(d10 + CON)* HP per expended dice.
 ### After Long Rest
-###### Regain all HP & HP Dice
-###### Regain all Spell Slots
-###### Regain all Stone's Endurance charges
-###### Regain all Lay on Hands charges
-###### Switch 1 Prepared Spell
-###### Switch 1 Weapon Mastery
+##### Regain all HP & HP Dice
+##### Regain all Spell Slots
+##### Regain all Stone's Endurance charges
+##### Regain all Lay on Hands charges
+##### Switch 1 Prepared Spell
+##### Switch 1 Weapon Mastery
 ### After Level-Up
-###### Recalculate HP
-###### Add 1 HP Die
-###### Recalculate Lay on Hands charges
+##### Recalculate HP
+##### Add 1 HP Die
+##### Recalculate Lay on Hands charges
 Your LoH charges equal to 5 * your Paladin Level. 
-###### Check Class Level-Up
+##### Check Class Level-Up
 
 # Paladin Spell Reference
 ## Level 1

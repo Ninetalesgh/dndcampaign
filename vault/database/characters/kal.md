@@ -1,5 +1,5 @@
 # Character Sheet
-
+## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 14 *(Hide Armor + DEX)*
 - **HP**: 10
@@ -29,8 +29,8 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
-# What you can do
-##### Action
+## Feats and Actions
+### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Druid:* - [TODO] Which cantrips did you want again?
@@ -38,20 +38,20 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
-##### Bonus Action
+### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Wild Shape**: *(at level 2)* ( [Nimble Shape](wildshapes.md#cr-1/4#nimble), ... )
 
-##### Reaction
+### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-# Prepared Spells
+### Prepared Spells
 
 [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
 
 [TODO] I guess you keep your always prepared spells in the A/BA/R section and then have this section extra? 
 
-# Passive Feats
+### Passive Feats
 *- Extra lineage feat at level 3 and 5.*
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 
@@ -65,23 +65,23 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 
 # Reminders
 ### After Short Rest
-###### Expend HP Dice to regain HP
+##### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
-###### Regain 1 Wild Shape charge
+##### Regain 1 Wild Shape charge
 *- starts at level 2*
 ### After Long Rest
-###### Regain all HP & HP Dice
-###### Regain all Spell Slots
-###### Prepare Druid Spells
-###### Regain All Wild Shape charges 
+##### Regain all HP & HP Dice
+##### Regain all Spell Slots
+##### Prepare Druid Spells
+##### Regain All Wild Shape charges 
 *- starts at level 2*
-###### Switch 1 Wild Shape form
+##### Switch 1 Wild Shape form
 *- starts at level 2*
-###### Switch Wizard Cantrip
+##### Switch Wizard Cantrip
 ### After Level-Up
-###### Recalculate HP
-###### Add 1 HP Die
-###### Check Class Level-Up
+##### Recalculate HP
+##### Add 1 HP Die
+##### Check Class Level-Up
 
 # Druid Spell Reference
 ## Cantrips
