@@ -28,14 +28,14 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 - **Languages**: Common, [TODO] 2 more, right?
 
 ##### Action
-- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+- [Default Actions](game_rules.md#turn-based-play#default-actions)
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
 ##### Bonus Action
-- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 
 ##### Reaction
-- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
 # Prepared Spells

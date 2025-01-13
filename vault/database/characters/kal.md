@@ -25,15 +25,15 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
 ##### Action
-- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+- [Default Actions](game_rules.md#turn-based-play#default-actions)
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
 ##### Bonus Action
-- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Wild Shape.** *(at level 2)*
 
 ##### Reaction
-- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 # Prepared Spells
 - **Druid Cantrips**: [TODO] Which cantrips did you want again?
