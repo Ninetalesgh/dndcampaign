@@ -29,8 +29,6 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 - **Tool Proficiencies**: Thieves' Tools
 - **Languages**: Common, Infernal, Celestial
 
-[TODO] You had a Cantrip to choose still, I think, right?
-
 
 ## Spellcasting
 - **Prepared Spells**: 2
@@ -42,8 +40,9 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 ### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
-  - *Warlock:* [Eldritch Blast](spells.md#spells-e#eldritch-blast)
   - *Aasimar:* [Light](spells.md#spells-l#light)
+  - *Warlock:* [Eldritch Blast](spells.md#spells-e#eldritch-blast)
+[TODO] You had a Cantrip to choose still, I think, right?
 - **Spells**
   *(none)*
 - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*

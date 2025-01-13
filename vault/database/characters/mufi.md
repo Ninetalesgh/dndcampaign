@@ -39,12 +39,12 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 ### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
-  - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](./../spells.md#spells-l#light)
+  - *Magic Initiate:* [Guidance](spells.md#spells-g#guidance), [Light](./../spells.md#spells-l#light)
 
 ### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**:
-  - *Cleric:* [Sanctuary](spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
+  - *Magic Initiate:* [Sanctuary](spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
 
 ### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
@@ -68,14 +68,14 @@ Regain *(d8 + CON)* HP per expended dice.
 ### After Long Rest
 ##### Regain all HP & HP Dice
 ##### Regain all Spell Slots
-##### Regain Cleric Spell charge
+##### Regain Magic Initiate Spell charge
 ##### Switch 1 Weapon Mastery
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
 ##### Check Class Level-Up
-##### Switch Cleric Spell
-Switch one of your Cleric Spells with a different Cleric Spell of the same level.
+##### Switch Magic Initiate Spell
+Switch one of your Magic Initiate Spells with a different Cleric Spell of the same level.
 
 # Wizard Spells
 ## Cantrips
