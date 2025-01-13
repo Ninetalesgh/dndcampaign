@@ -1,7 +1,7 @@
 # Mufi
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
-- **AC**: 14 *(Leather Armor + DEX)*
+- **AC**: 14 ([Leather Armor](items.md#armor#light-armor#leather-armor) + DEX)
 - **HP**: 9
 - **HP Dice**: 1 D8
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)

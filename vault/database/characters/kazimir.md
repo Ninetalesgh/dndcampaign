@@ -1,7 +1,7 @@
 # Kazimir
 ## Stats and Proficiencies
 - **Initiative**: +4 *(DEX + PB)*
-- **AC**: 13 *(Leather Armor + DEX)*
+- **AC**: 15 ([Chain Shirt](items.md#armor#medium-armor#scale-mail) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)

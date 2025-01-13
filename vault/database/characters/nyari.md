@@ -1,7 +1,7 @@
 # Nyari
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
-- **AC**: 18 *(Chain Mail + Shield)*
+- **AC**: 18 ([Chain Mail](items.md#armor#heavy-armor#chain-mail) + Shield)
 - **HP**: 12
 - **HP Dice:** 1 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
