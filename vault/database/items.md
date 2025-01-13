@@ -2,7 +2,7 @@
 ## Weapons
 ### Simple Melee Weapons
 #### Club
-- **Type**: Club *(Simple Melee Weapon)*
+- **Type**: Club *(Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Bludgeoning damage.
 - **Reach**: 1 *(1.5m)*
 - **Properties**: [Light](items.md#item-info#weapon-properties#light).
@@ -13,7 +13,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Dagger
-- **Type**: Dagger *(Simple Melee Weapon)*
+- **Type**: Dagger *(Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
@@ -24,7 +24,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Greatclub
-- **Type**: Greatclub *(Simple Melee Weapon)*
+- **Type**: Greatclub *(Simple Melee Weapon, Common)*
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Reach**: 1
 - **Properties**: [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -35,7 +35,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Handaxe
-- **Type**: Handaxe *(Simple Melee Weapon)*
+- **Type**: Handaxe *(Simple Melee Weapon, Common)*
 - **Damage**: 1d6 + STR Slashing damage.
 - **Reach**: 1
 - **Properties**: [Light](items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
@@ -46,7 +46,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Javelin
-- **Type**: Javelin *(Simple Melee Weapon)* 
+- **Type**: Javelin *(Simple Melee Weapon, Common)* 
 - **Damage**: 1d6 + STR Piercing damage.
 - **Reach**: 1
 - **Properties**: [Thrown 6/24 *(9m/36m)*](items.md#item-info#weapon-properties#thrown).
@@ -57,7 +57,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Light Hammer
-- **Type**: Light Hammer *(Simple Melee Weapon)*
+- **Type**: Light Hammer *(Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Bludgeoning damage.
 - **Reach**: 1
 - **Properties**: [Light](items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
@@ -68,7 +68,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Mace
-- **Type**: Mace *(Simple Melee Weapon)*
+- **Type**: Mace *(Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
 - **Properties**: - 
@@ -79,7 +79,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Quarterstaff
-- **Type**: Quarterstaff *(Simple Melee Weapon)*
+- **Type**: Quarterstaff *(Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
 - **Properties**: [Versatile (1d8)](items.md#item-info#weapon-properties#versatile).
@@ -90,7 +90,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Sickle
-- **Type**: Sickle *(Simple Melee Weapon)*
+- **Type**: Sickle *(Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d4 + STR Slashing damage.
 - **Properties**: [Light](items.md#item-info#weapon-properties#light).
@@ -101,7 +101,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Spear 
-- **Type**: Spear *(Simple Melee Weapon)*
+- **Type**: Spear *(Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
 - **Properties**: [Versatile (1d8)](items.md#item-info#weapon-properties#versatile), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
@@ -111,31 +111,20 @@
 ![Image|250](https://i.pinimg.com/736x/c2/5b/86/c25b86973aa53365b2245dc22e1bd324.jpg)
 *(Source: PHB'24, page 215)*
 
-#### Bone Club
-- **Type**: Club *(Simple Melee Weapon)*
-- **Damage**: 1d4 + MOD Bludgeoning damage.
-- **Reach**: 1 *(1.5m)*
-- **Properties**: [Light](items.md#item-info#weapon-properties#light).
-- **Mastery**: [Slow 2](items.md#item-info#slow).
-- **Price**: 1 sp.
-- **Weight**: 0.5 kg.
-![Image|250](https://i.pinimg.com/736x/5d/45/5b/5d455bcb9272ae3fb2f2074ffbf23282.jpg)
-*(Source: PHB'24, page 215)*
-
 ### Simple Ranged Weapons
 #### Dart
-- **Type**:  *(Simple Ranged Weapon)*
+- **Type**:  *(Simple Ranged Weapon, Common)*
 - **Range**: 4/12 *(6m/18m)*
 - **Damage**: 1d4 + STR Piercing damage.
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
 - **Mastery**: [Vex](items.md#item-info#vex).
 - **Price**: 5 cp
 - **Weight**: 125 g
-![Image|250](https://i.pinimg.com/736x/2b/79/a8/2b79a8cfac5fa7157ea7b0542014805d.jpg)
+![Image|250]()
 *(Source: PHB'24, page 215)*
 
 #### Light Crossbow
-- **Type**:  *(Simple Ranged Weapon)*
+- **Type**:  *(Simple Ranged Weapon, Common)*
 - **Range**: 16/64 *(24m/96m)*
 - **Damage**: 1d8 + DEX Piercing damage.
 - **Properties**: [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -146,7 +135,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Shortbow
-- **Type**:  *(Simple Ranged Weapon)*
+- **Type**:  *(Simple Ranged Weapon, Common)*
 - **Range**: 16/64 *(24m/96m)*
 - **Damage**: 1d6 + DEX Piercing damage.
 - **Properties**: [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -157,7 +146,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Sling
-- **Type**:  *(Simple Ranged Weapon)*
+- **Type**:  *(Simple Ranged Weapon, Common)*
 - **Range**: 6/24 *(9m/36m)*
 - **Damage**: 1d4 + DEX Bludgeoning damage.
 - **Properties**: -
@@ -169,7 +158,7 @@
 
 ### Martial Melee Weapons
 #### Battleaxe
-- **Type**: Battleaxe *(Martial Melee Weapon)*
+- **Type**: Battleaxe *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: -
@@ -180,7 +169,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Flail
-- **Type**: Flail *(Martial Melee Weapon)*
+- **Type**: Flail *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: -
@@ -191,7 +180,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Glaive
-- **Type**: Glaive *(Martial Melee Weapon)*
+- **Type**: Glaive *(Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Slashing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -202,7 +191,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Greataxe
-- **Type**: Greataxe *(Martial Melee Weapon)*
+- **Type**: Greataxe *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d12 + STR Slashing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -213,7 +202,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Greatsword
-- **Type**: Greatsword *(Martial Melee Weapon)*
+- **Type**: Greatsword *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 2d6 + STR Slashing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -224,7 +213,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Halberd
-- **Type**: Halberd *(Martial Melee Weapon)*
+- **Type**: Halberd *(Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Slashing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -235,7 +224,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Lance
-- **Type**: Lance *(Martial Melee Weapon)*
+- **Type**: Lance *(Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Piercing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
@@ -246,7 +235,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Longsword
-- **Type**: Longsword *(Martial Melee Weapon)*
+- **Type**: Longsword *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Slashing damage.
 - **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
@@ -257,7 +246,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Maul
-- **Type**: Maul *(Martial Melee Weapon)*
+- **Type**: Maul *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 2d6 + STR Bludgeoning damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -268,7 +257,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Morningstar
-- **Type**: Morningstar *(Martial Melee Weapon)*
+- **Type**: Morningstar *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
 - **Properties**: -
@@ -279,7 +268,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Pike
-- **Type**: Pike *(Martial Melee Weapon)*
+- **Type**: Pike *(Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Piercing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
@@ -290,7 +279,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Rapier
-- **Type**: Rapier *(Martial Melee Weapon)*
+- **Type**: Rapier *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse).
@@ -301,7 +290,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Scimitar
-- **Type**: Scimitar *(Martial Melee Weapon)*
+- **Type**: Scimitar *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Slashing damage.
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light).
@@ -312,7 +301,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Shortsword
-- **Type**: Shortsword *(Martial Melee Weapon)*
+- **Type**: Shortsword *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light).
@@ -323,7 +312,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Trident
-- **Type**: Trident *(Martial Melee Weapon)*
+- **Type**: Trident *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
 - **Properties**: [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown), [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
@@ -334,7 +323,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Warhammer
-- **Type**: Warhammer *(Martial Melee Weapon)*
+- **Type**: Warhammer *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
@@ -345,7 +334,7 @@
 *(Source: PHB'24, page 215)*
     
 #### War Pick
-- **Type**: War Pick *(Martial Melee Weapon)*
+- **Type**: War Pick *(Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
 - **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
@@ -356,7 +345,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Whip
-- **Type**: Whip *(Martial Melee Weapon)*
+- **Type**: Whip *(Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d4 + STR Slashing damage.
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), Reach 2.
@@ -368,7 +357,7 @@
 
 ### Martial Ranged Weapons
 #### Blowgun
-- **Type**: Blowgun *(Martial Ranged Weapon)*
+- **Type**: Blowgun *(Martial Ranged Weapon, Common)*
 - **Range**: 5/20 *(7.5m/30m)*
 - **Damage**: 1 + DEX Piercing damage.
 - **Properties**: [Loading](items.md#item-info#weapon-properties#loading).
@@ -379,7 +368,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Hand Crossbow
-- **Type**: Hand Crossbow *(Martial Ranged Weapon)*
+- **Type**: Hand Crossbow *(Martial Ranged Weapon, Common)*
 - **Range**: 6/24 *(9m/36m)*
 - **Damage**: 1d6 + DEX Piercing damage.
 - **Properties**: [Light](items.md#item-info#weapon-properties#light), [Loading](items.md#item-info#weapon-properties#loading).
@@ -390,7 +379,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Heavy Crossbow
-- **Type**: Heavy Crossbow *(Martial Ranged Weapon)*
+- **Type**: Heavy Crossbow *(Martial Ranged Weapon, Common)*
 - **Range**: 20/80 *(30m/120m)*
 - **Damage**: 1d10 + DEX Piercing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -401,7 +390,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Longbow
-- **Type**: Longbow *(Martial Ranged Weapon)*
+- **Type**: Longbow *(Martial Ranged Weapon, Common)*
 - **Range**: 30/120 *(45m/180m)*
 - **Damage**: 1d8 + DEX Piercing damage.
 - **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -412,7 +401,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Musket
-- **Type**: Musket *(Martial Ranged Weapon)*
+- **Type**: Musket *(Martial Ranged Weapon, Common)*
 - **Range**: 8/24 *(12m/36m)*
 - **Damage**: 1d12 + DEX Piercing damage.
 - **Properties**: [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
@@ -423,7 +412,7 @@
 *(Source: PHB'24, page 215)*
 
 #### Pistol
-- **Type**: Pistol *(Martial Ranged Weapon)*
+- **Type**: Pistol *(Martial Ranged Weapon, Common)*
 - **Range**: 6/18 *(9m/27m)*
 - **Damage**: 1d10 + DEX Piercing damage.
 - **Properties**: [Loading](items.md#item-info#weapon-properties#loading).
@@ -629,16 +618,7 @@ Can move an extra specified distance for free to Attack.
 You gain weapon masteries with the specified weapon types.
 Which weapon mastery you can use with each individual weapon is specified on the weapon.
 The available weapon masteries are:
-[Cleave](items.md#item-info#weapon-mastery-#cleave)
-[Graze](items.md#item-info#weapon-mastery-#graze)
-[Nick](items.md#item-info#weapon-mastery-#nick)
-[Push](items.md#item-info#weapon-mastery-#push)
-[Sap](items.md#item-info#weapon-mastery-#sap)
-[Slow](items.md#item-info#weapon-mastery-#slow)
-[Topple](items.md#item-info#weapon-mastery-#topple)
-[Vex](items.md#item-info#weapon-mastery-#vex)
-[Brace](items.md#item-info#weapon-mastery-#brace)
-[Rush](items.md#item-info#weapon-mastery-#rush)
+[Cleave](items.md#item-info#weapon-mastery#cleave), [Graze](items.md#item-info#weapon-mastery#graze), [Nick](items.md#item-info#weapon-mastery#nick), [Push](items.md#item-info#weapon-mastery#push), [Sap](items.md#item-info#weapon-mastery#sap), [Slow](items.md#item-info#weapon-mastery#slow), [Topple](items.md#item-info#weapon-mastery#topple), [Vex](items.md#item-info#weapon-mastery#vex), [Brace](items.md#item-info#weapon-mastery#brace), [Rush](items.md#item-info#weapon-mastery#rush). 
 ## Weapon Properties
 ### Ammunition
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
