@@ -1,5 +1,5 @@
 ## CR 1/4
-### Strong Melee
+### Grappler
 *Medium*
 - **Initiative**: +1
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
@@ -33,8 +33,8 @@ STR | DEX | CON
 - **Traits**: 
   - **Prowl.** Once per turn, you can move at half your speed without provoking Opportunity Attacks. At the end of this movement, you can take the Hide action for free.
 - **Actions**:
-  - ***Claws.*** *Melee Attack Roll*: +4, reach 1 *(1.5m)*, one target. 
-   *Hit*: 1d4 + 2 Slashing damage, or 2d4 + 2 Slashing damage if you had Advantage on the Attack Roll.
+  - ***Sting.*** *Melee Attack Roll*: +4, reach 1 *(1.5m)*, one target. 
+   *Hit*: 1d4 + 2 Piercing damage, or 2d4 + 2 Piercing damage if you had Advantage on the Attack Roll.
 
 ### Web Walker
 *Medium*
@@ -55,7 +55,7 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1 *(1.5m)*, one creature. 
    *Hit*: 1d6 + 1 Piercing damage, and the target must make a DC 11 CON Save, taking 2d6 Poison damage on a failed save, or half as much damage on a successful one.
 
-### Poisonous 
+### Blindsight 
 *Small*
 - **Initiative**: +2
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
@@ -72,7 +72,7 @@ STR | DEX | CON
    *Hit*: 1d4 + 2 Piercing damage, and the target must make a DC 11 CON Save, taking 3d6 Poison damage on a failed save, or half as much damage on a successful one.
 
 ### Burrower
-*Medium*
+*Small*
 - **Initiative**: +0
 - **Speed**: 6 *(9m)*, Burrow 2 *(3m)*
 
