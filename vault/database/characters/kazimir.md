@@ -25,7 +25,7 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 ☐ Religion +0 | ☐ Survival +1 | .
 
 [TODO] Which 3 other skills did you choose? 
-[TODO] Which Origin feat did we choose? Alert, right?
+[TODO] Which Origin feat did you choose? Alert, right?
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
