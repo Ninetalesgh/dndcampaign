@@ -12,7 +12,7 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 ### Absorb Elements
 *Level 1 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you take acid, cold, fire, lightning, or thunder damage.
 - **Range**: Self
 - **Components**: S
 - **Duration**: 1 round
@@ -44,7 +44,7 @@ You create an acidic bubble at a point within range, where it explodes in a radi
 
 ### Aftershock
 *Level 3 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature within range gains the [Prone](conditions.md#prone) condition.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
@@ -497,7 +497,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 # Spells B
 ### Baleful Displacement
 *Level 7 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are targeted with a spell.
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -675,7 +675,7 @@ If you deal damage to the target with an attack roll or a spell, the target take
 
 ### Bestow Wound
 *Level 2 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit with an attack.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -702,7 +702,7 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 
 ### Bind in Stone
 *Level 1 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature you can see within range gains the [Prone](conditions.md#prone) condition.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
@@ -794,7 +794,7 @@ The blade can harmlessly pass through any barrier, including a wall of force.
 
 ### Blasphemous Abrogation
 *Level 3 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell or producing a magical effect with a divine source.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -954,7 +954,7 @@ You attempt to turn a creature’s blood to acid. One creature you can see withi
 
 ### Bloodbond Step
 *Level 2 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature within range that you hit with a melee attack in the last minute teleports.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -978,7 +978,7 @@ If you have fewer than half your maximum Hit Points, each affected creature subt
 
 ### Bloodfrost Barrier
 *Level 3 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you take any piercing or slashing damage.
 - **Range**: 0 *(0m)*
 - **Components**: V
 - **Duration**: 1 round
@@ -1195,7 +1195,7 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 
 ### Causal Reversion
 *Level 4 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -1263,7 +1263,7 @@ Each target makes a DEX Save, taking 10d8 Lightning damage on a failed save or h
 
 ### Chance Inversion
 *Level 2 Divination*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you make a roll with Advantage or Disadvantage.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 1 minute
@@ -1309,7 +1309,7 @@ The creature makes death Saves while at 0 Hit Points, even if it ordinarily woul
 
 ### Chaos Revels
 *Level 3 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature casts a spell targeting an area that you can see.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -1531,7 +1531,7 @@ Halt. On its turn, the target doesn't move and takes no action or Bonus Action.
 
 ### Command Ichor
 *Level 2 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you take piercing or slashing damage.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -1608,7 +1608,7 @@ Creatures more than 6 *(9m)* away from an affected space treat that space as Hea
 
 ### Condense Burst
 *Level 6 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a damage dealing effect that targets an area takes effect.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -1894,7 +1894,7 @@ You touch the corpse of a Medium or larger creature that died in the last minute
 
 ### Corpus Potency
 *Level 1 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you or a friendly undead creature within range 6 *(9m)* makes a Constitution saving throw.
 - **Range**: Self
 - **Components**: S
 - **Duration**: Instantaneous
@@ -1938,7 +1938,7 @@ Unless Surprised, a creature can avert its eyes to avoid this effect at the begi
 
 ### Counterspell
 *Level 3 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of yourself casting a spell with verbal or somatic components.
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: Instantaneous
@@ -1948,11 +1948,11 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 
 ### Covetous Intercession
 *Level 3 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature friendly to or [Charmed](conditions.md#charmed) by you is targeted with an attack.
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You teleport to switch places with a creature friendly to or [charmed](conditions.md#charmed) by you, intercepting an attack meant for it. You become the attack’s new target.
+You teleport to switch places with a creature friendly to or [Charmed](conditions.md#charmed) by you, intercepting an attack meant for it. You become the attack’s new target.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -2367,7 +2367,7 @@ A creature that succeeds on this Save, or that uses its action to disbelieve the
 
 ### Death Throes
 *Level 1 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a friendly creature you can see within range 6 *(9m)* drops to 0 HP.
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -2422,7 +2422,7 @@ You harvest the life from your thralls to heal yourself, reducing each friendly 
 
 ### Death’s Aid
 *Level 1 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you fail a Save.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -2443,7 +2443,7 @@ If this damage reduces a humanoid target to 0 Hit Points, a rift appears in the 
 
 ### Deceptive Demise
 *Level 4 Illusion*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you take damage.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
@@ -2466,7 +2466,7 @@ If this damage kills a creature, up to one friendly creature of your choice with
 
 ### Delay Spell
 *Level 5 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: 1 round
@@ -2514,7 +2514,7 @@ You choose an item that a humanoid creature within range is wearing, wielding, o
 
 ### Dematerialize
 *Level 3 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when targeted with an attack or harmful spell.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -2673,7 +2673,7 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 
 ### Discharge
 *Level 1 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you succeed on a saving throw against a spell.
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: Instantaneous
@@ -3212,7 +3212,7 @@ You exert control over the elements, creating one of the following effects withi
 
 ### Embrace Loss
 *Level 1 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you would make a Save.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -3651,7 +3651,7 @@ This spell’s duration increases when you reach 5th level (10 minutes), 11th le
 
 ### Feather Fall
 *Level 1 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you or a creature you can see within range 12 *(18m)* of you falls.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: 1 minute
@@ -4343,7 +4343,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 ### Gift of Gab
 *Level 2 Enchantment*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you speak to another creature.
 - **Range**: Self
 - **Components**: V, S, R (2 gp)
 - **Duration**: Instantaneous
@@ -5016,7 +5016,7 @@ Damage dealt by this spell ignores resistance to Fire damage, and treats immunit
 
 ### Hellish Rebuke
 *Level 1 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take in response to taking damage from a creature that you can see within range 12 *(18m)* of yourself
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -5532,7 +5532,7 @@ A creature you touch is [Invisible](conditions.md#invisible) until the spell end
 
 ### Invocation of The Bloodlord
 *Level 2 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature you can see is reduced to 0 HP.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -5562,7 +5562,7 @@ You are immune to all damage until the spell ends.
 
 ### Ionic Attunement
 *Level 4 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you deal 15 or fewer Lightning damage to a target.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
@@ -5573,7 +5573,7 @@ For the next minute, that creature has disadvantage on Saves against spells and 
 
 ### Ironflesh Defiance
 *Level 5 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature or area you can see is targeted with an effect that deals damage
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -6505,7 +6505,7 @@ A creature is unaffected by this spell if it is [Blinded](conditions.md#blinded)
 
 ### Misdirection
 *Level 4 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within 60 feet of you casting a spell
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -6770,7 +6770,7 @@ For the duration, you add your INT score to your AC against any attack made by a
 
 ### Mordenkainen's Instant Opposition
 *Level 7 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -6915,7 +6915,7 @@ An unwilling creature levitated in this way can make a CON Save, resisting the e
 
 ### Mycelia Snare
 *Level 1 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature end its turn within range 3 *(4.5m)* of an area affected by the Sprouting Doom spell
 - **Range**: 24 *(36m)*
 - **Components**: S
 - **Duration**: Instantaneous
@@ -6952,7 +6952,7 @@ Mischievous Surged4Effect1The smell of apple pie fills the air, and each creatur
 
 ### Necromiasma
 *Level 1 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature you can see fails a CON Save by 5 or more.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
@@ -7034,7 +7034,7 @@ For the duration, you hide a target that you touch from Divination spells. The t
 
 ### Numbing Torpor
 *Level 2 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit with a Melee Attack with a metal weapon
 - **Range**: Self
 - **Components**: S
 - **Duration**: 1 turn
@@ -7178,7 +7178,7 @@ On a failed save, the target is [Charmed](conditions.md#charmed) for the duratio
 # Spells P
 ### Painbond
 *Level 2 Enchantment*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you or an ally you can see within range takes damage.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -7528,7 +7528,7 @@ Up to five creatures of your choice who remain within range for the spell's enti
 
 ### Predictive Sway
 *Level 1 Divination*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit with an attack
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -7639,7 +7639,7 @@ Prismatic LayersOrderEffects1Red. Failed Save: 12d6 Fire damage. Successful Save
 
 ### Procession of Ancient Right
 *Level 3 Enchantment*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you roll Initiative
 - **Range**: Self, a radius 6 *(9m)* sphere
 - **Components**: V
 - **Duration**: Instantaneous
@@ -7740,7 +7740,7 @@ You may have this attack originate from a creature within range that is [charmed
 
 ### Psychic Rebound
 *Level 3 Illusion*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit with an attack
 - **Range**: Self
 - **Components**: S
 - **Duration**: Instantaneous
@@ -8393,7 +8393,7 @@ You call down a harsh burst of cleansing light on a creature you can see within 
 
 ### Screaming Flame
 *Level 1 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature you can see targets you with a melee attack.
 - **Range**: Sight
 - **Components**: V
 - **Duration**: Instantaneous
@@ -8653,7 +8653,7 @@ Damage dealt by this spell ignores resistance and immunity to Cold damage.
 
 ### Shield
 *Level 1 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: 1 round
@@ -8663,7 +8663,7 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 
 ### Shield of Bones
 *Level 1 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you or an undead ally within range 12 *(18m)* is targeted with a ranged attack.
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: 1 round
@@ -8718,7 +8718,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 
 ### Shred Lungs
 *Level 2 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature that is not hidden from you ends its turn in an area filled with fog or a similar spell effect that you control.
 - **Range**: Special
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -8730,7 +8730,7 @@ The [Choking](conditions.md#choking) creature repeats this Save at the end of ea
 
 ### Shrivel Tongue
 *Level 3 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a living creature within 12 *(18m)* of you cast a spell.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -8742,7 +8742,7 @@ On a successful Save, the target takes half as much damage.
 
 ### Shroudstep Vindication
 *Level 2 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are hit with an attack by a creature you can see within range 6 *(9m)*.
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -8836,7 +8836,7 @@ Physical interaction with the image reveals it to be an illusion, since things c
 
 ### Silvery Barbs
 *Level 1 Enchantment*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a creature you can see within range 12 *(18m)* of yourself succeeds on an Attack Roll, an Ability Check, or a Save.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -8986,7 +8986,7 @@ Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder
 
 ### Slip Bonds
 *Level 2 Transmutation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you become [Grappled](conditions.md#grappled) or [Restrained](conditions.md#restrained).
 - **Range**: Self
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
@@ -9140,7 +9140,7 @@ If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to 
 
 ### Soul Cage
 *Level 6 Necromancy*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when a humanoid you can see within 12 *(18m)* of you dies
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 8 hours
@@ -9255,7 +9255,7 @@ You cast a spell of level 1 or below that you saw cast within range since the en
 
 ### Spellfire Combustion
 *Level 2 Evocation*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are affected by a spell that deals damage.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -9563,7 +9563,7 @@ On a success, a creature takes half damage.
 
 ### Stonesheath Ward
 *Level 2 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you are targeted with an attack.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: 1 minute
@@ -9609,7 +9609,7 @@ At the start of each of your later turns, the storm produces different effects, 
 
 ### Strands of the Demonweave
 *Level 5 Conjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
@@ -10160,7 +10160,7 @@ A target that can see more of your allies than its own within 12 *(18m)* of it m
 
 ### The Queen’s Will
 *Level 1 Enchantment*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a friendly creature within range miss with an attack or fail a Save.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
@@ -10520,7 +10520,7 @@ Creatures you are [Invisible](conditions.md#invisible) and Hidden from have disa
 
 ### Twist Spell
 *Level 6 Abjuration*
-- **Casting Time**: Reaction
+- **Casting Time**: Reaction, which you take when you see a creature within range 12 *(18m)* of you casting a spell.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous

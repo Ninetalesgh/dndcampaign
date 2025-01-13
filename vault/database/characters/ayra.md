@@ -46,11 +46,12 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**
   [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
+  [Hex](spells.md#spells-h#hex)
 
 ### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Spells**
-  [Hellish Rebuke](spells.md#spells-h#hellish-rebuke)
+  *(none)*
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
