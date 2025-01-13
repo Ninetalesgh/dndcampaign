@@ -55,7 +55,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 ### Passive Feats
 *- Extra lineage feat at level 3.*
 
-[Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
 - **Prepared Spells**: 2
