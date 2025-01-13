@@ -44,6 +44,10 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 # Passive Feats
+
+- **Prepared Spells**: 0 
+- **Spell Slots Level 1**: 0 
+
 - **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.

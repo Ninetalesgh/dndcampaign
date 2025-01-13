@@ -46,8 +46,8 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 # Passive Feats
 *- Extra lineage feat at level 5.*
 - **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
-- **Spell Slots**: 
-  - **Level 1**: 2
+- **Prepared Spells**: 2
+- **Spell Slots Level 1**: 2 
 
 # Reminders
 ### After Short Rest

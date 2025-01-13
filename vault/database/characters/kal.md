@@ -44,13 +44,20 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 ##### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-### Prepared Spells
-- **Always Prepared**: [TODO] I guess you keep your always prepared spells in the A/BA/R section and then have this section extra? 
-- **Selected Prepared**: [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
+# Prepared Spells
+
+[Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
+
+[TODO] I guess you keep your always prepared spells in the A/BA/R section and then have this section extra? 
 
 # Passive Feats
 *- Extra lineage feat at level 3 and 5.*
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+
+- **Prepared Spells**: 4 
+- **Spell Slots Level 1**: 2
+- **Wild Shape Charges**: 0
+
 - **Fey Ancestry**: You have Advantage on Saves against [Charmed](conditions.md#charmed).
 - **Trance**: You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 - **High Elf**: You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
