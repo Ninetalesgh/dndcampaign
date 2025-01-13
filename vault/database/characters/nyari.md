@@ -27,7 +27,13 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
 - **Tool Proficiencies**: [TODO]
-- **Languages**: Common, Goliath, 
+- **Languages**: Common, Goliath, [TODO] 1 more
+
+## Spellcasting
+- **Prepared Spells**: 2
+- **Spell Slots Level 1**: 2 
+- **Spell Attack Modifier**: +5 *(PB + CHA)*
+- **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
 ## Feats and Actions
 ### Actions
@@ -49,8 +55,6 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 *- Extra lineage feat at level 5.*
 - [Alert](./../feats.md#alert) *(Already included above)*
 - [Weapon Mastery](items.md#item-info#weapon-mastery-list): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
-- **Prepared Spells**: 2
-- **Spell Slots Level 1**: 2 
 
 # Reminders
 ### After Short Rest

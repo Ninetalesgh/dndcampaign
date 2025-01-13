@@ -29,14 +29,20 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+## Spellcasting
+- **Prepared Spells**: 4 
+- **Spell Slots Level 1**: 2
+- **Spell Attack Modifier**: +5 *(PB + WIS)*
+- **Spell Save DC**: 13 *(8 + PB + WIS)* 
+
+- **Prepared Spells**: [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water), [TODO] 3 more.
+
 ## Feats and Actions
 ### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Druid:* - [TODO] Which cantrips did you want again?
   - *Wizard:* [Prestidigitation](spells.md#spells-p#prestidigitation)
-
-[TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
 ### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
@@ -45,18 +51,10 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 ### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-### Prepared Spells
-
-[Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
-
-[TODO] I guess you keep your always prepared spells in the A/BA/R section and then have this section extra? 
-
 ### Passive Feats
 *- Extra lineage feat at level 3 and 5.*
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 
-- **Prepared Spells**: 4 
-- **Spell Slots Level 1**: 2
 - **Wild Shape Charges**: 0
 
 - **Fey Ancestry**: You have Advantage on Saves against [Charmed](conditions.md#charmed).

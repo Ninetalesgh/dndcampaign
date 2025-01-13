@@ -31,6 +31,13 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 
 [TODO] You had a Cantrip to choose still, I think, right?
 
+
+## Spellcasting
+- **Prepared Spells**: 2
+- **Spell Slots Level 1**: 1
+- **Spell Attack Modifier**: +5 *(PB + CHA)*
+- **Spell Save DC**: 13 *(8 + PB + CHA)* 
+
 ## Feats and Actions
 ### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
@@ -57,9 +64,6 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
-
-- **Prepared Spells**: 2
-- **Spell Slots Level 1**: 1
 - **Eldritch Invocations**:
   - **Eldritch Mind**: You have Advantage on CON Saves that you make to maintain [Concentration](conditions.md#concentration).
 
