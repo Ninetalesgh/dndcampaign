@@ -29,18 +29,18 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
-- **Tool Proficiencies**: Alchemist's Supplies, Healer's Kit.
+- **Tool Proficiencies**: Alchemist's Supplies.
 - **Languages**: Common, [TODO] 2 more?
 
 ## What you can do
-### Action
+### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 
-### Bonus Action
+### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
-### Reaction
+### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats

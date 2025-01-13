@@ -20,25 +20,25 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 ☐ INT Save +0 | ☑ **WIS Save +2** | ☑ **CHA Save +5**
 ☐ Arcana +0 | ☐ Animal Handling +0 | ☐ Deception +3
 ☐ History +0 | ☐ Insight +0 | ☐ Intimidation +3
-☐ Investigation +0 | ☐ Medicine +0 | ☐ Performance +3
+☐ Investigation +0 | ☑ **Medicine +2** | ☐ Performance +3
 ☑ **Nature +2** | ☐ Perception +0 | ☐ Persuasion +3
-☑ **Religion +2** | ☑ **Survival +2** | .
+☑ **Religion +2** | ☐ Survival +0 | .
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
 - **Tool Proficiencies**: [TODO]
-- **Languages**: Common, [TODO] 2 more, right?
+- **Languages**: Common, Goliath, 
 
 ## Feats and Actions
-### Action
+### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
-### Bonus Action
+### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 charges)*
 
-### Reaction
+### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 

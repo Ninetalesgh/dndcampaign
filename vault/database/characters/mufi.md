@@ -30,17 +30,17 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Languages**: Common, [TODO] 2 more, right?
 
 ## What you can do
-### Action
+### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](./../spells.md#spells-l#light)
 
-### Bonus Action
+### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**:
   - *Cleric:* [Sanctuary](spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
 
-### Reaction
+### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats

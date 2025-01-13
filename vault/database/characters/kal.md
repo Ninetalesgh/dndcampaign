@@ -30,7 +30,7 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
 ## Feats and Actions
-### Action
+### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Druid:* - [TODO] Which cantrips did you want again?
@@ -38,11 +38,11 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
-### Bonus Action
+### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Wild Shape**: [Grappler](wildshapes.md#cr-1/4#grappler), [Nimble](wildshapes.md#cr-1/4#nimble), [Blindsight](wildshapes.md#cr-1/4#blindsight), [Burrower](wildshapes.md#cr-1/4#burrower) *(at level 2)* 
 
-### Reaction
+### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 ### Prepared Spells
