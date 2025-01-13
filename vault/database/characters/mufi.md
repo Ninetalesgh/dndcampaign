@@ -161,6 +161,7 @@ Switch one of your Cleric Spells with a different Cleric Spell of the same level
 [Silvery Barbs](spells.md#spells-s#silvery-barbs)
 [Sleep](spells.md#spells-s#sleep)
 [Snare](spells.md#spells-s#snare)
+Custom Addition: [Spell Cheat](spells.md#spells-s#spell-cheat)
 [Tasha's Caustic Brew](spells.md#spells-t#tasha's-caustic-brew)
 [Tasha's Hideous Laughter](spells.md#spells-t#tasha's-hideous-laughter)
 [Tenser's Floating Disk](spells.md#spells-t#tenser's-floating-disk)
