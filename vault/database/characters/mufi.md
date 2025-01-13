@@ -1,4 +1,4 @@
-# Character Sheet
+# Mufi
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 14 *(Leather Armor + DEX)*

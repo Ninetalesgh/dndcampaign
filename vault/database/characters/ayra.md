@@ -1,5 +1,4 @@
-
-# Character Sheet
+# Ayra
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 13 *(Leather Armor + DEX)*

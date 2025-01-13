@@ -1,4 +1,4 @@
-# Character Sheet
+# Kal
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 14 *(Hide Armor + DEX)*

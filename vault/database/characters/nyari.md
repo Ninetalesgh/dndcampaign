@@ -1,4 +1,4 @@
-# Character Sheet
+# Nyari
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
 - **AC**: 18 *(Chain Mail + Shield)*
