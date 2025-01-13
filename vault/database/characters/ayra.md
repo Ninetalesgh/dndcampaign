@@ -1,7 +1,11 @@
 
 # Stats
-- *Hit Point Die:* **D8**
-- *Speed:* **6**
+
+- **Initiative**: +2
+- **AC**: 13 *(Leather Armor + DEX)*
+- **HP**: 12
+- **Speed**: 6 *(9m)*
+- **HP Dice**: D8
 
 STR 10 (+0) | DEX 14 (+2) | CON 14 (+2) 
  :-- | :-- | :-- 
@@ -9,7 +13,6 @@ STR 10 (+0) | DEX 14 (+2) | CON 14 (+2)
 ☐ Athletics +0 | ☐ Acrobatics +2 | . 
 . | ☑ **Sleight of Hand +4**| . 
 . | ☐ Stealth +2 | . 
-
 
 
 INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3) 
@@ -21,23 +24,43 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 ☐ Nature +0 | ☐ Perception +0 | ☐ Persuasion +3
 ☐ Religion +0 | ☐ Survival +0 | .
 
-
-
-Tool Proficiencies: Thieves' Tools
-
-# Feats
-
-
-
-# Prepared Spells
+- **Weapon Proficiencies**: Simple Weapons
+- **Armor Proficiencies**: Light Armor
+- **Tool Proficiencies**: Thieves' Tools
+- **Languages**: Common, Infernal, Celestial
 
 [TODO] You had a Cantrip to choose still, I think, right?
-- **Cantrips** [Eldritch Blast](spells.md#spells-e#eldritch-blast), [Light](spells.md#spells-l#light)
 
-- **Level 1**
+# Action
+- **Feats**
+  - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
+- **Cantrips**: [Eldritch Blast](spells.md#spells-e#eldritch-blast), [Light](spells.md#spells-l#light)
+- **Spells that cost a Spell Slot**
+  *(none)*
+# Bonus Action
+- **Spells that cost a Spell Slot**
   [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
-  [Hex](spells.md#spells-h#hex)
 
+# Reaction
+- **Spells that cost a Spell Slot**
+  [Hellish Rebuke](spells.md#spells-h#hellish-rebuke)
+
+# Passive Feats
+*- Extra lineage feat at level 3.*
+
+[Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- **Tough.** Your HP max increases by 2 per level. *(Already included above)*
+- **Light Bearer.** You know the Light cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
+- **Celestial Resistance.** You have Resistance to Necrotic damage and Radiant damage.
+
+# After Short Rest
+## Expend HP Dice to regain HP
+Regain *(d8 + CON)* HP per expended dice.
+## Regain 1 Spell Slot
+*- Upgrades to 2 at level 2*
+# After Long Rest
+## Regain all HP & HP Dice
+## Regain Healing Hands charge
 
 # Warlock Spell Reference
 
