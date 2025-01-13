@@ -33,7 +33,7 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 ### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
-  - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](spells.md#spells-l#light)
+  - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](./../spells.md#spells-l#light)
 
 ### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
