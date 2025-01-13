@@ -1,10 +1,4 @@
 # Common
-
-
-WHAT 
-Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
-*(Source: PHB'24, page 215)*
-
 ## Weapons
 ### Simple Melee Weapons
 #### Club
@@ -170,7 +164,7 @@ Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e6
 - **Mastery**: [Slow 2](items.md#item-info#slow).
 - **Price**: 1 sp
 - **Weight**: -
-![Image|250]()
+![Image|250]() [TODO]
 *(Source: PHB'24, page 215)*
 
 ### Martial Melee Weapons
@@ -248,7 +242,7 @@ Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e6
 - **Mastery**: [Topple](items.md#item-info#topple).
 - **Price**: 10 gp
 - **Weight**: 3 kg
-![Image|250]()
+![Image|250]() [TODO]
 *(Source: PHB'24, page 215)*
 
 #### Longsword
@@ -381,7 +375,7 @@ Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e6
 - **Mastery**: [Vex](items.md#item-info#vex).
 - **Price**: 10 gp
 - **Weight**: 0.5 kg
-![Image|250]()
+![Image|250]() [TODO]
 *(Source: PHB'24, page 215)*
 
 #### Hand Crossbow
@@ -425,7 +419,7 @@ Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e6
 - **Mastery**: [Slow 2](items.md#item-info#slow).
 - **Price**: 500 gp
 - **Weight**: 5 kg
-![Image|250]()
+![Image|250]() [TODO]
 *(Source: PHB'24, page 215)*
 
 #### Pistol
@@ -436,7 +430,7 @@ Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e6
 - **Mastery**: [Vex](items.md#item-info#vex).
 - **Price**: 250 gp
 - **Weight**: 1.5 kg
-![Image|250]()
+![Image|250]() [TODO]
 *(Source: PHB'24, page 215)*
 
 ## Armor
