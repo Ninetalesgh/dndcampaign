@@ -172,7 +172,7 @@
     function findIndexedContentNodeRecursive(parentNode, name)
     {
       let resultNode = null;
-      let queue = new Array();
+      
       for (let childNode of parentNode.children)
       {
         if (childNode.name.toLowerCase().replaceAll(' ', '-') === name)
@@ -181,16 +181,11 @@
         }
         else if (childNode.children.length > 0)
         {
-          queue.push(childNode);
-        }
-      }
-
-      for (let childNode of queue)
-      {
-        const childResultNode = findIndexedContentNodeRecursive(childNode, name);
-        if (childResultNode)
-        {
-          return childResultNode;
+          const childResultNode = findIndexedContentNodeRecursive(childNode, name);
+          if (childResultNode)
+          {
+            return childResultNode;
+          }
         }
       }
 
