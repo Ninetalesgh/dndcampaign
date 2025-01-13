@@ -48,7 +48,7 @@ You create an acidic bubble at a point within range, where it explodes in a radi
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
-The target’s impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and has the Dazed condition until the end of its next turn.
+The target’s impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and is [Dazed](conditions.md#dazed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
@@ -524,7 +524,7 @@ Up to three creatures of your choice that you can see within range must each mak
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A wave of overwhelming despair washes forth from you in a length 12 *(18m)* cone.
-Each creature in the area must succeed on a WIS Save or fall [prone](conditions.md#prone) and be Dazed for the duration.
+Each creature in the area must succeed on a WIS Save or fall [prone](conditions.md#prone) and be [Dazed](conditions.md#dazed) for the duration.
 At the end of each of its turns, an affected creature can repeat this Save, ending the effect on a success.
 - **Classes**: Bard, Cleric, Paladin, Warlock
 *(Source: CS)*
@@ -6156,7 +6156,7 @@ Physical interaction with the image reveals it to be an illusion, for things can
 - **Components**: V, S
 - **Duration**: Instantaneous
 You attempt to bleed away a creature’s reserves of magic, forcing it to make a CHA  Save. On a failure, the target must expend one spell level worth of spell slots for each point it failed by.
-A creature that can’t do so loses no spell slots on a failed Save, and is instead Dazed until the end of its next turn on a failure.
+A creature that can’t do so loses no spell slots on a failed Save, and is instead [Dazed](conditions.md#dazed) until the end of its next turn on a failure.
 Design Note: Spellcasters Without Spell Slots. At DM discretion, a spellcasting monster that does not use spell slots affected by this ability may suffer some other effect, such as temporarily losing the ability to cast its most powerful spell, or having one or more uses of a limited magical ability depleted.
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
@@ -7510,7 +7510,7 @@ The [Stunned](conditions.md#stunned) target makes a CON Save at the end of each 
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 round
-You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and has the Dazed condition until the end of its next turn. This damage can’t reduce a creature below 1 Hit Point.
+You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and is [Dazed](conditions.md#dazed) until the end of its next turn. This damage can’t reduce a creature below 1 Hit Point.
 **Using a Higher-Level Spell Slot.** The Psychic damage increases by 10 for every slot level above 5.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -7770,7 +7770,7 @@ A [stunned](conditions.md#stunned) target can make an INT Save at the end of eac
 You touch a creature, attempting to violently drive the impurities from its body.
 The target must make a CON Save. On a failed save, the target takes 10d8 Necrotic damage, plus an additional 2d8 Necrotic damage for each condition affecting it.
 On a successful save, the target takes half as much damage, then each condition affecting it ends.
-The conditions ended can be [bleeding](conditions.md#bleeding), [blinded](conditions.md#blinded), [burning](conditions.md#burning), [charmed](conditions.md#charmed), [choking](conditions.md#choking), confused, cursed, dazed, [deafened](conditions.md#deafened), diseased, dominated, [frightened](conditions.md#frightened), [paralyzed](conditions.md#paralyzed), [petrified](conditions.md#petrified), [poisoned](conditions.md#poisoned), possessed, [stunned](conditions.md#stunned), or turned.
+The conditions ended can be [Bleeding](conditions.md#bleeding), [Blinded](conditions.md#blinded), [Burning](conditions.md#burning), [Charmed](conditions.md#charmed), [Choking](conditions.md#choking), confused, cursed, [Dazed](conditions.md#dazed), [Deafened](conditions.md#deafened), diseased, dominated, [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), possessed, [Stunned](conditions.md#stunned), or turned.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the additional Necrotic damage per condition increases by 1d8 damage for each slot level beyond 6.
 - **Classes**: Cleric, Druid, Wizard
 *(Source: CS)*
@@ -9462,8 +9462,7 @@ You launch a mote of light at one creature or object within range. Make a ranged
 - **Components**: V, S
 - **Duration**: Instantaneous
 Your fingers crackle with electricity as you reach for a creature. Make a melee spell attack.
-On a hit, the target takes 3d10 Lightning damage. A target dealt 20 or more Lightning damage by this attack is pushed up to 3 *(4.5m)* away and is dazed until the end of its next turn.
-The dazed creature can only do one of the following things on their turn: move, use an action, or use a bonus action.
+On a hit, the target takes 3d10 Lightning damage. A target dealt 20 or more Lightning damage by this attack is pushed up to 3 *(4.5m)* away and is [Dazed](conditions.md#dazed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, the Lightning damage increases by 1d10 for each slot level above 2.
 - **Classes**: Artificer
 *(Source: CS)*
@@ -10211,9 +10210,9 @@ You can choose one spell; until the target completes a Short or Long Rest, it ca
 - **Components**: S
 - **Duration**: 1 round
 You meld the mind of a creature in range with several near-reality versions of itself, filling its mind with chaotic echoes of its own thoughts.
-The target must make an INT Save, taking 8d8 Psychic damage and becoming Dazed until the end of your next turn on a failure.
-On a success, the target takes half as much damage and isn’t Dazed.
-A target that is Concentrating on a spell has disadvantage on this Save, and is additionally [Stunned](conditions.md#stunned) until the end of your next turn on a failure.
+The target must make an INT Save, taking 8d8 Psychic damage and becoming [Dazed](conditions.md#dazed) until the end of your next turn on a failure.
+On a success, the target takes half as much damage and isn't [Dazed](conditions.md#dazed).
+A target that is [Concentrating](conditions.md#concentration) on a spell has disadvantage on this Save, and is additionally [Stunned](conditions.md#stunned) until the end of your next turn on a failure.
 - **Classes**: Bard, Cleric, Wizard
 *(Source: CS)*
 
@@ -10291,7 +10290,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Requires language proficiency in DrowA wave of soporific violet motes washes forth from you in a length 6 *(9m)* cone.
-Each creature in the area has the Dazed condition until the end of your next turn and must make a WIS Saving Throw.
+Each creature in the area is [Dazed](conditions.md#dazed) until the end of your next turn and must make a WIS Saving Throw.
 On a failure, the creature additionally falls asleep, gaining the [Unconscious](conditions.md#unconscious) condition until the end of your next turn. The creature wakes early if it takes any damage.
 **Using a Higher-Level Spell Slot.** The Cone’s size increases by 2 *(3m)* for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
