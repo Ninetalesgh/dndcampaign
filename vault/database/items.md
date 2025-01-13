@@ -443,6 +443,7 @@
 - **Price**: 10 gp
 - **Weight**: 5 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Padded Armor
 - **Type**: Light Armor
@@ -452,6 +453,7 @@
 - **Price**: 5 gp
 - **Weight**: 4 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Studded Leather Armor
 - **Type**: Light Armor
@@ -461,6 +463,7 @@
 - **Price**: 45 gp
 - **Weight**: 7 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 ### Medium Armor
 #### Breastplate
@@ -471,6 +474,7 @@
 - **Price**: 400 gp
 - **Weight**: 10 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Chain Shirt
 - **Type**: Medium Armor
@@ -480,6 +484,7 @@
 - **Price**: 50 gp
 - **Weight**: 10 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Half Plate Armor
 - **Type**: Medium Armor
@@ -489,6 +494,7 @@
 - **Price**: 750 gp
 - **Weight**: 20 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Hide Armor
 - **Type**: Medium Armor
@@ -498,6 +504,7 @@
 - **Price**: 10 gp
 - **Weight**: 6 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Scale Mail
 - **Type**: Medium Armor
@@ -507,6 +514,7 @@
 - **Price**: 50 gp
 - **Weight**: 23 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 ### Heavy Armor
 #### Chain Mail
@@ -519,6 +527,7 @@
 - **Price**: 75 gp
 - **Weight**: 28 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Plate Armor
 - **Type**: Heavy Armor
@@ -530,6 +539,7 @@
 - **Price**: 1500 gp
 - **Weight**: 33 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Ring Mail
 - **Type**: Heavy Armor
@@ -539,6 +549,7 @@
 - **Price**: 30 gp
 - **Weight**: 20 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 #### Splint Armor
 - **Type**: Heavy Armor
@@ -550,6 +561,7 @@
 - **Price**: 200 gp
 - **Weight**: 30 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 ### Shields
 #### Shield
@@ -560,6 +572,7 @@
 - **Price**: 10 gp
 - **Weight**: 3 kg
 *(Source: PHB'24, page 219)*
+![Image|250]() [TODO]
 
 # Uncommon
 ### Weapons
@@ -587,46 +600,6 @@
 
 ### Armor
 
-### Miscellaneous
-
-
-
-# Templates
-#### Weapon Template
-- **Type**:  *(Martial Ranged Weapon)*
-- **Range**:
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|250]()
-*(Source: )*
-
-#### Armor Template
-- **Type**: 
-- **Don and Doff Time**:
-- **AC**: 
-- **Properties**: 
-- **Price**:
-- **Weight**:
-*(Source: )*
-
-
-# OLD
-### Weapons
-#### Simple
-
-
-#### Martial
-
-
-- Musket TODO
-- Pistol TODO
-### Armor
-- Shield
-    +2 AC.
-   _<i>3 kg / 10  Gold pieces</i>
 ### Miscellaneous
 
 
