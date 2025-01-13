@@ -1,7 +1,12 @@
 # Common
 
-### Simple Melee Weapons
 
+WHAT 
+Shortsword ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
+*(Source: PHB'24, page 215)*
+
+## Weapons
+### Simple Melee Weapons
 #### Club
 - **Type**: Club *(Simple Melee Weapon)*
 - **Damage**: 1d4 + STR Bludgeoning damage.
@@ -10,17 +15,19 @@
 - **Mastery**: [Slow 2](items.md#item-info#slow).
 - **Price**: 1 sp
 - **Weight**: 0.5 kg
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/c/c3/Wooden-club.jpg)
+![Image|250](https://i.pinimg.com/736x/c1/6b/17/c16b17c9a2395eaaf3b03d11d287310e.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Dagger
 - **Type**: Dagger *(Simple Melee Weapon)*
-- **Damage**: 1d4 + STR/DEX Piercing damage.
+- **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
 - **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
 - **Mastery**: [Nick](items.md#item-info#nick).
 - **Price**: 2 gp
 - **Weight**: 0.5 kg
-![Image|300](https://static.wikia.nocookie.net/dnd4/images/8/83/P201H.jpg)
+![Image|250](https://i.pinimg.com/736x/73/a7/5f/73a75f5e81ba8d79265110fa2b125cba.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Greatclub
 - **Type**: Greatclub *(Simple Melee Weapon)*
@@ -30,7 +37,8 @@
 - **Mastery**: [Push 2](items.md#item-info#push).
 - **Price**: 2 sp
 - **Weight**: 5 kg
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/7/79/Large.jpg)
+![Image|250](https://i.pinimg.com/736x/e1/01/39/e101392ace8845d1b1d885601edd72ae.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Handaxe
 - **Type**: Handaxe *(Simple Melee Weapon)*
@@ -40,17 +48,19 @@
 - **Mastery**: [Vex](items.md#item-info#vex).
 - **Price**: 5 gp
 - **Weight**: 1 kg
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/c/c3/XH2043N-1000.jpg)
+![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Javelin
 - **Type**: Javelin *(Simple Melee Weapon)* 
-- **Damage**:
-- **Reach**: [TODO]
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200](https://i.pinimg.com/736x/f2/0c/54/f20c5415acbeb55b59ed6ace288bd5ae.jpg)
+- **Damage**: 1d6 + STR Piercing damage.
+- **Reach**: 1
+- **Properties**: [Thrown 6/24 *(9m/36m)*](items.md#item-info#weapon-properties#thrown).
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 5 sp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/4c/dd/87/4cdd8776fcf47796a062a49be7bfa357.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Light Hammer
 - **Type**: Light Hammer *(Simple Melee Weapon)*
@@ -60,51 +70,52 @@
 - **Mastery**: [Nick](items.md#item-info#nick).
 - **Price**: 2 gp
 - **Weight**: 1 kg
-![Image|200](https://i.pinimg.com/736x/c5/4e/c8/c54ec8277278744f2bf3b45b8a89e3ca.jpg)
+![Image|250](https://i.pinimg.com/736x/db/70/80/db7080998884237f3e85453ddb489ecc.jpg)..
+*(Source: PHB'24, page 215)*
 
 #### Mace
-- Mace
-    1 d6 <i>(+STR)</i> Bludgeoning damage.
-    Mastery {dash} Sap.
-   _<i>2 kg / 5 Gold pieces</i> 
 - **Type**: Mace *(Simple Melee Weapon)*
 - **Reach**: 1
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/1/1e/1e0542d25423e6194abfedb345a5ebb5.jpg)
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: - 
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 5 gp
+- **Weight**: 2 kg
+![Image|250](https://i.pinimg.com/736x/66/43/e7/6643e7cbe4cc5f881f7a8bcf9ce62a69.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Quarterstaff
 - **Type**: Quarterstaff *(Simple Melee Weapon)*
 - **Reach**: 1
-- **Damage**: 1d6 or 1d8 + STR Bludgeoning damage.
-- **Properties**: [Versatile](items.md#item-info#weapon-properties#versatile).
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d8)](items.md#item-info#weapon-properties#versatile).
 - **Mastery**: [Topple](items.md#item-info#topple).
 - **Price**: 2 sp
 - **Weight**: 2 kg
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/8/8e/Latest.png)
+![Image|250](https://i.pinimg.com/736x/64/0d/ce/640dceacec8176a8a49e5cce1cbe0c52.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Sickle
 - **Type**: Sickle *(Simple Melee Weapon)*
-- **Reach**: [TODO]
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/1/11/Sickle1.jpg)
+- **Reach**: 1
+- **Damage**: 1d4 + STR Slashing damage.
+- **Properties**: [Light](items.md#item-info#weapon-properties#light).
+- **Mastery**: [Nick](items.md#item-info#nick).
+- **Price**: 1 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/1e/12/4f/1e124fef80413a975f1c01039b405989.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Spear 
 - **Type**: Spear *(Simple Melee Weapon)*
 - **Reach**: 1
-- **Damage**: 1d6 or 1d8 +STR Piercing damage.
-- **Properties**: [Versatile](items.md#item-info#weapon-properties#versatile), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
+- **Damage**: 1d6 + STR Piercing damage.
+- **Properties**: [Versatile (1d8)](items.md#item-info#weapon-properties#versatile), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
 - **Mastery**: [Sap](items.md#item-info#sap).
 - **Price**: 1 gp
 - **Weight**: 1.5 kg
-![Image|200](https://static.wikia.nocookie.net/dnd4/images/d/d0/Boar-spear-95boask-full-1.jpg)
+![Image|250](https://i.pinimg.com/736x/c2/5b/86/c25b86973aa53365b2245dc22e1bd324.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Bone Club
 - **Type**: Club *(Simple Melee Weapon)*
@@ -114,94 +125,447 @@
 - **Mastery**: [Slow 2](items.md#item-info#slow).
 - **Price**: 1 sp.
 - **Weight**: 0.5 kg.
-![Image|300](https://i.pinimg.com/736x/5d/45/5b/5d455bcb9272ae3fb2f2074ffbf23282.jpg)
+![Image|250](https://i.pinimg.com/736x/5d/45/5b/5d455bcb9272ae3fb2f2074ffbf23282.jpg)
+*(Source: PHB'24, page 215)*
 
 ### Simple Ranged Weapons
-#### Dart TODO
-- **Type**:  *(Simple Melee Weapon)*
-- **Reach**: [TODO]
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200](https://drive.google.com/uc?export=view&id=12M-tKSlaaZSHf865xstZXTofGXug5iS5)
+#### Dart
+- **Type**:  *(Simple Ranged Weapon)*
+- **Range**: 4/12 *(6m/18m)*
+- **Damage**: 1d4 + STR Piercing damage.
+- **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 5 cp
+- **Weight**: 125 g
+![Image|250](https://i.pinimg.com/736x/2b/79/a8/2b79a8cfac5fa7157ea7b0542014805d.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Light Crossbow
-    1 d8 <i>(+DEX)</i> Piercing damage. 
-    Normal range 16 <i>(24m)</i>.
-    Long range 64 <i>(96m)</i>.
-    Loading, Two-Handed.
-    Mastery {dash} Slow by 2.
-   _<i>2.5 kg / 25 Gold pieces</i>
-- **Type**:  *(Simple Melee Weapon)*
-- **Reach**:
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200]()
+- **Type**:  *(Simple Ranged Weapon)*
+- **Range**: 16/64 *(24m/96m)*
+- **Damage**: 1d8 + DEX Piercing damage.
+- **Properties**: [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 5 gp
+- **Weight**: 2.5 kg
+![Image|250](https://i.pinimg.com/736x/10/2c/9e/102c9edf86147f13448fabb3300ac4dd.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Shortbow
-- 
-    1 d6 <i>(+DEX)</i> Piercing damage. 
-    Normal range 16 <i>(24m)</i>.
-    Long range 64 <i>(96m)</i>.
-    Two-Handed.
-    Mastery {dash} Vex.
-   _<i>1 kg / 25 Gold pieces</i>
-- **Type**:  *(Simple Melee Weapon)*
-- **Reach**:
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200]()
+- **Type**:  *(Simple Ranged Weapon)*
+- **Range**: 16/64 *(24m/96m)*
+- **Damage**: 1d6 + DEX Piercing damage.
+- **Properties**: [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 25 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/37/e4/d1/37e4d16d5da34355ecb4df202547f775.jpg)
+*(Source: PHB'24, page 215)*
 
 #### Sling
-- 
-- **Type**:  *(Simple Melee Weapon)*
-- **Reach**: [TODO]
-- **Damage**:
-- **Properties**:
-- **Mastery**:
-- **Price**:
-- **Weight**:
-![Image|200]()
-
+- **Type**:  *(Simple Ranged Weapon)*
+- **Range**: 6/24 *(9m/36m)*
+- **Damage**: 1d4 + DEX Bludgeoning damage.
+- **Properties**: -
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 1 sp
+- **Weight**: -
+![Image|250]()
+*(Source: PHB'24, page 215)*
 
 ### Martial Melee Weapons
-- Battleaxe 
-- Flail 
-- Glaive 
-- Greataxe 
-- Greatsword
-- Halberd
-- Lance 
-- Longsword
-- Maul
-- Morningstar
-- Pike 
-- Rapier
-- Scimitar
-- Shortsword
-- Trident 
-- Warhammer 
-- War Pick 
-- Whip 
+#### Battleaxe
+- **Type**: Battleaxe *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: -
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 10 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/bf/72/26/bf7226d38e98c91366d2fdfa84f1b806.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Flail
+- **Type**: Flail *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: -
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 10 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/51/51/b4/5151b461d0b62a1f2db2cca0a7d0fde2.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Glaive
+- **Type**: Glaive *(Martial Melee Weapon)*
+- **Reach**: 2
+- **Damage**: 1d10 + STR Slashing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Graze](items.md#item-info#graze).
+- **Price**: 20 gp
+- **Weight**: 3 kg
+![Image|250](https://i.pinimg.com/736x/9c/92/5c/9c925c03361e2fe3afd4f56fddd25e5f.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Greataxe
+- **Type**: Greataxe *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d12 + STR Slashing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Cleave](items.md#item-info#cleave).
+- **Price**: 30 gp
+- **Weight**: 3.5 kg
+![Image|250](https://i.pinimg.com/736x/aa/67/86/aa6786ac95a00bb74ccb457474660243.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Greatsword
+- **Type**: Greatsword *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 2d6 + STR Slashing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Graze](items.md#item-info#graze).
+- **Price**: 50 gp
+- **Weight**: 3 kg
+![Image|250](https://i.pinimg.com/736x/c2/b7/f6/c2b7f64bfc48e34d8a7269b1eaee8831.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Halberd
+- **Type**: Halberd *(Martial Melee Weapon)*
+- **Reach**: 2
+- **Damage**: 1d10 + STR Slashing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Cleave](items.md#item-info#cleave).
+- **Price**: 20 gp
+- **Weight**: 3 kg
+![Image|250](https://i.pinimg.com/736x/82/de/68/82de680d77d0af9beda1a894cf5af81d.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Lance
+- **Type**: Lance *(Martial Melee Weapon)*
+- **Reach**: 2
+- **Damage**: 1d10 + STR Piercing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
+- **Mastery**: [Topple](items.md#item-info#topple).
+- **Price**: 10 gp
+- **Weight**: 3 kg
+![Image|250]()
+*(Source: PHB'24, page 215)*
+
+#### Longsword
+- **Type**: Longsword *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Slashing damage.
+- **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 15 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Maul
+- **Type**: Maul *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 2d6 + STR Bludgeoning damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Topple](items.md#item-info#topple).
+- **Price**: 10 gp
+- **Weight**: 5 kg
+![Image|250](https://i.pinimg.com/736x/bb/7f/16/bb7f16d8093194f2648dc5a0ca27fbbc.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Morningstar
+- **Type**: Morningstar *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Piercing damage.
+- **Properties**: -
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 15 gp
+- **Weight**: 2 kg
+![Image|250](https://i.pinimg.com/736x/80/36/06/8036061fea0de1031648c3616360b1ed.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Pike
+- **Type**: Pike *(Martial Melee Weapon)*
+- **Reach**: 2
+- **Damage**: 1d10 + STR Piercing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
+- **Mastery**: [Push 2](items.md#item-info#push).
+- **Price**: 5 gp
+- **Weight**: 9 kg
+![Image|250](https://i.pinimg.com/736x/00/8a/34/008a343166e9782c41677a86e7520039.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Rapier
+- **Type**: Rapier *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Piercing damage.
+- **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 25 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/58/9e/90/589e902d887aba2e1adc82b6acaafdcc.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Scimitar
+- **Type**: Scimitar *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Slashing damage.
+- **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light).
+- **Mastery**: [Nick](items.md#item-info#Nick).
+- **Price**: 25 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Shortsword
+- **Type**: Shortsword *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Piercing damage.
+- **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), [Light](items.md#item-info#weapon-properties#light).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 10 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Trident
+- **Type**: Trident *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Piercing damage.
+- **Properties**: [Thrown 4/12 *(6m/18m)*](items.md#item-info#weapon-properties#thrown), [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Topple](items.md#item-info#topple).
+- **Price**: 5 gp
+- **Weight**: 2 kg
+![Image|250](https://i.pinimg.com/736x/26/21/63/2621639a489836bf499481905081c18d.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Warhammer
+- **Type**: Warhammer *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Push 2](items.md#item-info#push).
+- **Price**: 15 gp
+- **Weight**: 2.5 kg
+![Image|250](https://i.pinimg.com/736x/31/15/a7/3115a7b1824aa15bfe3ce925f6a1cd7a.jpg)
+*(Source: PHB'24, page 215)*
+    
+#### War Pick
+- **Type**: War Pick *(Martial Melee Weapon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Piercing damage.
+- **Properties**: [Versatile (1d10)](items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Sap](items.md#item-info#sap).
+- **Price**: 5 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/47/41/d7/4741d79572e539ae0028093d64822809.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Whip
+- **Type**: Whip *(Martial Melee Weapon)*
+- **Reach**: 2
+- **Damage**: 1d4 + STR Slashing damage.
+- **Properties**: [Finesse](items.md#item-info#weapon-properties#finesse), Reach 2.
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 2 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/4a/66/cd/4a66cd56b133e36b5026d2f1387c41b3.jpg)
+*(Source: PHB'24, page 215)*
+
 ### Martial Ranged Weapons
-- Blowgun 
-- Hand Crossbow 
-- Heavy Crossbow
-- Longbow 
-- Musket 
-- Pistol 
+#### Blowgun
+- **Type**: Blowgun *(Martial Ranged Weapon)*
+- **Range**: 5/20 *(7.5m/30m)*
+- **Damage**: 1 + DEX Piercing damage.
+- **Properties**: [Loading](items.md#item-info#weapon-properties#loading).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 10 gp
+- **Weight**: 0.5 kg
+![Image|250]()
+*(Source: PHB'24, page 215)*
+
+#### Hand Crossbow
+- **Type**: Hand Crossbow *(Martial Ranged Weapon)*
+- **Range**: 6/24 *(9m/36m)*
+- **Damage**: 1d6 + DEX Piercing damage.
+- **Properties**: [Light](items.md#item-info#weapon-properties#light), [Loading](items.md#item-info#weapon-properties#loading).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 75 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/00/3b/07/003b07aac7b9d4784cdb1a2cbeb3ae3d.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Heavy Crossbow
+- **Type**: Heavy Crossbow *(Martial Ranged Weapon)*
+- **Range**: 20/80 *(30m/120m)*
+- **Damage**: 1d10 + DEX Piercing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Push 2](items.md#item-info#push).
+- **Price**: 50 gp
+- **Weight**: 9 kg
+![Image|250](https://i.pinimg.com/736x/2e/76/97/2e7697e2a8d55b56d9b174f5e857fc3a.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Longbow
+- **Type**: Longbow *(Martial Ranged Weapon)*
+- **Range**: 30/120 *(45m/180m)*
+- **Damage**: 1d8 + DEX Piercing damage.
+- **Properties**: [Heavy](items.md#item-info#weapon-properties#heavy), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 50 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/6b/e9/e0/6be9e098fd649d8996a312248e76e634.jpg)
+*(Source: PHB'24, page 215)*
+
+#### Musket
+- **Type**: Musket *(Martial Ranged Weapon)*
+- **Range**: 8/24 *(12m/36m)*
+- **Damage**: 1d12 + DEX Piercing damage.
+- **Properties**: [Loading](items.md#item-info#weapon-properties#loading), [Two-Handed](items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](items.md#item-info#slow).
+- **Price**: 500 gp
+- **Weight**: 5 kg
+![Image|250]()
+*(Source: PHB'24, page 215)*
+
+#### Pistol
+- **Type**: Pistol *(Martial Ranged Weapon)*
+- **Range**: 6/18 *(9m/27m)*
+- **Damage**: 1d10 + DEX Piercing damage.
+- **Properties**: [Loading](items.md#item-info#weapon-properties#loading).
+- **Mastery**: [Vex](items.md#item-info#vex).
+- **Price**: 250 gp
+- **Weight**: 1.5 kg
+![Image|250]()
+*(Source: PHB'24, page 215)*
+
+## Armor
 ### Light Armor
+#### Leather Armor
+- **Type**: Light Armor
+- **Don and Doff Time**: 1 minute / 1 minute
+- **AC**: 11 + DEX
+- **Properties**: -
+- **Price**: 10 gp
+- **Weight**: 5 kg
+*(Source: PHB'24, page 219)*
+
+#### Padded Armor
+- **Type**: Light Armor
+- **Don and Doff Time**: 1 minute / 1 minute
+- **AC**: 11 + DEX
+- **Properties**: Disadvantage on Dexterity (Stealth) checks.
+- **Price**: 5 gp
+- **Weight**: 4 kg
+*(Source: PHB'24, page 219)*
+
+#### Studded Leather Armor
+- **Type**: Light Armor
+- **Don and Doff Time**: 1 minute / 1 minute
+- **AC**: 12 + DEX
+- **Properties**: -
+- **Price**: 45 gp
+- **Weight**: 7 kg
+*(Source: PHB'24, page 219)*
+
 ### Medium Armor
+#### Breastplate
+- **Type**: Medium Armor
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 14 + DEX (max 2)
+- **Properties**: -
+- **Price**: 400 gp
+- **Weight**: 10 kg
+*(Source: PHB'24, page 219)*
+
+#### Chain Shirt
+- **Type**: Medium Armor
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 13 + DEX (max 2)
+- **Properties**: -
+- **Price**: 50 gp
+- **Weight**: 10 kg
+*(Source: PHB'24, page 219)*
+
+#### Half Plate Armor
+- **Type**: Medium Armor
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 15 + DEX (max 2)
+- **Properties**: Disadvantage on Dexterity (Stealth) checks.
+- **Price**: 750 gp
+- **Weight**: 20 kg
+*(Source: PHB'24, page 219)*
+
+#### Hide Armor
+- **Type**: Medium Armor
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 12 + DEX (max 2)
+- **Properties**: -
+- **Price**: 10 gp
+- **Weight**: 6 kg
+*(Source: PHB'24, page 219)*
+
+#### Scale Mail
+- **Type**: Medium Armor
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 14 + DEX (max 2)
+- **Properties**: Disadvantage on Dexterity (Stealth) checks.
+- **Price**: 50 gp
+- **Weight**: 23 kg
+*(Source: PHB'24, page 219)*
+
 ### Heavy Armor
+#### Chain Mail
+- **Type**: Heavy Armor
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 16
+- **Properties**: 
+  - Disadvantage on Dexterity (Stealth) checks.
+  - If the wearer has a Strength score lower than 13, their speed is reduced by 2 *(3m)*.
+- **Price**: 75 gp
+- **Weight**: 28 kg
+*(Source: PHB'24, page 219)*
+
+#### Plate Armor
+- **Type**: Heavy Armor
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 18
+- **Properties**:
+  - Disadvantage on Dexterity (Stealth) checks.
+  - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
+- **Price**: 1500 gp
+- **Weight**: 33 kg
+*(Source: PHB'24, page 219)*
+
+#### Ring Mail
+- **Type**: Heavy Armor
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 14
+- **Properties**: Disadvantage on Dexterity (Stealth) checks.
+- **Price**: 30 gp
+- **Weight**: 20 kg
+*(Source: PHB'24, page 219)*
+
+#### Splint Armor
+- **Type**: Heavy Armor
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 17
+- **Properties**: 
+  - Disadvantage on Dexterity (Stealth) checks.
+  - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
+- **Price**: 200 gp
+- **Weight**: 30 kg
+*(Source: PHB'24, page 219)*
+
 ### Shields
+#### Shield
+- **Type**: Shield
+- **Don and Doff Time**: 1 Action / 1 Action
+- **AC**: +2
+- **Properties**: -
+- **Price**: 10 gp
+- **Weight**: 3 kg
+*(Source: PHB'24, page 219)*
 
 # Uncommon
 ### Weapons
@@ -233,17 +597,27 @@
 
 
 
-
 # Templates
-#### Template
-- **Type**:  *(Simple Melee Weapon)*
-- **Reach**:
+#### Weapon Template
+- **Type**:  *(Martial Ranged Weapon)*
+- **Range**:
 - **Damage**:
 - **Properties**:
 - **Mastery**:
 - **Price**:
 - **Weight**:
-![Image|200]()
+![Image|250]()
+*(Source: )*
+
+#### Armor Template
+- **Type**: 
+- **Don and Doff Time**:
+- **AC**: 
+- **Properties**: 
+- **Price**:
+- **Weight**:
+*(Source: )*
+
 
 # OLD
 ### Weapons
@@ -252,88 +626,6 @@
 
 #### Martial
 
-- Battleaxe TODO
-- Flail TODO
-    1 d8 <i>(+STR)</i> Bludgeoning damage.
-    Mastery {dash} Sap.
-   _<i>1 kg / 10  Gold pieces</i>
-
-- Glaive TODO
-- Greataxe TODO
-
-- Greatsword
-    2 d6 <i>(+STR)</i> Slashing damage.
-    Heavy, Two-Handed.
-    Mastery {dash} Graze.
-   _<i>3 kg / 50  Gold pieces</i> 
-
-- Halberd 
-    1 d10 <i>(+STR)</i> Slashing damage.
-    Heavy, Reach, Two-Handed.
-    Mastery {dash} Cleave.
-   _<i>3 kg / 20 Gold pieces</i> 
-
-- Lance TODO
-
-- Longsword
-    1 d8 or 1 d10 <i>(+STR)</i> Slashing damage.
-    Versatile.
-    Mastery {dash} Sap.
-   _<i>1.5 kg / 15 Gold pieces</i> 
-
-- Maul
-    2d6 <i>(+STR)</i> Bludgeoning damage.
-    Heavy, Two-Handed.
-    Mastery {dash} Topple.
-   _<i>5 kg / 10  Gold pieces</i> 
-
-- Morningstar
-    1 d8 <i>(+STR)</i> Piercing damage.
-    Mastery {dash} Sap.
-   _<i>2 kg / 15 Gold pieces</i> 
-
-- Pike TODO
-
-- Rapier     
-    1 d8 <i>(+STR or +DEX)</i> Piercing damage.
-    Finesse.
-    Mastery {dash} Vex.
-   _<i>1 kg / 25 Gold pieces</i> 
-
-- Scimitar
-    1 d6 <i>(+STR or +DEX)</i> Slashing damage.
-    Finesse, Light.
-    Mastery {dash} Nick.
-   _<i>1.5 kg / 25 Gold pieces</i> 
-
-- Shortsword
-    1 d6 <i>(+STR or +DEX)</i> Piercing damage.
-    Finesse, Light.
-    Mastery {dash} Vex.
-   _<i>1 kg / 10 Gold pieces</i> 
-
-- Trident TODO
-- Warhammer TODO
-- War Pick TODO
-- Whip TODO
-- Blowgun TODO
-- Hand Crossbow TODO
-
-- Heavy Crossbow
-    1 d10 <i>(+DEX)</i> Piercing damage. 
-    Normal range 20 <i>(30 m)</i>.
-    Long range 80 <i>(120 m)</i>.
-    Heavy, Loading, Two-Handed.
-    Mastery {dash} Push by 2.
-   _<i>9 kg / 50  Gold pieces</i>
-
-- Longbow TODO
-    1 d8 <i>(+DEX)</i> Piercing damage. 
-    Normal range 30 <i>(45m)</i>.
-    Long range 120 <i>(180m)</i>.
-    Heavy, Two-Handed.
-    Mastery {dash} Slow by 2.
-   _<i>1 kg / 50  Gold pieces</i>
 
 - Musket TODO
 - Pistol TODO

@@ -27,7 +27,7 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
 - **Armor Proficiencies**: Light Armor
 - **Tool Proficiencies**: Thieves' Tools, Disguise Kit
-- **Languages**: Common, [TODO] 2 more, right?
+- **Languages**: Common, Halfling, Primordial (Aquan Dialect), Thieves' Cant, Common Sign Language
 
 ## What you can do
 ### Actions
@@ -46,11 +46,16 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 ### Passive Feats
 - **Prepared Spells**: 0 
 - **Spell Slots Level 1**: 0 
+- [Weapon Mastery](items.md#item-info#weapon-mastery-list): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 - **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
 - **Naturally Stealthy.** You can take the Hide action even when you are [Obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 - **LEG DAY LEGend.** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks. *(Already included above)*
+- **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
+- **Sneak Attack.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
+- **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
+
 
 # Reminders
 ### After Short Rest
@@ -60,6 +65,7 @@ Regain *(d8 + CON)* HP per expended dice.
 ##### Regain all HP & HP Dice
 ##### Regain all Spell Slots
 ##### Regain Cleric Spell charge
+##### Switch 1 Weapon Mastery
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
