@@ -47,7 +47,7 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 *- Extra lineage feat at level 3.*
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - [Alert](./../feats.md#alert) *(Already included above)*
-- [Weapon Mastery](feats.md#weapon-mastery): [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
+- [Weapon Mastery](items.md#item-info#weapon-mastery-list): [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
 
