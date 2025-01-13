@@ -60,6 +60,7 @@ Regain *(d10 + CON)* HP per expended die.
 ##### Regain all HP & HP Dice
 ##### Regain all Second Wind charges
 ##### Switch 1 Weapon Mastery
+##### Finish 1 Brewing Potion
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
