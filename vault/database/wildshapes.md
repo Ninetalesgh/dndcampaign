@@ -9,7 +9,7 @@ STR | DEX | CON
 15 (+2)  | 12 (+1)  | 14 (+2)
 
 - **Skills**: Perception +4, Stealth +5
-- **Senses**: darkvision 24 *(36m)*, passive perception 14
+- **Senses**: [Darkvision 24 *(36m)*](game_rules.md#advanced-rules#darkvision), passive perception 14
 - **Traits**:
   - **Extraordinary Leap.** The Long Jump distance is tripled.
   - **Spider Climb.** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
@@ -29,7 +29,7 @@ STR | DEX | CON
 14 (+2)  | 15 (+2)  | 10 (+0)
 
 - **Skills**: Perception +4, Stealth +6
-- **Senses**: darkvision 12 *(18m)*, passive perception 14
+- **Senses**: [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 14
 - **Traits**: 
   - **Prowl.** Once per turn, you can move at half your speed without provoking Opportunity Attacks. At the end of this movement, you can take the Hide action for free.
 - **Actions**:
@@ -46,7 +46,7 @@ STR | DEX | CON
 12 (+1)  | 16 (+3)  | 13 (+1)
 
 - **Skills**: Perception +3, Stealth +7
-- **Senses**: darkvision 12 *(18m)*, blindsight 2 *(3m)*, passive perception 13
+- **Senses**: [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), [Blindsight 2 *(3m)*](game_rules.md#advanced-rules#blindsight), passive perception 13
 - **Traits**: 
   - **Spider Climb.** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
   - **Web Sense.** While in contact with a web, you know the exact location of any other creature in contact with the same web.
@@ -65,7 +65,7 @@ STR | DEX | CON
 5 (-3)  | 14 (+2)  | 12 (+1)
 
 - **Skills**: -
-- **Senses**: blindsight 6 *(9m)*, passive perception 8
+- **Senses**: [Blindsight 6 *(9m)*](game_rules.md#advanced-rules#blindsight), passive perception 8
 - **Traits**: - 
 - **Actions**:
   - **Sting**. *Melee Weapon Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
@@ -81,7 +81,7 @@ STR | DEX | CON
 13 (+1)  | 10 (+0)  | 17 (+3)
 
 - **Skills**: Perception +3
-- **Senses**: darkvision 12 *(18m)*, passive perception 8
+- **Senses**: [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Traits**: -
 - **Actions**:
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1 *(1.5m)*, one creature. 
@@ -98,7 +98,7 @@ STR | DEX | CON
 15 (+2) | 14 (+2) | 16 (+3)
 
 - **Skills**: -
-- **Senses**: darkvision 6 *(9m)*, tremorsense 6 *(9m)*, passive perception 10
+- **Senses**: [Darkvision 6 *(9m)*](game_rules.md#advanced-rules#darkvision), [Tremorsense 6 *(9m)*](game_rules.md#advanced-rules#tremorsense), passive perception 10
 - **Traits**:
    - **Blood Sense**. You know the exact location of each creature within 24 *(36m)* of it that does not have all of its hit points.
    - **Shock Attack**. If you start your turn underground, creatures without tremorsense may not take reactions on your turn while within 1 *(1.5m)* of it.
@@ -122,7 +122,7 @@ STR | DEX | CON
 14 (+2) | 13 (+1) | 14 (+2)
 
 - **Skills**: investigation: +2, medicine: +3
-- **Senses**: darkvision 6 *(9m)*, passive perception 10
+- **Senses**: [Darkvision 6 *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Traits**:
    - **Spiked Armor**. A Medium or larger creature that grapples, shoves, or hits you with an unarmed attack or natural weapon takes 1d4 Piercing damage.
 - **Actions**:
@@ -144,7 +144,7 @@ STR | DEX | CON
 6 (-2) | 15 (+2) | 13 (+1)
 
 - **Skills**: perception: +3, stealth: +4
-- **Senses**: blindsight 2 *(3m)*, darkvision 12 *(18m)*, passive perception 13
+- **Senses**: [Blindsight 2 *(3m)*](game_rules.md#advanced-rules#blindsight), [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: telepathy 20 *(30m)*
 - **Traits**:
    - **Scent-Reading**. You have advantage on WIS (Insight) checks to determine the mental state of creatures you can smell.
@@ -173,7 +173,7 @@ STR | DEX | CON
 - **Traits**:
    - **Pack Tactics**. You have advantage on an attack roll against a creature if at least one of your allies is within 1 *(1.5m)* of the creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
    - **Leaping Pounce**. Your long jump is up to 8 *(12m)* and your high jump is up to 4 *(6m)*, with or without a running start. If you jumps at least 4 *(6m)* then hit a creature with the claw attack, the target must succeed on a DC 12 STR Save or be knocked [Prone](conditions.md#prone).
-   - **Foe-Climber**. If you hit a Large or larger creature with a claw attack, instead of grappling you climb onto the creature. While climbing onto a creature, the creature has Disadvantage on attack rolls that target you.
+   - **Foe-Climber**. If you hit a [Large or larger](game_rules.md#advanced-rules#creature-sizes) creature with a claw attack, instead of grappling you climb onto the creature. While climbing onto a creature, the creature has Disadvantage on attack rolls that target you.
 - **Actions**:
    - **Multiattack**. You make two attacks, one of which may be with your sting.
    - **Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
@@ -191,7 +191,7 @@ STR | DEX | CON
 16 (+3) | 14 (+2) | 16 (+3)
 
 - **Skills**: -
-- **Senses**: blindsight 6 *(9m)* (blind beyond this radius), passive perception 10
+- **Senses**: [Blindsight 6 *(9m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 10
 - **Traits**: -
 - **Actions**:
    - **Claw Hammer**. *Melee Attack*: +5 to hit, reach 1 *(1.5m)*, one target. 
@@ -216,7 +216,7 @@ STR | DEX | CON
 - **Traits**:
    - **Unwieldy Height**. When you attempt to stand from [Prone](conditions.md#prone), you must make a DC 12 STR (Athletics) check.
    On a failure, you remain [Prone](conditions.md#prone) and can't try to stand again until the beginning of your next turn.
-   - **Protective Loom**. Creatures that are beneath you in your space and are at least two sizes smaller than you have 1/2 cover against Ranged Attacks.
+   - **Protective Loom**. Creatures that are beneath you in your space and are at least two [sizes](game_rules.md#advanced-rules#creature-sizes) smaller than you have 1/2 cover against Ranged Attacks.
 - **Actions**:
    - **Claw Hammer**. *Melee Attack*: +4 to hit, reach 2 *(3m)*, one target. 
     *Hit*: 2d6 + 2 Bludgeoning damage.
@@ -239,7 +239,7 @@ STR | DEX | CON
 14 (+2) | 16 (+3) | 14 (+2)
 
 - **Skills**: athletics: +3, perception: +5, stealth: +5
-- **Senses**: darkvision 12 *(18m)*, passive perception 15
+- **Senses**: [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
 - **Traits**:
    - **Plant Camouflage**. You have Advantage on DEX (Stealth) checks you make in any terrain with ample obscuring plant life.
 - **Actions**:

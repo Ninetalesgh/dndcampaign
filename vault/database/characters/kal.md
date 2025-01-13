@@ -24,6 +24,17 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+##### Action
+- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+[TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
+
+##### Bonus Action
+- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- **Wild Shape.** *(at level 2)*
+
+##### Reaction
+- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+
 # Prepared Spells
 - **Druid Cantrips**: [TODO] Which cantrips did you want again?
 
@@ -41,7 +52,7 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Fey Ancestry**: You have Advantage on Saves against [Charmed](conditions.md#charmed).
 - **Trance**: You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
-- **High Elf**: You know the [Prestidigitation](spells.md#spells-p#prestidigitation) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
+- **High Elf**: You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
 
 # After Short Rest
 ## Expend HP Dice to regain HP

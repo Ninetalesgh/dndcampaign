@@ -27,19 +27,25 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 - **Tool Proficiencies**: [TODO]
 - **Languages**: Common, [TODO] 2 more, right?
 
+##### Action
+- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+[TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
+
+##### Bonus Action
+- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+
+##### Reaction
+- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
+
 # Prepared Spells
 
 - **Level 1**
   [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink)
   [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
 
-# Active Feats
-
-### Reactions
-- **Stone's Endurance.** When you take damage, you can take a Reaction to reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
-
-*- Extra lineage feat at level 5.*
 # Passive Feats
+*- Extra lineage feat at level 5.*
 
 
 # Paladin Spell Reference
