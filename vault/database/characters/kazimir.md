@@ -1,9 +1,10 @@
 # Character Sheet
 
-- **Initiative**: +2
+- **Initiative**: +4 *(DEX + PB)*
 - **AC**: 13 *(Leather Armor + DEX)*
 - **HP**: 12
-- **HP Dice:** (1) D10
+- **HP Dice**: 1 D10
+- **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
 STR 17 (+3) | DEX 12 (+2) | CON 14 (+2) 
@@ -47,6 +48,9 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Weapon Mastery**: [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
 - **Fighting Style**: Two-Weapon Fighting *(Add STR to damage with light weapon bonus action attacks)*.
+- **Alert**:
+  - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll. *(Already included above)*
+  - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
 
 # Reminders
 ### After Short Rest

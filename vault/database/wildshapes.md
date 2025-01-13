@@ -173,7 +173,7 @@ STR | DEX | CON
 - **Traits**:
    - **Pack Tactics**. You have advantage on an attack roll against a creature if at least one of your allies is within 1 *(1.5m)* of the creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
    - **Leaping Pounce**. Your long jump is up to 8 *(12m)* and your high jump is up to 4 *(6m)*, with or without a running start. If you jumps at least 4 *(6m)* then hit a creature with the claw attack, the target must succeed on a DC 12 STR Save or be knocked [Prone](conditions.md#prone).
-   - **Foe-Climber**. If you hit a [Large or larger](game_rules.md#advanced-rules#creature-sizes) creature with a claw attack, instead of grappling you climb onto the creature. While climbing onto a creature, the creature has Disadvantage on attack rolls that target you.
+   - **Foe-Climber**. If you hit a [Large](game_rules.md#advanced-rules#creature-sizes) or larger creature with a claw attack, instead of grappling you climb onto the creature. While climbing onto a creature, the creature has Disadvantage on attack rolls that target you.
 - **Actions**:
    - **Multiattack**. You make two attacks, one of which may be with your sting.
    - **Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
@@ -216,7 +216,7 @@ STR | DEX | CON
 - **Traits**:
    - **Unwieldy Height**. When you attempt to stand from [Prone](conditions.md#prone), you must make a DC 12 STR (Athletics) check.
    On a failure, you remain [Prone](conditions.md#prone) and can't try to stand again until the beginning of your next turn.
-   - **Protective Loom**. Creatures that are beneath you in your space and are at least two [sizes](game_rules.md#advanced-rules#creature-sizes) smaller than you have 1/2 cover against Ranged Attacks.
+   - **Protective Loom**. Creatures that are beneath you in your space and are at least two [Sizes](game_rules.md#advanced-rules#creature-sizes) smaller than you have [1/2 Cover](game_rules.md#advanced-rules#cover) against Ranged Attacks.
 - **Actions**:
    - **Claw Hammer**. *Melee Attack*: +4 to hit, reach 2 *(3m)*, one target. 
     *Hit*: 2d6 + 2 Bludgeoning damage.

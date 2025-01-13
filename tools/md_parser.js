@@ -7,7 +7,7 @@
       else if (line.startsWith("### ")) {resultH = "h3"; line = line.substring(4);}
       else if (line.startsWith("#### ")) {resultH = "h4"; line = line.substring(5);}
       else if (line.startsWith("##### ")) {resultH = "h5"; line = line.substring(6);}
-      else if (line.startsWith("##### ")) {resultH = "h6"; line = line.substring(7);}
+      else if (line.startsWith("###### ")) {resultH = "h6"; line = line.substring(7);}
       else
       {
         //it's a token, just leave it.

@@ -1,10 +1,11 @@
 
 # Character Sheet
 
-- **Initiative**: +2
+- **Initiative**: +2 *(DEX)*
 - **AC**: 13 *(Leather Armor + DEX)*
 - **HP**: 12
 - **HP Dice**: 1 D8
+- **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
 STR 10 (+0) | DEX 14 (+2) | CON 14 (+2) 

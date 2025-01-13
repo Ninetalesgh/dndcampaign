@@ -1,9 +1,10 @@
-# Stats
+# Character Sheet
 
-- **Initiative**: +3
+- **Initiative**: +3 *(DEX)*
 - **AC**: 14 *(Leather Armor + DEX)*
 - **HP**: 9
-- **HP Dice:** D8
+- **HP Dice**: 1 D8
+- **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
 STR 8 (-1) | DEX 17 (+3) | CON 13 (+1) 
@@ -12,7 +13,6 @@ STR 8 (-1) | DEX 17 (+3) | CON 13 (+1)
 ☐ Athletics +1 | ☑☑ **Acrobatics +7** | . 
 . | ☑☑ **Sleight of Hand +7** | . 
 . | ☑ **Stealth +5** | . 
-
 
 
 INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1) 
@@ -49,9 +49,9 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Spell Slots Level 1**: 0 
 
 - **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
-- **Halfling Nimbleness.** You can move through the space of any creature that is a [size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
+- **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
-- **Naturally Stealthy.** You can take the Hide action even when you are [obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+- **Naturally Stealthy.** You can take the Hide action even when you are [Obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 - **LEG DAY LEGend.** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks. *(Already included above)*
 
 # Reminders
