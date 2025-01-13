@@ -30,17 +30,17 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 
 
 # Action
-- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+- [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](spells.md#spells-l#light)
 
 # Bonus Action
-- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells that cost a Spell Slot**:
   - *Cleric:* [Sanctuary](spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
 
 # Reaction
-- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 # Passive Feats
 

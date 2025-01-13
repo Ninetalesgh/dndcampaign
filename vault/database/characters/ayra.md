@@ -32,7 +32,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 [TODO] You had a Cantrip to choose still, I think, right?
 
 ##### Action
-- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+- [Default Actions](game_rules.md#turn-based-play#default-actions)
 
 - **Cantrips**: [Eldritch Blast](spells.md#spells-e#eldritch-blast), [Light](spells.md#spells-l#light)
 - **Spells that cost a Spell Slot**
@@ -41,12 +41,12 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
   - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
 ##### Bonus Action
-- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells that cost a Spell Slot**
   [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
 
 ##### Reaction
-- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Spells that cost a Spell Slot**
   [Hellish Rebuke](spells.md#spells-h#hellish-rebuke)
 

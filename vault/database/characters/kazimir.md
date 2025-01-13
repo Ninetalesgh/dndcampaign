@@ -28,14 +28,14 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Languages**: Common, [TODO] 2 more?
 
 ##### Action
-- [Default Actions](game_ruled.md#turn-based-play#default-actions)
+- [Default Actions](game_rules.md#turn-based-play#default-actions)
 
 ##### Bonus Action
-- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ##### Reaction
-- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
+- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 
 # Passive Feats
