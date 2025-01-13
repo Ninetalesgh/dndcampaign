@@ -40,7 +40,7 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 
 ### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
-- **Wild Shape**: *(at level 2)* ( [Nimble Shape](wildshapes.md#cr-1/4#nimble), ... )
+- **Wild Shape**: [Grappler](wildshapes.md#cr-1/4#grappler), [Nimble](wildshapes.md#cr-1/4#nimble), [Blindsight](wildshapes.md#cr-1/4#blindsight), [Burrower](wildshapes.md#cr-1/4#burrower) *(at level 2)* 
 
 ### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
