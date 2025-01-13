@@ -139,7 +139,7 @@ On a failure, a creature takes half the attack’s damage.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You drive the pin used in the spell’s casting into the ground, forcing a creature you can see within range to succeed on a CHAa Save or have its spirit shackled to an [invisible](conditions.md#invisible) spiritual anchor at a point in the creature’s space.
+You drive the pin used in the spell’s casting into the ground, forcing a creature you can see within range to succeed on a CHA  Save or have its spirit shackled to an [invisible](conditions.md#invisible) spiritual anchor at a point in the creature’s space.
 At the end of each of that creature’s turns, it takes 1d6 Psychic damage for each 1 *(1.5m)* away from that anchor that it ends its turn (maximum 10d6).
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
@@ -161,7 +161,7 @@ Target a Beast that you can see within range. The target must succeed on a WIS S
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 24 hours
-A Tiny Beast of your choice that you can see within range must succeed on a CHAa Save, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as ""a person dressed in the uniform of the town guard"" or ""a red-haired dwarf wearing a pointed hat.
+A Tiny Beast of your choice that you can see within range must succeed on a CHA  Save, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as ""a person dressed in the uniform of the town guard"" or ""a red-haired dwarf wearing a pointed hat.
 "" You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
 When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
 **Using a Higher-Level Spell Slot.** The spell's duration increases by 48 hours for each spell slot level above 2.
@@ -175,7 +175,7 @@ When the Beast arrives, it delivers your message to the creature that you descri
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 24 hours
 Choose any number of willing creatures that you can see within range. Each target shape-shifts into a Large or smaller Beast of your choice that has a Challenge Rating of 4 or lower. You can choose a different form for each target. On later turns, you can take a Magic action to transform the targets again.
-A target's game statistics are replaced by the chosen Beast's statistics, but the target retains its creature type; Hit Points; Hit Point Dice; alignment; ability to communicate; and INT, WIS, and CHAa scores. The target's actions are limited by the Beast form's anatomy, and it can't cast spells. The target's equipment melds into the new form, and the target can't use any of that equipment while in that form.
+A target's game statistics are replaced by the chosen Beast's statistics, but the target retains its creature type; Hit Points; Hit Point Dice; alignment; ability to communicate; and INT, WIS, and CHA  scores. The target's actions are limited by the Beast form's anatomy, and it can't cast spells. The target's equipment melds into the new form, and the target can't use any of that equipment while in that form.
 The target gains a number of Temporary Hit Points equal to the Beast form's Hit Points. The transformation lasts for the duration for each target, until the target has no Temporary Hit Points, or until the target leaves the form as a Bonus Action.
 - **Classes**: Druid
 *(Source: PHB'24, page 240)*
@@ -501,7 +501,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You force a creature you can see within 6 *(9m)* to make a CHAa Save. On a failed save, you and the creature teleport to switch places with one another, and the creature becomes the new target of the triggering spell.
+You force a creature you can see within 6 *(9m)* to make a CHA  Save. On a failed save, you and the creature teleport to switch places with one another, and the creature becomes the new target of the triggering spell.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the range increases by 6 *(9m)* for each slot level above 7.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -512,7 +512,7 @@ You force a creature you can see within 6 *(9m)* to make a CHAa Save. On a faile
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Up to three creatures of your choice that you can see within range must each make a CHAa Save. Whenever a target that fails this save makes an attack roll or a Save before the spell ends, the target must subtract 1d4 from the attack roll or save.
+Up to three creatures of your choice that you can see within range must each make a CHA  Save. Whenever a target that fails this save makes an attack roll or a Save before the spell ends, the target must subtract 1d4 from the attack roll or save.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Warlock
 *(Source: PHB'24, page 245)*
@@ -535,7 +535,7 @@ At the end of each of its turns, an affected creature can repeat this Save, endi
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a CHAa Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a CHA  Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 - **Classes**: Paladin
 *(Source: PHB'24, page 245)*
 
@@ -545,7 +545,7 @@ The target hit by the attack roll takes an extra 5d10 Force damage from the atta
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-One creature that you can see within range must succeed on a CHAa Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+One creature that you can see within range must succeed on a CHA  Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
@@ -580,7 +580,7 @@ A creature that has Total Cover from you is unaffected.
 - **Components**: V, S
 - **Duration**: Instantaneous
 You force one creature you can see within range to make a CON Save. On a failed save, the creature’s flesh begins to roll in upon itself as the creature’s body slowly turns itself inside out, gaining vulnerability to all damage and disadvantage on all attack rolls and Saves until the effect ends.
-The affected creature makes a CHAa Save at the end of each of its turns, ending the effect after three successes, or transforming into a Gibbering Mouther under the DM’s control after three failures until cured by a Wish spell or similar magic.
+The affected creature makes a CHA  Save at the end of each of its turns, ending the effect after three successes, or transforming into a Gibbering Mouther under the DM’s control after three failures until cured by a Wish spell or similar magic.
 - **Classes**: Sorcerer, Warlock
 *(Source: CS)*
 
@@ -679,7 +679,7 @@ If you deal damage to the target with an attack roll or a spell, the target take
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You forge a sanguine link with a creature, mirroring a wound across that bond. As a reaction when you are hit with an attack, you force one creature you can see within 6 *(9m)* to succeed on a CHAa Save. On a failure, you take half as much damage from the attack and the target takes the same amount.
+You forge a sanguine link with a creature, mirroring a wound across that bond. As a reaction when you are hit with an attack, you force one creature you can see within 6 *(9m)* to succeed on a CHA  Save. On a failure, you take half as much damage from the attack and the target takes the same amount.
 - **Classes**: Cleric, Druid, Ranger
 *(Source: CS)*
 
@@ -798,7 +798,7 @@ The blade can harmlessly pass through any barrier, including a wall of force.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
-As a reaction when a creature you can see within range calls upon a divine source for aid, you attempt to intercede, forcing that creature to make a CHAa Save. On a failure, the spell or effect is negated and the creature takes 5 (1d10) Necrotic damage.
+As a reaction when a creature you can see within range calls upon a divine source for aid, you attempt to intercede, forcing that creature to make a CHA  Save. On a failure, the spell or effect is negated and the creature takes 5 (1d10) Necrotic damage.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -1155,7 +1155,7 @@ You awaken the bloodlust of your allies against a creature in range. Each creatu
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Each Humanoid in a radius 4 *(6m)* sphere centered on a point you choose within range must succeed on a CHAa Save or be affected by one of the following effects (choose for each creature):The creature has Immunity to the [Charmed](conditions.md#charmed) and [Frightened](conditions.md#frightened) conditions until the spell ends. If the creature was already [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened), those conditions are suppressed for the duration.
+Each Humanoid in a radius 4 *(6m)* sphere centered on a point you choose within range must succeed on a CHA  Save or be affected by one of the following effects (choose for each creature):The creature has Immunity to the [Charmed](conditions.md#charmed) and [Frightened](conditions.md#frightened) conditions until the spell ends. If the creature was already [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened), those conditions are suppressed for the duration.
 The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 - **Classes**: Bard, Cleric
 *(Source: PHB'24, page 249)*
@@ -1177,7 +1177,7 @@ Choose one object weighing 0.5kg to 2.5kg within range that isn't being worn or 
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You cry forth an ominous decree, forcing one creature you can see within range to make a CHAa Save. On a failed Save, the target is Cursed.
+You cry forth an ominous decree, forcing one creature you can see within range to make a CHA  Save. On a failed Save, the target is Cursed.
 When a creature Cursed in this way would take any damage due to failing a Save, it instead takes twice as much damage and the curse ends.
 - **Classes**: Bard, Cleric
 *(Source: CS)*
@@ -2126,7 +2126,7 @@ If you have four or more motes remaining, they shed bright light in a radius 6 *
 - **Range**: 24 *(36m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You collapse a line of space into a single point. Choose a point along a undefined line that is 6 *(9m)* long and wholly within 24 *(36m)*. Each creature in the line’s area must succeed on a CHAa Save or be teleported to the nearest unoccupied space to the chosen point, then take 4d10 Force damage plus 2d12 Psychic damage.
+You collapse a line of space into a single point. Choose a point along a undefined line that is 6 *(9m)* long and wholly within 24 *(36m)*. Each creature in the line’s area must succeed on a CHA  Save or be teleported to the nearest unoccupied space to the chosen point, then take 4d10 Force damage plus 2d12 Psychic damage.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2179,7 +2179,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 1 hour
-You curse a creature you can see within range to weaken its vital force, forcing it to make a CHAa Save. On a failure, the target takes 6d6 Poison damage and is Cursed for the duration. On a successful Save, the creature takes half as much Poison damage.
+You curse a creature you can see within range to weaken its vital force, forcing it to make a CHA  Save. On a failure, the target takes 6d6 Poison damage and is Cursed for the duration. On a successful Save, the creature takes half as much Poison damage.
 While Cursed in this way, the creature has Disadvantage on Saves against Poison damage or the [Poisoned](conditions.md#poisoned) condition.
 **Using a Higher-Level Spell Slot.** The Poison damage increases by 1d6 for every slot level above 4.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer, Warlock
@@ -2191,7 +2191,7 @@ While Cursed in this way, the creature has Disadvantage on Saves against Poison 
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Until dispelled
-One creature you can see within range must succeed on a CHAa Save or be Cursed.
+One creature you can see within range must succeed on a CHA  Save or be Cursed.
 A creature Cursed in this way has its skeleton animated within it, and must succeed on a STR Save at the beginning of each of its turns or have its movement controlled by its skeleton until the beginning of its next turn.
 A humanoid creature that dies while cursed in this way has a Skeletal Liberator tear free of its flesh at the beginning of its next turn.
 The skeletal liberator is [Charmed](conditions.md#charmed) by you for 1 hour, or until you or your companions do anything harmful to it. When the [charmed](conditions.md#charmed) condition ends, the skeletal liberator becomes hostile to all living creatures.
@@ -2204,7 +2204,7 @@ The skeletal liberator is [Charmed](conditions.md#charmed) by you for 1 hour, or
 - **Range**: 1 *(1.5m)*
 - **Components**: V
 - **Duration**: 10 days
-You grasp the face of a creature within your reach and drive your thumb into its eye, forcing it to succeed on a CHAa Save or be Cursed for the duration of the spell. One of the cursed creature’s eyes clouds over, occasionally weeping a small amount of blood, and it gains disadvantage on WIS (Perception) checks.
+You grasp the face of a creature within your reach and drive your thumb into its eye, forcing it to succeed on a CHA  Save or be Cursed for the duration of the spell. One of the cursed creature’s eyes clouds over, occasionally weeping a small amount of blood, and it gains disadvantage on WIS (Perception) checks.
 As an action, you can see through the cursed creature’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Duration is 30 days. If you use a spell slot of Level 7 or higher, the spell lasts until it is dispelled.
 - **Classes**: Bard
@@ -2691,7 +2691,7 @@ Your palm flares with black fire and you reach to grab a creature’s flesh. Mak
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 Your palm flares with black fire and you reach to grab a creature’s flesh. Make a melee spell attack.
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
-On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHAa (Persuasion) checks until cured by Lesser Restoration or similar magic.
+On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHA  (Persuasion) checks until cured by Lesser Restoration or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
 *(Source: CS)*
@@ -2727,7 +2727,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions. Break Enchantment. As a Magic action, you touch a creature that is possessed by or is [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened) from one or more creatures of the types above. The target is no longer possessed, [Charmed](conditions.md#charmed), or [Frightened](conditions.md#frightened) by such creatures. Dismissal. As a Magic action, you target one creature you can see within 1 *(1.5m)* of you that has one of the creature types above. The target must succeed on a CHAa Save or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
+For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions. Break Enchantment. As a Magic action, you touch a creature that is possessed by or is [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened) from one or more creatures of the types above. The target is no longer possessed, [Charmed](conditions.md#charmed), or [Frightened](conditions.md#frightened) by such creatures. Dismissal. As a Magic action, you target one creature you can see within 1 *(1.5m)* of you that has one of the creature types above. The target must succeed on a CHA  Save or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 - **Classes**: Cleric, Paladin
 *(Source: PHB'24, page 263)*
 
@@ -2759,7 +2759,7 @@ Spells that pass directly over or beneath the line (within 20 *(30m)* of it) or 
 - **Range**: 1 *(1.5m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You force a creature within range to succeed on a CHAa Save or fall [Unconscious](conditions.md#unconscious) as its soul is forced out of its body and into the Border Ethereal.
+You force a creature within range to succeed on a CHA  Save or fall [Unconscious](conditions.md#unconscious) as its soul is forced out of its body and into the Border Ethereal.
 While its soul is in the Border Ethereal, the creature can still see, hear, and speak faintly across the barrier.
 The creature repeats this Save at the end of each of its turns for the next minute, ending the effect on a success.
 A creature that fails three consecutive Saves against this effect has its soul remain trapped in the Border Ethereal until returned by a Wish spell or similar magic, and does not make any further Saves to end the effect.
@@ -2841,7 +2841,7 @@ The target takes an extra 2d8 Radiant damage from the attack. The damage increas
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a CHAa Save. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a CHA  Save. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.
 Divine Word EffectsHit PointsEffect0-20The target dies.
 21-30The target has the [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), and [Stunned](conditions.md#stunned) conditions for 1 hour.
 31-40The target has the [Blinded](conditions.md#blinded) and [Deafened](conditions.md#deafened) conditions for 10 minutes.
@@ -3312,7 +3312,7 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 - **Components**: V, S
 - **Duration**: Instantaneous
 You target an unoccupied space within 1 *(1.5m)* and wrenching upon any lingering traces of teleportation magic.
-If a creature teleported out of that space in the last hour, it must make a CHAa Save. On a failure, the creature is teleported back into that space. On a successful Save, the creature becomes immune to this effect for one hour.
+If a creature teleported out of that space in the last hour, it must make a CHA  Save. On a failure, the creature is teleported back into that space. On a successful Save, the creature becomes immune to this effect for one hour.
 If two or more creatures teleported out of the target space in the last hour, only the one that did so most recently is affected.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
 *(Source: CS)*
@@ -3323,7 +3323,7 @@ If two or more creatures teleported out of the target space in the last hour, on
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You touch a creature and choose STR, DEX, INT, WIS, or CHAa. For the duration, the target has Advantage on ability checks using the chosen ability.
+You touch a creature and choose STR, DEX, INT, WIS, or CHA . For the duration, the target has Advantage on ability checks using the chosen ability.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
 *(Source: PHB'24, page 268)*
@@ -3506,7 +3506,7 @@ These Temporary Hit Points last for an hour, and while you have any of these Tem
 - **Range**: 24 *(36m)*
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You attempt to curse a creature you can see within range, turning the phlegmatic and bilious humors of its own body against it. The target must succeed on a CHAa Save or be Cursed until the spell ends.
+You attempt to curse a creature you can see within range, turning the phlegmatic and bilious humors of its own body against it. The target must succeed on a CHA  Save or be Cursed until the spell ends.
 While Cursed in this way, a creature is [Poisoned](conditions.md#poisoned), takes 4d10 Necrotic damage at the start of each of its turns, and repeats this Save at the end of each of its turns, ending the effect on a success.
 A creature you cannot see makes the Save to end this effect with advantage.
 - **Classes**: Bard, Sorcerer
@@ -4003,9 +4003,9 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You attempt to forcibly teleport multiple creatures into the same space. Each creature of your choice that you can see within range must make a CHAa Save.
+You attempt to forcibly teleport multiple creatures into the same space. Each creature of your choice that you can see within range must make a CHA  Save.
 Each creature that fails this Save has its initiative reduced to 0, then teleports to an unoccupied space you can see within range. You can teleport up to two creatures that failed this Save into the same space, fusing them together into a single warped body for the next minute. You can fuse multiple pairs of creatures together in this way.
-While fused, creatures act on the same turn, and only one of them can use movement, use a bonus action, or take reactions in a turn. If the creatures cannot agree on how to use these reactions, they can make a contested CHAa check to determine which creature controls their shared body until the beginning of their next turn.
+While fused, creatures act on the same turn, and only one of them can use movement, use a bonus action, or take reactions in a turn. If the creatures cannot agree on how to use these reactions, they can make a contested CHA  check to determine which creature controls their shared body until the beginning of their next turn.
 Whenever one fused creature takes damage, the creature it is fused to takes the same damage. At the end of each of the fused creatures’ shared turn, one of the creatures can repeat this Save, ending the effect on a success. When the spell ends for a creature, it is expelled into the nearest unoccupied space.
 - **Classes**: Warlock
 *(Source: CS)*
@@ -4089,7 +4089,7 @@ Make a ranged spell attack for each bolt, resolving one at a time. On a hit, the
 An immobile, [Invisible](conditions.md#invisible), Cube-shaped prison composed of magical force springs into existence around an area you choose within range. The prison can be a cage or a solid box, as you choose.
 A prison in the shape of a cage can be up to 4 *(6m)* on a side and is made from 1.5cm diameter bars spaced 1.5cm apart. A prison in the shape of a box can be up to 2 *(3m)* on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out from the area.
 When you cast the spell, any creature that is completely inside the cage's area is trapped. Creatures only partially within the area, or those too large to fit inside it, are pushed away from the center of the area until they are completely outside it.
-A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a CHAa Save. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
+A creature inside the cage can't leave it by nonmagical means. If the creature tries to use teleportation or interplanar travel to leave, it must first make a CHA  Save. On a successful save, the creature can use that magic to exit the cage. On a failed save, the creature doesn't exit the cage and wastes the spell or effect. The cage also extends into the Ethereal Plane, blocking ethereal travel.
 This spell can't be dispelled by Dispel Magic.
 - **Classes**: Bard, Warlock, Wizard
 *(Source: PHB'24, page 276)*
@@ -4410,7 +4410,7 @@ Using a Higher Level Spell Slot. When you cast this spell using a spell slot of 
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 hour
-Until the spell ends, when you make a CHAa check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
+Until the spell ends, when you make a CHA  check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful.
 - **Classes**: Bard, Warlock
 *(Source: PHB'24, page 279)*
 
@@ -4473,7 +4473,7 @@ On a failed Save, a creature takes 4d8 Thunder damage, or takes half as much dam
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You lay a cursed brand of darkness upon a creature [grappled](conditions.md#grappled) by you, forcing it to succeed a CHAa Save or take 4d6 Fire damage and be Cursed for the duration.
+You lay a cursed brand of darkness upon a creature [grappled](conditions.md#grappled) by you, forcing it to succeed a CHA  Save or take 4d6 Fire damage and be Cursed for the duration.
 While cursed in this way, the creature takes 2d6 fire plus 1d10 Necrotic damage whenever it ends its turn illuminated by Bright Light.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
@@ -4486,7 +4486,7 @@ While cursed in this way, the creature takes 2d6 fire plus 1d10 Necrotic damage 
 - **Duration**: Instantaneous
 Requires a spellcaster that has forgotten a loved one’s face.
 You scribe a glyph of roiling shadow in the air at a point you can see within range where it flares, draining the reality from around it in a radius 1 *(1.5m)* sphere.
-Each creature in the area must succeed on a CHAa Save or take 5d10 Force damage, or half as much on a success.
+Each creature in the area must succeed on a CHA  Save or take 5d10 Force damage, or half as much on a success.
 A creature killed by this damage turns to shadow and melts away, disintegrating entirely.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Force damage increases by 1d10 for each slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
@@ -4637,10 +4637,11 @@ When the grease appears, each creature standing in its area must succeed on a DE
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Requires proficiency in Thieves’ Cant.
 You cause a creature or an object you can see within range to grow unnaturally slick. If the target is unwilling, it can make a CON Save. On a success, the spell has no effect.
-If the target is a creature, it gains the following effects:The target can attempt to escape from grapples and other forms of restraint as a bonus action.
-If the target expends its last 1 *(1.5m)* of movement on its turn, it continues moving in the same direction for up to 2 *(3m)* more.
-When the target is hit with an attack, it is pushed up to 2 *(3m)* from that attack’s source.
-If the target is an object, a creature holding that object must succeed on a DEX Save at the beginning of each of its turns or throw it 2 *(3m)* in a random direction.
+If the target is a creature, it gains the following effects:
+  - The target can attempt to escape from grapples and other forms of restraint as a bonus action.
+  - If the target expends its last 1 *(1.5m)* of movement on its turn, it continues moving in the same direction for up to 2 *(3m)* more.
+  - When the target is hit with an attack, it is pushed up to 2 *(3m)* from that attack’s source.
+  - If the target is an object, a creature holding that object must succeed on a DEX Save at the beginning of each of its turns or throw it 2 *(3m)* in a random direction.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -4926,7 +4927,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 1 round
-You force a creature of CR 10 or below that you can see within range to to succeed on a CHAa Save or be wreathed in runic magic.
+You force a creature of CR 10 or below that you can see within range to to succeed on a CHA  Save or be wreathed in runic magic.
 If the creature dies before the beginning of your next turn, a demon of equal or lesser CR is summoned in its space. The demon is hostile to all creatures and acts under the DM’s control.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -4959,7 +4960,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You fill a creature you can see within range with the unquenched fires of Phlegethos, forcing it to make a CHAa Save. On a failure, the target takes 5d10 Fire damage and is Cursed for the duration.
+You fill a creature you can see within range with the unquenched fires of Phlegethos, forcing it to make a CHA  Save. On a failure, the target takes 5d10 Fire damage and is Cursed for the duration.
 The Cursed creature is [Charmed](conditions.md#charmed) by you and takes 5d10 Fire damage the first time each turn that it disobeys one of your commands.
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 **Using a Higher-Level Spell Slot.** The initial damage increases by 2d10 for each spell slot level above 6.
@@ -5359,9 +5360,9 @@ You draw forth and congeal the fears of a [Frightened](conditions.md#frightened)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 Uttering a dark incantation, you summon a devil from the Nine Hells. You choose the devil's type, which must be one of challenge rating 6 or lower, such as a barbed devil or a bearded devil. The devil appears in an unoccupied space that you can see within range. The devil disappears when it drops to 0 hit points or when the spell ends.
 The devil is unfriendly toward you and your companions. Roll initiative for the devil, which has its own turns. It is under the Dungeon Master's control and acts according to its nature on each of its turns, which might result in its attacking you if it thinks it can prevail, or trying to tempt you to undertake an evil act in exchange for limited service. The DM has the creature's statistics.
-On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a CHAa (Deception, Intimidation, or Persuasion) check contested by its WIS (Insight) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as ""attack my enemies,"" ""explore the room ahead,"" or ""bear this message to the queen""—until it completes the activity, at which point it returns to you to report having done so.
+On each of your turns, you can try to issue a verbal command to the devil (no action required by you). It obeys the command if the likely outcome is in accordance with its desires, especially if the result would draw you toward evil. Otherwise, you must make a CHA  (Deception, Intimidation, or Persuasion) check contested by its WIS (Insight) check. You make the check with advantage if you say the devil's true name. If your check fails, the devil becomes immune to your verbal commands for the duration of the spell, though it can still carry out your commands if it chooses. If your check succeeds, the devil carries out your command—such as ""attack my enemies,"" ""explore the room ahead,"" or ""bear this message to the queen""—until it completes the activity, at which point it returns to you to report having done so.
 If your concentration ends before the spell reaches its full duration, the devil doesn't disappear if it has become immune to your verbal commands. Instead, it acts in whatever manner it chooses for 3d6 minutes, and then it disappears.
-If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no CHAa checks required.
+If you possess an individual devil's talisman, you can summon that devil if it is of the appropriate challenge rating plus 1, and it obeys all your commands, with no CHA  checks required.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 6th level or higher, the challenge rating increases by 1 for each slot level above 5th.
 - **Classes**: Warlock, Wizard
 *(Source: XGE, page 158)*
@@ -5660,7 +5661,7 @@ You can move through the space of another creature, and it doesn't count as diff
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves.
-The target must make a CHAa save. On a failure, the creature is Cursed for the duration. A creature Cursed in this way treats all movement through water as being over Difficult Terrain, and immediately sinks 2 *(3m)* whenever it starts its turn swimming.
+The target must make a CHA  save. On a failure, the creature is Cursed for the duration. A creature Cursed in this way treats all movement through water as being over Difficult Terrain, and immediately sinks 2 *(3m)* whenever it starts its turn swimming.
 **Using a Higher-Level Spell Slot.** If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn’t require Concentration and lasts until dispelled.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
@@ -5894,7 +5895,7 @@ This spell’s effects last until cured by Greater Restoration or similar magic.
 - **Range**: Self, a radius 6 *(9m)* sphere
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
-You begin a dread chant of torment that heightens sensations of stress and pain to unbearable levels. Each creature of your choice within 6 *(9m)* of you that can hear it must make a CHAa Save.
+You begin a dread chant of torment that heightens sensations of stress and pain to unbearable levels. Each creature of your choice within 6 *(9m)* of you that can hear it must make a CHA  Save.
 On a failed save, the next time that creature takes damage before the end of your next turn, it takes the same amount of Psychic damage. A creature that fails this save by 5 or more takes a point of Exhaustion, additionally.
 - **Classes**: Bard
 *(Source: CS)*
@@ -5905,7 +5906,7 @@ On a failed save, the next time that creature takes damage before the end of you
 - **Range**: Self, a radius 6 *(9m)* sphere
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You begin a wretched chant that corrupts a mortal’s connection to the divine. Each humanoid creature of your choice within 6 *(9m)* of you that can hear it must succeed on a CHAa Save or be cursed for the next minute.
+You begin a wretched chant that corrupts a mortal’s connection to the divine. Each humanoid creature of your choice within 6 *(9m)* of you that can hear it must succeed on a CHA  Save or be cursed for the next minute.
 Whenever a creature cursed in this way receives magical healing, it gains the same amount of Temporary Hit Points. While it has any of these Temporary Hit Points, the creature becomes hostile to all living creatures.
 - **Classes**: Bard, Paladin
 *(Source: CS)*
@@ -5927,10 +5928,10 @@ You chant forth a stream of infernal invectives, choosing an intact corpse or an
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-You touch a creature and attempt to empty its body of spirits. The creature and each other spirit inhabiting its body must succeed on a CHAa Save or have its disembodied spirit expelled into the nearest unoccupied space.
+You touch a creature and attempt to empty its body of spirits. The creature and each other spirit inhabiting its body must succeed on a CHA  Save or have its disembodied spirit expelled into the nearest unoccupied space.
 While disembodied, a creature’s spirit gains a fly speed equal to its movement speed and cannot directly deal damage, but otherwise uses its own statistics.
 The creature’s body counts as [Unconscious](conditions.md#unconscious) while emptied of spirits. A body not inhabited by its native spirit can be Possessed by any disembodied spirit within 1 *(1.5m)* of it as an action, rising and acting under that spirit’s control.
-If the body is already Possessed, a disembodied spirit in the body’s space may attempt to expel and replace the possessing spirit as an action with a contested CHAa check.
+If the body is already Possessed, a disembodied spirit in the body’s space may attempt to expel and replace the possessing spirit as an action with a contested CHA  check.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -6066,7 +6067,7 @@ The hand can't attack, activate magic items, or carry more than 5kg.
 - **Components**: V, S
 - **Duration**: 1 hour
 You create a radius 2 *(3m)* sphere, height 4 *(6m)* Cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the Cylinder intersects with the floor or other surface.
-Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead. The circle affects a creature of the chosen type in the following ways:The creature can't willingly enter the Cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a CHAa Save.
+Choose one or more of the following types of creatures: Celestials, Elementals, Fey, Fiends, or Undead. The circle affects a creature of the chosen type in the following ways:The creature can't willingly enter the Cylinder by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a CHA  Save.
 The creature has Disadvantage on attack rolls against targets within the Cylinder.
 Targets within the Cylinder can't be possessed by or gain the [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened) condition from the creature.
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the Cylinder and protecting targets outside it.
@@ -6081,10 +6082,10 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 - **Components**: V, S
 - **Duration**: Until dispelled
 Your body falls into a catatonic state as your soul leaves it and enters the container you used for the spell's Material component. While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or take Reactions. The only action you can take is to project your soul up to 20 *(30m)* out of the container, either returning to your living body (and ending the spell) or attempting to possess a Humanoid's body.
-You can attempt to possess any Humanoid within 20 *(30m)* of you that you can see (creatures warded by a Protection from Evil and Good or Magic Circle spell can't be possessed). The target makes a CHAa Save. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
+You can attempt to possess any Humanoid within 20 *(30m)* of you that you can see (creatures warded by a Protection from Evil and Good or Magic Circle spell can't be possessed). The target makes a CHA  Save. On a failed save, your soul enters the target's body, and the target's soul becomes trapped in the container. On a successful save, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours.
 Once you possess a creature's body, you control it. Your Hit Points, Hit Point Dice, STR, DEX, CON, Speed, and senses are replaced by the creature's. You otherwise keep your game statistics.
 Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move and it is [Incapacitated](conditions.md#incapacitated).
-While possessing a body, you can take a Magic action to return from the host body to the container if it is within 20 *(30m)* of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a CHAa Save against your own spellcasting DC. On a success, you return to the container if it is within 20 *(30m)* of you. Otherwise, you die.
+While possessing a body, you can take a Magic action to return from the host body to the container if it is within 20 *(30m)* of you, returning the host creature's soul to its body. If the host body dies while you're in it, the creature dies, and you make a CHA  Save against your own spellcasting DC. On a success, you return to the container if it is within 20 *(30m)* of you. Otherwise, you die.
 If the container is destroyed or the spell ends, your soul returns to your body. If your body is more than 20 *(30m)* away from you or if your body is dead, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 20 *(30m)*. Otherwise, that creature dies.
 When the spell ends, the container is destroyed.
 - **Classes**: Wizard
@@ -6154,7 +6155,7 @@ Physical interaction with the image reveals it to be an illusion, for things can
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to bleed away a creature’s reserves of magic, forcing it to make a CHAa Save. On a failure, the target must expend one spell level worth of spell slots for each point it failed by.
+You attempt to bleed away a creature’s reserves of magic, forcing it to make a CHA  Save. On a failure, the target must expend one spell level worth of spell slots for each point it failed by.
 A creature that can’t do so loses no spell slots on a failed Save, and is instead Dazed until the end of its next turn on a failure.
 Design Note: Spellcasters Without Spell Slots. At DM discretion, a spellcasting monster that does not use spell slots affected by this ability may suffer some other effect, such as temporarily losing the ability to cast its most powerful spell, or having one or more uses of a limited magical ability depleted.
 - **Classes**: Artificer, Bard, Cleric, Paladin
@@ -6569,7 +6570,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a creature, attempting to smear a single moment in its life across time.
-The target must make a CHAa Save. On a failure, on each of the affected creature’s turns for the next minute it must take the same action it took on its previous turn, expending no resources to do so.
+The target must make a CHA  Save. On a failure, on each of the affected creature’s turns for the next minute it must take the same action it took on its previous turn, expending no resources to do so.
 The creature repeats this Save at the end of each of its turns, ending the effect on a success or teleporting to the space it began its turn on a failure.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -6716,8 +6717,8 @@ As part of the casting of this spell, you smash the piece of pottery used as a m
 - **Duration**: Instantaneous
 You attempt to sunder all active magic in a radius 6 *(9m)* sphere centered on yourself. Spells you are concentrating on and magic items you are carrying are unaffected.
 Each spell that is not being concentrated on in the area ends. Each summoned creature in the area disappears. Each nonartifact magic item in the area that no creature is attuned to is destroyed.
-If a spell effect in the area is being concentrated on, the creature concentrating on it must make a CHAa Save. On a failed Save, the spell ends.
-A creature that is attuned to one or more magic items in the area must make a CHAa Save for each of them. On a failed save, the item is destroyed.
+If a spell effect in the area is being concentrated on, the creature concentrating on it must make a CHA  Save. On a failed Save, the spell ends.
+A creature that is attuned to one or more magic items in the area must make a CHA  Save for each of them. On a failed save, the item is destroyed.
 - **Classes**: Bard, Wizard
 *(Source: CS)*
 
@@ -6795,7 +6796,7 @@ You and anything you are wearing or carrying become [invisible](conditions.md#in
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You call forth a magical spasm from a creature you can see within range, forcing it to succeed on a CHAa Save or immediately use its highest level unexpended spell slot to cast Magic Missile at that level.
+You call forth a magical spasm from a creature you can see within range, forcing it to succeed on a CHA  Save or immediately use its highest level unexpended spell slot to cast Magic Missile at that level.
 The missiles produced by it are divided evenly between other creatures within 6 *(9m)* of the target, with any extras (those that cannot be divided evenly between creatures within 6 *(9m)* of the target) hitting the creature that produced them.
 - **Classes**: Wizard
 *(Source: CS)*
@@ -6930,7 +6931,7 @@ On a failure, the target falls [prone](conditions.md#prone) and is dragged up to
 - **Range**: 100 *(150m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You attempt to permanently launch a creature you can see within range into the outer darkness. The target must make a CHAa Save or have the effect that gravity has upon it reversed.
+You attempt to permanently launch a creature you can see within range into the outer darkness. The target must make a CHA  Save or have the effect that gravity has upon it reversed.
 If you maintain concentration for the spell’s full duration, the effect remains until dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -7338,7 +7339,7 @@ After the creature completes the task, or when the agreed-upon duration of servi
 - **Components**: V, S
 - **Duration**: 24 hours
 You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service. The creature must be within range for the entire casting of the spell. (Typically, the creature is first summoned into the center of the inverted version of the Magic Circle spell to trap it while this spell is cast.
-) At the completion of the casting, the target must succeed on a CHAa Save or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
+) At the completion of the casting, the target must succeed on a CHA  Save or be bound to serve you for the duration. If the creature was summoned or created by another spell, that spell's duration is extended to match the duration of this spell.
 A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 - **Classes**: Bard, Cleric, Druid, Warlock, Wizard
@@ -7665,7 +7666,7 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to curse a creature you can see within range with impending misfortune. The creature must succeed on a CHAa Save or be Cursed.
+You attempt to curse a creature you can see within range with impending misfortune. The creature must succeed on a CHA  Save or be Cursed.
 Whenever a creature you have Cursed in this way that you can see succeeds on a Save, you can end the curse on that creature and cause the creature to fail instead.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
@@ -7991,7 +7992,7 @@ The zombies remain under your control for 1 minute, after which they become host
 - **Components**: V, S
 - **Duration**: Instantaneous
 Wisps of shadow rush forth at your command, tearing through a creature within range. Make a ranged spell attack.
-On a hit, the target takes 6d8 Psychic damage. Then, if the target is attuned to one or more magic items, it must succeed on a CHAa Save or lose attunement to one such item of its choice.
+On a hit, the target takes 6d8 Psychic damage. Then, if the target is attuned to one or more magic items, it must succeed on a CHA  Save or lose attunement to one such item of its choice.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Psychic damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
@@ -8056,7 +8057,7 @@ If the magical effect was produced by an item, the item may not be activated aga
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You call down a flare of scouring light from the sky upon a creature you can see within range. The target must make a CHAa Save.
+You call down a flare of scouring light from the sky upon a creature you can see within range. The target must make a CHA  Save.
 On a failed save, the target takes 3d8 Radiant damage and is Cursed until cured by Remove Curse or similar magic.
 Whenever the cursed creature takes any damage, it takes an additional 1d8 Radiant damage if it reduced a creature to 0 Hit Points in the last hour.
 - **Classes**: Paladin
@@ -8425,7 +8426,7 @@ Instead of targeting a creature, you can target a location you have seen. When y
 - **Duration**: 1 hour
 Requires proficiency in Thieves’ Cant.
 You touch a creature and mark it with a rune of death. The creature has the Cursed condition for the duration.
-Whenever the Cursed creature would receive any magical healing, it must make a CHAa Save. On a failure, the creature regains only 1 Hit Point. On a failure by 5 or more, the creature regains no Hit Points.
+Whenever the Cursed creature would receive any magical healing, it must make a CHA  Save. On a failure, the creature regains only 1 Hit Point. On a failure by 5 or more, the creature regains no Hit Points.
 On a successful Save, the creature gains the full benefit of the magical healing and the curse ends.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
@@ -8469,7 +8470,7 @@ For the duration, you see creatures and objects that be [Invisible](conditions.m
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 8 hours
-You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a CHAa Save, and if it succeeds, it is unaffected by this spell.
+You give an illusory appearance to each creature of your choice that you can see within range. An unwilling target can make a CHA  Save, and if it succeeds, it is unaffected by this spell.
 You can give the same appearance or different ones to the targets. The spell can change the appearance of the targets' bodies and equipment. You can make each creature seem 30cm shorter or taller and appear heavier or lighter. A target's new appearance must have the same basic arrangement of limbs as the target, but the extent of the illusion is otherwise up to you. The spell lasts for the duration.
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 A creature that takes the Study action to examine a target can make an INT (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
@@ -8556,7 +8557,7 @@ The first time you cast this spell, it does not require concentration, the trans
 - **Components**: V, S
 - **Duration**: Instantaneous
 If you are in Dim Light or Darkness, the shadows around you deepen to a pure black and you sink through to the world of shadow, teleporting to an unoccupied space in Dim Light or Darkness that you can see within 12 *(18m)*.
-When you teleport, each creature within 1 *(1.5m)* of the space you departed must succeed on a CHAa Save or be drawn through this passage behind you, taking 5d12 Necrotic damage and emerging in the nearest unoccupied space to your new position on a failure.
+When you teleport, each creature within 1 *(1.5m)* of the space you departed must succeed on a CHA  Save or be drawn through this passage behind you, taking 5d12 Necrotic damage and emerging in the nearest unoccupied space to your new position on a failure.
 A creature [grappled](conditions.md#grappled) by you makes this Save with disadvantage.
 - **Classes**: Sorcerer, Warlock
 *(Source: CS)*
@@ -8606,7 +8607,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
 When you shape-shift, you gain a number of Temporary Hit Points equal to the Hit Points of the form. The spell ends early if you have no Temporary Hit Points left.
-Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; INT, WIS, and CHAa scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.
+Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; INT, WIS, and CHA  scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.
 Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 - **Classes**: Druid, Wizard
 *(Source: PHB'24, page 315)*
@@ -9624,7 +9625,7 @@ Any damage dealt by the spell is reduced by half, and the spell’s caster must 
 - **Components**: V, S
 - **Duration**: Instantaneous
 Requires a noble title.
-Your palm flares with light as it touches a creature, [burning](conditions.md#burning) away all magical veils. The target must make a CHAa Save.
+Your palm flares with light as it touches a creature, [burning](conditions.md#burning) away all magical veils. The target must make a CHA  Save.
 On a failure, the target takes 12d8 Radiant damage and each illusory, shapechanging, or mind-affecting magic affecting it ends.
 This damage can’t reduce the target’s Hit Points below 1.
 - **Classes**: Bard, Cleric
@@ -9769,7 +9770,7 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You utter foul words, summoning one demon from the chaos of the Abyss. You choose the demon's type, which must be one of challenge rating 5 or lower, such as a shadow demon or a barlgura. The demon appears in an unoccupied space you can see within range, and the demon disappears when it drops to 0 hit points or when the spell ends.
 Roll initiative for the demon, which has its own turns. When you summon it and on each of your turns thereafter, you can issue a verbal command to it (requiring no action on your part), telling it what it must do on its next turn. If you issue no command, it spends its turn attacking any creature within reach that has attacked it.
-At the end of each of the demon's turns, it makes a CHAa Save. The demon has disadvantage on this Save if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
+At the end of each of the demon's turns, it makes a CHA  Save. The demon has disadvantage on this Save if you say its true name. On a failed save, the demon continues to obey you. On a successful save, your control of the demon ends for the rest of the duration, and the demon spends its turns pursuing and attacking the nearest non-demons to the best of its ability. If you stop concentrating on the spell before it reaches its full duration, an uncontrolled demon doesn't disappear for 1d6 rounds if it still has hit points.
 As part of casting the spell, you can form a circle on the ground with the blood used as a material component. The circle is large enough to encompass your space. While the spell lasts, the summoned demon can't cross the circle or harm it, and it can't target anyone within it. Using the material component in this manner consumes it when the spell ends.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, the challenge rating increases by 1 for each slot level above 4th.
 - **Classes**: Warlock, Wizard
@@ -9901,7 +9902,7 @@ Once triggered, the glyph glows, filling a radius 12 *(18m)* sphere with Dim Lig
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-A looping golden threadlight whorls out from you in a radius 4 *(6m)* sphere. Each creature in the area must make a CHAa Save, becoming cosmically linked to you and to one another for the next minute on a failure.
+A looping golden threadlight whorls out from you in a radius 4 *(6m)* sphere. Each creature in the area must make a CHA  Save, becoming cosmically linked to you and to one another for the next minute on a failure.
 Whenever you or a creature that failed this Save would take any damage, you can use your reaction to deal an equal amount of damage to another linked creature.
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
@@ -10075,7 +10076,7 @@ You can create a permanent teleportation circle by casting this spell in the sam
 - **Duration**: Up to 1 minute
 You read the subtle omens that surround a creature, searching for signs of its immediate future.
 Roll a d20, then assign it to a creature you can see within range that has not been affected by this spell in the last hour; the first check, Save, or attack that creature makes in the next minute uses the number you rolled, instead of rolling.
-An unwilling creature can make a CHAa Save, resisting the effect on a success.
+An unwilling creature can make a CHA  Save, resisting the effect on a success.
 - **Classes**: Bard, Cleric, Wizard
 *(Source: CS)*
 
@@ -10088,7 +10089,7 @@ An unwilling creature can make a CHAa Save, resisting the effect on a success.
 You cause a temple to shimmer into existence on ground you can see within range. The temple must fit within an unoccupied cube of space, up to 24 *(36m)* on each side. The temple remains until the spell ends. It is dedicated to whatever god, pantheon, or philosophy is represented by the holy symbol used in the casting.
 You make all decisions about the temple's appearance. The interior is enclosed by a floor, walls, and a roof, with one door granting access to the interior and as many windows as you wish. Only you and any creatures you designate when you cast the spell can open or close the door.
 The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of [burning](conditions.md#burning) incense fills the air within, and the temperature is mild.
-The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a CHAa Save. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a Save inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
+The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a CHA  Save. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a Save inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your WIS modifier (minimum 1 hit point).
 The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by dispel magic, and antimagic field has no effect on it. A disintegrate spell destroys the temple instantly.
@@ -10142,7 +10143,7 @@ While [Frightened](conditions.md#frightened) in this way, a creature cannot stan
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: 1 minute
-You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time. Altered Eyes. You alter the appearance of your eyes for 1 minute. Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on CHAa (Intimidation) checks. Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute. [Invisible](conditions.md#invisible) Hand. You instantaneously cause an unlocked door or window to fly open or slam shut. Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. Tremors. You cause harmless tremors in the ground for 1 minute.
+You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time. Altered Eyes. You alter the appearance of your eyes for 1 minute. Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on CHA  (Intimidation) checks. Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute. [Invisible](conditions.md#invisible) Hand. You instantaneously cause an unlocked door or window to fly open or slam shut. Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. Tremors. You cause harmless tremors in the ground for 1 minute.
 - **Classes**: Cleric
 *(Source: PHB'24, page 333)*
 
@@ -10370,7 +10371,7 @@ This spell grants the creature you touch the ability to understand any spoken or
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
-Each creature of your choice that you can see within range must succeed on a CHAa Saving Throw or be Cursed.
+Each creature of your choice that you can see within range must succeed on a CHA  Saving Throw or be Cursed.
 At the start of each of its turns, the Cursed creature must make a CON Saving Throw. On a Failure, the creature takes 2d10 Psychic damage and its Speed is reduced by 1 *(1.5m)* until this curse ends.
 A creature that has its Speed reduced to 2 *(3m)* or lower in this way has the [Blinded](conditions.md#blinded) and [Choking](conditions.md#choking) conditions, as liquid stone wells up from its mouth, nose, and eyes.
 A creature that has its Speed reduced to 0 in this way is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
@@ -10429,7 +10430,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 - **Range**: Touch
 - **Components**: S
 - **Duration**: Instantaneous
-You attempt to shove a creature through a spatial rift with a burst of magical force. Make a melee spell attack. On a hit, the target takes 3d10 Force damage and must succeed on a CHAa Save or be teleported up to 6 *(9m)* to an unoccupied space you can see within 6 *(9m)* of the target.
+You attempt to shove a creature through a spatial rift with a burst of magical force. Make a melee spell attack. On a hit, the target takes 3d10 Force damage and must succeed on a CHA  Save or be teleported up to 6 *(9m)* to an unoccupied space you can see within 6 *(9m)* of the target.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10523,7 +10524,7 @@ Creatures you are [Invisible](conditions.md#invisible) and Hidden from have disa
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to wrest control of a rival mage’s spell. The spell caster must make a CHAa Save. On a failed save, the spell caster takes 1d6 Psychic damage per level of the spell, and you choose new targets for the spell.
+You attempt to wrest control of a rival mage’s spell. The spell caster must make a CHA  Save. On a failed save, the spell caster takes 1d6 Psychic damage per level of the spell, and you choose new targets for the spell.
 - **Classes**: Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10598,7 +10599,7 @@ The target must succeed on a DEX Save or have the AC bonus offered by its armor 
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: 24 hours
-Your eyes blaze with dread authority as you cow an unholy creature trapped in your grasp. One fiend or undead creature [grappled](conditions.md#grappled) by you must succeed on a CHAa Save or be Dominated by you for the duration.
+Your eyes blaze with dread authority as you cow an unholy creature trapped in your grasp. One fiend or undead creature [grappled](conditions.md#grappled) by you must succeed on a CHA  Save or be Dominated by you for the duration.
 The creature repeats this Save whenever it takes damage, ending the effect on a success.
 - **Classes**: Bard, Paladin
 *(Source: CS)*
@@ -11251,7 +11252,7 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 10 minutes
-You create a magical zone that guards against deception in a radius 3 *(4.5m)* sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a CHAa Save. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
+You create a magical zone that guards against deception in a radius 3 *(4.5m)* sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a CHA  Save. On a failed save, a creature can't speak a deliberate lie while in the radius. You know whether a creature succeeds or fails on this save.
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: PHB'24, page 343)*
