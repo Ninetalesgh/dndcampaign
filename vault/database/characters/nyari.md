@@ -1,7 +1,7 @@
 # Stats
 
-- *Hit Point Die:* **D10**
-- *Speed:* **7**
+- **HP Dice:** D10
+- **Speed**: 7 *(10.5m)*
 
 
 STR 17 (+3) | DEX 8 (-1) | CON 14 (+2) 
@@ -22,16 +22,25 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 ☑ **Nature +2** | ☐ Perception +0 | ☐ Persuasion +3
 ☑ **Religion +2** | ☑ **Survival +2** | .
 
-
-
-# Feats
-
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons
+- **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
+- **Tool Proficiencies**: [TODO]
+- **Languages**: Common, [TODO] 2 more, right?
 
 # Prepared Spells
 
 - **Level 1**
   [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink)
   [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
+
+# Active Feats
+
+### Reactions
+- **Stone's Endurance.** When you take damage, you can take a Reaction to reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
+
+*- Extra lineage feat at level 5.*
+# Passive Feats
+
 
 # Paladin Spell Reference
 ## Level 1

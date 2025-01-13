@@ -1,6 +1,6 @@
 # Stats
-- *Hit Point Die:* **D10**
-- *Speed:* **7**
+- **HP Dice:** D10
+- **Speed**: 7 *(10.5m)*
 
 STR 17 (+3) | DEX 12 (+2) | CON 14 (+2) 
  :-- | :-- | :-- 
@@ -8,7 +8,6 @@ STR 17 (+3) | DEX 12 (+2) | CON 14 (+2)
 ☑ **Athletics +5** | ☐ Acrobatics +2 | . 
 . | ☐ Sleight of Hand +2 | . 
 . | ☐ Stealth +2 | . 
-
 
 
 INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
@@ -20,15 +19,39 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 ☐ Nature +0 | ☐ Perception +1 | ☐ Persuasion +0
 ☐ Religion +0 | ☐ Survival +1 | .
 
-
 [TODO] Which 3 other skills did you choose? 
+[TODO] Which Origin feat did we choose? Alert, right?
 
-Languages. Common, [TODO] 2 languages ?
-
-Proficiency with Alchemy- & Healer's Kit.
-
-
-# Feats
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons
+- **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
+- **Tool Proficiencies**: Alchemist's Supplies, Healer's Kit.
+- **Languages**: Common, [TODO] 2 more?
 
 
-# Known Potion Recipes
+# Action
+
+# Bonus Action
+- **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1/SR and all/LR)*
+
+# Reaction
+
+# Passive Feats
+*- Extra lineage feat at level 3.*
+[Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- **Weapon Mastery**: [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
+- **Fighting Style**: Two-Weapon Fighting *(Add STR to damage with light weapon bonus action attacks)*.
+
+
+
+ Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+
+# After Short Rest
+## Expend HP Dice to regain HP
+Regain *(d8 + CON)* HP per expended dice.
+## Regain 1 Second Wind charge
+# After Long Rest
+## Regain all HP & HP Dice
+## Regain all Second Wind charges
+## Switch 1 Weapon Mastery
+# After Level-Up
+## Switch Fighting Style

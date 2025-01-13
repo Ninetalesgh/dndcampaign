@@ -1,6 +1,6 @@
 # Stats
-- *Hit Point Die:* **D8**
-- *Speed:* **6**
+- **HP Dice:** D8
+- **Speed**: 6 *(9m)*
 
 STR 12 (+1) | DEX 14 (+2) | CON 14 (+2) 
  :-- | :-- | :-- 
@@ -8,7 +8,6 @@ STR 12 (+1) | DEX 14 (+2) | CON 14 (+2)
 ☑ **Athletics +3** | ☐ Acrobatics +2 | . 
 . | ☐ Sleight of Hand +2 | . 
 . | ☐ Stealth +2 | . 
-
 
 
 INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1) 
@@ -20,28 +19,47 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 ☑ **Nature +2** | ☐ **Perception +5** | ☐ Persuasion -1
 ☐ Religion +0 | ☐ **Survival +5** | .
 
-
-- **Weapon Proficiencies**: Simple Weapons, Martial Weapons, Medium Armor, Light Armor, Shield
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons
+- **Armor Proficiencies**: Light Armor, Medium Armor, Shields
 - **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
-
-
-# Feats
+- **Languages**: Common, Elvish, Druidic, Abyssal
 
 # Prepared Spells
+- **Druid Cantrips**: [TODO] Which cantrips did you want again?
 
-- **Cantrips**
-  [TODO] Which cantrips did you want again?
-- **Level 1**
-  [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
+- **Wizard Cantrip**: [Prestidigitation](spells.md#spells-p#prestidigitation) *(Switch to any Wizard Cantrip after Long Rest)*
+
+- **Always Prepared**:
+- **Selected Prepared**: [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
 
 # Prepared Wildshapes
-
 [TODO] This is for level 2, but I wanted to make sure the links work.
-
 [Nimble Shape](wildshapes.md#cr-1/4#nimble)
 
+# Passive Feats
+*- Extra lineage feat at level 3 and 5.*
+[Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- **Fey Ancestry**: You have Advantage on Saves against [Charmed](conditions.md#charmed).
+- **Trance**: You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+- **High Elf**: You know the [Prestidigitation](spells.md#spells-p#prestidigitation) cantrip. Whenever you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list.
 
-# Known Spells
+# After Short Rest
+## Expend HP Dice to regain HP
+Regain *(d8 + CON)* HP per expended dice.
+## Regain 1 Wild Shape charge
+*- starts at level 2*
+# After Long Rest
+## Regain All HP & HP Dice
+## Prepare Druid Spells
+## Regain All Wild Shape charges 
+*- starts at level 2*
+## Switch 1 Wild Shape form
+*- starts at level 2*
+## Switch Wizard Cantrip
+# After Level-Up
+*(none)*
+
+# Druid Spell Reference
 ## Cantrips
 [Control Flames](spells.md#spells-c#control-flames)
 [Create Bonfire](spells.md#spells-c#create-bonfire)
