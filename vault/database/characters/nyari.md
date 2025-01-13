@@ -1,9 +1,10 @@
 # Character Sheet
 
-- **Initiative**: -1 [TODO]
+- **Initiative**: +1 *(DEX + PB)*
 - **AC**: 18 *(Chain Mail + Shield)*
 - **HP**: 12
-- **HP Dice:** D10
+- **HP Dice:** 1 D10
+- **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
 STR 17 (+3) | DEX 8 (-1) | CON 14 (+2) 
@@ -48,6 +49,10 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 - **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 - **Prepared Spells**: 2
 - **Spell Slots Level 1**: 2 
+
+- **Alert**:
+  - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll. *(Already included above)*
+  - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
 
 # Reminders
 ### After Short Rest
