@@ -32,7 +32,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 [TODO] You had a Cantrip to choose still, I think, right?
 
 ## Feats and Actions
-### Action
+### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Warlock:* [Eldritch Blast](spells.md#spells-e#eldritch-blast)
@@ -41,13 +41,13 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
   *(none)*
 - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
-### Bonus Action
+### Bonus Actions
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**
   [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
   [Hex](spells.md#spells-h#hex)
 
-### Reaction
+### Reactions
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Spells**
   *(none)*
