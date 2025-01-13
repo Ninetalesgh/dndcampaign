@@ -27,13 +27,16 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Tool Proficiencies**: Alchemist's Supplies, Healer's Kit.
 - **Languages**: Common, [TODO] 2 more?
 
+##### Action
+- [Default Actions](game_ruled.md#turn-based-play#default-actions)
 
-# Action
+##### Bonus Action
+- [Default Bonus Actions](game_ruled.md#turn-based-play#default-bonus-actions)
+- **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
-# Bonus Action
-- **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1/SR and all/LR)*
+##### Reaction
+- [Default Reactions](game_ruled.md#turn-based-play#default-reactions)
 
-# Reaction
 
 # Passive Feats
 *- Extra lineage feat at level 3.*
@@ -41,17 +44,16 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Weapon Mastery**: [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
 - **Fighting Style**: Two-Weapon Fighting *(Add STR to damage with light weapon bonus action attacks)*.
 
-
-
- Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
-
-# After Short Rest
-## Expend HP Dice to regain HP
+# Reminders
+##### After Short Rest
+###### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
-## Regain 1 Second Wind charge
-# After Long Rest
-## Regain all HP & HP Dice
-## Regain all Second Wind charges
-## Switch 1 Weapon Mastery
-# After Level-Up
-## Switch Fighting Style
+###### Regain 1 Second Wind charge
+##### After Long Rest
+###### Regain all HP & HP Dice
+###### Regain all Second Wind charges
+###### Switch 1 Weapon Mastery
+##### After Level-Up
+###### Recalculate HP
+###### Check Class Level-Up
+###### Switch Fighting Style
