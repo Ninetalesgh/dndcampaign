@@ -29,7 +29,13 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Tool Proficiencies**: Thieves' Tools, Disguise Kit
 - **Languages**: Common, Halfling, Primordial (Aquan Dialect), Thieves' Cant, Common Sign Language
 
-## What you can do
+## Spellcasting
+- **Prepared Spells**: 0 
+- **Spell Slots Level 1**: 0 
+- **Spell Attack Modifier**: +5 *(PB + INT)*
+- **Spell Save DC**: 13 *(8 + PB + INT)* 
+
+## Feats and Actions
 ### Actions
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
@@ -44,8 +50,6 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats
-- **Prepared Spells**: 0 
-- **Spell Slots Level 1**: 0 
 - [Weapon Mastery](items.md#item-info#weapon-mastery-list): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 - **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
