@@ -46,11 +46,10 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 # Passive Feats
 *- Extra lineage feat at level 3.*
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
-- **Weapon Mastery**: [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
-- **Fighting Style**: Two-Weapon Fighting *(Add STR to damage with light weapon bonus action attacks)*.
-- **Alert**:
-  - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll. *(Already included above)*
-  - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
+- [Alert](./../feats.md#alert) *(Already included above)*
+- [Weapon Mastery](feats.md#weapon-mastery): [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
+- [Fighting Style](./../feats.md#fighting-style#two-weapon-fighting): Two-Weapon Fighting.
+
 
 # Reminders
 ### After Short Rest

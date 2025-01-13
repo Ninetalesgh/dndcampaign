@@ -46,13 +46,10 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 
 # Passive Feats
 *- Extra lineage feat at level 5.*
-- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- [Alert](./../feats.md#alert) *(Already included above)*
+- [Weapon Mastery](feats.md#weapon-mastery): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 - **Prepared Spells**: 2
 - **Spell Slots Level 1**: 2 
-
-- **Alert**:
-  - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll. *(Already included above)*
-  - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
 
 # Reminders
 ### After Short Rest
