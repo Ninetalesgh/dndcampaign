@@ -53,7 +53,7 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 
 ### Passive Feats
 *- Extra lineage feat at level 3 and 5.*
-[Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 
 - **Prepared Spells**: 4 
 - **Spell Slots Level 1**: 2
