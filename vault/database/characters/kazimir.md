@@ -1,4 +1,4 @@
-# Character Sheet
+# Kazimir
 ## Stats and Proficiencies
 - **Initiative**: +4 *(DEX + PB)*
 - **AC**: 13 *(Leather Armor + DEX)*
@@ -9,7 +9,7 @@
 
 STR 17 (+3) | DEX 12 (+2) | CON 14 (+2) 
  :-- | :-- | :-- 
-☑ **STR Save +3** | ☐ DEX Save +2 | ☑ **CON Save +2** 
+☑ **STR Save +5** | ☐ DEX Save +2 | ☑ **CON Save +4** 
 ☑ **Athletics +5** | ☐ Acrobatics +2 | . 
 . | ☐ Sleight of Hand +2 | . 
 . | ☐ Stealth +2 | . 
