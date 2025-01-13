@@ -1,5 +1,5 @@
 # Character Sheet
-
+## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 14 *(Leather Armor + DEX)*
 - **HP**: 9
@@ -29,7 +29,7 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Tool Proficiencies**: Thieves' Tools, Disguise Kit
 - **Languages**: Common, [TODO] 2 more, right?
 
-# What you can do
+## What you can do
 ### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
@@ -43,11 +43,9 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 ### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-# Passive Feats
-
+### Passive Feats
 - **Prepared Spells**: 0 
 - **Spell Slots Level 1**: 0 
-
 - **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
@@ -56,17 +54,17 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 
 # Reminders
 ### After Short Rest
-###### Expend HP Dice to regain HP
+##### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
 ### After Long Rest
-###### Regain all HP & HP Dice
-###### Regain all Spell Slots
-###### Regain Cleric Spell charge
+##### Regain all HP & HP Dice
+##### Regain all Spell Slots
+##### Regain Cleric Spell charge
 ### After Level-Up
-###### Recalculate HP
-###### Add 1 HP Die
-###### Check Class Level-Up
-###### Switch Cleric Spell
+##### Recalculate HP
+##### Add 1 HP Die
+##### Check Class Level-Up
+##### Switch Cleric Spell
 Switch one of your Cleric Spells with a different Cleric Spell of the same level.
 
 # Wizard Spells
