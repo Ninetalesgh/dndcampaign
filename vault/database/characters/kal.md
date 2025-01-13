@@ -14,8 +14,8 @@ STR 12 (+1) | DEX 14 (+2) | CON 14 (+2)
 INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1) 
 :-- | :-- | :-- 
 ☑ INT **(Save +2)** | ☑ **WIS (Save +5)** | ☐ CHA (Save -1)
-☐ Arcana +0 | ☐ Animal Handling +0 | ☐ Deception -1
-☐ History +0 | ☐ Insight +0 | ☑ **Intimidation +1**
+☐ Arcana +0 | ☐ Animal Handling +3 | ☐ Deception -1
+☐ History +0 | ☐ Insight +3 | ☑ **Intimidation +1**
 ☐ Investigation +0 | ☐ Medicine +3 | ☐ Performance -1
 ☑ **Nature +2** | ☐ **Perception +5** | ☐ Persuasion -1
 ☐ Religion +0 | ☐ **Survival +5** | .
