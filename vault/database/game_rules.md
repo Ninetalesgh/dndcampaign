@@ -132,31 +132,29 @@ What you can do when we play Turn Based:
   - *ON GRIDS ONLY*: Diagonal movement costs 3/2, rounding down the total (so 2 full diagonal "steps" cost 3) 
 
 ### Default Actions
-- ***Attack*** -> Choose a target in range and roll for attack! If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
-  - *Melee Attack* -> Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you).
-  - *Ranged Attack* -> Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage.
-  - *Spell Attack* -> Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage.
-- ***Dash*** -> Double your Movement Speed for this turn.
-- ***Disengage*** -> Your movement doesn't provoke Opportunity Attacks for the rest of the turn.
-- ***Dodge*** -> Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
-- ***Hide*** -> Make a DEX (Stealth) Check to attempt to hide!
-- ***Magic*** -> Cast a Spell or use a Magical Feature that needs your Action, or use a Magic Item.
-- ***Ready*** -> Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#trigger-readied-action) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
-- ***Influence / Search / Study / Utilize / Stabilize*** -> Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
+- ***Attack***: Choose a target in range and roll for attack! If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
+  - *Melee Attack*: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you).
+  - *Ranged Attack*: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage.
+  - *Spell Attack*: Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage.
+- ***Dash***: Double your Movement Speed for this turn.
+- ***Disengage***: Your movement doesn't provoke Opportunity Attacks for the rest of the turn.
+- ***Dodge***: Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
+- ***Hide***: Make a DEX (Stealth) Check to attempt to hide!
+- ***Magic***: Cast a Spell or use a Magical Feature that needs your Action, or use a Magic Item.
+- ***Ready***: Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#default-reactions) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
+- ***Influence / Search / Study / Utilize / Stabilize***: Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
   - Influence a creature, like talk them down, distract them, or alter their attitude some other way. (Usually CHA)
   - Try to find something, like the source of some poison gas, the hidden switch on the wall to open the secret door, etc. (Usually WIS)
   - Study something, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
-  - Versatile -> Use, or do something with, some object, whatever it might be.
+  - Versatile: Use, or do something with, some object, whatever it might be.
   - Attempt to stabilize another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
-- ***Help*** -> Help someone elses Ability Check or Attack Roll, giving them Advantage. 
-- **Drink Potion** -> Drink carefully, regenerate the maximum rollable result.
+- ***Help***: Help someone elses Ability Check or Attack Roll, giving them Advantage. 
+- **Drink Potion**: Drink carefully, regenerate the maximum rollable result.
 ### Default Bonus Actions
-- **Drink Potion** -> Drink fast! Roll dice! Spill some! 
+- **Drink Potion**: Drink fast! Roll dice! Spill some! 
 ### Default Reactions
-#### Opportunity Attack
-Melee Attack someone who is about to move out of your Melee reach (not if they're pushed or otherwise physically moved by force).
-#### Trigger Readied Action
-Trigger an Action you previously Readied.
+- **Opportunity Attack**: Melee Attack someone who is about to move out of your Melee reach (not if they're pushed or otherwise physically moved by force).
+- **Trigger Readied Action**: Trigger an Action you previously Readied.
 
 # Advanced Rules
 
@@ -164,7 +162,6 @@ Trigger an Action you previously Readied.
 - **Death Saves & Death** -> When you hit 0 HP you are [Unconscious](conditions.md#unconscious).
 
 ## Damage Types
-
 ### Resistance
 Resistance to a damage type halves all damage of that type you take (round down).
 ### Vulnerability
