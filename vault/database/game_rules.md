@@ -207,7 +207,7 @@ like a snake you can feel the ground vibrations. [TODO]
 See invisible things. [TODO]
 
 ### Cover
-Draw lines from one corner of the your square to 4 corners of one of the squares of the creature you're attacking. If ANY line is obstructed, the target is behind Cover and gains benefits of at least Half Cover.
+Draw lines from one corner of the your square to 4 corners of one of the squares of the creature you're attacking. If ANY line is obstructed, the target is partly obscured and gains benefits of at least Half Cover.
 
 Cover | Benefit
 :-- | :--

@@ -1,5 +1,9 @@
-# Stats
-- **HP Dice:** D10
+# Character Sheet
+
+- **Initiative**: +2
+- **AC**: 13 *(Leather Armor + DEX)*
+- **HP**: 12
+- **HP Dice:** (1) D10
 - **Speed**: 7 *(10.5m)*
 
 STR 17 (+3) | DEX 12 (+2) | CON 14 (+2) 
@@ -27,16 +31,16 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Tool Proficiencies**: Alchemist's Supplies, Healer's Kit.
 - **Languages**: Common, [TODO] 2 more?
 
-##### Action
+# What you can do
+### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 
-##### Bonus Action
+### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
-##### Reaction
+### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
-
 
 # Passive Feats
 *- Extra lineage feat at level 3.*
@@ -45,15 +49,16 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 - **Fighting Style**: Two-Weapon Fighting *(Add STR to damage with light weapon bonus action attacks)*.
 
 # Reminders
-##### After Short Rest
+### After Short Rest
 ###### Expend HP Dice to regain HP
-Regain *(d8 + CON)* HP per expended dice.
+Regain *(d10 + CON)* HP per expended die.
 ###### Regain 1 Second Wind charge
-##### After Long Rest
+### After Long Rest
 ###### Regain all HP & HP Dice
 ###### Regain all Second Wind charges
 ###### Switch 1 Weapon Mastery
-##### After Level-Up
+### After Level-Up
 ###### Recalculate HP
+###### Add 1 HP Die
 ###### Check Class Level-Up
 ###### Switch Fighting Style

@@ -1,8 +1,10 @@
-# Stats
+# Character Sheet
 
+- **Initiative**: -1 [TODO]
+- **AC**: 18 *(Chain Mail + Shield)*
+- **HP**: 12
 - **HP Dice:** D10
 - **Speed**: 7 *(10.5m)*
-
 
 STR 17 (+3) | DEX 8 (-1) | CON 14 (+2) 
  :-- | :-- | :-- 
@@ -10,7 +12,6 @@ STR 17 (+3) | DEX 8 (-1) | CON 14 (+2)
 ☑ **Athletics +5** | ☐ Acrobatics -1 | . 
 . | ☐ Sleight of Hand -1 | . 
 . | ☐ Stealth -1 | . 
-
 
 
 INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
@@ -33,20 +34,38 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 
 ##### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
+- **Lay on Hands**: Touch a creature (or self) and spend any number of LoH charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 charges)*
 
 ##### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
 # Prepared Spells
-
-- **Level 1**
-  [Purify Food and Drink](spells.md#spells-p#purify-food-and-drink)
-  [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
+[Purify Food and Drink](spells.md#spells-p#purify-food-and-drink), [Detect Poison and Disease](spells.md#spells-d#detect-poison-and-disease)
 
 # Passive Feats
 *- Extra lineage feat at level 5.*
+- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- **Spell Slots**: 
+  - **Level 1**: 2
 
+# Reminders
+### After Short Rest
+###### Expend HP Dice to regain HP
+Regain *(d10 + CON)* HP per expended dice.
+### After Long Rest
+###### Regain all HP & HP Dice
+###### Regain all Spell Slots
+###### Regain all Stone's Endurance charges
+###### Regain all Lay on Hands charges
+###### Switch 1 Prepared Spell
+###### Switch 1 Weapon Mastery
+### After Level-Up
+###### Recalculate HP
+###### Add 1 HP Die
+###### Recalculate Lay on Hands charges
+Your LoH charges equal to 5 * your Paladin Level. 
+###### Check Class Level-Up
 
 # Paladin Spell Reference
 ## Level 1

@@ -1,5 +1,9 @@
-# Stats
-- **HP Dice:** D8
+# Character Sheet
+
+- **Initiative**: +2
+- **AC**: 14 *(Hide Armor + DEX)*
+- **HP**: 10
+- **HP Dice:** (1) D8
 - **Speed**: 6 *(9m)*
 
 STR 12 (+1) | DEX 14 (+2) | CON 14 (+2) 
@@ -24,28 +28,25 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+# What you can do
 ##### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
+- **Cantrips**: 
+  - *Druid:* - [TODO] Which cantrips did you want again?
+  - *Wizard:* [Prestidigitation](spells.md#spells-p#prestidigitation)
+
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
 ##### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
-- **Wild Shape.** *(at level 2)*
+- **Wild Shape**: *(at level 2)* ( [Nimble Shape](wildshapes.md#cr-1/4#nimble), ... )
 
 ##### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
-# Prepared Spells
-- **Druid Cantrips**: [TODO] Which cantrips did you want again?
-
-- **Wizard Cantrip**: [Prestidigitation](spells.md#spells-p#prestidigitation) *(Switch to any Wizard Cantrip after Long Rest)*
-
-- **Always Prepared**:
+### Prepared Spells
+- **Always Prepared**: [TODO] I guess you keep your always prepared spells in the A/BA/R section and then have this section extra? 
 - **Selected Prepared**: [Create or Destroy Water](spells.md#spells-c#create-or-destroy-water)
-
-# Prepared Wildshapes
-[TODO] This is for level 2, but I wanted to make sure the links work.
-[Nimble Shape](wildshapes.md#cr-1/4#nimble)
 
 # Passive Feats
 *- Extra lineage feat at level 3 and 5.*
@@ -54,21 +55,25 @@ INT 10 (+0) | WIS 17 (+3) | CHA 8 (-1)
 - **Trance**: You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 - **High Elf**: You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
 
-# After Short Rest
-## Expend HP Dice to regain HP
+# Reminders
+### After Short Rest
+###### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
-## Regain 1 Wild Shape charge
+###### Regain 1 Wild Shape charge
 *- starts at level 2*
-# After Long Rest
-## Regain All HP & HP Dice
-## Prepare Druid Spells
-## Regain All Wild Shape charges 
+### After Long Rest
+###### Regain all HP & HP Dice
+###### Regain all Spell Slots
+###### Prepare Druid Spells
+###### Regain All Wild Shape charges 
 *- starts at level 2*
-## Switch 1 Wild Shape form
+###### Switch 1 Wild Shape form
 *- starts at level 2*
-## Switch Wizard Cantrip
-# After Level-Up
-*(none)*
+###### Switch Wizard Cantrip
+### After Level-Up
+###### Recalculate HP
+###### Add 1 HP Die
+###### Check Class Level-Up
 
 # Druid Spell Reference
 ## Cantrips
