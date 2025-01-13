@@ -34,7 +34,7 @@ INT 10 (+0) | WIS 10 (+0) | CHA 16 (+3)
 
 ##### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
-- **Lay on Hands**: Touch a creature (or self) and spend any number of LoH charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 charges)*
+- **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 charges)*
 
 ##### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
