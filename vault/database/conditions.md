@@ -16,6 +16,10 @@ The charmer has advantage on any ability check to interact with the charmed crea
 ## Concentration
 Whenever a concentrating creature takes damage, it has to take a CON Save with DC 10 or DC *(half the damage taken)*, whichever is higher. On failure the concentration ends.
 *A creature can only hold only ONE spell concentration at a time.*
+## Dazed
+A dazed creature loses their choice of two out of "Action/Bonus Action/Movement" during their turn.
+A creature that is immune to Paralyzed or Stunned also is immune to Dazed.
+Any effect that ends Paralyzed or Stunned can also end Dazed.
 ## Deafened
 A deafened creature automatically fails ability checks that require hearing.
 It is immune to thunder damage.
