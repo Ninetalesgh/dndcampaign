@@ -1,11 +1,11 @@
 
-# Stats
+# Character Sheet
 
 - **Initiative**: +2
 - **AC**: 13 *(Leather Armor + DEX)*
 - **HP**: 12
+- **HP Dice**: 1 D8
 - **Speed**: 6 *(9m)*
-- **HP Dice**: D8
 
 STR 10 (+0) | DEX 14 (+2) | CON 14 (+2) 
  :-- | :-- | :-- 
@@ -31,44 +31,54 @@ INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3)
 
 [TODO] You had a Cantrip to choose still, I think, right?
 
-##### Action
+# What you can do
+### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
-
-- **Cantrips**: [Eldritch Blast](spells.md#spells-e#eldritch-blast), [Light](spells.md#spells-l#light)
-- **Spells that cost a Spell Slot**
+- **Cantrips**: 
+  - *Warlock:* [Eldritch Blast](spells.md#spells-e#eldritch-blast)
+  - *Aasimar:* [Light](spells.md#spells-l#light)
+- **Spells**
   *(none)*
-- **Feats**
-  - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
+- **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
-##### Bonus Action
+### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
-- **Spells that cost a Spell Slot**
+- **Spells**
   [Armor of Agathys](spells.md#spells-a#armor-of-agathys)
 
-##### Reaction
+### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
-- **Spells that cost a Spell Slot**
+- **Spells**
   [Hellish Rebuke](spells.md#spells-h#hellish-rebuke)
 
 # Passive Feats
 *- Extra lineage feat at level 3.*
 
 [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- **Celestial Resistance.** You have [Resistance](game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
+- **Eldritch Invocations**:
+  - **Eldritch Mind**: You have Advantage on CON Saves that you make to maintain [Concentration](conditions.md#concentration).
+
 - **Tough.** Your HP max increases by 2 per level. *(Already included above)*
 - **Light Bearer.** You know the Light cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
-- **Celestial Resistance.** You have [Resistance](game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
-# After Short Rest
-## Expend HP Dice to regain HP
-Regain *(d8 + CON)* HP per expended dice.
-## Regain 1 Spell Slot
-*- Upgrades to 2 at level 2*
-# After Long Rest
-## Regain all HP & HP Dice
-## Regain Healing Hands charge
+# Reminders
+### After Short Rest
+###### Expend HP Dice to regain HP
+Regain *(d8 + CON)* HP per expended die.
+###### Regain all Spell Slots
+### After Long Rest
+###### Regain all HP & HP Dice
+###### Regain all Spell Slots
+###### Regain Healing Hands charge
+### After Level-Up
+###### Recalculate HP
+###### Add 1 HP Die
+###### Check Class Level-Up
+###### Switch 1 Warlock Spell
+###### Switch 1 Eldritch Invocation
 
 # Warlock Spell Reference
-
 ## Cantrips
 [Blade Ward](spells.md#spells-b#blade-ward)
 [Booming Blade](spells.md#spells-b#booming-blade)

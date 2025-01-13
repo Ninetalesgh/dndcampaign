@@ -1,7 +1,8 @@
 # Stats
 
-- **AC**: 13 *(Leather Armor + DEX)*
-- **HP**: 12
+- **Initiative**: +3
+- **AC**: 14 *(Leather Armor + DEX)*
+- **HP**: 9
 - **HP Dice:** D8
 - **Speed**: 6 *(9m)*
 
@@ -28,40 +29,40 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 - **Tool Proficiencies**: Thieves' Tools, Disguise Kit
 - **Languages**: Common, [TODO] 2 more, right?
 
-
-# Action
+# What you can do
+### Action
 - [Default Actions](game_rules.md#turn-based-play#default-actions)
 - **Cantrips**: 
   - *Cleric:* [Guidance](spells.md#spells-g#guidance), [Light](spells.md#spells-l#light)
 
-# Bonus Action
+### Bonus Action
 - [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
-- **Spells that cost a Spell Slot**:
+- **Spells**:
   - *Cleric:* [Sanctuary](spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
 
-# Reaction
+### Reaction
 - [Default Reactions](game_rules.md#turn-based-play#default-reactions)
 
 # Passive Feats
-
-- **Brave.** You have Advantage on saving throws you make to avoid or end the Frightened condition.
-
-- **Halfling Nimbleness.** You can move through the space of any creature that is a size larger than you, but you can't stop in the same space.
-
-- **Luck.** When you roll a 1 on the d20 of a D20 Test, you can reroll the die, and you must use the new roll.
-
-- **Naturally Stealthy.** You can take the Hide action even when you are obscured only by a creature that is at least one size larger than you.
-
+- **Brave.** You have Advantage on Saves against [Frightened](conditions.md#frightened).
+- **Halfling Nimbleness.** You can move through the space of any creature that is a [size](game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
+- **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
+- **Naturally Stealthy.** You can take the Hide action even when you are [obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 - **LEG DAY LEGend.** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks. *(Already included above)*
 
-# After Short Rest
-## Expend HP Dice to regain HP
+# Reminders
+### After Short Rest
+###### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
-# After Long Rest
-## Regain All HP & HP Dice
-## Regain Free Cleric Spell Use
-# After Level-Up
-## Switch Cleric Spell
+### After Long Rest
+###### Regain all HP & HP Dice
+###### Regain all Spell Slots
+###### Regain Cleric Spell charge
+### After Level-Up
+###### Recalculate HP
+###### Add 1 HP Die
+###### Check Class Level-Up
+###### Switch Cleric Spell
 Switch one of your Cleric Spells with a different Cleric Spell of the same level.
 
 # Wizard Spells
