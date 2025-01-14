@@ -330,6 +330,10 @@
             contentPageUrl = `/${value}.md`;
           }
         }
+        else if (key === 'dmpage')
+        {
+          contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
+        }
       }
 
       setContentPage(contentPageUrl);      
