@@ -337,7 +337,17 @@
         }
         else if (key === 'dmpage')
         {
-          contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
+          if (value.match(/session_/))
+          {
+            contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/${value}.md`;
+          }
+          else
+          {  
+            contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
+          }
+          
+          fetchMd(`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monsters.md`);
+          fetchMd(`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
         }
       }
 
