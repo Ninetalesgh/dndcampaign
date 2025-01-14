@@ -34,20 +34,20 @@ INT 10 (+0) | WIS 12 (+1) | CHA 10 (+0)
 
 ## What you can do
 ### Actions
-- [Default Actions](game_rules.md#turn-based-play#default-actions)
+- [Default Actions](./../game_rules.md#turn-based-play#default-actions)
 
 ### Bonus Actions
-- [Default Bonus Actions](game_rules.md#turn-based-play#default-bonus-actions)
+- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions
-- [Default Reactions](game_rules.md#turn-based-play#default-reactions)
+- [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
-- [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
+- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - [Alert](./../feats.md#alert) *(Already included above)*
-- [Weapon Mastery](items.md#item-info#weapon-mastery-list): [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
+- [Weapon Mastery](./../items.md#item-info#weapon-mastery-list): [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
 
