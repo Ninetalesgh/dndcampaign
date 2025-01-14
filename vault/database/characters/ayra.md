@@ -7,12 +7,13 @@
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-STR 10 (+0) | DEX 14 (+2) | CON 14 (+2) 
- :-- | :-- | :-- 
-☐ STR Save +0 | ☐ DEX Save +2 | ☐ CON Save +2 
-☐ Athletics +0 | ☐ Acrobatics +2 | . 
-. | ☑ **Sleight of Hand +4**| . 
-. | ☐ Stealth +2 | . 
+| STR 10 (+0)    | DEX 14 (+2)              | CON 14 (+2)   |
+| :------------- | :----------------------- | :------------ |
+| ☐ STR Save +0  | ☐ DEX Save +2            | ☐ CON Save +2 |
+| ☐ Athletics +0 | ☐ Acrobatics +2          | .             |
+| .              | ☑ **Sleight of Hand +4** | .             |
+| .              | ☐ Stealth +2             | .             |
+|                |                          |               |
 
 
 INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3) 
