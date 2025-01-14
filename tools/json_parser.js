@@ -39,9 +39,10 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@atk\smw,rw\}/gm, '*Melee or Ranged Attack*:');
   strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](spells.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/gm, '$1');
+  strippedString = strippedString.replace(/\{@filter\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/gm, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
   strippedString = strippedString.replace(/\{@scaledamage\s[^}]+?([^|}]*)\}/gm, (m, g) => g);
 
@@ -60,7 +61,9 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
   strippedString = convertFeetString(strippedString);
   
-  console.log(strippedString);
+   strippedString = strippedString.replace(/(darkvision|blindsight|tremorsense|truesight)(?:\s[0-9]+\s(\*\([0-9]+m\)\*))?/gmi, (m,g1,g2) => {
+    return g1 ? `[${`${g1[0].toUpperCase()}${g1.slice(1)}`}${g2 ? ` ${g2}` : ''}](./../game_rules.md#advanced-rules#${g1.toLowerCase()})` : m; });
+
   return strippedString;
 }
 
@@ -298,14 +301,14 @@ function convert5ESpellToText(jsonObject)
 
 function convert5EMonsterToText(jsonObject)
 {
-  let data = jsonObject;
+  const data = jsonObject;
 
   let output = new Array();
   output.push("### " + data.name);
 
   // CR
   {
-    let crString = `**CR**: ${data.cr}`;
+    const crString = `**CR**: ${data.cr}`;
     output.push(crString);
   }
 
@@ -337,7 +340,7 @@ function convert5EMonsterToText(jsonObject)
       alignments.push(parseAlignment(alignment));
     });
 
-    let totalTypeString = `*${sizes.join(', ')} ${typeString}${typeTagsString}, ${alignments.join(' ')}*`;
+    const totalTypeString = `*${sizes.join(', ')} ${typeString}${typeTagsString}, ${alignments.join(' ')}*`;
     output.push(totalTypeString);
   }  
   
@@ -360,18 +363,18 @@ function convert5EMonsterToText(jsonObject)
         });
       }
       
-      let armorSourcesString = listOfArmorSources.length ? ` (${listOfArmorSources.join(', ')})` : '';
-      let acString = `${ac.ac ? ac.ac.toString() : ac}${armorSourcesString}`;
+      const armorSourcesString = listOfArmorSources.length ? ` (${listOfArmorSources.join(', ')})` : '';
+      const acString = `${ac.ac ? ac.ac.toString() : ac}${armorSourcesString}`;
       armorClasses.push(acString);      
     });
 
-    let armorClassesString = '- **AC**: ' + armorClasses.join(', ');
+    const armorClassesString = '- **AC**: ' + armorClasses.join(', ');
     output.push(armorClassesString);
   }
 
   // HP
   { 
-    let hpString = `- **HP**: ${data.hp.average.toString()} (${data.hp.formula})`;
+    const hpString = `- **HP**: ${data.hp.average.toString()} (${data.hp.formula})`;
     output.push(hpString);
   } 
 
@@ -380,10 +383,10 @@ function convert5EMonsterToText(jsonObject)
     let speeds = new Array();
     for (let key in data.speed)
     {
-      speeds.push(`${key}: ${convertFeetInt(data.speed[key])}`);
+      speeds.push(`${key} ${convertFeetInt(data.speed[key])}`);
     }
 
-    let speedString = '- **Speed**: ' + speeds.join(', ');
+    const speedString = '- **Speed**: ' + speeds.join(', ');
     output.push(speedString);
   }
 
@@ -392,7 +395,7 @@ function convert5EMonsterToText(jsonObject)
     output.push('');
     output.push('STR | DEX | CON | INT | WIS | CHA');
     output.push(' :--: | :--: | :--: | :--: | :--: | :--: '); 
-    let scoreString = `${data.str} (${calculateAbilityMod(data.str)}) | ${data.dex} (${calculateAbilityMod(data.dex)}) | ${data.con} (${calculateAbilityMod(data.con)}) | ${data.int} (${calculateAbilityMod(data.int)}) | ${data.wis} (${calculateAbilityMod(data.wis)}) | ${data.cha} (${calculateAbilityMod(data.cha)}) `;
+    const scoreString = `${data.str} (${calculateAbilityMod(data.str)}) | ${data.dex} (${calculateAbilityMod(data.dex)}) | ${data.con} (${calculateAbilityMod(data.con)}) | ${data.int} (${calculateAbilityMod(data.int)}) | ${data.wis} (${calculateAbilityMod(data.wis)}) | ${data.cha} (${calculateAbilityMod(data.cha)}) `;
     output.push(scoreString);
     output.push('');
   }
@@ -407,7 +410,7 @@ function convert5EMonsterToText(jsonObject)
 
     if (skills.length > 0)
     {
-      let skillsString = `- **Skills**: ${skills.join(', ')}`;
+      const skillsString = `- **Skills**: ${skills.join(', ')}`;
       output.push(skillsString);
     }
   }
@@ -436,13 +439,13 @@ function convert5EMonsterToText(jsonObject)
       }
 
       specialResistances.forEach(sr => {
-        let specialResistanceString = `${sr.preNote} ${sr.resist.join(', ')} ${sr.note}`;
+        const specialResistanceString = `${sr.preNote} ${sr.resist.join(', ')} ${sr.note}`;
         resistances.push(specialResistanceString);
       });
 
       if (resistances.length > 0)
       {
-        let resistancesString = `- **Resistances**: ${resistances.join(', ')}`;
+        const resistancesString = `- **Resistances**: ${resistances.join(', ')}`;
         output.push(resistancesString.replace(/;,/gm, ';'));
       }
     }
@@ -488,7 +491,7 @@ function convert5EMonsterToText(jsonObject)
 
     if (immunities.length > 0)
     {
-      let immunitiesString = `- **Immunities**: ${immunities.join(', ')}`;
+      const immunitiesString = `- **Immunities**: ${immunities.join(', ')}`;
       output.push(immunitiesString.replace(/;,/gm, ';'));
     }
   }
@@ -499,13 +502,13 @@ function convert5EMonsterToText(jsonObject)
 
     if (data.senses)
     {
-      data.senses.forEach(sense => {       
-        senses.push(`${convertFeetString(sense)}`);
+      data.senses.forEach(sense => {      
+        senses.push(strip5EToolsTags(sense));
       });
     }
     
     senses.push(`passive perception ${data.passive}`);
-    let sensesString = `- **Senses**: ${senses.join(', ')}`;
+    const sensesString = `- **Senses**: ${senses.join(', ')}`;
     output.push(sensesString);
   }
 
@@ -518,7 +521,7 @@ function convert5EMonsterToText(jsonObject)
         languages.push(strip5EToolsTags(language));
       });
 
-      let languagesString = `- **Languages**: ${languages.join(', ')}`;
+      const languagesString = `- **Languages**: ${languages.join(', ')}`;
       output.push(languagesString);
     }
   }
@@ -526,7 +529,7 @@ function convert5EMonsterToText(jsonObject)
   // Traits
   if (data.trait)
   {
-    let array = convertMonsterSubSection("Traits", data.trait);  
+    const array = convertMonsterSubSection("Traits", data.trait);  
     array.forEach(a => output.push(a));
   }
 
@@ -539,8 +542,8 @@ function convert5EMonsterToText(jsonObject)
         spellcastingSection.push(strip5EToolsTags(entry));
       });
 
-      let spellcastingName = spellcastingEntries.name ? spellcastingEntries.name : 'Spellcasting';
-      let spellsResult = `   - **${spellcastingName}**. ${spellcastingSection.join(', ')}`;
+      const spellcastingName = spellcastingEntries.name ? spellcastingEntries.name : 'Spellcasting';
+      const spellsResult = `   - **${spellcastingName}**. ${spellcastingSection.join(', ')}`;
       output.push(spellsResult);
 
       if (spellcastingEntries.will)
@@ -550,7 +553,7 @@ function convert5EMonsterToText(jsonObject)
           spellList.push(strip5EToolsTags(spell));
         });
         
-        let spellLevelString = `     - *At will*: ${spellList.join(', ')}`;
+        const spellLevelString = `     - *At will*: ${spellList.join(', ')}`;
         output.push(spellLevelString);
       }
 
@@ -566,7 +569,7 @@ function convert5EMonsterToText(jsonObject)
 
           let perDay = key.match(/[0-9]+/);
           perDay = perDay ? `${perDay}/day each` : 'daily';
-          let spellLevelString = `     - *${perDay}*: ${spellList.join(', ')}`;
+          const spellLevelString = `     - *${perDay}*: ${spellList.join(', ')}`;
           output.push(spellLevelString);
         }
       }
@@ -590,7 +593,7 @@ function convert5EMonsterToText(jsonObject)
           spellList.push(strip5EToolsTags(spell));
         });
 
-        let spellLevelString = `     - *${spellLevel}*: ${spellList.join(', ')}`;
+        const spellLevelString = `     - *${spellLevel}*: ${spellList.join(', ')}`;
         output.push(spellLevelString);
       }
     });
@@ -599,15 +602,22 @@ function convert5EMonsterToText(jsonObject)
   // Actions
   if (data.action)
     {
-      let array = convertMonsterSubSection("Actions", data.action);  
+      const array = convertMonsterSubSection("Actions", data.action);  
       array.forEach(a => output.push(a));
   }
 
   // Reactions
   if (data.reaction)
   {
-    let array = convertMonsterSubSection("Reactions", data.reaction);  
+    const array = convertMonsterSubSection("Reactions", data.reaction);  
     array.forEach(a => output.push(a));
+  }
+
+  // Source
+  if (data.source)
+  {
+    const sourceString = `*(Source: ${data.source === 'ConfC' ? 'ConfluxCreatures' : data.source}${data.page ? ` page ${data.page}` : ''})*`
+    output.push(sourceString);
   }
 
   let result = output.join('\n');  
