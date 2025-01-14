@@ -243,17 +243,23 @@
       return node;
     }
 
-    async function fetchMd(relativeMdUrl)
+    async function fetchMd(mdUrl)
     {
-      let contentNode = getIndexedContentPage(relativeMdUrl);
+      const nodeName = mdUrl.replace(/^.*(\/dm_[a-zA-Z0-9]+\.md)$/i, '$1');
+      let contentNode = getIndexedContentPage(nodeName);
+
+      let absoluteURL = '';
+      if (mdUrl.startsWith('https://')) { absoluteURL = mdUrl; }
+      else { absoluteURL = "https://ninetalesgh.github.io/dndcampaign/vault/database" + mdUrl; }
+
       if (!contentNode)
       {
-        console.log('Fetching and caching: ' + relativeMdUrl);
-        await fetchMdAsHtml(relativeMdUrl)
+        console.log('Fetching and caching: ' + mdUrl);
+        await fetchMdAsHtml(absoluteURL)
         .then(data => {
           let div = document.createElement('div');
           div.innerHTML = data;
-          contentNode = indexContent(rootNode, relativeMdUrl, div);
+          contentNode = indexContent(rootNode, nodeName, div);
         });
       }      
       return contentNode;
@@ -277,9 +283,9 @@
       applyNodeToView(dummyNode);
     }
 
-    function setContentPage(relativeMdUrl)
+    function setContentPage(mdUrl)
     {
-      fetchMd(relativeMdUrl).then((node) => {
+      fetchMd(mdUrl).then((node) => {
             applyNodeToView(node);
         });
     }
@@ -318,7 +324,6 @@
       let contentPageUrl = '/game_rules.md';
       for (const [key, value] of urlParams)
       {
-        console.log(urlParams);
         if (key === 'page')
         {
           if (value.match(/(ayra|kal|kazimir|mufi|nyari)/))
