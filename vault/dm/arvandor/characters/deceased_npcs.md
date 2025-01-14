@@ -53,7 +53,7 @@ Human, M. (b. 1160 DR - d. 1235 DR)
    "Known for philanthropy and community building in trade towns."
 #### XII. Jareth Elster
 Human, M. (b. 1190 DR - d. 1265 DR)
-   "Expanded the family’s wealth through innovations in agriculture and trade."
+   "Expanded the family's wealth through innovations in agriculture and trade."
 #### XIII. Olin Elster
 Human, M. (b. 1220 DR - d. 1300 DR)
    "Strengthened regional alliances through negotiation."
@@ -302,11 +302,11 @@ Adult White Dragon, M. (b. 202 DR - d. 859 DR)
 #### 13. Thalienne (Born 866 DR, Died 922 DR)
   the epitaph reads: "Her words planted unity, her deeds grew hope."
 #### 14. Velanna (Born 869 DR, Died 926 DR)
-  the epitaph reads: "Nurtured the town’s roots; her legacy blossomed."
+  the epitaph reads: "Nurtured the town's roots; her legacy blossomed."
 #### 15. Elinna (Born 874 DR, Died 927 DR)
   the epitaph reads: "Defended her people with wisdom and strength."
 #### 16. Ariselle (Born 877 DR, Died 929 DR)
-  the epitaph reads: "Held the council's heart and the town’s trust."
+  the epitaph reads: "Held the council's heart and the town's trust."
   
 ### The Elves of Cormanthor
 #### The Magis of Cormanthor

@@ -26,12 +26,12 @@
     ==INSIGHT== He doesn't actually seem to care that much about the smuggling, (if the players know about his business) he just doesn't want there to exist an opposition to his underworld enterprises.
   +DEX,+CON,+CHA (Rogue - Mastermind)
 ###### Lines
-  "Power isn’t inherited; it’s built brick by brick, deal by deal."
+  "Power isn't inherited; it's built brick by brick, deal by deal."
   "My father clung to tradition like a drowning man. I prefer to swim."
-  "Religion and magic—tools for the idle. I’ll take cunning and coin any day."
-  "The world doesn’t reward fairness; it rewards control."
-  "People respect strength, not titles. That’s why they answer to me."
-  "I don’t need gods or spells to make things happen—I make them happen myself."
+  "Religion and magic—tools for the idle. I'll take cunning and coin any day."
+  "The world doesn't reward fairness; it rewards control."
+  "People respect strength, not titles. That's why they answer to me."
+  "I don't need gods or spells to make things happen—I make them happen myself."
   "Let Ysra waste her days in daydreams; I have a city to run."
 ###### Quest
   "Aye, the river's filthy, but it's just the bodies from the crypt making their way into the water since the quake a decade back.  
@@ -39,10 +39,10 @@
    If you can stomach it, I'd appreciate you dealing with it. Don't expect a high reward - 
    while Alenna does her job, there is no problem for me, and she would never abandon the poor people of New Arvandal."
    [[thvl_overview]]
-   "The Thieves' Guild—nothing but a band of miscreants who think they’re above the laws of New Arvandal. 
+   "The Thieves' Guild—nothing but a band of miscreants who think they're above the laws of New Arvandal. 
     Their smuggling operations rob merchants of their livelihood and cheat our infrastructure of its rightful dues. 
-    And let’s not mince words—every coin they pocket is one stolen from our community.
-    You’re capable, resourceful. If you help me stifle their efforts you’ll not only gain my gratitude 
+    And let's not mince words—every coin they pocket is one stolen from our community.
+    You're capable, resourceful. If you help me stifle their efforts you'll not only gain my gratitude 
     but the admiration of every honest citizen here. 
     Find out how they get goods through and I'll be able to station Guardsmen accordingly.
     If they force your blade, you may act as the arm of the law with my permission."
@@ -66,7 +66,7 @@ Human, F. (b. 1460 DR)
   her skin carries a warm undertone, and her tired eyes suggest countless sleepless nights.
   Her orange-and-white robes, symbolizing harvest and renewal, are dusted with the dirt of her daily labor. 
   Fresh flowers, lovingly woven into her dark hair, give her a touch of natural elegance. 
-  Despite her exhaustion, there’s a quiet resilience in her demeanor, 
+  Despite her exhaustion, there's a quiet resilience in her demeanor, 
   though her fragile hope almost feels on the verge of breaking.
 ###### Info
   She's The Priestess of Chauntea. ( Lives in the small home at the foot of the stairs to the pavilion )
@@ -84,20 +84,20 @@ Human, F. (b. 1460 DR)
   +WIS,-CON (Cleric - Nature, Chauntea)
 ###### Lines
   "Every morning, I purify the water, and every evening, I pray it will stay clean."
-  "I ask Chauntea for strength, but some days, it feels like I’m holding the harvest alone."
-  "I see Garrin sinking deeper every day... I just don’t know how to pull him back, he doesn't believe Lyanna is still alive."
-  "Lyanna has always had the heart of an adventurer. When she's ready, she’ll return, with stories to share."
+  "I ask Chauntea for strength, but some days, it feels like I'm holding the harvest alone."
+  "I see Garrin sinking deeper every day... I just don't know how to pull him back, he doesn't believe Lyanna is still alive."
+  "Lyanna has always had the heart of an adventurer. When she's ready, she'll return, with stories to share."
   "I still keep her room ready, just in case Lyanna finds her way home."
-  "I don’t blame her for wanting to explore; I just wish she’d send a sign she’s safe."
-  "Even the smallest sprout can push through stone. There’s always hope, even if it’s hidden."
+  "I don't blame her for wanting to explore; I just wish she'd send a sign she's safe."
+  "Even the smallest sprout can push through stone. There's always hope, even if it's hidden."
   "The town depends on me, but who do I lean on when I falter?"
   (after finding out about Lyanna's death)
   "Garrin was right, she is gone, I can't... my roots here are broken. I must seek new ground."
   "This town holds too many memories and not enough answers. I need to find peace elsewhere."
-  "I’ve given all I can to New Arvandal. Now, I need to tend to my own heart."
+  "I've given all I can to New Arvandal. Now, I need to tend to my own heart."
 ###### Quest
-  "The river’s polluted with necromantic magic, not just bodies. I deal with it every day, and I can feel it. 
-   I’ve been urging Dain to take action, but he refuses to listen. 
+  "The river's polluted with necromantic magic, not just bodies. I deal with it every day, and I can feel it. 
+   I've been urging Dain to take action, but he refuses to listen. 
    If you could investigate the ruins carefully, without disturbing what could be lingering there... 
    I and the people of New Arvandal would be eternally grateful. It's dangerous, but it's needed."
    [[thvl_overview]]
@@ -108,7 +108,7 @@ Human, M. (b. 1458 DR)
   A tall, burly man, with a greying trimmed beard and greasy grey hair. He shows a muscular build framed by thick arms, clad in a sleeveless vest with his linen shirt underneath rolled up to his elbows.
   His face is weathered and worn, eyes dulled with sorrow.
   He shows a hollow, defeated posture, weighed down by both farm work and excessive drinking. 
-  Despite his rough exterior, there’s a lingering trace of the man he used to be, a glimmer of hope.
+  Despite his rough exterior, there's a lingering trace of the man he used to be, a glimmer of hope.
 ###### Info
   He is one of The Farmers. ( Lives in the farmhouse next to the Grain Silo )
   After his daugther Lyanna vanished around 5 years ago he started drinking in excess and 
@@ -118,20 +118,20 @@ Human, M. (b. 1458 DR)
     The Goblin Activity until he sobers up. 
   +STR,+CON,-CHA (Barbarian - Storm Herald, Tundra)
 ###### Lines
-  "The crops don’t ask questions, and neither does the ale. Maybe that’s why I stick to 'em."
+  "The crops don't ask questions, and neither does the ale. Maybe that's why I stick to 'em."
   "You come here to buy crops or to preach at me? Either way, make it quick."
-  "She had her mother’s fire, y’know? Too much spirit for this patch o’ dirt."
+  "She had her mother's fire, y'know? Too much spirit for this patch o' dirt."
   "Sure I used to laugh more, back when I had somethin' to laugh about."
-  "Ain’t much left to care for since Lyanna went... just the fields and the bottle now."
-  "They say life goes on, but mine’s been stuck in the same season since she left."
+  "Ain't much left to care for since Lyanna went... just the fields and the bottle now."
+  "They say life goes on, but mine's been stuck in the same season since she left."
   (after closure)
-  "Lyanna wouldn’t want me wasting away. She’d want me to stand tall again."
-  "I can’t mend the past, but I can plow a better future."
-  "The bottle didn’t bring her back, but it stole what was left of me. No more."
+  "Lyanna wouldn't want me wasting away. She'd want me to stand tall again."
+  "I can't mend the past, but I can plow a better future."
+  "The bottle didn't bring her back, but it stole what was left of me. No more."
 ###### Quest (only after he finds closure)
-  "The goblins have been picking at the farmlands for a while now. It’s not much, but it’s enough to make life harder for everyone. 
-   I’ve been a fool, letting things slip, but I can’t let them keep causing trouble. 
-   If you’re willing to help out, maybe we can put a stop to these raids before they get worse. 
+  "The goblins have been picking at the farmlands for a while now. It's not much, but it's enough to make life harder for everyone. 
+   I've been a fool, letting things slip, but I can't let them keep causing trouble. 
+   If you're willing to help out, maybe we can put a stop to these raids before they get worse. 
    We would have to find out where they came from."
    [[thotc_overview]]
 
@@ -153,10 +153,10 @@ Dwarf, M. (b. 1400 DR)
     See [[deceased_npcs#Tazlyn Stonewright#Her Notes]]
   +STR,+CON,+CHA,-INT,-WIS (??+Tarvern Brawler)
 ###### Lines
-  "A secret ingredient? Why, it’s love, of course! And maybe a splash of ale, but that’s just for the baker!"
-  "Ye know, dough’s a lot like people — it rises best with a little warmth and patience!"
+  "A secret ingredient? Why, it's love, of course! And maybe a splash of ale, but that's just for the baker!"
+  "Ye know, dough's a lot like people — it rises best with a little warmth and patience!"
   "A loaf of bread is like a good friendship — crusty on the outside, soft on the inside, and it smells divine."
-  "Don’t trust a skinny baker or a sourdough without a story!"
+  "Don't trust a skinny baker or a sourdough without a story!"
   "Some folks say I knead too much, but I say the dough deserves a little love, too!"
   "The trick to perfect bread? A little flour, a lot of patience, and a whole lotta beard in the mix."
   "A well-fed adventurer is a happy adventurer—take an extra bun-ring for the road!"
@@ -193,14 +193,14 @@ Half-Orc, F. (b. 1470 DR)
     she will face severe hostility by many and The Guard will lynch her. Dain Elster doesn't approve but he won't adequately punish the perpetrators. "While it was not necessary, I won't destabilize The Guard now."  
   +STR,+INT (Fighter - Champion)
 ###### Lines
-  *To kids watching her work* "You lot standing there won’t get this plank shaved any faster. If you want to help, grab some of those sanding tools and make yourselves useful."
-  *When a kid asks about what she's doing* "Because it works. Fancy doesn’t hold up when the rain and wind come through."
-  *Handing a child a scrap of wood* "Here. You carve, I’ll fix. Just don’t stab yourself or me in the process."
-  *When kids argue over who gets to help* "First one to carry that stack of wood to the corner wins. Go on, show me you’ve got muscles!"
-  "I’m not a sage, but I’ll tell you this: If it’s worth doing, it’s worth finishing. Now, back to the saw."
-  "If you’re gonna use a hammer, aim for the nail, not your fingers."
-  "Carpentry’s not about looking pretty; it’s about holding up when everything else falls apart. Same goes for people."
-  *Watching a group of kids run off* "They’ll either break their necks or grow up to be builders. Let’s hope for the second."
+  *To kids watching her work* "You lot standing there won't get this plank shaved any faster. If you want to help, grab some of those sanding tools and make yourselves useful."
+  *When a kid asks about what she's doing* "Because it works. Fancy doesn't hold up when the rain and wind come through."
+  *Handing a child a scrap of wood* "Here. You carve, I'll fix. Just don't stab yourself or me in the process."
+  *When kids argue over who gets to help* "First one to carry that stack of wood to the corner wins. Go on, show me you've got muscles!"
+  "I'm not a sage, but I'll tell you this: If it's worth doing, it's worth finishing. Now, back to the saw."
+  "If you're gonna use a hammer, aim for the nail, not your fingers."
+  "Carpentry's not about looking pretty; it's about holding up when everything else falls apart. Same goes for people."
+  *Watching a group of kids run off* "They'll either break their necks or grow up to be builders. Let's hope for the second."
 
 ### Elara Moonshadow 
 Half-Elf, F. (b. 1452 DR) 
@@ -211,10 +211,10 @@ Half-Elf, F. (b. 1452 DR)
   ??
   +CHA,-STR (Bard - Eloquence)
 ###### Lines
-  "The art of negotiation is not in speaking loudly but in listening closely. The answers often lie in what isn’t said."
+  "The art of negotiation is not in speaking loudly but in listening closely. The answers often lie in what isn't said."
   (The Goblin Activity)
   "We must understand what they want, what drives them. The smallest spark can ignite a war—but it can also light a path to peace."
-  "Before swords are drawn, have we asked why they’re marching? Even goblins have their reasons, and ignoring them will only escalate the conflict."
+  "Before swords are drawn, have we asked why they're marching? Even goblins have their reasons, and ignoring them will only escalate the conflict."
   "Your task is not just to observe but to listen. Find their leaders, hear their grievances. The path to peace lies in understanding."
 
 ### Borin Grathal 
@@ -233,14 +233,14 @@ Dwarf, M. (b. 1355 DR)
 ###### Lines
   "Aye, Dain wants the elevator done in two days? Let him get his hands dirty, then. This takes time, not shortcuts."
   "If it's broken, it'll get fixed. I don't care what anyone says, but it's gonna get fixed right."
-  *grumbling* "No, I'm not rushing. If it's not done proper, you’ll have a heap of trouble on your hands."
+  *grumbling* "No, I'm not rushing. If it's not done proper, you'll have a heap of trouble on your hands."
   "Don't rush me, lad. A fine piece of work can't be built with a hammer and haste."
   "Tools are a dwarf's best friend. You can have all the magic in the world, but a proper wrench? That's worth its weight in gold."
 ###### Quest
-  “I’ve spent years teaching these young engineers the importance of craft and duty, but recently, I’ve noticed a few straying from the path. 
+  “I've spent years teaching these young engineers the importance of craft and duty, but recently, I've noticed a few straying from the path. 
    I suspect some of them are dabbling in.. unsavory work. The underworld has a way of finding cracks in The Academy, 
-   and I fear my students are caught in those cracks. But I can’t afford to stir up trouble myself and The Guard does nothing. 
-   You, however, might be in a position to look into this. If you find anything, I’ll be grateful, but tread carefully. Not all business is as it seems.”
+   and I fear my students are caught in those cracks. But I can't afford to stir up trouble myself and The Guard does nothing. 
+   You, however, might be in a position to look into this. If you find anything, I'll be grateful, but tread carefully. Not all business is as it seems.”
    [[tsb_overview]]
 
 ### Maris Tindle 
@@ -260,10 +260,10 @@ Halfling, F. (b. 1468 DR)
 ### Theron Windrunner 
 Human, M. (b. 1475 DR)
 ###### Appearance
-  Theron carries himself with the energy of a young adventurer eager to uncover the world’s mysteries. His sun-kissed skin reflects days spent in the wild, 
+  Theron carries himself with the energy of a young adventurer eager to uncover the world's mysteries. His sun-kissed skin reflects days spent in the wild, 
   while his windswept brown hair and piercing green eyes gleam with curiosity. A faint scar across his left brow hints at a few early scrapes, but his boyish, 
   confident grin suggests he relished every moment. 
-  He wears a rugged, well-worn jacket over a practical tunic, and his utility belt is stocked with cartographer’s tools, rope, and a trusty journal.
+  He wears a rugged, well-worn jacket over a practical tunic, and his utility belt is stocked with cartographer's tools, rope, and a trusty journal.
 ###### Info
   Head of The Academy discipline Cartography and Exploration since 1502 DR.
   Encouraged by Zara Brightscale to investigate Mithdral, 
@@ -271,28 +271,28 @@ Human, M. (b. 1475 DR)
     but might relay careful exploration to the players.
   +DEX (Ranger - Hunter)
 ###### Lines
-  "Some maps are blank for a reason; they’re waiting for people like us to fill them in."
-  "Adventuring solo was simpler. Now, I’ve got students relying on me not to get us all killed. But hey, you look like you can handle danger."
-  "Every scar tells a story, my favorite ones come with treasure at the end. But now I’m learning to make sure the next one isn’t on someone I’m responsible for."
+  "Some maps are blank for a reason; they're waiting for people like us to fill them in."
+  "Adventuring solo was simpler. Now, I've got students relying on me not to get us all killed. But hey, you look like you can handle danger."
+  "Every scar tells a story, my favorite ones come with treasure at the end. But now I'm learning to make sure the next one isn't on someone I'm responsible for."
   (The Lost Mines of Mithdral)
-  "I can’t risk dragging students into danger, but if you’ve got the courage, I can point you in the right direction."
-  "The Academy insists I prioritize ‘safety protocols.’ I’m hoping you lot aren’t afraid to bend the rules a little."
+  "I can't risk dragging students into danger, but if you've got the courage, I can point you in the right direction."
+  "The Academy insists I prioritize ‘safety protocols.' I'm hoping you lot aren't afraid to bend the rules a little."
   (The Harbingers of the Cold)
   "Pack light, think fast, and never forget: the best adventures are the unplanned ones."
-  "Danger lies ahead, no doubt, but fortune favors the bold. Just don’t tell my students I said that."
+  "Danger lies ahead, no doubt, but fortune favors the bold. Just don't tell my students I said that."
   "They said my last map was 'inaccurate.' I call it 'artistic interpretation.' You coming, or what?"
-  "There’s something thrilling about standing on the edge of the known and staring into the unknown. Let’s take a leap, shall we?"
+  "There's something thrilling about standing on the edge of the known and staring into the unknown. Let's take a leap, shall we?"
 ###### Quest
-  "Those goblins aren’t just a nuisance—they’re leaving tracks up in the mountains, and I can’t shake the feeling they’re leading to something bigger. 
-   Trouble like this can snowball, and if it spills down here, we're all in for it. I’ve been itching to chart those peaks, 
-   but between my responsibilities at the Academy and keeping my students safe, I’m stretched thin. 
-   If you’re willing to follow their trail, I can equip you with the right tools and some insight—just promise me you'll tread carefully."
+  "Those goblins aren't just a nuisance—they're leaving tracks up in the mountains, and I can't shake the feeling they're leading to something bigger. 
+   Trouble like this can snowball, and if it spills down here, we're all in for it. I've been itching to chart those peaks, 
+   but between my responsibilities at the Academy and keeping my students safe, I'm stretched thin. 
+   If you're willing to follow their trail, I can equip you with the right tools and some insight—just promise me you'll tread carefully."
   [[thotc_overview]]
-  "There’s something about Zara’s interest in Mithdral that doesn’t sit right with me. 
-   *if the players know she wants more* She claims it’s about understanding history, but.. there’s a gleam in her eye like she’s after something more. 
-   Those old tunnels are treacherous, and The Stockpile isn’t exactly a safe detour, 
+  "There's something about Zara's interest in Mithdral that doesn't sit right with me. 
+   *if the players know she wants more* She claims it's about understanding history, but.. there's a gleam in her eye like she's after something more. 
+   Those old tunnels are treacherous, and The Stockpile isn't exactly a safe detour, 
    what with The Thieves' Guild stirring up trouble. Still, if someone were careful—methodical—it might be worth a look. 
-   Just keep your wits about you down there. I’ve seen ambition blind even the sharpest minds."
+   Just keep your wits about you down there. I've seen ambition blind even the sharpest minds."
   [[tlmofm_overview]]
   [[tsb_overview]]
 
@@ -310,9 +310,9 @@ White-Dragonborn, F. (b. 1458 DR)
   She encourages the players and Theron Windrunner to find out more about Mithdral. 
     ==INSIGHT== She doesn't actually seem to care about Mithdral.
 ###### Lines
-  "Arcane studies are not just about power; they are about understanding the world’s complexities, finding the connections that others miss."
+  "Arcane studies are not just about power; they are about understanding the world's complexities, finding the connections that others miss."
   "Our discipline isn't just about magic—it's about clarity, precision, and knowing how to adapt to every situation."
-  *observing a student’s work* "I expect more than just talent from my students. It's not enough to simply wield magic—they must understand the responsibility that comes with it."
+  *observing a student's work* "I expect more than just talent from my students. It's not enough to simply wield magic—they must understand the responsibility that comes with it."
   *with a gentle but firm tone* "A true scholar does not shy away from hard questions, even if the answers are not what they hoped for."
   "There is much to learn from our ancestors, but the true test is whether we can use that knowledge for something greater than ourselves."
   (if the players confront her about Glacirax)
@@ -320,16 +320,16 @@ White-Dragonborn, F. (b. 1458 DR)
   +INT,-CHA (Wizard - Evocation)
 ###### Quest 
   “The ruins of Mithdral beneath us.. its history.., so rich, yet so fragmented. 
-   The knowledge they hold could be crucial to unlocking so much we don’t understand about the past of these mountains. 
-   I’ve asked Theron Windrunner to conduct the exploration, but he so far has been hesitant. 
+   The knowledge they hold could be crucial to unlocking so much we don't understand about the past of these mountains. 
+   I've asked Theron Windrunner to conduct the exploration, but he so far has been hesitant. 
    I suspect there may be entrances from less scrutinized places by The Academy,
    the winding chambers of The Stockpile must lead further down."
    [[tlmofm_overview]]
    [[tsb_overview]]
-  "I’ve observed the same anomalies as Alenna, and I fear there’s more to this than simple contamination. 
-   Necromantic forces are at work here, and they may be far older than any of us realize. I’ve had little time to investigate myself, 
-   as my focus has been on establishing The Academy’s Arcane Studies. But you—if you’re willing—could uncover the source of this corruption. 
-   Find out what’s causing this, but beware.. you may uncover something much darker than mere undead beneath the surface."
+  "I've observed the same anomalies as Alenna, and I fear there's more to this than simple contamination. 
+   Necromantic forces are at work here, and they may be far older than any of us realize. I've had little time to investigate myself, 
+   as my focus has been on establishing The Academy's Arcane Studies. But you—if you're willing—could uncover the source of this corruption. 
+   Find out what's causing this, but beware.. you may uncover something much darker than mere undead beneath the surface."
    [[thvl_overview]]
 
 ### Walt Ashbrook 
