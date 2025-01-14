@@ -127,9 +127,8 @@
       return lines.join('');
     }
 
-    async function fetchMdAsHtml(relativeMdPath)
+    async function fetchMdAsHtml(mdUrl)
     {
-      let mdUrl = "https://ninetalesgh.github.io/dndcampaign/vault/database" + relativeMdPath;
       try 
       {
         const response = await fetch(mdUrl);
