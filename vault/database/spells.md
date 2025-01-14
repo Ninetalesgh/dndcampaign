@@ -29,7 +29,7 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 - **Duration**: Instantaneous
 You teleport to an unoccupied space you can see within 6 *(9m)*. If you have a creature [grappled](conditions.md#grappled), you may teleport it to an unoccupied space within 1 *(1.5m)* of the space you teleport to.
 - **Classes**: Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Acid Splash
 *Evocation Cantrip*
@@ -51,7 +51,7 @@ You create an acidic bubble at a point within range, where it explodes in a radi
 The target's impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and is [Dazed](conditions.md#dazed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Aganazzar's Scorcher
 *Level 2 Evocation*
@@ -108,7 +108,7 @@ At the beginning of your next turn, you can use your action to make up to two ra
 On a hit, the target takes 1d10 force plus 1d10 Radiant damage.
 This attack has advantage if it targets a flying or levitating target.
 - **Classes**: Druid, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Alter Self
 *Level 2 Transmutation*
@@ -131,7 +131,7 @@ Make a ranged spell attack. On a hit, the target takes 4d6 fire plus 4d8 Lightni
 If this attack was made with advantage, the spark additionally explodes on a hit, forcing each other creature within 2 *(3m)* of the target to make a DEX Save.
 On a failure, a creature takes half the attack's damage.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Anchor Spirit
 *Level 2 Enchantment*
@@ -142,7 +142,7 @@ On a failure, a creature takes half the attack's damage.
 You drive the pin used in the spell's casting into the ground, forcing a creature you can see within range to succeed on a CHA  Save or have its spirit shackled to an [invisible](conditions.md#invisible) spiritual anchor at a point in the creature's space.
 At the end of each of that creature's turns, it takes 1d6 Psychic damage for each 1 *(1.5m)* away from that anchor that it ends its turn (maximum 10d6).
 - **Classes**: Artificer, Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Animal Friendship
 *Level 1 Enchantment*
@@ -217,7 +217,7 @@ As you cast this spell, the ship warps and breaks, snapping into pieces as it sl
 A proficient creature with Carpenter's Tools can use them to restore 1 hit point to the golem for each 10 minutes spent repairing it. If the golem is reduced to 0 Hit Points, it is destroyed and cannot be reanimated.
 With a ritual that takes 10 minutes, you can designate additional friendly creatures, or can issue a simple command of five words or fewer to the golem, which it follows as literally as possible until it completes the task or you issue a new command.
 - **Classes**: Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Annihilating Aura
 *Level 4 Necromancy*
@@ -229,7 +229,7 @@ You begin to exude lashing shadowy tendrils of pure antilife energy to a distanc
 Creatures in the area fail death saves automatically, instead of rolling, and cannot be stabilized without regaining at least 1 hit point.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Necrotic damage increases by 2d6 for each slot level above 4.
 - **Classes**: Cleric, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Annihilation Shrine
 *Level 8 Evocation*
@@ -241,7 +241,7 @@ You raise a Large, monolithic shard of black crystal (AC 20; 100 HP) from the ea
 For the next hour, evocation spells cast within 6 *(9m)* of the shard have their range multiplied by 10 and their radius doubled.
 After that, the shard persists but loses its arcane potency.
 - **Classes**: Cleric, Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Antagonize
 *Level 3 Enchantment*
@@ -300,7 +300,7 @@ You devour the essence used as the material component of this spell and white-ho
 - When you would take any Fire damage, you take no damage and instead gain an equal number of Temporary Hit Points.
 - The first time each turn that you take any damage, flames explode outward from you, forcing you and each creature within 4 *(6m)* of you to make a DEX Save. A creature takes 8d6 Fire damage on a failed Save, or half as much damage on a success.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Arcane Anvilweight
 *Level 4 Evocation*
@@ -312,7 +312,7 @@ A dense mass of shimmering, translucent force slams down up a creature you can s
 On a failure, the target takes 6d8 Force damage and is knocked [prone](conditions.md#prone) and [restrained](conditions.md#restrained). As an action, a trapped creature can make a STR (Athletics) or DEX (Acrobatics) check against your spell save DC, escaping on a success.
 On a success, the target takes half as much damage.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Arcane Eye
 *Level 4 Divination*
@@ -402,7 +402,7 @@ You create a radius 1 *(1.5m)* sphere disk of unimaginable density in an unoccup
 As a Bonus Action on each of your turns, you can cause each creature within 6 *(9m)* of the disk to make a STR Save. On a failure, a creature is dragged 2 *(3m)* toward the disk.
 A creature that begins its turn within 2 *(3m)* of the disk must succeed on a CON Save or take 6d10 Radiant damage, or half as much on a success.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Astral Projection
 *Level 9 Necromancy*
@@ -481,7 +481,7 @@ The awakened target is [Charmed](conditions.md#charmed) for 30 days or until you
 You quicken the blood of a creature within range; for the duration, the creature can make a melee weapon attack as a bonus action on each of its turns, and attacks that target it have advantage.
 An unwilling creature targeted by this spell can make a CON Save, resisting the effect on a success.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Awaken Fury
 *Level 3 Enchantment*
@@ -492,7 +492,7 @@ An unwilling creature targeted by this spell can make a CON Save, resisting the 
 You call forth a flood of buried rage in a creature you can see, forcing it to make a WIS Save. On a failure, the target becomes hostile to all creatures for the next minute. A beast or monstrosity makes this Save with disadvantage.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Bard, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells B
 ### Baleful Displacement
@@ -504,7 +504,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 You force a creature you can see within 6 *(9m)* to make a CHA  Save. On a failed save, you and the creature teleport to switch places with one another, and the creature becomes the new target of the triggering spell.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the range increases by 6 *(9m)* for each slot level above 7.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bane
 *Level 1 Enchantment*
@@ -527,7 +527,7 @@ A wave of overwhelming despair washes forth from you in a length 12 *(18m)* cone
 Each creature in the area must succeed on a WIS Save or fall [prone](conditions.md#prone) and be [Dazed](conditions.md#dazed) for the duration.
 At the end of each of its turns, an affected creature can repeat this Save, ending the effect on a success.
 - **Classes**: Bard, Cleric, Paladin, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Banishing Smite
 *Level 5 Conjuration*
@@ -571,7 +571,7 @@ Hungry flames spill forth from you in all directions, roiling in a radius 20 *(3
 A creature (other than you) that starts its turn in the area must succeed on a DEX Save or take 10d6 Fire damage, or take half as much damage on a success.
 A creature that has Total Cover from you is unaffected.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Batrachian Metamorphosis
 *Level 9 Transmutation*
@@ -582,7 +582,7 @@ A creature that has Total Cover from you is unaffected.
 You force one creature you can see within range to make a CON Save. On a failed save, the creature's flesh begins to roll in upon itself as the creature's body slowly turns itself inside out, gaining vulnerability to all damage and disadvantage on all attack rolls and Saves until the effect ends.
 The affected creature makes a CHA  Save at the end of each of its turns, ending the effect after three successes, or transforming into a Gibbering Mouther under the DM's control after three failures until cured by a Wish spell or similar magic.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Beacon of Destruction
 *Level 5 Evocation*
@@ -592,7 +592,7 @@ The affected creature makes a CHA  Save at the end of each of its turns, ending 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You charge the air around you, emanating a field of raw magical energy; for the duration, whenever you or another creature within 3 *(4.5m)* of you casts a spell that targets one or more creatures, it can target one additional creature.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Beacon of Disruption
 *Level 6 Evocation*
@@ -604,7 +604,7 @@ Requires proficiency in Thieves' Cant.
 You touch an object, imbuing it with an energy that subtly distorts the weave around it in a radius 100 *(150m)* emanation for the duration.
 A creature in the area that uses a spell or magical effect to teleport, move between planes, or magically communicate must succeed on an INT Save or have the effect fail.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Beacon of Hope
 *Level 3 Abjuration*
@@ -625,7 +625,7 @@ Choose any number of creatures within range. For the duration, each target has A
 You let out a defiant cry, bolstering your nearby allies.
 Each other friendly creature within range that can see you gains advantage on the first attack or Save it makes before the end of your next turn.
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Beast Bond
 *Level 1 Divination*
@@ -681,7 +681,7 @@ If you deal damage to the target with an attack roll or a spell, the target take
 - **Duration**: Instantaneous
 You forge a sanguine link with a creature, mirroring a wound across that bond. As a reaction when you are hit with an attack, you force one creature you can see within 6 *(9m)* to succeed on a CHA  Save. On a failure, you take half as much damage from the attack and the target takes the same amount.
 - **Classes**: Cleric, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bigby's Hand
 *Level 5 Evocation*
@@ -708,7 +708,7 @@ When you cast the spell and as a Bonus Action on your later turns, you can move 
 - **Duration**: 1 round
 You raise fetters of stone from the ground to grab at a creature as it falls. The target is [Restrained](conditions.md#restrained) until the end of your next turn. The escape DC is equal to your spell save DC.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Biting Touch
 *Level 5 Conjuration*
@@ -719,7 +719,7 @@ You raise fetters of stone from the ground to grab at a creature as it falls. Th
 You drive two fingers into the wound of a creature within 1 *(1.5m)* that does not have all of its Hit Points and scouring tendrils burst from beneath your nails, whipping briefly through the target's veins.
 The target must succeed on a CON Save or take 10d8 Slashing damage and be [Poisoned](conditions.md#poisoned) until the end of its next turn, or take half as much damage on a success.
 - **Classes**: Druid, Ranger, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Black Blood of the Earth
 *Level 4 Transmutation*
@@ -732,7 +732,7 @@ Each creature that enters the area for the first time on a turn or that starts i
 On a Success, the creature takes half damage.
 **Using a Higher-Level Spell Slot.** The radius of the spell's area increases by 1 *(1.5m)* for every slot level above 4.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Black Iron Bloom
 *Level 9 Transmutation*
@@ -744,7 +744,7 @@ Veins of iron begin to spread from you in a radius 6 *(9m)* emanation, corruptin
 A creature that starts its turn in the area must succeed on a CON Save or have a limb of its choice turn to iron, becoming unusable and counting as a nonmagical metal object for the spell's duration.
 If each of the target's limbs are already iron, the creature instead is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blackstride
 *Level 5 Conjuration*
@@ -755,7 +755,7 @@ If each of the target's limbs are already iron, the creature instead is [Petrifi
 You create a radius 1 *(1.5m)* sphere zone of Magical Darkness centered on a space you can see within 12 *(18m)*, then you can teleport to an unoccupied space within it.
 For the duration, you can repeat this effect at the beginning of each of your turns.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blade Barrier
 *Level 6 Evocation*
@@ -800,7 +800,7 @@ The blade can harmlessly pass through any barrier, including a wall of force.
 - **Duration**: Instantaneous
 As a reaction when a creature you can see within range calls upon a divine source for aid, you attempt to intercede, forcing that creature to make a CHA  Save. On a failure, the spell or effect is negated and the creature takes 5 (1d10) Necrotic damage.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blast Touch
 *Level 3 Evocation*
@@ -813,7 +813,7 @@ You and each other creature in the area are pushed 2 *(3m)* away from the explos
 On a failed save, a creature takes 6d6 fire plus 2d8 Thunder damage, or half as much damage on a success.
 A creature that fails this Save by 5 or more is knocked [prone](conditions.md#prone), additionally.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bleak Aurora
 *Level 5 Evocation*
@@ -824,7 +824,7 @@ A creature that fails this Save by 5 or more is knocked [prone](conditions.md#pr
 You fill the air with dull, shifting lights that flare brightly when they contact magic in a radius 8 *(12m)* sphere centered on a point you can see within range.
 Ranged attacks that pass through the area have disadvantage, and a creature that casts a spell in the area must succeed on a CON Save or be [Blinded](conditions.md#blinded) until the end of its next turn.
 - **Classes**: Druid, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bleak Snare
 *Level 2 Abjuration*
@@ -837,7 +837,7 @@ If it ends this movement in Dim Light or Darkness, the target is [restrained](co
 The creature can use its action to attempt a STR (Athletics) or DEX (Acrobatics) check against your spell save DC, escaping the restraint on a success.
 This effect ends immediately for the creature if it becomes illuminated by Bright Light.
 - **Classes**: Bard, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bless
 *Level 1 Enchantment*
@@ -872,7 +872,7 @@ You shove a fistfull of earth through the chest of the corpse used as a material
 Three Needle BlightsFive Twig BlightsTen Splinter BlightsThe created blights are friendly to you for the spell's duration. If the corpse used as a material component for the spell was humanoid, the created blights act on your initiative and obey your verbal commands for the spell's duration, and remain non-hostile toward you after the spell ends unless provoked.
 If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blightning Strike
 *Level 3 Conjuration*
@@ -884,7 +884,7 @@ You call down a bolt of baleful red lightning from above a creature you can see 
 A creature reduced to 0 Hit Points by this damage is unaffected by the first source of healing it receives before the beginning of its next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage dealt by it increases by 1d10 for each slot level above 3.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blinding Smite
 *Level 3 Evocation*
@@ -928,7 +928,7 @@ You return to the other plane at the start of your next turn and when the spell 
 Requires proficiency in Thieves' Cant.
 You tug at a creature through the connection of its spilt blood. If the creature whose blood you used as a material component in the casting of this spell is within range, you learn its direction and it learns yours.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blood Puppeteering
 *Level 6 Necromancy*
@@ -940,7 +940,7 @@ You attempt to wrench control of the body of a creature you can see within range
 At the beginning of each of the creature's turns, the creature takes 11 (2d10) Necrotic damage, then moves up to its speed and takes the attack action, or uses its multiattack if it has one. The affected creature controls its own Bonus Action and Reaction, and repeats this Save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the damage increases by 2d10 for each slot level above 6.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blood To Vitriol
 *Level 6 Transmutation*
@@ -950,7 +950,7 @@ At the beginning of each of the creature's turns, the creature takes 11 (2d10) N
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You attempt to turn a creature's blood to acid. One creature you can see within range must succeed on a CON Save or be [Stunned](conditions.md#stunned) for 1 minute. A [Stunned](conditions.md#stunned) creature repeats this Save at the end of each of its turns, taking 22 (5d8) Acid damage on a failure, or ending the effect on a success.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bloodbond Step
 *Level 2 Conjuration*
@@ -961,7 +961,7 @@ You attempt to turn a creature's blood to acid. One creature you can see within 
 Requires proficiency in Thieves' Cant.
 You follow a teleporting creature through the trail of its astral conduit, arriving in an unoccupied space within 1 *(1.5m)* of where it teleports to.
 - **Classes**: Cleric, Paladin, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bloodflame Spear
 *Level 3 Necromancy*
@@ -974,7 +974,7 @@ Each creature in the area must succeed on a STR Save or take 3d6 fire plus 3d6 p
 If you have fewer than half your maximum Hit Points, each affected creature subtracts 1d4 from the result of its Save.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the distance of your dash and length of the line increase by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bloodfrost Barrier
 *Level 3 Abjuration*
@@ -985,7 +985,7 @@ If you have fewer than half your maximum Hit Points, each affected creature subt
 You freeze your spilled blood into an armored shell, gaining Temporary Hit Points equal to the triggering damage. These Temporary Hit Points last until the beginning of your next turn, or until you take any Fire damage.
 While you have any of these Temporary Hit Points, your AC is increased by +2.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Blur
 *Level 2 Illusion*
@@ -1007,7 +1007,7 @@ You breathe forth a torrent of boiling water in a length 6 *(9m)* cone. Each cre
 Each Medium or smaller creature in the area is pushed up to 3 *(4.5m)* away.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Fire damage increases by 2d6 for each slot level above 6.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bones of the Earth
 *Level 6 Transmutation*
@@ -1043,7 +1043,7 @@ A driving spray of seawater rushes forth, twisting and swerving as though forced
 Make a ranged spell attack against the target. On a hit, the target takes 4d8 Bludgeoning damage and is pushed up to 3 *(4.5m)* in a direction of your choice.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for every slot level above 2.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Borrowed Knowledge
 *Level 2 Divination*
@@ -1063,7 +1063,7 @@ You draw on knowledge from spirits of the past. Choose one skill in which you la
 - **Duration**: 1 minute
 You attempt to infect the brain of a creature you can see within range with a maddening parasitic fungus. The creature must succeed on a CON Save or become hostile to all living creatures for the next minute, then die. This effect can be removed by any effect that cures disease.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Breath of Thanatos
 *Level 3 Conjuration*
@@ -1076,7 +1076,7 @@ The creature must succeed on a CON Save or take 3d10 necrotic plus 3d6 Poison da
 A creature killed by this damage is dragged through a planar rift to Thanatos.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Necrotic damage increases by 1d10 and the Poison damage increases by 1d6 for each slot level above 3.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Breath of the Abyss
 *Level 2 Conjuration*
@@ -1086,7 +1086,7 @@ A creature killed by this damage is dragged through a planar rift to Thanatos.
 - **Duration**: Instantaneous
 One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a gout of [burning](conditions.md#burning) toxic fumes emerges from its wound in a length 3 *(4.5m)* cone. Each creature in the area must succeed on a DEX Save or take 10 (3d6) fire plus 10 (3d6) Poison damage, or half as much on a success.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Bulwark Bolster
 *Level 4 Abjuration*
@@ -1098,7 +1098,7 @@ Your magic shields your allies, ablating any hostile magics. Choose up to three 
 While a creature has any of these Temporary Hit Points, it has advantage on Saves against spells and magical effects.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, a target's Hit Points increase by an additional 5 for each slot level above 2.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Burning Hands
 *Level 1 Evocation*
@@ -1122,7 +1122,7 @@ You call down a height 20 *(30m)*,a radius 2 *(3m)* sphere Column of red-hot iro
 Each creature in the area is pushed to the nearest unoccupied space, then must make a DEX Save. On a failure, a creature takes 8d8 Bludgeoning plus 4d6 Fire damage and is [Prone](conditions.md#prone). On a success, a creature takes half as much damage.
 **Using a Higher-Level Spell Slot.** The Fire damage increases by 4d6 for each spell slot level above 7.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells C
 ### Call Lightning
@@ -1147,7 +1147,7 @@ If you're outdoors in a storm when you cast this spell, the spell gives you cont
 - **Duration**: Instantaneous
 You awaken the bloodlust of your allies against a creature in range. Each creature within 1 *(1.5m)* of the target may use its reaction to make a melee attack against it.
 - **Classes**: Artificer, Bard, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Calm Emotions
 *Level 2 Enchantment*
@@ -1180,7 +1180,7 @@ Choose one object weighing 0.5kg to 2.5kg within range that isn't being worn or 
 You cry forth an ominous decree, forcing one creature you can see within range to make a CHA  Save. On a failed Save, the target is Cursed.
 When a creature Cursed in this way would take any damage due to failing a Save, it instead takes twice as much damage and the curse ends.
 - **Classes**: Bard, Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Catnap
 *Level 3 Enchantment*
@@ -1201,7 +1201,7 @@ You make a calming gesture, and up to three willing creatures of your choice tha
 - **Duration**: Instantaneous
 As a reaction when a creature you can see within range casts a spell that targets one or more creatures, you send a ripple of magic roiling back along its causal chain, causing the spell to target its caster, in addition to any other targets.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Cause Fear
 *Level 1 Necromancy*
@@ -1224,7 +1224,7 @@ You secrete an acrid coating of ooze from your hands that eats away at armor, pi
 Make a melee spell attack. On a hit, any nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative −1 penalty to the AC it offers.
 Natural armor used by the target suffers the same penalty, but recovers when the target completes a short or long rest.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Caustic Fog
 *Level 2 Conjuration*
@@ -1237,7 +1237,7 @@ A creature that starts its turn in the area or enters it for the first time on a
 It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, its radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ceremony
 *Level 1 Abjuration (ritual)*
@@ -1269,7 +1269,7 @@ Each target makes a DEX Save, taking 10d8 Lightning damage on a failed save or h
 - **Duration**: 1 minute
 You warp the lean of unfolding events, transforming one roll with advantage into a roll with disadvantage, or one roll with disadvantage into a roll with advantage.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Chaos Bolt
 *Level 1 Evocation*
@@ -1293,7 +1293,7 @@ A creature can be targeted only once by each casting of this spell.
 You create a ball of sparking, multicolored fire and hurl it at a creature within range. Make a ranged spell attack. On a hit, the target takes 6d6 Fire damage.
 If this attack misses, make a second attack roll against a random creature within 2 *(3m)* of the original target.
 - **Classes**: Artificer, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Chaos Immortal
 *Level 9 Transmutation*
@@ -1305,7 +1305,7 @@ One allied creature you can see is wreathed in foul abyssal energies for the nex
 For the next minute, the target's melee attacks deal an additional 2d10 fire and 2d6 Necrotic damage on a hit, and it does not fall [unconscious](conditions.md#unconscious) when reduced to 0 Hit Points.
 The creature makes death Saves while at 0 Hit Points, even if it ordinarily would not (such as in the case of summoned monsters or massive damage), and regains 10 Hit Points at the beginning of each of its turns.
 - **Classes**: Bard, Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Chaos Revels
 *Level 3 Conjuration*
@@ -1316,7 +1316,7 @@ The creature makes death Saves while at 0 Hit Points, even if it ordinarily woul
 You teleport to an unoccupied space in the area affected by a spell, placing yourself in its area of effect.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you additionally gain 10 Temporary Hit Points for each slot level above 3.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Charge Spell
 *Evocation Cantrip*
@@ -1326,7 +1326,7 @@ You teleport to an unoccupied space in the area affected by a spell, placing you
 - **Duration**: 1 round
 You condense magical power around yourself, adding one additional damage die to each damage roll made by spells you cast before the end of your next turn.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Charm Monster
 *Level 4 Enchantment*
@@ -1360,7 +1360,7 @@ Requires proficiency in Thieves' Cant.
 You touch a surface of nonmagical stone or wood and are drawn through it to the nearest unoccupied space directly opposite that surface within 4 *(6m)*.
 If no valid space exists within range, you are instead expelled from the surface at the same point you entered.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Charnel Haze
 *Level 3 Conjuration*
@@ -1372,7 +1372,7 @@ A cloud of viscous black billows forth, filling a radius 3 *(4.5m)* sphere withi
 Your movement and sight are unimpeded by the cloud, but creatures other than you treat the area as Difficult Terrain and Magical Darkness.
 When you cast spells with a range of Touch, you can choose for them to originate from a point within the cloud.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Chill Touch
 *Necromancy Cantrip*
@@ -1408,7 +1408,7 @@ Each creature in the area must make a STR Saving Throw. On a Failure, a creature
 Caves, fissures, and simple structures in the area collapse; creatures trapped within be [Restrained](conditions.md#restrained). The escape DC is equal to your spell save DC.
 **Using a Higher-Level Spell Slot.** The damage increases by 3d8 for every slot level above 7.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Circle of Death
 *Level 6 Necromancy*
@@ -1489,7 +1489,7 @@ You sink a terrifying spectral claw into the head (or closest equivalent) of a c
 On a hit, the target takes 4d10 Necrotic damage and is dragged up to 2 *(3m)* toward you, then must succeed on a WIS Save or be [Frightened](conditions.md#frightened) for the next minute. A [Frightened](conditions.md#frightened) creature repeats this save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 2d10 for each slot level above 3.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Cold-Iron Shock
 *Level 5 Transmutation*
@@ -1502,7 +1502,7 @@ The creature takes 10d8 Cold damage on a failure, or half as much on a success.
 If the object was a nonmagical weapon, shield, or suit of armor, it cracks and shatters, becoming unusable.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the Cold damage increases by 2d8 for each slot level above 5.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Color Spray
 *Level 1 Illusion*
@@ -1537,7 +1537,7 @@ Halt. On its turn, the target doesn't move and takes no action or Bonus Action.
 - **Duration**: Instantaneous
 You channel hemokinetic force through the spilled blood of a creature in range when it takes piercing or Slashing damage, forcing it to succeed on a STR Save or be pushed up to 6 *(9m)* in a direction of your choice.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Commune
 *Level 5 Divination (ritual)*
@@ -1604,7 +1604,7 @@ A shimmering haze emanates forth from you in a radius 4 *(6m)* sphere for the du
 Creatures more than 6 *(9m)* away from an affected space treat that space as Heavily Obscured.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the radius increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Artificer, Bard, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Condense Burst
 *Level 6 Evocation*
@@ -1615,7 +1615,7 @@ Creatures more than 6 *(9m)* away from an affected space treat that space as Hea
 You crush an explosive burst down to a pinpoint, concentrating its force. When a damage-dealing effect that targets an area within range takes effect, you can cause only one creature in the area to be affected.
 If you do, the effect deals maximum damage, instead of rolling damage.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Cone of Cold
 *Level 5 Evocation*
@@ -1639,7 +1639,7 @@ The circle is an object that can be damaged and destroyed. It has 40 Hit Points,
 The circle provides total cover and blocks exit by nonmagical means, but freely allows creatures to enter. While the circle has 40 or more Hit Points, it additionally blocks teleportation and ethereal travel.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the circle has 10 additional Hit Points for each level above 6.
 - **Classes**: Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Confusion
 *Level 4 Enchantment*
@@ -1729,7 +1729,7 @@ You conjure two Yeth Hounds that last for a minute in unoccupied spaces you can 
 When this spell ends, the yeth hounds dissolve into smoke.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you summon one additional yeth hound for each slot level above 7.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Conjure Minor Elementals
 *Level 4 Conjuration*
@@ -1879,7 +1879,7 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 You touch the corpse of a Medium or larger creature that died in the last minute and consume its lingering vitality, desiccating its flesh to dust and gaining 2d8 Temporary Hit Points that last for the duration.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Corpseleech
 *Level 1 Necromancy*
@@ -1890,7 +1890,7 @@ You touch the corpse of a Medium or larger creature that died in the last minute
 You touch the corpse of a Medium or larger creature that died in the last minute and consume its lingering vitality, desiccating its flesh to dust and gaining 2d8 Temporary Hit Points that last for the duration.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher and targeting a Large or larger corpse, you gain 2d8 additional Temporary Hit Points for each slot level above 1.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Corpus Potency
 *Level 1 Necromancy*
@@ -1900,7 +1900,7 @@ You touch the corpse of a Medium or larger creature that died in the last minute
 - **Duration**: Instantaneous
 As a reaction when you or one undead creature friendly to you within range makes a CON Save, you attempt to dampen the effect by magically wresting control of the target's bodily functions, granting it advantage on the save. If the Save was against a damaging effect, the target takes no damage on a successful save.
 - **Classes**: Cleric, Druid, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Corrupt Marrow
 *Level 4 Necromancy*
@@ -1910,7 +1910,7 @@ As a reaction when you or one undead creature friendly to you within range makes
 - **Duration**: 1 round
 Each creature in a radius 3 *(4.5m)* sphere centered on a point you can see within range must succeed on a CON Save or take 3d10 Necrotic damage. A creature that fails this save by 5 or more is [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Corrupted Offering
 *Level 9 Enchantment*
@@ -1922,7 +1922,7 @@ You force one nonfiend creature within range to succeed on a WIS Save or be [Cha
 While [Charmed](conditions.md#charmed) in this way, the creature's STR score permanently increases by 1, to a maximum of 22, whenever it reduces a humanoid former ally to 0 Hit Points.
 The [charmed](conditions.md#charmed) creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Corruptive Emblem
 *Level 8 Evocation*
@@ -1934,7 +1934,7 @@ You imbue an object that you touch with evil power that radiates palpably in a r
 A creature with a WIS score of 13 or lower that starts its turn in the area and can see the object is [Charmed](conditions.md#charmed) by you until it takes any damage, or until the object is moved or destroyed (AC 20, 20 HP; Immunity to Poison and Psychic damage).
 Unless Surprised, a creature can avert its eyes to avoid this effect at the beginning of its turn. If it does, it treats each creature within 2 *(3m)* of the object as [Invisible](conditions.md#invisible) until the beginning of its next turn.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Counterspell
 *Level 3 Abjuration*
@@ -1954,7 +1954,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 - **Duration**: Instantaneous
 You teleport to switch places with a creature friendly to or [Charmed](conditions.md#charmed) by you, intercepting an attack meant for it. You become the attack's new target.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Crackling Doom
 *Level 3 Evocation*
@@ -1966,7 +1966,7 @@ You cast forth a roil of electrical energy that clings where it strikes. Make a 
 On a hit, the target takes 8d8 Lightning damage and has disadvantage on Saves against effects that deal Lightning damage until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Crackling Frenzy
 *Level 2 Evocation*
@@ -1978,7 +1978,7 @@ An energizing spark of electricity crackles across your fingers. One creature wi
 A creature that succeeds on this Save instead gains 4d6 Temporary Hit Points that last for up to 10 minutes. While it has any of these Temporary Hit Points, the creature's melee attacks deal an additional 2d6 Lightning damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the damage and Temporary Hit Points increase by 1d6 for each slot level above 2.
 - **Classes**: Artificer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Create Bonfire
 *Conjuration Cantrip*
@@ -2083,7 +2083,7 @@ MaterialsMaterialDurationVegetable matter24 hoursStone or crystal12 hoursPreciou
 One creature [grappled](conditions.md#grappled) by you must succeed on a CON Save or gain 2d10 cumulative Temporary Hit Points as plates of bone begin to grow over its skin. On each of your turns until the spell ends or you release your grapple, you can use your action to force the target to repeat this save.
 While a creature has any of these Temporary Hit Points, it is [restrained](conditions.md#restrained). While a creature has 30 or more of these Temporary Hit Points, it is [petrified](conditions.md#petrified).
 - **Classes**: Artificer, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Creeping Ruin
 *Level 5 Conjuration*
@@ -2094,7 +2094,7 @@ While a creature has any of these Temporary Hit Points, it is [restrained](condi
 A mass of tiny spiders begins to swarm around you in a radius 3 *(4.5m)* circle. When a creature starts its turn in the area or enters it for the first time on a turn, you may force it to succeed on a CON Save or take 10 Poison damage, or half as much on a success. The spell lasts 8 hours, or until it has dealt a total of 100 damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the spell's radius increases by 2 *(3m)* and the maximum damage it can deal increases by 100 for each slot level above 5.
 - **Classes**: Cleric, Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Crown of Madness
 *Level 2 Enchantment*
@@ -2128,7 +2128,7 @@ If you have four or more motes remaining, they shed bright light in a radius 6 *
 - **Duration**: Instantaneous
 You collapse a line of space into a single point. Choose a point along a undefined line that is 6 *(9m)* long and wholly within 24 *(36m)*. Each creature in the line's area must succeed on a CHA  Save or be teleported to the nearest unoccupied space to the chosen point, then take 4d10 Force damage plus 2d12 Psychic damage.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Crusader's Mantle
 *Level 3 Evocation*
@@ -2149,7 +2149,7 @@ You radiate a magical aura in a radius 6 *(9m)* emanation. While in the aura, yo
 You clasp a fist toward a creature you can see within range, calling the weight of endless stone to bear down upon it from all sides.
 The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Bludgeoning damage plus 5d6 Fire damage and the target's Size is decreased by one category until cured by Greater Restoration or similar magic. On a Success, the target takes half damage.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Crushing Pulse
 *Level 2 Evocation*
@@ -2160,7 +2160,7 @@ The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Blu
 Gravity momentarily intensifies in the area within 3 *(4.5m)* of you. Each other creature in the area must succeed on a STR Save or fall [prone](conditions.md#prone). Any fall damage taken as a result deals maximum damage, instead of rolling.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the effect's radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Cure Wounds
 *Level 1 Abjuration*
@@ -2183,7 +2183,7 @@ You curse a creature you can see within range to weaken its vital force, forcing
 While Cursed in this way, the creature has Disadvantage on Saves against Poison damage or the [Poisoned](conditions.md#poisoned) condition.
 **Using a Higher-Level Spell Slot.** The Poison damage increases by 1d6 for every slot level above 4.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Curse of Living Bones
 *Level 8 Necromancy*
@@ -2196,7 +2196,7 @@ A creature Cursed in this way has its skeleton animated within it, and must succ
 A humanoid creature that dies while cursed in this way has a Skeletal Liberator tear free of its flesh at the beginning of its next turn.
 The skeletal liberator is [Charmed](conditions.md#charmed) by you for 1 hour, or until you or your companions do anything harmful to it. When the [charmed](conditions.md#charmed) condition ends, the skeletal liberator becomes hostile to all living creatures.
 - **Classes**: Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Curse of Stolen Sight
 *Level 3 Enchantment*
@@ -2208,7 +2208,7 @@ You grasp the face of a creature within your reach and drive your thumb into its
 As an action, you can see through the cursed creature's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Duration is 30 days. If you use a spell slot of Level 7 or higher, the spell lasts until it is dispelled.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells D
 ### Dancing Lights
@@ -2244,7 +2244,7 @@ The creatures are under your control until the spell ends, after which they beco
 Requires proficiency in Thieves' Cant.
 You touch a nonmagical light source, twisting the light produced by it. For the duration, the light produced by the enchanted source can be seen only by creatures within 2 *(3m)* of it, and provides no illumination for other creatures.
 - **Classes**: Druid, Ranger, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Darkfire Abyss
 *Level 9 Conjuration*
@@ -2256,7 +2256,7 @@ A burst of black fire erupts in a radius 3 *(4.5m)* circle centered on a point y
 Each light in the area is extinguished, and each creature in the area must succeed on a DEX Save or take 20d6 Fire damage, or half as much on a success.
 At the beginning of each of your turns, if a source of Bright Light is within 3 *(4.5m)* of the area its radius expands by 1 *(1.5m)*, then each creature in the area takes 5d6 Fire damage.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Darkfire Bolt
 *Level 2 Evocation*
@@ -2269,7 +2269,7 @@ Make a ranged spell attack against the target. On a hit, the target takes 2d10 F
 Whenever the wreathed creature is hit with an attack, it takes an additional 1d6 Necrotic damage.
 **Using a Higher-Level Spell Slot.** The Fire damage increases by 1d10 for every slot level above 2.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Darklight Surge
 *Level 6 Evocation*
@@ -2281,7 +2281,7 @@ Requires language proficiency in DrowInvisible light flashes in a radius 4 *(6m)
 Each creature in the area takes 6d8 Radiant damage, then must make a DEX Saving Throw. On a failure, a creature cannot benefit from Darkvision or Truesight for the next hour, or until cured by Lesser Restoration or similar magic that could cure the [Blinded](conditions.md#blinded) condition.
 **Using a Higher-Level Spell Slot.** The Radiant damage increases by 2d8 for every slot level above 6.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Darkness
 *Level 2 Evocation*
@@ -2315,7 +2315,7 @@ Requires proficiency in Thieves' Cant.
 You flick the bat's tooth used in the spell's casting and send it darting chaotically toward a target in range. Make a ranged spell attack. On a hit, the target takes 3d6 Force damage.
 If this attack misses, you can make a second attack roll against another creature you can see within 2 *(3m)* of the original target.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Darting Duplicate
 *Level 1 Illusion*
@@ -2326,7 +2326,7 @@ If this attack misses, you can make a second attack roll against another creatur
 An illusory duplicate of you steps clumsily into an unoccupied space within 1 *(1.5m)* of you, presenting a tempting target before winking out of existence.
 Each creature hostile to you that can reach that space must succeed on an INT Save or lose its reaction as it makes an attack of opportunity against the duplicate.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dawn
 *Level 5 Evocation*
@@ -2363,7 +2363,7 @@ Once on each of your turns (no action required), you can move the effect up to 6
 A creature that succeeds on this Save, or that uses its action to disbelieve the illusion with a successful INT (Investigation) check made against your spell save DC, becomes immune to the illusion's effects and can see through it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Psychic damage increases by 1d8 for each slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Death Throes
 *Level 1 Necromancy*
@@ -2373,7 +2373,7 @@ A creature that succeeds on this Save, or that uses its action to disbelieve the
 - **Duration**: Instantaneous
 As a reaction when another creature you can see within range is reduced to 0 Hit Points, you imbue it with a sudden burst of energy, allowing it to use its reaction to make a melee attack before falling [unconscious](conditions.md#unconscious).
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Death Touch
 *Level 4 Necromancy*
@@ -2385,7 +2385,7 @@ Requires proficiency in Thieves' Cant.
 You touch a creature and send deadly poison coursing through its veins. The target must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) for 1 minute.
 While [Poisoned](conditions.md#poisoned) in this way, the creature takes 3d12 Necrotic damage at the start of each of its turns, and repeats this Save at the end of each of its turns, ending the condition on a success.
 - **Classes**: Artificer, Cleric, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Death Ward
 *Level 4 Abjuration*
@@ -2408,7 +2408,7 @@ If the spell is still in effect when the target is subjected to an effect that w
  At the beginning of each of its turns, the creature must make a CON Save. On a failure, a creature takes 8d8 Poison damage and is [Poisoned](conditions.md#poisoned) until the beginning of its next turn. On a success, a target takes half as much damage.
  The globe moves with the target, preventing anything from passing in or out; it can be damaged and destroyed (AC 20, 100 HP, immunity to psychic and Poison damage, vulnerability to Force damage).
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Deathlord's Favor
 *Level 4 Necromancy*
@@ -2418,7 +2418,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 - **Duration**: Instantaneous
 You harvest the life from your thralls to heal yourself, reducing each friendly undead creature of your choice that you can see within range to 0 Hit Points and regaining Hit Points equal to the total Hit Points lost in this way.
 - **Classes**: Cleric, Druid, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Death's Aid
 *Level 1 Necromancy*
@@ -2428,7 +2428,7 @@ You harvest the life from your thralls to heal yourself, reducing each friendly 
 - **Duration**: Instantaneous
 You sacrifice your undead thralls to bolster yourself with the burst of energy released, reducing any number of friendly undead creatures you can see within range to 0 Hit Points. You add 1d4 to the result of your Save for each undead creature killed in this way.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Death's Beckon
 *Level 2 Necromancy*
@@ -2439,7 +2439,7 @@ You sacrifice your undead thralls to bolster yourself with the burst of energy r
 You call a fragment of abyssal energy down to strike a creature within range, using its suffering to forge a momentary rift to the Corpsevaults. Make a ranged spell attack against the target. On a hit, the target takes 3d10 Necrotic damage.
 If this damage reduces a humanoid target to 0 Hit Points, a rift appears in the earth beneath it, disgorging a Horde Ghoul in the nearest unoccupied space that acts on your initiative and is hostile to all living creatures.
 - **Classes**: Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Deceptive Demise
 *Level 4 Illusion*
@@ -2450,7 +2450,7 @@ If this damage reduces a humanoid target to 0 Hit Points, a rift appears in the 
 You feign being wounded more grievously than you actually are, teleporting up to 6 *(9m)* to a location you can see and turning [Invisible](conditions.md#invisible) until the beginning of your next turn, and may immediately attempt to Hide.
 A corpse-like duplicate of your body crumples to the ground in the space you vacated, which dissolves into mist at the end of your next turn, or if it takes any damage.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dedication of Blood
 *Level 3 Necromancy*
@@ -2462,7 +2462,7 @@ You brandish the weapon used in the spell's casting and make a melee attack with
 On a hit, the attack deals an additional 3d10 Necrotic damage.
 If this damage kills a creature, up to one friendly creature of your choice within 6 *(9m)* of you can use its reaction to gain 15 Temporary Hit Points or to make a melee weapon attack.
 - **Classes**: Cleric, Paladin, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Delay Spell
 *Level 5 Abjuration*
@@ -2473,7 +2473,7 @@ If this damage kills a creature, up to one friendly creature of your choice with
 You freeze a spell in mid-air, delaying its effect until the end of your next turn. The spell keeps its original targets, and fails if those targets are no longer valid when the spell resolves.
 The spell's caster must maintain concentration on the spell until the spell takes effect, or have the spell fail.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Delayed Blast Fireball
 *Level 7 Evocation*
@@ -2500,7 +2500,7 @@ When you do so, you can summon a Devil of CR 8 or below to take your place, givi
 You must designate a sanctuary by casting this spell within an archway on the plane of Baator. If you cast this spell without first preparing a sanctuary, the spell has no effect.
 **Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, you can summon any willing Devil known to you. If you summon a devil of CR 10 or greater in this way, it is not bound to follow your command.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Demand Offering
 *Level 2 Enchantment*
@@ -2510,7 +2510,7 @@ You must designate a sanctuary by casting this spell within an archway on the pl
 - **Duration**: Instantaneous
 You choose an item that a humanoid creature within range is wearing, wielding, or carrying. The creature must make a WIS Save or use its reaction to hand you the chosen item. If the item could not be removed as an action, such as in the case of most armor and shields, the spell fails.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dematerialize
 *Level 3 Evocation*
@@ -2520,7 +2520,7 @@ You choose an item that a humanoid creature within range is wearing, wielding, o
 - **Duration**: Instantaneous
 As a reaction to being targeted with an attack or harmful spell, you attempt to dodge across the border ethereal. Roll a d20. On an 11-20, you disappear until the beginning of your next turn, when you reappear in the unoccupied space nearest to where you departed.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Demiplane
 *Level 8 Conjuration*
@@ -2544,7 +2544,7 @@ A roiling whip of lacerating fire springs from your hand as you lash out in a fr
 On a hit, the target takes 2d4 slashing plus 2d6 Fire damage. A creature hit by two or more of these attacks in a turn must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you make an additional attack for each slot level above 2.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Demonrot Barbs
 *Level 5 Conjuration*
@@ -2556,7 +2556,7 @@ You cast forth a hail of barbed spores infused with toxins cultivated by the dem
 One spell effect of Level 3 or below affecting the creature ends.
 The creature has disadvantage on the next CON Save it makes in the next minute.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Descent of Crows
 *Level 4 Conjuration*
@@ -2568,7 +2568,7 @@ One Large or smaller creature that you can see is mobbed by spectral crows that 
 The creature is [Blinded](conditions.md#blinded) for the duration, or until it moves at least 1 *(1.5m)*, and must succeed on a DEX Save or take 8d6 Piercing damage, or half as much on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, it can affect a Huge or smaller creature. If you cast it using a spell slot of Level 6 or higher, it can affect a Gargantuan or smaller creature.
 - **Classes**: Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Desecration Stride
 *Level 6 Conjuration*
@@ -2579,7 +2579,7 @@ The creature is [Blinded](conditions.md#blinded) for the duration, or until it m
 Your tie to reality becomes unstable as you flicker and distort space around you. Whenever you take damage, you may immediately teleport up to 6 *(9m)* to an unoccupied space you can see.
 Nonmagical plants within 2 *(3m)* of that space blacken, and each other creature within 2 *(3m)* of that space takes 9 (2d8) Necrotic damage.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Destructive Wave
 *Level 5 Evocation*
@@ -2645,7 +2645,7 @@ As a Magic action on your next turn, you can try to probe deeper into the target
 You call down six lightning bolts in rapid sequence to strike at targets you can see within range.
 An affected creature must make a DEX Save for each lightning bolt directed at it, taking 2d8 + 20 Lightning damage on a failure, or half as much on a success.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Devouring Rain
 *Level 9 Conjuration*
@@ -2657,7 +2657,7 @@ An acrid rain begins to fall in a radius 3 *(4.5m)*, height 60 *(90m)* cylinder 
 A creature that starts its turn in the area, or that enters it for the first time on a turn, must succeed on a CON Save or take 8d10 Acid damage, or half as much on a success.
 A creature killed by this damage melts and is disintegrated.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dimension Door
 *Level 4 Conjuration*
@@ -2679,7 +2679,7 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 - **Duration**: Instantaneous
 As a reaction when you succeed on a Save against a spell, you convert some of the waste magical energy to electricity and send it rocketing back, dealing 1d10 Lightning damage per level of the spell to the spell's caster.
 - **Classes**: Artificer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Disfigure
 *Level 2 Necromancy*
@@ -2694,7 +2694,7 @@ On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHA  (Persuasion) checks until cured by Lesser Restoration or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Disguise Self
 *Level 1 Illusion*
@@ -2751,7 +2751,7 @@ Choose one creature, object, or magical effect within range. Any ongoing spell o
 You carve a bright, undefined line through the air within 2 *(3m)* of you that disrupts any magic which crosses it.
 Spells that pass directly over or beneath the line (within 20 *(30m)* of it) or that affect an area that includes any part of it have their Save DC and any attack roll made as part of the spell reduced by 1d4.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Displace Soul
 *Level 9 Enchantment*
@@ -2764,7 +2764,7 @@ While its soul is in the Border Ethereal, the creature can still see, hear, and 
 The creature repeats this Save at the end of each of its turns for the next minute, ending the effect on a success.
 A creature that fails three consecutive Saves against this effect has its soul remain trapped in the Border Ethereal until returned by a Wish spell or similar magic, and does not make any further Saves to end the effect.
 - **Classes**: Bard, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dissonant Whispers
 *Level 1 Enchantment*
@@ -2789,7 +2789,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 A creature that strikes a solid object, creature, or surface while falling in this way takes falling damage as normal.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the radius affected increases by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Distort Value
 *Level 1 Illusion*
@@ -2903,7 +2903,7 @@ In combat, the Clawpacks share your initiative count, but take their turns immed
 When the spell ends, the Clawpacks become hostile to all creatures (including each other) and disregard your commands. At the beginning of each of your turns roll a d20 for each remaining Clawpack; on a 1-5, it disappears.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, two additional Ratfolk Clawpacks emerge from the breach at the beginning of each of your turns, appearing in spaces within 2 *(3m)* of it.
 - **Classes**: Bard, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Douse
 *Level 1 Transmutation*
@@ -2916,7 +2916,7 @@ Casting this spell does not reveal your position to any creature you are [Invisi
 Magical light sources produced by a spell of a higher level than this spell was cast at are unaffected.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional target in range for each slot level above 1. You may choose the same target multiple times.
 - **Classes**: Artificer, Rogue, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Draconic Transformation
 *Level 7 Transmutation*
@@ -2950,7 +2950,7 @@ You touch one willing creature, and choose Acid, Cold, Fire, Lightning, or Poiso
 White-hot flames engulf a target you can see within range, forcing it to make a DEX Save.
 On a failure, a target takes 8d6 + 20 Fire damage and you can end each spell effect of Level 5 or below that is affecting it or that it is Concentrating on.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dragonsguise
 *Level 5 Transmutation*
@@ -2961,7 +2961,7 @@ On a failure, a target takes 8d6 + 20 Fire damage and you can end each spell eff
 You touch a willing creature, transforming it into a humanoid form until dispelled.
 This effect ends early if the target is reduced to 0 Hit Points, or if it ends this effect as a Bonus Action.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dragonshadow
 *Level 2 Illusion*
@@ -2973,7 +2973,7 @@ A fearsome shadow descends upon a radius 3 *(4.5m)* circle centered on a point y
 On a failure, a creature must use its reaction move up to its half its speed in a direction of your choice. If the target doesn't have a reaction available or cannot move, it instead falls [prone](conditions.md#prone).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the radius of the shadow increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Dragonstone
 *Level 1 Transmutation*
@@ -2986,7 +2986,7 @@ On a hit, the target takes 1d4 + your spellcasting modifier Bludgeoning damage a
 On a critical hit, the target must succeed on a STR Save or be knocked [prone](conditions.md#prone).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the attack has advantage.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Drawmij's Instant Summons
 *Level 6 Conjuration (ritual)*
@@ -3034,7 +3034,7 @@ The spell ends early on a creature if that creature takes any damage, and the cr
 Blood wells up in the mouth and lungs of a creature you can see within range, suffocating it.
 The target must succeed on CON Save or take 4d8 Necrotic damage and be unable to speak or breathe for the next minute. An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Druid Grove
 *Level 6 Abjuration*
@@ -3080,7 +3080,7 @@ As a bonus action, you can move the dust devil up to 6 *(9m)* in any direction. 
 You disturb the weave around a creature you can see in range, straining it to its breaking point. The target must make a CON Save. On a failed save, the creature takes 2d10 Necrotic damage the next time it casts a spell before the end of your next turn.
 This spell's damage increases by 2d10 when you reach 5th level (4d10), 11th level (6d10), and 17th level (8d10).
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells E
 ### Earth Tremor
@@ -3114,7 +3114,7 @@ You touch a creature and drain the life from the earth in a radius 1 *(1.5m)* ci
 The target regains 9d8 Hit Points, or regains twice as many Hit Points if a creature was reduced to 0 Hit Points in the affected area since the end of your last turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the healing increases by 1d8 for each slot level above 6.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Earthquake
 *Level 8 Transmutation*
@@ -3140,7 +3140,7 @@ Each creature in the area must succeed on a DEX Save or take 8d6 Fire damage and
 A [Prone](conditions.md#prone) creature has Disadvantage on this Save.
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, you create a second plume immediately after the first. If you use a level 9 spell slot, you create three plumes in sequence.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Eldritch Blast
 *Evocation Cantrip*
@@ -3162,7 +3162,7 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 You open your mind to the full reality of a creature you can see within 1 *(1.5m)* and details of its immediate past and possible futures pour into your mind.
 Until the beginning of your next turn, you add your INT modifier to your AC against attacks made by that creature and to any Saves against abilities it controls.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Elemental Bane
 *Level 4 Transmutation*
@@ -3185,7 +3185,7 @@ You touch the weapon used in the spell's casting to a source of elemental energy
 For the next hour, the weapon deals an additional 3 (1d6) damage on a hit of a type that the chosen elemental source could deal.
 As a bonus action on each of your turns, you can touch this weapon to another melee weapon, extending the spell's effects to that weapon as well for the next minute.
 - **Classes**: Artificer, Cleric, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Elemental Weapon
 *Level 3 Transmutation*
@@ -3221,7 +3221,7 @@ You relinquish yourself to forces beyond your control, choosing to fail a Save i
 Before suffering the Save's effects, you gain 15 Temporary Hit Points that last until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the Temporary Hit Points increase by 5 for each slot level above 1.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Embrittle Bones
 *Level 3 Necromancy*
@@ -3234,7 +3234,7 @@ While [Poisoned](conditions.md#poisoned) in this way, attacks against the creatu
 At the end of each of its turns, the target can make another CON Save. On a success, the spell ends on the target.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the critical range increases by 1 for each two slot levels above 3.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Embrittle Flesh
 *Level 3 Transmutation*
@@ -3245,7 +3245,7 @@ At the end of each of its turns, the target can make another CON Save. On a succ
 You attempt to harden the outer layer of a creature you can see within range. The target must make a CON Saving Throw. On a Failure, the target takes 4d8 Necrotic damage and is [Petrified](conditions.md#petrified) until the end of your next turn. This effect ends early if the target takes 15 or more damage from a single source.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Enchain Essence
 *Level 5 Necromancy*
@@ -3255,7 +3255,7 @@ You attempt to harden the outer layer of a creature you can see within range. Th
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You wrest the raw life essence of a creature you can see within range, twisting and exposing its weaknesses. The target must make a CON Save. On a failed save, the creature is [restrained](conditions.md#restrained) and has vulnerability to all damage that it is not resistant or immune to for the next minute. The creature repeats this save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Encode Thoughts
 *Enchantment Cantrip*
@@ -3280,7 +3280,7 @@ You release a burst of reanimating spores in a radius 6 *(9m)* sphere centered o
 Each creature in one or more of these areas that died in the last minute is restored to life with 15 Hit Points and is [Poisoned](conditions.md#poisoned) for the next 24 hours.
 For each area created by the Sprouting Doom spell within range, you may create an additional burst of reanimating spores, centered on a point in that area.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Enemies Abound
 *Level 3 Enchantment*
@@ -3315,7 +3315,7 @@ You target an unoccupied space within 1 *(1.5m)* and wrenching upon any lingerin
 If a creature teleported out of that space in the last hour, it must make a CHA  Save. On a failure, the creature is teleported back into that space. On a successful Save, the creature becomes immune to this effect for one hour.
 If two or more creatures teleported out of the target space in the last hour, only the one that did so most recently is affected.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Enhance Ability
 *Level 2 Transmutation*
@@ -3382,7 +3382,7 @@ Sturdy roots snake forth from your body, digging deep into the earth around you 
 If you move or are moved, the spell ends immediately.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the spell's radius increases by 1 *(1.5m)* for each slot level above 1.
 - **Classes**: Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Envenomed Touch
 *Level 2 Transmutation*
@@ -3394,7 +3394,7 @@ Deadly venom beads on your fingers as you drag them across a creature in range. 
 At the end of each of its turns, the target can make another CON Save. On a success, the spell ends on the target.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, it deals 3 (1d6) additional Poison damage for each slot level above 2.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Erratic Fireball
 *Level 2 Evocation*
@@ -3406,7 +3406,7 @@ You fire a volatile Sphere of roiling flame, which travels an uncertain distance
 Each creature in the area must succeed on a DEX Save or take 6d6 Fire damage and be knocked [prone](conditions.md#prone), or take half as much damage on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the damage increases by 2d6 for each slot level above 2.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Erupting Earth
 *Level 3 Transmutation*
@@ -3428,7 +3428,7 @@ Choose a point you can see on the ground within range. A fountain of churned ear
 You target a surface you can see that is at least 2 *(3m)* by 2 *(3m)* and the surface ripples and liquefies, becoming a Large, unstable portal connected to a random point on an elemental, paraelemental, or quasi-elemental plane of your choice that the surface shares an affinity with.
 For the next minute, a creature can use its action to push through the portal, taking 6d10 damage of a type associated with the connected plane.
 - **Classes**: Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Eternal Tide
 *Level 5 Necromancy*
@@ -3438,7 +3438,7 @@ For the next minute, a creature can use its action to push through the portal, t
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 As a bonus action on each of your turns, you may restore one hit point to an undead creature that was reduced to 0 Hit Points since the end of your last turn.
 - **Classes**: Cleric, Druid, Paladin, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Etherealness
 *Level 7 Conjuration*
@@ -3487,7 +3487,7 @@ The first time you make an attack using this ammunition during this spell's dura
 Whether you hit or miss, the piece of ammunition then explodes. Each creature within 2 *(3m)* of the target must make a DEX Save. On a failed Save, a creature takes 4d6 Fire damage, or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's duration increases to 10 minutes.
 - **Classes**: Artificer, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Exultation of Blood
 *Level 2 Necromancy*
@@ -3498,7 +3498,7 @@ Whether you hit or miss, the piece of ammunition then explodes. Each creature wi
 You absorb and gain STR from the spilt blood of your foes, gaining 5 Temporary Hit Points for each creature you hit with an attack this turn.
 These Temporary Hit Points last for an hour, and while you have any of these Temporary Hit Points attacks you make are made with advantage.
 - **Classes**: Bard, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Eye of Rot
 *Level 4 Enchantment*
@@ -3510,7 +3510,7 @@ You attempt to curse a creature you can see within range, turning the phlegmatic
 While Cursed in this way, a creature is [Poisoned](conditions.md#poisoned), takes 4d10 Necrotic damage at the start of each of its turns, and repeats this Save at the end of each of its turns, ending the effect on a success.
 A creature you cannot see makes the Save to end this effect with advantage.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Eye of Veiling
 *Level 2 Illusion*
@@ -3520,7 +3520,7 @@ A creature you cannot see makes the Save to end this effect with advantage.
 - **Duration**: 1 minute
 You distort the vision of a creature in range, obscuring yourself from it. The target must make an INT Save. On a failed save, you become [Invisible](conditions.md#invisible) to the creature for the next minute. An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Eyebite
 *Level 6 Necromancy*
@@ -3577,7 +3577,7 @@ You gain 2d4 + 4 Temporary Hit Points.
 You incite a mad fervor in up to four creatures you can see within range.
 For the next hour, each of those creatures ignores the effects of being [Frightened](conditions.md#frightened), and can use its reaction to move up to half its speed or to make a melee weapon attack whenever it takes damage.
 - **Classes**: Bard, Cleric, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Far Step
 *Level 5 Conjuration*
@@ -3611,7 +3611,7 @@ When the spell ends, the creature knows it was [charmed](conditions.md#charmed) 
 You touch a creature and each of its deepest fears, wounds, and weaknesses unfolds before you.
 For 1 hour, the target has Disadvantage on Saves against effects that you control, and any attack you hit the target with becomes a Critical Hit.
 - **Classes**: Bard, Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fealty's Clarion
 *Level 7 Conjuration*
@@ -3625,7 +3625,7 @@ The creature recognizes you as the sender, and can choose to immediately be tele
 If the creature is dead, it can form a spiritual body to aid you that appears as it did in life with full resources, and dissolves into light when reduced to 0 Hit Points, or after 1 hour. A dead creature summoned in this way can never again be summoned with this spell.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you can target one additional creature for each slot level above 7.
 - **Classes**: Cleric, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fear
 *Level 3 Illusion*
@@ -3647,7 +3647,7 @@ A [Frightened](conditions.md#frightened) creature takes the Dash action and move
 You begin to exude a pungent musk that drives creatures around you into a frenzy. Each creature in the area subtracts 1d4 from Saves they make against being [Frightened](conditions.md#frightened).
 This spell's duration increases when you reach 5th level (10 minutes), 11th level (1 hour), and 17th level (8 hours).
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Feather Fall
 *Level 1 Transmutation*
@@ -3681,7 +3681,7 @@ Each other creature in a radius 1 *(1.5m)* column extending beneath and around y
 If an affected creature takes any Fire damage in the next minute, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) Fire damage at the end of each of its turns.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's radius increases by 2 *(3m)* for each slot level above 3.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ferocity of the Fleshforges
 *Level 5 Transmutation*
@@ -3692,7 +3692,7 @@ If an affected creature takes any Fire damage in the next minute, it ignites. Un
 You feed a portion of your own flesh to a friendly beast within 1 *(1.5m)*, causing its flesh to strain and distend. You lose 10 Hit Points, and the creature transforms into a Nashrou Slayer that acts under your control until no hostile creatures remain within its line of sight, or until you or your allies deal any damage to it, then becomes hostile to all creatures.
 As an action, a creature can attempt to return the Nashrou Slayer to its previous form with a successful WIS (Animal Handling) check against your Spell Save DC.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Filth Harvest
 *Level 5 Necromancy*
@@ -3703,7 +3703,7 @@ As an action, a creature can attempt to return the Nashrou Slayer to its previou
 You tear away at a weakened foe, forcing negative energy into its body and draining away the life that flees before it.
 One creature you can see within range that is [Paralyzed](conditions.md#paralyzed), [Poisoned](conditions.md#poisoned), or infected with a disease must make a CON Save. On a failed save, the creature takes 8d10 Necrotic damage and you gain Temporary Hit Points equal to the half the damage dealt.
 - **Classes**: Druid, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Find Familiar
 *Level 1 Conjuration (ritual)*
@@ -3831,7 +3831,7 @@ Flammable objects in the area that aren't being worn or carried start [burning](
 You cause the fires engulfing a creature to flare explosively. One [burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save or take 3d6 Fire damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the damage increases by 1d6 for each slot level above 2.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Firing Position
 *Level 5 Conjuration*
@@ -3841,7 +3841,7 @@ You cause the fires engulfing a creature to flare explosively. One [burning](con
 - **Duration**: Instantaneous
 You teleport to an unoccupied space you can see within 6 *(9m)*, then can make up to two ranged attacks.
 - **Classes**: Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fissure
 *Level 3 Transmutation*
@@ -3853,7 +3853,7 @@ You strike the ground, splitting open a undefined, undefined, depth 4 *(6m)* fis
 Each Large or smaller creature in the fissure's area must make a DEX Saving Throw. On a Failure, the creature falls into the fissure. On a Success, the creature moves to the nearest unoccupied space outside the fissure's area.
 **Using a Higher-Level Spell Slot.** The fissure's length increases by 1 *(1.5m)* for every slot level above 3rd.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fizban's Platinum Shield
 *Level 6 Abjuration*
@@ -3925,7 +3925,7 @@ When you move the sphere, you can direct it over barriers up to 1 *(1.5m)* tall 
 You touch a [grappled](conditions.md#grappled) or [restrained](conditions.md#restrained) creature and attempt to briefly paralyze with overwhelming cold.
 The target must succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Flatten Reality
 *Level 3 Transmutation*
@@ -3937,7 +3937,7 @@ A line of distorted space 30 *(45m)* long and 1 *(1.5m)* wide extends from your 
 Until the end of your next turn, or until you leave the area, you and each creature in the area count as being within 1 *(1.5m)* of each other creature in the area, and can teleport to any unoccupied space in the area as a Bonus Action.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's duration increases by 1 round for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Flaying Scream
 *Level 3 Evocation*
@@ -3949,7 +3949,7 @@ Your eyes blaze with abyssal flame as you lift a [grappled](conditions.md#grappl
 Each light the creature is carrying is doused, then the creature must succeed on a CON Save or take 3d6 fire plus 6d8 Thunder damage, or half as much on a success.
 A creature killed by this damage has its skin peeled off and blown away in a spray of gore.
 - **Classes**: Bard, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Flesh to Stone
 *Level 6 Transmutation*
@@ -3973,7 +3973,7 @@ You dip in and out of reality, channeling the energy of your passage into bolts 
 On a hit, the target takes 3d6 lightning plus 2d10 Force damage. Before or after making each of these attacks, you may teleport up to 6 *(9m)* to an unoccupied space you can see.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, you make one additional attack for each slot level above 6.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Flickering Advance
 *Level 3 Transmutation*
@@ -3984,7 +3984,7 @@ On a hit, the target takes 3d6 lightning plus 2d10 Force damage. Before or after
 You begin to move with magically empowered speed until the end of your next turn, or until you are hit with an attack.
 Until the spell ends, your speed is doubled, attacks made against you have disadvantage, and whenever you are missed with an attack you can teleport up to 2 *(3m)* to an unoccupied space you can see.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fly
 *Level 3 Transmutation*
@@ -4008,7 +4008,7 @@ Each creature that fails this Save has its initiative reduced to 0, then telepor
 While fused, creatures act on the same turn, and only one of them can use movement, use a bonus action, or take reactions in a turn. If the creatures cannot agree on how to use these reactions, they can make a contested CHA  check to determine which creature controls their shared body until the beginning of their next turn.
 Whenever one fused creature takes damage, the creature it is fused to takes the same damage. At the end of each of the fused creatures' shared turn, one of the creatures can repeat this Save, ending the effect on a success. When the spell ends for a creature, it is expelled into the nearest unoccupied space.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Fog Cloud
 *Level 1 Conjuration*
@@ -4030,7 +4030,7 @@ You create a radius 4 *(6m)* sphere of fog centered on a point within range. The
 You teleport to an unoccupied location you can see within 6 *(9m)*.
 Each creature within 3 *(4.5m)* of the space you departed must succeed on a STR Save or be pulled up to 2 *(3m)* toward the space you departed and take 4d10 Psychic damage.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Foment Intrigue
 *Level 4 Enchantment*
@@ -4043,7 +4043,7 @@ You send insidious thoughts whispering through the minds of two creatures you ca
 At the beginning of each creature's turn, it must succeed on a WIS Save or become hostile to the other target and indifferent to all other creatures until the beginning of its next turn.
 If both targets succeed on their Save in a round, or if one of them is reduced to 0 Hit Points, the spell ends.
 - **Classes**: Bard, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Forbiddance
 *Level 6 Abjuration (ritual)*
@@ -4068,7 +4068,7 @@ You send two arcane bolts soaring to strike in quick succession. You can direct 
 Make a ranged spell attack for each bolt, resolving one at a time. On a hit, the target takes 2d10 Force damage and the next spell attack you make against the same target this turn has advantage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you create one additional bolt for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Force Rift
 *Level 3 Evocation*
@@ -4078,7 +4078,7 @@ Make a ranged spell attack for each bolt, resolving one at a time. On a hit, the
 - **Duration**: Instantaneous
 
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Forcecage
 *Level 7 Evocation*
@@ -4104,7 +4104,7 @@ You touch a creature and the outermost layer of its flesh begins to harden and c
 At the end of each of the creature's turns and whenever it takes any damage, it can make a STR Save against your spell save DC, ending the effect and bursting out of the outer layer on a success.
 A creature with Natural Armor or a similar trait that this effect ends for has its natural AC reduced by 2 until it completes a Short or Long Rest.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Forebear's Claw
 *Level 3 Conjuration*
@@ -4115,7 +4115,7 @@ A creature with Natural Armor or a similar trait that this effect ends for has i
 You sweep a massive spectral claw in a length 3 *(4.5m)* cone. Each creature in the area must make a DEX Save. On a failed Save, a creature takes 4d8 Slashing damage and is pushed up to 2 *(3m)* directly away from you. On a success, a creature takes half as much damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Foresight
 *Level 9 Divination*
@@ -4159,7 +4159,7 @@ In addition, the target can spend 1 *(1.5m)* of movement to automatically escape
 - **Duration**: Instantaneous
 You bombard a creature you can see in range with lethal, blood-freezing Cold which wears away at the very core of it. The creature must succeed on a CON Save or take 2d4 points of exhaustion, or half as many on a success.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Friends
 *Enchantment Cantrip*
@@ -4204,7 +4204,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 Icy steam rolls off your palm as you attempt to grasp a creature's limb, freezing it solid. Make a melee spell attack attack against the target. On a hit , the target takes 10d6 Cold damage, then must succeed on a CON Save or be afflicted with Frostbite.
 Frostbite. When a creature contracts frostbite, it loses the use of one of its limbs of its choice until this disease is cured, as the limb goes stiff and pale and the creature loses feeling in it. The creature cannot rest, and loses 5 Hit Points at the end of each hour. This disease is cured if the affected limb is removed.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells G
 ### Gallseal
@@ -4217,7 +4217,7 @@ You touch a creature and suspend one disease or condition affecting it, condensi
 The condition can be [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Choking](conditions.md#choking), [Deafened](conditions.md#deafened), [Paralyzed](conditions.md#paralyzed), [Poisoned](conditions.md#poisoned), or [Stunned](conditions.md#stunned).
 If the creature takes 15 or more damage from a single source in that time, the knot bursts and the creature takes 6d6 Poison damage.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Garden of Rot and Ruin
 *Level 9 Conjuration*
@@ -4231,7 +4231,7 @@ Each of these areas is heavily obscured, and a creature that starts its turn in 
 While [Poisoned](conditions.md#poisoned) in this way, a creature is [Charmed](conditions.md#charmed) by you and by each creature of your choice, and is hostile to each creature it is not [Charmed](conditions.md#charmed) by.
 Each of the affected areas lasts for as long as you maintain concentration, or until the area is dealt 20 or more fire or Radiant damage from a single source.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Gaseous Form
 *Level 3 Transmutation*
@@ -4306,7 +4306,7 @@ The Ephemeral Swarm is friendly to you, rolls its own initiative, and obeys your
 When the spell ends, the Ephemeral Swarm doesn't disappear. Instead, you lose control of the Ephemeral Swarm, it becomes hostile toward you and your companions, and it pursues and attacks the nearest living creature on each of its turns.
 After 24 hours, the Ephemeral swarm dissipates.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ghastly Scourge
 *Level 8 Necromancy*
@@ -4316,7 +4316,7 @@ After 24 hours, the Ephemeral swarm dissipates.
 - **Duration**: Instantaneous
 You summon a lash of crackling, unfiltered death and swing it at a creature. Make a melee spell attack with a reach of 4 *(6m)*. On a hit, the target takes 6d10 + 60 Necrotic damage. If this damage reduces a creature to 0 Hit Points without killing it, it immediately fails one death save.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ghostfire Flare
 *Level 2 Necromancy*
@@ -4327,7 +4327,7 @@ You summon a lash of crackling, unfiltered death and swing it at a creature. Mak
 Pale flames erupt beneath up to two creatures you can see within range, forcing each of them to succeed on a DEX Save or take 2d6 fire plus 1d10 Necrotic damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can select one additional target for each slot level above 2.
 - **Classes**: Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Giant Insect
 *Level 4 Conjuration*
@@ -4363,7 +4363,7 @@ One creature you can see within range is suffused in an aura of pure rapturous d
 At the beginning of each of the creature's turns, it must make a WIS Save. On a failure, the creature voluntarily fails any Save it is able to until the beginning of its next turn.
 On a success, the effect ends.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Gift of Writhing Pain
 *Level 5 Illusion*
@@ -4375,7 +4375,7 @@ One creature you can see within range falls [prone](conditions.md#prone) and is 
 At the beginning of each of the creature's turns, it must succeed on a CON Save or take 3d10 Psychic damage and be unable to stand until the beginning of its next turn, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, you can target one additional creature for each slot level above 5.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glacier Tomb
 *Level 7 Abjuration*
@@ -4388,7 +4388,7 @@ You attempt to encase a creature within range in a shell of translucent ice. The
 - It cannot rest or die.
 - It must succeed on a CON Save at the end of each of its turns or have its STR and DEX scores each reduced by 2d6, to a minimum of one, until it is released.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glazier's Ace
 *Level 2 Transmutation*
@@ -4402,7 +4402,7 @@ Each creature in the area must succeed on a CON Save or be [Blinded](conditions.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 Using a Higher Level Spell Slot. When you cast this spell using a spell slot of Level 3 or higher, the size of the Cone increases by 2 *(3m)* for each slot level above 2.
 - **Classes**: Artificer, Bard, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glibness
 *Level 8 Transmutation*
@@ -4427,7 +4427,7 @@ On a successful Save or when this effect ends for it, the creature takes 4d6 Psy
 A creature that fails the initial Save by 10 or more is completely unaffected by the spell.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the duration becomes 1 minute.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Globe of Invulnerability
 *Level 6 Abjuration*
@@ -4452,7 +4452,7 @@ On a hit or miss, glowing spores linger in the air around the target in a radius
 Creatures in the area cannot benefit from Invisibility.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Poison damage increases by 2d6 and the radius of light increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Druid, Ranger, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glyph Mine
 *Level 3 Evocation*
@@ -4465,7 +4465,7 @@ The first time a creature enters that space in the next minute, a wave of pressu
 On a failed Save, a creature takes 4d8 Thunder damage, or takes half as much damage on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the spell's duration increases to 1 hour.
 - **Classes**: Artificer, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glyph of Light's Bane
 *Level 2 Enchantment*
@@ -4476,7 +4476,7 @@ On a failed Save, a creature takes 4d8 Thunder damage, or takes half as much dam
 You lay a cursed brand of darkness upon a creature [grappled](conditions.md#grappled) by you, forcing it to succeed a CHA  Save or take 4d6 Fire damage and be Cursed for the duration.
 While cursed in this way, the creature takes 2d6 fire plus 1d10 Necrotic damage whenever it ends its turn illuminated by Bright Light.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glyph of Unmaking
 *Level 4 Transmutation*
@@ -4490,7 +4490,7 @@ Each creature in the area must succeed on a CHA  Save or take 5d10 Force damage,
 A creature killed by this damage turns to shadow and melts away, disintegrating entirely.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Force damage increases by 1d10 for each slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Glyph of Warding
 *Level 3 Abjuration*
@@ -4518,7 +4518,7 @@ When you cast this spell, and at the beginning of each of your turns for the dur
 A creature or object reduced to 0 Hit Points by this damage disintegrates entirely.
 This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 - **Classes**: Artificer, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Goodberry
 *Level 1 Conjuration*
@@ -4540,7 +4540,7 @@ Uneaten berries disappear when the spell ends.
 One [unconscious](conditions.md#unconscious) creature you can see within range must succeed on a CON Save or die and be turned inside out in a spray of gore.
 If a creature dies in this way, each creature of your choice within 12 *(18m)* that can see the target is [Frightened](conditions.md#frightened) until the end of your next turn.
 - **Classes**: Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Grasping Grave
 *Level 3 Necromancy*
@@ -4550,7 +4550,7 @@ If a creature dies in this way, each creature of your choice within 12 *(18m)* t
 - **Duration**: Instantaneous
 You call forth a skeletal hand from the earth to grasp at a creature. Make a melee spell attack with a reach of 3 *(4.5m)*. On a hit, the target takes 6d10 Necrotic damage and must succeed on a STR Save or fall [prone](conditions.md#prone).
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Grasping Spout
 *Level 2 Transmutation*
@@ -4560,7 +4560,7 @@ You call forth a skeletal hand from the earth to grasp at a creature. Make a mel
 - **Duration**: Instantaneous
 You launch forth a tendrilous spout of acrid water at a creature you can see within range, which must succeed on a STR Save or take 4d8 plus your spellcasting modifier Acid damage and be dragged up to 6 *(9m)* directly toward you.
 - **Classes**: Cleric, Druid, Ranger, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Grasping Vine
 *Level 4 Conjuration*
@@ -4584,7 +4584,7 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 One creature you can see within 3 *(4.5m)* must succeed on a WIS Save or take 18d10 Psychic damage and be dragged up to 2 *(3m)* toward you, or take half as much damage on a success.
 A target that isn't [Frightened](conditions.md#frightened) can use its reaction to move up 3 *(4.5m)* directly away from you. If it does, it gains advantage on this Save.
 - **Classes**: Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Gravebolt
 *Level 2 Necromancy*
@@ -4595,7 +4595,7 @@ A target that isn't [Frightened](conditions.md#frightened) can use its reaction 
 You fire a bolt of clinging shadow at a creature, diminishing any lights it carries. Make a ranged spell attack against a creature in range. On a hit, the creature takes 3d10 plus your spellcasting modifier Necrotic damage and any sources of bright light within 1 *(1.5m)* of it are reduced to dim light for the next minute.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, you fire an additional bolt at a creature in range for each three spell levels above 2.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Graveway Travel
 *Level 2 Conjuration*
@@ -4606,7 +4606,7 @@ You fire a bolt of clinging shadow at a creature, diminishing any lights it carr
 You sink into the earth, traveling through the uncountable layers of ancient death to rise from another plot. You use 2 *(3m)* of your movement to step magically into a Large or larger area of loose earth and emerge in an unoccupied space within 1 *(1.5m)* of any Large or large area of loose earth within 12 *(18m)*.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 1 minute (concentration), and you may repeat this transportation ability as a bonus action on each of your turns for the duration.
 - **Classes**: Cleric, Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Gravity Gash
 *Level 5 Evocation*
@@ -4616,7 +4616,7 @@ You sink into the earth, traveling through the uncountable layers of ancient dea
 - **Duration**: Instantaneous
 You extend your hand and light and air distort as gravity intensifies in a line 12 *(18m)* long and 2 *(3m)* wide. Each creature in the area must succeed on a CON Save or take 6d8 Force damage and fall [prone](conditions.md#prone), or take half as much damage on a success.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Grease
 *Level 1 Conjuration*
@@ -4643,7 +4643,7 @@ If the target is a creature, it gains the following effects:
   - When the target is hit with an attack, it is pushed up to 2 *(3m)* from that attack's source.
   - If the target is an object, a creature holding that object must succeed on a DEX Save at the beginning of each of its turns or throw it 2 *(3m)* in a random direction.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Greater Invisibility
 *Level 4 Illusion*
@@ -4758,7 +4758,7 @@ You touch a creature and send a torrent of wind driving into it, forcing it to m
 On a failure, the target takes 3d8 Bludgeoning damage and is pushed up to 4 *(6m)* away, or takes half as much damage and is pushed half as far on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the distance the target is pushed increases by 2 *(3m)* for each slot level above 2.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Gust of Wind
 *Level 2 Evocation*
@@ -4786,7 +4786,7 @@ A creature that starts its turn in the area must make a STR Saving Throw. On a f
 If this spell targeted an area of water, a creature that fails this Save additionally takes 2d8 Bludgeoning damage.
 **Using a Higher-Level Spell Slot.** The size of the Emanation increases by 2 *(3m)* for every slot level above 3.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells H
 ### Hail of Thorns
@@ -4828,7 +4828,7 @@ Vulnerability. Creatures of any types you choose have Vulnerability to one damag
 You bind creatures in a web of life, guiding the flow of energies to both harm and heal. Each creature of your choice within range must succeed on a CON Save or lose half its current Hit Points.
 You may then restore a number of Hit Points up to the total amount lost this way, divided as you choose between creatures in range.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hallucinatory Terrain
 *Level 4 Illusion*
@@ -4851,7 +4851,7 @@ You strike forth with the weapon used in the spell's casting, wreathing it power
 Make a weapon attack against the target. On a hit, the target suffers the attack's normal effects and takes an additional 3d10 Force damage.
 A target affected by one or more spells that increase its armor class takes an additional 1d10 Force damage and has one such spell affecting it end.
 - **Classes**: Artificer, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Harm
 *Level 6 Necromancy*
@@ -4873,7 +4873,7 @@ You extend a small gift toward a creature within range. If the creature has an I
 While it carries the gift, the creature has disadvantage on attacks that target you, and may repeat this Save as an action, discarding the gift on a success. A creature makes this Save with advantage if you took any hostile action toward it since the end of its last turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the target is additionally Charmed by you while it carries the gift.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Haste
 *Level 3 Transmutation*
@@ -4930,7 +4930,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 You force a creature of CR 10 or below that you can see within range to to succeed on a CHA  Save or be wreathed in runic magic.
 If the creature dies before the beginning of your next turn, a demon of equal or lesser CR is summoned in its space. The demon is hostile to all creatures and acts under the DM's control.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Heartstop
 *Level 8 Necromancy*
@@ -4940,7 +4940,7 @@ If the creature dies before the beginning of your next turn, a demon of equal or
 - **Duration**: Instantaneous
 You attempt to magically crush a creature's heart within its chest. One creature you can see within range must succeed on a CON Save or die. A creature with no unexpended hit dice makes this save with disadvantage.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Heat Metal
 *Level 2 Transmutation*
@@ -4965,7 +4965,7 @@ The Cursed creature is [Charmed](conditions.md#charmed) by you and takes 5d10 Fi
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 **Using a Higher-Level Spell Slot.** The initial damage increases by 2d10 for each spell slot level above 6.
 - **Classes**: Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hellfire Cell
 *Level 5 Evocation*
@@ -4977,7 +4977,7 @@ A thin sheet of evil flame traces out a cubic barrier, 6 *(9m)* to a side, cente
 A creature that passes through the barrier for the first time on a turn must succeed on a DEX Save or take 8d6 Fire damage, or half as much on a success.
 This damage ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hellfire Decimation
 *Level 5 Evocation*
@@ -4989,7 +4989,7 @@ You harvest life energy from your allies to fuel an evil flame. Up to 10 willing
 Then, one creature you can see within range must make a CON Save. On a failure, the target takes Fire damage equal to the total Hit Points lost in this way. On a success, the target takes half as much damage.
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hellfire Offering
 *Level 3 Evocation*
@@ -5001,7 +5001,7 @@ Flames erupt from your flesh to engulf a creature [grappled](conditions.md#grapp
 When you cast this spell, you can choose to lose 20 Hit Points. If you do, the target has disadvantage on the Save it makes against this spell.
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 - **Classes**: Cleric, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hellfire Orb
 *Level 7 Evocation*
@@ -5012,7 +5012,7 @@ Damage dealt by this spell ignores resistance to Fire damage, and treats immunit
 A Sphere of crackling necrofire flares in your palm, then rushes to a point you can see within range and explodes. Each creature in a radius 4 *(6m)* sphere centered on that point must succeed on a DEX Save or take 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage and be knocked [prone](conditions.md#prone). On a success, the creature takes half as much damage and isn't knocked [prone](conditions.md#prone).
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hellish Rebuke
 *Level 1 Evocation*
@@ -5113,7 +5113,7 @@ On a failure, the creature takes 3d6 Psychic damage whenever it takes a hostile 
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can target an additional creature for each slot level above 2.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Horrid Growth
 *Level 3 Conjuration*
@@ -5123,7 +5123,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You seed a creature with spores that burst into fungal growths, anchoring a creature to the nearest surface. Make a melee spell attack. On a hit, the creature takes 6d6 Necrotic damage and becomes [grappled](conditions.md#grappled) in place for the spell's duration if it is within 1 *(1.5m)* of a solid surface. The escape DC is equal to your save DC.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hunger of Hadar
 *Level 3 Conjuration*
@@ -5159,7 +5159,7 @@ Infernal flames dance upon your palm before hurtling toward a creature within ra
 On a hit, the target takes 4d6 Fire damage. On a critical hit, the target additionally begins [Burning](conditions.md#burning) (1d10).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3, it scores a critical on an 18-20. When you cast this spell using a spell slot of Level 4 or higher, it scores a critical on an 16-20.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hurl Meteor
 *Level 6 Evocation*
@@ -5171,7 +5171,7 @@ A [burning](conditions.md#burning) stone flies from your extended palm, growing 
 On a hit, the target takes 10d6 bludgeoning plus 10d6 Fire damage.
 Against a target at lower elevation than you (at least 1 *(1.5m)* lower), this attack has advantage and pushes the target up to 3 *(4.5m)* away on a hit.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Hypnotic Pattern
 *Level 3 Illusion*
@@ -5204,7 +5204,7 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 - **Duration**: Instantaneous
 Needles of glittering ice rain down in a radius 2 *(3m)*, height 8 *(12m)* cylinder centered on a point you can see within range. Each creature in the area takes 10 Cold damage, then must succeed on a DEX Save or take 6d6 Piercing damage, or half as much on a success.
 - **Classes**: Druid, Ranger, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ice Storm
 *Level 4 Evocation*
@@ -5229,7 +5229,7 @@ The ally loses 4d10 Hit Points, then the target must succeed on a DEX Save or ta
 If the willing creature is reduced to 0 Hit Points by this effect, the target has Disadvantage on its Save.
 **Using a Higher-Level Spell Slot.** The Piercing damage increases by 1d10 for each spell slot level above 3.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ichordrip
 *Level 2 Conjuration*
@@ -5240,7 +5240,7 @@ If the willing creature is reduced to 0 Hit Points by this effect, the target ha
 Putrid black ichor begins to drip from the weapons of each creature within 6 *(9m)* of you.
 The first time each one of those creatures hits with a weapon attack before the spell ends, it deals an additional 2d6 Poison damage and the effect ends for it.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Identify
 *Level 1 Divination (ritual)*
@@ -5340,7 +5340,7 @@ You whisper fears into the mind of a creature you can see within range, forcing 
 While [Frightened](conditions.md#frightened) in this way, a creature treats all creatures it can see as hostile.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you can select one additional target for each two slot levels above 3.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Incubate Fears
 *Level 5 Illusion*
@@ -5350,7 +5350,7 @@ While [Frightened](conditions.md#frightened) in this way, a creature treats all 
 - **Duration**: 1 minute
 You draw forth and congeal the fears of a [Frightened](conditions.md#frightened) or [Unconscious](conditions.md#unconscious) creature within 1 *(1.5m)*, pulling forth 3 Living Nightmares that last for a minute and act under your control into unoccupied spaces you can see within 2 *(3m)* of the target.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Infernal Calling
 *Level 5 Conjuration*
@@ -5376,7 +5376,7 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 Infernal flames wreath an ally you can see within range, bolstering its STR. The target's melee attacks have advantage and deal an additional 1d6 Fire damage on a hit.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Bard, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Infernal Revival
 *Level 6 Necromancy*
@@ -5387,7 +5387,7 @@ Infernal flames wreath an ally you can see within range, bolstering its STR. The
 You place a hand on the corpse of a non-Devil creature and begin to infuse it with infernal energies.
 If you are still concentrating on this spell at the beginning of your next turn, the target is restored to life with full Hit Points if its spirit is willing, gaining the Fiend creature type and the Devil subtype, in addition to its other types.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Infestation
 *Conjuration Cantrip*
@@ -5422,7 +5422,7 @@ On a failure, the target takes 10d6 Psychic damage and you learn whichever secre
 On a success, the target takes half as much damage and can choose what information it reveals to you.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Insect Plague
 *Level 5 Conjuration*
@@ -5446,7 +5446,7 @@ Requires language proficiency in DrowEach creature of your choice in a radius 8 
 A creature [Poisoned](conditions.md#poisoned) in this way repeats this Save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** The range of the Emanation increases by 4 *(6m)* for every slot level above 7.
 - **Classes**: Cleric, Druid, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Intellect Fortress
 *Level 3 Abjuration*
@@ -5468,7 +5468,7 @@ For the duration, you or one willing creature you can see within range has resis
 An enormous spectral maw breaches forth in a radius 3 *(4.5m)* circle through a planar rift centered on a point you can see within range. Each creature in the area must succeed on a DEX Save or take 8d8 Piercing damage and be abducted to the depths of Abyss.
 An abducted creature makes a CHA Save at the end of each of its turns returning to the nearest unoccupied space to where it departed on a success, or taking 4d10 Acid damage on a failure. A creature killed by this damage does not return.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Investiture of Flame
 *Level 6 Transmutation*
@@ -5538,7 +5538,7 @@ A creature you touch is [Invisible](conditions.md#invisible) until the spell end
 - **Duration**: Instantaneous
 You spit forth a dread command as a companion begins to fall in battle, preventing the target from falling [Unconscious](conditions.md#unconscious) due to having 0 Hit Points until the end of its next turn.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Invocation of the Rot Shepherd
 *Level 4 Necromancy*
@@ -5548,7 +5548,7 @@ You spit forth a dread command as a companion begins to fall in battle, preventi
 - **Duration**: 8 hours
 You act as a conduit to the energies of undeath, channeling them to empower your undead horde. For the duration, friendly zombies within 6 *(9m)* of you may attempt to Grapple or Shove a creature as a bonus action.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Invulnerability
 *Level 9 Abjuration*
@@ -5569,7 +5569,7 @@ You are immune to all damage until the spell ends.
 When you deal 15 or fewer (minimum 1) Lightning damage to a creature with a spell or magical effect, you can attune your magical energy to that creature's natural frequencies.
 For the next minute, that creature has disadvantage on Saves against spells and magical effects you control that deal Lightning damage, and Lightning damage you deal ignores that creature's damage resistance.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ironflesh Defiance
 *Level 5 Transmutation*
@@ -5580,7 +5580,7 @@ For the next minute, that creature has disadvantage on Saves against spells and 
 When a creature or area you can see is targeted with an effect that deals damage, you can transform up to three willing creatures in range that are affected by the triggering effect, turning each of them to iron.
 Each affected creature becomes [Petrified](conditions.md#petrified) until the beginning of its next turn.
 - **Classes**: Artificer, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ironlight Glare
 *Level 2 Enchantment*
@@ -5591,7 +5591,7 @@ Each affected creature becomes [Petrified](conditions.md#petrified) until the be
 You level a pitiless glare at a [Frightened](conditions.md#frightened) creature you can see within range. The target must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) until the beginning of its next turn, or until it takes any damage.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells J
 ### Jallarzi's Storm of Radiance
@@ -5664,7 +5664,7 @@ You invest a target with cursed elemental energy, causing nearby bodies of water
 The target must make a CHA  save. On a failure, the creature is Cursed for the duration. A creature Cursed in this way treats all movement through water as being over Difficult Terrain, and immediately sinks 2 *(3m)* whenever it starts its turn swimming.
 **Using a Higher-Level Spell Slot.** If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn't require Concentration and lasts until dispelled.
 - **Classes**: Cleric, Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Knock
 *Level 2 Transmutation*
@@ -5688,7 +5688,7 @@ When you cast the spell, a loud knock, audible up to 60 *(90m)* away, emanates f
 You reach out to the mind of a creature you can see within range and thrust the certain knowledge of its looming death upon it, Cursing it (no Save). While Cursed in this way, the target suffers the following effects:- While it has fewer than 100 Hit Points, the Cursed creature is [Frightened](conditions.md#frightened).
 - At the end of each of its turns, the Cursed creature must succeed on a DC 11 unmodified d20 roll or take 10d10 Force damage and have the curse end for it.
 - **Classes**: Bard, Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells L
 ### Lacerating Rain
@@ -5700,7 +5700,7 @@ You reach out to the mind of a creature you can see within range and thrust the 
 A hail of jagged blades formed from blood appear in the air and rain down in a radius 3 *(4.5m)* circle centered on a point you can see within range.
 Each creature in the area must make a DEX Save. On a failed save, a creature takes 7d8 Slashing damage and begins to bleed, losing 10 Hit Points at the start of each of its turns for the next minute, or until it receives any magical healing. On a successful save, a creature takes half as much Slashing damage and does not begin to bleed.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lava Geyser
 *Level 5 Evocation*
@@ -5712,7 +5712,7 @@ You call a torrent of lava to spew up from the earth in a height 12 *(18m)*, rad
 Each creature in the area must make a DEX Save. On a failed Save, a creature takes 6d10 Fire damage and is knocked [prone](conditions.md#prone). On a successful Save, a creature takes half as much damage and is not knocked [prone](conditions.md#prone).
 For the next minute, the ground in the cylinder's area is covered in lava. A creature that ends its turn on the ground in the area or enters it for the first time on a turn must make the same Save.
 - **Classes**: Artificer, Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lay Bare
 *Level 2 Enchantment*
@@ -5722,7 +5722,7 @@ For the next minute, the ground in the cylinder's area is covered in lava. A cre
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 You amplify the fears of a creature you can see within range to expose its weaknesses. The target must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the end of your next turn. While [Frightened](conditions.md#frightened) in this way, the creature has disadvantage on CON Saves.
 - **Classes**: Bard, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Legend Lore
 *Level 5 Divination*
@@ -5813,7 +5813,7 @@ Covering the object with something opaque blocks the light. The spell ends if yo
 - **Duration**: Instantaneous
 Requires language proficiency in DrowYou learn the distance and direction of the nearest source of Bright Light within 1,0 *(0m)*.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lightning Arrow
 *Level 3 Transmutation*
@@ -5847,7 +5847,7 @@ A stroke of lightning forming a undefined, undefined Line blasts out from you in
 A crackling ball of lightning kindles into existence at a point you can see, then rapidly expands. Each creature in a radius 4 *(6m)* sphere centered on that point must make a DEX Save. A target takes 8d6 Lightning damage on a failed save, or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the radius increases by 1 *(1.5m)* for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lightning Cage
 *Level 6 Evocation*
@@ -5860,7 +5860,7 @@ A creature that is in the wall's space when it appears, that enters the wall's s
 On a failure, a creature takes 8d6 Lightning damage and is pushed up to 4 *(6m)* to a side of your choice, or takes half as much damage on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Lightning damage increases by 2d6 for each slot level above 6.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lightning Lure
 *Evocation Cantrip*
@@ -5887,7 +5887,7 @@ The creature takes 1d10 Fire damage (before vulnerability is applied) whenever i
 This spell's effects last until cured by Greater Restoration or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the duration becomes 1 minute (concentration). On each of your turns until the spell ends, you can use your bonus action to force the target to repeat the Save, applying another effect of your choice to the target on a failure.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Litany of Flesh Devoured
 *Level 4 Enchantment*
@@ -5898,7 +5898,7 @@ This spell's effects last until cured by Greater Restoration or similar magic.
 You begin a dread chant of torment that heightens sensations of stress and pain to unbearable levels. Each creature of your choice within 6 *(9m)* of you that can hear it must make a CHA  Save.
 On a failed save, the next time that creature takes damage before the end of your next turn, it takes the same amount of Psychic damage. A creature that fails this save by 5 or more takes a point of Exhaustion, additionally.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Litany of Forsaken Vows
 *Level 3 Enchantment*
@@ -5909,7 +5909,7 @@ On a failed save, the next time that creature takes damage before the end of you
 You begin a wretched chant that corrupts a mortal's connection to the divine. Each humanoid creature of your choice within 6 *(9m)* of you that can hear it must succeed on a CHA  Save or be cursed for the next minute.
 Whenever a creature cursed in this way receives magical healing, it gains the same amount of Temporary Hit Points. While it has any of these Temporary Hit Points, the creature becomes hostile to all living creatures.
 - **Classes**: Bard, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Litany of Malice Unyielding
 *Level 2 Necromancy*
@@ -5920,7 +5920,7 @@ Whenever a creature cursed in this way receives magical healing, it gains the sa
 You chant forth a stream of infernal invectives, choosing an intact corpse or an [Unconscious](conditions.md#unconscious) creature you can see within range. The target rises up under your control, moves up to its speed and makes a melee attack, then returns to its previous state.
 **Using a Higher-Level Spell Slot.** You can target one additional creature or corpse for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Living Exorcism
 *Level 5 Enchantment*
@@ -5933,7 +5933,7 @@ While disembodied, a creature's spirit gains a fly speed equal to its movement s
 The creature's body counts as [Unconscious](conditions.md#unconscious) while emptied of spirits. A body not inhabited by its native spirit can be Possessed by any disembodied spirit within 1 *(1.5m)* of it as an action, rising and acting under that spirit's control.
 If the body is already Possessed, a disembodied spirit in the body's space may attempt to expel and replace the possessing spirit as an action with a contested CHA  check.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Locate Animals or Plants
 *Level 2 Divination (ritual)*
@@ -5978,7 +5978,7 @@ This spell can't locate an object if any thickness of lead blocks a direct path 
 You generate an irresistibly attractive force between two creatures you can see within range. At the end of each affected creature's turn, it must succeed on a STR Save or be dragged up to 6 *(9m)* directly toward the other affected creature.
 Whenever one affected creature enters a space within 1 *(1.5m)* of the other for the first time on a turn, each of them takes 3d6 Bludgeoning damage.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Lolth's Favor
 *Level 3 Conjuration*
@@ -5990,7 +5990,7 @@ You bless a willing creature or one summoned by you with the undivided attention
 If the target is a drow, shunned, or spiderkind creature, you may cast this spell with a casting time of 1 bonus action.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, it may additionally target the corpse of any friendly creature that died in the last minute.
 - **Classes**: Cleric, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Longstrider
 *Level 1 Transmutation*
@@ -6025,7 +6025,7 @@ Whispering darkness boils forth in a radius 4 *(6m)* sphere from a point you can
 A creature other than you that starts its turn in the area must succeed on a WIS Save or take 6d6 Psychic damage and be [Frightened](conditions.md#frightened) until the beginning of its next turn.
 A creature that fails this Save by 5 or more falls [prone](conditions.md#prone), additionally.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Maelstrom
 *Level 5 Evocation*
@@ -6159,7 +6159,7 @@ You attempt to bleed away a creature's reserves of magic, forcing it to make a C
 A creature that can't do so loses no spell slots on a failed Save, and is instead [Dazed](conditions.md#dazed) until the end of its next turn on a failure.
 Design Note: Spellcasters Without Spell Slots. At DM discretion, a spellcasting monster that does not use spell slots affected by this ability may suffer some other effect, such as temporarily losing the ability to cast its most powerful spell, or having one or more uses of a limited magical ability depleted.
 - **Classes**: Artificer, Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Manifest Godmaw
 *Level 3 Conjuration*
@@ -6172,7 +6172,7 @@ On a failure, the creature takes 3d6 Piercing damage and is [Restrained](conditi
 The escape DC for this restraint is equal to your spell save DC.
 **Using a Higher-Level Spell Slot.** The size of the Emanation increases by 1 *(1.5m)* for every slot level above 3.
 - **Classes**: Cleric, Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Manifest Law
 *Level 4 Abjuration*
@@ -6185,7 +6185,7 @@ On a failure, you can choose a spell level. You learn each spell of that level t
 The target loses the ability to cast that spell for the next minute.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 24 hours.
 - **Classes**: Artificer, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mass Cure Wounds
 *Level 5 Abjuration*
@@ -6255,7 +6255,7 @@ You suggest a course of activity—described in no more than 25 words—to twelv
 You furrow the weave, disrupting magic in a undefined, undefined Line within range.
 Each spell effect in the area of Level 7 or below ends. Each other magical item or effect in the area has its effects suppressed until the end of your next turn.
 - **Classes**: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Maximilian's Earthen Grasp
 *Level 2 Transmutation*
@@ -6326,7 +6326,7 @@ Requires proficiency in Thieves' Cant.
 You delve into the mind of a willing creature you touch, allowing it to seal away a portion of its thoughts and memories, and to specify a condition under which they will be unsealed.
 This effect ends when the specified condition is met, or when cured by Greater Restoration cast at or above this spell's level.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mending
 *Transmutation Cantrip*
@@ -6358,7 +6358,7 @@ You attempt to bind a creature within an illusory cell that only it perceives. O
 You attempt to turn a creature's mind against it. One creature you can see within range must make an INT Save. A creature takes 8d6 Psychic damage on a failed save, or half as much damage on a successful one.
 A creature that fails this save by 5 or more additionally has its movement controlled by you on its following turn. The creature can take its action before or after moving.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Message
 *Transmutation Cantrip*
@@ -6441,7 +6441,7 @@ A creature that fails this Save by 5 or more must answer any question asked of i
 The [Frightened](conditions.md#frightened) creature repeats this Save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for every slot level above 3.
 - **Classes**: Bard, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mindwrack Binding
 *Level 8 Enchantment*
@@ -6452,7 +6452,7 @@ The [Frightened](conditions.md#frightened) creature repeats this Save at the end
 You send a pulse of terrible mental static that briefly overwhelms the faculties of nearby creatures. Each creature of your choice within 3 *(4.5m)* of you must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the radius increases by 3 *(4.5m)* for each slot level above 7.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mind's Guise
 *Level 5 Illusion (ritual)*
@@ -6465,7 +6465,7 @@ You imagine a persona to occupy the outer reaches of your mind, warding against 
 A creature making multiple attempts to read your mind encounters the same result; it can't repeat this Save until you cast the spell again.
 This spell does not allow you to detect when creatures are attempting to read your mind.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Minor Illusion
 *Illusion Cantrip*
@@ -6511,7 +6511,7 @@ A creature is unaffected by this spell if it is [Blinded](conditions.md#blinded)
 - **Duration**: Instantaneous
 You attempt to dodge a harmful spell by magically switching places with a willing creature within range, or with an illusion within range you are concentrating on. You and your target teleport to exchange places with one another. If you were the target of the triggering spell, your target becomes the triggering spell's new target.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mislead
 *Level 5 Illusion*
@@ -6573,7 +6573,7 @@ You touch a creature, attempting to smear a single moment in its life across tim
 The target must make a CHA  Save. On a failure, on each of the affected creature's turns for the next minute it must take the same action it took on its previous turn, expending no resources to do so.
 The creature repeats this Save at the end of each of its turns, ending the effect on a success or teleporting to the space it began its turn on a failure.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Moonbeam
 *Level 2 Evocation*
@@ -6652,7 +6652,7 @@ On your later turns, you can take a Bonus Action to move the sword up to 6 *(9m)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 For the duration, whenever a creature casts a spell that affects a spherical area centered on a point you can see within range, you can increase or decrease that Sphere's radius by 1d4 x 1 *(1.5m)*.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Arcing Fingertips
 *Level 5 Evocation*
@@ -6664,7 +6664,7 @@ A bolt of lightning leaps from each of your splayed fingertips. Up to ten creatu
 A creature takes 8d6 Lightning damage on a failed save, or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, you can instead have it target up to 5 creatures each in twoa length 18 *(27m)* cones extending from you.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Celerity
 *Level 4 Transmutation*
@@ -6674,7 +6674,7 @@ A creature takes 8d6 Lightning damage on a failed save, or half as much damage o
 - **Duration**: 8 hours
 For the duration, spells you cast with a casting time of 1 action and a range of self can instead be cast with a casting time of 1 bonus action.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Cogitation
 *Level 7 Enchantment*
@@ -6686,7 +6686,7 @@ You delve into your mind palace, instantly poring through memories of study and 
 You can immediately replace a number of your prepared spells equal to your INT modifier.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, you can use your action to cast a spell this turn as if you had not cast a spell as a bonus action this turn.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Defense Against Oozes and Slimes
 *Level 1 Abjuration*
@@ -6697,7 +6697,7 @@ You can immediately replace a number of your prepared spells equal to your INT m
 Until the spell ends, a protective barrier envelops you, protecting you against amorphous creatures.
 Whenever an ooze deals any Acid damage to you, that damage is reduced by 5. While you are engulfed or swallowed by an ooze, it is [Poisoned](conditions.md#poisoned).
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Defense Against Silence
 *Level 2 Abjuration*
@@ -6707,7 +6707,7 @@ Whenever an ooze deals any Acid damage to you, that damage is reduced by 5. Whil
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 As part of the casting of this spell, you smash the piece of pottery used as a material component of this spell, creating a diameter 1 *(1.5m)* zone of magical non-silence in a space you can see within range. For the duration, the area can't be affected by any form of magical silence.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Disjunction
 *Level 9 Enchantment*
@@ -6720,7 +6720,7 @@ Each spell that is not being concentrated on in the area ends. Each summoned cre
 If a spell effect in the area is being concentrated on, the creature concentrating on it must make a CHA  Save. On a failed Save, the spell ends.
 A creature that is attuned to one or more magic items in the area must make a CHA  Save for each of them. On a failed save, the item is destroyed.
 - **Classes**: Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Encompassing Vision
 *Level 3 Divination*
@@ -6730,7 +6730,7 @@ A creature that is attuned to one or more magic items in the area must make a CH
 - **Duration**: 1 hour
 You gain an enhanced awareness of your surroundings as your vision stretches in all directions. For the duration, you have advantage on WIS (Perception) checks and Initiative rolls.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Faithful Phantoms
 *Level 5 Conjuration*
@@ -6743,7 +6743,7 @@ The phantoms are friendly to you and your companions for the duration, and act o
 They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to the phantoms, they defend themselves from hostile creatures but otherwise take no actions.
 When the spell ends, the phantoms immediately disappear.
 - **Classes**: Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Force Missiles
 *Level 4 Evocation*
@@ -6755,7 +6755,7 @@ A brilliant globe of magical energy darts from your outstretched hand, unerringl
 The globe deals 2d10 Force damage to its target, and half as much Force damage to each other creature within 1 *(1.5m)* of it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the spell creates one additional globe for each slot above 4.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Ingenious Aegis
 *Level 2 Abjuration*
@@ -6766,7 +6766,7 @@ The globe deals 2d10 Force damage to its target, and half as much Force damage t
 A protective magical force surrounds you, shielding you from the dim-witted.
 For the duration, you add your INT score to your AC against any attack made by a creature with a lower INT score than you.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Instant Opposition
 *Level 7 Abjuration*
@@ -6778,7 +6778,7 @@ You attempt to neutralize a spell as it is cast, meeting it with a tailored blen
 The spell caster must succeed on an INT Save or have its spell fail.
 If the target fails this Save by 5 or more, you can instead have the spell rebound upon its caster. If the spell targets one or more creatures, it instead targets only the spell caster. If the spell targets an area, it instead targets an area centered on the spell caster.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Invisibility to Exotic Ancestries
 *Level 3 Illusion*
@@ -6788,7 +6788,7 @@ If the target fails this Save by 5 or more, you can instead have the spell rebou
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You and anything you are wearing or carrying become [invisible](conditions.md#invisible) to humanoid races other than humans, non-drow elves, and dwarves.
 - **Classes**: Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Involuntary Wizardry
 *Level 5 Enchantment*
@@ -6799,7 +6799,7 @@ You and anything you are wearing or carrying become [invisible](conditions.md#in
 You call forth a magical spasm from a creature you can see within range, forcing it to succeed on a CHA  Save or immediately use its highest level unexpended spell slot to cast Magic Missile at that level.
 The missiles produced by it are divided evenly between other creatures within 6 *(9m)* of the target, with any extras (those that cannot be divided evenly between creatures within 6 *(9m)* of the target) hitting the creature that produced them.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Lucubration
 *Level 6 Enchantment*
@@ -6809,7 +6809,7 @@ The missiles produced by it are divided evenly between other creatures within 6 
 - **Duration**: Instantaneous
 You recall a spell of Level 5 or below with a casting time greater than 1 action that you cast in the last 8 hours, casting it at its lowest possible level as part of this spell.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Protection From Armored Assailants
 *Level 1 Abjuration*
@@ -6820,7 +6820,7 @@ You recall a spell of Level 5 or below with a casting time greater than 1 action
 Until the spell ends, one willing creature you touch is protected against creatures that are wearing metal armor.
 Creatures wearing metal armor have disadvantage on attack rolls against the target, and the target can't be [grappled](conditions.md#grappled) or forced to move by them.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Protection From Avians
 *Level 1 Abjuration*
@@ -6831,7 +6831,7 @@ Creatures wearing metal armor have disadvantage on attack rolls against the targ
 Until the spell ends, one willing creature you touch is protected against flying creatures.
 Creatures with a fly speed have disadvantage on attack rolls against the target and cannot gain any benefit from descending toward the target.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Protection From Insects and Arachnids
 *Level 1 Abjuration*
@@ -6842,7 +6842,7 @@ Creatures with a fly speed have disadvantage on attack rolls against the target 
 Until the spell ends, one willing creature you touch is protected against terrestrial arthropods, such as insects and arachnids.
 Creatures with exoskeletons have disadvantage on attack rolls against the target and the target has advantage on Saves against venom injected by them.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Protection From Lycanthropes
 *Level 1 Abjuration*
@@ -6853,7 +6853,7 @@ Creatures with exoskeletons have disadvantage on attack rolls against the target
 Until the spell ends, one willing creature you touch is protected against lycanthropes.
 Creatures afflicted with lycanthropy have disadvantage on attack rolls against the target and the target cannot contract any form of lycanthropy.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Protection From Reptiles and Amphibians
 *Level 1 Abjuration*
@@ -6864,7 +6864,7 @@ Creatures afflicted with lycanthropy have disadvantage on attack rolls against t
 Until the spell ends, one willing creature you touch is protected against reptiles and amphibians.
 Reptiles and amphibians have disadvantage on attack rolls against the target and the target has advantage on Saves against contact poisons produced by them.
 - **Classes**: Artificer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mordenkainen's Reversed Advance
 *Level 3 Abjuration*
@@ -6874,7 +6874,7 @@ Reptiles and amphibians have disadvantage on attack rolls against the target and
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Until the spell ends, a creature that moves within 1 *(1.5m)* of you for the first time on a turn must succeed on a STR Save or be pushed up to 6 *(9m)* directly away from you.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Motivational Speech
 *Level 3 Enchantment*
@@ -6911,7 +6911,7 @@ On each of your turns for the duration, you can use your bonus action to choose 
 The first creature is levitated off the ground and revolves up to 6 *(9m)* clockwise around the second, maintaining the same distance from it.
 An unwilling creature levitated in this way can make a CON Save, resisting the effect on a success.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Mycelia Snare
 *Level 1 Conjuration*
@@ -6922,7 +6922,7 @@ An unwilling creature levitated in this way can make a CON Save, resisting the e
 As a reaction when a creature you can see within range ends its turn within 3 *(4.5m)* of an area affected by the Sprouting Doom spell, you extend a grasping tendril of pale mycelia from the area towards the creature, forcing it to make a STR Save.
 On a failure, the target falls [prone](conditions.md#prone) and is dragged up to 3 *(4.5m)* towards a point of your choice within the affected area.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells N
 ### Nail to the Sky
@@ -6934,7 +6934,7 @@ On a failure, the target falls [prone](conditions.md#prone) and is dragged up to
 You attempt to permanently launch a creature you can see within range into the outer darkness. The target must make a CHA  Save or have the effect that gravity has upon it reversed.
 If you maintain concentration for the spell's full duration, the effect remains until dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Nathair's Mischief
 *Level 2 Illusion*
@@ -6959,7 +6959,7 @@ Mischievous Surged4Effect1The smell of apple pie fills the air, and each creatur
 As a reaction when a creature you can see within 6 *(9m)* fails a CON Save by 5 or more, you corrupt the creature's wounds with foul vapors.
 The creature is unaffected by the first source of healing it receives before the end of its next turn.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Necropulse Salvo
 *Level 9 Necromancy*
@@ -6971,7 +6971,7 @@ You rend the veil at three points you can see within range, causing each to spil
 For each of these areas a creature is in, it must make a DEX Save. On a failed save, a creature takes 10d6 Necrotic damage and is knocked [prone](conditions.md#prone).
 On a successful Save, a creature takes half as much damage and is not knocked [prone](conditions.md#prone).
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Negative Energy Flood
 *Level 5 Necromancy*
@@ -6995,7 +6995,7 @@ Each creature in the area must make a CON Saving Throw. On a failure, a creature
 A creature that fails this Save by 5 or more additionally is [Paralyzed](conditions.md#paralyzed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** The Poison damage increases by 2d6 for every slot level above 4.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Night's Black Veil
 *Level 6 Enchantment*
@@ -7009,7 +7009,7 @@ A creature that fails this Save by 5 or more remains [Unconscious](conditions.md
 An [Unconscious](conditions.md#unconscious) creature wakes if it takes any damage, or if a creature uses an action to wake it.
 **Using a Higher-Level Spell Slot.** The range of the Emanation increases by 2 *(3m)* for every slot level above 6.
 - **Classes**: Bard, Cleric, Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Night's Caress
 *Level 3 Enchantment*
@@ -7020,7 +7020,7 @@ An [Unconscious](conditions.md#unconscious) creature wakes if it takes any damag
 You gently touch a creature and its mind isovercome with irresistible torpor. Make a meleespell attack. On a hit, the target falls asleep forthe next minute.
 A sleeping creature wakes early if a creature takesan action to shake it awake, or if it takes any damage.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Nondetection
 *Level 3 Abjuration*
@@ -7041,7 +7041,7 @@ For the duration, you hide a target that you touch from Divination spells. The t
 You blow a retaliatory stream of icy steam over a metal weapon as a reaction when you are hit with it, chilling it and forcing the attacker to succeed on a CON Save or drop its weapon.
 If the attacker picks up the weapon this turn, up to one creature may use its reaction to make an opportunity attack against it.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Nystul's Magic Aura
 *Level 2 Illusion*
@@ -7065,7 +7065,7 @@ You bind a willing creature to an oath it made in the last minute, cursing it.
 The Cursed creature cannot voluntarily take positive actions directly contrary to that oath, and you know if this curse ends for it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, the cursed creature additionally cannot be magically compelled to take such actions.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Oceanic Assault
 *Level 7 Transmutation*
@@ -7078,7 +7078,7 @@ On each of your turns for the next minute, you may repeat this action, creating 
 When the spell ends, each Water Weird created by it de-animates, becoming inert water.
 While you have three or more Water Weirds created by this spell active, you have disadvantage on Saves made to maintain concentration.
 - **Classes**: Cleric, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### On Wings of Black
 *Level 4 Illusion*
@@ -7089,7 +7089,7 @@ While you have three or more Water Weirds created by this spell active, you have
 A mantle of shadow spreads out behind you, granting you a flying speed of 12 *(18m)* while you are in Dim Light or Darkness for the duration. When you are illuminated by Bright Light or the spell ends, you immediately fall if you are still aloft.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the duration becomes 8 hours.
 - **Classes**: Cleric, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ooze Deluge
 *Level 5 Conjuration*
@@ -7101,7 +7101,7 @@ Flesh-melting ooze cascades down in a radius 4 *(6m)* sphere, height 20 *(30m)* 
 Each creature in the area must succeed on a CON Save or take 8d8 Acid damage and be knocked [prone](conditions.md#prone), or take half as much damage and not be knocked [prone](conditions.md#prone) on a success.
 A creature that is flying makes this Save with disadvantage.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Open Hellmouth
 *Level 7 Conjuration*
@@ -7114,7 +7114,7 @@ When you cast this spell, and at the beginning of each of your turns, you can su
 A creature summoned in this way is banished back to Baator when it is reduced to 0 Hit Points, when the portal is destroyed, or when the spell ends.
 **Using a Higher-Level Spell Slot.** The portal's Hit Points and Hit Point maximum increase by 50 for each spell slot level above 7.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Osseous Bonds
 *Level 2 Transmutation*
@@ -7126,7 +7126,7 @@ You touch a [prone](conditions.md#prone) creature and a layer of bone begins to 
 While the creature has any of these Temporary Hit Points, it is [Blinded](conditions.md#blinded), [Restrained](conditions.md#restrained), [Choking](conditions.md#choking), and its AC becomes 20.
 **Using a Higher-Level Spell Slot.** The Temporary Hit Points increase by 5 for each spell slot level above 2.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ossuary Call
 *Level 4 Necromancy*
@@ -7136,7 +7136,7 @@ While the creature has any of these Temporary Hit Points, it is [Blinded](condit
 - **Duration**: 8 hours
 You project an aura of magical STR that bolsters your skeletal horde. Friendly skeletons within 6 *(9m)* of you may use your spell attack bonus in place of their melee attack bonus, and their weapon damage becomes magical.
 - **Classes**: Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Otiluke's Freezing Sphere
 *Level 6 Evocation*
@@ -7184,7 +7184,7 @@ On a failed save, the target is [Charmed](conditions.md#charmed) for the duratio
 - **Duration**: Instantaneous
 When you or one of your allies would take damage, you can choose a willing ally within range to take that damage instead.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Painstave
 *Illusion Cantrip*
@@ -7196,7 +7196,7 @@ You charge the weapon used in this spell's casting to augment the pain inflicted
 Damage dealt by this attack can't reduce the target below 1 Hit Point.
 Cantrip Upgrade. The Psychic damage increases by ld8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Bard, Cleric, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Pallid Rooting
 *Level 4 Conjuration*
@@ -7208,7 +7208,7 @@ You infest a creature you can see within range with fast-growing spores, causing
 A creature [Poisoned](conditions.md#poisoned) in this way repeats this Save at the end of each of its turns, ending the effect on a success or taking 6d6 Piercing damage and being [restrained](conditions.md#restrained) until the end of its next turn on a failure. The escape DC is equal to your save DC.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the damage increases by 2d6 for each slot level above 4.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Panickfog
 *Level 4 Conjuration*
@@ -7220,7 +7220,7 @@ A dense, psychically charged fog descends in a radius 6 *(9m)* sphere centered o
 A creature hostile to you that starts its turn in the fog, or enters it for the first time on a turn, must succeed on a WIS Save or be [Frightened](conditions.md#frightened) of you until the beginning of its next turn.
 A creature that fails this Save by 5 or more uses all of its remaining movement to move in a random direction.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Pass without Trace
 *Level 2 Abjuration*
@@ -7255,7 +7255,7 @@ A stilling glow begins to emanate from you in a radius 6 *(9m)* sphere for the n
 A creature that starts its turn in the area or enters it for the first time on a turn must make a WIS Save.
 On a failure, the creature is unable to take hostile actions until the beginning of its next turn.
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Penetrating Gaze
 *Level 3 Divination*
@@ -7267,7 +7267,7 @@ You tear through the mind of a creature you can see within range, searching for 
 The target must make an INT Save. On a failure, the target takes 5d8 Psychic damage you learn which Saves it is proficient in.
 On a successful Save, the creature takes half as much damage and you do not learn its Save proficiencies.
 - **Classes**: Bard, Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Phantasmal Force
 *Level 2 Illusion*
@@ -7316,7 +7316,7 @@ On a hit, the target takes 6d6 Necrotic damage.
 If this attack hits, you may have the plague chant leap to another creature within 3 *(4.5m)* of the previous target that you have not yet targeted with this spell this turn. Make a new attack roll against the new target, which could cause this ability to leap again.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, each attack deals an additional 1d6 Necrotic damage for each slot level above 4.
 - **Classes**: Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Planar Ally
 *Level 6 Conjuration*
@@ -7378,7 +7378,7 @@ You anoint an edged weapon or piece of ammunition you touch with a drop of your 
 When you cast this spell, you lose one hit point, then may choose to lose one unexpended hit die. If you do, the spell doesn't require Concentration.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional weapon or piece of ammunition in range for each two slot levels above 1.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Poison Spray
 *Necromancy Cantrip*
@@ -7400,7 +7400,7 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 You twist the poison in a creature's veins to shackle its mind. Choose a target that is [Poisoned](conditions.md#poisoned). The [Poisoned](conditions.md#poisoned) condition ends for the target and the target is [Charmed](conditions.md#charmed) by you for the duration.
 The target must then make a WIS Saving Throw. On a failure, the target is additionally Dominated by you for the next minute. The Dominated creature can repeat this Save at the end of each of its turns, ending the Dominated condition on a success.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Polar Burst
 *Level 2 Evocation*
@@ -7412,7 +7412,7 @@ A blast of icy wind rushes out from you in each direction, driving your foes awa
 Each creature within 2 *(3m)* of you must succeed on a STR Save or take 3d8 Cold damage and be pushed up to 2 *(3m)* away.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the spell's radius and the distance a creature is pushed on a failed Save each increase by 1 *(1.5m)* for each slot level above 2
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Polymorph
 *Level 4 Transmutation*
@@ -7437,7 +7437,7 @@ You speak a word of power that wraps one creature you can see within range in an
 If the target has 150 Hit Points or fewer and it needs to breathe air, it gains the [Choking](conditions.md#choking) and Suffocating conditions for the duration. Otherwise, the spell has no effect.
 The target makes an INT Saving Throw at the end of each of its turns, ending this effect on a success.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Power Word Fortify
 *Level 7 Enchantment*
@@ -7469,7 +7469,7 @@ Requires proficiency in Thieves' Cant.
 You utter a word of power that can compel one creature you can see within range to drop [unconscious](conditions.md#unconscious). If the creature you choose has 10 Hit Points or fewer, it is reduced to 0 Hit Points. Otherwise, the spell has no effect.
 If the creature would make death Saves, it does so as normal.
 - **Classes**: Bard, Druid, Ranger, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Power Word Kill
 *Level 9 Enchantment*
@@ -7513,7 +7513,7 @@ The [Stunned](conditions.md#stunned) target makes a CON Save at the end of each 
 You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and is [Dazed](conditions.md#dazed) until the end of its next turn. This damage can't reduce a creature below 1 Hit Point.
 **Using a Higher-Level Spell Slot.** The Psychic damage increases by 10 for every slot level above 5.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Prayer of Healing
 *Level 2 Abjuration*
@@ -7535,7 +7535,7 @@ Up to five creatures of your choice who remain within range for the spell's enti
 When you are hit with an attack, you can make an INT or WIS Save with DC equal to the attack roll.
 On a success, you can move up to 1 *(1.5m)* and the attack misses.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Prescient Directive
 *Level 3 Divination*
@@ -7546,7 +7546,7 @@ On a success, you can move up to 1 *(1.5m)* and the attack misses.
 You magically foresee an approaching window of opportunity, calling out and directing nearby allies to exploit it.
 Each humanoid creature of your choice within range that can hear you gains advantage on the first attack or Save it makes before the beginning of the your next turn.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Prestidigitation
 *Transmutation Cantrip*
@@ -7586,7 +7586,7 @@ Each creature within 4 *(6m)* of you takes 5d8 Thunder damage and is pushed up t
 A creature that is immune to the [Frightened](conditions.md#frightened) condition additionally loses that immunity for the next hour on a failed Save.
 A [Frightened](conditions.md#frightened) creature repeats this Save at the end of each of its turns, ending the condition on a success.
 - **Classes**: Bard, Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Primordial Ward
 *Level 6 Abjuration*
@@ -7646,7 +7646,7 @@ Prismatic LayersOrderEffects1Red. Failed Save: 12d6 Fire damage. Successful Save
 Requires a noble title.
 You call out a command that echoes with the STR of ages. Each creature of your choice within range must make a WIS Save. On a failure, the creature's initiative is reduced by 5, to a minimum of 0.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Produce Flame
 *Conjuration Cantrip*
@@ -7669,7 +7669,7 @@ Until the spell ends, you can take a Magic action to hurl fire at a creature or 
 You attempt to curse a creature you can see within range with impending misfortune. The creature must succeed on a CHA  Save or be Cursed.
 Whenever a creature you have Cursed in this way that you can see succeeds on a Save, you can end the curse on that creature and cause the creature to fail instead.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Programmed Illusion
 *Level 6 Illusion*
@@ -7736,7 +7736,7 @@ You channel a lance of psychic energy at a creature within range of you or of a 
 On a hit, the target takes 8d6 Psychic damage and is pushed up to 2 *(3m)* away.
 You may have this attack originate from a creature within range that is [charmed](conditions.md#charmed) by you, using the [charmed](conditions.md#charmed) creature's senses.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Psychic Rebound
 *Level 3 Illusion*
@@ -7747,7 +7747,7 @@ You may have this attack originate from a creature within range that is [charmed
 As a reaction when you are hit with an attack, you psychically link with your attacker, forcing them to experience your pain.
 The attacker must succeed on a INT Save or take an amount of Psychic damage equal to the damage you took from the triggering attack.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Psychic Scream
 *Level 9 Enchantment*
@@ -7773,7 +7773,7 @@ On a successful save, the target takes half as much damage, then each condition 
 The conditions ended can be [Bleeding](conditions.md#bleeding), [Blinded](conditions.md#blinded), [Burning](conditions.md#burning), [Charmed](conditions.md#charmed), [Choking](conditions.md#choking), confused, cursed, [Dazed](conditions.md#dazed), [Deafened](conditions.md#deafened), diseased, dominated, [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), possessed, [Stunned](conditions.md#stunned), or turned.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the additional Necrotic damage per condition increases by 1d8 damage for each slot level beyond 6.
 - **Classes**: Cleric, Druid, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Purify Food and Drink
 *Level 1 Transmutation (ritual)*
@@ -7795,7 +7795,7 @@ You touch a living creature, infusing its flesh with the seeds of decay.
 If the target drops to 0 Hit Points as a result of taking damage before the spell ends, the target dies and dissolves into a pool of black sludge.
 An unwilling creature can make a CON Save, resisting the effect on a success.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Pyrotechnics
 *Level 2 Transmutation*
@@ -7817,7 +7817,7 @@ Choose an area of nonmagical flame that you can see and that fits within a size 
 Requires proficiency in Thieves' Cant.
 You suppress one spell of Level 7 or below affecting a space or creature you can see within range, negating its effects until the beginning of your next turn.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Quicken Heart
 *Level 1 Enchantment*
@@ -7830,7 +7830,7 @@ On a failure, the creature is [Frightened](conditions.md#frightened) until the e
 On a successful Save, the target can use its reaction to make a melee attack.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you can target one additional target for each slot level above 1.
 - **Classes**: Druid, Ranger, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells R
 ### Rain of Fire
@@ -7844,7 +7844,7 @@ Each flammable object in the area of one or more explosions ignites, and each cr
 On a failed Save, a creature takes 3d6 Fire damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3th level or above, the spell's Fire damage increases by 1d6 for each two slot levels above 2.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Raise Dead
 *Level 5 Necromancy*
@@ -7869,7 +7869,7 @@ You rais an earthen mound from an area of loose earth you can see within range.
 The mound is 1 *(1.5m)* high, 2 *(3m)* wide, and up to 6 *(9m)* long. The area becomes difficult terrain and provides half cover against ranged attacks.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you can create an additional mound within range for each slot level above 2.
 - **Classes**: Artificer, Cleric, Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Raise Spire
 *Level 4 Transmutation*
@@ -7880,7 +7880,7 @@ The mound is 1 *(1.5m)* high, 2 *(3m)* wide, and up to 6 *(9m)* long. The area b
 A jagged spire of stone bursts from the earth in a spray of debris in a height 6 *(9m)*,a radius 1 *(1.5m)* sphere Column you can see within range. Each creature in the area is pushed to the nearest unoccupied space and must make a DEX Saving Throw. On a Failure, a creature takes 8d6 Slashing damage. On a Failure by 5 or More, the target is additionally launched up to 6 *(9m)* into the air.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for every slot level above 4.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Raise the Horde
 *Level 5 Necromancy*
@@ -7892,7 +7892,7 @@ Up to 5 corpses within 12 *(18m)* of you that have been dead for no longer than 
 The ghouls remain animate for 1 hour, after which time they collapse and die.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, it may animate 5 additional Horde Ghouls for each slot level above 5. If you cast this spell using a spell slot of Level 9, it may animate any number of Horde Ghouls from corpses within range.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Rary's Telepathic Bond
 *Level 5 Divination (ritual)*
@@ -7915,7 +7915,7 @@ You toss the rat used as the material component in this spell to an unoccupied s
 In combat, the rat-king shares your initiative count, but takes its turn immediately after yours.
 When the spell ends or the rat-king drops to 0 Hit Points, it reverts to its normal rat form and any Waterdavian Smallrats created with its Thrashing Mass reaction disappear. Any additional damage dealt beyond the rat-king's hit point total does not carry over.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Raulothim's Psychic Lance
 *Level 4 Enchantment*
@@ -7972,7 +7972,7 @@ A field of frozen blades bursts forth in a length 6 *(9m)* cone extending from a
 On a success, a creature takes half as much damage.
 **Using a Higher-Level Spell Slot.** The Cold damage increases by 1d8 and the Slashing damage increases by 1d6 for each spell slot level above 6.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Reanimate
 *Level 5 Necromancy*
@@ -7983,7 +7983,7 @@ On a success, a creature takes half as much damage.
 You animate up to five humanoid corpses within range that you can see that rise as Zombie Rotters that act on your turn and follow your mental commands.
 The zombies remain under your control for 1 minute, after which they become hostile to all living creatures.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Reave Spirit
 *Level 3 Enchantment*
@@ -7995,7 +7995,7 @@ Wisps of shadow rush forth at your command, tearing through a creature within ra
 On a hit, the target takes 6d8 Psychic damage. Then, if the target is attuned to one or more magic items, it must succeed on a CHA  Save or lose attunement to one such item of its choice.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the Psychic damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Reclamation of Dust
 *Level 8 Transmutation*
@@ -8007,7 +8007,7 @@ Rivulets of dust swirl through the air in a radius 4 *(6m)* emanation from you. 
 Then, each plant, corpse, and organic object in the area that isn't magical disintegrates.
 **Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, the damage is maximized, instead of rolling.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Regenerate
 *Level 7 Transmutation*
@@ -8049,7 +8049,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 The controller of one spell or magical effect you can see within 12 *(18m)* must succeed on a CON Save or have the spell or effect end.
 If the magical effect was produced by an item, the item may not be activated again until the end of your next turn.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Render Judgement
 *Level 3 Evocation*
@@ -8061,7 +8061,7 @@ You call down a flare of scouring light from the sky upon a creature you can see
 On a failed save, the target takes 3d8 Radiant damage and is Cursed until cured by Remove Curse or similar magic.
 Whenever the cursed creature takes any damage, it takes an additional 1d8 Radiant damage if it reduced a creature to 0 Hit Points in the last hour.
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Render to the Flame
 *Level 3 Evocation*
@@ -8074,7 +8074,7 @@ Each target must succeed on a DEX Save or begin [burning](conditions.md#burning)
 At the beginning of each of its turns, the target takes 2d10 Fire damage. While [burning](conditions.md#burning) in this way, attacks made against the target have advantage.
 These flames are extinguished if your concentration ends, or if a creature uses its action to extinguish them for a target.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Repulse Light
 *Level 3 Evocation*
@@ -8086,7 +8086,7 @@ You raise a hand and a torrent of shadows streams forth in a length 6 *(9m)* con
 An affected nonmagical light source or magical light produced by a spell of Level 3 or below is extinguished if it can't be pushed due to being anchored in place.
 A creature carrying an affected light source can make a STR Save, resisting the spell on a success.
 - **Classes**: Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Resistance
 *Abjuration Cantrip*
@@ -8110,7 +8110,7 @@ The spell also effectively prevents effects such as Speak With Dead, Gentle Repo
 At DM discretion, this spell might increase the likelihood of spontaneous forms of undeath.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the effect lasts until dispelled.
 - **Classes**: Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Resurrection
 *Level 7 Necromancy*
@@ -8134,7 +8134,7 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 Requires a noble title.
 You touch a creature or corpse and feel the echoes of history in its blood, learning the name and titles of its most historically significant direct ancestor.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Reveal Providence
 *Level 5 Divination*
@@ -8148,7 +8148,7 @@ You touch an object and scour it with exploratory magics, reading elements of it
 - You learn the name of the last creature to attune to the object.
 - You learn the direction of the closest object within 200 *(300m)* made by the same craftsman. The spell fails if the object was the target of this spell within the last 10 days.
 - **Classes**: Artificer, Bard, Cleric, Paladin, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Reverse Gravity
 *Level 7 Transmutation*
@@ -8182,7 +8182,7 @@ Each bound creature is dragged with the other when it moves, can move only at ha
 A creature can shatter this bridge as an Action with a successful STR Save or by destroying it (AC 15, 30 HP, Vulnerability to Fire).
 **Using a Higher-Level Spell Slot.** The Hit Points of the ice increase by 15 for each spell slot level above 5.
 - **Classes**: Druid, Ranger, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Rime Sphere
 *Level 5 Conjuration*
@@ -8195,7 +8195,7 @@ The barrier can be damaged and destroyed (AC 10, 100 Hit Points, vulnerability t
 If the barrier has 50 Hit Points or fewer, a Large creature may squeeze through any hole opened in it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the barrier's Hit Points increase by 10 for each slot level above 5.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Rime's Binding Ice
 *Level 2 Evocation*
@@ -8227,7 +8227,7 @@ The space can hold up to eight Medium or smaller creatures. Attacks, spells, and
 - **Duration**: 1 minute
 You kindle the bloodlust of a friendly creature you can see within range. The creature can make a melee weapon attack or attempt to grapple a creature as a Bonus Action on each of its turns, and gains 10 Temporary Hit Points whenever it reduces a creature to 0 Hit Points with a melee weapon attack.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Ruinous Summons
 *Level 5 Conjuration*
@@ -8240,7 +8240,7 @@ The demon acts on its own Initiative under the DM's control, is hostile to all c
 Most demons summoned in this way will attack the nearest creature on each of their turns, and will rampage indiscriminately until destroyed.
 **Using a Higher-Level Spell Slot.** The Challenge Rating of Demons you can summon this way increases by 2 for every slot level above 5.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Rust-Wrought Ruin
 *Level 6 Transmutation*
@@ -8252,7 +8252,7 @@ You disintegrate one nonmagical metal object you can see within range into a flu
 Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Save. On a failure, a target takes 6d6 Slashing damage and begins [Bleeding](conditions.md#bleeding) (2d6).
 **Using a Higher-Level Spell Slot.** The damage increases by 3d6 for each spell slot level above 6.
 - **Classes**: Cleric, Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells S
 ### Sacred Flame
@@ -8276,7 +8276,7 @@ You touch a creature that that does not have all of its Hit Points, flooding its
 If the target is [Bleeding](conditions.md#bleeding), this damage is maximized and the condition ends for it.
 **Using a Higher-Level Spell Slot.** The Necrotic damage increases by 1d10 for every slot level above 3.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sanctuary
 *Level 1 Abjuration*
@@ -8299,7 +8299,7 @@ Requires a noble title.
 You touch the ground and sapphire runes flare out in a radius 24 *(36m)* sphere before fading, encircling each creature of your choice in the area and marking their arms and armor.
 When one or more of these targets rolls initiative in the area, each target in the area can summon any arms and armor in the area that are marked in this way to themselves, instantly donning any armor summoned in this way.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sanguine Cyclone
 *Level 5 Necromancy*
@@ -8312,7 +8312,7 @@ The area is difficult terrain, and a living creature that starts its turn in the
 Whenever a creature loses a hit die in this way, the whirlwind's radius grows by 1 *(1.5m)*, then each creature in its area takes 1d6 Slashing damage.
 **Using a Higher-Level Spell Slot.** If you cast this spell using a spell slot of Level 7 or higher, the Duration is 1 hour. If you use a Level 9 spell slot, the spell lasts until it is dispelled. Using a spell slot of Level 7 or higher grants a Duration that doesn't require Concentration.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sapping Cold
 *Level 2 Evocation*
@@ -8322,7 +8322,7 @@ Whenever a creature loses a hit die in this way, the whirlwind's radius grows by
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range must succeed on a CON Save or be unable to gain advantage on any roll for the next minute.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Scatter
 *Level 6 Conjuration*
@@ -8344,7 +8344,7 @@ You launch a cascade of shimmering orbs in a length 12 *(18m)* cone that detonat
 For each failed Save, a creature takes 3d6 damage of one type of your choice. The chosen type may be acid, cold, fire, lightning, or thunder.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or above, damage suffered on each failed Save increases by 1d6 for each slot level above 5.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Scorching Ray
 *Level 2 Evocation*
@@ -8366,7 +8366,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 A tearing, sand-filled wind whips forth from you in a undefined, undefined Line, forcing each creature in the area to make a CON Saving Throw. On a Failure, a creature takes 10d6 Slashing damage, is pushed up to 2 *(3m)* away and is [Blinded](conditions.md#blinded) until the end of your next turn. On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The line's width increases by 1 *(1.5m)* for every slot level above 5.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Scour Conduit
 *Level 4 Abjuration*
@@ -8378,7 +8378,7 @@ Light flares from your hand to engulf a creature within range, reverberating thr
 On a hit, the target takes 8d6 nonlethal Radiant damage.
 If the target is affected by one or more magical effects such as a contract, curse, spirit possession, or spell controlled by another creature, each controller of such an effect takes the same amount of damage, then can end the effect.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Scouring Radiance
 *Level 3 Abjuration*
@@ -8389,7 +8389,7 @@ If the target is affected by one or more magical effects such as a contract, cur
 You call down a harsh burst of cleansing light on a creature you can see within range. The target must make a DEX Save. On a failure, it takes 2d8 Radiant damage and you can end one spell of level 3 or below affecting it.
 **Using a Higher-Level Spell Slot.** The Radiant damage increases by 2d8 for each spell slot level above 3.
 - **Classes**: Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Screaming Flame
 *Level 1 Evocation*
@@ -8401,7 +8401,7 @@ As a reaction when a creature you can see targets you with a melee attack, you s
 A Dragonborn or Draconic Bloodline Sorcerer that casts this spell may choose for this damage to instead be of the type associated with their draconic ancestry.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may make this reaction when targeted by a ranged or melee attack made by a creature you can see within 12 *(18m)* of you.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Scrying
 *Level 5 Divination*
@@ -8429,7 +8429,7 @@ You touch a creature and mark it with a rune of death. The creature has the Curs
 Whenever the Cursed creature would receive any magical healing, it must make a CHA  Save. On a failure, the creature regains only 1 Hit Point. On a failure by 5 or more, the creature regains no Hit Points.
 On a successful Save, the creature gains the full benefit of the magical healing and the curse ends.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Seal of Condemnation
 *Level 6 Conjuration*
@@ -8441,7 +8441,7 @@ A translucent cyst of smoking flesh burgeons forth to encase a creature you can 
 While [Restrained](conditions.md#restrained) in this way, the creature takes 4d10 Fire damage at the beginning of each of its turns. If the creature dies while [Restrained](conditions.md#restrained) in this way, it is teleported to Avernus, where it returns to life with 1 Hit Point.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d10 for each spell slot level above 6.
 - **Classes**: Cleric, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Searing Smite
 *Level 1 Evocation*
@@ -8526,7 +8526,7 @@ A creature can use its action to make an INT (Investigation) or WIS (Perception)
 When the spell ends, each creature and object in the space is ejected to the nearest unoccupied space and takes 1d10 Force damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the maximum size of the affected segment increases by 1 *(1.5m)* in each direction for each slot level above 5.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shadow of Moil
 *Level 4 Necromancy*
@@ -8548,7 +8548,7 @@ Until the spell ends, you have resistance to radiant damage. In addition, whenev
 You grant your shadow a semblance of life and will, transforming it into a Shadow Puppeteer that acts directly after you on your initiative and follows your mental commands.
 The first time you cast this spell, it does not require concentration, the transformed Shadow is hostile toward you, and it does not follow your commands. If you do not defeat your Shadow unaided, you become unable to cast this spell ever again and can replace it with another spell from your class' spell list.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shadowsink
 *Level 5 Conjuration*
@@ -8560,7 +8560,7 @@ If you are in Dim Light or Darkness, the shadows around you deepen to a pure bla
 When you teleport, each creature within 1 *(1.5m)* of the space you departed must succeed on a CHA  Save or be drawn through this passage behind you, taking 5d12 Necrotic damage and emerging in the nearest unoccupied space to your new position on a failure.
 A creature [grappled](conditions.md#grappled) by you makes this Save with disadvantage.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shadowslip
 *Level 2 Conjuration*
@@ -8571,7 +8571,7 @@ A creature [grappled](conditions.md#grappled) by you makes this Save with disadv
 You teleport to an unoccupied space you can see within range. This spell fails if you or your destination is illuminated by Bright Light.
 **Using a Higher-Level Spell Slot.** The range increases by 2 *(3m)* for every slot level above 2.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shadowstuff Mockery
 *Level 6 Illusion*
@@ -8583,7 +8583,7 @@ You conjure a semi-real shadowy duplicate of a nonlegendary creature you have sl
 The conjured duplicate acts on your turn directly after you and follows your mental commands.
 While concentrating on this spell, you take Psychic damage equal to half the creature's CR at the beginning of each of your turns and can't voluntarily end your concentration.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shape Water
 *Transmutation Cantrip*
@@ -8623,7 +8623,7 @@ On a Failure by 5 or More, the creature takes the effect's damage and also is [B
 On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The Piercing damage increases by 1d6 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shatter
 *Level 2 Evocation*
@@ -8649,7 +8649,7 @@ If the target fails this Save by 5 or more, it dies, freezes solid, and shatters
 Damage dealt by this spell ignores resistance and immunity to Cold damage.
 **Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, the damage increases by 40.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shield
 *Level 1 Abjuration*
@@ -8670,7 +8670,7 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 As a reaction when you or an undead ally within range is targeted with a ranged attack, you raise a protective barrier of bones and earth.
 The attack's target gains three-quarters cover against ranged attacks until the beginning of your next turn, including against the triggering attack. This effect ends early if the target moves.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shield of Faith
 *Level 1 Abjuration*
@@ -8726,7 +8726,7 @@ You attempt to savage a creature's lungs with harsh magical vapors as a reaction
 The creature must succeed on a CON Save or take 3d10 Necrotic damage and begin [Choking](conditions.md#choking) for the next minute.
 The [Choking](conditions.md#choking) creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shrivel Tongue
 *Level 3 Necromancy*
@@ -8738,7 +8738,7 @@ You drain the moisture from the mouth of a creature, punishing it for casting a 
 On a successful Save, the target takes half as much damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or above, the spell's damage increases by 2d8 for each slot level above 3.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Shroudstep Vindication
 *Level 2 Conjuration*
@@ -8749,7 +8749,7 @@ On a successful Save, the target takes half as much damage.
 You teleport to an unoccupied space of Dim Light or Darkness within 1 *(1.5m)* of a creature that hit you with an attack, then can make a melee weapon attack against it.
 If you teleported 2 *(3m)* or fewer in this way, this attack has advantage.
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sickening Exhaust
 *Level 3 Transmutation*
@@ -8761,7 +8761,7 @@ You call forth a foul plume of smoke within a creature you can see within range.
 Whenever the [Poisoned](conditions.md#poisoned) creature speaks or casts a spell with a verbal component for the first time on a turn, it takes 4d6 Poison damage and is [Blinded](conditions.md#blinded) until the beginning of its next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d6 for each spell slot level above 3.
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sickening Radiance
 *Level 4 Evocation*
@@ -8785,7 +8785,7 @@ Each creature in the area must succeed on a STR Save or take 6d6 Poison damage a
 On a successful Save, a creature takes half as much damage and is not pushed.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, a creature that fails its Save against this spell is additionally Poisoned until the end of your next turn.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Siegestone
 *Level 3 Transmutation*
@@ -8797,7 +8797,7 @@ You plunge a hand into a surface made of nonmagical earth or stone, tearing fort
 The target must make either a STR or DEX Saving Throw (target's choice). On a , the target takes 7d8 Bludgeoning damage and is [Prone](conditions.md#prone). On a Success, the target takes half damage.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Silence
 *Level 2 Illusion (ritual)*
@@ -8820,7 +8820,7 @@ On a hit, you grapple the target. While [grappled](conditions.md#grappled) in th
 - The target's voice cannot be heard from more than 3 *(4.5m)* away.
 - If the [grappled](conditions.md#grappled) creature attempts to cast a spell, it must succeed on a CON Save or have the spell fail. On a successful Save, the creature escapes your grapple.
 - **Classes**: Artificer, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Silent Image
 *Level 1 Illusion*
@@ -8868,7 +8868,7 @@ You assail the senses of a creature you can see within range, making it feel as 
 When the target stands from [prone](conditions.md#prone), the effect ends and the creature takes 4d10 Psychic damage, feeling as though its spirit has smashed into its body after a long fall.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the target must repeat this Save whenever it attempts to stand, taking 2d10 Psychic damage and failing to stand on a failed save.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Skill Empowerment
 *Level 5 Transmutation*
@@ -8890,7 +8890,7 @@ You must choose a skill in which the target is proficient and that isn't already
 You assume the appearance of a humanoid creature you can see within range, then teleport to an unoccupied space within 1 *(1.5m)* of it.
 While you are within 1 *(1.5m)* of the creature you are mimicking, a creature with a Passive Insight lower than your save DC that attempts to target either you or the mimicked creature with an attack or spell instead selects one of the two of you at random as the target.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Skinsend
 *Level 4 Necromancy*
@@ -8905,7 +8905,7 @@ If your body regains any Hit Points before your skin returns to it, the skin die
 When your skin returns to your body, you regain Hit Points equal to your skin's remaining Hit Points. If the spell ends before you reunite with your skin or if your skin is killed while you are in your body, you remain [Incapacitated](conditions.md#incapacitated) and at 0 Hit Points until your skin is restored to you (requiring powerful magic, as described above). If your body dies while you are possessing your skin, you die when the spell ends, regardless of how many Hit Points the skin has left. If your skin is slain with your consciousness in it, your consciousness returns automatically to your body.
 This spell leaves long scars on your skin where it split apart, although these fade normally with the use of healing magic.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Skycaller's Surge
 *Level 4 Evocation*
@@ -8916,7 +8916,7 @@ This spell leaves long scars on your skin where it split apart, although these f
 A surge of wind wells up beneath you; you and each creature of your choice within 6 *(9m)* of you each fly up to 6 *(9m)* in a direction of your choice.
 An unwilling creature can make a STR Save, resisting this effect on a success.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Skyhammer Bolt
 *Level 7 Evocation*
@@ -8927,7 +8927,7 @@ An unwilling creature can make a STR Save, resisting this effect on a success.
 A bolt from the blue rockets downward, blasting a creature you can see within range into the earth.
 The target must make a DEX Save. It takes 14d10 Lightning damage on a failed save, or half as much damage on a successful one. On a failed save, the target also immediately falls up to 100 *(150m)* if it is not supported by a solid surface.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Skywrite
 *Level 2 Transmutation (ritual)*
@@ -8948,7 +8948,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 The next time you hit a creature with a melee attack before this spell ends, your weapon is wreathed in deathly energies, and the attack deals an extra 8d8 Necrotic damage to the target.
 Additionally, if this attack reduces the target to 20 Hit Points or fewer, it must succeed on a CON Save or die. If the target is not native to the plane you're on, it has disadvantage on this Save.
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sleep
 *Level 1 Enchantment*
@@ -8971,7 +8971,7 @@ Requires language proficiency in DrowYou target one [Blinded](conditions.md#blin
 On a failure, the target falls asleep and is [Unconscious](conditions.md#unconscious) for the duration. The creature can repeat this Save whenever it takes damage or when a creature uses an action to attempt to wake it, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** The duration increases by 1 hour for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sleet Storm
 *Level 3 Conjuration*
@@ -8993,7 +8993,7 @@ Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder
 Requires language proficiency in DrowYou reflexively strain to escape your bonds before they can tighten, magically pushing your body beyond its natural limits. When you cast this spell, immediately make a STR (Athletics) or DEX (Acrobatics) check against the restraining effect's Escape DC.
 On a success, the [Grappled](conditions.md#grappled) or [Restrained](conditions.md#restrained) condition ends for you.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Slow
 *Level 3 Transmutation*
@@ -9060,7 +9060,7 @@ The target takes an extra 2d8 Cold or Necrotic damage (your choice) from the att
 Darkness pours into the mouth and nose of a creature in Dim Light or Darkness that you can see within range, forcing it to succeed on a CON Save or begin [Choking](conditions.md#choking).
 When the target ends its turn illuminated by Bright Light, it can repeat this Save, ending the effect on a success.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Snaptrap
 *Level 3 Transmutation*
@@ -9072,7 +9072,7 @@ You call upon elements of the natural environment, weaving them together into co
 The target must succeed on a DEX Save or take 4d8 Piercing damage and be [restrained](conditions.md#restrained) until the beginning of its next turn, or take half as much damage on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for each slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Snare
 *Level 1 Abjuration*
@@ -9112,7 +9112,7 @@ You snip carefully away at the threads of magic binding a magical effect or crea
 - If the effect or creation can move or be moved, the distance it can move or be moved is decreased by 2 *(3m)*.
 - If the effect or creation has a duration, its duration is reduced by half.
 - **Classes**: Artificer, Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Song of Ruin
 *Level 4 Enchantment*
@@ -9124,7 +9124,7 @@ ach other creature within range that can hear you must succeed on WIS Save or be
 A creature repeats this Save at the end of each of its turns, ending the effect on a success.
 This effect ends early if the affected creature takes damage from any source other than another affected creature, or if a creature takes an action to shake the affected creature out of its fury.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sorcerous Burst
 *Evocation Cantrip*
@@ -9157,7 +9157,7 @@ A creature that can see the sensor (such as one using see invisibility or truesi
 - **Duration**: Instantaneous
 You and one friendly or [charmed](conditions.md#charmed) creature of the same size category within range teleport to trade places with one another.
 - **Classes**: Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sow Chaos
 *Level 7 Enchantment*
@@ -9170,7 +9170,7 @@ Each creature in the area must succeed on a WIS Save or become [Charmed](conditi
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 This Save cannot be failed voluntarily.
 - **Classes**: Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sow Demonseed
 *Level 4 Transmutation*
@@ -9183,7 +9183,7 @@ This control ends early if you give the gravesnag a suicidal command, or if you 
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Gravesnag dies when the spell ends.
 Spawn Blood Echo
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spare the Dying
 *Necromancy Cantrip*
@@ -9205,7 +9205,7 @@ Choose a creature within range that has 0 Hit Points and isn't dead. The creatur
  (Concentration)You shed a portion of your life force, molding it into a Blood Echo in an unoccupied space within 1 *(1.5m)* that lasts until the spell ends and acts under your mental control.
  The blood echo initially takes on your likeness, attack bonus, and Saves. The spell lasts for a number of hours equal to the number of hit dice as part of casting this spell. If you spend 6 or more hit dice in this way, the spell does not require concentration.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Speak with Animals
 *Level 1 Divination (ritual)*
@@ -9251,7 +9251,7 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 Requires proficiency in Thieves' Cant.
 You cast a spell of level 1 or below that you saw cast within range since the end of your last turn, using your own Spell Attack Modifier and Spell Save DC, if applicable.
 - **Classes**: Artificer, Bard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spellfire Combustion
 *Level 2 Evocation*
@@ -9261,7 +9261,7 @@ You cast a spell of level 1 or below that you saw cast within range since the en
 - **Duration**: Instantaneous
 You attempt to transmute a spell's energy to fire; make an INT (Arcana) check against the spellcaster's spell save DC. On a success, any damage dealt by the spell becomes Fire damage.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spider Climb
 *Level 2 Transmutation*
@@ -9331,7 +9331,7 @@ The spirit is an ally to you and your companions. In combat, the spirit shares y
 You conjure a spectral arsenal of multifarious floating weaponry that flares in and out of existence with each assault, striking at each of your foes. When you cast the spell, you can make a melee spell attack against each creature of your choice within range. On a hit, the target takes 3d8 Radiant damage.
 As a bonus action on each of your turns for the duration, you can repeat this effect.
 - **Classes**: Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spiritual Weapon
 *Level 2 Evocation*
@@ -9353,7 +9353,7 @@ As a Bonus Action on your later turns, you can move the force up to 4 *(6m)* and
 - **Duration**: Instantaneous
 One tree you can see within range explodes in a hail of massive splinters. Each creature within 3 *(4.5m)* of the tree must succeed on a DEX Save or take 27 (6d8) Piercing damage, or half as much on a success.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spontaneous Combustion
 *Level 5 Evocation*
@@ -9364,7 +9364,7 @@ One tree you can see within range explodes in a hail of massive splinters. Each 
 You cause a creature you can see within range toburst suddenly and dramatically into flame. Thecreature must succeed on a DEX Save ortake 6d6 Fire damage and ignite for the spell's duration.
 Until the spell ends or a creature takes an actionto douse the fire,the target has disadvantage on attack rolls andtakes 2d6 Fire damage at the end of each ofits turns.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sporeflight
 *Level 3 Transmutation*
@@ -9375,7 +9375,7 @@ Until the spell ends or a creature takes an actionto douse the fire,the target h
 You transform into a cloud of spores and move up to your speed without provoking attacks of opportunity before reverting to your normal form.
 You may pass through other creatures and move through a space as small as 3cm with this movement, and each creature whose space you move through in this way for the first time on a turn must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) until the end of your next turn.
 - **Classes**: Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Spray of Cards
 *Level 2 Conjuration*
@@ -9398,7 +9398,7 @@ A roiling growth of multifarious fungus that lasts for a minute bursts forth in 
 The area is difficult terrain for nonplant creatures other than you, and a nonplant creature that starts its turn in the area takes 20 Poison damage. This effect ends early if the area is dealt 20 or more fire or Radiant damage from a single source.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you may create an additional area of fungal growth centered on a point you can see within range for every two slot levels above the 3.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Staggering Smite
 *Level 4 Enchantment*
@@ -9421,7 +9421,7 @@ You inculcate a dreadful fear of light in a creature you can see within range, f
 On a failure, the target is [Frightened](conditions.md#frightened) of each source of Bright Light it can see until the end of its next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, you can target one additional target for each slot level above 3.
 - **Classes**: Bard, Cleric, Paladin, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Star-Strung Glide
 *Level 2 Transmutation*
@@ -9431,7 +9431,7 @@ On a failure, the target is [Frightened](conditions.md#frightened) of each sourc
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 You gain a fly (hover) speed equal to your movement speed until the end of your next turn.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Starfire Lance
 *Level 4 Evocation*
@@ -9442,7 +9442,7 @@ You gain a fly (hover) speed equal to your movement speed until the end of your 
 You send a pinprick of starfire flying ahead, [burning](conditions.md#burning) through all in its path. Make a ranged spell attack. On a hit, the attack deals 4d6 Fire damage plus 6d8 Radiant damage.
 For the purposes of line-of-effect and AC bonuses from cover, this attack ignores all cover from any nonmagical, nonliving material, disintegrating through it without resistance and leaving a 5cm wide hole in its wake.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Starry Wisp
 *Evocation Cantrip*
@@ -9465,7 +9465,7 @@ Your fingers crackle with electricity as you reach for a creature. Make a melee 
 On a hit, the target takes 3d10 Lightning damage. A target dealt 20 or more Lightning damage by this attack is pushed up to 3 *(4.5m)* away and is [Dazed](conditions.md#dazed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, the Lightning damage increases by 1d10 for each slot level above 2.
 - **Classes**: Artificer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Steal Dreams
 *Level 4 Enchantment*
@@ -9477,7 +9477,7 @@ You touch an [unconscious](conditions.md#unconscious) or [blinded](conditions.md
 On a failed save, you learn one closely held secret of the creature's, and the creature takes 6d10 nonlethal Psychic damage.
 A creature reduced to 0 Hit Points in this way is Cursed. A creature cursed in this way cannot gain levels or otherwise advance through experience. When this curse ends, the creature gains any levels prevented by the curse.
 - **Classes**: Bard, Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Steel Wind Strike
 *Level 5 Conjuration*
@@ -9498,7 +9498,7 @@ You then teleport to an unoccupied space you can see within 1 *(1.5m)* of one of
 - **Duration**: Instantaneous
 You send out a ripple of stilling antimagic. Each creature within range that is concentrating on a spell must succeed on a CON Save or lose concentration. You may cast this spell even while [incapacitated](conditions.md#incapacitated).
 - **Classes**: Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Stinking Cloud
 *Level 3 Conjuration*
@@ -9522,7 +9522,7 @@ Each creature standing on the clump when it moves, or whose space the clump ente
 When the spell ends, the clump falls; each creature on it and each creature in a radius 4 *(6m)* sphere Column beneath it must make a DEX Saving Throw. On a Failure, a creature takes 8d8 Bludgeoning damage is buried alive, gaining the [Restrained](conditions.md#restrained) condition if it does not have a Burrow speed. The escape DC is equal to your spell save DC. On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The radius of the clump you can levitate, and of the Column beneath it when it falls, increases by 1 *(1.5m)* for every slot level above 7.
 - **Classes**: Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Stone Rain
 *Level 2 Transmutation*
@@ -9534,7 +9534,7 @@ You cast a handful of small stones into the air, where they grow into a rain of 
 Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d8 Bludgeoning damage. On a Failure by 5 or More, a creature takes the spell's damage and additionally is [Prone](conditions.md#prone). On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by 1d8 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Stone Shape
 *Level 4 Transmutation*
@@ -9558,7 +9558,7 @@ On a failure, the creature takes 8d8 Acid damage, plus an additional 4d6 Fire da
 On a success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The Cylinder's radius and height each increase by 2 *(3m)* for every slot level above 7.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Stonesheath Ward
 *Level 2 Abjuration*
@@ -9570,7 +9570,7 @@ A field of stones springs into the air around you, shielding you from harm. For 
 This effect ends early if you are hit with an attack, or if you cast another spell that provides a magical bonus to your AC.
 **Using a Higher-Level Spell Slot.** The duration increases to 10 minutes if you use a slot level above 2.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Stoneskin
 *Level 4 Transmutation*
@@ -9615,7 +9615,7 @@ At the start of each of your later turns, the storm produces different effects, 
 You weave a portion of the expended magic from a creature's spell into threads of prismatic silk that envelop and bind it.
 Any damage dealt by the spell is reduced by half, and the spell's caster must succeed on a STR Save or be [restrained](conditions.md#restrained) until it takes any damage. The escape DC is equal to your spell save DC.
 - **Classes**: Cleric, Druid
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Strip Masks
 *Level 5 Abjuration*
@@ -9628,7 +9628,7 @@ Your palm flares with light as it touches a creature, [burning](conditions.md#bu
 On a failure, the target takes 12d8 Radiant damage and each illusory, shapechanging, or mind-affecting magic affecting it ends.
 This damage can't reduce the target's Hit Points below 1.
 - **Classes**: Bard, Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sudden Spoiling
 *Level 6 Necromancy*
@@ -9639,7 +9639,7 @@ This damage can't reduce the target's Hit Points below 1.
 One creature you can see within range must succeed on a CON Save or take 11d8 Necrotic damage, or half as much on a success.
 If this spell was cast as a reaction on the target's turn, the target is additionally [Stunned](conditions.md#stunned) on a failed save until the end of your next turn.
 - **Classes**: Druid, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Sudden Wasting
 *Level 8 Necromancy*
@@ -9651,7 +9651,7 @@ You saturate a creature with energies of mixed life and death, accelerating both
 The target may expend any number of hit dice to heal itself (without adding its CON modifier), then must succeed on a CON Save or take 16d10 Necrotic damage, or half as much on a success.
 If the target is killed by this damage, its flesh rots away into a putrid slurry, leaving only a fungus-encrusted skeleton behind.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Suggestion
 *Level 2 Enchantment*
@@ -9847,7 +9847,7 @@ A field of irresistible force blooms at a point you can see within range, draggi
 Each creature in the area when it appears must succeed on a STR Save or be knocked [prone](conditions.md#prone). A creature knocked [prone](conditions.md#prone) in this way is [restrained](conditions.md#restrained) for the spell's duration, or until it stands.
 A creature can use its action to repeat this Save, or to make a STR (Athletics) check to help an affected creature to its feet, ending the effect on a success.
 - **Classes**: Artificer, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Swathe in Shadow
 *Level 2 Transmutation*
@@ -9858,7 +9858,7 @@ A creature can use its action to repeat this Save, or to make a STR (Athletics) 
 Requires language proficiency in DrowYou gather shadows to yourself, soaking your flesh in darkness. For 1 hour, you ignore the effects of Sunlight Sensitivity, and have Advantage on checks made to Hide while in Darkness.
 **Using a Higher-Level Spell Slot.** If you use a level 3 or higher spell slot, the duration is 8 hours.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Swift Quiver
 *Level 5 Transmutation*
@@ -9904,7 +9904,7 @@ Once triggered, the glyph glows, filling a radius 12 *(18m)* sphere with Dim Lig
 A looping golden threadlight whorls out from you in a radius 4 *(6m)* sphere. Each creature in the area must make a CHA  Save, becoming cosmically linked to you and to one another for the next minute on a failure.
 Whenever you or a creature that failed this Save would take any damage, you can use your reaction to deal an equal amount of damage to another linked creature.
 - **Classes**: Artificer, Bard, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Synaptic Static
 *Level 5 Enchantment*
@@ -9927,7 +9927,7 @@ On a failed save, a target also has muddled thoughts for 1 minute. During that t
 You weave a magical snare, sculpted to disrupt a specific spell. Choose a spell in secret and record your choice.
 When a creature you can see within range casts that spell, you can reveal your choice to end this spell and to gain control of the triggering spell, selecting new targets for it.
 - **Classes**: Artificer, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Tapping Cheat
 *Transmutation Cantrip*
@@ -9939,7 +9939,7 @@ Requires proficiency in Thieves' Cant.
 You twirl the weapon used in the spell's casting, deftly manipulating its weight. Until the beginning of your next turn, the weapon counts as having the Finesse property, and adds both your STR and DEX modifiers to its damage on a hit, rather than just one of those.
 **Using a Higher-Level Spell Slot.** At Level 5, a creature hit with the weapon used in the spell's casting is pushed 1 *(1.5m)* away. This distance increases by 1 *(1.5m)* at 11th level (to a total of 2 *(3m)*) and 17th level (to a total of 3 *(4.5m)*).
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Tasha's Bubbling Cauldron
 *Level 6 Conjuration*
@@ -10012,7 +10012,7 @@ Your tongue slithers out to taste the air. Make a WIS (Perception) check with ad
 You learn the creature type and exact location of each creature within range whose challenge rating (or level, if it doesn't have a challenge rating) is less than or equal to your result.
 Until the end of your next turn, each affected creature cannot be Hidden from you, and you ignore the effects of Invisibility on that creature.
 - **Classes**: Druid, Ranger, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Telekinesis
 *Level 5 Transmutation*
@@ -10077,7 +10077,7 @@ You read the subtle omens that surround a creature, searching for signs of its i
 Roll a d20, then assign it to a creature you can see within range that has not been affected by this spell in the last hour; the first check, Save, or attack that creature makes in the next minute uses the number you rolled, instead of rolling.
 An unwilling creature can make a CHA  Save, resisting the effect on a success.
 - **Classes**: Bard, Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Temple of the Gods
 *Level 7 Conjuration*
@@ -10134,7 +10134,7 @@ Your eyes flash with dread, implacable fury.
 Each creature in a length 12 *(18m)* cone that can see you must make a WIS Save. On a failure, a creature falls [prone](conditions.md#prone) and is [Frightened](conditions.md#frightened) for the next minute.
 While [Frightened](conditions.md#frightened) in this way, a creature cannot stand from [prone](conditions.md#prone), and repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Bard, Cleric, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Thaumaturgy
 *Transmutation Cantrip*
@@ -10155,7 +10155,7 @@ You manifest a minor wonder within range. You create one of the effects below wi
 You fill the mind of a creature you can see with horrid chittering, crowding the creature's own thoughts out of its mind. The creature must succeed on a WIS Save or be Dominated by you until the beginning of your next turn.
 A target that can see more of your allies than its own within 12 *(18m)* of it makes this Save with disadvantage.
 - **Classes**: Bard, Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### The Queen's Will
 *Level 1 Enchantment*
@@ -10165,7 +10165,7 @@ A target that can see more of your allies than its own within 12 *(18m)* of it m
 - **Duration**: Instantaneous
 You call out an imperious command with all the authority of your dread patron, dealing 1d10 Psychic damage to your target and allowing it to reroll the triggering attack or Save, taking the second result.
 - **Classes**: Bard, Cleric, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### The Sky, Consumed
 *Level 9 Evocation*
@@ -10177,7 +10177,7 @@ A point of fire appears in the sky above you, growing second by second as it hur
 At the beginning of your next turn, the fire blots out the sky entirely for an instant before striking you. You and each creature within 100 *(150m)* of you must make a DEX Save.
 On a failed Save a creature takes 28d6 Fire damage, or half as much on a success.
 - **Classes**: Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Thorn Whip
 *Transmutation Cantrip*
@@ -10201,7 +10201,7 @@ Until the end of your next turn, the target treats all other creatures as hostil
 You can choose one spell; until the target completes a Short or Long Rest, it can't cast that spell.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Thought-Knot Severance
 *Level 5 Divination*
@@ -10214,7 +10214,7 @@ The target must make an INT Save, taking 8d8 Psychic damage and becoming [Dazed]
 On a success, the target takes half as much damage and isn't [Dazed](conditions.md#dazed).
 A target that is [Concentrating](conditions.md#concentration) on a spell has disadvantage on this Save, and is additionally [Stunned](conditions.md#stunned) until the end of your next turn on a failure.
 - **Classes**: Bard, Cleric, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Thunder Step
 *Level 3 Conjuration*
@@ -10259,7 +10259,7 @@ Your strike rings with thunder that is audible within 60 *(90m)* of you, and the
 Make a melee spell attack. On a hit, the target takes 5d10 Thunder damage and is pushed 3 *(4.5m)* away from you. A creature pushed into a wood or plaster wall or object less than a 30cm thick is pushed through it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d10 for each slot level above 3.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Thunderwave
 *Level 1 Evocation*
@@ -10294,7 +10294,7 @@ Each creature in the area is [Dazed](conditions.md#dazed) until the end of your 
 On a failure, the creature additionally falls asleep, gaining the [Unconscious](conditions.md#unconscious) condition until the end of your next turn. The creature wakes early if it takes any damage.
 **Using a Higher-Level Spell Slot.** The Cone's size increases by 2 *(3m)* for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Time Stop
 *Level 9 Transmutation*
@@ -10331,7 +10331,7 @@ You shout forth a magically amplified roar in a length 6 *(9m)* cone.
 Each creature in the area takes 4d8 Thunder damage, then must makea WIS Save. On a failure, a creature is [Frightened](conditions.md#frightened) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Thunder damage increases by 1d8 for each slot level above 4.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### To Dust
 *Level 2 Necromancy*
@@ -10341,7 +10341,7 @@ Each creature in the area takes 4d8 Thunder damage, then must makea WIS Save. On
 - **Duration**: 1 round
 You cause any number of friendly undead skeletons or skeletal corpses within 6 *(9m)* to explode into clouds of bone shrapnel and [choking](conditions.md#choking) dust. Each creature within 2 *(3m)* of one or more exploding skeletons must succeed on a CON Save or take 4d6 Piercing damage and be unable to speak or breathe until the end of your next turn.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Toll the Dead
 *Necromancy Cantrip*
@@ -10375,7 +10375,7 @@ At the start of each of its turns, the Cursed creature must make a CON Saving Th
 A creature that has its Speed reduced to 2 *(3m)* or lower in this way has the [Blinded](conditions.md#blinded) and [Choking](conditions.md#choking) conditions, as liquid stone wells up from its mouth, nose, and eyes.
 A creature that has its Speed reduced to 0 in this way is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Toxic Aura
 *Level 5 Conjuration*
@@ -10386,7 +10386,7 @@ A creature that has its Speed reduced to 0 in this way is [Petrified](conditions
 Fuming, iridescent venom begins to ooze from the earth at your feet, its fumes drifting inexorably toward the wounds of your foes.
 Whenever a creature within 6 *(9m)* of you takes any bludgeoning, piercing, or Slashing damage, you may deal 1d6 additional Poison damage to it.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Transfix with Power
 *Level 2 Evocation*
@@ -10399,7 +10399,7 @@ On a failed Save, the target takes 4d6 Lightning damage and is [restrained](cond
 This restraint's escape DC is equal to your Spell Save DC.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, you can target one additional creature for each two slot levels above 2.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Transmute Rock
 *Level 5 Transmutation*
@@ -10431,7 +10431,7 @@ This spell creates a magical link between a Large or larger inanimate plant with
 - **Duration**: Instantaneous
 You attempt to shove a creature through a spatial rift with a burst of magical force. Make a melee spell attack. On a hit, the target takes 3d10 Force damage and must succeed on a CHA  Save or be teleported up to 6 *(9m)* to an unoccupied space you can see within 6 *(9m)* of the target.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Tree Stride
 *Level 5 Conjuration*
@@ -10515,7 +10515,7 @@ You bend the light in a length 12 *(18m)* cone extending from you, becoming [Inv
 You can hide from a creature you are [Invisible](conditions.md#invisible) from without obscurement, and you have advantage on DEX (Stealth) checks made to do so.
 Creatures you are [Invisible](conditions.md#invisible) and Hidden from have disadvantage on WIS (Perception) checks made to detect you.
 - **Classes**: Artificer, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Twist Spell
 *Level 6 Abjuration*
@@ -10525,7 +10525,7 @@ Creatures you are [Invisible](conditions.md#invisible) and Hidden from have disa
 - **Duration**: Instantaneous
 You attempt to wrest control of a rival mage's spell. The spell caster must make a CHA  Save. On a failed save, the spell caster takes 1d6 Psychic damage per level of the spell, and you choose new targets for the spell.
 - **Classes**: Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Twist the Heart
 *Level 7 Enchantment*
@@ -10537,7 +10537,7 @@ You touch a creature's chest and magical bindings of golden light drift from you
 On a failure, the creature is Dominated by you for the next hour, and repeats this Save whenever it takes damage, ending the effect on a success.
 While Dominated in this way, the creature takes 1d10 Psychic damage whenever it deals damage to or is dealt damage by a former ally.
 - **Classes**: Bard, Cleric, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Twisting Drakebolt
 *Level 3 Evocation*
@@ -10550,7 +10550,7 @@ On a hit, the target takes 4d6 Piercing damage plus 4d6 Fire damage.
 This attack can target any creature in range to which a traversable path exists, even if it is behind total cover.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells U
 ### Umbral Oubliette
@@ -10565,7 +10565,7 @@ When it does, a creature within 1 *(1.5m)* of the space the affected creature de
 When this effect ends for a creature, it reappears in the space it departed from, or the nearest unoccupied space if it cannot.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, the Psychic damage increases by 4d6.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Unendurable Agony
 *Level 8 Enchantment*
@@ -10578,7 +10578,7 @@ On a hit, the target takes 4d6 Piercing damage plus 4d6 Fire damage.
 This attack can target any creature in range to which a traversable path exists, even if it is behind total cover.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell creates an additional maw of flame for each three slot levels above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Unfasten
 *Level 2 Transmutation*
@@ -10590,7 +10590,7 @@ Requires proficiency in Thieves' Cant.
 You magically unfasten the armor of a creature you can see within range.
 The target must succeed on a DEX Save or have the AC bonus offered by its armor reduced by a cumulative 2 until the target takes an action to adjust it. Armor reduced to an AC of 10 falls off entirely until donned again.
 - **Classes**: Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Unholy Enthrallment
 *Level 4 Enchantment*
@@ -10601,7 +10601,7 @@ The target must succeed on a DEX Save or have the AC bonus offered by its armor 
 Your eyes blaze with dread authority as you cow an unholy creature trapped in your grasp. One fiend or undead creature [grappled](conditions.md#grappled) by you must succeed on a CHA  Save or be Dominated by you for the duration.
 The creature repeats this Save whenever it takes damage, ending the effect on a success.
 - **Classes**: Bard, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Unseen Servant
 *Level 1 Conjuration (ritual)*
@@ -10625,7 +10625,7 @@ You fill a creature's mind with insights too terrible to be borne, wreathing it 
 One creature you can see or telepathically sense within range must succeed on a WIS Save or gain 20 Temporary Hit Points.
 While a creature has any of these Temporary Hit Points, its INT score increases by 5, to a maximum of 25. At the end of its turn, a creature loses all of these Temporary Hit Points and takes Psychic damage equal to twice the Temporary Hit Points lost.
 - **Classes**: Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Untether Mind
 *Level 5 Enchantment*
@@ -10637,7 +10637,7 @@ You attempt to share a truth with a creature its mind cannot contain. Make a mel
 A creature that fails is [Frightened](conditions.md#frightened) and [Blinded](conditions.md#blinded) until the end of your next turn as its field of perception expands and expands and expands until it encompasses the entirety of the multiverse.
 A creature that fails this save by 10 or more is additionally [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells V
 ### Vampiric Touch
@@ -10661,7 +10661,7 @@ Until the spell ends, you can make the attack again on each of your turns as a M
 You send corruption spiraling out from a [Bleeding](conditions.md#bleeding), Diseased, [Paralyzed](conditions.md#paralyzed), or [Poisoned](conditions.md#poisoned) creature you can see within range, forcing each creature within 3 *(4.5m)* of it to succeed on a CON Save or be afflicted with the same conditions until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the affected radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Cleric, Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Veilstride
 *Level 4 Conjuration*
@@ -10673,7 +10673,7 @@ Requires proficiency in Thieves' Cant.
 You thrust yourself into the Border Ethereal, where you remain until you end this effect as an Action.
 While there, you can see into the Material Plane, can move through solid surfaces as though they were Difficult Terrain, and take 1d10 Force damage at the start of each of your turns. If you die in the Ethereal Plane, your body remains there.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Venomous End
 *Level 6 Transmutation*
@@ -10685,7 +10685,7 @@ You magically STRen the toxins afflicting a [Poisoned](conditions.md#poisoned) c
 A creature reduced below 50 Hit Points in this way must then succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed) for as long as it remains [Poisoned](conditions.md#poisoned).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Poison damage increases by 10 for each slot level above 6.
 - **Classes**: Druid, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Vicious Mockery
 *Enchantment Cantrip*
@@ -10734,7 +10734,7 @@ On a failure, the target has its skeleton rattle within its flesh, taking 6d6 po
 On a successful Save, a target takes half as much damage.
 A living creature with 0 Hit Points that fails this Save dies. At the beginning of its following turn, the creature's skeleton tears itself out of the creature's body, acting on the creature's initiative, and is hostile to all living creatures.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Waking Dream
 *Level 4 Enchantment*
@@ -10745,7 +10745,7 @@ A living creature with 0 Hit Points that fails this Save dies. At the beginning 
 You touch an [Unconscious](conditions.md#unconscious) creature and plague it with terrible nightmares, forcing it to sleepwalk under your control. The creature must WIS Save or rise under your control for the next hour, or until it regains consciousness, and can perceive and take actions as though conscious for the duration.
 Whenever the creature would wake, you may make a DC 10 CON Save. On a success, the creature remains [Unconscious](conditions.md#unconscious).
 - **Classes**: Bard, Cleric
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wall of Fire
 *Level 4 Evocation*
@@ -10936,7 +10936,7 @@ When the spell ends, the sphere falls to the ground and extinguishes all normal 
 You forge a magical gateway to a point you can see within range, teleporting each willing creature of your choice within 4 *(6m)* of you to an unoccupied space within 4 *(6m)* of the chosen point.
 Then, each creature teleported in this way can use its reaction to make a weapon attack.
 - **Classes**: Artificer, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Weave Mirage
 *Level 3 Illusion*
@@ -10946,7 +10946,7 @@ Then, each creature teleported in this way can use its reaction to make a weapon
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You cloak yourself in waves of shimmering air, distorting your apparent position. Whenever a creature that relies on sight makes an attack against you or casts a spell that targets you, you can force it to make an INT Save. On a failure, you are unaffected by the attack or spell.
 - **Classes**: Artificer, Bard, Druid, Sorcerer, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Web
 *Level 2 Conjuration*
@@ -10972,7 +10972,7 @@ Requires language proficiency in DrowA cord of tough, stretchy webbing extends f
 An unwilling target can make a DEX Save to avoid this effect, or can remove it as an action with a successful STR (Athletics) check made against your spell save DC.
 **Using a Higher-Level Spell Slot.** The range increases by 30 for every slot level above 2.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Weird
 *Level 9 Illusion*
@@ -10995,7 +10995,7 @@ You conjure an abyssal storm that lasts for a minute and follows your movement, 
 On each of your turns, you may call down demonic lightning as a bonus action. You and each creature encircled by the movement you took this turn must succeed on a DEX Save or take 6d6 lightning plus 2d10 Necrotic damage, or half as much on a success.
 Rules Clarification: Encircling. A creature is encircled by your movement if the ground you moved over on this turn marks a contiguous path that intersects itself, creating an enclosed shape that contains the creature. The path of your movement counts as part of the shape it encloses.
 - **Classes**: Druid, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Whirlwind
 *Level 7 Evocation*
@@ -11019,7 +11019,7 @@ Requires language proficiency in DrowYou transform up to two ordinary spiders wi
 The spiders act on your Initiative in combat and under your telepathic control. When the spell ends, the spiders return to their original size and disposition.
 **Using a Higher-Level Spell Slot.** he forms your spiders can take change when cast with higher slot levels. At level 5+, they can be Deathleapers At level 7+, they can be Feyspitters. At level 8+, they can be Blade Spiders. At level 9, they can be Giant Spiders.
 - **Classes**: Druid, Rangerr, Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wind Walk
 *Level 6 Transmutation*
@@ -11054,7 +11054,7 @@ You create an illusory portal to the far realm in an unoccupied space within ran
 On each of your turns until the spell ends, you can use your Bonus Action to force each creature within 12 *(18m)* of the portal to succeed on a STR Save or be pulled 2 *(3m)* towards it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the distance a creature is pulled on a failed STR save increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Warlock
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wish
 *Level 9 Conjuration*
@@ -11131,7 +11131,7 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 You attune your senses to vibrations in the world around you, gaining Tremorsense with a range of 12 *(18m)* for the duration.
 Within that range, you can additionally detect the general density of earth and stone, allowing you to locate tunnels, cavities, and hidden rooms.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wrack
 *Level 2 Enchantment*
@@ -11143,7 +11143,7 @@ You overwhelm a creature in range with indescribable pain. The target must succe
 A creature that fails this save by 5 or more subtracts 1d4 from attacks and Saves it makes for the next minute.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, you may target one additional creature for each slot level above 2.
 - **Classes**: Bard, Sorcerer
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wraithblade
 *Level 5 Conjuration*
@@ -11154,7 +11154,7 @@ A creature that fails this save by 5 or more subtracts 1d4 from attacks and Save
 You create a spectral blade in your hand that passes through armor without resistance. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 4d8 Necrotic damage on a hit and has the finesse and light properties. In addition, it treats all targets as unarmored (An unarmored creature's AC is usually 10 plus its DEX modifier). It treats creatures with Natural Armor, Unarmored Defense, or similar traits normally.
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
 - **Classes**: Druid, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wrath of Nature
 *Level 5 Evocation*
@@ -11185,7 +11185,7 @@ The target takes an extra 1d6 Necrotic damage from the attack, and it must succe
 - **Duration**: 1 round
 You touch a willing creature and envelop it in empowering flames. Until the end of your next turn, its melee attacks deal an additional 2d6 Fire damage.
 - **Classes**: Cleric, Druid, Paladin, Ranger
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wreath of Blades
 *Level 4 Evocation*
@@ -11197,7 +11197,7 @@ Razor-sharp blades of hardened magic whirl through the air in a radius 2 *(3m)* 
 A creature other than you that starts its turn in the area, or that enters it for the first time on a turn, must succeed on a DEX Save or take 4d10 Slashing damage. On a successful save, the creature takes half as much damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the Slashing damage increases by 1d10 for each slot level above 4.
 - **Classes**: Artificer, Paladin
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wrench Heart
 *Level 3 Necromancy*
@@ -11209,7 +11209,7 @@ One creature you can see within range feels a cold, spectral hand sink into its 
 At the beginning of each of the creature's turns it takes 4d8 Necrotic damage and must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the beginning of its next turn, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for every slot level above the 3.
 - **Classes**: Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 ### Wyrmwing's Howl
 *Level 5 Necromancy*
@@ -11220,7 +11220,7 @@ At the beginning of each of the creature's turns it takes 4d8 Necrotic damage an
 A thunderous wind descends around you, forcing each creature within 3 *(4.5m)* of you to succeed on a STR Save or take 4d8 Bludgeoning damage and be knocked [prone](conditions.md#prone). Then, you can fly up to 12 *(18m)*.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the effect's radius increases by 1 *(1.5m)* for each slot level above 5.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
-*(Source: CS)*
+*(Source: ConfluxCreatures)*
 
 # Spells Y
 ### Yolande's Regal Presence
