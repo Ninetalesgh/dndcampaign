@@ -1,4 +1,3 @@
-
 # Strong Introduction
 
 **Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders. 
