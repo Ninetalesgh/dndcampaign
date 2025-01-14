@@ -48,7 +48,7 @@ You create an acidic bubble at a point within range, where it explodes in a radi
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
-The target’s impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and is [Dazed](conditions.md#dazed) until the end of its next turn.
+The target's impact echoes as a second shock slams it further into the ground. The target must make a CON Saving Throw. On a Failure, the creature takes 3d8 Bludgeoning damage and is [Dazed](conditions.md#dazed) until the end of its next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
@@ -129,7 +129,7 @@ You alter your physical form. Choose one of the following options. Its effects l
 You raise a hand and fire forth a crackling spark that ignites the air around it.
 Make a ranged spell attack. On a hit, the target takes 4d6 fire plus 4d8 Lightning damage.
 If this attack was made with advantage, the spark additionally explodes on a hit, forcing each other creature within 2 *(3m)* of the target to make a DEX Save.
-On a failure, a creature takes half the attack’s damage.
+On a failure, a creature takes half the attack's damage.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -139,8 +139,8 @@ On a failure, a creature takes half the attack’s damage.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You drive the pin used in the spell’s casting into the ground, forcing a creature you can see within range to succeed on a CHA  Save or have its spirit shackled to an [invisible](conditions.md#invisible) spiritual anchor at a point in the creature’s space.
-At the end of each of that creature’s turns, it takes 1d6 Psychic damage for each 1 *(1.5m)* away from that anchor that it ends its turn (maximum 10d6).
+You drive the pin used in the spell's casting into the ground, forcing a creature you can see within range to succeed on a CHA  Save or have its spirit shackled to an [invisible](conditions.md#invisible) spiritual anchor at a point in the creature's space.
+At the end of each of that creature's turns, it takes 1d6 Psychic damage for each 1 *(1.5m)* away from that anchor that it ends its turn (maximum 10d6).
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -212,9 +212,9 @@ Until the spell ends, you can take a Bonus Action to mentally command any creatu
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You raise a sunken wreck to unliving servitude, Choose a shipwreck within range that sailed for at least 20 years. If the shipwreck was recovered from a sunken Ghost Ship, you need to provide only 10,000 gold worth of cursed objects for the spell’s material component.
+You raise a sunken wreck to unliving servitude, Choose a shipwreck within range that sailed for at least 20 years. If the shipwreck was recovered from a sunken Ghost Ship, you need to provide only 10,000 gold worth of cursed objects for the spell's material component.
 As you cast this spell, the ship warps and breaks, snapping into pieces as it slowly reassembles itself into into a gigantic, roughly humanoid shape, at which point it rises as a Shipwreck Golem that is friendly to you and to any other creatures you designate.
-A proficient creature with Carpenter’s Tools can use them to restore 1 hit point to the golem for each 10 minutes spent repairing it. If the golem is reduced to 0 Hit Points, it is destroyed and cannot be reanimated.
+A proficient creature with Carpenter's Tools can use them to restore 1 hit point to the golem for each 10 minutes spent repairing it. If the golem is reduced to 0 Hit Points, it is destroyed and cannot be reanimated.
 With a ritual that takes 10 minutes, you can designate additional friendly creatures, or can issue a simple command of five words or fewer to the golem, which it follows as literally as possible until it completes the task or you issue a new command.
 - **Classes**: Cleric, Sorcerer, Wizard
 *(Source: CS)*
@@ -579,8 +579,8 @@ A creature that has Total Cover from you is unaffected.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You force one creature you can see within range to make a CON Save. On a failed save, the creature’s flesh begins to roll in upon itself as the creature’s body slowly turns itself inside out, gaining vulnerability to all damage and disadvantage on all attack rolls and Saves until the effect ends.
-The affected creature makes a CHA  Save at the end of each of its turns, ending the effect after three successes, or transforming into a Gibbering Mouther under the DM’s control after three failures until cured by a Wish spell or similar magic.
+You force one creature you can see within range to make a CON Save. On a failed save, the creature's flesh begins to roll in upon itself as the creature's body slowly turns itself inside out, gaining vulnerability to all damage and disadvantage on all attack rolls and Saves until the effect ends.
+The affected creature makes a CHA  Save at the end of each of its turns, ending the effect after three successes, or transforming into a Gibbering Mouther under the DM's control after three failures until cured by a Wish spell or similar magic.
 - **Classes**: Sorcerer, Warlock
 *(Source: CS)*
 
@@ -600,7 +600,7 @@ You charge the air around you, emanating a field of raw magical energy; for the 
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You touch an object, imbuing it with an energy that subtly distorts the weave around it in a radius 100 *(150m)* emanation for the duration.
 A creature in the area that uses a spell or magical effect to teleport, move between planes, or magically communicate must succeed on an INT Save or have the effect fail.
 - **Classes**: Artificer, Sorcerer, Wizard
@@ -716,7 +716,7 @@ You raise fetters of stone from the ground to grab at a creature as it falls. Th
 - **Range**: Touch
 - **Components**: V
 - **Duration**: Instantaneous
-You drive two fingers into the wound of a creature within 1 *(1.5m)* that does not have all of its Hit Points and scouring tendrils burst from beneath your nails, whipping briefly through the target’s veins.
+You drive two fingers into the wound of a creature within 1 *(1.5m)* that does not have all of its Hit Points and scouring tendrils burst from beneath your nails, whipping briefly through the target's veins.
 The target must succeed on a CON Save or take 10d8 Slashing damage and be [Poisoned](conditions.md#poisoned) until the end of its next turn, or take half as much damage on a success.
 - **Classes**: Druid, Ranger, Warlock
 *(Source: CS)*
@@ -730,7 +730,7 @@ The target must succeed on a CON Save or take 10d8 Slashing damage and be [Poiso
 A pool of black sludge bubbles up from the earth in a radius 3 *(4.5m)* circle within range, making the area Difficult Terrain for the duration.
 Each creature that enters the area for the first time on a turn or that starts its turn there must make a STR Saving Throw. On a Failure, the creature takes 6d6 Poison damage and is [Restrained](conditions.md#restrained) until the beginning of its next turn while in the area. The escape DC is equal to your spell save DC.
 On a Success, the creature takes half damage.
-**Using a Higher-Level Spell Slot.** The radius of the spell’s area increases by 1 *(1.5m)* for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The radius of the spell's area increases by 1 *(1.5m)* for every slot level above 4.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
 
@@ -741,8 +741,8 @@ On a Success, the creature takes half damage.
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Veins of iron begin to spread from you in a radius 6 *(9m)* emanation, corrupting all they touch.
-A creature that starts its turn in the area must succeed on a CON Save or have a limb of its choice turn to iron, becoming unusable and counting as a nonmagical metal object for the spell’s duration.
-If each of the target’s limbs are already iron, the creature instead is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
+A creature that starts its turn in the area must succeed on a CON Save or have a limb of its choice turn to iron, becoming unusable and counting as a nonmagical metal object for the spell's duration.
+If each of the target's limbs are already iron, the creature instead is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -809,7 +809,7 @@ As a reaction when a creature you can see within range calls upon a divine sourc
 - **Components**: V, S
 - **Duration**: Instantaneous
 You raise a palm and fire blooms forth, exploding in a radius 2 *(3m)* sphere centered on a point within 1 *(1.5m)* of you.
-You and each other creature in the area are pushed 2 *(3m)* away from the explosion’s origin, then must make a DEX Save.
+You and each other creature in the area are pushed 2 *(3m)* away from the explosion's origin, then must make a DEX Save.
 On a failed save, a creature takes 6d6 fire plus 2d8 Thunder damage, or half as much damage on a success.
 A creature that fails this Save by 5 or more is knocked [prone](conditions.md#prone), additionally.
 - **Classes**: Sorcerer, Wizard
@@ -869,8 +869,8 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 8 hours
 You shove a fistfull of earth through the chest of the corpse used as a material component and tendrilous vines begin to sprout from its wounds, tearing forth as newborn blights into the nearest unoccupied spaces. Choose one of the following for what are created:Two Vine Blights.
-Three Needle BlightsFive Twig BlightsTen Splinter BlightsThe created blights are friendly to you for the spell’s duration. If the corpse used as a material component for the spell was humanoid, the created blights act on your initiative and obey your verbal commands for the spell’s duration, and remain non-hostile toward you after the spell ends unless provoked.
-If you don’t issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
+Three Needle BlightsFive Twig BlightsTen Splinter BlightsThe created blights are friendly to you for the spell's duration. If the corpse used as a material component for the spell was humanoid, the created blights act on your initiative and obey your verbal commands for the spell's duration, and remain non-hostile toward you after the spell ends unless provoked.
+If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -925,7 +925,7 @@ You return to the other plane at the start of your next turn and when the spell 
 - **Range**: 100 miles
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You tug at a creature through the connection of its spilt blood. If the creature whose blood you used as a material component in the casting of this spell is within range, you learn its direction and it learns yours.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -937,7 +937,7 @@ You tug at a creature through the connection of its spilt blood. If the creature
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You attempt to wrench control of the body of a creature you can see within range by manipulating its blood. The creature must succeed on a CON Save or have its movement and attacks controlled by you for the next minute.
-At the beginning of each of the creature’s turns, the creature takes 11 (2d10) Necrotic damage, then moves up to its speed and takes the attack action, or uses its multiattack if it has one. The affected creature controls its own Bonus Action and Reaction, and repeats this Save at the end of each of its turns, ending the effect on a success.
+At the beginning of each of the creature's turns, the creature takes 11 (2d10) Necrotic damage, then moves up to its speed and takes the attack action, or uses its multiattack if it has one. The affected creature controls its own Bonus Action and Reaction, and repeats this Save at the end of each of its turns, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the damage increases by 2d10 for each slot level above 6.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -948,7 +948,7 @@ At the beginning of each of the creature’s turns, the creature takes 11 (2d10)
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You attempt to turn a creature’s blood to acid. One creature you can see within range must succeed on a CON Save or be [Stunned](conditions.md#stunned) for 1 minute. A [Stunned](conditions.md#stunned) creature repeats this Save at the end of each of its turns, taking 22 (5d8) Acid damage on a failure, or ending the effect on a success.
+You attempt to turn a creature's blood to acid. One creature you can see within range must succeed on a CON Save or be [Stunned](conditions.md#stunned) for 1 minute. A [Stunned](conditions.md#stunned) creature repeats this Save at the end of each of its turns, taking 22 (5d8) Acid damage on a failure, or ending the effect on a success.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -958,7 +958,7 @@ You attempt to turn a creature’s blood to acid. One creature you can see withi
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You follow a teleporting creature through the trail of its astral conduit, arriving in an unoccupied space within 1 *(1.5m)* of where it teleports to.
 - **Classes**: Cleric, Paladin, Warlock, Wizard
 *(Source: CS)*
@@ -1096,7 +1096,7 @@ One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a go
 - **Duration**: 10 minutes
 Your magic shields your allies, ablating any hostile magics. Choose up to three creatures within range. Each gains 5 Temporary Hit Points that last for the duration.
 While a creature has any of these Temporary Hit Points, it has advantage on Saves against spells and magical effects.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, a target’s Hit Points increase by an additional 5 for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, a target's Hit Points increase by an additional 5 for each slot level above 2.
 - **Classes**: Cleric, Paladin
 *(Source: CS)*
 
@@ -1302,7 +1302,7 @@ If this attack misses, make a second attack roll against a random creature withi
 - **Components**: V, S
 - **Duration**: 1 minute
 One allied creature you can see is wreathed in foul abyssal energies for the next minute, after which it must succeed on a CON Save or be reduced to 0 Hit Points.
-For the next minute, the target’s melee attacks deal an additional 2d10 fire and 2d6 Necrotic damage on a hit, and it does not fall [unconscious](conditions.md#unconscious) when reduced to 0 Hit Points.
+For the next minute, the target's melee attacks deal an additional 2d10 fire and 2d6 Necrotic damage on a hit, and it does not fall [unconscious](conditions.md#unconscious) when reduced to 0 Hit Points.
 The creature makes death Saves while at 0 Hit Points, even if it ordinarily would not (such as in the case of summoned monsters or massive damage), and regains 10 Hit Points at the beginning of each of its turns.
 - **Classes**: Bard, Cleric, Druid
 *(Source: CS)*
@@ -1356,7 +1356,7 @@ One Humanoid you can see within range makes a WIS Save. It does so with Advantag
 - **Range**: Touch
 - **Components**: S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You touch a surface of nonmagical stone or wood and are drawn through it to the nearest unoccupied space directly opposite that surface within 4 *(6m)*.
 If no valid space exists within range, you are instead expelled from the surface at the same point you entered.
 - **Classes**: Bard, Sorcerer, Wizard
@@ -1898,7 +1898,7 @@ You touch the corpse of a Medium or larger creature that died in the last minute
 - **Range**: Self
 - **Components**: S
 - **Duration**: Instantaneous
-As a reaction when you or one undead creature friendly to you within range makes a CON Save, you attempt to dampen the effect by magically wresting control of the target’s bodily functions, granting it advantage on the save. If the Save was against a damaging effect, the target takes no damage on a successful save.
+As a reaction when you or one undead creature friendly to you within range makes a CON Save, you attempt to dampen the effect by magically wresting control of the target's bodily functions, granting it advantage on the save. If the Save was against a damaging effect, the target takes no damage on a successful save.
 - **Classes**: Cleric, Druid, Paladin
 *(Source: CS)*
 
@@ -1919,7 +1919,7 @@ Each creature in a radius 3 *(4.5m)* sphere centered on a point you can see with
 - **Components**: V, S
 - **Duration**: 1 minute
 You force one nonfiend creature within range to succeed on a WIS Save or be [Charmed](conditions.md#charmed) by you and hostile to each other nonfiend creature it can see for the next minute.
-While [Charmed](conditions.md#charmed) in this way, the creature’s STR score permanently increases by 1, to a maximum of 22, whenever it reduces a humanoid former ally to 0 Hit Points.
+While [Charmed](conditions.md#charmed) in this way, the creature's STR score permanently increases by 1, to a maximum of 22, whenever it reduces a humanoid former ally to 0 Hit Points.
 The [charmed](conditions.md#charmed) creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Cleric
 *(Source: CS)*
@@ -1952,7 +1952,7 @@ You attempt to interrupt a creature in the process of casting a spell. The creat
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You teleport to switch places with a creature friendly to or [Charmed](conditions.md#charmed) by you, intercepting an attack meant for it. You become the attack’s new target.
+You teleport to switch places with a creature friendly to or [Charmed](conditions.md#charmed) by you, intercepting an attack meant for it. You become the attack's new target.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -1975,7 +1975,7 @@ On a hit, the target takes 8d8 Lightning damage and has disadvantage on Saves ag
 - **Components**: V, S
 - **Duration**: 10 turns
 An energizing spark of electricity crackles across your fingers. One creature within 1 *(1.5m)* of you must succeed on a CON Save or take 4d6 lighting damage and be [Stunned](conditions.md#stunned) until the end of its next turn.
-A creature that succeeds on this Save instead gains 4d6 Temporary Hit Points that last for up to 10 minutes. While it has any of these Temporary Hit Points, the creature’s melee attacks deal an additional 2d6 Lightning damage.
+A creature that succeeds on this Save instead gains 4d6 Temporary Hit Points that last for up to 10 minutes. While it has any of these Temporary Hit Points, the creature's melee attacks deal an additional 2d6 Lightning damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the damage and Temporary Hit Points increase by 1d6 for each slot level above 2.
 - **Classes**: Artificer
 *(Source: CS)*
@@ -2092,7 +2092,7 @@ While a creature has any of these Temporary Hit Points, it is [restrained](condi
 - **Components**: V, S
 - **Duration**: 8 hours
 A mass of tiny spiders begins to swarm around you in a radius 3 *(4.5m)* circle. When a creature starts its turn in the area or enters it for the first time on a turn, you may force it to succeed on a CON Save or take 10 Poison damage, or half as much on a success. The spell lasts 8 hours, or until it has dealt a total of 100 damage.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the spell’s radius increases by 2 *(3m)* and the maximum damage it can deal increases by 100 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the spell's radius increases by 2 *(3m)* and the maximum damage it can deal increases by 100 for each slot level above 5.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -2126,7 +2126,7 @@ If you have four or more motes remaining, they shed bright light in a radius 6 *
 - **Range**: 24 *(36m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You collapse a line of space into a single point. Choose a point along a undefined line that is 6 *(9m)* long and wholly within 24 *(36m)*. Each creature in the line’s area must succeed on a CHA  Save or be teleported to the nearest unoccupied space to the chosen point, then take 4d10 Force damage plus 2d12 Psychic damage.
+You collapse a line of space into a single point. Choose a point along a undefined line that is 6 *(9m)* long and wholly within 24 *(36m)*. Each creature in the line's area must succeed on a CHA  Save or be teleported to the nearest unoccupied space to the chosen point, then take 4d10 Force damage plus 2d12 Psychic damage.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2147,7 +2147,7 @@ You radiate a magical aura in a radius 6 *(9m)* emanation. While in the aura, yo
 - **Components**: V, S
 - **Duration**: Instantaneous
 You clasp a fist toward a creature you can see within range, calling the weight of endless stone to bear down upon it from all sides.
-The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Bludgeoning damage plus 5d6 Fire damage and the target’s Size is decreased by one category until cured by Greater Restoration or similar magic. On a Success, the target takes half damage.
+The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Bludgeoning damage plus 5d6 Fire damage and the target's Size is decreased by one category until cured by Greater Restoration or similar magic. On a Success, the target takes half damage.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -2158,7 +2158,7 @@ The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Blu
 - **Components**: V, S
 - **Duration**: Instantaneous
 Gravity momentarily intensifies in the area within 3 *(4.5m)* of you. Each other creature in the area must succeed on a STR Save or fall [prone](conditions.md#prone). Any fall damage taken as a result deals maximum damage, instead of rolling.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the effect's radius increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -2204,8 +2204,8 @@ The skeletal liberator is [Charmed](conditions.md#charmed) by you for 1 hour, or
 - **Range**: 1 *(1.5m)*
 - **Components**: V
 - **Duration**: 10 days
-You grasp the face of a creature within your reach and drive your thumb into its eye, forcing it to succeed on a CHA  Save or be Cursed for the duration of the spell. One of the cursed creature’s eyes clouds over, occasionally weeping a small amount of blood, and it gains disadvantage on WIS (Perception) checks.
-As an action, you can see through the cursed creature’s eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses.
+You grasp the face of a creature within your reach and drive your thumb into its eye, forcing it to succeed on a CHA  Save or be Cursed for the duration of the spell. One of the cursed creature's eyes clouds over, occasionally weeping a small amount of blood, and it gains disadvantage on WIS (Perception) checks.
+As an action, you can see through the cursed creature's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses that the creature has. During this time, you are deaf and blind with regard to your own senses.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Duration is 30 days. If you use a spell slot of Level 7 or higher, the spell lasts until it is dispelled.
 - **Classes**: Bard
 *(Source: CS)*
@@ -2241,7 +2241,7 @@ The creatures are under your control until the spell ends, after which they beco
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You touch a nonmagical light source, twisting the light produced by it. For the duration, the light produced by the enchanted source can be seen only by creatures within 2 *(3m)* of it, and provides no illumination for other creatures.
 - **Classes**: Druid, Ranger, Wizard
 *(Source: CS)*
@@ -2311,8 +2311,8 @@ For the duration, a willing creature you touch has Darkvision with a range of 30
 - **Range**: 6 *(9m)*
 - **Components**: S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
-You flick the bat’s tooth used in the spell’s casting and send it darting chaotically toward a target in range. Make a ranged spell attack. On a hit, the target takes 3d6 Force damage.
+Requires proficiency in Thieves' Cant.
+You flick the bat's tooth used in the spell's casting and send it darting chaotically toward a target in range. Make a ranged spell attack. On a hit, the target takes 3d6 Force damage.
 If this attack misses, you can make a second attack roll against another creature you can see within 2 *(3m)* of the original target.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -2360,7 +2360,7 @@ If any of this spell's area overlaps with an area of Darkness created by a spell
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You create an illusory creature or effect that fits within a size 4 *(6m)* cube and extends to all senses, appearing in a space you can see within range.
 Once on each of your turns (no action required), you can move the effect up to 6 *(9m)*, then force one creature within 1 *(1.5m)* of it to make an INT Save. On a failure, the creature takes 4d8 Psychic damage.
-A creature that succeeds on this Save, or that uses its action to disbelieve the illusion with a successful INT (Investigation) check made against your spell save DC, becomes immune to the illusion’s effects and can see through it.
+A creature that succeeds on this Save, or that uses its action to disbelieve the illusion with a successful INT (Investigation) check made against your spell save DC, becomes immune to the illusion's effects and can see through it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the Psychic damage increases by 1d8 for each slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -2381,7 +2381,7 @@ As a reaction when another creature you can see within range is reduced to 0 Hit
 - **Range**: Touch
 - **Components**: S
 - **Duration**: 1 minute
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You touch a creature and send deadly poison coursing through its veins. The target must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) for 1 minute.
 While [Poisoned](conditions.md#poisoned) in this way, the creature takes 3d12 Necrotic damage at the start of each of its turns, and repeats this Save at the end of each of its turns, ending the condition on a success.
 - **Classes**: Artificer, Cleric, Warlock, Wizard
@@ -2410,7 +2410,7 @@ If the spell is still in effect when the target is subjected to an effect that w
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
-### Deathlord’s Favor
+### Deathlord's Favor
 *Level 4 Necromancy*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -2420,7 +2420,7 @@ You harvest the life from your thralls to heal yourself, reducing each friendly 
 - **Classes**: Cleric, Druid, Paladin
 *(Source: CS)*
 
-### Death’s Aid
+### Death's Aid
 *Level 1 Necromancy*
 - **Casting Time**: Reaction, which you take when you fail a Save.
 - **Range**: 12 *(18m)*
@@ -2430,7 +2430,7 @@ You sacrifice your undead thralls to bolster yourself with the burst of energy r
 - **Classes**: Sorcerer, Wizard
 *(Source: CS)*
 
-### Death’s Beckon
+### Death's Beckon
 *Level 2 Necromancy*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -2458,7 +2458,7 @@ A corpse-like duplicate of your body crumples to the ground in the space you vac
 - **Range**: Self
 - **Components**: S
 - **Duration**: Instantaneous
-You brandish the weapon used in the spell’s casting and make a melee attack with it against one creature within 1 *(1.5m)* of you.
+You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 1 *(1.5m)* of you.
 On a hit, the attack deals an additional 3d10 Necrotic damage.
 If this damage kills a creature, up to one friendly creature of your choice within 6 *(9m)* of you can use its reaction to gain 15 Temporary Hit Points or to make a melee weapon attack.
 - **Classes**: Cleric, Paladin, Warlock
@@ -2471,7 +2471,7 @@ If this damage kills a creature, up to one friendly creature of your choice with
 - **Components**: V
 - **Duration**: 1 round
 You freeze a spell in mid-air, delaying its effect until the end of your next turn. The spell keeps its original targets, and fails if those targets are no longer valid when the spell resolves.
-The spell’s caster must maintain concentration on the spell until the spell takes effect, or have the spell fail.
+The spell's caster must maintain concentration on the spell until the spell takes effect, or have the spell fail.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -2677,7 +2677,7 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: Instantaneous
-As a reaction when you succeed on a Save against a spell, you convert some of the waste magical energy to electricity and send it rocketing back, dealing 1d10 Lightning damage per level of the spell to the spell’s caster.
+As a reaction when you succeed on a Save against a spell, you convert some of the waste magical energy to electricity and send it rocketing back, dealing 1d10 Lightning damage per level of the spell to the spell's caster.
 - **Classes**: Artificer
 *(Source: CS)*
 
@@ -2687,9 +2687,9 @@ As a reaction when you succeed on a Save against a spell, you convert some of th
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-Your palm flares with black fire and you reach to grab a creature’s flesh. Make a melee spell attack.
+Your palm flares with black fire and you reach to grab a creature's flesh. Make a melee spell attack.
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
-Your palm flares with black fire and you reach to grab a creature’s flesh. Make a melee spell attack.
+Your palm flares with black fire and you reach to grab a creature's flesh. Make a melee spell attack.
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHA  (Persuasion) checks until cured by Lesser Restoration or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
@@ -2777,7 +2777,7 @@ One creature of your choice that you can see within range hears a discordant mel
 - **Classes**: Bard
 *(Source: PHB'24, page 264)*
 
-### Distant Watchers’ Draw
+### Distant Watchers' Draw
 *Level 3 Transmutation*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -2898,7 +2898,7 @@ You can command the target to take a Reaction but must take your own Reaction to
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A lurid, sickly green crack between planes opens at a point you can see within range and from it spills forth a torrent of bodies, conjuring four Ratfolk Clawpacks in spaces within 3 *(4.5m)* of it.
-The Clawpacks are friendly to you and obey your mental commands (no action required) for as long as you maintain concentration. If you don’t issue any commands to the Clawpacks or lose concentration, they attack the nearest creature on their turn.
+The Clawpacks are friendly to you and obey your mental commands (no action required) for as long as you maintain concentration. If you don't issue any commands to the Clawpacks or lose concentration, they attack the nearest creature on their turn.
 In combat, the Clawpacks share your initiative count, but take their turns immediately after yours.
 When the spell ends, the Clawpacks become hostile to all creatures (including each other) and disregard your commands. At the beginning of each of your turns roll a d20 for each remaining Clawpack; on a 1-5, it disappears.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 9, two additional Ratfolk Clawpacks emerge from the breach at the beginning of each of your turns, appearing in spaces within 2 *(3m)* of it.
@@ -2970,7 +2970,7 @@ This effect ends early if the target is reduced to 0 Hit Points, or if it ends t
 - **Components**: V, S
 - **Duration**: Instantaneous
 A fearsome shadow descends upon a radius 3 *(4.5m)* circle centered on a point you can see within range, forcing each creature in the area to make a WIS Save.
-On a failure, a creature must use its reaction move up to its half its speed in a direction of your choice. If the target doesn’t have a reaction available or cannot move, it instead falls [prone](conditions.md#prone).
+On a failure, a creature must use its reaction move up to its half its speed in a direction of your choice. If the target doesn't have a reaction available or cannot move, it instead falls [prone](conditions.md#prone).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the radius of the shadow increases by 1 *(1.5m)* for each slot level above 2.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -2981,7 +2981,7 @@ On a failure, a creature must use its reaction move up to its half its speed in 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You raise the stone used in the spell’s casting aloft, causing it burst into flame, then hurl it at a target you can see within range. Make a ranged spell attack.
+You raise the stone used in the spell's casting aloft, causing it burst into flame, then hurl it at a target you can see within range. Make a ranged spell attack.
 On a hit, the target takes 1d4 + your spellcasting modifier Bludgeoning damage and 1d10 Fire damage.
 On a critical hit, the target must succeed on a STR Save or be knocked [prone](conditions.md#prone).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the attack has advantage.
@@ -3078,7 +3078,7 @@ As a bonus action, you can move the dust devil up to 6 *(9m)* in any direction. 
 - **Components**: V, S, R (0 gp)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
 You disturb the weave around a creature you can see in range, straining it to its breaking point. The target must make a CON Save. On a failed save, the creature takes 2d10 Necrotic damage the next time it casts a spell before the end of your next turn.
-This spell’s damage increases by 2d10 when you reach 5th level (4d10), 11th level (6d10), and 17th level (8d10).
+This spell's damage increases by 2d10 when you reach 5th level (4d10), 11th level (6d10), and 17th level (8d10).
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -3181,9 +3181,9 @@ Choose one creature you can see within range, and choose one of the following da
 - **Range**: Touch
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You touch the weapon used in the spell’s casting to a source of elemental energy (acid, cold, fire, lightning, or thunder), such as an open flame or a magical creature, imbuing the weapon with the source’s energy.
+You touch the weapon used in the spell's casting to a source of elemental energy (acid, cold, fire, lightning, or thunder), such as an open flame or a magical creature, imbuing the weapon with the source's energy.
 For the next hour, the weapon deals an additional 3 (1d6) damage on a hit of a type that the chosen elemental source could deal.
-As a bonus action on each of your turns, you can touch this weapon to another melee weapon, extending the spell’s effects to that weapon as well for the next minute.
+As a bonus action on each of your turns, you can touch this weapon to another melee weapon, extending the spell's effects to that weapon as well for the next minute.
 - **Classes**: Artificer, Cleric, Paladin, Sorcerer
 *(Source: CS)*
 
@@ -3218,7 +3218,7 @@ You exert control over the elements, creating one of the following effects withi
 - **Duration**: Instantaneous
 Requires the spellcaster to have removed their finger without assistance.
 You relinquish yourself to forces beyond your control, choosing to fail a Save instead of rolling.
-Before suffering the Save’s effects, you gain 15 Temporary Hit Points that last until the end of your next turn.
+Before suffering the Save's effects, you gain 15 Temporary Hit Points that last until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the Temporary Hit Points increase by 5 for each slot level above 1.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer
 *(Source: CS)*
@@ -3270,7 +3270,7 @@ Casting this spell while holding a thought strand allows you to instantly receiv
 - **Classes**: 
 *(Source: GGR, page 47)*
 
-### Endurance of the Mother’s Faithful
+### Endurance of the Mother's Faithful
 *Level 6 Necromancy*
 - **Casting Time**: Action
 - **Range**: 30 *(45m)*
@@ -3380,7 +3380,7 @@ You weave a distracting string of words, causing creatures of your choice that y
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Sturdy roots snake forth from your body, digging deep into the earth around you in a radius 1 *(1.5m)* circle. Until the spell ends, the area is difficult terrain, your speed is reduced to 0, and you gain the maximum number of Temporary Hit Points possible when targeted with any spell or magical effect that grants Temporary Hit Points.
 If you move or are moved, the spell ends immediately.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the spell’s radius increases by 1 *(1.5m)* for each slot level above 1.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the spell's radius increases by 1 *(1.5m)* for each slot level above 1.
 - **Classes**: Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -3483,9 +3483,9 @@ You take the Dash action, and until the spell ends, you can take that action aga
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a piece of ammunition, setting it aglow with an infusion of volatile magics.
-The first time you make an attack using this ammunition during this spell’s duration, the attack deals an additional 4d6 Fire damage on a hit.
+The first time you make an attack using this ammunition during this spell's duration, the attack deals an additional 4d6 Fire damage on a hit.
 Whether you hit or miss, the piece of ammunition then explodes. Each creature within 2 *(3m)* of the target must make a DEX Save. On a failed Save, a creature takes 4d6 Fire damage, or half as much damage on a successful one.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases to 10 minutes.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's duration increases to 10 minutes.
 - **Classes**: Artificer, Ranger, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -3568,7 +3568,7 @@ You gain 2d4 + 4 Temporary Hit Points.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: PHB'24, page 271)*
 
-### Fanatic’s Fervor
+### Fanatic's Fervor
 *Level 6 Enchantment*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -3613,7 +3613,7 @@ For 1 hour, the target has Disadvantage on Saves against effects that you contro
 - **Classes**: Bard, Cleric, Warlock
 *(Source: CS)*
 
-### Fealty’s Clarion
+### Fealty's Clarion
 *Level 7 Conjuration*
 - **Casting Time**: Action
 - **Range**: Unlimited
@@ -3645,7 +3645,7 @@ A [Frightened](conditions.md#frightened) creature takes the Dash action and move
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You begin to exude a pungent musk that drives creatures around you into a frenzy. Each creature in the area subtracts 1d4 from Saves they make against being [Frightened](conditions.md#frightened).
-This spell’s duration increases when you reach 5th level (10 minutes), 11th level (1 hour), and 17th level (8 hours).
+This spell's duration increases when you reach 5th level (10 minutes), 11th level (1 hour), and 17th level (8 hours).
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -3679,7 +3679,7 @@ The target also has Resistance to all damage except Psychic damage, and it has I
 - **Duration**: 1 minute
 Each other creature in a radius 1 *(1.5m)* column extending beneath and around you is doused in a fine mist of glistening oil, and must succeed on a CON Save or take 8d6 Poison damage, or half as much on a success.
 If an affected creature takes any Fire damage in the next minute, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) Fire damage at the end of each of its turns.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s radius increases by 2 *(3m)* for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's radius increases by 2 *(3m)* for each slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -3850,8 +3850,8 @@ You teleport to an unoccupied space you can see within 6 *(9m)*, then can make u
 - **Components**: V, S
 - **Duration**: Instantaneous
 You strike the ground, splitting open a undefined, undefined, depth 4 *(6m)* fissure in it extending from you.
-Each Large or smaller creature in the fissure’s area must make a DEX Saving Throw. On a Failure, the creature falls into the fissure. On a Success, the creature moves to the nearest unoccupied space outside the fissure’s area.
-**Using a Higher-Level Spell Slot.** The fissure’s length increases by 1 *(1.5m)* for every slot level above 3rd.
+Each Large or smaller creature in the fissure's area must make a DEX Saving Throw. On a Failure, the creature falls into the fissure. On a Success, the creature moves to the nearest unoccupied space outside the fissure's area.
+**Using a Higher-Level Spell Slot.** The fissure's length increases by 1 *(1.5m)* for every slot level above 3rd.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
@@ -3933,9 +3933,9 @@ The target must succeed on a CON Save or be [Paralyzed](conditions.md#paralyzed)
 - **Range**: Self, a length 30 *(45m)* line
 - **Components**: None
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
-A line of distorted space 30 *(45m)* long and 1 *(1.5m)* wide extends from your space, superpositioning each creature in the line’s area.
+A line of distorted space 30 *(45m)* long and 1 *(1.5m)* wide extends from your space, superpositioning each creature in the line's area.
 Until the end of your next turn, or until you leave the area, you and each creature in the area count as being within 1 *(1.5m)* of each other creature in the area, and can teleport to any unoccupied space in the area as a Bonus Action.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell’s duration increases by 1 round for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the spell's duration increases by 1 round for each slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -4006,7 +4006,7 @@ You touch a willing creature. For the duration, the target gains a Fly Speed of 
 You attempt to forcibly teleport multiple creatures into the same space. Each creature of your choice that you can see within range must make a CHA  Save.
 Each creature that fails this Save has its initiative reduced to 0, then teleports to an unoccupied space you can see within range. You can teleport up to two creatures that failed this Save into the same space, fusing them together into a single warped body for the next minute. You can fuse multiple pairs of creatures together in this way.
 While fused, creatures act on the same turn, and only one of them can use movement, use a bonus action, or take reactions in a turn. If the creatures cannot agree on how to use these reactions, they can make a contested CHA  check to determine which creature controls their shared body until the beginning of their next turn.
-Whenever one fused creature takes damage, the creature it is fused to takes the same damage. At the end of each of the fused creatures’ shared turn, one of the creatures can repeat this Save, ending the effect on a success. When the spell ends for a creature, it is expelled into the nearest unoccupied space.
+Whenever one fused creature takes damage, the creature it is fused to takes the same damage. At the end of each of the fused creatures' shared turn, one of the creatures can repeat this Save, ending the effect on a success. When the spell ends for a creature, it is expelled into the nearest unoccupied space.
 - **Classes**: Warlock
 *(Source: CS)*
 
@@ -4040,7 +4040,7 @@ Each creature within 3 *(4.5m)* of the space you departed must succeed on a STR 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Requires a noble title.
 You send insidious thoughts whispering through the minds of two creatures you can see within range.
-At the beginning of each creature’s turn, it must succeed on a WIS Save or become hostile to the other target and indifferent to all other creatures until the beginning of its next turn.
+At the beginning of each creature's turn, it must succeed on a WIS Save or become hostile to the other target and indifferent to all other creatures until the beginning of its next turn.
 If both targets succeed on their Save in a round, or if one of them is reduced to 0 Hit Points, the spell ends.
 - **Classes**: Bard, Sorcerer, Warlock
 *(Source: CS)*
@@ -4101,12 +4101,12 @@ This spell can't be dispelled by Dispel Magic.
 - **Components**: V, S
 - **Duration**: Instantaneous
 You touch a creature and the outermost layer of its flesh begins to harden and calcify, forcing the creature to make a CON Save, becoming [Petrified](conditions.md#petrified) for the duration on a failure.
-At the end of each of the creature’s turns and whenever it takes any damage, it can make a STR Save against your spell save DC, ending the effect and bursting out of the outer layer on a success.
+At the end of each of the creature's turns and whenever it takes any damage, it can make a STR Save against your spell save DC, ending the effect and bursting out of the outer layer on a success.
 A creature with Natural Armor or a similar trait that this effect ends for has its natural AC reduced by 2 until it completes a Short or Long Rest.
 - **Classes**: Druid
 *(Source: CS)*
 
-### Forebear’s Claw
+### Forebear's Claw
 *Level 3 Conjuration*
 - **Casting Time**: Action
 - **Range**: Self, a length 3 *(4.5m)* cone
@@ -4201,7 +4201,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 - **Range**: Touch
 - **Components**: S
 - **Duration**: Instantaneous
-Icy steam rolls off your palm as you attempt to grasp a creature’s limb, freezing it solid. Make a melee spell attack attack against the target. On a hit , the target takes 10d6 Cold damage, then must succeed on a CON Save or be afflicted with Frostbite.
+Icy steam rolls off your palm as you attempt to grasp a creature's limb, freezing it solid. Make a melee spell attack attack against the target. On a hit , the target takes 10d6 Cold damage, then must succeed on a CON Save or be afflicted with Frostbite.
 Frostbite. When a creature contracts frostbite, it loses the use of one of its limbs of its choice until this disease is cured, as the limb goes stiff and pale and the creature loses feeling in it. The creature cannot rest, and loses 5 Hit Points at the end of each hour. This disease is cured if the affected limb is removed.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -4213,7 +4213,7 @@ Frostbite. When a creature contracts frostbite, it loses the use of one of its l
 - **Range**: Touch
 - **Components**: V
 - **Duration**: Instantaneous
-You touch a creature and suspend one disease or condition affecting it, condensing the target’s infirmity into a hardened knot of concentrated poison within its flesh that remains for 24 hours before being regurgitated harmlessly.
+You touch a creature and suspend one disease or condition affecting it, condensing the target's infirmity into a hardened knot of concentrated poison within its flesh that remains for 24 hours before being regurgitated harmlessly.
 The condition can be [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Choking](conditions.md#choking), [Deafened](conditions.md#deafened), [Paralyzed](conditions.md#paralyzed), [Poisoned](conditions.md#poisoned), or [Stunned](conditions.md#stunned).
 If the creature takes 15 or more damage from a single source in that time, the knot bursts and the creature takes 6d6 Poison damage.
 - **Classes**: Druid, Ranger
@@ -4301,9 +4301,9 @@ The spell also effectively extends the time limit on raising the target from the
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You draw forth the spirits of the rats used as the spell’s material component, creating an Ephemeral Swarm in an unoccupied space within 2 *(3m)* of you.
-The Ephemeral Swarm is friendly to you, rolls its own initiative, and obeys your mental commands (no action required) for as long as you maintain concentration. If you don’t issue any commands to the Ephemeral Swarm, it takes no actions even in self defense.
-When the spell ends, the Ephemeral Swarm doesn’t disappear. Instead, you lose control of the Ephemeral Swarm, it becomes hostile toward you and your companions, and it pursues and attacks the nearest living creature on each of its turns.
+You draw forth the spirits of the rats used as the spell's material component, creating an Ephemeral Swarm in an unoccupied space within 2 *(3m)* of you.
+The Ephemeral Swarm is friendly to you, rolls its own initiative, and obeys your mental commands (no action required) for as long as you maintain concentration. If you don't issue any commands to the Ephemeral Swarm, it takes no actions even in self defense.
+When the spell ends, the Ephemeral Swarm doesn't disappear. Instead, you lose control of the Ephemeral Swarm, it becomes hostile toward you and your companions, and it pursues and attacks the nearest living creature on each of its turns.
 After 24 hours, the Ephemeral swarm dissipates.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
@@ -4360,7 +4360,7 @@ When you cast this spell, you skillfully reshape the memories of listeners in yo
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range is suffused in an aura of pure rapturous delight for the next minute, losing the ability to take reactions.
-At the beginning of each of the creature’s turns, it must make a WIS Save. On a failure, the creature voluntarily fails any Save it is able to until the beginning of its next turn.
+At the beginning of each of the creature's turns, it must make a WIS Save. On a failure, the creature voluntarily fails any Save it is able to until the beginning of its next turn.
 On a success, the effect ends.
 - **Classes**: Bard
 *(Source: CS)*
@@ -4372,7 +4372,7 @@ On a success, the effect ends.
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range falls [prone](conditions.md#prone) and is wracked with agony for the next minute.
-At the beginning of each of the creature’s turns, it must succeed on a CON Save or take 3d10 Psychic damage and be unable to stand until the beginning of its next turn, ending the effect on a success.
+At the beginning of each of the creature's turns, it must succeed on a CON Save or take 3d10 Psychic damage and be unable to stand until the beginning of its next turn, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, you can target one additional creature for each slot level above 5.
 - **Classes**: Bard
 *(Source: CS)*
@@ -4390,14 +4390,14 @@ You attempt to encase a creature within range in a shell of translucent ice. The
 - **Classes**: Druid, Warlock
 *(Source: CS)*
 
-### Glazier’s Ace
+### Glazier's Ace
 *Level 2 Transmutation*
 - **Casting Time**: Action
 - **Range**: 3 *(4.5m)*
 - **Components**: S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
-You smash the glass object used in the spell’s casting, sending shards flying in a length 3 *(4.5m)* cone.
+Requires proficiency in Thieves' Cant.
+You smash the glass object used in the spell's casting, sending shards flying in a length 3 *(4.5m)* cone.
 Each creature in the area must succeed on a CON Save or be [Blinded](conditions.md#blinded) and [Bleeding](conditions.md#bleeding) (1d6) for the next minute.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 Using a Higher Level Spell Slot. When you cast this spell using a spell slot of Level 3 or higher, the size of the Cone increases by 2 *(3m)* for each slot level above 2.
@@ -4423,7 +4423,7 @@ Until the spell ends, when you make a CHA  check, you can replace the number you
 Requires the sanction of Shar.
 You open the mind of a creature you can see to the infinite timeless void that envelops the fleeting aberration of existence.
 The target must succeed on a WIS Save or be [Frightened](conditions.md#frightened) and Dazed until the end of its next turn as it struggles against reality.
-On a successful Save or when this effect ends for it, the creature takes 4d6 Psychic damage as the Dark Lady’s truth finds brief footing in its mind.
+On a successful Save or when this effect ends for it, the creature takes 4d6 Psychic damage as the Dark Lady's truth finds brief footing in its mind.
 A creature that fails the initial Save by 10 or more is completely unaffected by the spell.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the duration becomes 1 minute.
 - **Classes**: Bard, Cleric, Paladin
@@ -4461,13 +4461,13 @@ Creatures in the area cannot benefit from Invisibility.
 - **Components**: V, S
 - **Duration**: 1 minute
 A bright glyph flares on the ground in an unoccupied radius 1 *(1.5m)* circle you can see within range.
-The first time a creature enters that space in the next minute, a wave of pressure explodes from the glyph’s center in a radius 2 *(3m)* sphere, forcing each creature in the area to make a CON Save.
+The first time a creature enters that space in the next minute, a wave of pressure explodes from the glyph's center in a radius 2 *(3m)* sphere, forcing each creature in the area to make a CON Save.
 On a failed Save, a creature takes 4d8 Thunder damage, or takes half as much damage on a success.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the spell’s duration increases to 1 hour.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, the spell's duration increases to 1 hour.
 - **Classes**: Artificer, Ranger
 *(Source: CS)*
 
-### Glyph of Light’s Bane
+### Glyph of Light's Bane
 *Level 2 Enchantment*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -4484,7 +4484,7 @@ While cursed in this way, the creature takes 2d6 fire plus 1d10 Necrotic damage 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires a spellcaster that has forgotten a loved one’s face.
+Requires a spellcaster that has forgotten a loved one's face.
 You scribe a glyph of roiling shadow in the air at a point you can see within range where it flares, draining the reality from around it in a radius 1 *(1.5m)* sphere.
 Each creature in the area must succeed on a CHA  Save or take 5d10 Force damage, or half as much on a success.
 A creature killed by this damage turns to shadow and melts away, disintegrating entirely.
@@ -4516,7 +4516,7 @@ When the glyph is triggered, the stored spell takes effect. If the spell has a t
 You choose a target creature, object, or a size 1 *(1.5m)* section of a nonmagical surface within range.
 When you cast this spell, and at the beginning of each of your turns for the duration, the target takes 1d4 Force damage as material is scraped and ground away from it as though gnawed by [invisible](conditions.md#invisible) teeth.
 A creature or object reduced to 0 Hit Points by this damage disintegrates entirely.
-This spell’s damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
+This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level (3d4), and 17th level (4d4).
 - **Classes**: Artificer, Druid
 *(Source: CS)*
 
@@ -4582,7 +4582,7 @@ As a Bonus Action on your later turns, you can repeat the attack against a creat
 - **Components**: V, S
 - **Duration**: Instantaneous
 One creature you can see within 3 *(4.5m)* must succeed on a WIS Save or take 18d10 Psychic damage and be dragged up to 2 *(3m)* toward you, or take half as much damage on a success.
-A target that isn’t [Frightened](conditions.md#frightened) can use its reaction to move up 3 *(4.5m)* directly away from you. If it does, it gains advantage on this Save.
+A target that isn't [Frightened](conditions.md#frightened) can use its reaction to move up 3 *(4.5m)* directly away from you. If it does, it gains advantage on this Save.
 - **Classes**: Cleric
 *(Source: CS)*
 
@@ -4635,12 +4635,12 @@ When the grease appears, each creature standing in its area must succeed on a DE
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You cause a creature or an object you can see within range to grow unnaturally slick. If the target is unwilling, it can make a CON Save. On a success, the spell has no effect.
 If the target is a creature, it gains the following effects:
   - The target can attempt to escape from grapples and other forms of restraint as a bonus action.
   - If the target expends its last 1 *(1.5m)* of movement on its turn, it continues moving in the same direction for up to 2 *(3m)* more.
-  - When the target is hit with an attack, it is pushed up to 2 *(3m)* from that attack’s source.
+  - When the target is hit with an attack, it is pushed up to 2 *(3m)* from that attack's source.
   - If the target is an object, a creature holding that object must succeed on a DEX Save at the beginning of each of its turns or throw it 2 *(3m)* in a random direction.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -4782,7 +4782,7 @@ As a Bonus Action on your later turns, you can change the direction in which the
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Water swirls violently in a radius 6 *(9m)* emanation from a point you can see within range for the duration. Creatures in the area treat any movement away from its center as being over Difficult Terrain.
-A creature that starts its turn in the area must make a STR Saving Throw. On a failure, the creature is dragged up to 2 *(3m)* toward the area’s center.
+A creature that starts its turn in the area must make a STR Saving Throw. On a failure, the creature is dragged up to 2 *(3m)* toward the area's center.
 If this spell targeted an area of water, a creature that fails this Save additionally takes 2d8 Bludgeoning damage.
 **Using a Higher-Level Spell Slot.** The size of the Emanation increases by 2 *(3m)* for every slot level above 3.
 - **Classes**: Druid, Ranger
@@ -4847,8 +4847,8 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 - **Range**: 1 *(1.5m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You strike forth with the weapon used in the spell’s casting, wreathing it power.
-Make a weapon attack against the target. On a hit, the target suffers the attack’s normal effects and takes an additional 3d10 Force damage.
+You strike forth with the weapon used in the spell's casting, wreathing it power.
+Make a weapon attack against the target. On a hit, the target suffers the attack's normal effects and takes an additional 3d10 Force damage.
 A target affected by one or more spells that increase its armor class takes an additional 1d10 Force damage and has one such spell affecting it end.
 - **Classes**: Artificer, Cleric, Paladin
 *(Source: CS)*
@@ -4869,7 +4869,7 @@ You unleash virulent magic on a creature you can see within range. The target ma
 - **Range**: 1 *(1.5m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You extend a small gift toward a creature within range. If the creature has an INT score of 4 or higher and could carry the gift, it must succeed on a WIS Save or accept the gift. A target automatically succeeds on this Save if it can’t be [Charmed](conditions.md#charmed).
+You extend a small gift toward a creature within range. If the creature has an INT score of 4 or higher and could carry the gift, it must succeed on a WIS Save or accept the gift. A target automatically succeeds on this Save if it can't be [Charmed](conditions.md#charmed).
 While it carries the gift, the creature has disadvantage on attacks that target you, and may repeat this Save as an action, discarding the gift on a success. A creature makes this Save with advantage if you took any hostile action toward it since the end of its last turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the target is additionally Charmed by you while it carries the gift.
 - **Classes**: Bard
@@ -4928,7 +4928,7 @@ A creature of your choice that you can see within range regains Hit Points equal
 - **Components**: V, S
 - **Duration**: 1 round
 You force a creature of CR 10 or below that you can see within range to to succeed on a CHA  Save or be wreathed in runic magic.
-If the creature dies before the beginning of your next turn, a demon of equal or lesser CR is summoned in its space. The demon is hostile to all creatures and acts under the DM’s control.
+If the creature dies before the beginning of your next turn, a demon of equal or lesser CR is summoned in its space. The demon is hostile to all creatures and acts under the DM's control.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -4938,7 +4938,7 @@ If the creature dies before the beginning of your next turn, a demon of equal or
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: Instantaneous
-You attempt to magically crush a creature’s heart within its chest. One creature you can see within range must succeed on a CON Save or die. A creature with no unexpended hit dice makes this save with disadvantage.
+You attempt to magically crush a creature's heart within its chest. One creature you can see within range must succeed on a CON Save or die. A creature with no unexpended hit dice makes this save with disadvantage.
 - **Classes**: Wizard
 *(Source: CS)*
 
@@ -5009,7 +5009,7 @@ Damage dealt by this spell ignores resistance to Fire damage, and treats immunit
 - **Range**: 24 *(36m)*
 - **Components**: S
 - **Duration**: Instantaneous
-A Sphere of crackling necrofire flares in your palm, then rushes to a point you can see within range and explodes. Each creature in a radius 4 *(6m)* sphere centered on that point must succeed on a DEX Save or take 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage and be knocked [prone](conditions.md#prone). On a success, the creature takes half as much damage and isn’t knocked [prone](conditions.md#prone).
+A Sphere of crackling necrofire flares in your palm, then rushes to a point you can see within range and explodes. Each creature in a radius 4 *(6m)* sphere centered on that point must succeed on a DEX Save or take 21 (6d6) Fire damage plus 21 (6d6) Necrotic damage and be knocked [prone](conditions.md#prone). On a success, the creature takes half as much damage and isn't knocked [prone](conditions.md#prone).
 Damage dealt by this spell ignores resistance to Fire damage, and treats immunity to Fire damage as resistance.
 - **Classes**: Warlock
 *(Source: CS)*
@@ -5102,7 +5102,7 @@ As a bonus action on your turn, you can dismiss this spell and cause the weapon 
 - **Classes**: Cleric, Paladin
 *(Source: XGE, page 157)*
 
-### Honor’s Bond
+### Honor's Bond
 *Level 2 Enchantment*
 - **Casting Time**: Bonus Action
 - **Range**: 12 *(18m)*
@@ -5121,7 +5121,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 - **Range**: Touch
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You seed a creature with spores that burst into fungal growths, anchoring a creature to the nearest surface. Make a melee spell attack. On a hit, the creature takes 6d6 Necrotic damage and becomes [grappled](conditions.md#grappled) in place for the spell’s duration if it is within 1 *(1.5m)* of a solid surface. The escape DC is equal to your save DC.
+You seed a creature with spores that burst into fungal growths, anchoring a creature to the nearest surface. Make a melee spell attack. On a hit, the creature takes 6d6 Necrotic damage and becomes [grappled](conditions.md#grappled) in place for the spell's duration if it is within 1 *(1.5m)* of a solid surface. The escape DC is equal to your save DC.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -5373,7 +5373,7 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Infernal flames wreath an ally you can see within range, bolstering its STR. The target’s melee attacks have advantage and deal an additional 1d6 Fire damage on a hit.
+Infernal flames wreath an ally you can see within range, bolstering its STR. The target's melee attacks have advantage and deal an additional 1d6 Fire damage on a hit.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Bard, Warlock, Wizard
 *(Source: CS)*
@@ -5566,8 +5566,8 @@ You are immune to all damage until the spell ends.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-When you deal 15 or fewer (minimum 1) Lightning damage to a creature with a spell or magical effect, you can attune your magical energy to that creature’s natural frequencies.
-For the next minute, that creature has disadvantage on Saves against spells and magical effects you control that deal Lightning damage, and Lightning damage you deal ignores that creature’s damage resistance.
+When you deal 15 or fewer (minimum 1) Lightning damage to a creature with a spell or magical effect, you can attune your magical energy to that creature's natural frequencies.
+For the next minute, that creature has disadvantage on Saves against spells and magical effects you control that deal Lightning damage, and Lightning damage you deal ignores that creature's damage resistance.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -5662,7 +5662,7 @@ You can move through the space of another creature, and it doesn't count as diff
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You invest a target with cursed elemental energy, causing nearby bodies of water to roil when the target draw nears and tendrils of water to drag it deeper under the waves.
 The target must make a CHA  save. On a failure, the creature is Cursed for the duration. A creature Cursed in this way treats all movement through water as being over Difficult Terrain, and immediately sinks 2 *(3m)* whenever it starts its turn swimming.
-**Using a Higher-Level Spell Slot.** If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn’t require Concentration and lasts until dispelled.
+**Using a Higher-Level Spell Slot.** If you use a level 3 or 4 spell slot, the duration becomes 1 hour. If you use a level 5+ spell slot, the spell doesn't require Concentration and lasts until dispelled.
 - **Classes**: Cleric, Druid, Paladin, Ranger
 *(Source: CS)*
 
@@ -5710,7 +5710,7 @@ Each creature in the area must make a DEX Save. On a failed save, a creature tak
 - **Duration**: Instantaneous
 You call a torrent of lava to spew up from the earth in a height 12 *(18m)*, radius 3 *(4.5m)* cylinder centered on a point within range.
 Each creature in the area must make a DEX Save. On a failed Save, a creature takes 6d10 Fire damage and is knocked [prone](conditions.md#prone). On a successful Save, a creature takes half as much damage and is not knocked [prone](conditions.md#prone).
-For the next minute, the ground in the cylinder’s area is covered in lava. A creature that ends its turn on the ground in the area or enters it for the first time on a turn must make the same Save.
+For the next minute, the ground in the cylinder's area is covered in lava. A creature that ends its turn on the ground in the area or enters it for the first time on a turn must make the same Save.
 - **Classes**: Artificer, Cleric, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -5856,7 +5856,7 @@ A crackling ball of lightning kindles into existence at a point you can see, the
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A sheet of continuous lightning rises to the sky, encasing a radius 4 *(6m)* sphere cylinder centered on a point you can see for the next minute.
-A creature that is in the wall’s space when it appears, that enters the wall’s space for the first time on a turn, or that ends its turn there must make a DEX Save.
+A creature that is in the wall's space when it appears, that enters the wall's space for the first time on a turn, or that ends its turn there must make a DEX Save.
 On a failure, a creature takes 8d6 Lightning damage and is pushed up to 4 *(6m)* to a side of your choice, or takes half as much damage on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the Lightning damage increases by 2d6 for each slot level above 6.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
@@ -5879,12 +5879,12 @@ This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level 
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You transform a creature’s flesh, causing it to take on properties of living wood. One creature you can see within range must succeed on a CON Save or gain the Plant type in addition to its other creature types, plus one additional effect of your choice.
-The creature’s movement speed is reduced by half and it cannot fly.
-The creature can’t take bonus actions or reactions.
+You transform a creature's flesh, causing it to take on properties of living wood. One creature you can see within range must succeed on a CON Save or gain the Plant type in addition to its other creature types, plus one additional effect of your choice.
+The creature's movement speed is reduced by half and it cannot fly.
+The creature can't take bonus actions or reactions.
 The creature gains vulnerability to Fire damage.
 The creature takes 1d10 Fire damage (before vulnerability is applied) whenever it deals any Fire damage.
-This spell’s effects last until cured by Greater Restoration or similar magic.
+This spell's effects last until cured by Greater Restoration or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 7 or higher, the duration becomes 1 minute (concentration). On each of your turns until the spell ends, you can use your bonus action to force the target to repeat the Save, applying another effect of your choice to the target on a failure.
 - **Classes**: Druid
 *(Source: CS)*
@@ -5906,7 +5906,7 @@ On a failed save, the next time that creature takes damage before the end of you
 - **Range**: Self, a radius 6 *(9m)* sphere
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You begin a wretched chant that corrupts a mortal’s connection to the divine. Each humanoid creature of your choice within 6 *(9m)* of you that can hear it must succeed on a CHA  Save or be cursed for the next minute.
+You begin a wretched chant that corrupts a mortal's connection to the divine. Each humanoid creature of your choice within 6 *(9m)* of you that can hear it must succeed on a CHA  Save or be cursed for the next minute.
 Whenever a creature cursed in this way receives magical healing, it gains the same amount of Temporary Hit Points. While it has any of these Temporary Hit Points, the creature becomes hostile to all living creatures.
 - **Classes**: Bard, Paladin
 *(Source: CS)*
@@ -5929,9 +5929,9 @@ You chant forth a stream of infernal invectives, choosing an intact corpse or an
 - **Components**: V, S
 - **Duration**: Instantaneous
 You touch a creature and attempt to empty its body of spirits. The creature and each other spirit inhabiting its body must succeed on a CHA  Save or have its disembodied spirit expelled into the nearest unoccupied space.
-While disembodied, a creature’s spirit gains a fly speed equal to its movement speed and cannot directly deal damage, but otherwise uses its own statistics.
-The creature’s body counts as [Unconscious](conditions.md#unconscious) while emptied of spirits. A body not inhabited by its native spirit can be Possessed by any disembodied spirit within 1 *(1.5m)* of it as an action, rising and acting under that spirit’s control.
-If the body is already Possessed, a disembodied spirit in the body’s space may attempt to expel and replace the possessing spirit as an action with a contested CHA  check.
+While disembodied, a creature's spirit gains a fly speed equal to its movement speed and cannot directly deal damage, but otherwise uses its own statistics.
+The creature's body counts as [Unconscious](conditions.md#unconscious) while emptied of spirits. A body not inhabited by its native spirit can be Possessed by any disembodied spirit within 1 *(1.5m)* of it as an action, rising and acting under that spirit's control.
+If the body is already Possessed, a disembodied spirit in the body's space may attempt to expel and replace the possessing spirit as an action with a contested CHA  check.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: CS)*
 
@@ -5975,12 +5975,12 @@ This spell can't locate an object if any thickness of lead blocks a direct path 
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You generate an irresistibly attractive force between two creatures you can see within range. At the end of each affected creature’s turn, it must succeed on a STR Save or be dragged up to 6 *(9m)* directly toward the other affected creature.
+You generate an irresistibly attractive force between two creatures you can see within range. At the end of each affected creature's turn, it must succeed on a STR Save or be dragged up to 6 *(9m)* directly toward the other affected creature.
 Whenever one affected creature enters a space within 1 *(1.5m)* of the other for the first time on a turn, each of them takes 3d6 Bludgeoning damage.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
 
-### Lolth’s Favor
+### Lolth's Favor
 *Level 3 Conjuration*
 - **Casting Time**: Action
 - **Range**: 12 *(18m)*
@@ -6155,8 +6155,8 @@ Physical interaction with the image reveals it to be an illusion, for things can
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to bleed away a creature’s reserves of magic, forcing it to make a CHA  Save. On a failure, the target must expend one spell level worth of spell slots for each point it failed by.
-A creature that can’t do so loses no spell slots on a failed Save, and is instead [Dazed](conditions.md#dazed) until the end of its next turn on a failure.
+You attempt to bleed away a creature's reserves of magic, forcing it to make a CHA  Save. On a failure, the target must expend one spell level worth of spell slots for each point it failed by.
+A creature that can't do so loses no spell slots on a failed Save, and is instead [Dazed](conditions.md#dazed) until the end of its next turn on a failure.
 Design Note: Spellcasters Without Spell Slots. At DM discretion, a spellcasting monster that does not use spell slots affected by this ability may suffer some other effect, such as temporarily losing the ability to cast its most powerful spell, or having one or more uses of a limited magical ability depleted.
 - **Classes**: Artificer, Bard, Cleric, Paladin
 *(Source: CS)*
@@ -6180,7 +6180,7 @@ The escape DC for this restraint is equal to your spell save DC.
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: 1 minute
-You attempt to bind a creature’s magic, forcing it to make a WIS Save.
+You attempt to bind a creature's magic, forcing it to make a WIS Save.
 On a failure, you can choose a spell level. You learn each spell of that level that the target can cast, then can choose one spell revealed in this way.
 The target loses the ability to cast that spell for the next minute.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the duration becomes 24 hours.
@@ -6322,9 +6322,9 @@ You create six tiny meteors in your space. They float in the air and orbit you f
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You delve into the mind of a willing creature you touch, allowing it to seal away a portion of its thoughts and memories, and to specify a condition under which they will be unsealed.
-This effect ends when the specified condition is met, or when cured by Greater Restoration cast at or above this spell’s level.
+This effect ends when the specified condition is met, or when cured by Greater Restoration cast at or above this spell's level.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -6355,7 +6355,7 @@ You attempt to bind a creature within an illusory cell that only it perceives. O
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 1 round
-You attempt to turn a creature’s mind against it. One creature you can see within range must make an INT Save. A creature takes 8d6 Psychic damage on a failed save, or half as much damage on a successful one.
+You attempt to turn a creature's mind against it. One creature you can see within range must make an INT Save. A creature takes 8d6 Psychic damage on a failed save, or half as much damage on a successful one.
 A creature that fails this save by 5 or more additionally has its movement controlled by you on its following turn. The creature can take its action before or after moving.
 - **Classes**: Bard, Sorcerer
 *(Source: CS)*
@@ -6454,15 +6454,15 @@ You send a pulse of terrible mental static that briefly overwhelms the faculties
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
-### Mind’s Guise
+### Mind's Guise
 *Level 5 Illusion (ritual)*
 - **Casting Time**: 1 Min. or Ritual
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 8 hours
-Requires proficiency in Thieves’ Cant.
-You imagine a persona to occupy the outer reaches of your mind, warding against telepathic intrusion. For the duration, you can’t be compelled to speak truthfully or be prevented from lying, and a creature that attempts to read your mind must succeed on an INT Save or perceive it as though it were the mind of your imagined persona.
-A creature making multiple attempts to read your mind encounters the same result; it can’t repeat this Save until you cast the spell again.
+Requires proficiency in Thieves' Cant.
+You imagine a persona to occupy the outer reaches of your mind, warding against telepathic intrusion. For the duration, you can't be compelled to speak truthfully or be prevented from lying, and a creature that attempts to read your mind must succeed on an INT Save or perceive it as though it were the mind of your imagined persona.
+A creature making multiple attempts to read your mind encounters the same result; it can't repeat this Save until you cast the spell again.
 This spell does not allow you to detect when creatures are attempting to read your mind.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -6509,7 +6509,7 @@ A creature is unaffected by this spell if it is [Blinded](conditions.md#blinded)
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to dodge a harmful spell by magically switching places with a willing creature within range, or with an illusion within range you are concentrating on. You and your target teleport to exchange places with one another. If you were the target of the triggering spell, your target becomes the triggering spell’s new target.
+You attempt to dodge a harmful spell by magically switching places with a willing creature within range, or with an illusion within range you are concentrating on. You and your target teleport to exchange places with one another. If you were the target of the triggering spell, your target becomes the triggering spell's new target.
 - **Classes**: Bard
 *(Source: CS)*
 
@@ -6570,7 +6570,7 @@ If you cast this spell multiple times, you can have no more than two of its non-
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a creature, attempting to smear a single moment in its life across time.
-The target must make a CHA  Save. On a failure, on each of the affected creature’s turns for the next minute it must take the same action it took on its previous turn, expending no resources to do so.
+The target must make a CHA  Save. On a failure, on each of the affected creature's turns for the next minute it must take the same action it took on its previous turn, expending no resources to do so.
 The creature repeats this Save at the end of each of its turns, ending the effect on a success or teleporting to the space it began its turn on a failure.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: CS)*
@@ -6650,7 +6650,7 @@ On your later turns, you can take a Bonus Action to move the sword up to 6 *(9m)
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-For the duration, whenever a creature casts a spell that affects a spherical area centered on a point you can see within range, you can increase or decrease that Sphere’s radius by 1d4 x 1 *(1.5m)*.
+For the duration, whenever a creature casts a spell that affects a spherical area centered on a point you can see within range, you can increase or decrease that Sphere's radius by 1d4 x 1 *(1.5m)*.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -6705,7 +6705,7 @@ Whenever an ooze deals any Acid damage to you, that damage is reduced by 5. Whil
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-As part of the casting of this spell, you smash the piece of pottery used as a material component of this spell, creating a diameter 1 *(1.5m)* zone of magical non-silence in a space you can see within range. For the duration, the area can’t be affected by any form of magical silence.
+As part of the casting of this spell, you smash the piece of pottery used as a material component of this spell, creating a diameter 1 *(1.5m)* zone of magical non-silence in a space you can see within range. For the duration, the area can't be affected by any form of magical silence.
 - **Classes**: Artificer, Bard, Wizard
 *(Source: CS)*
 
@@ -6740,7 +6740,7 @@ You gain an enhanced awareness of your surroundings as your vision stretches in 
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 You sculpt raw magical force into two phantasmal constructs, summoning two Faithful Phantoms to unoccupied spaces within range.
 The phantoms are friendly to you and your companions for the duration, and act on initiative count 0, instead of rolling initiative.
-They obey any verbal commands that you issue to them (no action required by you). If you don’t issue any commands to the phantoms, they defend themselves from hostile creatures but otherwise take no actions.
+They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to the phantoms, they defend themselves from hostile creatures but otherwise take no actions.
 When the spell ends, the phantoms immediately disappear.
 - **Classes**: Bard, Wizard
 *(Source: CS)*
@@ -6818,7 +6818,7 @@ You recall a spell of Level 5 or below with a casting time greater than 1 action
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Until the spell ends, one willing creature you touch is protected against creatures that are wearing metal armor.
-Creatures wearing metal armor have disadvantage on attack rolls against the target, and the target can’t be [grappled](conditions.md#grappled) or forced to move by them.
+Creatures wearing metal armor have disadvantage on attack rolls against the target, and the target can't be [grappled](conditions.md#grappled) or forced to move by them.
 - **Classes**: Artificer, Wizard
 *(Source: CS)*
 
@@ -6932,7 +6932,7 @@ On a failure, the target falls [prone](conditions.md#prone) and is dragged up to
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You attempt to permanently launch a creature you can see within range into the outer darkness. The target must make a CHA  Save or have the effect that gravity has upon it reversed.
-If you maintain concentration for the spell’s full duration, the effect remains until dispelled.
+If you maintain concentration for the spell's full duration, the effect remains until dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -6956,7 +6956,7 @@ Mischievous Surged4Effect1The smell of apple pie fills the air, and each creatur
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 round
-As a reaction when a creature you can see within 6 *(9m)* fails a CON Save by 5 or more, you corrupt the creature’s wounds with foul vapors.
+As a reaction when a creature you can see within 6 *(9m)* fails a CON Save by 5 or more, you corrupt the creature's wounds with foul vapors.
 The creature is unaffected by the first source of healing it receives before the end of its next turn.
 - **Classes**: Cleric, Druid
 *(Source: CS)*
@@ -6997,7 +6997,7 @@ A creature that fails this Save by 5 or more additionally is [Paralyzed](conditi
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
-### Night’s Black Veil
+### Night's Black Veil
 *Level 6 Enchantment*
 - **Casting Time**: Action
 - **Range**: Self
@@ -7011,7 +7011,7 @@ An [Unconscious](conditions.md#unconscious) creature wakes if it takes any damag
 - **Classes**: Bard, Cleric, Druid, Warlock
 *(Source: CS)*
 
-### Night’s Caress
+### Night's Caress
 *Level 3 Enchantment*
 - **Casting Time**: Action
 - **Range**: Touch
@@ -7110,9 +7110,9 @@ A creature that is flying makes this Save with disadvantage.
 - **Components**: V, S
 - **Duration**: 10 minutes
 You conjure a yawning,a radius 2 *(3m)* sphere conduit to Baator in an unoccupied space you can see within range. This portal can be damaged and destroyed (15 AC, 250 HP, immunity to Fire and Poison).
-When you cast this spell, and at the beginning of each of your turns, you can summon a willing creature of CR 5 or lower that you are familiar with from Baator to an unoccupied space within 2 *(3m)* of the portal. When you summon a creature in this way, the portal loses Hit Points equal to half the summoned creature’s maximum Hit Points.
+When you cast this spell, and at the beginning of each of your turns, you can summon a willing creature of CR 5 or lower that you are familiar with from Baator to an unoccupied space within 2 *(3m)* of the portal. When you summon a creature in this way, the portal loses Hit Points equal to half the summoned creature's maximum Hit Points.
 A creature summoned in this way is banished back to Baator when it is reduced to 0 Hit Points, when the portal is destroyed, or when the spell ends.
-**Using a Higher-Level Spell Slot.** The portal’s Hit Points and Hit Point maximum increase by 50 for each spell slot level above 7.
+**Using a Higher-Level Spell Slot.** The portal's Hit Points and Hit Point maximum increase by 50 for each spell slot level above 7.
 - **Classes**: Cleric, Warlock
 *(Source: CS)*
 
@@ -7192,8 +7192,8 @@ When you or one of your allies would take damage, you can choose a willing ally 
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
-You charge the weapon used in this spell’s casting to augment the pain inflicted by it and make a melee attack with it against one creature within the weapon’s reach. Make a melee spell attack against the target. On a hit, the target suffers the weapon attack’s normal effects, plus an additional 1d8 Psychic damage.
-Damage dealt by this attack can’t reduce the target below 1 Hit Point.
+You charge the weapon used in this spell's casting to augment the pain inflicted by it and make a melee attack with it against one creature within the weapon's reach. Make a melee spell attack against the target. On a hit, the target suffers the weapon attack's normal effects, plus an additional 1d8 Psychic damage.
+Damage dealt by this attack can't reduce the target below 1 Hit Point.
 Cantrip Upgrade. The Psychic damage increases by ld8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Bard, Cleric, Warlock, Wizard
 *(Source: CS)*
@@ -7216,7 +7216,7 @@ A creature [Poisoned](conditions.md#poisoned) in this way repeats this Save at t
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-A dense, psychically charged fog descends in a radius 6 *(9m)* sphere centered on a point you can see within range, obscuring the area for the spell’s duration with frightening apparitions and distorted sounds.
+A dense, psychically charged fog descends in a radius 6 *(9m)* sphere centered on a point you can see within range, obscuring the area for the spell's duration with frightening apparitions and distorted sounds.
 A creature hostile to you that starts its turn in the fog, or enters it for the first time on a turn, must succeed on a WIS Save or be [Frightened](conditions.md#frightened) of you until the beginning of its next turn.
 A creature that fails this Save by 5 or more uses all of its remaining movement to move in a random direction.
 - **Classes**: Artificer, Druid, Ranger
@@ -7375,7 +7375,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You anoint an edged weapon or piece of ammunition you touch with a drop of your corrupted life essence, poisoning it for the next minute. The first time each turn a creature is dealt piercing or Slashing damage with the weapon, it must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) until the end of its next turn.
-When you cast this spell, you lose one hit point, then may choose to lose one unexpended hit die. If you do, the spell doesn’t require Concentration.
+When you cast this spell, you lose one hit point, then may choose to lose one unexpended hit die. If you do, the spell doesn't require Concentration.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, you may have it affect one additional weapon or piece of ammunition in range for each two slot levels above 1.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
@@ -7397,7 +7397,7 @@ You spray toxic mist at a creature within range. Make a ranged spell attack agai
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You twist the poison in a creature’s veins to shackle its mind. Choose a target that is [Poisoned](conditions.md#poisoned). The [Poisoned](conditions.md#poisoned) condition ends for the target and the target is [Charmed](conditions.md#charmed) by you for the duration.
+You twist the poison in a creature's veins to shackle its mind. Choose a target that is [Poisoned](conditions.md#poisoned). The [Poisoned](conditions.md#poisoned) condition ends for the target and the target is [Charmed](conditions.md#charmed) by you for the duration.
 The target must then make a WIS Saving Throw. On a failure, the target is additionally Dominated by you for the next minute. The Dominated creature can repeat this Save at the end of each of its turns, ending the Dominated condition on a success.
 - **Classes**: Druid, Warlock
 *(Source: CS)*
@@ -7410,7 +7410,7 @@ The target must then make a WIS Saving Throw. On a failure, the target is additi
 - **Duration**: Instantaneous
 A blast of icy wind rushes out from you in each direction, driving your foes away.
 Each creature within 2 *(3m)* of you must succeed on a STR Save or take 3d8 Cold damage and be pushed up to 2 *(3m)* away.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the spell’s radius and the distance a creature is pushed on a failed Save each increase by 1 *(1.5m)* for each slot level above 2
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the spell's radius and the distance a creature is pushed on a failed Save each increase by 1 *(1.5m)* for each slot level above 2
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7465,7 +7465,7 @@ A wave of healing energy washes over one creature you can see within range. The 
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You utter a word of power that can compel one creature you can see within range to drop [unconscious](conditions.md#unconscious). If the creature you choose has 10 Hit Points or fewer, it is reduced to 0 Hit Points. Otherwise, the spell has no effect.
 If the creature would make death Saves, it does so as normal.
 - **Classes**: Bard, Druid, Ranger, Wizard
@@ -7510,7 +7510,7 @@ The [Stunned](conditions.md#stunned) target makes a CON Save at the end of each 
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 round
-You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and is [Dazed](conditions.md#dazed) until the end of its next turn. This damage can’t reduce a creature below 1 Hit Point.
+You speak a word of Power, targeting a creature you can see within range. The target takes 25 Psychic damage and is [Dazed](conditions.md#dazed) until the end of its next turn. This damage can't reduce a creature below 1 Hit Point.
 **Using a Higher-Level Spell Slot.** The Psychic damage increases by 10 for every slot level above 5.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -7644,7 +7644,7 @@ Prismatic LayersOrderEffects1Red. Failed Save: 12d6 Fire damage. Successful Save
 - **Components**: V
 - **Duration**: Instantaneous
 Requires a noble title.
-You call out a command that echoes with the STR of ages. Each creature of your choice within range must make a WIS Save. On a failure, the creature’s initiative is reduced by 5, to a minimum of 0.
+You call out a command that echoes with the STR of ages. Each creature of your choice within range must make a WIS Save. On a failure, the creature's initiative is reduced by 5, to a minimum of 0.
 - **Classes**: Bard, Sorcerer
 *(Source: CS)*
 
@@ -7734,7 +7734,7 @@ You touch a creature and end the [Poisoned](conditions.md#poisoned) condition on
 - **Duration**: Instantaneous
 You channel a lance of psychic energy at a creature within range of you or of a creature [charmed](conditions.md#charmed) by you. Make a ranged spell attack against the target.
 On a hit, the target takes 8d6 Psychic damage and is pushed up to 2 *(3m)* away.
-You may have this attack originate from a creature within range that is [charmed](conditions.md#charmed) by you, using the [charmed](conditions.md#charmed) creature’s senses.
+You may have this attack originate from a creature within range that is [charmed](conditions.md#charmed) by you, using the [charmed](conditions.md#charmed) creature's senses.
 - **Classes**: Bard, Sorcerer
 *(Source: CS)*
 
@@ -7814,7 +7814,7 @@ Choose an area of nonmagical flame that you can see and that fits within a size 
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You suppress one spell of Level 7 or below affecting a space or creature you can see within range, negating its effects until the beginning of your next turn.
 - **Classes**: Bard
 *(Source: CS)*
@@ -7842,7 +7842,7 @@ On a successful Save, the target can use its reaction to make a melee attack.
 Three bolts of fire flare from above, each exploding in a radius 1 *(1.5m)* sphere centered on a point within range you can see.
 Each flammable object in the area of one or more explosions ignites, and each creature in the area of one or more of the explosions must make a DEX Save, unless it is beneath total cover.
 On a failed Save, a creature takes 3d6 Fire damage.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3th level or above, the spell’s Fire damage increases by 1d6 for each two slot levels above 2.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3th level or above, the spell's Fire damage increases by 1d6 for each two slot levels above 2.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -7913,7 +7913,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 You toss the rat used as the material component in this spell to an unoccupied space within range where it begins to split and multiply and convolute, ratflesh growing and tangling until it transforms into a Waterdavian Rat-King for the duration.
 In combat, the rat-king shares your initiative count, but takes its turn immediately after yours.
-When the spell ends or the rat-king drops to 0 Hit Points, it reverts to its normal rat form and any Waterdavian Smallrats created with its Thrashing Mass reaction disappear. Any additional damage dealt beyond the rat-king’s hit point total does not carry over.
+When the spell ends or the rat-king drops to 0 Hit Points, it reverts to its normal rat form and any Waterdavian Smallrats created with its Thrashing Mass reaction disappear. Any additional damage dealt beyond the rat-king's hit point total does not carry over.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8004,7 +8004,7 @@ On a hit, the target takes 6d8 Psychic damage. Then, if the target is attuned to
 - **Components**: V, S
 - **Duration**: Instantaneous
 Rivulets of dust swirl through the air in a radius 4 *(6m)* emanation from you. Each creature in the area must make a CON Saving Throw. On a Failure, a creature takes 6d10 Force damage plus 4d8 Necrotic damage. On a Success, a creature takes half damage.
-Then, each plant, corpse, and organic object in the area that isn’t magical disintegrates.
+Then, each plant, corpse, and organic object in the area that isn't magical disintegrates.
 **Using a Higher-Level Spell Slot.** If you use a level 9 spell slot, the damage is maximized, instead of rolling.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
 *(Source: CS)*
@@ -8083,7 +8083,7 @@ These flames are extinguished if your concentration ends, or if a creature uses 
 - **Components**: V, S
 - **Duration**: Instantaneous
 You raise a hand and a torrent of shadows streams forth in a length 6 *(9m)* cone, pushing each light source in the area up to 6 *(9m)* away.
-An affected nonmagical light source or magical light produced by a spell of Level 3 or below is extinguished if it can’t be pushed due to being anchored in place.
+An affected nonmagical light source or magical light produced by a spell of Level 3 or below is extinguished if it can't be pushed due to being anchored in place.
 A creature carrying an affected light source can make a STR Save, resisting the spell on a success.
 - **Classes**: Artificer, Bard, Cleric, Paladin, Sorcerer, Wizard
 *(Source: CS)*
@@ -8104,9 +8104,9 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: 10 days
-Requires proficiency in Thieves’ Cant.
-You touch a corpse or other remains, infusing it with a jolt of necromantic power. For the duration, the target counts as Undead (rather than as a corpse), and can’t be returned to life.
-The spell also effectively prevents effects such as Speak With Dead, Gentle Repose, or Animate Dead from working on the target, since they can’t affect Undead.
+Requires proficiency in Thieves' Cant.
+You touch a corpse or other remains, infusing it with a jolt of necromantic power. For the duration, the target counts as Undead (rather than as a corpse), and can't be returned to life.
+The spell also effectively prevents effects such as Speak With Dead, Gentle Repose, or Animate Dead from working on the target, since they can't affect Undead.
 At DM discretion, this spell might increase the likelihood of spontaneous forms of undeath.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the effect lasts until dispelled.
 - **Classes**: Cleric, Wizard
@@ -8190,10 +8190,10 @@ A creature can shatter this bridge as an Action with a successful STR Save or by
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: 10 minutes
-You raise a radius 6 *(9m)* sphere spherical barrier of opaque ice centered on a point you can see within 12 *(18m)*, where it appears suspended and stationary in space, requiring no support. If the barrier cuts through a creature’s space when it appears, the creature within its area is pushed to a side of the wall of the creature’s choice.
-The barrier can be damaged and destroyed (AC 10, 100 Hit Points, vulnerability to Fire damage), and whenever a creature deals 25 or more damage to the barrier in a turn it may open a breach large enough for a Medium creature to squeeze through at a point in the attack’s reach or range.
+You raise a radius 6 *(9m)* sphere spherical barrier of opaque ice centered on a point you can see within 12 *(18m)*, where it appears suspended and stationary in space, requiring no support. If the barrier cuts through a creature's space when it appears, the creature within its area is pushed to a side of the wall of the creature's choice.
+The barrier can be damaged and destroyed (AC 10, 100 Hit Points, vulnerability to Fire damage), and whenever a creature deals 25 or more damage to the barrier in a turn it may open a breach large enough for a Medium creature to squeeze through at a point in the attack's reach or range.
 If the barrier has 50 Hit Points or fewer, a Large creature may squeeze through any hole opened in it.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the barrier’s Hit Points increase by 10 for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the barrier's Hit Points increase by 10 for each slot level above 5.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8235,8 +8235,8 @@ You kindle the bloodlust of a friendly creature you can see within range. The cr
 - **Range**: 1 *(1.5m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You wrench an unbound Demon from the depths of The Abyss, conjuring it to an unoccupied space within range. You choose the Demon’s type, which must be of Challenge Rating 7 or below.
-The demon acts on its own Initiative under the DM’s control, is hostile to all creatures including you, and remains until it is reduced to 0 Hit Points, at which point it is banished back to The Abyss.
+You wrench an unbound Demon from the depths of The Abyss, conjuring it to an unoccupied space within range. You choose the Demon's type, which must be of Challenge Rating 7 or below.
+The demon acts on its own Initiative under the DM's control, is hostile to all creatures including you, and remains until it is reduced to 0 Hit Points, at which point it is banished back to The Abyss.
 Most demons summoned in this way will attack the nearest creature on each of their turns, and will rampage indiscriminately until destroyed.
 **Using a Higher-Level Spell Slot.** The Challenge Rating of Demons you can summon this way increases by 2 for every slot level above 5.
 - **Classes**: Cleric, Warlock
@@ -8309,8 +8309,8 @@ When one or more of these targets rolls initiative in the area, each target in t
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You conjure forth a raging whirlwind of blood in a radius 3 *(4.5m)* circle centered on a point you can see within range.
 The area is difficult terrain, and a living creature that starts its turn in the area must succeed on a CON Save or lose one unexpended hit die, or drop to 0 Hit Points if it cannot.
-Whenever a creature loses a hit die in this way, the whirlwind’s radius grows by 1 *(1.5m)*, then each creature in its area takes 1d6 Slashing damage.
-**Using a Higher-Level Spell Slot.** If you cast this spell using a spell slot of Level 7 or higher, the Duration is 1 hour. If you use a Level 9 spell slot, the spell lasts until it is dispelled. Using a spell slot of Level 7 or higher grants a Duration that doesn’t require Concentration.
+Whenever a creature loses a hit die in this way, the whirlwind's radius grows by 1 *(1.5m)*, then each creature in its area takes 1d6 Slashing damage.
+**Using a Higher-Level Spell Slot.** If you cast this spell using a spell slot of Level 7 or higher, the Duration is 1 hour. If you use a Level 9 spell slot, the spell lasts until it is dispelled. Using a spell slot of Level 7 or higher grants a Duration that doesn't require Concentration.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
@@ -8340,7 +8340,7 @@ The air quivers around up to five creatures of your choice that you can see with
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
-You launch a cascade of shimmering orbs in a length 12 *(18m)* cone that detonate as they land, forcing each creature in the Cone’s area to make three DEX Saves.
+You launch a cascade of shimmering orbs in a length 12 *(18m)* cone that detonate as they land, forcing each creature in the Cone's area to make three DEX Saves.
 For each failed Save, a creature takes 3d6 damage of one type of your choice. The chosen type may be acid, cold, fire, lightning, or thunder.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or above, damage suffered on each failed Save increases by 1d6 for each slot level above 5.
 - **Classes**: Artificer, Sorcerer, Wizard
@@ -8364,7 +8364,7 @@ You hurl three fiery rays. You can hurl them at one target within range or at se
 - **Components**: V
 - **Duration**: Instantaneous
 A tearing, sand-filled wind whips forth from you in a undefined, undefined Line, forcing each creature in the area to make a CON Saving Throw. On a Failure, a creature takes 10d6 Slashing damage, is pushed up to 2 *(3m)* away and is [Blinded](conditions.md#blinded) until the end of your next turn. On a Success, a creature takes half damage.
-**Using a Higher-Level Spell Slot.** The line’s width increases by 1 *(1.5m)* for every slot level above 5.
+**Using a Higher-Level Spell Slot.** The line's width increases by 1 *(1.5m)* for every slot level above 5.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8424,7 +8424,7 @@ Instead of targeting a creature, you can target a location you have seen. When y
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: 1 hour
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You touch a creature and mark it with a rune of death. The creature has the Cursed condition for the duration.
 Whenever the Cursed creature would receive any magical healing, it must make a CHA  Save. On a failure, the creature regains only 1 Hit Point. On a failure by 5 or more, the creature regains no Hit Points.
 On a successful Save, the creature gains the full benefit of the magical healing and the curse ends.
@@ -8521,7 +8521,7 @@ If you drop the weapon or throw it, it dissipates at the end of the turn. Therea
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You transform a segment of a nonmagical object or surface into an illusory version of itself.
-The segment can be no larger than a size 3 *(4.5m)* cube, and must extend from a point on the object or surface you can see within range. The transformed segment’s appearance remains unchanged, but it otherwise acts as empty space.
+The segment can be no larger than a size 3 *(4.5m)* cube, and must extend from a point on the object or surface you can see within range. The transformed segment's appearance remains unchanged, but it otherwise acts as empty space.
 A creature can use its action to make an INT (Investigation) or WIS (Perception) check against your spell save DC to notice this effect. The effect is self-evident to a creature that physically interacts with the object. A creature inside the object can see through it as though it were transparent.
 When the spell ends, each creature and object in the space is ejected to the nearest unoccupied space and takes 1d10 Force damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the maximum size of the affected segment increases by 1 *(1.5m)* in each direction for each slot level above 5.
@@ -8546,7 +8546,7 @@ Until the spell ends, you have resistance to radiant damage. In addition, whenev
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You grant your shadow a semblance of life and will, transforming it into a Shadow Puppeteer that acts directly after you on your initiative and follows your mental commands.
-The first time you cast this spell, it does not require concentration, the transformed Shadow is hostile toward you, and it does not follow your commands. If you do not defeat your Shadow unaided, you become unable to cast this spell ever again and can replace it with another spell from your class’ spell list.
+The first time you cast this spell, it does not require concentration, the transformed Shadow is hostile toward you, and it does not follow your commands. If you do not defeat your Shadow unaided, you become unable to cast this spell ever again and can replace it with another spell from your class' spell list.
 - **Classes**: Bard, Cleric, Paladin, Sorcerer, Warlock
 *(Source: CS)*
 
@@ -8581,7 +8581,7 @@ You teleport to an unoccupied space you can see within range. This spell fails i
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You conjure a semi-real shadowy duplicate of a nonlegendary creature you have slain of CR equal to your level or below in an unoccupied space you can see within range.
 The conjured duplicate acts on your turn directly after you and follows your mental commands.
-While concentrating on this spell, you take Psychic damage equal to half the creature’s CR at the beginning of each of your turns and can’t voluntarily end your concentration.
+While concentrating on this spell, you take Psychic damage equal to half the creature's CR at the beginning of each of your turns and can't voluntarily end your concentration.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -8619,7 +8619,7 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 - **Components**: V, S
 - **Duration**: Instantaneous
 You send a spray of jagged stone shards flying in a length 3 *(4.5m)* cone. Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d6 Piercing damage.
-On a Failure by 5 or More, the creature takes the effect’s damage and also is [Blinded](conditions.md#blinded) until the end of its next turn.
+On a Failure by 5 or More, the creature takes the effect's damage and also is [Blinded](conditions.md#blinded) until the end of its next turn.
 On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The Piercing damage increases by 1d6 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer
@@ -8668,7 +8668,7 @@ An imperceptible barrier of magical force protects you. Until the start of your 
 - **Components**: S
 - **Duration**: 1 round
 As a reaction when you or an undead ally within range is targeted with a ranged attack, you raise a protective barrier of bones and earth.
-The attack’s target gains three-quarters cover against ranged attacks until the beginning of your next turn, including against the triggering attack. This effect ends early if the target moves.
+The attack's target gains three-quarters cover against ranged attacks until the beginning of your next turn, including against the triggering attack. This effect ends early if the target moves.
 - **Classes**: Sorcerer, Wizard
 *(Source: CS)*
 
@@ -8722,7 +8722,7 @@ Lightning springs from you to a creature that you try to touch. Make a melee spe
 - **Range**: Special
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to savage a creature’s lungs with harsh magical vapors as a reaction when it ends its turn in the area of a gaseous spell effect you control, such as a Fog Cloud or Cloudkill.
+You attempt to savage a creature's lungs with harsh magical vapors as a reaction when it ends its turn in the area of a gaseous spell effect you control, such as a Fog Cloud or Cloudkill.
 The creature must succeed on a CON Save or take 3d10 Necrotic damage and begin [Choking](conditions.md#choking) for the next minute.
 The [Choking](conditions.md#choking) creature repeats this Save at the end of each of its turns, ending the effect on a success.
 - **Classes**: Druid
@@ -8736,7 +8736,7 @@ The [Choking](conditions.md#choking) creature repeats this Save at the end of ea
 - **Duration**: Instantaneous
 You drain the moisture from the mouth of a creature, punishing it for casting a spell. After the spell resolves, the target must succeed on a CON Save or take 2d8 Necrotic damage and be unable to speak or perform the verbal components of spells until the end of its next turn.
 On a successful Save, the target takes half as much damage.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or above, the spell’s damage increases by 2d8 for each slot level above 3.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or above, the spell's damage increases by 2d8 for each slot level above 3.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
 
@@ -8781,7 +8781,7 @@ When a creature moves into the spell's area for the first time on a turn or star
 - **Components**: V, S
 - **Duration**: Instantaneous
 A befouling wind blows in a length 12 *(18m)* line that is 2 *(3m)* across, traveling from one point you can see within range to another.
-Each creature in the area must succeed on a STR Save or take 6d6 Poison damage and be pushed up to 4 *(6m)* in the direction of the wind’s travel.
+Each creature in the area must succeed on a STR Save or take 6d6 Poison damage and be pushed up to 4 *(6m)* in the direction of the wind's travel.
 On a successful Save, a creature takes half as much damage and is not pushed.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or above, a creature that fails its Save against this spell is additionally Poisoned until the end of your next turn.
 - **Classes**: Artificer, Druid, Ranger
@@ -8794,7 +8794,7 @@ On a successful Save, a creature takes half as much damage and is not pushed.
 - **Components**: V, S
 - **Duration**: Instantaneous
 You plunge a hand into a surface made of nonmagical earth or stone, tearing forth a slab and flinging it at a target within range.
-The target must make either a STR or DEX Saving Throw (target’s choice). On a , the target takes 7d8 Bludgeoning damage and is [Prone](conditions.md#prone). On a Success, the target takes half damage.
+The target must make either a STR or DEX Saving Throw (target's choice). On a , the target takes 7d8 Bludgeoning damage and is [Prone](conditions.md#prone). On a Success, the target takes half damage.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for every slot level above 3.
 - **Classes**: Artificer, Druid, Ranger
 *(Source: CS)*
@@ -8809,7 +8809,7 @@ For the duration, no sound can be created within or pass through a radius 4 *(6m
 - **Classes**: Bard, Cleric, Ranger
 *(Source: PHB'24, page 316)*
 
-### Silencer’s Grasp
+### Silencer's Grasp
 *Level 3 Abjuration*
 - **Casting Time**: Action
 - **Range**: 1 *(1.5m)*
@@ -8817,7 +8817,7 @@ For the duration, no sound can be created within or pass through a radius 4 *(6m
 - **Duration**: Instantaneous
 You grasp at a Large or smaller creature, smothering its attempts to call out. Make a melee spell attack against the target.
 On a hit, you grapple the target. While [grappled](conditions.md#grappled) in this way, the target suffers the following effects:- If the target attempts to escape this grapple, you can use your spell attack bonus to contest it, instead of making a STR (Athletics) check.
-- The target’s voice cannot be heard from more than 3 *(4.5m)* away.
+- The target's voice cannot be heard from more than 3 *(4.5m)* away.
 - If the [grappled](conditions.md#grappled) creature attempts to cast a spell, it must succeed on a CON Save or have the spell fail. On a successful Save, the creature escapes your grapple.
 - **Classes**: Artificer, Cleric, Paladin
 *(Source: CS)*
@@ -8900,14 +8900,14 @@ While you are within 1 *(1.5m)* of the creature you are mimicking, a creature wi
 - **Duration**: 8 hours
 You cause your own skin to peel off your body and animate as a construct under your mental control. You may project your consciousness to your animated skin or return it to your actual body as an action. When your consciousness is in your body, you are [Incapacitated](conditions.md#incapacitated) (except for transferring your will to your skin, or dismissing the spell).
 Your possessed skin is identical to you in all ways, except the following: It has only half the number of Hit Points you had at the time you cast the spell, it cannot be healed above this maximum, it is immune to Bludgeoning damage, and it can move through spaces as small as 3cm without squeezing. Your skin can take any actions you could normally take in your own body (such as to fight or cast spells).
-When your skin leaves your body, your body’s Hit Points drop to 0 and you are stable. Your body cannot recover Hit Points until your skin returns; only effects that can regrow body parts can heal you, such as the Regenerate spell.
+When your skin leaves your body, your body's Hit Points drop to 0 and you are stable. Your body cannot recover Hit Points until your skin returns; only effects that can regrow body parts can heal you, such as the Regenerate spell.
 If your body regains any Hit Points before your skin returns to it, the skin dies and your consciousness returns automatically to your body.
-When your skin returns to your body, you regain Hit Points equal to your skin’s remaining Hit Points. If the spell ends before you reunite with your skin or if your skin is killed while you are in your body, you remain [Incapacitated](conditions.md#incapacitated) and at 0 Hit Points until your skin is restored to you (requiring powerful magic, as described above). If your body dies while you are possessing your skin, you die when the spell ends, regardless of how many Hit Points the skin has left. If your skin is slain with your consciousness in it, your consciousness returns automatically to your body.
+When your skin returns to your body, you regain Hit Points equal to your skin's remaining Hit Points. If the spell ends before you reunite with your skin or if your skin is killed while you are in your body, you remain [Incapacitated](conditions.md#incapacitated) and at 0 Hit Points until your skin is restored to you (requiring powerful magic, as described above). If your body dies while you are possessing your skin, you die when the spell ends, regardless of how many Hit Points the skin has left. If your skin is slain with your consciousness in it, your consciousness returns automatically to your body.
 This spell leaves long scars on your skin where it split apart, although these fade normally with the use of healing magic.
 - **Classes**: Druid, Sorcerer
 *(Source: CS)*
 
-### Skycaller’s Surge
+### Skycaller's Surge
 *Level 4 Evocation*
 - **Casting Time**: Action
 - **Range**: Self, a radius 6 *(9m)* sphere
@@ -8946,7 +8946,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 The next time you hit a creature with a melee attack before this spell ends, your weapon is wreathed in deathly energies, and the attack deals an extra 8d8 Necrotic damage to the target.
-Additionally, if this attack reduces the target to 20 Hit Points or fewer, it must succeed on a CON Save or die. If the target is not native to the plane you’re on, it has disadvantage on this Save.
+Additionally, if this attack reduces the target to 20 Hit Points or fewer, it must succeed on a CON Save or die. If the target is not native to the plane you're on, it has disadvantage on this Save.
 - **Classes**: Paladin
 *(Source: CS)*
 
@@ -8990,7 +8990,7 @@ Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder
 - **Range**: Self
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Requires language proficiency in DrowYou reflexively strain to escape your bonds before they can tighten, magically pushing your body beyond its natural limits. When you cast this spell, immediately make a STR (Athletics) or DEX (Acrobatics) check against the restraining effect’s Escape DC.
+Requires language proficiency in DrowYou reflexively strain to escape your bonds before they can tighten, magically pushing your body beyond its natural limits. When you cast this spell, immediately make a STR (Athletics) or DEX (Acrobatics) check against the restraining effect's Escape DC.
 On a success, the [Grappled](conditions.md#grappled) or [Restrained](conditions.md#restrained) condition ends for you.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger
 *(Source: CS)*
@@ -9166,7 +9166,7 @@ You and one friendly or [charmed](conditions.md#charmed) creature of the same si
 - **Components**: V, S
 - **Duration**: 1 minute
 You unleash a disorienting burst of chaotic psychic force in a radius 3 *(4.5m)* sphere centered on a point you can see within range.
-Each creature in the area must succeed on a WIS Save or become [Charmed](conditions.md#charmed) by each other creature that failed this Save and hostile to each creature that did not for the spell’s duration.
+Each creature in the area must succeed on a WIS Save or become [Charmed](conditions.md#charmed) by each other creature that failed this Save and hostile to each creature that did not for the spell's duration.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 This Save cannot be failed voluntarily.
 - **Classes**: Sorcerer
@@ -9248,7 +9248,7 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You cast a spell of level 1 or below that you saw cast within range since the end of your last turn, using your own Spell Attack Modifier and Spell Save DC, if applicable.
 - **Classes**: Artificer, Bard
 *(Source: CS)*
@@ -9259,7 +9259,7 @@ You cast a spell of level 1 or below that you saw cast within range since the en
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to transmute a spell’s energy to fire; make an INT (Arcana) check against the spellcaster’s spell save DC. On a success, any damage dealt by the spell becomes Fire damage.
+You attempt to transmute a spell's energy to fire; make an INT (Arcana) check against the spellcaster's spell save DC. On a success, any damage dealt by the spell becomes Fire damage.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -9361,7 +9361,7 @@ One tree you can see within range explodes in a hail of massive splinters. Each 
 - **Range**: 12 *(18m)*
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You cause a creature you can see within range toburst suddenly and dramatically into flame. Thecreature must succeed on a DEX Save ortake 6d6 Fire damage and ignite for the spell’s duration.
+You cause a creature you can see within range toburst suddenly and dramatically into flame. Thecreature must succeed on a DEX Save ortake 6d6 Fire damage and ignite for the spell's duration.
 Until the spell ends or a creature takes an actionto douse the fire,the target has disadvantage on attack rolls andtakes 2d6 Fire damage at the end of each ofits turns.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: CS)*
@@ -9474,7 +9474,7 @@ On a hit, the target takes 3d10 Lightning damage. A target dealt 20 or more Ligh
 - **Components**: V, S
 - **Duration**: Instantaneous
 You touch an [unconscious](conditions.md#unconscious) or [blinded](conditions.md#blinded) creature, attempting to tear out a portion of its dreams and ambitions. The creature must make an INT Save.
-On a failed save, you learn one closely held secret of the creature’s, and the creature takes 6d10 nonlethal Psychic damage.
+On a failed save, you learn one closely held secret of the creature's, and the creature takes 6d10 nonlethal Psychic damage.
 A creature reduced to 0 Hit Points in this way is Cursed. A creature cursed in this way cannot gain levels or otherwise advance through experience. When this curse ends, the creature gains any levels prevented by the curse.
 - **Classes**: Bard, Cleric
 *(Source: CS)*
@@ -9531,7 +9531,7 @@ When the spell ends, the clump falls; each creature on it and each creature in a
 - **Components**: V, S
 - **Duration**: Instantaneous
 You cast a handful of small stones into the air, where they grow into a rain of boulders, falling in a radius 2 *(3m)* sphere, height 6 *(9m)* Column within range.
-Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d8 Bludgeoning damage. On a Failure by 5 or More, a creature takes the spell’s damage and additionally is [Prone](conditions.md#prone). On a Success, a creature takes half damage.
+Each creature in the area must make a DEX Saving Throw. On a Failure, a creature takes 3d8 Bludgeoning damage. On a Failure by 5 or More, a creature takes the spell's damage and additionally is [Prone](conditions.md#prone). On a Success, a creature takes half damage.
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by 1d8 for every slot level above 2.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
 *(Source: CS)*
@@ -9556,7 +9556,7 @@ Oily acid pours down in a radius 2 *(3m)* sphere, height 8 *(12m)* Cylinder with
 When you cast this spell and at the start of each of your turns, nonmagical stone in the area is disintegrated to a depth of 2 *(3m)*. A creature that starts its turn in the area must make a DEX Saving Throw.
 On a failure, the creature takes 8d8 Acid damage, plus an additional 4d6 Fire damage if the creature is touching a stone surface.
 On a success, a creature takes half damage.
-**Using a Higher-Level Spell Slot.** The Cylinder’s radius and height each increase by 2 *(3m)* for every slot level above 7.
+**Using a Higher-Level Spell Slot.** The Cylinder's radius and height each increase by 2 *(3m)* for every slot level above 7.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -9612,8 +9612,8 @@ At the start of each of your later turns, the storm produces different effects, 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You weave a portion of the expended magic from a creature’s spell into threads of prismatic silk that envelop and bind it.
-Any damage dealt by the spell is reduced by half, and the spell’s caster must succeed on a STR Save or be [restrained](conditions.md#restrained) until it takes any damage. The escape DC is equal to your spell save DC.
+You weave a portion of the expended magic from a creature's spell into threads of prismatic silk that envelop and bind it.
+Any damage dealt by the spell is reduced by half, and the spell's caster must succeed on a STR Save or be [restrained](conditions.md#restrained) until it takes any damage. The escape DC is equal to your spell save DC.
 - **Classes**: Cleric, Druid
 *(Source: CS)*
 
@@ -9626,7 +9626,7 @@ Any damage dealt by the spell is reduced by half, and the spell’s caster must 
 Requires a noble title.
 Your palm flares with light as it touches a creature, [burning](conditions.md#burning) away all magical veils. The target must make a CHA  Save.
 On a failure, the target takes 12d8 Radiant damage and each illusory, shapechanging, or mind-affecting magic affecting it ends.
-This damage can’t reduce the target’s Hit Points below 1.
+This damage can't reduce the target's Hit Points below 1.
 - **Classes**: Bard, Cleric
 *(Source: CS)*
 
@@ -9637,7 +9637,7 @@ This damage can’t reduce the target’s Hit Points below 1.
 - **Components**: V, S
 - **Duration**: Instantaneous
 One creature you can see within range must succeed on a CON Save or take 11d8 Necrotic damage, or half as much on a success.
-If this spell was cast as a reaction on the target’s turn, the target is additionally [Stunned](conditions.md#stunned) on a failed save until the end of your next turn.
+If this spell was cast as a reaction on the target's turn, the target is additionally [Stunned](conditions.md#stunned) on a failed save until the end of your next turn.
 - **Classes**: Druid, Sorcerer, Warlock
 *(Source: CS)*
 
@@ -9844,7 +9844,7 @@ This spell dispels Darkness in its area that was created by any spell.
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A field of irresistible force blooms at a point you can see within range, dragging creatures in the area to the ground.
-Each creature in the area when it appears must succeed on a STR Save or be knocked [prone](conditions.md#prone). A creature knocked [prone](conditions.md#prone) in this way is [restrained](conditions.md#restrained) for the spell’s duration, or until it stands.
+Each creature in the area when it appears must succeed on a STR Save or be knocked [prone](conditions.md#prone). A creature knocked [prone](conditions.md#prone) in this way is [restrained](conditions.md#restrained) for the spell's duration, or until it stands.
 A creature can use its action to repeat this Save, or to make a STR (Athletics) check to help an affected creature to its feet, ending the effect on a success.
 - **Classes**: Artificer, Cleric, Paladin
 *(Source: CS)*
@@ -9935,9 +9935,9 @@ When a creature you can see within range casts that spell, you can reveal your c
 - **Range**: Self
 - **Components**: M (a melee weapon that deals Bludgeoning damage)
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
-Requires proficiency in Thieves’ Cant.
-You twirl the weapon used in the spell’s casting, deftly manipulating its weight. Until the beginning of your next turn, the weapon counts as having the Finesse property, and adds both your STR and DEX modifiers to its damage on a hit, rather than just one of those.
-**Using a Higher-Level Spell Slot.** At Level 5, a creature hit with the weapon used in the spell’s casting is pushed 1 *(1.5m)* away. This distance increases by 1 *(1.5m)* at 11th level (to a total of 2 *(3m)*) and 17th level (to a total of 3 *(4.5m)*).
+Requires proficiency in Thieves' Cant.
+You twirl the weapon used in the spell's casting, deftly manipulating its weight. Until the beginning of your next turn, the weapon counts as having the Finesse property, and adds both your STR and DEX modifiers to its damage on a hit, rather than just one of those.
+**Using a Higher-Level Spell Slot.** At Level 5, a creature hit with the weapon used in the spell's casting is pushed 1 *(1.5m)* away. This distance increases by 1 *(1.5m)* at 11th level (to a total of 2 *(3m)*) and 17th level (to a total of 3 *(4.5m)*).
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10009,7 +10009,7 @@ You can attack twice, instead of once, when you take the Attack action on your t
 - **Components**: S
 - **Duration**: 1 round
 Your tongue slithers out to taste the air. Make a WIS (Perception) check with advantage.
-You learn the creature type and exact location of each creature within range whose challenge rating (or level, if it doesn’t have a challenge rating) is less than or equal to your result.
+You learn the creature type and exact location of each creature within range whose challenge rating (or level, if it doesn't have a challenge rating) is less than or equal to your result.
 Until the end of your next turn, each affected creature cannot be Hidden from you, and you ignore the effects of Invisibility on that creature.
 - **Classes**: Druid, Ranger, Sorcerer
 *(Source: CS)*
@@ -10152,12 +10152,12 @@ You manifest a minor wonder within range. You create one of the effects below wi
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 round
-You fill the mind of a creature you can see with horrid chittering, crowding the creature’s own thoughts out of its mind. The creature must succeed on a WIS Save or be Dominated by you until the beginning of your next turn.
+You fill the mind of a creature you can see with horrid chittering, crowding the creature's own thoughts out of its mind. The creature must succeed on a WIS Save or be Dominated by you until the beginning of your next turn.
 A target that can see more of your allies than its own within 12 *(18m)* of it makes this Save with disadvantage.
 - **Classes**: Bard, Druid, Warlock
 *(Source: CS)*
 
-### The Queen’s Will
+### The Queen's Will
 *Level 1 Enchantment*
 - **Casting Time**: Reaction, which you take when you see a friendly creature within range miss with an attack or fail a Save.
 - **Range**: 12 *(18m)*
@@ -10196,9 +10196,9 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-You disrupt a creature’s thoughts. Make a melee spell attack against the target. On a hit, the target takes 6d10 nonlethal Psychic damage and must succeed on an INT Save or suffer one of the following effects of your choice:Until the end of your next turn, the target’s Proficiency Bonus is reduced to 0.
+You disrupt a creature's thoughts. Make a melee spell attack against the target. On a hit, the target takes 6d10 nonlethal Psychic damage and must succeed on an INT Save or suffer one of the following effects of your choice:Until the end of your next turn, the target's Proficiency Bonus is reduced to 0.
 Until the end of your next turn, the target treats all other creatures as hostile.
-You can choose one spell; until the target completes a Short or Long Rest, it can’t cast that spell.
+You can choose one spell; until the target completes a Short or Long Rest, it can't cast that spell.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock
 *(Source: CS)*
@@ -10292,7 +10292,7 @@ You conjure up a wave of water that crashes down on an area within range. The ar
 Requires language proficiency in DrowA wave of soporific violet motes washes forth from you in a length 6 *(9m)* cone.
 Each creature in the area is [Dazed](conditions.md#dazed) until the end of your next turn and must make a WIS Saving Throw.
 On a failure, the creature additionally falls asleep, gaining the [Unconscious](conditions.md#unconscious) condition until the end of your next turn. The creature wakes early if it takes any damage.
-**Using a Higher-Level Spell Slot.** The Cone’s size increases by 2 *(3m)* for every slot level above 4.
+**Using a Higher-Level Spell Slot.** The Cone's size increases by 2 *(3m)* for every slot level above 4.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -10321,7 +10321,7 @@ When the creature drops to 0 hit points, it reverts to its original form, and an
 - **Classes**: Artificer, Wizard
 *(Source: XGE, page 168)*
 
-### Titan’s Roar
+### Titan's Roar
 *Level 4 Evocation*
 - **Casting Time**: Action
 - **Range**: Self, a length 6 *(9m)* cone
@@ -10396,7 +10396,7 @@ Whenever a creature within 6 *(9m)* of you takes any bludgeoning, piercing, or S
 - **Duration**: 1 round
 A web of electricity envelops a creature you can see within range, forcing it to make a CON Save.
 On a failed Save, the target takes 4d6 Lightning damage and is [restrained](conditions.md#restrained) until the end of your next turn.
-This restraint’s escape DC is equal to your Spell Save DC.
+This restraint's escape DC is equal to your Spell Save DC.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or above, you can target one additional creature for each two slot levels above 2.
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: CS)*
@@ -10523,7 +10523,7 @@ Creatures you are [Invisible](conditions.md#invisible) and Hidden from have disa
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You attempt to wrest control of a rival mage’s spell. The spell caster must make a CHA  Save. On a failed save, the spell caster takes 1d6 Psychic damage per level of the spell, and you choose new targets for the spell.
+You attempt to wrest control of a rival mage's spell. The spell caster must make a CHA  Save. On a failed save, the spell caster takes 1d6 Psychic damage per level of the spell, and you choose new targets for the spell.
 - **Classes**: Sorcerer, Wizard
 *(Source: CS)*
 
@@ -10533,7 +10533,7 @@ You attempt to wrest control of a rival mage’s spell. The spell caster must ma
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You touch a creature’s chest and magical bindings of golden light drift from your fingers through its flesh and wrap around its heart. Make a melee spell attack. On a hit, the target takes 8d10 Psychic damage and must make a WIS Save.
+You touch a creature's chest and magical bindings of golden light drift from your fingers through its flesh and wrap around its heart. Make a melee spell attack. On a hit, the target takes 8d10 Psychic damage and must make a WIS Save.
 On a failure, the creature is Dominated by you for the next hour, and repeats this Save whenever it takes damage, ending the effect on a success.
 While Dominated in this way, the creature takes 1d10 Psychic damage whenever it deals damage to or is dealt damage by a former ally.
 - **Classes**: Bard, Cleric, Sorcerer
@@ -10586,7 +10586,7 @@ This attack can target any creature in range to which a traversable path exists,
 - **Range**: 6 *(9m)*
 - **Components**: S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You magically unfasten the armor of a creature you can see within range.
 The target must succeed on a DEX Save or have the AC bonus offered by its armor reduced by a cumulative 2 until the target takes an action to adjust it. Armor reduced to an AC of 10 falls off entirely until donned again.
 - **Classes**: Bard, Sorcerer, Wizard
@@ -10621,7 +10621,7 @@ If you command the servant to perform a task that would move it more than 12 *(1
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You fill a creature’s mind with insights too terrible to be borne, wreathing it in eldritch energies.
+You fill a creature's mind with insights too terrible to be borne, wreathing it in eldritch energies.
 One creature you can see or telepathically sense within range must succeed on a WIS Save or gain 20 Temporary Hit Points.
 While a creature has any of these Temporary Hit Points, its INT score increases by 5, to a maximum of 25. At the end of its turn, a creature loses all of these Temporary Hit Points and takes Psychic damage equal to twice the Temporary Hit Points lost.
 - **Classes**: Sorcerer, Warlock
@@ -10669,7 +10669,7 @@ You send corruption spiraling out from a [Bleeding](conditions.md#bleeding), Dis
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-Requires proficiency in Thieves’ Cant.
+Requires proficiency in Thieves' Cant.
 You thrust yourself into the Border Ethereal, where you remain until you end this effect as an Action.
 While there, you can see into the Material Plane, can move through solid surfaces as though they were Difficult Terrain, and take 1d10 Force damage at the start of each of your turns. If you die in the Ethereal Plane, your body remains there.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
@@ -10729,10 +10729,10 @@ You magically twist space around another creature you can see within range. The 
 - **Range**: 6 *(9m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You infuse a living creature’s skeleton with necrotic energies, attempting to reanimate it. One creature you can see within range must make a CON Save.
+You infuse a living creature's skeleton with necrotic energies, attempting to reanimate it. One creature you can see within range must make a CON Save.
 On a failure, the target has its skeleton rattle within its flesh, taking 6d6 points of Bludgeoning damage and being dragged up to 2 *(3m)* in a direction of your choice on a failure.
 On a successful Save, a target takes half as much damage.
-A living creature with 0 Hit Points that fails this Save dies. At the beginning of its following turn, the creature’s skeleton tears itself out of the creature’s body, acting on the creature’s initiative, and is hostile to all living creatures.
+A living creature with 0 Hit Points that fails this Save dies. At the beginning of its following turn, the creature's skeleton tears itself out of the creature's body, acting on the creature's initiative, and is hostile to all living creatures.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
@@ -11050,7 +11050,7 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You create an illusory portal to the far realm in an unoccupied space within range that fills a size 2 *(3m)* cube. A creature other than you that starts its turn within 6 *(9m)* of the portal and can see it takes 1d4 Psychic damage. A creature other than you that starts its turn within the portal’s space must make an INT Save. A creature takes 8d8 Psychic damage and is [Stunned](conditions.md#stunned) until the beginning of its next turn on a failed save, or takes half as much damage and is not [Stunned](conditions.md#stunned) on a success.
+You create an illusory portal to the far realm in an unoccupied space within range that fills a size 2 *(3m)* cube. A creature other than you that starts its turn within 6 *(9m)* of the portal and can see it takes 1d4 Psychic damage. A creature other than you that starts its turn within the portal's space must make an INT Save. A creature takes 8d8 Psychic damage and is [Stunned](conditions.md#stunned) until the beginning of its next turn on a failed save, or takes half as much damage and is not [Stunned](conditions.md#stunned) on a success.
 On each of your turns until the spell ends, you can use your Bonus Action to force each creature within 12 *(18m)* of the portal to succeed on a STR Save or be pulled 2 *(3m)* towards it.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 5 or higher, the distance a creature is pulled on a failed STR save increases by 1 *(1.5m)* for each slot level above 4.
 - **Classes**: Warlock
@@ -11151,7 +11151,7 @@ A creature that fails this save by 5 or more subtracts 1d4 from attacks and Save
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You create a spectral blade in your hand that passes through armor without resistance. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 4d8 Necrotic damage on a hit and has the finesse and light properties. In addition, it treats all targets as unarmored (An unarmored creature’s AC is usually 10 plus its DEX modifier). It treats creatures with Natural Armor, Unarmored Defense, or similar traits normally.
+You create a spectral blade in your hand that passes through armor without resistance. This magic sword lasts until the spell ends. It counts as a simple melee weapon with which you are proficient. It deals 4d8 Necrotic damage on a hit and has the finesse and light properties. In addition, it treats all targets as unarmored (An unarmored creature's AC is usually 10 plus its DEX modifier). It treats creatures with Natural Armor, Unarmored Defense, or similar traits normally.
 If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while the spell persists, you can use a bonus action to cause the sword to reappear in your hand.
 - **Classes**: Druid, Ranger
 *(Source: CS)*
@@ -11206,19 +11206,19 @@ A creature other than you that starts its turn in the area, or that enters it fo
 - **Components**: S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 One creature you can see within range feels a cold, spectral hand sink into its chest and grip its heart.
-At the beginning of each of the creature’s turns it takes 4d8 Necrotic damage and must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the beginning of its next turn, ending the effect on a success.
+At the beginning of each of the creature's turns it takes 4d8 Necrotic damage and must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the beginning of its next turn, ending the effect on a success.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 4 or higher, the damage increases by 1d8 for every slot level above the 3.
 - **Classes**: Wizard
 *(Source: CS)*
 
-### Wyrmwing’s Howl
+### Wyrmwing's Howl
 *Level 5 Necromancy*
 - **Casting Time**: Bonus Action
 - **Range**: Self, a radius 3 *(4.5m)* sphere
 - **Components**: V, S
 - **Duration**: Instantaneous
 A thunderous wind descends around you, forcing each creature within 3 *(4.5m)* of you to succeed on a STR Save or take 4d8 Bludgeoning damage and be knocked [prone](conditions.md#prone). Then, you can fly up to 12 *(18m)*.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the effect’s radius increases by 1 *(1.5m)* for each slot level above 5.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 6 or higher, the effect's radius increases by 1 *(1.5m)* for each slot level above 5.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
 *(Source: CS)*
 
