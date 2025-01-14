@@ -150,6 +150,7 @@ Switch one of your Magic Initiate Spells with a different Cleric Spell of the sa
 [Longstrider](./../spells.md#spells-l#longstrider)
 [Mage Armor](./../spells.md#spells-m#mage-armor)
 [Magic Missile](./../spells.md#spells-m#magic-missile)
+[Magnify Gravity](./../spells.md#spells-m#magnify-gravity)
 [Mordenkainen's Defense Against Oozes and Slimes](./../spells.md#spells-m#mordenkainen's-defense-against-oozes-and-slimes)
 [Mordenkainen's Protection From Armored Assailants](./../spells.md#spells-m#mordenkainen's-protection-from-armored-assailants)
 [Mordenkainen's Protection From Avians](./../spells.md#spells-m#mordenkainen's-protection-from-avians)

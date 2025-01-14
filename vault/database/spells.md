@@ -6136,6 +6136,18 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 - **Classes**: Artificer, Paladin, Ranger, Sorcerer, Wizard
 *(Source: PHB'24, page 295)*
 
+### Magnify Gravity
+*Level 1 Transmutation*
+- **Casting Time**: Action
+- **Range**: 12 *(18m)*
+- **Components**: V, S
+- **Duration**: 1 round
+The gravity in a radius 2 *(3m)* sphere centered on a point you can see within range increases for a moment. Each creature in the sphere on the turn when you cast the spell must make a CON Save. On a failed save, a creature takes 2d8 force damage, and its speed is halved until the end of its next turn. On a successful save, a creature takes half as much damage and suffers no reduction to its speed.
+Until the start of your next turn, any object that isn't being worn or carried in the sphere requires a successful Strength check against your spell save DC to pick up or move.
+**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+- **Classes**: Wizard
+*(Source: Explorer's Guide to Wildemount)*
+
 ### Major Image
 *Level 3 Illusion*
 - **Casting Time**: Action
