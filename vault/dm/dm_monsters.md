@@ -2,10 +2,12 @@
 # Encounters
 
 ## Goblin Encounters
-[Booyahg Caster 1/4](dm_monsters.md#booyahg-caster)
-[Booyahg Whip 1/4](dm_monsters.md#booyahg-whip)
+
+A [Booyahg Caster 1/4](dm_monsters.md#booyahg-caster) for which you roll a random Level 1 Wizard Spell.
+A [Booyahg Whip 1/4](dm_monsters.md#booyahg-whip) with up to 3 extra goblins under their whip.
+
 [Goblin 1/4](dm_monsters.md#goblin)
-[Worg 1/2](dm_monsters.md#worg)
+A [Worg 1/2](dm_monsters.md#worg) a goblin rides on, or to make it easier a wounded Worg that has its speed reduces to 3
 
 # Monsters
 
@@ -54,7 +56,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Languages**: Common, Goblin
 - **Traits**:
    - **Nimble Escape**. The goblin can take the Disengage or Hide action as a bonus action on each of its turns.
-   - **Khurgorbaeyag's Gift**. Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has 1d3 other goblin that slavishly obey its orders.
+   - **Khurgorbaeyag's Gift**. Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
 - **Actions**:
    - **Scimitar**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit*: 5 (1d6 + 2) slashing damage.
