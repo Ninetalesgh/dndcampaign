@@ -65,9 +65,6 @@ This should exist
 
 ###### Rogue (Mufi):
 
-TODO ::: Mage hand, internal switch?
-
-  
 
 ###### Druid (Kal):
 

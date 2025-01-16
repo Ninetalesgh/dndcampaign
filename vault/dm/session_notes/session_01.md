@@ -16,7 +16,8 @@
 
 # Potential Scenes
 
-## Rushing to Help
+## Rushing to Help the Mylen Farmstead
+
 
 - Players rush to help, wounded warg and some goblins still around to catch up with.
 - capture one alive? 
@@ -44,6 +45,13 @@ Kobold, Goblin, Skeleton, Zombie
 
 
 # UNSORTED
+
+Goblins stab the hooves of draft horse so they have to be put down.
+Cows drink polluted water, go into a frenzy and have to be put down?
+
+
+- Wild animals in the mountains aggressive and push down towards the plateau. (the army does something that pushes them away?)
+- Some of the people that live in the mountains haven't been seen in a while? (something is going on in the mountains?)
 
 **Farmer Merrick Mylen.** -> Human.
 
