@@ -18,6 +18,11 @@ function parseMd(input)
     {
       continue;
     }
+    else if (lines[i].trim().startsWith('//'))
+    {
+      lines[i] = '';
+      continue;
+    }
     else if (lines[i].startsWith("#"))
     {    
       let currentHeaderDepth = 0; 
@@ -28,7 +33,6 @@ function parseMd(input)
       {
         const resultHeaderType = `h${currentHeaderDepth}`;
         const headerName = lines[i].substring(currentHeaderDepth + 1);
-        
         // TODO if nested divs for headers is ever wanted?
         // This entails a redo of indexing the document, 
         // since that currently relies on a flat h-div-h-div... layout
