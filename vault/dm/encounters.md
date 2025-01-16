@@ -24,47 +24,47 @@
 | Level 20  | 42½  |   50 |  30 |
 
 ## Crypt Encounters
-[Animated Battleaxe (1/4)](monsters.md#animated-battleaxe)
-[Flying Sword (1/2)](monsters.md#flying-sword)
-[Gravehound (1/2)](monsters.md#gravehound)
-[Skeleton Warrior (1/4)](monsters.md#skeleton-warrior)
-[Shadow (1/2)](monsters.md#shadow)
-[Zombie (1/4)](monsters.md#zombie)
+[Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)
+[Flying Sword (1/2)](dm/monsters.md#flying-sword)
+[Gravehound (1/2)](dm/monsters.md#gravehound)
+[Skeleton Warrior (1/4)](dm/monsters.md#skeleton-warrior)
+[Shadow (1/2)](dm/monsters.md#shadow)
+[Zombie (1/4)](dm/monsters.md#zombie)
 
-[Gelatinous Cube (1/2)](monsters.md#gelatinous-cube) 
+[Gelatinous Cube (1/2)](dm/monsters.md#gelatinous-cube) 
 
 
 
 ## Farmland Encounters
-[Cow (1/4)](monsters.md#cow)
-[Draft Horse (1/4)](monsters.md#draft-horse)
+[Cow (1/4)](dm/monsters.md#cow)
+[Draft Horse (1/4)](dm/monsters.md#draft-horse)
 
 
 
 ## Urban/Undercity Encounters
-[Apprentice Wizard (1/4)](monsters.md#apprentice-wizard)
-[Blink Dog (1/4)](monsters.md#blink-dog)
+[Apprentice Wizard (1/4)](dm/monsters.md#apprentice-wizard)
+[Blink Dog (1/4)](dm/monsters.md#blink-dog)
 
 
 ## Wilderness/Mountains Encounters
-[Boar (1/4)](monsters.md#boar)
-[Wolf (1/4)](monsters.md#wolf)
-[Axe Beak (1/2)](monsters.md#axe-beak) Flightless Bird.
-[Black Bear (1/2)](monsters.md#black-bear)
-[Cockatrice (1/2)](monsters.md#cockatrice)
+[Boar (1/4)](dm/monsters.md#boar)
+[Wolf (1/4)](dm/monsters.md#wolf)
+[Axe Beak (1/2)](dm/monsters.md#axe-beak) Flightless Bird.
+[Black Bear (1/2)](dm/monsters.md#black-bear)
+[Cockatrice (1/2)](dm/monsters.md#cockatrice)
 
 
 ## Wilderness/Caverns Encounters
-[Geonid (1/4)](monsters.md#geonid) 
-[Cavern Choker (1/2)](monsters.md#cavern-choker)
-[Earth Mephit (1/2)](monsters.md#earth-mephit)
+[Geonid (1/4)](dm/monsters.md#geonid) 
+[Cavern Choker (1/2)](dm/monsters.md#cavern-choker)
+[Earth Mephit (1/2)](dm/monsters.md#earth-mephit)
 
 
 ## Goblin Encounters
-[Booyahg Caster (1/4)](monsters.md#booyahg-caster) Random lvl 1 Wizard Spell.
-[Booyahg Whip (1/4)](monsters.md#booyahg-whip)
-[Goblin (1/4)](monsters.md#goblin)
-[Worg (1/2)](monsters.md#worg)
+[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Random lvl 1 Wizard Spell.
+[Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip)
+[Goblin (1/4)](dm/monsters.md#goblin)
+[Worg (1/2)](dm/monsters.md#worg)
 
 
 
