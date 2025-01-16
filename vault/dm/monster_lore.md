@@ -1,6 +1,6 @@
 # Monsters By Type
 ## Aberration
-The [Cavern Choker (1/2)](dm/dm/monsters.md#cavern-choker) is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
+The [Cavern Choker (1/2)](monsters.md#cavern-choker) is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 Chokers have cartilage rather than a bony skeleton. This flexible internal structure enables them to easily slip into narrow fissures and niches in the walls of their cavern homes. They lurk in these spots, silent and unseen, waiting for prey to happen by.
 **Sly Trappers.** A choker's usual method for luring prey involves positioning the body of its latest catch just outside its hiding spot. Whenever it gets hungry, it tears off a few chunks of flesh to feed itself. In the meantime, the corpse serves to entice other curious humanoids—explorers, drow, duergar, or the choker's favorite prey, goblins—to come within reach.
   When a target presents itself, the choker's starfish-shaped hands dart out of its hiding spot, wrap around the victim's throat, and pin the unfortunate creature against the cavern wall while choking out its life. Because its arms are so long, the choker can keep its body deep inside the crevice where it hides, beyond the reach of most normal weapons.
@@ -8,22 +8,22 @@ Chokers have cartilage rather than a bony skeleton. This flexible internal struc
 
 
 ## Beast
-[Cow (1/4)](dm/dm/monsters.md#cow)
-[Draft Horse (1/4)](dm/dm/monsters.md#draft-horse)
-[Boar (1/4)](dm/dm/monsters.md#boar)
-[Wolf (1/4)](dm/dm/monsters.md#wolf)
+[Cow (1/4)](monsters.md#cow)
+[Draft Horse (1/4)](monsters.md#draft-horse)
+[Boar (1/4)](monsters.md#boar)
+[Wolf (1/4)](monsters.md#wolf)
 
-An [Axe Beak (1/2)](dm/dm/monsters.md#axe-beak) is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
+An [Axe Beak (1/2)](monsters.md#axe-beak) is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
-[Black Bear (1/2)](dm/dm/monsters.md#black-bear)
+[Black Bear (1/2)](monsters.md#black-bear)
 
 ## Celestial
 ## Construct
-[Animated Book (1/4)](dm/dm/monsters.md#animated-book)
-[Animated Broom (1/4)](dm/dm/monsters.md#animated-broom)
-[Animated Kettle (1/4)](dm/dm/monsters.md#animated-kettle)
-[Animated Battleaxe (1/4)](dm/dm/monsters.md#animated-battleaxe)
-[Flying Sword (1/2)](dm/dm/monsters.md#flying-sword)
+[Animated Book (1/4)](monsters.md#animated-book)
+[Animated Broom (1/4)](monsters.md#animated-broom)
+[Animated Kettle (1/4)](monsters.md#animated-kettle)
+[Animated Battleaxe (1/4)](monsters.md#animated-battleaxe)
+[Flying Sword (1/2)](monsters.md#flying-sword)
 
 ## Dragon
 ### Kobolds
@@ -31,21 +31,21 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 - **Strength in Numbers.** Kobolds are egg-laying creatures. They mature quickly and can live to be "great wyrms" more than a century old. However, many kobolds perish before they reach the end of their first decade. Physically weak, they are easy prey for predators. This vulnerability forces them to band together. Their superior numbers can win battles against powerful adversaries, but often with massive casualties on the kobold side.
 - **Tunnelers and Builders.** Kobolds make up for their physical ineptitude with a cleverness for trap making and tunneling. Their lairs consist of low tunnels through which they move easily but which hinder larger humanoids. Kobolds also riddle their lairs with traps. The most insidious kobold traps make use of natural hazards and other creatures. A trip wire might connect to a spring-loaded trap that hurls clay pots of flesh-eating green slime or flings crates of venomous giant centipedes at intruders.
 - **The Lost God.** In addition to the dragons they revere, kobolds worship a lesser god named Kurtulmak. Legends speak of how Kurtulmak served as Tiamat's vassal in the Nine Hells until Garl Glittergold, the god of gnomes, stole a trinket from the Dragon Queen's hoard. Tiamat sent Kurtulmak to retrieve the trinket, but Garl Glittergold played a trick on him, collapsing the earth and trapping the kobold god in an underground maze for eternity. For this reason, kobolds hate gnomes and pranks of any kind. Kurtulmak's most devoted worshipers dedicate themselves to finding and releasing their lost god from his prison-maze.
-[Kobold (1/8)](dm/dm/monsters.md#kobold)
-[Kobold Inventor (1/4)](dm/dm/monsters.md#kobold-inventor)
-[Kobold Rockbruiser (1/4)](dm/dm/monsters.md#kobold-rockbruiser)
-[Kobold Shinetooth (Minion, 1/2)](dm/dm/monsters.md#kobold-shinetooth)
-[Kobold Trapcaster (1/2)](dm/dm/monsters.md#kobold-trapcaster)
-[Kobold Dragonshield (1)](dm/dm/monsters.md#kobold-dragonshield)
+[Kobold (1/8)](monsters.md#kobold)
+[Kobold Inventor (1/4)](monsters.md#kobold-inventor)
+[Kobold Rockbruiser (1/4)](monsters.md#kobold-rockbruiser)
+[Kobold Shinetooth (Minion, 1/2)](monsters.md#kobold-shinetooth)
+[Kobold Trapcaster (1/2)](monsters.md#kobold-trapcaster)
+[Kobold Dragonshield (1)](monsters.md#kobold-dragonshield)
 
 
 
 ## Elemental
-Also known as rocklings and rock hermits, [Geonid (1/4)](dm/dm/monsters.md#geonid)  are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its tremorsense to detect other creatures nearby.
+Also known as rocklings and rock hermits, [Geonid (1/4)](monsters.md#geonid)  are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its tremorsense to detect other creatures nearby.
   Dark Lairs. Geonids live in natural tunnels and caves. They feed primarily on lizards, rats, slugs, and other vermin, as well as on cave lichen and moss. Geonids like to collect coins and gemstones, and they rarely confront creatures larger than themselves except to rob them or scare them away.
   Stone Tell. Geonids can attune to stone in a way that lets them discern what other creatures have been in the area recently. Geonids use this ability to track prey and to determine whether other creatures have trespassed in their territory. The information gleaned is imprecise and doesn't include the specific identities of such creatures or the precise times when they passed nearby.
 
-A grinning, mischievous [Magmin (1/2)](dm/dm/monsters.md#magmin) resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
+A grinning, mischievous [Magmin (1/2)](monsters.md#magmin) resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
 - **Summoned Pyromaniacs.** Magmins are fire elemental spirits bound into physical forms by magic, and they appear in the Material Plane only when summoned. They view flammable objects as kindling for a grand conflagration, and only the magical control exerted by their summoners keeps them from setting everything they touch ablaze. Their propensity for fire and havoc makes them ideal for spreading chaos and destruction. A mob of magmins summoned inside a castle can reduce it to a burning shell within minutes.
 - **Fiery Destruction.** Although its flame is potent, the magmin's hard magma shell prevents it from instantly igniting everything it comes into contact with. However, like the fires inside them, magmins are capricious and unpredictable. Moreover, as simple elemental creations, they are oblivious to the harm their native element causes creatures of the Material Plane.
   If it has the opportunity while in service to its master, a magmin seeks out areas of great heat, such as forest fires or the bubbling magma of an active volcano. At other times, a magmin compulsively looses fire from its fingertips, delighting in setting objects ablaze.
@@ -56,29 +56,29 @@ Mephits are capricious, imp-like creatures native to the elemental planes. They 
   Ageless tricksters, mephits gather in large numbers on the Elemental Planes and in the Elemental Chaos. They also find their way to the Material Plane, where they prefer to dwell in places where their base elements are abundant. For example, a magma mephit is composed of earth and fire, and it favors volcanic lairs, while an ice mephit, which is composed of air and water, favors frigid locales.
 - **Elemental Nature.** A mephit doesn't require food, drink, or sleep.
 
-[Air Mephit (1/2)](dm/dm/monsters.md#air-mephit)
-[Earth Mephit (1/2)](dm/dm/monsters.md#earth-mephit)
-[Fire Mephit (1/2)](dm/dm/monsters.md#fire-mephit)
-[Water Mephit (1/2)](dm/dm/monsters.md#water-mephit)
+[Air Mephit (1/2)](monsters.md#air-mephit)
+[Earth Mephit (1/2)](monsters.md#earth-mephit)
+[Fire Mephit (1/2)](monsters.md#fire-mephit)
+[Water Mephit (1/2)](monsters.md#water-mephit)
 
-Composed of fire and water, [Steam Mephit (1/2)](dm/dm/monsters.md#steam-mephit) leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
-[Smoke Mephit (1/2)](dm/dm/monsters.md#smoke-mephit) are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
-Composed of earth and air, [Dust Mephit (1/2)](dm/dm/monsters.md#dust-mephit) are drawn to catacombs and find death morbidly fascinating.
-[Mud Mephit (1)](dm/dm/monsters.md#mud-mephit) are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
-Composed of earth and fire, [Magma Mephit (1)](dm/dm/monsters.md#magma-mephit) glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
-Comprising frigid air and water, [Ice Mephit (1/2)](dm/dm/monsters.md#ice-mephit) are aloof and cold, surpassing all other mephits in pitiless cruelty.
+Composed of fire and water, [Steam Mephit (1/2)](monsters.md#steam-mephit) leave trails of hot water wherever they go, and they hiss with tendrils of steam. Bossy and hypersensitive, they are the self-appointed overlords of all mephits.
+[Smoke Mephit (1/2)](monsters.md#smoke-mephit) are crude, lazy creatures of air and fire that billow smoke constantly. They rarely speak the truth and love to mock and mislead other creatures.
+Composed of earth and air, [Dust Mephit (1/2)](monsters.md#dust-mephit) are drawn to catacombs and find death morbidly fascinating.
+[Mud Mephit (1)](monsters.md#mud-mephit) are slow, unctuous creatures of earth and water. They drone their complaints to all who will listen, and beg incessantly for attention and treasure.
+Composed of earth and fire, [Magma Mephit (1)](monsters.md#magma-mephit) glow a dull red color as they perspire beads of molten lava. They are slow to comprehend the meaning of others' words and actions.
+Comprising frigid air and water, [Ice Mephit (1/2)](monsters.md#ice-mephit) are aloof and cold, surpassing all other mephits in pitiless cruelty.
 
-[Glass Mephit (1/4)](dm/dm/monsters.md#glass-mephit)
-[Lightning Mephit (1/2)](dm/dm/monsters.md#lightning-mephit)
-[Light Mephit (1/2)](dm/dm/monsters.md#light-mephit)
-[Salt Mephit (1/2)](dm/dm/monsters.md#salt-mephit)
-[Mineral Mephit (1/2)](dm/dm/monsters.md#mineral-mephit)
-[Ooze Mephit (1/2)](dm/dm/monsters.md#ooze-mephit)
-[Ash Mephit (1/2)](dm/dm/monsters.md#ash-mephit)
+[Glass Mephit (1/4)](monsters.md#glass-mephit)
+[Lightning Mephit (1/2)](monsters.md#lightning-mephit)
+[Light Mephit (1/2)](monsters.md#light-mephit)
+[Salt Mephit (1/2)](monsters.md#salt-mephit)
+[Mineral Mephit (1/2)](monsters.md#mineral-mephit)
+[Ooze Mephit (1/2)](monsters.md#ooze-mephit)
+[Ash Mephit (1/2)](monsters.md#ash-mephit)
 
 
 ## Fey
-The [Blink Dog (1/4)](dm/dm/monsters.md#blink-dog) takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
+The [Blink Dog (1/4)](monsters.md#blink-dog) takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 ## Fiend
 ### Devils
 Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
@@ -135,8 +135,8 @@ Devils personify tyranny, with a totalitarian society dedicated to the dominatio
 The lowest form of devil, lemures are the twisted and tormented souls of evil and corrupted mortals. A lemure killed in the Nine Hells is only permanently destroyed if it is killed with a blessed weapon or if its shapeless corpse is splashed with holy water before it can return to life.
   A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
   A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso. A permanent expression of anguish twists across its face, its feeble mouth babbling even though it can't speak.
-[Lemure Aspirant (1/2)](dm/dm/monsters.md#lemure-aspirant)
-[Lemure Squidge (1/2, Minion)](dm/dm/monsters.md#lemure-squidge)
+[Lemure Aspirant (1/2)](monsters.md#lemure-aspirant)
+[Lemure Squidge (1/2, Minion)](monsters.md#lemure-squidge)
 
 #### Promotion and Demotion
   When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils have the power to promote lemures to lesser devils. Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. This diabolic promotion invokes a brief, painful transformation, with the devil's memories passing intact from one form to the next.
@@ -150,7 +150,7 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 ## Giant
 ## Humanoid
 ### Any Humanoid
-[Apprentice Wizard (1/4)](dm/dm/monsters.md#apprentice-wizard)
+[Apprentice Wizard (1/4)](monsters.md#apprentice-wizard)
 
 ### Goblinoid
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -160,34 +160,34 @@ Goblins are small, black-hearted, selfish humanoids that lair in caves, abandone
 - **Challenging Lairs.** Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are also riddled with narrow tunnels and bolt-holes that human-sized creatures can't navigate, but which goblins can crawl through with ease, allowing them to flee or to circle around and surprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
 - **Worshipers of Maglubiyet.** Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
 
-[Goblin (1/4)](dm/dm/monsters.md#goblin)
+[Goblin (1/4)](monsters.md#goblin)
 
 - **Booyahgs.** Spellcasters of any sort among the goblins are rare. Goblins typically lack the intelligence and patience needed to learn and practice wizardry, and they fare poorly even when given access to the necessary training and knowledge. Sorcerers are less prevalent among them than in many other races, and Khurgorbaeyag seems to dislike sharing his divine power with his followers. And although many goblins would readily offer anything to have the abilities of a warlock, the patrons that grant such power know a goblin is unlikely to be able to uphold its end of any bargain.
   Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
   A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
 
-The [Booyahg Caster (1/4)](dm/dm/monsters.md#booyahg-caster) served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
+The [Booyahg Caster (1/4)](monsters.md#booyahg-caster) served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
 
-Khurgorbaeyag saw fit to gift the [Booyahg Whip (1/4)](dm/dm/monsters.md#booyahg-whip) with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
+Khurgorbaeyag saw fit to gift the [Booyahg Whip (1/4)](monsters.md#booyahg-whip) with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
 
-The [Booyahg Wielder (1/4)](dm/dm/monsters.md#booyahg-wielder) found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
+The [Booyahg Wielder (1/4)](monsters.md#booyahg-wielder) found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
 
 ## Monstrosity
-A [Worg (1/2)](dm/dm/monsters.md#worg) is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
+A [Worg (1/2)](monsters.md#worg) is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
-The [Cockatrice (1/2)](dm/dm/monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. 
+The [Cockatrice (1/2)](monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. 
   It flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from its beak can spell doom as its victim slowly turns to stone from the injury.
 
 ## Ooze
-[Gelatinous Cubes (1/2)](dm/dm/monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
+[Gelatinous Cubes (1/2)](monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
 ## Plant
-[Needle Blight (1/2)](dm/dm/monsters.md#needle-blight) 
+[Needle Blight (1/2)](monsters.md#needle-blight) 
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
 ### Claws 
-[Crawling Claws (0)](dm/dm/monsters.md#crawling-claw) are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
+[Crawling Claws (0)](monsters.md#crawling-claw) are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 - **Magical Origins.** Through dark necromantic rituals, the life force of a murderer is bound to its severed hand, haunting and animating it. If a dead murderer's spirit already manifests as another undead creature, if the murderer is raised from death, or if the spirit has long passed on to another plane, the ritual fails.
   The ritual invoked to create a crawling claw works best with a hand recently severed from a murderer. To this end, ritualists and their servants frequent public executions to gain possession of suitable hands, or make bargains with assassins and torturers.
 - **Creator's Control.** A crawling claw can't be turned, nor can it be controlled by spells that control undead. These foul monsters are entirely bound to the will of their creator, which can concentrate on a claw in sight to mentally command its every action. If the crawling claw's creator doesn't command it, the claw follows its last command to the best of its ability.
@@ -197,12 +197,12 @@ The [Cockatrice (1/2)](dm/dm/monsters.md#cockatrice) looks like a hideous hybrid
   Made whole again, the murderer acts as though the hand had never been severed and the ritual had never taken place. When the crawling claw separates again, the living body falls into a coma. Destroying the crawling claw while it is away from the body kills the murderer. However, killing the murderer has no effect on the crawling claw.
 
 ### Shadows
-[Shadows (1/2)](dm/dm/monsters.md#shadow) are undead that resemble dark exaggerations of humanoid shadows.
+[Shadows (1/2)](monsters.md#shadow) are undead that resemble dark exaggerations of humanoid shadows.
 - **Dark Disposition.** From the darkness, the shadow reaches out to feed on living creatures' vitality. They can consume any living creature, but they are especially drawn to creatures untainted by evil. A creature that lives a life of goodness and piety consigns its basest impulses and strongest temptations to the darkness where the shadows hunger. As a shadow drains its victim's strength and physical form, the victim's shadow darkens and begins to move of its own volition. In death, the creature's shadow breaks free, becoming a new undead shadow hungry for more life to consume.
   If a creature from which a shadow has been created somehow returns to life, its undead shadow senses the return. The shadow might seek its "parent" to vex or slay. Whether the shadow pursues its living counterpart, the creature that birthed the shadow no longer casts one until the monster is destroyed.
 
 ### Skeletons
-[Skeleton Warriors (1/4)](dm/dm/monsters.md#skeleton-warrior) arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
+[Skeleton Warriors (1/4)](monsters.md#skeleton-warrior) arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 - **Animated Dead.** Whatever sinister force awakens a skeleton infuses its bones with a dark vitality, adhering joint to joint and reassembling dismantled limbs. This energy motivates a skeleton to move and think in a rudimentary fashion, though only as a pale imitation of the way it behaved in life. An animated skeleton retains no connection to its past, although resurrecting a skeleton restores it body and soul, banishing the hateful undead spirit that empowers it.
   While most skeletons are the animated remains of dead humans and other humanoids, skeletal undead can be created from the bones of other creatures besides humanoids, giving rise to a host of terrifying and unique forms.
 - **Obedient Servants.** Skeletons raised by spell are bound to the will of their creator. They follow orders to the letter, never questioning the tasks their masters give them, regardless of the consequences. Because of their literal interpretation of commands and unwavering obedience, skeletons adapt poorly to changing circumstances. They can't read, speak, emote, or communicate in any way except to nod, shake their heads, or point. Still, skeletons are able to accomplish a variety of relatively complex tasks.
@@ -213,20 +213,20 @@ The [Cockatrice (1/2)](dm/dm/monsters.md#cockatrice) looks like a hideous hybrid
 
 ### Wights 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
-[Barrow Wights (1)](dm/dm/monsters.md#barrow-wight) possess the memories and drives of their formerly living selves. They will heed the call of whatever dark entity transformed them into undead, swearing oaths to appease their new lord while retaining their autonomy. Never tiring, a wight can pursue its goals relentlessly and without distraction.
+[Barrow Wights (1)](monsters.md#barrow-wight) possess the memories and drives of their formerly living selves. They will heed the call of whatever dark entity transformed them into undead, swearing oaths to appease their new lord while retaining their autonomy. Never tiring, a wight can pursue its goals relentlessly and without distraction.
 - **Life Eaters.** Neither dead nor alive, a wight exists in a transitional state between one world and the next. The bright spark it possessed in life is gone, and in its place is a yearning to consume that spark in all living things.
   When a wight attacks, this life essence glows like white-hot embers to its dark eyes, and the wight's cold touch can drain the spark through flesh, clothing, and armor.
 - **Shadow of the Grave.** Wights flee from the world by day, away from the light of the sun, which they hate. They retreat to barrow mounds, crypts, and tombs where they dwell. Their lairs are silent, desolate places, surrounded by dead plants, noticeably blackened, and avoided by bird and beast.
   Humanoids slain by a wight can rise as zombies under its control. Motivated by hunger for living souls and driven by the same desire for power that awakened them in undeath, some wights serve as shock troops for evil leaders, including wraiths. As soldiers, they are able to plan but seldom do so, relying on their hunger for destruction to overwhelm any creature that stands before them.
 
 ### Zombies
-From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The [Zombie (1/4)](dm/dm/monsters.md#zombie) advances, driven to kill anyone too slow to escape its grasp.
+From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The [Zombie (1/4)](monsters.md#zombie) advances, driven to kill anyone too slow to escape its grasp.
 - **Dark Servants.** Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
   Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a resurrection spell.
   A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 - **Hideous Forms.** Zombies appear as they did in life, showing the wounds that killed them. However, the magic that creates these vile creatures often takes time to run its course. Dead warriors might rise from a battlefield, eviscerated and bloated after days in the sun. The muddy cadaver of a peasant could claw its way from the ground, riddled with maggots and worms. A zombie might wash ashore or rise from a marsh, swollen and reeking after weeks in the water.
 - **Mindless Soldiers.** Zombies take the most direct route to any foe, unable to comprehend obstacles, tactics, or dangerous terrain. A zombie might stumble into a fast-flowing river to reach foes on a far shore, clawing at the surface as it is battered against rocks and destroyed. To reach a foe below it, a zombie might step out of an open window. Zombies stumble through roaring infernos, into pools of acid, and across fields littered with caltrops without hesitation.
   A zombie can follow simple orders and distinguish friends from foes, but its ability to reason is limited to shambling in whatever direction it is pointed, pummeling any enemy in its path. A zombie armed with a weapon uses it, but the zombie won't retrieve a dropped weapon or other tool until told to do so.
-[Kobold Zombie (1/8)](dm/dm/monsters.md#kobold-zombie)
-[Zombie Rotter (1/4)](dm/dm/monsters.md#zombie-rotter)
-[Gravehound (1/2)](dm/dm/monsters.md#gravehound)
+[Kobold Zombie (1/8)](monsters.md#kobold-zombie)
+[Zombie Rotter (1/4)](monsters.md#zombie-rotter)
+[Gravehound (1/2)](monsters.md#gravehound)
