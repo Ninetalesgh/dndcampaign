@@ -14,7 +14,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +4, stealth: +4
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Auran
 - **Traits**: 
    - **Weightless**. Whenever the mephit takes damage, it is pushed 2 *(3m)* away from the source of the damage.
@@ -41,7 +41,7 @@ STR | DEX | CON | INT | WIS | CHA
 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) 
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
 - **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the battleaxe remains motionless and isn't flying, it is indistinguishable from a normal battleaxe.
 - **Actions**: 
@@ -63,7 +63,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: fire.
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
 - **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the book remains motionless, it is indistinguishable from a normal book.
 - **Actions**:
@@ -88,7 +88,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 14 (+2) | 12 (+1) | 1 (-5) | 5 (-3) | 1 (-5) 
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
 - **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the broom remains motionless, it is indistinguishable from a normal broom.
 - **Actions**:
@@ -114,7 +114,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 13 (+1) | 12 (+1) | 1 (-5) | 5 (-3) | 1 (-5) 
 
 - **Immunities**: fire, poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
 - **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the kettle remains motionless, it is indistinguishable from a normal kettle.
 - **Actions**:
@@ -163,7 +163,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +5, stealth: +5
 - **Immunities**: fire, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: Auran
 - **Traits**: 
    - **Weightless**. Whenever the mephit takes damage, it is pushed 2 *(3m)* away from the source of the damage.
@@ -214,7 +214,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: perception: +3, stealth: +4
 - **Resistances**: necrotic; nonsilvered sources bludgeoning, piercing, slashing from nonmagical
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: The languages it knew in life
 - **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
 - **Actions**:
@@ -292,7 +292,7 @@ STR | DEX | CON | INT | WIS | CHA
 13 (+1) | 11 (+0) | 12 (+1) | 4 (-3) | 9 (-1) | 5 (-3) 
 
 - **Skills**: perception: +1, survival: +1
-- **Senses**: [Darkvision *(9m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Traits**:
    - **Earth Scenting**. The boar has advantage on WIS (Perception) checks that rely on smell. It can sense the type, number, and direction of underground plants and animals within 5 *(7.5m)* of it.
    - **Ploughing Charge**. If the boar moves at least 4 *(6m)* in a straight line, it may move through the space of any Medium or smaller creature.
@@ -318,7 +318,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) 
 
 - **Skills**: stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
 - **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
    - **Spellcasting**. The goblin can cast a randomly determined 1st-level wizard spell once per day. INT is its spellcasting ability (spell save DC 10, +2 to hit with spell attacks).
@@ -342,7 +342,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) 
 
 - **Skills**: stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
 - **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
    - **Khurgorbaeyag's Gift**. Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
@@ -366,7 +366,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1) 
 
 - **Skills**: stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
 - **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape).
    - **Special Equipment**. The goblin found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
@@ -391,7 +391,7 @@ STR | DEX | CON | INT | WIS | CHA
 16 (+3) | 14 (+2) | 13 (+1) | 4 (-3) | 12 (+1) | 7 (-2) 
 
 - **Skills**: athletics: +7, stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Languages**: Deep Speech
 - **Traits**: 
    - **Aberrant Quickness**. The choker may dash as a bonus action while it has a creature [Grappled](conditions.md#grappled).
@@ -417,7 +417,7 @@ STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--: 
 6 (-2) | 12 (+1) | 12 (+1) | 2 (-4) | 13 (+1) | 5 (-3) 
 
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Traits**: 
    - **Clumsy Flier**. The cockatrice falls at the end of a turn if it's airborne and the only thing holding it aloft is its flying speed. Attacks it makes while airborne are made at disadvantage.
 - **Actions**: 
@@ -462,7 +462,7 @@ STR | DEX | CON | INT | WIS | CHA
 13 (+1) | 14 (+2) | 11 (+0) | 5 (-3) | 10 (+0) | 4 (-3) 
 
 - **Immunities**: poison; [Charmed](conditions.md#charmed), [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned), [Turned](conditions.md#turned)
-- **Senses**: [Blindsight *(9m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 10
+- **Senses**: [Blindsight *(9m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 10
 - **Languages**: understands Common but can't speak
 - **Traits**:
    - **Murderous Intent**. The claw may pick up and wield unattended weapons and improvised weapons without the Heavy or Two-Handed trait. It is proficient with all such weapons.
@@ -517,7 +517,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: bludgeoning.
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: understands all languages it knew in life but can't speak
 - **Traits**:
    - **Unliving Warrior**. The dread has proficiency with all weapons.
@@ -547,7 +547,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: fire.
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: Terran
 - **Traits**: 
    - **Weightless**. Whenever the mephit takes damage, it is pushed 2 *(3m)* away from the source of the damage.
@@ -580,7 +580,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +3, perception: +3
 - **Vulnerabilities**: thunder.
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: Terran
 - **Traits**: 
    - **Earth Glide**. The mephit can burrow through nonmagical, unworked earth and stone. While doing so, the mephit doesn't disturb the material it moves through.
@@ -608,7 +608,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +3, stealth: +3
 - **Immunities**: fire, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Ignan
 - **Traits**: 
    - **Fire Step**. Surfaces the mephit moves over ignite and burn for 1 minute. A creature that starts its turn in a burning area, or enters a burning area for the first time on a turn, takes 3 (1d6) fire damage.
@@ -634,7 +634,7 @@ STR | DEX | CON | INT | WIS | CHA
 12 (+1) | 15 (+2) | 11 (+0) | 1 (-5) | 5 (-3) | 1 (-5) 
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
 - **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the sword remains motionless, it is indistinguishable from a normal sword.
 - **Actions**: 
@@ -662,7 +662,7 @@ STR | DEX | CON | INT | WIS | CHA
 6 (-2) | 3 (-4) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) 
 
 - **Immunities**: acid; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(3m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 8
+- **Senses**: [Blindsight *(3m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 8
 - **Traits**: 
    - **Perfect Transparency**. If the cube has not moved or taken an action in the last minute and has no objects [Swallowed](conditions.md#swallowed), it is [Invisible](conditions.md#invisible) to creatures with a Passive Perception lower than 13.
 - **Actions**: 
@@ -688,7 +688,7 @@ STR | DEX | CON | INT | WIS | CHA
 12 (+1) | 10 (+0) | 16 (+3) | 14 (+2) | 9 (-1) | 11 (+0) 
 
 - **Skills**: perception: +4, stealth: +2
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), [Tremorsense *(9m)*](./../game_rules.md#advanced-rules#tremorsense), passive perception 14
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), [Tremorsense *(9m)*](game_rules.md#advanced-rules#tremorsense), passive perception 14
 - **Languages**: Terran
 - **Traits**: 
    - **Boulder Guise**. While fully withdrawn into its shell, the geonid can't see and is indistinguishable from a small boulder.
@@ -717,7 +717,7 @@ STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--: 
 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) 
 
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
    - **Keen Smell**. The rat has advantage on WIS (Perception) checks that rely on smell.
 - **Actions**:
@@ -740,7 +740,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +1, perception: +2
 - **Vulnerabilities**: bludgeoning, thunder.
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Ignan, Terran
 - **Traits**:
    - **Molten Repair**. If the mephit would take any fire damage, it instead takes no damage and regains a number of hit points equal to the fire damage dealt.
@@ -772,7 +772,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 10 (+0) | 8 (-1) 
 
 - **Skills**: stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
 - **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
 - **Actions**:
@@ -797,7 +797,7 @@ STR | DEX | CON | INT | WIS | CHA
 13 (+1) | 14 (+2) | 15 (+2) | 3 (-4) | 13 (+1) | 7 (-2) 
 
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
 - **Actions**:
    - **Lockjaw Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -825,7 +825,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: perception: +2, stealth: +3
 - **Immunities**: cold, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Auran, Aquan
 - **Traits**: 
    - **Chip Away**. If the mephit is missing any of its hit points, its AC is reduced to 11.
@@ -855,7 +855,7 @@ STR | DEX | CON | INT | WIS | CHA
 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 8 (-1) | 8 (-1) 
 
 - **Skills**: perception: +1, stealth: +4, survival: +1
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Languages**: Common, Draconic
 - **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity)
 - **Actions**:
@@ -878,7 +878,7 @@ STR | DEX | CON | INT | WIS | CHA
 12 (+1) | 15 (+2) | 14 (+2) | 8 (-1) | 9 (-1) | 10 (+0) 
 
 - **Skills**: perception: +1, stealth: +4
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Languages**: Draconic, Undercommon, Yipyak
 - **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper).
    - **Dragonwrought**. The kobold has resistance to one type of damage determined by its most recent draconic ancestor.
@@ -907,7 +907,7 @@ STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--: 
 7 (-2) | 15 (+2) | 12 (+1) | 14 (+2) | 10 (+0) | 8 (-1) 
 
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Common, Draconic
 - **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
 - **Actions**:
@@ -943,7 +943,7 @@ STR | DEX | CON | INT | WIS | CHA
 13 (+1) | 14 (+2) | 12 (+1) | 9 (-1) | 8 (-1) | 8 (-1) 
 
 - **Skills**: athletics: +4, stealth: +4
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Draconic, Undercommon, Yipyak
 - **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper).
 - **Actions**:
@@ -971,7 +971,7 @@ STR | DEX | CON | INT | WIS | CHA
 7 (-2) | 13 (+1) | 8 (-1) | 8 (-1) | 7 (-2) | 8 (-1) 
 
 - **Skills**: stealth: +3
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: Yipyak
 - **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Minion](dm/monsters.md#monster-traits#minion).
 - **Actions**:
@@ -995,7 +995,7 @@ STR | DEX | CON | INT | WIS | CHA
 7 (-2) | 16 (+3) | 10 (+0) | 14 (+2) | 10 (+0) | 8 (-1) 
 
 - **Skills**: arcana: +4, acrobatics: +5, stealth: +7
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Draconic, Undercommon, Yipyak
 - **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper)
 - **Actions**:
@@ -1024,7 +1024,7 @@ STR | DEX | CON | INT | WIS | CHA
 8 (-1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 3 (-4) 
 
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: understands Common and Draconic but can't speak
 - **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
    - **Unusual Nature**. The zombie doesn't require air, food, drink, or sleep.
@@ -1048,7 +1048,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Resistances**: cold;
 - **Immunities**: fire, poison; [Charmed](conditions.md#charmed), [Frightened](conditions.md#frightened), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision) (penetrates magical [Darkness](game_rules.md#advanced-rules#darkness)), passive perception 10
+- **Senses**: [Darkvision *(36m)*](game_rules.md#advanced-rules#darkvision) (penetrates magical [Darkness](game_rules.md#advanced-rules#darkness)), passive perception 10
 - **Languages**: understands simple Infernal commands but can't speak
 - **Traits**: 
    - **Fleshy Morass**. When the lemure is hit with a melee attack that deals piercing or slashing damage, swathes of its ruined flesh cling to the attacker.
@@ -1078,7 +1078,7 @@ STR | DEX | CON | INT | WIS | CHA
 10 (+0) | 5 (-3) | 11 (+0) | 1 (-5) | 11 (+0) | 3 (-4) 
 
 - **Immunities**: fire, poison; [Charmed](conditions.md#charmed), [Frightened](conditions.md#frightened), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision) (penetrates magical [Darkness](game_rules.md#advanced-rules#darkness)), passive perception 10
+- **Senses**: [Darkvision *(36m)*](game_rules.md#advanced-rules#darkvision) (penetrates magical [Darkness](game_rules.md#advanced-rules#darkness)), passive perception 10
 - **Languages**: understands simple Infernal commands but can't speak
 - **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
    - **Fleshy Morass**. When the lemure is hit with a melee attack that deals piercing or slashing damag, swathes of its ruined flesh cling to the attacker.
@@ -1104,7 +1104,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +3, stealth: +3
 - **Immunities**: fire, radiant, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Ignan
 - **Traits**: 
    - **Revealing Radiance**. The mephit sheds [Bright Light](game_rules.md#advanced-rules#bright-light) in a 20-foot radius and [Dim Light](game_rules.md#advanced-rules#dim-light) for an additional 4 *(6m)*. Creatures in the radius of [Bright Light](game_rules.md#advanced-rules#bright-light) cannot benefit from Invisibility.
@@ -1133,7 +1133,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +4, stealth: +4
 - **Immunities**: lightning, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Auran
 - **Traits**: 
    - **Electrified**. A creature that hits the mephit with a melee attack can't take reactions until the start of its next turn.
@@ -1165,7 +1165,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +3, perception: +3
 - **Vulnerabilities**: cold.
 - **Immunities**: fire, poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: Ignan, Terran
 - **Traits**: 
    - **Molten Body**. If the mephit takes 10 or more cold damage from a single source, it is '[Petrified](conditions.md#petrified).
@@ -1194,7 +1194,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Resistances**: undefined bludgeoning, piercing, slashing from nonmagical attacks
 - **Immunities**: fire;
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Ignan
 - **Traits**: 
    - **Death Burst**. When the magmin dies, it explodes in a burst of fire and magma. Each creature and flammable object within 1 *(1.5m)* of it ignites.
@@ -1223,7 +1223,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +5, perception: +2
 - **Vulnerabilities**: thunder.
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Terran
 - **Traits**: 
    - **Stoneglide**. The mephit can burrow through nonmagical stone, and doesn't disturb any material it burrows through.
@@ -1253,7 +1253,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: athletics: +5, perception: +3
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: Aquan, Terran
 - **Traits**: 
    - **Earthglide**. The mephit can burrow through nonmagical, unworked earth and stone, and doesn't disturb any material it burrows through.
@@ -1284,7 +1284,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: fire.
 - **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
-- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
 - **Languages**: understands Common but can't speak
 - **Traits**: 
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a spiny stump.
@@ -1317,7 +1317,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +5, perception: +3
 - **Resistances**: undefined slashing damage from nonmagical weapons.
 - **Immunities**: acid, poison; [Grappled](conditions.md#grappled), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Aquan
 - **Traits**: 
    - **Amorphous**. The mephit can move through a space as narrow as 1 inch wide without squeezing.
@@ -1351,7 +1351,7 @@ STR | DEX | CON | INT | WIS | CHA
 10 (+0) | 12 (+1) | 14 (+2) | 6 (-2) | 9 (-1) | 7 (-2) 
 
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: Terran
 - **Traits**: 
    - **Soluble**. If the mephit is doused in water (at least one gallon), it must succeed on a DC 15 CON Save or die and disintigrate.
@@ -1382,7 +1382,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Vulnerabilities**: radiant.
 - **Resistances**: acid, cold, fire, lightning, thunder; undefined bludgeoning, piercing, slashing from nonmagical attacks
 - **Immunities**: necrotic, poison; [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Grappled](conditions.md#grappled), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone), [Restrained](conditions.md#restrained)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Traits**:
    - **Amorphous**. The shadow can move through a space as narrow as 1 inch wide without squeezing.
    - **Shadow Stealth**. While in [Dim Light](game_rules.md#advanced-rules#dim-light) or [Darkness](game_rules.md#advanced-rules#darkness), the shadow can take the Hide action as a bonus action. Its stealth bonus is also improved to +6.
@@ -1406,7 +1406,7 @@ STR | DEX | CON | INT | WIS | CHA
 10 (+0) | 16 (+3) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) 
 
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: understands the languages it knew in life but can't speak
 - **Actions**:
    - **Shortsword**. *Melee Attack:* +5, reach 1 *(1.5m)* 
@@ -1429,7 +1429,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: bludgeoning.
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: understands all languages it knew in life but can't speak
 - **Traits**:
    - **Unliving Warriors**. The skeleton has proficiency in all martial weapons and armor.
@@ -1458,7 +1458,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +6, stealth: +6
 - **Immunities**: fire, poison; [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight *(9m)*](./../game_rules.md#advanced-rules#blindsight), passive perception 9
+- **Senses**: [Blindsight *(9m)*](game_rules.md#advanced-rules#blindsight), passive perception 9
 - **Languages**: Auran, Ignan
 - **Traits**: 
    - **Pull Together (1/Day)**. When the mephit is reduced to 0 hit points, it may turn to smoke and disipate instead of dying. At the beginning of its next turn, it reappears within 3 *(4.5m)* of the space it disappeared with 1 hit point.
@@ -1487,7 +1487,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: acrobatics: +4, stealth: +4
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
-- **Senses**: [Blindsight](./../game_rules.md#advanced-rules#blindsight) 1 *(1.5m)*, [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Blindsight](game_rules.md#advanced-rules#blindsight) 1 *(1.5m)*, [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Auran
 - **Traits**: 
    - **Weightless**. Whenever the mephit takes damage, it is pushed 2 *(3m)* away from the source of the damage.
@@ -1524,7 +1524,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: athletics: +2, perception: +2
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Aquan
 - **Traits**: 
    - **Freeze**. Whenever the mephit takes cold damage, its speed is reduced by 10 and it gains vulnerability to bludgeoning damage until the end of its next turn.
@@ -1575,7 +1575,7 @@ STR | DEX | CON | INT | WIS | CHA
 16 (+3) | 13 (+1) | 13 (+1) | 7 (-2) | 11 (+0) | 8 (-1) 
 
 - **Skills**: perception: +2
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Goblin, Worg
 - **Traits**:
    - **Pounce**. If the worg moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 STR Save or be knocked [Prone](conditions.md#prone). If the target is [Prone](conditions.md#prone), the worg can make one bite attack against it as a bonus action.
@@ -1605,7 +1605,7 @@ STR | DEX | CON | INT | WIS | CHA
 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) 
 
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: understands the languages it knew in life but can't speak
 - **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
 - **Actions**:
@@ -1627,7 +1627,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: athletics: +3
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
    - **Sudden Lunge**. The zombie's attacks have a reach of 2 *(3m)* for the purposes of making opportunity attacks. When it makes an opportunity attack, it moves up to 1 *(1.5m)* towards its target as part of the attack.
 - **Actions**:
