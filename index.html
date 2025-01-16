@@ -143,6 +143,7 @@
       let element = content.firstChild;
       let previousDepth = '';
       let parentNode = rootTreeNode;
+
       while(element)
       {
         let currentDepth = getHeaderElementDepth(element);
@@ -160,7 +161,6 @@
           parentNode = childNode;
           previousDepth = currentDepth;        
         }
-      
         element = element.nextElementSibling;
       }
     }
@@ -171,6 +171,7 @@
 
     function findIndexedContentNodeRecursive(parentNode, name)
     {
+      if (!parentNode) { return null; }
       let resultNode = null;
       let queue = new Array();
       for (let childNode of parentNode.children)
@@ -202,11 +203,25 @@
     {
       let resultNode = null;
       //get link node
-      const match = link.match(/([^(#]+)#([^)\s]+)/);
+      const match = link.match(/([^(#\/]+)#([^)\s]+)/);
       if (match)
       {
         await fetchMd(`/${match[1]}`).then(node => {
+          if (!node){ return null; }
           let split = match[2].split('#');
+
+          if (split.length === 1)
+          {          
+            if (match[1] === 'dm_monsters.md')
+            {
+              split = [ `monsters-${split[0][0]}`, ...split ];
+            }
+            else if (match[1] === 'spells.md')
+            {
+              split = [ `spells-${split[0][0]}`, ...split ];
+            }
+          }
+
           let narrowSearchNode = node;
           for (let id of split)
           {
@@ -245,7 +260,7 @@
 
     async function fetchMd(mdUrl)
     {
-      const nodeName = mdUrl.replace(/^.*(\/dm_[a-zA-Z0-9]+\.md)$/i, '$1');
+      const nodeName = mdUrl.replace(/^.*(\/dm_[-_a-zA-Z0-9]+\.md)$/i, '$1');
       let contentNode = getIndexedContentPage(nodeName);
 
       let absoluteURL = '';
@@ -257,9 +272,12 @@
         console.log('Fetching and caching: ' + mdUrl);
         await fetchMdAsHtml(absoluteURL)
         .then(data => {
-          let div = document.createElement('div');
-          div.innerHTML = data;
-          contentNode = indexContent(rootNode, nodeName, div);
+          if (data)
+          {
+            let div = document.createElement('div');
+            div.innerHTML = data;
+            contentNode = indexContent(rootNode, nodeName, div);
+          } 
         });
       }      
       return contentNode;
@@ -267,16 +285,23 @@
     
     function applyNodeToView(node)
     {
-      const contentHolder = document.querySelector('.dndcontent');
-      contentHolder.innerHTML = node.element.outerHTML;
-          
-      let index = document.querySelector('.dndindex');
-      index.innerHTML = '';
-      addTreeNodeToIndexViewRecursive(node, index);
+      if (node)
+      {
+        const contentHolder = document.querySelector('.dndcontent');
+        contentHolder.innerHTML = node.element.outerHTML;
+        
+        let index = document.querySelector('.dndindex');
+        index.innerHTML = '';
+        addTreeNodeToIndexViewRecursive(node, index);
+      }
+      else
+      {
+        console.error("Attempted to show null node in dndcontent page.");
+      }
     }
 
     function applyCustomDivToView(div)
-    {      
+    {
       let dummyNode = new TreeNode(null);
       dummyNode.element = div;
       generateIndexTree(dummyNode, div);
@@ -363,6 +388,10 @@
             if (clipboardData.startsWith('{'))
             {
               result = convert5EJsonToHtml(JSON.parse(clipboardData));
+            }
+            else if (clipboardData.trimStart().startsWith('#'))
+            {
+              result = parseMd(clipboardData);
             }
             else
             {
