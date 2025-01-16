@@ -1084,7 +1084,7 @@ A creature killed by this damage is dragged through a planar rift to Thanatos.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a gout of [burning](conditions.md#burning) toxic fumes emerges from its wound in a length 3 *(4.5m)* cone. Each creature in the area must succeed on a DEX Save or take 10 (3d6) fire plus 10 (3d6) Poison damage, or half as much on a success.
+One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a gout of burning toxic fumes emerges from its wound in a length 3 *(4.5m)* cone. Each creature in the area must succeed on a DEX Save or take 10 (3d6) fire plus 10 (3d6) Poison damage, or half as much on a success.
 - **Classes**: Warlock
 *(Source: ConfluxCreatures)*
 
@@ -1106,8 +1106,8 @@ While a creature has any of these Temporary Hit Points, it has advantage on Save
 - **Range**: Self, a length 3 *(4.5m)* cone
 - **Components**: V, S
 - **Duration**: Instantaneous
-A thin sheet of flames shoots forth from you. Each creature in a length 3 *(4.5m)* cone makes a DEX Save, taking 3d6 Fire damage on a failed save or half as much damage on a successful one.
-Flammable objects in the Cone that aren't being worn or carried start [burning](conditions.md#burning).
+A thin sheet of flames shoots forth from you. Each creature in a length 3 *(4.5m)* cone makes a DEX Save, taking 3d6 Fire damage and start [Burning (1d4)](conditions.md#burning) on a failed save or half as much damage on a successful one.
+Flammable objects in the Cone that aren't being worn or carried start [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Sorcerer, Wizard
 *(Source: PHB'24, page 248)*
@@ -2484,7 +2484,7 @@ The spell's caster must maintain concentration on the spell until the spell take
 A beam of yellow light flashes from you, then condenses at a chosen point within range as a glowing bead for the duration. When the spell ends, the bead explodes, and each creature in a radius 4 *(6m)* sphere centered on that point makes a DEX Save. A creature takes Fire damage equal to the total accumulated damage on a failed save or half as much damage on a successful one.
 The spell's base damage is 12d6, and the damage increases by 1d6 whenever your turn ends and the spell hasn't ended.
 If a creature touches the glowing bead before the spell ends, that creature makes a DEX Save. On a failed save, the spell ends, causing the bead to explode. On a successful save, the creature can throw the bead up to 8 *(12m)*. If the thrown bead enters a creature's space or collides with a solid object, the spell ends, and the bead explodes.
-When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [burning](conditions.md#burning).
+When the bead explodes, flammable objects in the explosion that aren't being worn or carried start [Burning (2d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The base damage increases by 1d6 for each spell slot level above 7.
 - **Classes**: Sorcerer, Wizard
 *(Source: PHB'24, page 261)*
@@ -3782,7 +3782,7 @@ A Humanoid killed by this spell rises at the start of your next turn as a Zombie
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts [burning](conditions.md#burning) if it isn't being worn or carried.
+You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts [Burning (1d6)](conditions.md#burning) if it isn't being worn or carried.
 **Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: PHB'24, page 274)*
@@ -3806,7 +3806,7 @@ In addition, whenever a creature within 1 *(1.5m)* of you hits you with a melee 
 - **Components**: V, S
 - **Duration**: Instantaneous
 A storm of fire appears within range. The area of the storm consists of up to tena size 2 *(3m)* cubes, which you arrange as you like. Each Cube must be contiguous with at least one other Cube. Each creature in the area makes a DEX Save, taking 7d10 Fire damage on a failed save or half as much damage on a successful one.
-Flammable objects in the area that aren't being worn or carried start [burning](conditions.md#burning).
+Flammable objects in the area that aren't being worn or carried start [Burning (2d10)](conditions.md#burning).
 - **Classes**: Cleric, Druid, Sorcerer
 *(Source: PHB'24, page 275)*
 
@@ -3817,7 +3817,7 @@ Flammable objects in the area that aren't being worn or carried start [burning](
 - **Components**: V, S
 - **Duration**: Instantaneous
 A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a radius 4 *(6m)* sphere centered on that point makes a DEX Save, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.
-Flammable objects in the area that aren't being worn or carried start [burning](conditions.md#burning).
+Flammable objects in the area that aren't being worn or carried start [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Wizard
 *(Source: PHB'24, page 274)*
@@ -3828,7 +3828,7 @@ Flammable objects in the area that aren't being worn or carried start [burning](
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You cause the fires engulfing a creature to flare explosively. One [burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save or take 3d6 Fire damage.
+You cause the fires engulfing a creature to flare explosively. One [Burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save or take 3d6 Fire damage.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the damage increases by 1d6 for each slot level above 2.
 - **Classes**: Druid, Sorcerer
 *(Source: ConfluxCreatures)*
@@ -3911,7 +3911,7 @@ A vertical column of brilliant fire roars down from above. Each creature in a ra
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You create a diameter 1 *(1.5m)* sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 1 *(1.5m)* of the sphere makes a DEX Save, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
 As a Bonus Action, you can move the sphere up to 6 *(9m)*, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.
-When you move the sphere, you can direct it over barriers up to 1 *(1.5m)* tall and jump it across pits up to 2 *(3m)* wide. Flammable objects that aren't being worn or carried start [burning](conditions.md#burning) if touched by the sphere, and it sheds Bright Light in a radius 4 *(6m)* sphere and Dim Light for an additional 4 *(6m)*.
+When you move the sphere, you can direct it over barriers up to 1 *(1.5m)* tall and jump it across pits up to 2 *(3m)* wide. Flammable objects that aren't being worn or carried start [Burning (1d6)](conditions.md#burning) if touched by the sphere, and it sheds Bright Light in a radius 4 *(6m)* sphere and Dim Light for an additional 4 *(6m)*.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: PHB'24, page 275)*
@@ -4398,7 +4398,7 @@ You attempt to encase a creature within range in a shell of translucent ice. The
 - **Duration**: Instantaneous
 Requires proficiency in Thieves' Cant.
 You smash the glass object used in the spell's casting, sending shards flying in a length 3 *(4.5m)* cone.
-Each creature in the area must succeed on a CON Save or be [Blinded](conditions.md#blinded) and [Bleeding](conditions.md#bleeding) (1d6) for the next minute.
+Each creature in the area must succeed on a CON Save or be [Blinded](conditions.md#blinded) and [Bleeding (1d6)](conditions.md#bleeding) for the next minute.
 An affected creature repeats this Save at the end of each of its turns, ending the effect on a success.
 Using a Higher Level Spell Slot. When you cast this spell using a spell slot of Level 3 or higher, the size of the Cone increases by 2 *(3m)* for each slot level above 2.
 - **Classes**: Artificer, Bard, Ranger
@@ -5156,7 +5156,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 - **Components**: V, S
 - **Duration**: Instantaneous
 Infernal flames dance upon your palm before hurtling toward a creature within range. Make a ranged spell attack.
-On a hit, the target takes 4d6 Fire damage. On a critical hit, the target additionally begins [Burning](conditions.md#burning) (1d10).
+On a hit, the target takes 4d6 Fire damage. On a critical hit, the target additionally begins [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3, it scores a critical on an 18-20. When you cast this spell using a spell slot of Level 4 or higher, it scores a critical on an 16-20.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
@@ -5167,7 +5167,7 @@ On a hit, the target takes 4d6 Fire damage. On a critical hit, the target additi
 - **Range**: 30 *(45m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-A [burning](conditions.md#burning) stone flies from your extended palm, growing as it flies. Make a ranged spell attack.
+A burning stone flies from your extended palm, growing as it flies. Make a ranged spell attack.
 On a hit, the target takes 10d6 bludgeoning plus 10d6 Fire damage.
 Against a target at lower elevation than you (at least 1 *(1.5m)* lower), this attack has advantage and pushes the target up to 3 *(4.5m)* away on a hit.
 - **Classes**: Sorcerer, Warlock, Wizard
@@ -5284,7 +5284,7 @@ A creature that has Truesight can read the hidden message.
 - **Range**: 18 *(27m)*
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-Flames wreathe one creature you can see within range. The target must make a DEX Save. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The [burning](conditions.md#burning) target sheds bright light in a radius 6 *(9m)* sphere and dim light for an additional 6 *(9m)*. At the end of each of its turns, the target repeats the Save. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished by nonmagical means.
+Flames wreathe one creature you can see within range. The target must make a DEX Save. It takes 8d6 fire damage on a failed save, or half as much damage on a successful one. On a failed save, the target also burns for the spell's duration. The burning target sheds bright light in a radius 6 *(9m)* sphere and dim light for an additional 6 *(9m)*. At the end of each of its turns, the target repeats the Save. It takes 4d6 fire damage on a failed save, and the spell ends on a successful one. These magical flames can't be extinguished by nonmagical means.
 If damage from this spell kills a target, the target is turned to ash.
 - **Classes**: Sorcerer, Wizard
 *(Source: XGE, page 158)*
@@ -6390,7 +6390,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 - **Components**: V, S
 - **Duration**: Instantaneous
 Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a radius 8 *(12m)* sphere centered on each of those points makes a DEX Save. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [burning](conditions.md#burning) if it's flammable.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts burning if it's flammable.
 - **Classes**: Sorcerer, Wizard
 *(Source: PHB'24, page 298)*
 
@@ -8082,8 +8082,7 @@ Whenever the cursed creature takes any damage, it takes an additional 1d8 Radian
 - **Components**: V, S
 - **Duration**: Instantaneous
 Questing flames rise to engulf up to six creatures of your choice in a radius 4 *(6m)* sphere within range.
-Each target must succeed on a DEX Save or begin [burning](conditions.md#burning) for the duration.
-At the beginning of each of its turns, the target takes 2d10 Fire damage. While [burning](conditions.md#burning) in this way, attacks made against the target have advantage.
+Each target must succeed on a DEX Save or begin [burning (2d10)](conditions.md#burning) for the duration. While [Burning](conditions.md#burning) in this way, attacks made against the target have advantage.
 These flames are extinguished if your concentration ends, or if a creature uses its action to extinguish them for a target.
 - **Classes**: Cleric, Druid, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
@@ -8261,7 +8260,7 @@ Most demons summoned in this way will attack the nearest creature on each of the
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You disintegrate one nonmagical metal object you can see within range into a flurry of razor flakes, destroying it.
-Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Save. On a failure, a target takes 6d6 Slashing damage and begins [Bleeding](conditions.md#bleeding) (2d6).
+Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Save. On a failure, a target takes 6d6 Slashing damage and begins [Bleeding (2d6)](conditions.md#bleeding).
 **Using a Higher-Level Spell Slot.** The damage increases by 3d6 for each spell slot level above 6.
 - **Classes**: Cleric, Druid, Warlock
 *(Source: ConfluxCreatures)*
@@ -9451,7 +9450,7 @@ You gain a fly (hover) speed equal to your movement speed until the end of your 
 - **Range**: 30 *(45m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You send a pinprick of starfire flying ahead, [burning](conditions.md#burning) through all in its path. Make a ranged spell attack. On a hit, the attack deals 4d6 Fire damage plus 6d8 Radiant damage.
+You send a pinprick of starfire flying ahead, burning through all in its path. Make a ranged spell attack. On a hit, the attack deals 4d6 Fire damage plus 6d8 Radiant damage.
 For the purposes of line-of-effect and AC bonuses from cover, this attack ignores all cover from any nonmagical, nonliving material, disintegrating through it without resistance and leaving a 5cm wide hole in its wake.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
@@ -9636,7 +9635,7 @@ Any damage dealt by the spell is reduced by half, and the spell's caster must su
 - **Components**: V, S
 - **Duration**: Instantaneous
 Requires a noble title.
-Your palm flares with light as it touches a creature, [burning](conditions.md#burning) away all magical veils. The target must make a CHA  Save.
+Your palm flares with light as it touches a creature, burning away all magical veils. The target must make a CHA Save.
 On a failure, the target takes 12d8 Radiant damage and each illusory, shapechanging, or mind-affecting magic affecting it ends.
 This damage can't reduce the target's Hit Points below 1.
 - **Classes**: Bard, Cleric
@@ -10099,7 +10098,7 @@ An unwilling creature can make a CHA  Save, resisting the effect on a success.
 - **Duration**: 24 hours
 You cause a temple to shimmer into existence on ground you can see within range. The temple must fit within an unoccupied cube of space, up to 24 *(36m)* on each side. The temple remains until the spell ends. It is dedicated to whatever god, pantheon, or philosophy is represented by the holy symbol used in the casting.
 You make all decisions about the temple's appearance. The interior is enclosed by a floor, walls, and a roof, with one door granting access to the interior and as many windows as you wish. Only you and any creatures you designate when you cast the spell can open or close the door.
-The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of [burning](conditions.md#burning) incense fills the air within, and the temperature is mild.
+The temple's interior is an open space with an idol or altar at one end. You decide whether the temple is illuminated and whether that illumination is bright light or dim light. The smell of burning incense fills the air within, and the temperature is mild.
 The temple opposes types of creatures you choose when you cast this spell. Choose one or more of the following: celestials, elementals, fey, fiends, or undead. If a creature of the chosen type attempts to enter the temple, that creature must make a CHA  Save. On a failed save, it can't enter the temple for 24 hours. Even if the creature can enter the temple, the magic there hinders it; whenever it makes an attack roll, an ability check, or a Save inside the temple, it must roll a d4 and subtract the number rolled from the d20 roll.
 In addition, the sensors created by divination spells can't appear inside the temple, and creatures within can't be targeted by divination spells.
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your WIS modifier (minimum 1 hit point).

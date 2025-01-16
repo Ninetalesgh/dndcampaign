@@ -26,24 +26,37 @@ function strip5EToolsItemTag(string)
   return string.replace(/(?:\{@item )?([^|]+)(?:\|(?:[^}]*)\})?/gm, (m, g) => (g));
 }
 
+const gCommonMonsterTraits = new Array(
+  "Animated Object",
+  "Minion",
+  "Nimble Escape", 
+  "Pack Tactics",
+  "Scurrilous Scamper",
+  "Sunlight Sensitivity",
+  "Undead Fortitude");
+function isCommonMonsterTrait(name) 
+{ for (const trait of gCommonMonsterTraits){ if (name === trait) { return true; }} return false; }
+
 function strip5EToolsTags(string)
 {
   //specific
   let strippedString = string.replace(/\{@item\s([^}]+)\}|\{@damage\s([^}]+)\}/gm, (m, g1, g2) => (g1 ? g1 : g2));
   strippedString = strippedString.replace(/\{@hit\s([0-9]+)\}/gm, (m, g) => (`${parseInt(g) < 0 ? '-' : '+'}${parseInt(g).toString()}`));
-  strippedString = strippedString.replace(/\{@h\}([0-9]+)/gm, (m, g) => (`\n    *Hit*: ${parseInt(g).toString()}`));
+  strippedString = strippedString.replace(/\{@h\}([0-9]+)/gm, (m, g) => (`\n    *Hit:* ${parseInt(g).toString()}`));
+  strippedString = strippedString.replace(/\{@h\}/gm, `\n    *Hit:* `);
   strippedString = strippedString.replace(/\{@dice\s([^}]+)\}/gm, '$1');
   strippedString = strippedString.replace(/\{@dc\s([0-9]+)\}/gm, 'DC $1');
-  strippedString = strippedString.replace(/\{@atk\smw\}/gm, '*Melee Attack*:');
-  strippedString = strippedString.replace(/\{@atk\srw\}/gm, '*Ranged Attack*:');
-  strippedString = strippedString.replace(/\{@atk\smw,rw\}/gm, '*Melee or Ranged Attack*:');
+  strippedString = strippedString.replace(/\{@chance\s([0-9]+)\}/gm, '$1%');
+  strippedString = strippedString.replace(/\{@atkr?\sm(w|s)?\}/gm, (m, g) => `*Melee ${ g === 's' ? 'Spell ' : ''}Attack:*`);
+  strippedString = strippedString.replace(/\{@atkr?\sr(w|s)?\}/gm, (m, g) => `*Ranged ${ g === 's' ? 'Spell ' : ''}Attack:*`);
+  strippedString = strippedString.replace(/\{@atkr?\sm(w|s)?,r(w|s)?\}/gm, (m, g) => `*Melee or Ranged ${ g === 's' ? 'Spell ' : ''}Attack:*`);
   strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](spells.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@filter\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
   strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
-  strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/gm, (m, g) => (g ? `(recharge ${g})` : '(recharge 6)'));
+  strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/gm, (m, g) => (g ? `(Recharge ${g}-6)` : '(Recharge 6)'));
   strippedString = strippedString.replace(/\{@scaledamage\s[^}]+?([^|}]*)\}/gm, (m, g) => g);
 
   //custom
@@ -56,13 +69,17 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\scharism/gmi, ' CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./gm, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/gm, (m, g) => (convertFeetInt(g)));
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(sphere|circle)/gmi, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot\s(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(sphere|circle)/gmi, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
   strippedString = convertFeetString(strippedString);
   
-   strippedString = strippedString.replace(/(darkvision|blindsight|tremorsense|truesight)(?:\s[0-9]+\s(\*\([0-9]+m\)\*))?/gmi, (m,g1,g2) => {
+  strippedString = strippedString.replace(/(darkvision|blindsight|tremorsense|truesight)(?:\s[0-9]+\s(\*\([0-9]+m\)\*))?/gmi, (m,g1,g2) => {
     return g1 ? `[${`${g1[0].toUpperCase()}${g1.slice(1)}`}${g2 ? ` ${g2}` : ''}](./../game_rules.md#advanced-rules#${g1.toLowerCase()})` : m; });
+
+  strippedString = strippedString.replace(/dim\slight/gmi, '[Dim Light](game_rules.md#advanced-rules#dim-light)');
+  strippedString = strippedString.replace(/bright\slight/gmi, '[Bright Light](game_rules.md#advanced-rules#bright-light)');
+  strippedString = strippedString.replace(/\sdarkness/gmi, ' [Darkness](game_rules.md#advanced-rules#darkness)');
 
   return strippedString;
 }
@@ -122,16 +139,40 @@ function convertMonsterSubSection(subsectionName, array)
   result.push(`- **${subsectionName}**:`);
   if (array)
   {
+    let commonTraits = new Array();
     array.forEach(action => {
       let actionEntries = new Array();
-      action.entries.forEach(actionEntry => {
-        let stripped = strip5EToolsTags(actionEntry);
-        actionEntries.push(stripped);
-      });
 
-      let resultString = `   - **${strip5EToolsTags(action.name)}**. ${actionEntries.join('\n   ')}`;
-      result.push(resultString);
+      if (isCommonMonsterTrait(action.name))
+      {
+        commonTraits.push(`[${action.name}](dm_monsters.md#monster-traits#${action.name.toLowerCase().replace(' ', '-')})`);
+      }
+      else
+      {
+        action.entries.forEach(actionEntry => {
+          if (actionEntry.type && actionEntry.items && actionEntry.type === 'list')
+          {
+            actionEntry.items.forEach(item => {
+              let itemEntries = new Array();
+              item.entries.forEach(itemEntry => itemEntries.push(itemEntry));
+
+              const itemString = ` - **${item.name}.** ${itemEntries.join('\n')}`;
+              actionEntries.push(strip5EToolsTags(itemString));
+            });
+          }
+          else
+          {
+            const stripped = strip5EToolsTags(actionEntry);
+            actionEntries.push(stripped);
+          }
+        });
+
+        let resultString = `   - **${strip5EToolsTags(action.name)}**. ${actionEntries.join('\n   ')}`;
+        result.push(resultString);
+      }
     });
+
+    result[0] = `- **${subsectionName}**: ${commonTraits.join((', '))}${commonTraits.length ? '.' : ''}`;
   }
 
   return result;
@@ -178,7 +219,6 @@ function convert5ESpellToText(jsonObject)
 
   // Level & School
   {
-
     const levelSchoolString = data.level ? `*Level ${data.level} ${parseSpellSchool(data.school)}*` : `*${parseSpellSchool(data.school)} Cantrip*`;
     output.push(levelSchoolString);
   }
@@ -234,7 +274,6 @@ function convert5ESpellToText(jsonObject)
       let durationString = 'Instantaneous';
       if (duration.type !== "instant")
       {
-        console.log('HAHA');
         durationString = `${duration.duration.amount} ${duration.duration.type}${duration.duration.amount > 1 ? 's' : ''}`;    
         if (duration.concentration)
         {
@@ -308,7 +347,7 @@ function convert5EMonsterToText(jsonObject)
 
   // CR
   {
-    const crString = `**CR**: ${data.cr}`;
+    const crString = `**CR**: ${data.cr.cr ? `${data.cr.cr} *(Minion)*` : data.cr}`;
     output.push(crString);
   }
 
@@ -328,6 +367,10 @@ function convert5EMonsterToText(jsonObject)
         typeTags.push(type);
       });
       typeTagsString = ` (${typeTags.join(', ')})`;      
+      typeString = data.type.type;
+    }
+    else if (data.type && data.type.type)
+    {
       typeString = data.type.type;
     }
     else
@@ -383,7 +426,15 @@ function convert5EMonsterToText(jsonObject)
     let speeds = new Array();
     for (let key in data.speed)
     {
-      speeds.push(`${key} ${convertFeetInt(data.speed[key])}`);
+      if (typeof data.speed[key] === 'number')
+      {
+        speeds.push(`${key} ${convertFeetInt(data.speed[key])}`);
+      }
+      else if(typeof data.speed[key] === 'boolean'){}
+      else
+      {
+        speeds.push(`${key} ${data.speed[key].condition} ${convertFeetInt(data.speed[key].number)}`);        
+      }
     }
 
     const speedString = '- **Speed**: ' + speeds.join(', ');
@@ -415,6 +466,27 @@ function convert5EMonsterToText(jsonObject)
     }
   }
 
+  // Vulnerabilities
+  {
+    if (data.vulnerable)
+    {
+      let vulnerabilities = new Array();
+      data.vulnerable.forEach(vulnerability => {
+        if (typeof vulnerability === 'string')
+        {
+          vulnerabilities.push(vulnerability);
+        }
+        else
+        {
+          console.log("vulnerability isn't string");
+        }
+      });
+
+      const vulnerabilityString = `- **Vulnerabilities**: ${vulnerabilities.join(', ')}.`;
+      output.push(vulnerabilityString);
+    }
+  }
+
   // Resistances
   {
     if (data.resist)
@@ -423,7 +495,7 @@ function convert5EMonsterToText(jsonObject)
       let specialResistances = new Array();
 
       data.resist.forEach(resistance => {
-        if (typeof resistance === "string")
+        if (typeof resistance === 'string')
           {
             resistances.push(resistance);
           }
@@ -467,12 +539,10 @@ function convert5EMonsterToText(jsonObject)
           }
       });
 
-      console.log(immunities);
       if (immunities.length > 0)
       {
         immunities = [`${immunities.join(', ')};`];
       }
-      console.log(immunities);
     }
 
     if (data.conditionImmune)
@@ -480,7 +550,7 @@ function convert5EMonsterToText(jsonObject)
       data.conditionImmune.forEach(immunity => {
         if (typeof immunity === "string")
         {
-          immunities.push(immunity);
+          immunities.push(`[${immunity[0].toUpperCase() + immunity.slice(1)}](conditions.md#${immunity.toLowerCase().replace(' ', '-')})`);
         }
         else
         {
@@ -553,7 +623,7 @@ function convert5EMonsterToText(jsonObject)
           spellList.push(strip5EToolsTags(spell));
         });
         
-        const spellLevelString = `     - *At will*: ${spellList.join(', ')}`;
+        const spellLevelString = `     - *At will:* ${spellList.join(', ')}`;
         output.push(spellLevelString);
       }
 
@@ -569,7 +639,7 @@ function convert5EMonsterToText(jsonObject)
 
           let perDay = key.match(/[0-9]+/);
           perDay = perDay ? `${perDay}/day each` : 'daily';
-          const spellLevelString = `     - *${perDay}*: ${spellList.join(', ')}`;
+          const spellLevelString = `     - *${perDay}:* ${spellList.join(', ')}`;
           output.push(spellLevelString);
         }
       }
@@ -606,17 +676,24 @@ function convert5EMonsterToText(jsonObject)
       array.forEach(a => output.push(a));
   }
 
+  // Bonus Actions
+  if (data.bonus)
+    {
+      const array = convertMonsterSubSection("Bonus Actions", data.bonus);  
+      array.forEach(a => output.push(a));
+  }
+
   // Reactions
   if (data.reaction)
   {
     const array = convertMonsterSubSection("Reactions", data.reaction);  
     array.forEach(a => output.push(a));
   }
-
+  
   // Source
   if (data.source)
   {
-    const sourceString = `*(Source: ${data.source === 'ConfC' ? 'ConfluxCreatures' : data.source}${data.page ? ` page ${data.page}` : ''})*`
+    const sourceString = `*(Source: ${data.source === 'ConfC' ? 'ConfluxCreatures' : data.source}${data.page ? `, page ${data.page}` : ''})*`
     output.push(sourceString);
   }
 

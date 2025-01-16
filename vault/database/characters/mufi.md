@@ -7,22 +7,22 @@
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-STR 8 (-1) | DEX 17 (+3) | CON 13 (+1) 
- :-- | :-- | :-- 
-☐ STR Save -1 | ☑ **DEX Save +5** | ☐ CON Save +1
-☐ Athletics +1 | ☑☑ **Acrobatics +7** | . 
-. | ☑☑ **Sleight of Hand +7** | . 
-. | ☑ **Stealth +5** | . 
+| STR 8 (-1)     | DEX 17 (+3)               | CON 13 (+1)   |
+| :------------- | :------------------------ | :------------ |
+| ☐ STR Save -1  | ☑ **DEX Save +5**         | ☐ CON Save +1 |
+| ☐ Athletics +1 | ☑☑ **Acrobatics +7**      | .             |
+| .              | ☑☑ **Sleight of Hand +7** | .             |
+| .              | ☑ **Stealth +5**          | .             |
 
 
-INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1) 
-:-- | :-- | :-- 
-☑ **INT Save +5** | ☐ WIS Save +1 | ☐ CHA Save -1
-☑ **Arcana +5** | ☐ Animal Handling +1 | ☐ Deception -1
-☐ History +3 | ☐ Insight +1 | ☐ Intimidation -1
-☑ **Investigation +5** | ☐ Medicine +1 | ☐ Performance -3
-☐ Nature +3 | ☑ **Perception +3** | ☐ Persuasion -1
-☐ Religion +3 | ☐ Survival +1 | .
+| INT 16 (+3)            | WIS 12 (+1)          | CHA 8 (-1)        |
+| :--------------------- | :------------------- | :---------------- |
+| ☑ **INT Save +5**      | ☐ WIS Save +1        | ☐ CHA Save -1     |
+| ☑ **Arcana +5**        | ☐ Animal Handling +1 | ☐ Deception -1    |
+| ☐ History +3           | ☐ Insight +1         | ☐ Intimidation -1 |
+| ☑ **Investigation +5** | ☐ Medicine +1        | ☐ Performance -3  |
+| ☐ Nature +3            | ☑ **Perception +3**  | ☐ Persuasion -1   |
+| ☐ Religion +3          | ☐ Survival +1        | .                 |
 
 - **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
 - **Armor Proficiencies**: Light Armor
@@ -44,7 +44,7 @@ INT 16 (+3) | WIS 12 (+1) | CHA 8 (-1)
 ### Bonus Actions
 - [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**:
-  - *Magic Initiate:* [Sanctuary](./../spells.md#spells-s#sanctuary) *(one free use per Long Rest)*
+  - *Magic Initiate:* [Spell Cheat](./../spells.md#spells-s#spell-cheat) *(one free use per Long Rest)*
 
 ### Reactions
 - [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)

@@ -29,7 +29,7 @@ Bonecap | Vitriol | Basic Poison
 
 ### Alchemist's Fire
 - **Throw.** *Ranged Attack*: range 4/12 *(6m/18m)*, one target.
-  *Hit*: The target must succeed on a DEX Save (DC 8 + your DEX modifier + your PB) or take 1d4 Fire damage and start [Burning](conditions.md#burning).
+  *Hit*: The target must succeed on a DEX Save (DC 8 + your DEX mod + your PB) or take 1d4 Fire damage and start [Burning (1d4)](conditions.md#burning).
 
 **Production**:
 *Crush Fire Amber to Ash and boil.*

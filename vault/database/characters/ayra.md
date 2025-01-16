@@ -13,17 +13,16 @@
 | ☐ Athletics +0 | ☐ Acrobatics +2          | .             |
 | .              | ☑ **Sleight of Hand +4** | .             |
 | .              | ☐ Stealth +2             | .             |
-|                |                          |               |
 
 
-INT 10 (+0) | WIS 10 (+0) | CHA 17 (+3) 
-:-- | :-- | :-- 
-☐ INT Save +0 | ☑ **WIS Save +2** | ☑ **CHA Save +5**
-☑ **Arcana +2** | ☐ Animal Handling +0 | ☐ Deception +3
-☐ History +0 | ☐ Insight +0 | ☑ **Intimidation +5**
-☐ Investigation +0 | ☑ **Medicine +2** | ☐ Performance +3
-☐ Nature +0 | ☐ Perception +0 | ☐ Persuasion +3
-☐ Religion +0 | ☐ Survival +0 | .
+| INT 10 (+0)        | WIS 10 (+0)          | CHA 17 (+3)           |
+| :----------------- | :------------------- | :-------------------- |
+| ☐ INT Save +0      | ☑ **WIS Save +2**    | ☑ **CHA Save +5**     |
+| ☑ **Arcana +2**    | ☐ Animal Handling +0 | ☐ Deception +3        |
+| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +5** |
+| ☐ Investigation +0 | ☑ **Medicine +2**    | ☐ Performance +3      |
+| ☐ Nature +0        | ☐ Perception +0      | ☐ Persuasion +3       |
+| ☐ Religion +0      | ☐ Survival +0        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: Light Armor

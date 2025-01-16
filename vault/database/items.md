@@ -563,6 +563,11 @@
 *(Source: PHB'24, page 219)*
 ![Image|250]() [TODO]
 
+
+
+
+## Miscellaneous
+
 # Uncommon
 ### Weapons
 
