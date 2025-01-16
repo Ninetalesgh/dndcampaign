@@ -45,39 +45,6 @@
 *(Source: PHB'24, page 219)*
 
 ## Items C
-### Chain Mail
-- **Type**: Heavy Armor *(Common)*
-- **Don and Doff Time**: 10 minutes / 5 minutes
-- **AC**: 16
-- **Properties**: 
-  - Disadvantage on Dexterity (Stealth) checks.
-  - If the wearer has a Strength score lower than 13, their speed is reduced by 2 *(3m)*.
-- **Price**: 75 gp
-- **Weight**: 28 kg
-![Image|250]() [TODO]
-*(Source: PHB'24, page 219)*
-
-### Club
-- **Type**: Club *(Simple Melee Weapon, Common)*
-- **Damage**: 1d4 + STR Bludgeoning damage.
-- **Reach**: 1 *(1.5m)*
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
-- **Price**: 1 sp
-- **Weight**: 0.5 kg
-![Image|250](https://i.pinimg.com/736x/c1/6b/17/c16b17c9a2395eaaf3b03d11d287310e.jpg)
-*(Source: PHB'24, page 215)*
-
-### Chain Shirt
-- **Type**: Medium Armor *(Common)*
-- **Don and Doff Time**: 5 minutes / 1 minute
-- **AC**: 13 + DEX (max 2)
-- **Properties**: -
-- **Price**: 50 gp
-- **Weight**: 10 kg
-![Image|250]() [TODO]
-*(Source: PHB'24, page 219)*
-
 ### Carriage
 *(vehicle (land), Common)*
 - **Weight**: 300 kg
@@ -92,12 +59,45 @@
 - **Properties**: 
 *(Source: PHB'24, page230)*
 
+### Chain Mail
+- **Type**: Heavy Armor *(Common)*
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 16
+- **Properties**: 
+  - Disadvantage on Dexterity (Stealth) checks.
+  - If the wearer has a Strength score lower than 13, their speed is reduced by 2 *(3m)*.
+- **Price**: 75 gp
+- **Weight**: 28 kg
+![Image|250]() [TODO]
+*(Source: PHB'24, page 219)*
+
+### Chain Shirt
+- **Type**: Medium Armor *(Common)*
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 13 + DEX (max 2)
+- **Properties**: -
+- **Price**: 50 gp
+- **Weight**: 10 kg
+![Image|250]() [TODO]
+*(Source: PHB'24, page 219)*
+
 ### Chariot
 *(vehicle (land), Common)*
 - **Weight**: 50 kg
 - **Price**: 250 gp
 - **Properties**: 
 *(Source: PHB'24, page230)*
+
+### Club
+- **Type**: Club *(Simple Melee Weapon, Common)*
+- **Damage**: 1d4 + STR Bludgeoning damage.
+- **Reach**: 1 *(1.5m)*
+- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
+- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Price**: 1 sp
+- **Weight**: 0.5 kg
+![Image|250](https://i.pinimg.com/736x/c1/6b/17/c16b17c9a2395eaaf3b03d11d287310e.jpg)
+*(Source: PHB'24, page 215)*
 
 ## Items D
 ### Dagger
@@ -137,16 +137,19 @@
 *(Source: PHB'24, page 215)*
 
 ## Items G
-### Greatclub
-- **Type**: Greatclub *(Simple Melee Weapon, Common)*
-- **Damage**: 1d8 + STR Bludgeoning damage.
-- **Reach**: 1
-- **Properties**: [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
-- **Price**: 2 sp
-- **Weight**: 5 kg
-![Image|250](https://i.pinimg.com/736x/e1/01/39/e101392ace8845d1b1d885601edd72ae.jpg)
-*(Source: PHB'24, page 215)*
+### Galley
+*(vehicle (water), Common)*
+- **Weight**: -
+- **Price**: 30,000 gp
+- **Properties**: 
+- **Speed**: 6 km/h
+- **Carrying Capacity**: 150 tons cargo
+- **Crew**: 80
+- **AC**: 15
+- **HP**: 500 
+- **Damage Threshold**: 20
+- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+*(Source: PHB'24, page230)*
 
 ### Glaive
 - **Type**: Glaive *(Martial Melee Weapon, Common)*
@@ -170,6 +173,17 @@
 ![Image|250](https://i.pinimg.com/736x/aa/67/86/aa6786ac95a00bb74ccb457474660243.jpg)
 *(Source: PHB'24, page 215)*
 
+### Greatclub
+- **Type**: Greatclub *(Simple Melee Weapon, Common)*
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Reach**: 1
+- **Properties**: [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
+- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Price**: 2 sp
+- **Weight**: 5 kg
+![Image|250](https://i.pinimg.com/736x/e1/01/39/e101392ace8845d1b1d885601edd72ae.jpg)
+*(Source: PHB'24, page 215)*
+
 ### Greatsword
 - **Type**: Greatsword *(Martial Melee Weapon, Common)*
 - **Reach**: 1
@@ -181,32 +195,7 @@
 ![Image|250](https://i.pinimg.com/736x/c2/b7/f6/c2b7f64bfc48e34d8a7269b1eaee8831.jpg)
 *(Source: PHB'24, page 215)*
 
-### Galley
-*(vehicle (water), Common)*
-- **Weight**: -
-- **Price**: 30,000 gp
-- **Properties**: 
-- **Speed**: 6 km/h
-- **Carrying Capacity**: 150 tons cargo
-- **Crew**: 80
-- **AC**: 15
-- **HP**: 500 
-- **Damage Threshold**: 20
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
-*(Source: PHB'24, page230)*
-
 ## Items H
-### Handaxe
-- **Type**: Handaxe *(Simple Melee Weapon, Common)*
-- **Damage**: 1d6 + STR Slashing damage.
-- **Reach**: 1
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
-- **Price**: 5 gp
-- **Weight**: 1 kg
-![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
-*(Source: PHB'24, page 215)*
-
 ### Halberd
 - **Type**: Halberd *(Martial Melee Weapon, Common)*
 - **Reach**: 2
@@ -217,6 +206,16 @@
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/82/de/68/82de680d77d0af9beda1a894cf5af81d.jpg)
 *(Source: PHB'24, page 215)*
+
+### Half Plate Armor
+- **Type**: Medium Armor *(Common)*
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 15 + DEX (max 2)
+- **Properties**: Disadvantage on Dexterity (Stealth) checks.
+- **Price**: 750 gp
+- **Weight**: 20 kg
+![Image|250]() [TODO]
+*(Source: PHB'24, page 219)*
 
 ### Hand Crossbow
 - **Type**: Hand Crossbow *(Martial Ranged Weapon, Common)*
@@ -229,6 +228,17 @@
 ![Image|250](https://i.pinimg.com/736x/00/3b/07/003b07aac7b9d4784cdb1a2cbeb3ae3d.jpg)
 *(Source: PHB'24, page 215)*
 
+### Handaxe
+- **Type**: Handaxe *(Simple Melee Weapon, Common)*
+- **Damage**: 1d6 + STR Slashing damage.
+- **Reach**: 1
+- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
+- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Price**: 5 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
+*(Source: PHB'24, page 215)*
+
 ### Heavy Crossbow
 - **Type**: Heavy Crossbow *(Martial Ranged Weapon, Common)*
 - **Range**: 20/80 *(30m/120m)*
@@ -239,16 +249,6 @@
 - **Weight**: 9 kg
 ![Image|250](https://i.pinimg.com/736x/2e/76/97/2e7697e2a8d55b56d9b174f5e857fc3a.jpg)
 *(Source: PHB'24, page 215)*
-
-### Half Plate Armor
-- **Type**: Medium Armor *(Common)*
-- **Don and Doff Time**: 5 minutes / 1 minute
-- **AC**: 15 + DEX (max 2)
-- **Properties**: Disadvantage on Dexterity (Stealth) checks.
-- **Price**: 750 gp
-- **Weight**: 20 kg
-![Image|250]() [TODO]
-*(Source: PHB'24, page 219)*
 
 ### Hide Armor
 - **Type**: Medium Armor *(Common)*
@@ -344,18 +344,6 @@
 ![Image|250](https://i.pinimg.com/736x/6b/e9/e0/6be9e098fd649d8996a312248e76e634.jpg)
 *(Source: PHB'24, page 215)*
 
-### Longsword
-- **Type**: Longsword *(Martial Melee Weapon, Common)*
-- **Reach**: 1
-- **Damage**: 1d8 + STR Slashing damage.
-- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
-- **Price**: 15 gp
-- **Weight**: 1.5 kg
-![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
-*(Source: PHB'24, page 215)*
-
-
 ### Longship
 *(vehicle (water), Common)*
 - **Weight**: -
@@ -370,6 +358,18 @@
 - **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
 *(Source: PHB'24, page230)*
 
+
+
+### Longsword
+- **Type**: Longsword *(Martial Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Slashing damage.
+- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Price**: 15 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
+*(Source: PHB'24, page 215)*
 
 
 ## Items M
@@ -527,17 +527,6 @@
 - **Damage Threshold**: 15
 - **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
 *(Source: PHB'24, page230)*
-### Scimitar
-- **Type**: Scimitar *(Martial Melee Weapon, Common)*
-- **Reach**: 1
-- **Damage**: 1d6 + STR Slashing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Nick](dm/items.md#item-info#Nick).
-- **Price**: 25 gp
-- **Weight**: 1.5 kg
-![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
-*(Source: PHB'24, page 215)*
-
 ### Scale Mail
 - **Type**: Medium Armor *(Common)*
 - **Don and Doff Time**: 5 minutes / 1 minute
@@ -548,15 +537,15 @@
 ![Image|250]() [TODO]
 *(Source: PHB'24, page 219)*
 
-### Sickle
-- **Type**: Sickle *(Simple Melee Weapon, Common)*
+### Scimitar
+- **Type**: Scimitar *(Martial Melee Weapon, Common)*
 - **Reach**: 1
-- **Damage**: 1d4 + STR Slashing damage.
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Nick](dm/items.md#item-info#nick).
-- **Price**: 1 gp
-- **Weight**: 1 kg
-![Image|250](https://i.pinimg.com/736x/1e/12/4f/1e124fef80413a975f1c01039b405989.jpg)
+- **Damage**: 1d6 + STR Slashing damage.
+- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Light](dm/items.md#item-info#weapon-properties#light).
+- **Mastery**: [Nick](dm/items.md#item-info#Nick).
+- **Price**: 25 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Shield
@@ -589,6 +578,17 @@
 - **Price**: 10 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
+*(Source: PHB'24, page 215)*
+
+### Sickle
+- **Type**: Sickle *(Simple Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d4 + STR Slashing damage.
+- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
+- **Mastery**: [Nick](dm/items.md#item-info#nick).
+- **Price**: 1 gp
+- **Weight**: 1 kg
+![Image|250](https://i.pinimg.com/736x/1e/12/4f/1e124fef80413a975f1c01039b405989.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Sled
@@ -659,17 +659,13 @@
 ## Items V
 
 ## Items W
-### Warhammer
-- **Type**: Warhammer *(Martial Melee Weapon, Common)*
-- **Reach**: 1
-- **Damage**: 1d8 + STR Bludgeoning damage.
-- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
-- **Price**: 15 gp
-- **Weight**: 2.5 kg
-![Image|250](https://i.pinimg.com/736x/31/15/a7/3115a7b1824aa15bfe3ce925f6a1cd7a.jpg)
-*(Source: PHB'24, page 215)*
-    
+### Wagon
+*(vehicle (land), Common)*
+- **Weight**: 200 kg
+- **Price**: 35 gp
+- **Properties**: -
+*(Source: PHB'24, page230)*
+
 ### War Pick
 - **Type**: War Pick *(Martial Melee Weapon, Common)*
 - **Reach**: 1
@@ -681,25 +677,17 @@
 ![Image|250](https://i.pinimg.com/736x/47/41/d7/4741d79572e539ae0028093d64822809.jpg)
 *(Source: PHB'24, page 215)*
 
-### Whip
-- **Type**: Whip *(Martial Melee Weapon, Common)*
-- **Reach**: 2
-- **Damage**: 1d4 + STR Slashing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), Reach 2.
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
-- **Price**: 2 gp
-- **Weight**: 1.5 kg
-![Image|250](https://i.pinimg.com/736x/4a/66/cd/4a66cd56b133e36b5026d2f1387c41b3.jpg)
+### Warhammer
+- **Type**: Warhammer *(Martial Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
+- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Price**: 15 gp
+- **Weight**: 2.5 kg
+![Image|250](https://i.pinimg.com/736x/31/15/a7/3115a7b1824aa15bfe3ce925f6a1cd7a.jpg)
 *(Source: PHB'24, page 215)*
-
-
-### Wagon
-*(vehicle (land), Common)*
-- **Weight**: 200 kg
-- **Price**: 35 gp
-- **Properties**: -
-*(Source: PHB'24, page230)*
-
+    
 ### Warship
 *(vehicle (water), Common)*
 - **Weight**: -
@@ -714,45 +702,22 @@
 - **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
 *(Source: PHB'24, page230)*
 
+### Whip
+- **Type**: Whip *(Martial Melee Weapon, Common)*
+- **Reach**: 2
+- **Damage**: 1d4 + STR Slashing damage.
+- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), Reach 2.
+- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Price**: 2 gp
+- **Weight**: 1.5 kg
+![Image|250](https://i.pinimg.com/736x/4a/66/cd/4a66cd56b133e36b5026d2f1387c41b3.jpg)
+*(Source: PHB'24, page 215)*
 
 ## Items X
 
 ## Items Y
 
 ## Items Z
-
-# Common
-
-## Miscellaneous
-
-# Uncommon
-### Weapons
-
-### Armor
-
-### Miscellaneous
-
-# Rare
-### Weapons
-
-### Armor
-
-### Miscellaneous
-
-# Very Rare
-### Weapons
-
-### Armor
-
-### Miscellaneous
-
-# Legendary
-### Weapons
-
-### Armor
-
-### Miscellaneous
-
 
 # Item Info
 ## Ship Info

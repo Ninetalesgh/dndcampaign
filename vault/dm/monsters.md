@@ -1192,7 +1192,7 @@ STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--: 
 7 (-2) | 15 (+2) | 12 (+1) | 8 (-1) | 11 (+0) | 10 (+0) 
 
-- **Resistances**: undefined bludgeoning, piercing, slashing from nonmagical attacks
+- **Resistances**: bludgeoning, piercing, slashing from nonmagical attacks
 - **Immunities**: fire;
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Ignan
@@ -1315,7 +1315,7 @@ STR | DEX | CON | INT | WIS | CHA
 16 (+3) | 7 (-2) | 13 (+1) | 6 (-2) | 12 (+1) | 9 (-1) 
 
 - **Skills**: athletics: +5, perception: +3
-- **Resistances**: undefined slashing damage from nonmagical weapons.
+- **Resistances**: slashing damage from nonmagical weapons.
 - **Immunities**: acid, poison; [Grappled](conditions.md#grappled), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Aquan
@@ -1380,7 +1380,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: stealth: +4
 - **Vulnerabilities**: radiant.
-- **Resistances**: acid, cold, fire, lightning, thunder; undefined bludgeoning, piercing, slashing from nonmagical attacks
+- **Resistances**: acid, cold, fire, lightning, thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Immunities**: necrotic, poison; [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Grappled](conditions.md#grappled), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone), [Restrained](conditions.md#restrained)
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Traits**:

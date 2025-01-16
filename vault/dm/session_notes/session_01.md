@@ -31,17 +31,57 @@
 
 # Fantastic Locations
 
+## The Farmstead
+### The Main Farmhouse
+This is where the first fight will take place, with surprised goblins.
+goblins will start fleeing, 3 will enter combat with the players here.
+[TODO] intro.
+
+### The Pasture
+This is where the second fight will take place? with the wounded warg.
+Other goblins are fleeing in the background.
+[TODO] intro.
+
+### The Goblin Trail
+The trail chasing the goblins that fled.
+[TODO] intro.
+
 - [Farmhouse](https://watabou.github.io/dwellings/?seed=2124725188&tags=medium,mechanical) 
 [TODO] gather things that would fit in here.
 
-- The Academy Alchemy department (Maris Tindle?)
+## The Academy
+upper north east - cartography & exploration
+Along the elevator: 
+  upper south west - mechanics
+  lower south west - stone works
+median market side - diplomacy & commerce
+upper cellars - arcane studies
+lower cellars - alchemy medicine (laboratories)
+### The Entrance Hall
+The entrance hall 
+[TODO] intro.
+### The Library
+The library rooms are spread across the entire Academy, but the main halls are found in the lower floors easily reachable from the entrance hall and elevators. The Arcane Studies rooms are seated close to the big library.
+[TODO] intro.
+### The Laboratories
+The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. The laboratories are easily accessible from The Stockpile.
+[TODO] intro.
+- The Academy Alchemy department. **Maris Tindle**
+[TODO] Investigate the root + Maris telling the players about Black Lotus troubles. 
+
+## The Ruins
+### The Castle Ruins
+[TODO] intro.
+
+### The Crypt Entrance
+[TODO] intro.
+
+
 
 # NPCs
 # Monsters
 Kobold, Goblin, Skeleton, Zombie
 # Magic Items
-
-
 
 
 # UNSORTED
