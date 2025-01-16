@@ -99,9 +99,10 @@ function parseMd(input)
   //Second pass, Tables
   for (let i = 0; i < lines.length; ++i)
   {
-    let tableMatches = lines[i].match(/[\s]?(:?--:?)[\s]?\|?/g);
+    const tableMatches = lines[i].match(/[\s]?(:?--+:?)[\s]?\|?/g);
+    const isTable = lines[i].match(/\|/);
     
-    if (i > 0 && tableMatches && tableMatches.length > 1)
+    if (i > 0 && tableMatches && isTable && tableMatches.length > 1)
     {          
       let columns = new Array(tableMatches.length);
       for (let j = 0; j < tableMatches.length; ++j)
@@ -110,6 +111,7 @@ function parseMd(input)
         const centeralign = '<td style="text-align:center;"><p>';
         const rightalign = '<td style="text-align:right;"><p>';
         
+        console.log(tableMatches[j]);
         if (tableMatches[j].trimStart().startsWith(":")) 
         {
           if (tableMatches[j].trimStart().startsWith(":--:"))

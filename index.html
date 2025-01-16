@@ -212,7 +212,8 @@
 
           if (split.length === 1)
           {          
-            if (match[1] === 'dm_monsters.md')
+            console.log(match[1]);
+            if (match[1] === 'dm/monsters.md')
             {
               split = [ `monsters-${split[0][0]}`, ...split ];
             }
@@ -374,33 +375,30 @@
           }
           
           const dmPages = new Array(
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monsters.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm/monsters.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monster_lore.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
 
           window.addEventListener('load', () => 
           {
-            //const ul = navigation.firstElementChild;
+            const ul = document.createElement('ul');
+            ul.style.margin = '10px 0 0 0';
+            ul.style.padding = 0;
+            ul.style.textAlign = 'left';
+            ul.style.border = 'none';
             
-            //<ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
-              const ul = document.createElement('ul');
-              ul.style.margin = '10px 0 0 0';
-              ul.style.padding = 0;
-              ul.style.textAlign = 'left';
-              ul.style.border = 'none';
-              
-              for (const page of dmPages)
-              {
-                fetchMd(page).then((node) => {
-                  let li = document.createElement('li');
-                  const nodeName = node.name;
-                  li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${nodeName}</button>`;
-                  ul.appendChild(li); 
-                });
-              }
-              
-              const navigation = document.querySelector('.navigation');
-              navigation.appendChild(ul);
+            for (const page of dmPages)
+            {
+              fetchMd(page).then((node) => {
+                let li = document.createElement('li');
+                const nodeName = node.name;
+                li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${nodeName}</button>`;
+                ul.appendChild(li); 
+              });
+            }
+            
+            const navigation = document.querySelector('.navigation');
+            navigation.appendChild(ul);
           });
         }
       }
