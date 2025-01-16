@@ -100,7 +100,7 @@
 ![Image|250](https://i.pinimg.com/736x/1e/12/4f/1e124fef80413a975f1c01039b405989.jpg)
 *(Source: PHB'24, page 215)*
 
-#### Spear 
+#### Spear
 - **Type**: Spear *(Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
