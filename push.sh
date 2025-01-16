@@ -1,7 +1,7 @@
 #!/bin/bash
 
 printf "\n== ADD DM\n"
-git add -A vault/dm/*
+git add --all vault/dm/
 printf "\n== COMMIT\n"
 git commit -m "update dm"
 printf "\n== PUSH\n"
