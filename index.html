@@ -203,22 +203,20 @@
     {
       let resultNode = null;
       //get link node
-      console.log(link);
-      const match = link.match(/([^(#]+)#([^)\s]+)/);
-      console.log(match);
-      if (match)
+      const linkFileName = link.match(/([^(#]+)#([^)\s]+)/);
+      if (linkFileName)
       {
-        await fetchMd(`${match[1]}`).then(node => {
+        await fetchMd(`${linkFileName[1]}`).then(node => {
           if (!node){ return null; }
-          let split = match[2].split('#');
+          let split = linkFileName[2].split('#');
 
           if (split.length === 1)
           {
-            if (match[1] === 'dm/monsters.md')
+            if (linkFileName[1] === 'dm/monsters.md')
             {
               split = [ `monsters-${split[0][0]}`, ...split ];
             }
-            else if (match[1] === 'spells.md')
+            else if (linkFileName[1] === 'spells.md')
             {
               split = [ `spells-${split[0][0]}`, ...split ];
             }
@@ -376,6 +374,7 @@
           }
           
           const dmPages = new Array(
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_lore.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
