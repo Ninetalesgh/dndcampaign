@@ -203,10 +203,10 @@
     {
       let resultNode = null;
       //get link node
-      const match = link.match(/([^(#\/]+)#([^)\s]+)/);
+      const match = link.match(/([^(#]+)#([^)\s]+)/);
       if (match)
       {
-        await fetchMd(`/${match[1]}`).then(node => {
+        await fetchMd(`${match[1]}`).then(node => {
           if (!node){ return null; }
           let split = match[2].split('#');
 
@@ -260,17 +260,18 @@
 
     async function fetchMd(mdUrl)
     {
-      const nodeName = mdUrl.replace(/^.*(\/dm_[-_a-zA-Z0-9]+\.md)$/i, '$1');
+      const nodeName = mdUrl.replace(/^.*(\/dm\/[-_a-zA-Z0-9]+)\.md$/i, '$1');
       let contentNode = getIndexedContentPage(nodeName);
 
-      let absoluteURL = '';
-      if (mdUrl.startsWith('https://')) { absoluteURL = mdUrl; }
-      else { absoluteURL = "https://ninetalesgh.github.io/dndcampaign/vault/database" + mdUrl; }
+      let absoluteUrl = '';
+      if (mdUrl.startsWith('https://')) { absoluteUrl = mdUrl; }
+      else if (mdUrl.match(/dm\//)) { absoluteUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/${mdUrl}` }
+      else { absoluteUrl = `https://ninetalesgh.github.io/dndcampaign/vault/database/${mdUrl}`};
 
       if (!contentNode)
       {
         console.log('Fetching and caching: ' + mdUrl);
-        await fetchMdAsHtml(absoluteURL)
+        await fetchMdAsHtml(absoluteUrl)
         .then(data => {
           if (data)
           {
@@ -362,7 +363,8 @@
         }
         else if (key === 'dmpage')
         {
-          if (value.match(/session_/))
+          if (value === null) {}
+          else if (value.match(/session_/))
           {
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/${value}.md`;
           }
@@ -371,8 +373,35 @@
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
           }
           
-          fetchMd(`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monsters.md`);
-          fetchMd(`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
+          const dmPages = new Array(
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monsters.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monster_lore.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
+
+          window.addEventListener('load', () => 
+          {
+            //const ul = navigation.firstElementChild;
+            
+            //<ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
+              const ul = document.createElement('ul');
+              ul.style.margin = '10px 0 0 0';
+              ul.style.padding = 0;
+              ul.style.textAlign = 'left';
+              ul.style.border = 'none';
+              
+              for (const page of dmPages)
+              {
+                fetchMd(page).then((node) => {
+                  let li = document.createElement('li');
+                  const nodeName = node.name;
+                  li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${nodeName}</button>`;
+                  ul.appendChild(li); 
+                });
+              }
+              
+              const navigation = document.querySelector('.navigation');
+              navigation.appendChild(ul);
+          });
         }
       }
 
