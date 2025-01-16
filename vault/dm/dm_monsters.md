@@ -42,7 +42,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
-- **Traits**: [Animated Object](dm/dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the battleaxe remains motionless and isn't flying, it is indistinguishable from a normal battleaxe.
 - **Actions**: 
    - **Battleaxe**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
@@ -64,7 +64,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Vulnerabilities**: fire.
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
-- **Traits**: [Animated Object](dm/dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the book remains motionless, it is indistinguishable from a normal book.
 - **Actions**:
    - **Heavy Thwack**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -89,7 +89,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
-- **Traits**: [Animated Object](dm/dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the broom remains motionless, it is indistinguishable from a normal broom.
 - **Actions**:
    - **Bristled Bash**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -115,7 +115,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: fire, poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
-- **Traits**: [Animated Object](dm/dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the kettle remains motionless, it is indistinguishable from a normal kettle.
 - **Actions**:
    - **Heavy Crash**. *Melee or Ranged Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
@@ -189,7 +189,7 @@ STR | DEX | CON | INT | WIS | CHA
 14 (+2) | 15 (+2) | 12 (+1) | 2 (-4) | 10 (+0) | 5 (-3) 
 
 - **Senses**: passive perception 10
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics).
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
    - **Burst of Speed (Recharge 6)**. The axe beak may dash as a bonus action.
 - **Actions**: 
    - **Beak**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -216,7 +216,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
 - **Languages**: The languages it knew in life
-- **Traits**: [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity).
+- **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
 - **Actions**:
    - **Multiattack**. The wight makes two attacks.
    - **Ancestral Blade**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -271,7 +271,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: perception: +3, stealth: +5
 - **Senses**: passive perception 13
 - **Languages**: Blink Dog, understands Sylvan but can't speak it
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics).
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
    - **Keen Hearing and Smell**. The dog has advantage on WIS (Perception) checks that rely on hearing or smell.
 - **Actions**: 
    - **Bite**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
@@ -320,7 +320,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +6
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
-- **Traits**: [Nimble Escape](dm/dm/monsters.md#monster-traits#nimble-escape)
+- **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
    - **Spellcasting**. The goblin can cast a randomly determined 1st-level wizard spell once per day. INT is its spellcasting ability (spell save DC 10, +2 to hit with spell attacks).
 - **Actions**:
    - **Scimitar**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -344,7 +344,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +6
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
-- **Traits**: [Nimble Escape](dm/dm/monsters.md#monster-traits#nimble-escape)
+- **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
    - **Khurgorbaeyag's Gift**. Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
 - **Actions**:
    - **Scimitar**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -368,7 +368,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +6
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
-- **Traits**: [Nimble Escape](dm/dm/monsters.md#monster-traits#nimble-escape).
+- **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape).
    - **Special Equipment**. The goblin found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
 - **Actions**: 
    - **Scimitar**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -635,7 +635,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 7
-- **Traits**: [Animated Object](dm/dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
    - **False Appearance**. While the sword remains motionless, it is indistinguishable from a normal sword.
 - **Actions**: 
    - **Drill-Thrust**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -718,7 +718,7 @@ STR | DEX | CON | INT | WIS | CHA
 7 (-2) | 15 (+2) | 11 (+0) | 2 (-4) | 10 (+0) | 4 (-3) 
 
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics).
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
    - **Keen Smell**. The rat has advantage on WIS (Perception) checks that rely on smell.
 - **Actions**:
    - **Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -774,7 +774,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +6
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Goblin
-- **Traits**: [Nimble Escape](dm/dm/monsters.md#monster-traits#nimble-escape)
+- **Traits**: [Nimble Escape](dm/monsters.md#monster-traits#nimble-escape)
 - **Actions**:
    - **Scimitar**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 6 (1d6 + 2) slashing damage.
@@ -798,7 +798,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
-- **Traits**: [Undead Fortitude](dm/dm/monsters.md#monster-traits#undead-fortitude).
+- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
 - **Actions**:
    - **Lockjaw Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 4 (1d4 + 2) piercing plus 3 (1d6) necrotic damage damage and the target is [Grappled](conditions.md#grappled) (escape DC 13).
@@ -857,7 +857,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: perception: +1, stealth: +4, survival: +1
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Languages**: Common, Draconic
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity)
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity)
 - **Actions**:
    - **Dagger**. *Melee or Ranged Attack:* +4 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
     *Hit:* 4 (1d4 + 2) piercing damage.
@@ -880,7 +880,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: perception: +1, stealth: +4
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
 - **Languages**: Draconic, Undercommon, Yipyak
-- **Traits**: [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/dm/monsters.md#monster-traits#scurrilous-scamper).
+- **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper).
    - **Dragonwrought**. The kobold has resistance to one type of damage determined by its most recent draconic ancestor.
 - **Actions**:
    - **Multiattack**. The kobold makes two attacks, one of which it can replace with a use of its Dragonshield Bash or Fearless Shout, if available.
@@ -909,7 +909,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Common, Draconic
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity).
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
 - **Actions**:
    - **Dagger**. *Melee or Ranged Attack:* +4 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
     *Hit:* 4 (1d4 + 2) piercing damage.
@@ -945,7 +945,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +4, stealth: +4
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Draconic, Undercommon, Yipyak
-- **Traits**: [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/dm/monsters.md#monster-traits#scurrilous-scamper).
+- **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper).
 - **Actions**:
    - **Nailjack Tunnelclub**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 4 (1d6 + 1) bludgeoning plus 3 (1d6) piercing damage and the target is pushed up to 1 *(1.5m)* away.
@@ -973,7 +973,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: stealth: +3
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: Yipyak
-- **Traits**: [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity), [Minion](dm/dm/monsters.md#monster-traits#minion).
+- **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Minion](dm/monsters.md#monster-traits#minion).
 - **Actions**:
    - **Trip-Stick (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 1 bludgeoning damage.
@@ -997,7 +997,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: arcana: +4, acrobatics: +5, stealth: +7
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
 - **Languages**: Draconic, Undercommon, Yipyak
-- **Traits**: [Sunlight Sensitivity](dm/dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/dm/monsters.md#monster-traits#scurrilous-scamper)
+- **Traits**: [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity), [Scurrilous Scamper](dm/monsters.md#monster-traits#scurrilous-scamper)
 - **Actions**:
    - **Tripwire Garrotte**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one [Prone](conditions.md#prone) target. 
     *Hit:* 8 (2d4 + 3) slashing damage and the kobold becomes [Attached](conditions.md#attached) to the target.
@@ -1026,7 +1026,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: understands Common and Draconic but can't speak
-- **Traits**: [Undead Fortitude](dm/dm/monsters.md#monster-traits#undead-fortitude).
+- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
    - **Unusual Nature**. The zombie doesn't require air, food, drink, or sleep.
 - **Actions**:
    - **Javelin**. *Melee Attack:* +1 to hit, reach 1 *(1.5m)*, one target. 
@@ -1080,7 +1080,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: fire, poison; [Charmed](conditions.md#charmed), [Frightened](conditions.md#frightened), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision) (penetrates magical [Darkness](game_rules.md#advanced-rules#darkness)), passive perception 10
 - **Languages**: understands simple Infernal commands but can't speak
-- **Traits**: [Minion](dm/dm/monsters.md#monster-traits#minion).
+- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
    - **Fleshy Morass**. When the lemure is hit with a melee attack that deals piercing or slashing damag, swathes of its ruined flesh cling to the attacker.
    Until the beginning of the attacker's next turn, its speed is reduced by half and attacks made by it have disadvantage.
 - **Actions**: 
@@ -1554,7 +1554,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: perception: +3, stealth: +4
 - **Senses**: passive perception 13
-- **Traits**: [Pack Tactics](dm/dm/monsters.md#monster-traits#pack-tactics).
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
    - **Keen Hearing and Smell**. The wolf has advantage on WIS (Perception) checks that rely on hearing or smell.
 - **Actions**: 
    - **Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
@@ -1607,7 +1607,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
 - **Languages**: understands the languages it knew in life but can't speak
-- **Traits**: [Undead Fortitude](dm/dm/monsters.md#monster-traits#undead-fortitude).
+- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
 - **Actions**:
    - **Slam**. *Melee Attack:* +3, reach 1 *(1.5m)* 
     *Hit:* 4 (1d6 + 1) Bludgeoning damage.
@@ -1628,7 +1628,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +3
 - **Immunities**: poison; [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
-- **Traits**: [Undead Fortitude](dm/dm/monsters.md#monster-traits#undead-fortitude).
+- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
    - **Sudden Lunge**. The zombie's attacks have a reach of 2 *(3m)* for the purposes of making opportunity attacks. When it makes an opportunity attack, it moves up to 1 *(1.5m)* towards its target as part of the attack.
 - **Actions**:
    - **Grasp of the Dead**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
