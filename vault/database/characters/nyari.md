@@ -1,7 +1,7 @@
 # Nyari
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
-- **AC**: 18 ([Chain Mail](./../items.md#armor#heavy-armor#chain-mail) + Shield)
+- **AC**: 18 ([Chain Mail](database/items.md#armor#heavy-armor#chain-mail) + Shield)
 - **HP**: 12
 - **HP Dice:** 1 D10
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -54,7 +54,7 @@
 ### Passive Feats
 *- Extra lineage feat at level 5.*
 - [Alert](./.././../feats.md#alert) *(Already included above)*
-- [Weapon Mastery](./../items.md#item-info#weapon-mastery-list): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 
 # Reminders
 ### After Short Rest

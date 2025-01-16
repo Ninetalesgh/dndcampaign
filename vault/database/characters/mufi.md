@@ -1,7 +1,7 @@
 # Mufi
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
-- **AC**: 14 ([Leather Armor](./../items.md#armor#light-armor#leather-armor) + DEX)
+- **AC**: 14 ([Leather Armor](database/items.md#armor#light-armor#leather-armor) + DEX)
 - **HP**: 9
 - **HP Dice**: 1 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -50,7 +50,7 @@
 - [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats
-- [Weapon Mastery](./../items.md#item-info#weapon-mastery-list): [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
 - **Brave.** You have Advantage on Saves against [Frightened](./../conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
