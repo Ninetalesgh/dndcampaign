@@ -1,7 +1,7 @@
 # Ayra
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 13 ([Leather Armor](./../items.md#armor#light-armor#leather-armor) + DEX)
+- **AC**: 13 ([Leather Armor](database/items.md#armor#light-armor#leather-armor) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)

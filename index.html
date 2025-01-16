@@ -37,6 +37,7 @@
     </div>
   </div>
     
+  <script src="tools/md_sorter.js"></script>
   <script src="tools/md_parser.js"></script>
   <script src="tools/csv_parser.js"></script>
   <script src="tools/json_parser.js"></script>
@@ -421,7 +422,7 @@
             }
             else if (clipboardData.trimStart().startsWith('#'))
             {
-              result = parseMd(clipboardData);
+              result = parseMd(sortMdContentPageHeaders(clipboardData));
             }
             else
             {
