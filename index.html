@@ -203,7 +203,9 @@
     {
       let resultNode = null;
       //get link node
+      console.log(link);
       const match = link.match(/([^(#]+)#([^)\s]+)/);
+      console.log(match);
       if (match)
       {
         await fetchMd(`${match[1]}`).then(node => {
@@ -211,8 +213,7 @@
           let split = match[2].split('#');
 
           if (split.length === 1)
-          {          
-            console.log(match[1]);
+          {
             if (match[1] === 'dm/monsters.md')
             {
               split = [ `monsters-${split[0][0]}`, ...split ];
@@ -261,7 +262,7 @@
 
     async function fetchMd(mdUrl)
     {
-      const nodeName = mdUrl.replace(/^.*(\/dm\/[-_a-zA-Z0-9]+)\.md$/i, '$1');
+      const nodeName = mdUrl.replace(/^.*(\/dm\/[-_a-zA-Z0-9]+\.md)$/i, '$1');
       let contentNode = getIndexedContentPage(nodeName);
 
       let absoluteUrl = '';
@@ -364,7 +365,7 @@
         }
         else if (key === 'dmpage')
         {
-          if (value === null) {}
+          if (value === '') {}
           else if (value.match(/session_/))
           {
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/${value}.md`;
@@ -376,7 +377,7 @@
           
           const dmPages = new Array(
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/dm_monster_lore.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_lore.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
 
           window.addEventListener('load', () => 
@@ -392,7 +393,10 @@
               fetchMd(page).then((node) => {
                 let li = document.createElement('li');
                 const nodeName = node.name;
-                li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${nodeName}</button>`;
+                const buttonLabelParts = nodeName.replace(/\/dm\/([^.]+)\.md/,'$1').split('_');
+                let buttonLabel = '';
+                buttonLabelParts.forEach(part => {buttonLabel = `${buttonLabel}${part[0].toUpperCase()}${part.slice(1)} `});
+                li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${buttonLabel.slice(0,-1)}</button>`;
                 ul.appendChild(li); 
               });
             }

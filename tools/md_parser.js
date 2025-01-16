@@ -111,7 +111,6 @@ function parseMd(input)
         const centeralign = '<td style="text-align:center;"><p>';
         const rightalign = '<td style="text-align:right;"><p>';
         
-        console.log(tableMatches[j]);
         if (tableMatches[j].trimStart().startsWith(":")) 
         {
           if (tableMatches[j].trimStart().startsWith(":--:"))
