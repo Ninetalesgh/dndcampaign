@@ -1,9 +1,16 @@
 
 function reformatLink(name, link)
 {
-  link = link.replace(/^(?:\.\.\/|\.\/)*/, '');
-  //TODO relative links won't work yet, they all assume /database as origin path
-  return `<button class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</button>`;
+  if (link.match('\.md#'))
+  {
+    link = link.replace(/^(?:\.\.\/|\.\/)*/, '');
+    //TODO relative links won't work yet, they all assume /database as origin path
+    return `<button class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</button>`;
+  }
+  else if (link.startsWith('https://'))
+  {
+    return `<a class="external-link" href="${link}">${name}</a>`;
+  }
 }
 
 function parseMd(input)

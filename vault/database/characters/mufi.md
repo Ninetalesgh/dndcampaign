@@ -26,8 +26,8 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
 - **Armor Proficiencies**: Light Armor
-- **Tool Proficiencies**: Thieves' Tools, Disguise Kit
-- **Languages**: Common, Halfling, Primordial (Aquan Dialect), Thieves' Cant, Common Sign Language
+- **Tool Proficiencies**: Thieves' Tools, Tinker's Tools
+- **Languages**: Common, Halfling, Primordial (Aquan Dialect), Thieves' Cant, Draconic
 
 ## Spellcasting
 - **Prepared Spells**: 0 
@@ -50,7 +50,7 @@
 - [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
 
 ### Passive Feats
-- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- **Weapon Mastery**: Daggers, Shortswords. 
 - **Brave.** You have Advantage on Saves against [Frightened](./../conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.

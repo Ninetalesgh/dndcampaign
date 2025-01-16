@@ -23,19 +23,27 @@ function sortMdContentPageHeaders(mdText)
 
   let currentBlockStartIndex = -1;
   let doneSorting = false;
-  let contentType = 'Items';
+  let contentType = '';
 
   let lastIndex = 0;
   for (let i = 0; i < lines.length; ++i)
   {
     if (lines[i].trimStart().startsWith('#'))
     {
-
       if (doneSorting)
       {
         lastIndex = i;
-        console.log('huh ' + lastIndex);
-        break; // done sorting
+        break;
+      }
+
+      if (contentType === '')
+      {
+        const contentTypeMatch = lines[i].match(/^##\s(.*)\s[A-Z]$/mi);
+        if (contentTypeMatch) 
+        {
+          contentType = contentTypeMatch[1];
+          console.log(contentType);
+        }
       }
 
       else if (currentBlockStartIndex >= 0)
@@ -53,9 +61,8 @@ function sortMdContentPageHeaders(mdText)
         currentBlockStartIndex = i;
     }
 
-    if (lines[i].trimStart().startsWith(`## ${contentType} Z`))
+    if (contentType !== '' && lines[i].trimStart().startsWith(`## ${contentType} Z`))
     {
-      console.log('hah');
       //Stop sorting after next header change
       doneSorting = true;
     }
@@ -64,19 +71,23 @@ function sortMdContentPageHeaders(mdText)
   if (!doneSorting && currentBlockStartIndex >= 0)
   {
     lastIndex = lines.length;
-    console.log(currentBlockStartIndex, lastIndex);
-    console.log(lines.slice(currentBlockStartIndex, lastIndex));
     const char = lines[currentBlockStartIndex].trimStart().slice(4);
     const index = getIndexForChar(char);
     const entry = lines.slice(currentBlockStartIndex, lastIndex + 1).join('\n');
     sorted[index].push(entry);
   }
 
-  console.log(sorted);
-
   for (let i = 0; i < 26; ++i)
   {
-    sorted[i] = `## ${contentType} ${getCharForIndex(i).toUpperCase()}\n${sorted[i].join('\n')}`;
+    sorted[i].sort();
+    if (contentType === '')
+    {
+      sorted[i] = sorted[i].join('\n');     
+    }
+    else
+    {
+      sorted[i] = `## ${contentType} ${getCharForIndex(i).toUpperCase()}\n${sorted[i].join('\n')}`;     
+    }
   }
 
   const result = `${sorted.join('\n')}\n${lines.slice(lastIndex).join('\n')}`;
