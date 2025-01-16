@@ -42,3 +42,8 @@ Human -> Tall burly man, greying trimmed beard, greasy hair, dull eyes.
 Dwarf -> He is a sturdy dwarf with stoic presence, his slightly dusty white beard framing a weathered face set in a permanent scowl. His thick, muscular arms are bare, sleeves rolled up to the elbows, revealing calloused hands that have spent years handling chisels, bolts, and screws. The smell of iron and stone clings to him, as does the faint scent of oil and sweat. 
 ## Scenes
 [Session 0](./session_notes/session_00.md#after-the-dust-settles): Urges everyone out of the elevator shaft to start work.
+
+
+# Blacksmiths Seraphine Sorelle & Ronan Hammerfall
+
+# General Merchant Sam Perrin
