@@ -1,6 +1,10 @@
 # Concoctions
 ## Potions
 ### Potion of Healing
+
+[Potion of Healing](dm/items.md#potion-of-healing).
+[TODO]
+
 - **Action.** *Carefully administer*: Regain 10 HP.
 - **Bonus Action.** *Hastily administer*: Regain 2d4 + 2 HP.
 
@@ -15,7 +19,7 @@ Rogue's Morsel | Salt | Potion of Healing
 
 ## Coatings
 ### Basic Poison
-- **Bonus Action.** *Coat Weapon*: Targets must succeed a DC 11 CON Save or become [Poisoned](conditions.md#poisoned) for 2 turns. 
+- **Bonus Action.** *Coat Weapon*: Hit targets must succeed a DC 11 CON Save or become [Poisoned](conditions.md#poisoned) for 2 turns. 
 
 **Production**:
 *Grind down Bonecap and mix with oil.*

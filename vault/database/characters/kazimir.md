@@ -29,7 +29,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
-- **Tool Proficiencies**: Alchemist's Supplies.
+- **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, [TODO] 2 more?
 
 ## What you can do
@@ -37,7 +37,6 @@
 - [Default Actions](./../game_rules.md#turn-based-play#default-actions)
 
 ### Bonus Actions
-- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions

@@ -26,7 +26,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: Light Armor
-- **Tool Proficiencies**: Thieves' Tools
+- **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools)
 - **Languages**: Common, Infernal, Celestial
 
 
@@ -48,7 +48,6 @@
 - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
 ### Bonus Actions
-- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**
   [Armor of Agathys](./../spells.md#spells-a#armor-of-agathys)
   [Hex](./../spells.md#spells-h#hex)
