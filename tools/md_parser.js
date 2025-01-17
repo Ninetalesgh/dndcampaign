@@ -1,10 +1,17 @@
 
+function filterSectionSpecialCharacters(section)
+{
+  return section.replace(' ', '-').replace(/[^#a-zA-Z0-9-]/g, '').toLowerCase();
+}
+
 function reformatLink(name, link)
 {
-  if (link.match('\.md#'))
+  let match = link.match(/^(?:\.\.\/|\.\/)*(.*\.md#)(.*)/);
+  if (match)
   {
-    link = link.replace(/^(?:\.\.\/|\.\/)*/, '');
-    //TODO relative links won't work yet, they all assume /database as origin path
+    link = `${match[1]}${filterSectionSpecialCharacters(match[2])}`;
+    // TODO relative links won't work yet, they all assume /database as origin path
+    // (dm/path is redirected to the absolute https for the dm branch)
     return `<button class="inline-link" onclick="toggleInlineLinkContent(this)" data-url="${link}">${name}</button>`;
   }
   else if (link.startsWith('https://'))
@@ -67,7 +74,7 @@ function parseMd(input)
         //}
 
         let divUnwrap = '</div>';
-        lines[i] = `${divUnwrap}<${resultHeaderType} id="${headerName.toLowerCase().replace(/\s/g, '-')}">${headerName}</${resultHeaderType}><div>`;
+        lines[i] = `${divUnwrap}<${resultHeaderType} id="${filterSectionSpecialCharacters(headerName)}">${headerName}</${resultHeaderType}><div>`;
       }
       else
       {
