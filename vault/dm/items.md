@@ -515,7 +515,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 52.5 kg
 - **Price**: 12 gp
-- **Properties**: A Dungeoneer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Caltrops](dm/items.md#caltrops), [Crowbar](dm/items.md#crowbar), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torches), and [Waterskin](dm/items.md#waterskin).
+- **Properties**: A Dungeoneer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Caltrops](dm/items.md#caltrops), [Crowbar](dm/items.md#crowbar), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torch), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page225)*
 
 ## Items E
@@ -545,7 +545,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 52.5 kg
 - **Price**: 10 gp
-- **Properties**: An Explorer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torches), and [Waterskin](dm/items.md#waterskin).
+- **Properties**: An Explorer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torch), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page225)*
 
 ## Items F
