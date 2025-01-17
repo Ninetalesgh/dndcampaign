@@ -29,6 +29,16 @@
 - **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+## Equipment
+[Hide Armor](database/items.md#armor#medium-armor#hide-armor)
+[Quarterstaff](dm/items.md#quarterstaff)
+[Shield](dm/items.md#shield)
+[Sickle](dm/items.md#sickle)
+[Herbalism Kit](dm/items.md#herbalism-kit)
+[Explorer's Pack](dm/items.md#explorers-pack)
+
+- **Money**: 13 gp, 8 sp
+
 ## Spellcasting
 - **Prepared Spells**: 4 
 - **Spell Slots Level 1**: 2

@@ -29,6 +29,14 @@
 - **Tool Proficiencies**: [TODO]
 - **Languages**: Common, Goliath, [TODO] 1 more
 
+## Equipment
+[Chain Mail](database/items.md#armor#heavy-armor#chain-mail)
+[Warhammer](dm/items.md#warhammer)
+[Shield](dm/items.md#shield)
+[Priest's Pack](dm/items.md#priests-pack)
+6 [Javelins](dm/items.md#javelin)
+- **Money**: 14 gp
+
 ## Spellcasting
 - **Prepared Spells**: 2
 - **Spell Slots Level 1**: 2 

@@ -32,7 +32,15 @@
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, [TODO] 2 more?
 
-## What you can do
+## Equipment
+[Chain Shirt](dm/items.md#armor#medium-armor#scale-mail)
+[Alchemist's Supplies](dm/items.md#alchemists-supplies)
+[Brewer's Supplies](dm/items.md#brewers-supplies)
+[Dungeoneer's Pack](dm/items.md#dungeoneers-pack)
+
+- **Money**: 23 gp
+
+## Feats and Actions
 ### Actions
 - [Default Actions](./../game_rules.md#turn-based-play#default-actions)
 
