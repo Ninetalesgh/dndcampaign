@@ -35,13 +35,13 @@ function addTags(string)
 {
   const conditionsGroup = '(Bleeding|Blinded|Burning|Charmed|Choking|Deafened|Frightened|Grappled|Incapacitated|Invisible|Paralyzed|Petrified|Poisoned|Prone|Restrained|Stunned|Unconscious)'; 
   let regex = new RegExp(`have\\sthe\\s${conditionsGroup}\\scondition`, 'gmi');
-  let taggedString = string.replace(regex, (m, g) => `be [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  let taggedString = string.replace(regex, (m, g) => `be [${g}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   regex = new RegExp(`has\\sthe\\s${conditionsGroup}\\scondition`, 'gmi');
-  taggedString = taggedString.replace(regex, (m, g) => `is [${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  taggedString = taggedString.replace(regex, (m, g) => `is [${g}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   regex = new RegExp(`has\\sthe\\s${conditionsGroup}\\sor\\s${conditionsGroup}\\scondition`, 'gmi');
-  taggedString = taggedString.replace(regex, (m, g1, g2) => `is [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')}) or [${g2}](conditions.md#${g2.toLowerCase().replace(' ', '-')})`);
+  taggedString = taggedString.replace(regex, (m, g1, g2) => `is [${g1}](conditions.md#${g1.toLowerCase().replace(/\s/g, '-')}) or [${g2}](conditions.md#${g2.toLowerCase().replace(/\s/g, '-')})`);
   regex = new RegExp(`\\b${conditionsGroup}\\b`, 'gmi');
-  taggedString = taggedString.replace(regex, (m, g1, g2) => ` [${g1}](conditions.md#${g1.toLowerCase().replace(' ', '-')})${g2}`);
+  taggedString = taggedString.replace(regex, (m, g1, g2) => ` [${g1}](conditions.md#${g1.toLowerCase().replace(/\s/g, '-')})${g2}`);
   return taggedString;
 }
 

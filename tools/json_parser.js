@@ -50,12 +50,12 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@atkr?\sm(w|s)?\}/gm, (m, g) => `*Melee ${ g === 's' ? 'Spell ' : ''}Attack:*`);
   strippedString = strippedString.replace(/\{@atkr?\sr(w|s)?\}/gm, (m, g) => `*Ranged ${ g === 's' ? 'Spell ' : ''}Attack:*`);
   strippedString = strippedString.replace(/\{@atkr?\sm(w|s)?,r(w|s)?\}/gm, (m, g) => `*Melee or Ranged ${ g === 's' ? 'Spell ' : ''}Attack:*`);
-  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](spells.md#${g.toLowerCase().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@spell\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](spells.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   strippedString = strippedString.replace(/\{@skill\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@filter\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/gm, '$1');
-  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
-  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(' ', '-')})`);
+  strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
+  strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/gm, (m, g) => (g ? `(Recharge ${g}-6)` : '(Recharge 6)'));
   strippedString = strippedString.replace(/\{@scaledamage\s[^}]+?([^|}]*)\}/gm, (m, g) => g);
 
@@ -145,7 +145,7 @@ function convertMonsterSubSection(subsectionName, array)
 
       if (isCommonMonsterTrait(action.name))
       {
-        commonTraits.push(`[${action.name}](dm/monsters.md#monster-traits#${action.name.toLowerCase().replace(' ', '-')})`);
+        commonTraits.push(`[${action.name}](dm/monsters.md#monster-traits#${action.name.toLowerCase().replace(/\s/g, '-')})`);
       }
       else
       {
@@ -551,7 +551,7 @@ function convert5EMonsterToText(jsonObject)
       data.conditionImmune.forEach(immunity => {
         if (typeof immunity === "string")
         {
-          immunities.push(`[${immunity[0].toUpperCase() + immunity.slice(1)}](conditions.md#${immunity.toLowerCase().replace(' ', '-')})`);
+          immunities.push(`[${immunity[0].toUpperCase() + immunity.slice(1)}](conditions.md#${immunity.toLowerCase().replace(/\s/g, '-')})`);
         }
         else
         {
