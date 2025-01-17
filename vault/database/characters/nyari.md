@@ -41,7 +41,6 @@
 [TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
 
 ### Bonus Actions
-- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 charges)*
 
 ### Reactions

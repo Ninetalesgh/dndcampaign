@@ -26,7 +26,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields
-- **Tool Proficiencies**: Herbalism Kit, Weaver's Tools
+- **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
 ## Spellcasting
@@ -45,7 +45,6 @@
   - *Wizard:* [Prestidigitation](./../spells.md#spells-p#prestidigitation)
 
 ### Bonus Actions
-- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Wild Shape**: [Grappler](./../wildshapes.md#cr-1/4#grappler), [Nimble](./../wildshapes.md#cr-1/4#nimble), [Blindsight](./../wildshapes.md#cr-1/4#blindsight), [Burrower](./../wildshapes.md#cr-1/4#burrower) *(at level 2)* 
 
 ### Reactions

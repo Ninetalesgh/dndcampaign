@@ -55,7 +55,7 @@ It fails all STR and DEX Saves.
 It resists all damage and is immune to poison damage.
 Attacks against it creature have Advantage.
 ## Poisoned
-A poisoned creature has Disadvantage on Ability Checks and Attack Rolls. 
+A poisoned creature has Disadvantage on Ability Checks and Attack Rolls.
 ## Prone
 A prone creature has Disadvantage on Attack Rolls.
 If its speed is not 0, it can spend half of its speed to stand up.

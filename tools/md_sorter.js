@@ -42,12 +42,12 @@ function sortMdContentPageHeaders(mdText)
         if (contentTypeMatch) 
         {
           contentType = contentTypeMatch[1];
-          console.log(contentType);
+          console.log(`Sorting '${contentType}' content.`);
         }
       }
 
-      else if (currentBlockStartIndex >= 0)
-      {
+      if (currentBlockStartIndex >= 0)
+      {    
         const char = lines[currentBlockStartIndex].trimStart().slice(4);
         const index = getIndexForChar(char);
         const entry = lines.slice(currentBlockStartIndex, i).join('\n');
@@ -57,8 +57,8 @@ function sortMdContentPageHeaders(mdText)
     }
     
     if (lines[i].trimStart().startsWith('### '))
-      {
-        currentBlockStartIndex = i;
+    {
+      currentBlockStartIndex = i;
     }
 
     if (contentType !== '' && lines[i].trimStart().startsWith(`## ${contentType} Z`))
@@ -76,6 +76,8 @@ function sortMdContentPageHeaders(mdText)
     const entry = lines.slice(currentBlockStartIndex, lastIndex + 1).join('\n');
     sorted[index].push(entry);
   }
+
+  console.log(sorted);
 
   for (let i = 0; i < 26; ++i)
   {

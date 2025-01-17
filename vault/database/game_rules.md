@@ -148,10 +148,7 @@ What you can do when we play Turn Based:
   - Study something, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
   - Versatile: Use, or do something with, some object, whatever it might be.
   - Attempt to stabilize another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
-- ***Help***: Help someone elses Ability Check or Attack Roll, giving them Advantage. 
-- **Drink Potion**: Drink carefully, regenerate the maximum rollable result.
-### Default Bonus Actions
-- **Drink Potion**: Drink fast! Roll dice! Spill some! 
+- ***Help***: Help someone elses Ability Check or Attack Roll, giving them Advantage.
 ### Default Reactions
 - **Opportunity Attack**: Melee Attack someone who is about to move out of your Melee reach (not if they're pushed or otherwise physically moved by force).
 - **Trigger Readied Action**: Trigger an Action you previously Readied.

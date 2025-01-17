@@ -26,7 +26,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
 - **Armor Proficiencies**: Light Armor
-- **Tool Proficiencies**: Thieves' Tools, Tinker's Tools
+- **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools), [Tinker's Tools](dm/items.md#tinkers-tools)
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
 
 ## Spellcasting
@@ -41,10 +41,11 @@
 - **Cantrips**: 
   - *Magic Initiate:* [Guidance](./../spells.md#spells-g#guidance), [Light](./.././../spells.md#spells-l#light)
 
-### Bonus Actions
-- [Default Bonus Actions](./../game_rules.md#turn-based-play#default-bonus-actions)
 - **Spells**:
   - *Magic Initiate:* [Spell Cheat](./../spells.md#spells-s#spell-cheat) *(one free use per Long Rest)*
+
+### Bonus Actions
+  *(none)*
 
 ### Reactions
 - [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
