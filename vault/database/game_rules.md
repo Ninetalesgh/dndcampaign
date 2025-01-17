@@ -305,12 +305,8 @@ Every player can have up to 3 magic items attuned.
 - Heavy Armor
 - Shields
 
-## Character Needs
-
-Only relevant when resources become scarce.
-
-Per day:
-- About 3 liters of fluid. If you consume less than half of that you gain 1 [Exhaustion](conditions.md#exhaustion).
-- About 500g of food. If you consume less than half of that you must succeed on a DC 10 CON Save or gain 1 Exhaustion. Starting at day 5 you additionally gain 1 Exhaustion at the end of every day without Save. 
-
-Exhaustion caused by dehydration or malnutrition can't be removed unless you consume a daily portion of fluid or food respectively. 
+## Food and Water Needs
+- **Dehydration**: You need about 3 liters of fluid per day. If you consume less than half of that you gain 1 [Exhaustion](conditions.md#exhaustion).
+- **Malnutrition**: About 500g of food per day. If you consume less than half of that you must succeed on a DC 10 CON Save or gain 1 [Exhaustion](conditions.md#exhaustion). Starting at day 5 you additionally gain 1 Exhaustion at the end of every day without Save. 
+[TODO] THESE RULES SEEM INCOMPLETE? 
+*Exhaustion caused by dehydration or malnutrition can't be removed unless you consume a daily portion of fluid or food respectively.*
