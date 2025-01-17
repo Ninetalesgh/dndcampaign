@@ -32,10 +32,9 @@
 ## Equipment
 [Leather Armor](database/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
-[Book (Religion)](dm/items.md#book) on occult lore.
+[Book (About Devils)](dm/items.md#book)
 
 - **Money**: 25 gp
-
 
 ## Spellcasting
 - **Prepared Spells**: 2
