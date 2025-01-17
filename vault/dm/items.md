@@ -1069,7 +1069,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 1 gp
-- **Properties**: A Map or Scroll Case holds up to 10 sheets of paper or 5 sheets of parchment.
+- **Properties**: A Map or Scroll Case holds up to 10 sheets of [Paper](dm/items.md#paper) or 5 sheets of [Parchment](dm/items.md#parchment).
 *(Source: PHB'24, page224)*
 
 ### Mason's Tools
@@ -1479,7 +1479,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 21 kg
 - **Price**: 40 gp
-- **Properties**: A Scholar's Pack contains the following items: Backpack, Book, Ink, Ink Pen, Lamp, 10 flasks of Oil, 10 sheets of Parchment, and Tinderbox.
+- **Properties**: A Scholar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Book](dm/items.md#book), [Ink](dm/items.md#ink), [Ink Pen](dm/items.md#ink-pen), [Lamp](dm/items.md#lamp), 10 flasks of [Oil](dm/items.md#oil), 10 sheets of [Parchment](dm/items.md#parchment), and [Tinderbox](dm/items.md#tinderbox).
 *(Source: PHB'24, page228)*
 
 ### Scimitar
