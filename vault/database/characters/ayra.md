@@ -1,7 +1,7 @@
 # Ayra
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 13 ([Leather Armor](database/items.md#armor#light-armor#leather-armor) + DEX)
+- **AC**: 13 ([Leather Armor](database/items.md#leather-armor) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -28,6 +28,13 @@
 - **Armor Proficiencies**: Light Armor
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools)
 - **Languages**: Common, Infernal, Celestial
+
+## Equipment
+[Leather Armor](database/items.md#leather-armor)
+[Scholar's Pack](dm/items.md#scholars-pack)
+[Book (Religion)](dm/items.md#book) on occult lore.
+
+- **Money**: 25 gp
 
 
 ## Spellcasting
