@@ -61,14 +61,8 @@
 *(ammunition, Common)*
 - **Weight**: 20 g
 - **Price**: 5 cp
-- **Properties**: Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Arrows are typically stored in a Quiver (bought separately).
-*(Source: PHB'24, page222)*
-
-### Arrows (20)
-*(ammunition, Common)*
-- **Weight**: 500 g
-- **Price**: 1 gp
-- **Properties**: Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Arrows are typically stored in a Quiver (bought separately).
+- **Properties**: Arrows are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+Arrows are usually sold in bundles of 20 for 1 gp and typically stored in a Quiver (bought separately).
 *(Source: PHB'24, page222)*
 
 ## Items B
@@ -175,22 +169,16 @@
 *(ammunition, Common)*
 - **Weight**: 35 g
 - **Price**: 5 cp
-- **Properties**: Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Bolts are typically stored in a Crossbow Bolt Case (bought separately).
-*(Source: PHB'24, page222)*
-
-### Bolts (20)
-*(ammunition, Common)*
-- **Weight**: 750 g
-- **Price**: 1 gp
-- **Properties**: Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Bolts are typically stored in a Crossbow Bolt Case (bought separately).
+- **Properties**: Crossbow bolts are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Crossbow Bolt Case (bought separately).
 *(Source: PHB'24, page222)*
 
 ### Bonecap
 *(ingredient, Common)*
 - **Weight**: -
 - **Price**: 25 gp
-- **Ingredient For**: 
-  *Grind down Bonecap and mix with plant oil to create a* [Basic Poison](dm/items.md#basic-poison).
+- **Properties**:
+  - *Craft: Grind down Bonecap and mix with plant oil to create a* [Basic Poison](dm/items.md#basic-poison).
 ![\|50](https://bg3.wiki/w/images/4/49/Bonecap_Item_Icon.png)
 *An acidic, foul-tasting mushroom that can be found anywhere bodies have been buried. Or left to rot.*
 *(Source: Baldur's Gate 3)*
@@ -247,7 +235,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 24 kg
 - **Price**: 16 gp
-- **Properties**: A Burglar's Pack contains the following items: Backpack, Ball Bearings, Bell, 10 Candles, Crowbar, Hooded Lantern, 7 flasks of Oil, 5 days of Rations, Rope, Tinderbox, and Waterskin.
+- **Properties**: A Burglar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Ball Bearings](dm/items.md#ball-bearings), [Bell](dm/items.md#bell), 10 [Candles](dm/items.md#candles), [Crowbar](dm/items.md#crowbar), [Hooded Lantern](dm/items.md#hooded-lantern), 7 flasks of [Oil](dm/items.md#oil), 5 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page224)*
 
 ## Items C
@@ -527,7 +515,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 52.5 kg
 - **Price**: 12 gp
-- **Properties**: A Dungeoneer's Pack contains the following items: Backpack, Caltrops, Crowbar, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+- **Properties**: A Dungeoneer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Caltrops](dm/items.md#caltrops), [Crowbar](dm/items.md#crowbar), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torches), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page225)*
 
 ## Items E
@@ -543,7 +531,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 29 kg
 - **Price**: 40 gp
-- **Properties**: An Entertainer's Pack contains the following items: Backpack, Bedroll, Bell, Bullseye Lantern, 3 Costumes, Mirror, 8 flasks of Oil, 9 days of Rations, Tinderbox, and Waterskin.
+- **Properties**: An Entertainer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), [Bell](dm/items.md#bell), [Bullseye Lantern](dm/items.md#bullseye-lantern), 3 [Costumes](dm/items.md#costume), [Mirror](dm/items.md#mirror), 8 flasks of [Oil](dm/items.md#oil), 9 days of [Rations](dm/items.md#rations), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page225)*
 
 ### Exotic Saddle
@@ -557,7 +545,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 52.5 kg
 - **Price**: 10 gp
-- **Properties**: An Explorer's Pack contains the following items: Backpack, Bedroll, 2 flasks of Oil, 10 days of Rations, Rope, Tinderbox, 10 Torches, and Waterskin.
+- **Properties**: An Explorer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torches), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page225)*
 
 ## Items F
@@ -586,8 +574,8 @@
 *(ingredient, Common)*
 - **Weight**: -
 - **Price**: 25 gp
-- **Ingredient For**: 
-  *Crush Fire Amber to Ash and carefully boil in oil to create an* [Alchemist's Fire](dm/items.md#alchemists-fire).
+- **Properties**:
+  - *Craft: Crush Fire Amber to Ash and carefully boil in oil to create an* [Alchemist's Fire](dm/items.md#alchemists-fire).
 ![\|50](https://bg3.wiki/w/images/5/5d/Fire_Amber_Item_Icon.png)
 *Lambent from within, these crystals are the very progenitors of flame.*
 *(Source: Baldur's Gate 3)*
@@ -865,6 +853,7 @@
 - **Weight**: 250 g
 - **Price**: 1 sp
 - **Properties**: As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.
+Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Source: PHB'24, page228)*
 
 ## Items J
@@ -1141,8 +1130,8 @@
 *(ingredient, Common)*
 - **Weight**: -
 - **Price**: 25 gp 
-- **Ingredient For**: 
-  *Sun dry, crush to a herb, let rest in warm water and distill to an* [Antidote](dm/items.md-antidote).
+- **Properties**:
+  - *Craft: Sun dry, crush to a herb, let rest in warm water and distill to an* [Antidote](dm/items.md-antidote).
 ![\|50](https://bg3.wiki/w/images/3/35/Mugwort_Item_Icon.png)
 *A bane of farmers and gardeners, this quick-growing weed reappears mere days after being cut.*
 
@@ -1178,14 +1167,8 @@
 *(ammunition, Common)*
 - **Weight**: 10 g
 - **Price**: 2 cp
-- **Properties**: Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Needles are typically stored in a Pouch (bought separately).
-*(Source: PHB'24, page222)*
-
-### Needles (50)
-*(ammunition, Common)*
-- **Weight**: 500 g
-- **Price**: 1 gp
-- **Properties**: Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Needles are typically stored in a Pouch (bought separately).
+- **Properties**: Blowgun needles are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pouch (bought separately).
 *(Source: PHB'24, page222)*
 
 ### Net
@@ -1358,7 +1341,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 24.5 kg
 - **Price**: 33 gp
-- **Properties**: A Priest's Pack contains the following items: Backpack, Blanket, Holy Water, Lamp, 7 days of Rations, Robe, and Tinderbox.
+- **Properties**: A Priest's Pack contains the following items: [Backpack](dm/items.md#backpack), [Blanket](dm/items.md#blanket), [Holy Water](dm/items.md#holy-water), [Lamp](dm/items.md#lamp), 7 days of [Rations](dm/items.md#rations), [Robe](dm/items.md#robe), and [Tinderbox](dm/items.md#tinderbox).
 *(Source: PHB'24, page228)*
 
 ## Items Q
@@ -1396,7 +1379,7 @@
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 5 sp
-- **Properties**: Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See Malnutrition for the risks of not eating.
+- **Properties**: Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See [Malnutrition](game_rules.md#food-and-water-needs) for the risks of not eating.
 *(Source: PHB'24, page228)*
 
 ### Riding Horse
@@ -1435,8 +1418,8 @@
 *(ingredient, Common)*
 - **Weight**: -
 - **Price**: 25 gp
-- **Ingredient For**: 
-  *Grind down dried Rogue's Morsel and boil in salt water to brew a* [Potion of Healing](dm/items.md#potion-of-healing).
+- **Properties**:
+  - *Craft: Grind down dried Rogue's Morsel and boil in salt water to brew a* [Potion of Healing](dm/items.md#potion-of-healing).
 ![\|50](https://bg3.wiki/w/images/a/aa/Rogue%27s_Morsel_Item_Icon.png)
 *Frequently referenced in tales of roguish adventures, this mushroom can be quite the boon for those who know how to use it.*
 *(Source: Baldur's Gate 3)*
@@ -1519,7 +1502,6 @@
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 *(Source: PHB'24, page221)*
 
-
 ### Shield
 *(Shield, Common)*
 - **Don and Doff Time**: 1 Action / 1 Action
@@ -1598,14 +1580,8 @@
 *(ammunition, Common)*
 - **Weight**: 35 g
 - **Price**: 0.2 cp
-- **Properties**: Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Sling Bullets are typically stored in a Pouch (bought separately).
-*(Source: PHB'24, page222)*
-
-### Sling Bullets (20)
-*(ammunition, Common)*
-- **Weight**: 750 g
-- **Price**: 4 cp
-- **Properties**: Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.Sling Bullets are typically stored in a Pouch (bought separately).
+- **Properties**: Sling bullets are used with a weapon that has the ammunition property to make a ranged attack. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in a Pouch (bought separately).
 *(Source: PHB'24, page222)*
 
 ### Smith's Tools
