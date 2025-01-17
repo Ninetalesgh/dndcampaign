@@ -1,7 +1,7 @@
 
 function filterSectionSpecialCharacters(section)
 {
-  return section.replace(' ', '-').replace(/[^#a-zA-Z0-9-]/g, '').toLowerCase();
+  return section.replace(/\s/gm, '-').replace(/[^#a-zA-Z0-9-]/g, '').toLowerCase();
 }
 
 function reformatLink(name, link)

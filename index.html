@@ -81,7 +81,7 @@
 
     class TreeNode {
       constructor(value){
-        this.name = value ? value.innerText : "";
+        this.name = value ? filterSectionSpecialCharacters(value.innerText) : "";
         this.element = value;
         this.parent = null;
         this.children = [];
@@ -118,7 +118,7 @@
           if (childNode.children.length === 0)
           {
             const a = document.createElement('a');
-            a.href = `#${childNode.name.toLowerCase().replace(/\s/g, '-')}`;
+            a.href = `#${filterSectionSpecialCharacters(childNode.name)}`;
             listItem.appendChild(a);            
             addTreeNodeToIndexViewRecursive(childNode, a);
           }
@@ -177,7 +177,7 @@
       let queue = new Array();
       for (let childNode of parentNode.children)
       {
-        if (childNode.name.toLowerCase().replaceAll(' ', '-') === name)
+        if (childNode.name === name)
         {
           return childNode;
         }
@@ -217,15 +217,21 @@
             {
               split = [ `monsters-${split[0][0]}`, ...split ];
             }
-            else if (linkFileName[1] === 'spells.md')
+            else if (linkFileName[1] === 'dm/spells.md')
             {
               split = [ `spells-${split[0][0]}`, ...split ];
+            }
+            else if (linkFileName[1] === 'dm/items.md')
+            {
+              split = [ `items-${split[0][0]}`, ...split ];
             }
           }
 
           let narrowSearchNode = node;
+          console.log(split);
           for (let id of split)
           {
+            console.log(narrowSearchNode);
             narrowSearchNode = findIndexedContentNodeRecursive(narrowSearchNode, id);
           }
 
