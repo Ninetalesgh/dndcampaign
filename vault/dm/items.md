@@ -156,7 +156,7 @@
 - **Reach**: 2
 - **Damage**: 1d10 + STR Slashing damage.
 - **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Graze](dm/items.md#item-info#graze).
+- **Mastery**: [Graze (STR)](dm/items.md#item-info#graze).
 - **Price**: 20 gp
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/9c/92/5c/9c925c03361e2fe3afd4f56fddd25e5f.jpg)
@@ -189,7 +189,7 @@
 - **Reach**: 1
 - **Damage**: 2d6 + STR Slashing damage.
 - **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Graze](dm/items.md#item-info#graze).
+- **Mastery**: [Graze (STR)](dm/items.md#item-info#graze).
 - **Price**: 50 gp
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/c2/b7/f6/c2b7f64bfc48e34d8a7269b1eaee8831.jpg)
@@ -730,47 +730,49 @@
 
 ## Weapon Mastery
 ### Cleave
-Allowed to make a second Attack against another creature within range 1 of the first target also within your reach, without damage modifier.
+On Hit: Allows you to roll a second Attack against another creature within range 1 of the first target also within your reach, but without damage modifier.
 ### Graze
-Still deal damage when missing with an Attack.
+On Miss: You still deal the specified amount of damage to the target.
 ### Nick
-Allowed to make the additional Attack you receive from wielding two Light weapons as part of the initial Attack Action.
+Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action **once** per turn.
 ### Push
-Allowed to push a creature by the specified amount on hit. (STR/DEX save?)
+Allows you to push a creature by the specified range on hit. (STR/DEX save?)
+[Size](./../game_rules.md#advanced-rules#creature-sizes)
 ### Sap
-Target you hit gets Disadvantage on its next Attack.
+On Hit: The target gets Disadvantage on its next Attack.
 ### Slow
-Reduces movement speed by the specified amount on hit.
+On Hit: The target has its Speed reduced by the specified amount until the end of its next turn.
 ### Topple
-Knock target Prone on hit. (STR/DEX save?)
+On Hit: The target has to succeed a CON Save (DC 8 + your attack modifier + your PB) or be knocked [Prone](conditions.md#prone).
 ### Vex
-On hit, choose ally to give advantage on the target for their next hit.
+On Hit: You gain Advantage on your next Attack against the same target.
 ### Brace
-Can Opportunity Attack when enemy enters range.
+Allows you to Opportunity Attack as a Reaction when a creature enters your reach.
 ### Rush
-Can move an extra specified distance for free to Attack.
+Allows you to move an extra specified distance for free when using the Attack Action.
+
 ## Weapon Properties
 ### Ammunition
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
 
 ### Finesse
-When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+When making an attack with a Finesse weapon, use your choice of your STR or DEX modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ### Heavy
-Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
+Small creatures have Disadvantage on Attacks with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
 ### Light
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+Whenever you take the Attack Action on your turn and attack with a Light weapon, you can make one extra attack with a **different** light weapon as a Bonus Action later on the same turn. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 ### Loading
 Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
 ### Thrown
-If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
+If a weapon has the thrown property, you can throw the weapon to make a Ranged Attack with the specified normal/far ranges. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
 
 ### Two-Handed
 This weapon requires two hands when you attack with it.
 
 ### Versatile
-This weapon can be used with one or two hands. A damage value in parentheses appears with the property–the damage when the weapon is used with two hands to make a melee attack. 
+This weapon can be used with one or two hands. The specified damage roll is used when using two hands to make a Melee Attack. 
