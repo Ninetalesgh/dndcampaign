@@ -1431,7 +1431,8 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.You can bind an unwilling creature with the Rope only if the creature has the [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained) condition. If the creature's legs are bound, the creature has the [Restrained](conditions.md#restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
+- **Properties**: As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
+You can bind an unwilling creature with the Rope only if the creature has the [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained) condition. If the creature's legs are bound, the creature has the [Restrained](conditions.md#restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 *(Source: PHB'24, page228)*
 
 ### Rowboat
