@@ -44,7 +44,15 @@
 
 ## Feats and Actions
 ### Actions
-- [Default Actions](./../game_rules.md#turn-based-play#default-actions)
+[Attack](game_rules.md#turn-based-play#attack)
+[Dash](game_rules.md#turn-based-play#dash)
+[Disengage](game_rules.md#turn-based-play#disengage)
+[Dodge](game_rules.md#turn-based-play#dodge)
+[Hide](game_rules.md#turn-based-play#hide)
+[Ready Action](game_rules.md#turn-based-play#ready-action)
+[Help](game_rules.md#turn-based-play#help)
+[Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
+
 - **Cantrips**: 
   - *Aasimar:* [Light](./../spells.md#spells-l#light)
   - *Warlock:* [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
@@ -59,7 +67,8 @@
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
-- [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
+[Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
+[Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 - **Spells**
   *(none)*
 
@@ -87,6 +96,7 @@ Regain *(d8 + CON)* HP per expended die.
 ##### Recalculate HP
 ##### Add 1 HP Die
 ##### Check Class Level-Up
+##### Switch 1 Warlock Cantrip
 ##### Switch 1 Warlock Spell
 ##### Switch 1 Eldritch Invocation
 ##### Learn new Eldritch Invocations

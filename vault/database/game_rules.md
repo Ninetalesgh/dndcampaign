@@ -132,26 +132,54 @@ What you can do when we play Turn Based:
   - *ON GRIDS ONLY*: Diagonal movement costs 3/2, rounding down the total (so 2 full diagonal "steps" cost 3) 
 
 ### Default Actions
-- ***Attack***: Choose a target in range and roll for attack! If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
-  - *Melee Attack*: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you).
-  - *Ranged Attack*: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage.
-  - *Spell Attack*: Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage.
-- ***Dash***: Double your Movement Speed for this turn.
-- ***Disengage***: Your movement doesn't provoke Opportunity Attacks for the rest of the turn.
-- ***Dodge***: Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
-- ***Hide***: Make a DEX (Stealth) Check to attempt to hide!
-- ***Magic***: Cast a Spell or use a Magical Feature that needs your Action, or use a Magic Item.
-- ***Ready***: Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#default-reactions) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
-- ***Influence / Search / Study / Utilize / Stabilize***: Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
+#### Attack
+Choose a target in range and roll for attack! Roll a d20 and add your Attack Modifier.If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
+  - **Melee Attack**: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you). Your Attack Modifier for Melee Attacks is your STR + your PB, if you're proficient with the weapon you're attacking with.
+  - **Ranged Attack**: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage. Your Attack Modifier for Ranged Attacks is your DEX + your PB, if you're proficient with the weapon you're attacking with.
+  - **Ranged or Melee Spell Attack**: Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage. Your Attack Modifier for Spell Attacks is your Spellcasting Ability (INT/WIS/CHA) + your PB. *(For example, if your PB is +2 and your WIS is +3 as a Druid, you would have a +5 Spell Attack Modifier)*
+- 
+#### Dash
+Gain additional Speed equal to your *modified* Movement Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
+
+#### Disengage
+Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) for the rest of this turn.
+
+#### Dodge
+Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
+
+#### Hide
+Make a DC 15 DEX (Stealth) Check to try to conceal yourself, while you're [Heavily Obscured](game_rules.md#heavily-obscured) or behind at least [Three-Quarters Cover](game_rules.md#cover) and out of any other enemy's line of sight. On a successful check you are mechanically [Invisible](conditions.md#invisible). Make note of your stealth check's total score, that is the DC for your enemy to find you without directly walking into line of sight. 
+The condition ends on you immediately after any of the following occurs: 
+  - you make a sound louder than a whisper.
+  - an enemy finds you.
+  - you make an Attack Roll.
+  - you cast a Spell with a Verbal component.
+
+#### Ready Action
+Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#trigger-readied-action) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
+
+When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an Action, and holding on to the spell's magic requires [Concentration](conditions.md#concentration), which you can maintain up to the start of your next turn. If your [Concentration](conditions.md#concentration) is broken, the spell dissipates without taking effect.
+
+#### Help
+When you take the Help action, you do one of the following:
+- **Assist an Ability Check.** Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an Ability check. That ally has Advantage on the next Ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
+- **Assist an Attack Roll.** You momentarily distract an enemy within range 1 *(1.5m)* of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+
+#### Influence, Search, Study, Utilize, or Stabilize
+Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
   - Influence a creature, like talk them down, distract them, or alter their attitude some other way. (Usually CHA)
   - Try to find something, like the source of some poison gas, the hidden switch on the wall to open the secret door, etc. (Usually WIS)
   - Study something, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
   - Versatile: Use, or do something with, some object, whatever it might be.
   - Attempt to stabilize another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
-- ***Help***: Help someone elses Ability Check or Attack Roll, giving them Advantage.
+  
 ### Default Reactions
-- **Opportunity Attack**: Melee Attack someone who is about to move out of your Melee reach (not if they're pushed or otherwise physically moved by force).
-- **Trigger Readied Action**: Trigger an Action you previously Readied.
+
+#### Opportunity Attack
+Melee Attack someone who is about to move out of your Melee Reach (not if they're pushed or otherwise physically moved by force).
+
+#### Trigger Readied Action
+Trigger an Action you previously [Readied](game_rules.md#ready-action).
 
 # Advanced Rules
 
@@ -189,6 +217,12 @@ Lightly Obscured area. Dim Light is usally a boundary between Bright Light and s
 ### Darkness
 Heavily Obscured area. Characters face Darkness outdoors at night, withing the confines of an unlit dungeon, or in an area of magical Darkness.
 - Attempting to see something Heavily Obscured is mechanically equivalent to being [Blinded](conditions.md#blinded).
+
+### Lightly Obscured
+Disadvantage on WIS (Perception) to see.
+### Heavily Obscured
+Attempting to see something Heavily Obscured is mechanically equivalent to being [Blind](conditions.md#blinded).
+
 ### Special senses
 #### Blindsight
 sense things moving around you. [TODO]
@@ -245,6 +279,20 @@ Gargantuan | 16 or more
 [TODO]
 Spell Slots, Visual, Semantic, Ritual, Concentration
 Only one Spell Slot consume per Turn. 
+
+
+### Schools of Magic
+
+School | Typical Effects
+ :-- | :--
+Abjuration | Prevents or reverses harmful effects
+Conjuration | Transports creatures or objects
+Divination | Reveals information
+Enchantment | Influences minds
+Evocation | Channels energy to create effects that are often destructive
+Illusion | Deceives the mind or senses
+Necromancy | Manipulates life and death
+Transmutation | Transforms creatures or objects
 
 ## Magic Items
 
