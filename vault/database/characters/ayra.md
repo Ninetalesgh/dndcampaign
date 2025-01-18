@@ -44,14 +44,7 @@
 
 ## Feats and Actions
 ### Actions
-[Attack](game_rules.md#turn-based-play#attack)
-[Dash](game_rules.md#turn-based-play#dash)
-[Disengage](game_rules.md#turn-based-play#disengage)
-[Dodge](game_rules.md#turn-based-play#dodge)
-[Hide](game_rules.md#turn-based-play#hide)
-[Ready Action](game_rules.md#turn-based-play#ready-action)
-[Help](game_rules.md#turn-based-play#help)
-[Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
+- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 - **Cantrips**: 
   - *Aasimar:* [Light](./../spells.md#spells-l#light)
@@ -67,8 +60,7 @@
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
-[Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
-[Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
+- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 - **Spells**
   *(none)*
 
