@@ -2,13 +2,23 @@
 ### Acid Vial
 *(grenade, Common)*
 - **Weight**: 500 g
-- **Price**: 25 gp
+- **Price**: 50 gp
 - **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* 2d6 Acid damage or half on a successful Save.
 ![\|50](https://bg3.wiki/w/images/7/73/GRN_Acid_Vial_Unfaded_Icon.png)
 *The liquid bubbles slightly as it dissolves any impurities on the inner glass.*
 *(Source: PHB'24, page222)*
+
+### Acidic Ooze
+*(ingredient, Common)*
+- **Weight**: 500g
+- **Price**: 25 gp
+- **Properties**:
+  - *Craft: Filter impurities through a sieve and boil in a crystal lined vial to crete an* [Acid Vial](dm/items.md#acid-vial).
+![\|50](https://bg3.wiki/w/images/3/3d/GRN_Poisonous_Slime_Bomb_Unfaded_Icon.png)
+*A soft ball of green slime. Thick drops slide down your fingers, stinging your skin.*
+*(Source: Baldur's Gate 3)*
 
 ### Airship
 *(vehicle (air), Common)*
@@ -260,7 +270,6 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 50 gp
 - **Properties**: Speed: 50, Carrying Capacity: 450/2 kg
-
 *(Source: PHB'24, page229)*
 
 ### Candle
@@ -480,7 +489,6 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 50 gp
 - **Properties**: Speed: 40, Carrying Capacity: 520 kg
-
 *(Source: PHB'24, page229)*
 
 ### Dragonchess Set
@@ -523,7 +531,6 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 200 gp
 - **Properties**: Speed: 40, Carrying Capacity: 1310 kg
-
 *(Source: PHB'24, page229)*
 
 ### Entertainer's Pack
@@ -1088,7 +1095,6 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: -
 - **Price**: 25 gp
 - **Properties**: Speed: 40, Carrying Capacity: 192.5 kg
-
 *(Source: PHB'24, page229)*
 
 ### Maul
@@ -1395,7 +1401,6 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Weight**: -
 - **Price**: 75 gp
 - **Properties**: Speed: 60, Carrying Capacity: 480/2 kg
-
 *(Source: PHB'24, page229)*
 
 ### Riding Saddle
