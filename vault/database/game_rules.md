@@ -221,7 +221,7 @@ Small | 1
 Medium | 1
 Large | 4
 Huge | 9
-Gargantuan | 16
+Gargantuan | 16 or more
 
 ## Creature Types
 
