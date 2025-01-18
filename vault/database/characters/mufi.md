@@ -83,8 +83,8 @@ Regain *(d8 + CON)* HP per expended dice.
 ##### Recalculate HP
 ##### Add 1 HP Die
 ##### Check Class Level-Up
-##### Switch Magic Initiate Spell
-Switch one of your Magic Initiate Spells with a different Cleric Spell of the same level.
+##### Switch 1 Wizard Cantrip
+##### Switch 1 Wizard Spell
 
 # Wizard Spells
 ## Cantrips

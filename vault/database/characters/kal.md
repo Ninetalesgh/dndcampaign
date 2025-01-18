@@ -89,6 +89,7 @@ Regain *(d8 + CON)* HP per expended dice.
 ##### Recalculate HP
 ##### Add 1 HP Die
 ##### Check Class Level-Up
+##### Switch 1 Druid Cantrip
 
 # Druid Spell Reference
 ## Cantrips
