@@ -1245,7 +1245,13 @@ It lasts for the duration or until a wind of moderate or greater speed (at least
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 2 *(3m)* of you throughout the casting. Atonement. You touch one willing creature whose alignment has changed, and you make a DC 20 WIS (Insight) check. On a successful check, you restore the target to its original alignment. Bless Water. You touch one vial of water and cause it to become holy water. Coming of Age. You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once. Dedication. You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a Save, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once. Funeral Rite. You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell. Wedding. You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 6 *(9m)* of each other. A creature can benefit from this rite again only if widowed.
+You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 2 *(3m)* of you throughout the casting.
+  - **Atonement.** You touch one willing creature whose alignment has changed, and you make a DC 20 WIS (Insight) check. On a successful check, you restore the target to its original alignment. 
+  - **Bless Water.** You touch one vial of water and cause it to become holy water. 
+  - **Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once. 
+  - **Dedication.** You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a Save, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once. 
+  - **Funeral Rite.** You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell. 
+  - **Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 6 *(9m)* of each other. A creature can benefit from this rite again only if widowed.
 - **Classes**: Cleric, Paladin
 *(Source: XGE, page 151)*
 
@@ -2055,8 +2061,9 @@ The creature is under your control for 24 hours, after which it stops obeying an
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You do one of the following:Create Water. You create up to 40 liters of clean water within range in an open container. Alternatively, the water falls as rain in a size 6 *(9m)* cube within range, extinguishing exposed flames there.
-Destroy Water. You destroy up to 40 liters of water in an open container within range. Alternatively, you destroy fog in a size 6 *(9m)* cube within range.
+You do one of the following:
+  - **Create Water.** You create up to 40 liters of clean water within range in an open container. Alternatively, the water falls as rain in a size 6 *(9m)* cube within range, extinguishing exposed flames there.
+  - **Destroy Water.** You destroy up to 40 liters of water in an open container within range. Alternatively, you destroy fog in a size 6 *(9m)* cube within range.
 **Using a Higher-Level Spell Slot.** You create or destroy 40 additional liters of water, or the size of the Cube increases by 1 *(1.5m)*, for each spell slot level above 1.
 - **Classes**: Cleric, Druid
 *(Source: PHB'24, page 258)*
