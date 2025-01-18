@@ -97,7 +97,7 @@ li{
   border: 2px solid var(--color-foreground-0);
   background-color: var(--color-inline-box);
   border-radius: 15px;
-  padding: 0 8px 0 8px;
+  padding: 0 5x 0 5px;
 }
 
 .external-link {
