@@ -7852,6 +7852,7 @@ For the duration, the willing creature you touch has Resistance to one damage ty
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 Until the spell ends, one willing creature you touch is protected against creatures that are Aberrations, Celestials, Elementals, Fey, Fiends, or Undead. The protection grants several benefits. Creatures of those types have Disadvantage on attack rolls against the target. The target also can't be possessed by or gain the [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened) conditions from them. If the target is already possessed, [Charmed](conditions.md#charmed), or [Frightened](conditions.md#frightened) by such a creature, the target has Advantage on any new Save against the relevant effect.
 - **Classes**: Cleric, Druid, Paladin, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/3/35/Protection_from_Evil_and_Good_Icon.webp)
 *(Source: PHB'24, page 309)*
 
 ### Protection from Poison
