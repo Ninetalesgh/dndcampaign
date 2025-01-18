@@ -1197,7 +1197,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
   *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. 
 
-  *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
+  *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#hooded-lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
 *(Source: PHB'24, page227)*
 
 ## Items P
@@ -1442,7 +1442,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
 - **Properties**: As a Utilize Action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
-You can bind an unwilling creature with the Rope only if the creature has the [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained) condition. If the creature's legs are bound, the creature has the [Restrained](conditions.md#restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
+You can bind an unwilling creature with the Rope only if the creature is [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained). If the creature's legs are bound, the creature is [Restrained](conditions.md#restrained) until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 *(Source: PHB'24, page228)*
 
 ### Rowboat
@@ -1692,7 +1692,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 5 sp
-- **Properties**: A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [Candle](dm/items.md#candle), [Lamp](dm/items.md#lamp), [Lantern](dm/items.md#lantern), or [Torch](dm/items.md#torch)—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+- **Properties**: A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [Candle](dm/items.md#candle), [Lamp](dm/items.md#lamp), [Lantern](dm/items.md#hooded-lantern), or [Torch](dm/items.md#torch)—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
 *(Source: PHB'24, page229)*
 
 ### Tinker's Tools
@@ -1709,7 +1709,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 1 cp
-- **Properties**: A Torch burns for 1 hour, casting Bright Light in a radius 4 *(6m)* sphere and Dim Light for another 4 *(6m)*. When you take the Attack Action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+- **Properties**: A Torch burns for 1 hour, casting [Bright Light](dm/items.md#bright-light) in a radius 4 *(6m)* sphere and [Dim Light](dm/items.md#dim-light) for another 4 *(6m)*. When you take the Attack Action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 *(Source: PHB'24, page229)*
 
 ### Traveler's Clothes
