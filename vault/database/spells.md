@@ -1,3 +1,5 @@
+
+
 # Spells A
 ### Abi-Dalzim's Horrid Wilting
 *Level 8 Necromancy*
@@ -40,6 +42,7 @@ You teleport to an unoccupied space you can see within 6 *(9m)*. If you have a c
 You create an acidic bubble at a point within range, where it explodes in a radius 1 *(1.5m)* sphere. Each creature in that Sphere must succeed on a DEX Save or take 1d6 Acid damage.
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/9/99/Acid_Splash_Icon.webp)
 *(Source: PHB'24, page 239)*
 
 ### Aftershock
@@ -73,6 +76,7 @@ A line of roaring flame 6 *(9m)* long and 1 *(1.5m)* wide emanates from you in a
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration.
 **Using a Higher-Level Spell Slot.** Each target's Hit Points increase by 5 for each spell slot level above 2.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/5/50/Aid_Icon.webp)
 *(Source: PHB'24, page 239)*
 
 ### Air Bubble
@@ -153,6 +157,7 @@ At the end of each of that creature's turns, it takes 1d6 Psychic damage for eac
 Target a Beast that you can see within range. The target must succeed on a WIS Save or be [Charmed](conditions.md#charmed) for the duration. If you or one of your allies deals damage to the target, the spells ends.
 **Using a Higher-Level Spell Slot.** You can target one additional Beast for each spell slot level above 1.
 - **Classes**: Bard, Druid, Ranger
+![\|50](https://bg3.wiki/w/images/3/36/Animal_Friendship_Icon.webp)
 *(Source: PHB'24, page 239)*
 
 ### Animal Messenger
@@ -191,6 +196,7 @@ On each of your turns, you can take a Bonus Action to mentally command any creat
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell rather than animating a new creature.
 **Using a Higher-Level Spell Slot.** You animate or reassert control over two additional Undead creatures for each spell slot level above 3. Each of the creatures must come from a different corpse or pile of bones.
 - **Classes**: Cleric, Wizard
+![\|50](https://bg3.wiki/w/images/2/2f/Animate_Dead_Icon.webp)
 *(Source: PHB'24, page 240)*
 
 ### Animate Objects
@@ -345,6 +351,7 @@ A portal is open on only one side (you choose which). Anything entering the open
 - **Duration**: Until dispelled
 You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 1 *(1.5m)* of the object, unlocks it for 1 minute.
 - **Classes**: Artificer, Wizard
+![\|50](https://bg3.wiki/w/images/7/79/Arcane_Lock_Icon.webp)
 *(Source: PHB'24, page 242)*
 
 ### Arcane Vigor
@@ -367,6 +374,7 @@ You tap into your life force to heal yourself. Roll one or two of your unexpende
 Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.
 **Using a Higher-Level Spell Slot.** The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/7/77/Armour_of_Agathys_Icon.webp)
 *(Source: PHB'24, page 243)*
 
 ### Arms of Hadar
@@ -378,6 +386,7 @@ Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a cr
 Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a radius 2 *(3m)* emanation originating from you makes a STR Save. On a failed save, a target takes 2d6 Necrotic damage and can't take Reactions until the start of its next turn. On a successful save, a target takes half as much damage only.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/3/3e/Arms_of_Hadar_Icon.webp)
 *(Source: PHB'24, page 243)*
 
 ### Ashardalon's Stride
@@ -531,7 +540,7 @@ At the end of each of its turns, an affected creature can repeat this Save, endi
 
 ### Banishing Smite
 *Level 5 Conjuration*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
@@ -776,6 +785,7 @@ Any creature in the wall's space makes a DEX Save, taking 6d10 Force damage on a
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Whenever a creature makes an attack roll against you before the spell ends, the attacker subtracts 1d4 from the attack roll.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/0/04/Blade_Ward_Icon.webp)
 *(Source: PHB'24, page 247)*
 
 ### Blade of Disaster
@@ -860,6 +870,7 @@ A creature that you can see within range makes a CON Save, taking 8d8 Necrotic d
 Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 4.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/e/e0/Blight_Icon.webp)
 *(Source: PHB'24, page 247)*
 
 ### Blightbirth
@@ -888,7 +899,7 @@ A creature reduced to 0 Hit Points by this damage is unaffected by the first sou
 
 ### Blinding Smite
 *Level 3 Evocation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute
@@ -906,6 +917,7 @@ The target hit by the strike takes an extra 3d8 Radiant damage from the attack, 
 One creature that you can see within range must succeed on a CON Save, or it is [Blinded](conditions.md#blinded) or [Deafened](conditions.md#deafened) (your choice) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/5/5a/Blindness_Icon.webp)
 *(Source: PHB'24, page 248)*
 
 ### Blink
@@ -917,6 +929,7 @@ One creature that you can see within range must succeed on a CON Save, or it is 
 Roll 1d6 at the end of each of your turns for the duration. On a roll of 4-6, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell ends instantly if you are already on that plane). While on the Ethereal Plane, you can perceive the plane you left, which is cast in shades of gray, but you can't see anything there more than 12 *(18m)* away. You can affect and be affected only by other creatures on the Ethereal Plane, and creatures on the other plane can't perceive you unless they have a special ability that lets them perceive things on the Ethereal Plane.
 You return to the other plane at the start of your next turn and when the spell ends if you are on the Ethereal Plane. You return to an unoccupied space of your choice that you can see within 2 *(3m)* of the space you left. If no unoccupied space is available within that range, you appear in the nearest unoccupied space.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/b3/Blink_Icon.webp)
 *(Source: PHB'24, page 248)*
 
 ### Blood Compass
@@ -1110,6 +1123,7 @@ A thin sheet of flames shoots forth from you. Each creature in a length 3 *(4.5m
 Flammable objects in the Cone that aren't being worn or carried start [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/cf/Burning_Hands_Icon.webp)
 *(Source: PHB'24, page 248)*
 
 ### Burning Tower Art
@@ -1137,6 +1151,7 @@ Until the spell ends, you can take a Magic action to call down lightning in that
 If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 3.
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/4/40/Activate_Call_Lightning_Icon.webp)
 *(Source: PHB'24, page 248)*
 
 ### Call to Feast
@@ -1265,6 +1280,7 @@ You launch a lightning bolt toward a target you can see within range. Three bolt
 Each target makes a DEX Save, taking 10d8 Lightning damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** One additional bolt leaps from the first target to another target for each spell slot level above 6.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c9/Chain_Lightning_Icon.webp)
 *(Source: PHB'24, page 249)*
 
 ### Chance Inversion
@@ -1354,6 +1370,7 @@ One creature you can see within range makes a WIS Save. It does so with Advantag
 One Humanoid you can see within range makes a WIS Save. It does so with Advantage if you or your allies are fighting it. On a failed save, the target is [Charmed](conditions.md#charmed) until the spell ends or until you or your allies damage it. The [Charmed](conditions.md#charmed) creature is Friendly to you. When the spell ends, the target knows it was [Charmed](conditions.md#charmed) by you.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Druid, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/b/bc/Charm_Person_Icon.webp)
 *(Source: PHB'24, page 249)*
 
 ### Charm Wall
@@ -1389,6 +1406,7 @@ When you cast spells with a range of Touch, you can choose for them to originate
 Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 **Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/0/03/Bone_Chill_Icon.webp)
 *(Source: PHB'24, page 249)*
 
 ### Chromatic Orb
@@ -1401,6 +1419,7 @@ You hurl an orb of energy at a target within range. Choose Acid, Cold, Fire, Lig
 If you roll the same number on two or more of the d8s, the orb leaps to a different target of your choice within 6 *(9m)* of the target. Make an attack roll against the new target, and make a new damage roll. The orb can't leap again unless you cast the spell with a level 2+ spell slot.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1. The orb can leap a maximum number of times equal to the level of the slot expended, and a creature can be targeted only once by each casting of this spell.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/8/8e/Chromatic_Orb_Icon.webp)
 *(Source: PHB'24, page 249)*
 
 ### Churnstone Roil
@@ -1425,6 +1444,7 @@ Caves, fissures, and simple structures in the area collapse; creatures trapped w
 Negative energy ripples out in a radius 12 *(18m)* sphere from a point you choose within range. Each creature in that area makes a CON Save, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for each spell slot level above 6.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/f/f2/Circle_of_Death_Icon.webp)
 *(Source: PHB'24, page 250)*
 
 ### Circle of Power
@@ -1478,7 +1498,7 @@ On your later turns, you can take a Magic action to teleport the Cube up to 6 *(
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
-You create a radius 4 *(6m)* sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by Gust of Wind) disperses it, ending the spell. Its area is Heavily Obscured.
+You create a radius 4 *(6m)* sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [Gust of Wind](spells.md#gust-of-wind)) disperses it, ending the spell. Its area is Heavily Obscured.
 Each creature in the Sphere makes a CON Save, taking 5d8 Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 The Sphere moves 2 *(3m)* away from you at the start of each of your turns.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 5.
@@ -1518,6 +1538,7 @@ If the object was a nonmagical weapon, shield, or suit of armor, it cracks and s
 - **Duration**: Instantaneous
 You launch a dazzling array of flashing, colorful light. Each creature in a length 3 *(4.5m)* cone originating from you must succeed on a CON Save or be [Blinded](conditions.md#blinded) until the end of your next turn.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/2/24/Colour_Spray_Icon.webp)
 *(Source: PHB'24, page 251)*
 
 ### Command
@@ -1526,13 +1547,15 @@ You launch a dazzling array of flashing, colorful light. Each creature in a leng
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You speak a one-word command to a creature you can see within range. The target must succeed on a WIS Save or follow the command on its next turn. Choose the command from these options:Approach. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 *(1.5m)* of you.
-Drop. The target drops whatever it is holding and then ends its turn.
-Flee. The target spends its turn moving away from you by the fastest available means.
-Grovel. The target is [Prone](conditions.md#prone) and then ends its turn.
-Halt. On its turn, the target doesn't move and takes no action or Bonus Action.
+You speak a one-word command to a creature you can see within range. The target must succeed on a WIS Save or follow the command on its next turn. Choose the command from these options:
+  - *Approach.* The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 *(1.5m)* of you.
+  - *Drop.* The target drops whatever it is holding and then ends its turn.
+  - *Flee.* The target spends its turn moving away from you by the fastest available means.
+  - *Grovel.* The target is [Prone](conditions.md#prone) and then ends its turn.
+  - *Halt.* On its turn, the target doesn't move and takes no action or Bonus Action.
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/7/7f/Command_Halt_Icon.webp)
 *(Source: PHB'24, page 251)*
 
 ### Command Ichor
@@ -1632,6 +1655,7 @@ If you do, the effect deals maximum damage, instead of rolling damage.
 You unleash a blast of cold air. Each creature in a length 12 *(18m)* cone originating from you makes a CON Save, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 5.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/e/ef/Cone_of_Cold_Icon.webp)
 *(Source: PHB'24, page 253)*
 
 ### Confinement Ring
@@ -1685,6 +1709,7 @@ Whenever the pack moves within 2 *(3m)* of a creature you can see and whenever a
 You brandish the weapon used to cast the spell and conjure similar spectral weapons (or ammunition appropriate to the weapon) that launch forward and then disappear. Each creature of your choice that you can see in a length 12 *(18m)* cone makes a DEX Save, taking 5d8 Force damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 3.
 - **Classes**: Ranger
+![\|50](https://bg3.wiki/w/images/d/df/Conjure_Barrage_Icon.webp)
 *(Source: PHB'24, page 254)*
 
 ### Conjure Celestial
@@ -1699,6 +1724,7 @@ Until the spell ends, Bright Light fills the Cylinder, and when you move on your
 Whenever the Cylinder moves into the space of a creature you can see and whenever a creature you can see enters the Cylinder or ends its turn there, you can bathe it in one of the lights. A creature can be affected by this spell only once per turn.
 **Using a Higher-Level Spell Slot.** The healing and damage increase by 1d12 for each spell slot level above 7.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/d/d8/Sights_of_the_Seelie_Summon_Deva_Icon.webp)
 *(Source: PHB'24, page 254)*
 
 ### Conjure Elemental
@@ -1711,6 +1737,7 @@ You conjure a Large, intangible spirit from the Elemental Planes that appears in
 Whenever a creature you can see enters the spirit's space or starts its turn within 1 *(1.5m)* of the spirit, you can force that creature to make a DEX Save if the spirit has no creature [Restrained](conditions.md#restrained). On failed save, the target takes 8d8 damage of the spirit's type, and the target is [Restrained](conditions.md#restrained) until the spell ends. At the start of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save. On a failed save, the target takes 4d8 damage of the spirit's type. On a successful save, the target isn't [Restrained](conditions.md#restrained) by the spirit.
 **Using a Higher-Level Spell Slot.** The damage increases by 2d8 for each spell slot level above 5.
 - **Classes**: Druid, Wizard
+![\|50](https://bg3.wiki/w/images/e/e6/Conjure_Elemental_Icon.webp)
 *(Source: PHB'24, page 254)*
 
 ### Conjure Fey
@@ -1792,6 +1819,7 @@ Your touch inflicts a magical contagion. The target must succeed on a CON Save o
 The target must repeat the Save at the end of each of its turns until it gets three successes or failures. If the target succeeds on three of these saves, the spell ends on the target. If the target fails three of the saves, the spell lasts for 7 days on it.
 Whenever the [Poisoned](conditions.md#poisoned) target receives an effect that would end the [Poisoned](conditions.md#poisoned) condition, the target must succeed on a CON Save, or the [Poisoned](conditions.md#poisoned) condition doesn't end on it.
 - **Classes**: Cleric, Druid
+![\|50](https://bg3.wiki/w/images/6/60/Contagion_Filth_Fever_Icon.webp)
 *(Source: PHB'24, page 256)*
 
 ### Contingency
@@ -1950,6 +1978,7 @@ Unless Surprised, a creature can avert its eyes to avoid this effect at the begi
 - **Duration**: Instantaneous
 You attempt to interrupt a creature in the process of casting a spell. The creature makes a CON Save. On a failed save, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/5/50/Counterspell_Icon.webp)
 *(Source: PHB'24, page 258)*
 
 ### Covetous Intercession
@@ -2053,6 +2082,7 @@ As a Bonus Action on each of your turns, you can mentally command any creature y
 The creature is under your control for 24 hours, after which it stops obeying any command you've given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell rather than animating new ones.
 **Using a Higher-Level Spell Slot.** If you use a level 7 spell slot, you can animate or reassert control over four Ghouls. If you use a level 8 spell slot, you can animate or reassert control over five Ghouls or two Ghasts or Wights. If you use a level 9 spell slot, you can animate or reassert control over six Ghouls, three Ghasts or Wights, or two Mummies. See the Monster Manual for these stat blocks.
 - **Classes**: Cleric, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/d/da/Create_Undead_Icon.webp)
 *(Source: PHB'24, page 258)*
 
 ### Create or Destroy Water
@@ -2066,6 +2096,7 @@ You do one of the following:
   - **Destroy Water.** You destroy up to 40 liters of water in an open container within range. Alternatively, you destroy fog in a size 6 *(9m)* cube within range.
 **Using a Higher-Level Spell Slot.** You create or destroy 40 additional liters of water, or the size of the Cube increases by 1 *(1.5m)*, for each spell slot level above 1.
 - **Classes**: Cleric, Druid
+![\|50](https://bg3.wiki/w/images/d/d1/Create_Water_Icon.webp)
 *(Source: PHB'24, page 258)*
 
 ### Creation
@@ -2178,6 +2209,7 @@ Gravity momentarily intensifies in the area within 3 *(4.5m)* of you. Each other
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.
 **Using a Higher-Level Spell Slot.** The healing increases by 2d8 for each spell slot level above 1.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/4/40/Cure_Wounds_Icon.webp)
 *(Source: PHB'24, page 259)*
 
 ### Curse of Frailty
@@ -2285,7 +2317,7 @@ Whenever the wreathed creature is hit with an attack, it takes an additional 1d6
 - **Components**: V, S
 - **Duration**: Instantaneous
 Requires language proficiency in DrowInvisible light flashes in a radius 4 *(6m)* sphere within range, searing unwary eyes.
-Each creature in the area takes 6d8 Radiant damage, then must make a DEX Saving Throw. On a failure, a creature cannot benefit from Darkvision or Truesight for the next hour, or until cured by Lesser Restoration or similar magic that could cure the [Blinded](conditions.md#blinded) condition.
+Each creature in the area takes 6d8 Radiant damage, then must make a DEX Saving Throw. On a failure, a creature cannot benefit from Darkvision or Truesight for the next hour, or until cured by [Lesser Restoration](spells.md#lesser-restoration) or similar magic that could cure the [Blinded](conditions.md#blinded) condition.
 **Using a Higher-Level Spell Slot.** The Radiant damage increases by 2d8 for every slot level above 6.
 - **Classes**: Cleric, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
@@ -2300,6 +2332,7 @@ For the duration, magical Darkness spreads from a point within range and fills a
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a radius 3 *(4.5m)* emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/5/56/Generic_Darkness_Icon.webp)
 *(Source: PHB'24, page 260)*
 
 ### Darkvision
@@ -2310,6 +2343,7 @@ If any of this spell's area overlaps with an area of Bright Light or Dim Light c
 - **Duration**: 8 hours
 For the duration, a willing creature you touch has Darkvision with a range of 30 *(45m)*.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/0/01/Darkvision_spell_Icon.webp)
 *(Source: PHB'24, page 260)*
 
 ### Darting Bolt
@@ -2357,6 +2391,7 @@ For the duration, sunlight spreads from a point within range and fills a radius 
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the sunlight to fill a radius 12 *(18m)* emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the sunlight.
 If any of this spell's area overlaps with an area of Darkness created by a spell of level 3 or lower, that other spell is dispelled.
 - **Classes**: Cleric, Druid, Paladin, Ranger, Sorcerer
+![\|50](https://bg3.wiki/w/images/6/6e/Daylight_Icon.webp)
 *(Source: PHB'24, page 260)*
 
 ### Deadly Image
@@ -2403,6 +2438,7 @@ While [Poisoned](conditions.md#poisoned) in this way, the creature takes 3d12 Ne
 You touch a creature and grant it a measure of protection from death. The first time the target would drop to 0 Hit Points before the spell ends, the target instead drops to 1 Hit Point, and the spell ends.
 If the spell is still in effect when the target is subjected to an effect that would kill it instantly without dealing damage, that effect is negated against the target, and the spell ends.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/8/84/Death_Ward_Icon.webp)
 *(Source: PHB'24, page 261)*
 
 ### Death-Fume Globe
@@ -2596,6 +2632,7 @@ Nonmagical plants within 2 *(3m)* of that space blacken, and each other creature
 - **Duration**: Instantaneous
 Destructive energy ripples outward from you in a radius 6 *(9m)* emanation. Each creature you choose in the Emanation makes a CON Save. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and is [Prone](conditions.md#prone). On a successful save, a target takes half as much damage only.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/f/fd/Destructive_Wave_Icon.webp)
 *(Source: PHB'24, page 261)*
 
 ### Detect Evil and Good
@@ -2607,6 +2644,7 @@ Destructive energy ripples outward from you in a radius 6 *(9m)* emanation. Each
 For the duration, you sense the location of any Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 6 *(9m)* of yourself. You also sense whether the Hallow spell is active there and, if so, where.
 The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sheet of lead.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/e/ef/Detect_Evil_and_Good_Icon.webp)
 *(Source: PHB'24, page 261)*
 
 ### Detect Magic
@@ -2676,6 +2714,7 @@ You teleport to a location within range. You arrive at exactly the spot desired.
 ""You can also teleport one willing creature. The creature must be within 1 *(1.5m)* of you when you teleport, and it teleports to a space within 1 *(1.5m)* of your destination space.
 If you, the other creature, or both would arrive in a space occupied by a creature or completely filled by one or more objects, you and any creature traveling with you each take 4d6 Force damage, and the teleportation fails.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/d/da/Dimension_Door_Icon.webp)
 *(Source: PHB'24, page 262)*
 
 ### Discharge
@@ -2698,7 +2737,7 @@ Your palm flares with black fire and you reach to grab a creature's flesh. Make 
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
 Your palm flares with black fire and you reach to grab a creature's flesh. Make a melee spell attack.
 On a hit, the target takes 4d6 Necrotic damage and must make a CON Save.
-On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHA  (Persuasion) checks until cured by Lesser Restoration or similar magic.
+On a failed save, the creature takes an additional 2d8 Slashing damage as a handprint of its skin peels away, leaving a terrible scar. The scarred creature suffers disadvantage on CHA  (Persuasion) checks until cured by [Lesser Restoration](spells.md#lesser-restoration) or similar magic.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 3 or higher, the Necrotic damage increases by 1d6 for each slot level above 2.
 - **Classes**: Cleric, Paladin, Sorcerer, Wizard
 *(Source: ConfluxCreatures)*
@@ -2726,6 +2765,7 @@ A creature targeted by this spell makes a DEX Save. On a failed save, the target
 This spell automatically disintegrates a Large or smaller nonmagical object or a creation of magical force. If such a target is Huge or larger, this spell disintegrates a size 2 *(3m)* cube portion of it.
 **Using a Higher-Level Spell Slot.** The damage increases by 3d6 for each spell slot level above 6.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/8/8a/Disintegrate_Icon.webp)
 *(Source: PHB'24, page 263)*
 
 ### Dispel Evil and Good
@@ -2736,6 +2776,7 @@ This spell automatically disintegrates a Large or smaller nonmagical object or a
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 For the duration, Celestials, Elementals, Fey, Fiends, and Undead have Disadvantage on attack rolls against you. You can end the spell early by using either of the following special functions. Break Enchantment. As a Magic action, you touch a creature that is possessed by or is [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened) from one or more creatures of the types above. The target is no longer possessed, [Charmed](conditions.md#charmed), or [Frightened](conditions.md#frightened) by such creatures. Dismissal. As a Magic action, you target one creature you can see within 1 *(1.5m)* of you that has one of the creature types above. The target must succeed on a CHA  Save or be sent back to its home plane if it isn't there already. If they aren't on their home plane, Undead are sent to the Shadowfell, and Fey are sent to the Feywild.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/f/f9/Dispel_Evil_And_Good_Break_Enchantment_Icon.webp)
 *(Source: PHB'24, page 263)*
 
 ### Dispel Magic
@@ -2782,6 +2823,7 @@ A creature that fails three consecutive Saves against this effect has its soul r
 One creature of your choice that you can see within range hears a discordant melody in its mind. The target makes a WIS Save. On a failed save, it takes 3d6 Psychic damage and must immediately use its Reaction, if available, to move as far away from you as it can, using the safest route. On a successful save, the target takes half as much damage only.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Bard
+![\|50](https://bg3.wiki/w/images/4/40/Dissonant_Whispers_Icon.webp)
 *(Source: PHB'24, page 264)*
 
 ### Distant Watchers' Draw
@@ -2833,7 +2875,7 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 
 ### Divine Smite
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
@@ -3018,6 +3060,7 @@ If the target is asleep, the messenger appears in the target's dreams and can co
 If the target is awake when you cast the spell, the messenger knows it and can either end the trance (and the spell) or wait for the target to sleep, at which point the messenger enters its dreams.
 You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a WIS Save. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
 - **Classes**: Bard, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/a/ae/Sleep_Icon.webp)
 *(Source: PHB'24, page 266)*
 
 ### Dream of the Blue Veil
@@ -3051,7 +3094,7 @@ The target must succeed on CON Save or take 4d8 Necrotic damage and be unable to
 - **Duration**: 24 hours
 You invoke the spirits of nature to protect an area outdoors or underground. The area can be as small as a size 6 *(9m)* cube or as large as a size 18 *(27m)* cube. Buildings and other structures are excluded from the affected area. If you cast this spell in the same area every day for a year, the spell lasts until dispelled.
 The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
-The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell's caster chooses which effect to end. Only when all its effects are gone is this spell dispelled. Solid Fog. You can fill any number ofa size 1 *(1.5m)* squares on the ground with thick fog, making them heavily obscured. The fog reaches 2 *(3m)* high. In addition, movement through the fog costs double. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air. Grasping Undergrowth. You can fill any number ofa size 1 *(1.5m)* squares on the ground that aren't filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds. Grove Guardians. You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can't speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can't leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible. Additional Spell Effect. You can place your choice of one of the following magical effects within the warded area:A constant gust of wind in two locations of your choiceSpike growth in one location of your choiceWind wall in two locations of your choiceTo a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.
+The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell's caster chooses which effect to end. Only when all its effects are gone is this spell dispelled. Solid Fog. You can fill any number ofa size 1 *(1.5m)* squares on the ground with thick fog, making them heavily obscured. The fog reaches 2 *(3m)* high. In addition, movement through the fog costs double. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of green light floating in the air. Grasping Undergrowth. You can fill any number ofa size 1 *(1.5m)* squares on the ground that aren't filled with fog with grasping weeds and vines, as if they were affected by an entangle spell. To a creature immune to this effect, the weeds and vines feel soft and reshape themselves to serve as temporary seats or beds. Grove Guardians. You can animate up to four trees in the area, causing them to uproot themselves from the ground. These trees have the same statistics as an awakened tree, which appears in the Monster Manual, except they can't speak, and their bark is covered with druidic symbols. If any creature not immune to this effect enters the warded area, the grove guardians fight until they have driven off or slain the intruders. The grove guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the grove guardians do nothing. The grove guardians can't leave the warded area. When the spell ends, the magic animating them disappears, and the trees take root again if possible. Additional Spell Effect. You can place your choice of one of the following magical effects within the warded area:A constant [Gust of Wind](spells.md#gust-of-wind) in two locations of your choiceSpike growth in one location of your choiceWind wall in two locations of your choiceTo a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.
 - **Classes**: Druid
 *(Source: XGE, page 154)*
 
@@ -3158,6 +3201,7 @@ A [Prone](conditions.md#prone) creature has Disadvantage on this Save.
 You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
 **Cantrip Upgrade.** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/d/db/Eldritch_Blast_Icon.webp)
 *(Source: PHB'24, page 267)*
 
 ### Eldritch Exegesis
@@ -3344,6 +3388,7 @@ You touch a creature and choose STR, DEX, INT, WIS, or CHA . For the duration, t
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a CON Save. On a successful save, the spell has no effect.
 Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target. Enlarge. The target's size increases by one category—from Medium to Large, for example. The target also has Advantage on STR checks and STR Saves. The target's attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit. Reduce. The target's size decreases by one category—from Medium to Small, for example. The target also has Disadvantage on STR checks and STR Saves. The target's attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1).
 - **Classes**: Artificer, Bard, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/e/ef/Reduce_Icon.webp)
 *(Source: PHB'24, page 268)*
 
 ### Ensnaring Strike
@@ -3356,6 +3401,7 @@ As you hit the target, grasping vines appear on it, and it makes a STR Save. A L
 While [Restrained](conditions.md#restrained), the target takes 1d6 Piercing damage at the start of each of its turns. The target or a creature within reach of it can take an action to make a STR (Athletics) check against your spell save DC. On a success, the spell ends.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Ranger
+![\|50](https://bg3.wiki/w/images/5/50/Ensnaring_Strike_Melee_Icon.webp)
 *(Source: PHB'24, page 268)*
 
 ### Entangle
@@ -3377,6 +3423,7 @@ Each creature (other than you) in the area when you cast the spell must succeed 
 - **Duration**: 1 minute
 You weave a distracting string of words, causing creatures of your choice that you can see within range to make a WIS Save. Any creature you or your companions are fighting automatically succeeds on this save. On a failed save, a target has a -10 penalty to WIS (Perception) checks and Passive Perception until the spell ends.
 - **Classes**: Bard, Warlock
+![\|50](https://bg3.wiki/w/images/9/90/Enthrall_Icon.webp)
 *(Source: PHB'24, page 269)*
 
 ### Entrench
@@ -3573,6 +3620,7 @@ Attack rolls against an affected creature or object have Advantage if the attack
 You gain 2d4 + 4 Temporary Hit Points.
 **Using a Higher-Level Spell Slot.** You gain 5 additional Temporary Hit Points for each spell slot level above 1.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/f/f2/False_Life_Icon.webp)
 *(Source: PHB'24, page 271)*
 
 ### Fanatic's Fervor
@@ -3676,6 +3724,7 @@ You touch a willing creature and put it into a cataleptic state that is indistin
 For the duration, the target appears dead to outward inspection and to spells used to determine the target's status. The target has the [Blinded](conditions.md#blinded) and [Incapacitated](conditions.md#incapacitated) conditions, and its Speed is 0.
 The target also has Resistance to all damage except Psychic damage, and it has Immunity to the [Poisoned](conditions.md#poisoned) condition.
 - **Classes**: Bard, Cleric, Druid, Wizard
+![\|50](https://bg3.wiki/w/images/f/fe/Feign_Death_Icon.webp)
 *(Source: PHB'24, page 271)*
 
 ### Felloil Rain
@@ -3720,6 +3769,7 @@ One creature you can see within range that is [Paralyzed](conditions.md#paralyze
 - **Duration**: Instantaneous
 You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands. Telepathic Connection. While your familiar is within 20 *(30m)* of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 20 *(30m)* of you, and it must take a Reaction to deliver the touch when you cast the spell. Combat. The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal. Disappearance of the Familiar. When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 6 *(9m)* of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying. One Familiar Only. You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+![\|50](https://bg3.wiki/w/images/8/8b/Find_Familiar_Cat_Icon.webp)
 - **Classes**: Wizard
 *(Source: PHB'24, page 272)*
 
@@ -3792,6 +3842,7 @@ A Humanoid killed by this spell rises at the start of your next turn as a Zombie
 You hurl a mote of fire at a creature or an object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Fire damage. A flammable object hit by this spell starts [Burning (1d6)](conditions.md#burning) if it isn't being worn or carried.
 **Cantrip Upgrade.** The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/2/23/Fire_Bolt_Icon.webp)
 *(Source: PHB'24, page 274)*
 
 ### Fire Shield
@@ -3804,6 +3855,7 @@ Wispy flames wreathe your body for the duration, shedding Bright Light in a radi
 The flames provide you with a warm shield or a chill shield, as you choose. The warm shield grants you Resistance to Cold damage, and the chill shield grants you Resistance to Fire damage.
 In addition, whenever a creature within 1 *(1.5m)* of you hits you with a melee attack roll, the shield erupts with flame. The attacker takes 2d8 Fire damage from a warm shield or 2d8 Cold damage from a chill shield.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/e/e0/Fire_Shield_Icon.webp)
 *(Source: PHB'24, page 274)*
 
 ### Fire Storm
@@ -3827,6 +3879,7 @@ A bright streak flashes from you to a point you choose within range and then blo
 Flammable objects in the area that aren't being worn or carried start [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/d/db/Fireball_Icon.webp)
 *(Source: PHB'24, page 274)*
 
 ### Fireburst
@@ -3908,6 +3961,7 @@ The flaming blade sheds Bright Light in a radius 2 *(3m)* sphere and Dim Light f
 A vertical column of brilliant fire roars down from above. Each creature in a radius 2 *(3m)* sphere, height 8 *(12m)* Cylinder centered on a point within range makes a DEX Save, taking 5d6 Fire damage and 5d6 Radiant damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The Fire damage and the Radiant damage increase by 1d6 for each spell slot level above 5.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/b/b8/Flame_Strike_Icon.webp)
 *(Source: PHB'24, page 275)*
 
 ### Flaming Sphere
@@ -4002,6 +4056,7 @@ Until the spell ends, your speed is doubled, attacks made against you have disad
 You touch a willing creature. For the duration, the target gains a Fly Speed of 12 *(18m)* and can hover. When the spell ends, the target falls if it is still aloft unless it can stop the fall.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/f/f3/Fly_Icon.webp)
 *(Source: PHB'24, page 276)*
 
 ### Foetid Fusation
@@ -4023,7 +4078,7 @@ Whenever one fused creature takes damage, the creature it is fused to takes the 
 - **Range**: 24 *(36m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
-You create a radius 4 *(6m)* sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by Gust of Wind) disperses it.
+You create a radius 4 *(6m)* sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by [Gust of Wind](spells.md#gust-of-wind)) disperses it.
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 4 *(6m)* for each spell slot level above 1.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
 *(Source: PHB'24, page 276)*
@@ -4156,6 +4211,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 In addition, the target can spend 1 *(1.5m)* of movement to automatically escape from nonmagical restraints, such as manacles or a creature imposing the [Grappled](conditions.md#grappled) condition on it.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger
+![\|50](https://bg3.wiki/w/images/f/f0/Freedom_of_Movement_Icon.webp)
 *(Source: PHB'24, page 277)*
 
 ### Freeze the Blood
@@ -4507,11 +4563,15 @@ A creature killed by this damage turns to shadow and melts away, disintegrating 
 - **Duration**: Until dispelled or triggered
 You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 2 *(3m)* in diameter. If the surface or object is moved more than 2 *(3m)* from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 The glyph is nearly imperceptible and requires a successful WIS (Perception) check against your spell save DC to notice.
-When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below. Set the Trigger. You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends.
-You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. Explosive Rune. When triggered, the glyph erupts with magical energy in a radius 4 *(6m)* sphere centered on the glyph. Each creature in the area makes a DEX Save. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one. Spell Glyph. You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
+When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below. 
+- **Set the Trigger.** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends.
+You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. 
+- **Explosive Rune**. When triggered, the glyph erupts with magical energy in a radius 4 *(6m)* sphere centered on the glyph. Each creature in the area makes a DEX Save. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one. 
+- **Spell Glyph.** You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
 When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
 **Using a Higher-Level Spell Slot.** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
 - **Classes**: Artificer, Bard, Cleric, Wizard
+![\|50](https://bg3.wiki/w/images/8/88/Glyph_of_Warding_Icon.webp)
 *(Source: PHB'24, page 279)*
 
 ### Gnawbore
@@ -4536,6 +4596,7 @@ This spell's damage increases by 1d4 when you reach 5th level (2d4), 11th level 
 Ten berries appear in your hand and are infused with magic for the duration. A creature can take a Bonus Action to eat one berry. Eating a berry restores 1 Hit Point, and the berry provides enough nourishment to sustain a creature for one day.
 Uneaten berries disappear when the spell ends.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/4/42/Goodberry_Icon.webp)
 *(Source: PHB'24, page 280)*
 
 ### Gore Inversion
@@ -4580,6 +4641,7 @@ Make a melee spell attack against a creature within 6 *(9m)* of the vine. On a h
 As a Bonus Action on your later turns, you can repeat the attack against a creature within 6 *(9m)* of the vine.
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/8/8b/Grasping_Vine_Icon.webp)
 *(Source: PHB'24, page 280)*
 
 ### Grave Terror
@@ -4634,6 +4696,7 @@ You extend your hand and light and air distort as gravity intensifies in a line 
 Nonflammable grease covers the ground in a size 2 *(3m)* square centered on a point within range and turns it into Difficult Terrain for the duration.
 When the grease appears, each creature standing in its area must succeed on a DEX Save or be [Prone](conditions.md#prone). A creature that enters the area or ends its turn there must also succeed on that save or fall [Prone](conditions.md#prone).
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/7a/Grease_Icon.webp)
 *(Source: PHB'24, page 280)*
 
 ### Greasebody
@@ -4670,6 +4733,7 @@ A creature you touch is [Invisible](conditions.md#invisible) until the spell end
 - **Duration**: Instantaneous
 You touch a creature and magically remove one of the following effects from it:1 Exhaustion levelThe [Charmed](conditions.md#charmed) or [Petrified](conditions.md#petrified) conditionA curse, including the target's Attunement to a cursed magic itemAny reduction to one of the target's ability scoresAny reduction to the target's Hit Point maximum
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/e/ee/Greater_Restoration_Icon.webp)
 *(Source: PHB'24, page 281)*
 
 ### Green-Flame Blade
@@ -4692,6 +4756,7 @@ This spell's damage increases when you reach certain levels. At 5th level, the m
 A Large spectral guardian appears and hovers for the duration in an unoccupied space that you can see within range. The guardian occupies that space and is invulnerable, and it appears in a form appropriate for your deity or pantheon.
 Any enemy that moves to a space within 2 *(3m)* of the guardian for the first time on a turn or starts its turn there makes a DEX Save, taking 20 Radiant damage on a failed save or half as much damage on a successful one. The guardian vanishes when it has dealt a total of 60 damage.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/7/7d/Guardian_of_Faith_Icon.webp)
 *(Source: PHB'24, page 281)*
 
 ### Guardian of Nature
@@ -4718,7 +4783,7 @@ While you are on the ground, the ground within 3 *(4.5m)* of you is difficult te
 - **Duration**: 24 hours
 You create a ward that protects up to 250 m² of floor space. The warded area can be up to 4 *(6m)* tall, and you shape it as onea size 10 *(15m)* square, one hundreda size 1 *(1.5m)* squares that are contiguous, or twenty-fivea size 2 *(3m)* squares that are contiguous.
 When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 1 *(1.5m)* of the warded area, makes the speaker immune to its effects.
-The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled. Corridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses. Doors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall. Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts. Other Spell Effect. Place one of the following magical effects within the warded area:Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lastsMagic Mouth in two locationsStinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)Gust of Wind in one corridor or room (the wind blows continuously while the spell lasts)Suggestion in onea size 1 *(1.5m)* square; any creature that enters that square receives the suggestion mentally
+The spell creates the effects below within the warded area. Dispel Magic has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled. Corridors. Fog fills all the warded corridors, making them Heavily Obscured. In addition, at each intersection or branching passage offering a choice of direction, there is a 50 percent chance that a creature other than you believes it is going in the opposite direction from the one it chooses. Doors. All doors in the warded area are magically locked, as if sealed by the Arcane Lock spell. In addition, you can cover up to ten doors with an illusion to make them appear as plain sections of wall. Stairs. Webs fill all stairs in the warded area from top to bottom, as in the Web spell. These strands regrow in 10 minutes if they are destroyed while Guards and Wards lasts. Other Spell Effect. Place one of the following magical effects within the warded area:Dancing Lights in four corridors, with a simple program that the lights repeat as long as Guards and Wards lastsMagic Mouth in two locationsStinking Cloud in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)[Gust of Wind](spells.md#gust-of-wind) in one corridor or room (the wind blows continuously while the spell lasts)Suggestion in onea size 1 *(1.5m)* square; any creature that enters that square receives the suggestion mentally
 - **Classes**: Bard, Wizard
 *(Source: PHB'24, page 282)*
 
@@ -4741,6 +4806,7 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 You hurl a bolt of light toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 4d6 Radiant damage, and the next attack roll made against it before the end of your next turn has Advantage.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/2/2c/Guiding_Bolt_Icon.webp)
 *(Source: PHB'24, page 282)*
 
 ### Gust
@@ -4780,6 +4846,7 @@ Any creature in the Line must spend 0.
 The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/5/58/Gust_of_Wind_Icon.webp)
 *(Source: PHB'24, page 282)*
 
 ### Gyre Trap
@@ -4805,6 +4872,7 @@ If this spell targeted an area of water, a creature that fails this Save additio
 As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 1 *(1.5m)* of it make a DEX Save, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 - **Classes**: Ranger
+![\|50](https://bg3.wiki/w/images/6/63/Hail_of_Thorns_Icon.webp)
 *(Source: PHB'24, page 283)*
 
 ### Hallow
@@ -4868,6 +4936,7 @@ A target affected by one or more spells that increase its armor class takes an a
 - **Duration**: Instantaneous
 You unleash virulent magic on a creature you can see within range. The target makes a CON Save. On a failed save, it takes 14d6 Necrotic damage, and its Hit Point maximum is reduced by an amount equal to the Necrotic damage it took. On a successful save, it takes half as much damage only. This spell can't reduce a target's Hit Point maximum below 1.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/0/09/Harm_Icon.webp)
 *(Source: PHB'24, page 283)*
 
 ### Harmless Gift
@@ -4902,6 +4971,7 @@ When the spell ends, the target is [Incapacitated](conditions.md#incapacitated) 
 Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 Hit Points. This spell also ends the [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), and [Poisoned](conditions.md#poisoned) conditions on the target.
 **Using a Higher-Level Spell Slot.** The healing increases by 10 for each spell slot level above 6.
 - **Classes**: Cleric, Druid
+![\|50](https://bg3.wiki/w/images/d/d3/Heal_Icon.webp)
 *(Source: PHB'24, page 284)*
 
 ### Healing Spirit
@@ -4926,7 +4996,8 @@ As a bonus action on your turn, you can move the spirit up to 6 *(9m)* to a spac
 A creature of your choice that you can see within range regains Hit Points equal to 2d4 plus your spellcasting ability modifier.
 **Using a Higher-Level Spell Slot.** The healing increases by 2d4 for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Druid
-*(Source: PHB'24, page 284)*
+![\|50](https://bg3.wiki/w/images/e/ef/Healing_Word_Icon.webp)
+*(Source: PHB'24 page 284)*
 
 ### Heartless Summoning
 *Level 6 Conjuration*
@@ -5030,6 +5101,7 @@ Damage dealt by this spell ignores resistance to Fire damage, and treats immunit
 The creature that damaged you is momentarily surrounded by green flames. It makes a DEX Save, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/8/82/Hellish_Rebuke_Icon.webp)
 *(Source: PHB'24, page 284)*
 
 ### Heroes' Feast
@@ -5041,6 +5113,7 @@ The creature that damaged you is momentarily surrounded by green flames. It make
 You conjure a feast that appears on a surface in an unoccupieda size 2 *(3m)* cube next to you. The feast takes 1 hour to consume and disappears at the end of that time, and the beneficial effects don't set in until this hour is over. Up to twelve creatures can partake of the feast.
 A creature that partakes gains several benefits, which last for 24 hours. The creature has Resistance to Poison damage, and it has Immunity to the [Frightened](conditions.md#frightened) and [Poisoned](conditions.md#poisoned) conditions. Its Hit Point maximum also increases by 2d10, and it gains the same number of Hit Points.
 - **Classes**: Bard, Cleric, Druid
+![\|50](https://bg3.wiki/w/images/a/a0/Heroes%27_Feast_Icon.webp)
 *(Source: PHB'24, page 284)*
 
 ### Heroism
@@ -5086,6 +5159,7 @@ Choose a creature that you can see within range. The target must succeed on a WI
 Choose a Humanoid that you can see within range. The target must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** You can target one additional Humanoid for each spell slot level above 2.
 - **Classes**: Bard, Cleric, Druid, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/7/75/Hold_Person_Icon.webp)
 *(Source: PHB'24, page 286)*
 
 ### Holy Aura
@@ -5201,6 +5275,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 You create a shard of ice and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 Piercing damage. Hit or miss, the shard then explodes. The target and each creature within 1 *(1.5m)* of it must succeed on a DEX Save or take 2d6 Cold damage.
 **Using a Higher-Level Spell Slot.** The Cold damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/1/17/Ice_Knife_Icon.webp)
 *(Source: PHB'24, page 287)*
 
 ### Ice Needle Hail
@@ -5223,6 +5298,7 @@ Hail falls in a radius 4 *(6m)* sphere, height 8 *(12m)* Cylinder centered on a 
 Hailstones turn ground in the Cylinder into Difficult Terrain until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/9/9b/Ice_Storm_Icon.webp)
 *(Source: PHB'24, page 287)*
 
 ### Ichordart Swarm
@@ -5320,7 +5396,7 @@ A Dispel Magic spell can end the spell only if it is cast with a level 9 spell s
 - **Range**: 30 *(45m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-A swirling cloud of embers and smoke fills a radius 4 *(6m)* sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by Gust of Wind) disperses it.
+A swirling cloud of embers and smoke fills a radius 4 *(6m)* sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by [Gust of Wind](spells.md#gust-of-wind)) disperses it.
 When the cloud appears, each creature in it makes a DEX Save, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
 The cloud moves 2 *(3m)* away from you in a direction you choose at the start of each of your turns.
 - **Classes**: Druid, Sorcerer, Wizard
@@ -5416,6 +5492,7 @@ The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (
 A creature you touch makes a CON Save, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 1.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/3/3d/Inflict_Wounds_Icon.webp)
 *(Source: PHB'24, page 288)*
 
 ### Inquisition of Vice
@@ -5634,6 +5711,7 @@ Of the many tactics employed by master magician and renowned adventurer Jim Dark
 If the attack roll scores a critical hit, the target of that missile takes 5d4 force damage instead of you rolling damage twice for a critical hit. If the attack roll for any missile is a 1, all missiles miss their targets and blow up in your face, dealing 1 force damage per missile to you.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart, and the royalty component increases by 1 gp, for each slot level above 1st.
 - **Classes**: Wizard
+![\|50](https://bg3.wiki/w/images/d/d4/Magic_Missile_Icon.webp)
 *(Source: AI, page 76)*
 
 ### Jump
@@ -5684,6 +5762,7 @@ A target that is held shut by a mundane lock or that is stuck or barred becomes 
 If the target is held shut by Arcane Lock, that spell is suppressed for 10 minutes, during which time the target can be opened and closed.
 When you cast the spell, a loud knock, audible up to 60 *(90m)* away, emanates from the target.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/a4/Knock_Icon.webp)
 *(Source: PHB'24, page 290)*
 
 ### Knowledge of the Hour
@@ -5776,6 +5855,7 @@ The spell ends early if you leave the Emanation or if you cast it again.
 - **Duration**: Instantaneous
 You touch a creature and end one condition on it: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), [Paralyzed](conditions.md#paralyzed), or [Poisoned](conditions.md#poisoned).
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/e/e4/Lesser_Restoration_Icon.webp)
 *(Source: PHB'24, page 291)*
 
 ### Levitate
@@ -5810,6 +5890,7 @@ You sacrifice some of your health to mend another creature's injuries. You take 
 You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a radius 4 *(6m)* sphere and Dim Light for an additional 4 *(6m)*. The light can be colored as you like.
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 - **Classes**: Artificer, Bard, Cleric, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/5/5c/Light_Icon.webp)
 *(Source: PHB'24, page 292)*
 
 ### Lightfind
@@ -5832,6 +5913,7 @@ As your attack hits or misses the target, the weapon or ammunition you're using 
 The weapon or ammunition then returns to its normal form.
 **Using a Higher-Level Spell Slot.** The damage for both effects of the spell increases by 1d8 for each spell slot level above 3.
 - **Classes**: Ranger
+![\|50](https://bg3.wiki/w/images/e/e3/Lightning_Arrow_Icon.webp)
 *(Source: PHB'24, page 292)*
 
 ### Lightning Bolt
@@ -5843,6 +5925,7 @@ The weapon or ammunition then returns to its normal form.
 A stroke of lightning forming a undefined, undefined Line blasts out from you in a direction you choose. Each creature in the Line makes a DEX Save, taking 8d6 Lightning damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/cb/Lightning_Bolt_Icon.webp)
 *(Source: PHB'24, page 292)*
 
 ### Lightning Burst
@@ -6052,6 +6135,7 @@ A swirling mass of depth 1 *(1.5m)* water appears in a radius 6 *(9m)* circle ce
 - **Duration**: 8 hours
 You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its DEX modifier. The spell ends early if the target dons armor.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/0/0d/Mage_Armour_Icon.webp)
 *(Source: PHB'24, page 293)*
 
 ### Mage Hand
@@ -6065,6 +6149,7 @@ When you cast the spell, you can use the hand to manipulate an object, open an u
 As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 6 *(9m)*.
 The hand can't attack, activate magic items, or carry more than 5kg.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/f/f9/Mage_Hand_Icon.webp)
 *(Source: PHB'24, page 293)*
 
 ### Magic Circle
@@ -6107,6 +6192,7 @@ When the spell ends, the container is destroyed.
 You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 **Using a Higher-Level Spell Slot.** The spell creates one more dart for each spell slot level above 1.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/d/d4/Magic_Missile_Icon.webp)
 *(Source: PHB'24, page 295)*
 
 ### Magic Mouth
@@ -6215,6 +6301,7 @@ The target loses the ability to cast that spell for the next minute.
 A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a radius 6 *(9m)* sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
 **Using a Higher-Level Spell Slot.** The healing increases by 1d8 for each spell slot level above 5.
 - **Classes**: Bard, Cleric, Druid
+![\|50](https://bg3.wiki/w/images/3/32/Mass_Cure_Wounds_Icon.webp)
 *(Source: PHB'24, page 296)*
 
 ### Mass Heal
@@ -6236,6 +6323,7 @@ A flood of healing energy flows from you into creatures around you. You restore 
 Up to six creatures of your choice that you can see within range regain Hit Points equal to 2d4 plus your spellcasting ability modifier.
 **Using a Higher-Level Spell Slot.** The healing increases by 1d4 for each spell slot level above 3.
 - **Classes**: Bard, Cleric
+![\|50](https://bg3.wiki/w/images/f/f8/Mass_Healing_Word_Icon.webp)
 *(Source: PHB'24, page 296)*
 
 ### Mass Polymorph
@@ -6322,6 +6410,7 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 A shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 Acid damage and 2d4 Acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage only.
 **Using a Higher-Level Spell Slot.** The damage (both initial and later) increases by 1d4 for each spell slot level above 2.
 - **Classes**: Wizard
+![\|50](https://bg3.wiki/w/images/6/67/Melf%27s_Acid_Arrow_Icon.webp)
 *(Source: PHB'24, page 297)*
 
 ### Melf's Minute Meteors
@@ -6495,6 +6584,7 @@ This spell does not allow you to detect when creatures are attempting to read yo
 You create a sound or an image of an object within range that lasts for the duration. See the descriptions below for the effects of each. The illusion ends if you cast this spell again.
 If a creature takes a Study action to examine the sound or image, the creature can determine that it is an illusion with a successful INT (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature. Sound. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughout the duration, or you can make discrete sounds at different times before the spell ends. Image. If you create an image of an object—such as a chair, muddy footprints, or a small chest—it must be no larger than a size 1 *(1.5m)* cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction with the image reveals it to be an illusion, since things can pass through it.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/9/9d/Minor_Illusion_Icon.webp)
 *(Source: PHB'24, page 298)*
 
 ### Mirage Arcane
@@ -6520,6 +6610,7 @@ Three illusory duplicates of yourself appear in your space. Until the spell ends
 Each time a creature hits you with an attack roll during the spell's duration, roll a d6 for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 A creature is unaffected by this spell if it is [Blinded](conditions.md#blinded), Blindsight, or Truesight.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/4/41/Mirror_Image_Icon.webp)
 *(Source: PHB'24, page 299)*
 
 ### Misdirection
@@ -6552,6 +6643,7 @@ You can see through its eyes and hear through its ears as if you were located wh
 - **Duration**: Instantaneous
 Briefly surrounded by silvery mist, you teleport up to 6 *(9m)* to an unoccupied space you can see.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/1/1f/Misty_Step_Icon.webp)
 *(Source: PHB'24, page 299)*
 
 ### Modify Memory
@@ -7168,6 +7260,7 @@ If the globe strikes a body of water, it freezes the water to a depth of 15cm ov
 You can refrain from firing the globe after completing the spell's casting. If you do so, a globe about the size of a sling bullet, cool to the touch, appears in your hand. At any time, you or a creature you give the globe to can throw the globe (to a range of 8 *(12m)*) or hurl it with a sling (to the sling's normal range). It shatters on impact, with the same effect as a normal casting of the spell. You can also set the globe down without shattering it. After 1 minute, if the globe hasn't already shattered, it explodes.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 6.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/af/Otiluke%27s_Freezing_Sphere_Icon.webp)
 *(Source: PHB'24, page 302)*
 
 ### Otiluke's Resilient Sphere
@@ -7349,6 +7442,7 @@ Payment can take a variety of forms. A Celestial might require a sizable donatio
 A task that can be measured in minutes requires a payment worth 100 GP per minute. A task measured in hours requires 1,000 GP per hour. And a task measured in days (up to 10 days) requires 10,000 GP per day. The DM can adjust these payments based on the circumstances under which you cast the spell. If the task is aligned with the creature's ethos, the payment might be halved or even waived. Nonhazardous tasks typically require only half the suggested payment, while especially dangerous tasks might require a greater gift. Creatures rarely accept tasks that seem suicidal.
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/f/f3/Planar_Ally_Icon.webp)
 *(Source: PHB'24, page 304)*
 
 ### Planar Binding
@@ -7385,6 +7479,7 @@ This spell channels vitality into plants. The casting time you use determines wh
 8 *(1.
 2000000000000002m)* of movement for every 30cm it moves. You can exclude one or more areas of any size within the spell's area from being affected. Enrichment. All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 - **Classes**: Bard, Druid, Ranger
+![\|50](https://bg3.wiki/w/images/a/ad/Plant_Growth_Icon.webp)
 *(Source: PHB'24, page 305)*
 
 ### Poison Edge
@@ -7408,6 +7503,7 @@ When you cast this spell, you lose one hit point, then may choose to lose one un
 You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 **Cantrip Upgrade.** The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 - **Classes**: Artificer, Druid, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/1/1d/Poison_Spray_Icon.webp)
 *(Source: PHB'24, page 306)*
 
 ### Poison Thoughts
@@ -7456,6 +7552,7 @@ You speak a word of power that wraps one creature you can see within range in an
 If the target has 150 Hit Points or fewer and it needs to breathe air, it gains the [Choking](conditions.md#choking) and Suffocating conditions for the duration. Otherwise, the spell has no effect.
 The target makes an INT Saving Throw at the end of each of its turns, ending this effect on a success.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/5/54/Power_Word_Ruin_Icon.webp)
 *(Source: ConfluxCreatures)*
 
 ### Power Word Fortify
@@ -7498,6 +7595,7 @@ If the creature would make death Saves, it does so as normal.
 - **Duration**: Instantaneous
 You compel one creature you can see within range to die. If the target has 100 Hit Points or fewer, it dies. Otherwise, it takes 12d12 Psychic damage.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/1/1e/Power_Word_Kill_Icon.webp)
 *(Source: PHB'24, page 306)*
 
 ### Power Word Pain
@@ -7543,6 +7641,7 @@ You speak a word of Power, targeting a creature you can see within range. The ta
 Up to five creatures of your choice who remain within range for the spell's entire casting gain the benefits of a Short Rest and also regain 2d8 Hit Points. A creature can't be affected by this spell again until that creature finishes a Long Rest.
 **Using a Higher-Level Spell Slot.** The healing increases by 1d8 for each spell slot level above 2.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/e/e0/Prayer_of_Healing_Icon.webp)
 *(Source: PHB'24, page 307)*
 
 ### Predictive Sway
@@ -7647,7 +7746,7 @@ The wall sheds Bright Light within 20 *(30m)* and Dim Light for an additional 20
 The wall consists of seven layers, each with a different color. When a creature reaches into or passes through the wall, it does so one layer at a time through all the layers. Each layer forces the creature to make a DEX Save or be affected by that layer's properties as described in the Prismatic Layers table.
 The wall, which has AC 10, can be destroyed one layer at a time, in order from red to violet, by means specific to each layer. If a layer is destroyed, it is gone for the duration. Antimagic Field has no effect on the wall, and Dispel Magic can affect only the violet layer.
 Prismatic LayersOrderEffects1Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage. Additional Effects: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage.
-2Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage. Additional Effects: Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by Gust of Wind).
+2Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage. Additional Effects: Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [Gust of Wind](spells.md#gust-of-wind)).
 3Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage. Additional Effects: The layer is destroyed if it takes at least 60 Force damage.
 4Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage. Additional Effects: A Passwall spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer.
 5Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage. Additional Effects: The layer is destroyed if it takes at least 25 Fire damage.
@@ -7677,6 +7776,7 @@ A flickering flame appears in your hand and remains there for the duration. Whil
 Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 12 *(18m)* of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/e/ec/Produce_Flame_Icon.webp)
 *(Source: PHB'24, page 308)*
 
 ### Profane Fate
@@ -7723,6 +7823,7 @@ Physical interaction with the image reveals it to be illusory, since things can 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 For the duration, the willing creature you touch has Resistance to one damage type of your choice: Acid, Cold, Fire, Lightning, or Thunder.
 - **Classes**: Artificer, Cleric, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/a9/Protection_from_Energy_Thunder_Icon.webp)
 *(Source: PHB'24, page 309)*
 
 ### Protection from Evil and Good
@@ -7743,6 +7844,7 @@ Until the spell ends, one willing creature you touch is protected against creatu
 - **Duration**: 1 hour
 You touch a creature and end the [Poisoned](conditions.md#poisoned) condition on it. For the duration, the target has Advantage on Saves to avoid or end the [Poisoned](conditions.md#poisoned) condition, and it has Resistance to Poison damage.
 - **Classes**: Artificer, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/3/3b/Protection_from_Poison_Icon.webp)
 *(Source: PHB'24, page 310)*
 
 ### Psychic Lance
@@ -7957,6 +8059,7 @@ The target must make an INT Save. On a failed save, the target takes 7d6 psychic
 A beam of enervating energy shoots from you toward a creature within range. The target must make a CON Save. On a successful save, the target has Disadvantage on the next attack roll it makes until the start of your next turn.
 On a failed save, the target has Disadvantage on STR-based D20 Tests for the duration. During that time, it also subtracts 1d8 from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 - **Classes**: Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/7/7b/Ray_of_Enfeeblement_Icon.webp)
 *(Source: PHB'24, page 311)*
 
 ### Ray of Frost
@@ -7968,6 +8071,7 @@ On a failed save, the target has Disadvantage on STR-based D20 Tests for the dur
 A frigid beam of blue-white light streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 Cold damage, and its Speed is reduced by 2 *(3m)* until the start of your next turn.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/f/f9/Ray_of_Frost_Icon.webp)
 *(Source: PHB'24, page 311)*
 
 ### Ray of Sickness
@@ -7979,6 +8083,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d8 Poison damage and is [Poisoned](conditions.md#poisoned) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/74/Ray_of_Sickness_Icon.webp)
 *(Source: PHB'24, page 311)*
 
 ### Razor Breach
@@ -8057,6 +8162,7 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 - **Duration**: Instantaneous
 At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's Attunement to the object so it can be removed or discarded.
 - **Classes**: Cleric, Paladin, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/7/7f/Remove_Curse_Icon.webp)
 *(Source: PHB'24, page 312)*
 
 ### Rend Magic
@@ -8187,6 +8293,7 @@ If a ceiling or an anchored object is encountered in this upward fall, creatures
 - **Duration**: Instantaneous
 You touch a creature that has died within the last minute. That creature revives with 1 Hit Point. This spell can't revive a creature that has died of old age, nor does it restore any missing body parts.
 - **Classes**: Artificer, Cleric, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/5/59/Revivify_Icon.webp)
 *(Source: PHB'24, page 312)*
 
 ### Rime Shackle
@@ -8282,6 +8389,7 @@ Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Sa
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a DEX Save or take 1d8 Radiant damage. The target gains no benefit from Half Cover or Three-Quarters Cover for this save.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/1/16/Sacred_Flame_Icon.webp)
 *(Source: PHB'24, page 313)*
 
 ### Salt Wounds
@@ -8305,6 +8413,7 @@ If the target is [Bleeding](conditions.md#bleeding), this damage is maximized an
 You ward a creature within range. Until the spell ends, any creature who targets the warded creature with an attack roll or a damaging spell must succeed on a WIS Save or either choose a new target or lose the attack or spell. This spell doesn't protect the warded creature from areas of effect.
 The spell ends if the warded creature makes an attack roll, casts a spell, or deals damage.
 - **Classes**: Artificer, Cleric
+![\|50](https://bg3.wiki/w/images/c/c1/Sanctuary_Icon.webp)
 *(Source: PHB'24, page 313)*
 
 ### Sanctum Arms
@@ -8373,6 +8482,7 @@ For each failed Save, a creature takes 3d6 damage of one type of your choice. Th
 You hurl three fiery rays. You can hurl them at one target within range or at several. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 Fire damage.
 **Using a Higher-Level Spell Slot.** You create one additional ray for each spell slot level above 2.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/8/8e/Scorching_Ray_Icon.webp)
 *(Source: PHB'24, page 314)*
 
 ### Scour
@@ -8463,7 +8573,7 @@ While [Restrained](conditions.md#restrained) in this way, the creature takes 4d1
 
 ### Searing Smite
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute
@@ -8480,6 +8590,7 @@ As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the
 - **Duration**: 1 hour
 For the duration, you see creatures and objects that be [Invisible](conditions.md#invisible) as if they were visible, and you can see into the Ethereal Plane. Creatures and objects there appear ghostly.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c3/See_Invisibility_Icon.webp)
 *(Source: PHB'24, page 314)*
 
 ### Seeming
@@ -8493,6 +8604,7 @@ You can give the same appearance or different ones to the targets. The spell can
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 A creature that takes the Study action to examine a target can make an INT (Investigation) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/f/f4/Seeming_Icon.webp)
 *(Source: PHB'24, page 314)*
 
 ### Sending
@@ -8653,6 +8765,7 @@ A loud noise erupts from a point of your choice within range. Each creature in a
 A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 2.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c5/Shatter_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shatter Plume
@@ -8677,6 +8790,7 @@ Damage dealt by this spell ignores resistance and immunity to Cold damage.
 - **Duration**: 1 round
 An imperceptible barrier of magical force protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from Magic Missile.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/cf/Shield_spell_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shield of Bones
@@ -8710,17 +8824,19 @@ A Club or Quarterstaff you are holding is imbued with nature's power. For the du
 The spell ends early if you cast it again or if you let go of the weapon.
 **Cantrip Upgrade.** The damage die changes when you reach levels 5 (d10), 11 (d12), and 17 (2d6).
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/6/68/Shillelagh_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shining Smite
 *Level 2 Transmutation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 The target hit by the strike takes an extra 2d6 Radiant damage from the attack. Until the spell ends, the target sheds Bright Light in a radius 1 *(1.5m)* sphere, attack rolls against it have Advantage, and it can't benefit from the [Invisible](conditions.md#invisible) condition.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/5/5e/Blinding_Smite_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shocking Grasp
@@ -8732,6 +8848,7 @@ The target hit by the strike takes an extra 2d6 Radiant damage from the attack. 
 Lightning springs from you to a creature that you try to touch. Make a melee spell attack against the target. On a hit, the target takes 1d8 Lightning damage, and it can't make Opportunity Attacks until the start of its next turn.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/2/2f/Shocking_Grasp_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shred Lungs
@@ -8959,7 +9076,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 
 ### Slaying Smite
 *Level 5 Evocation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
@@ -9034,6 +9151,7 @@ An affected target repeats the save at the end of each of its turns, ending the 
 The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amount of Temporary Hitpoints among allies in a radius 6 (9m) around you equal to half the damage done by this attack. It can't regain HP until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/5/59/Ensnaring_Strands_Icon.webp)
 *(Source: Custom)*
 
 ### Smite of Spring
@@ -9045,6 +9163,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 The target takes an extra 1d6 Radiant damage from the attack, and it must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. At the end of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/5/50/Ensnaring_Strike_Melee_Icon.webp)
 *(Source: Custom)*
 
 ### Smite of Summer
@@ -9056,6 +9175,7 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 The target takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a CON Save. On a failed save, the spell continues. On a successful save, the spell ends. All the damage increases by 1d6 against Undead.
 **Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/c/c8/Flame_Blade_Icon.webp)
 *(Source: Custom)*
 
 ### Smite of Winter
@@ -9067,6 +9187,7 @@ The target takes an extra 1d6 Fire damage from the attack. At the start of each 
 The target takes an extra 2d8 Cold or Necrotic damage (your choice) from the attack and its speed is reduced by 2 (3m) until the end of its next turn. The damage increases by 1d8 if the target is a Plant.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/0/00/Elemental_Weapon_Cold_Icon.webp)
 *(Source: Custom)*
 
 ### Smothering Gloom
@@ -9245,6 +9366,7 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 - **Classes**: Bard, Cleric, Wizard
+![\|50](https://bg3.wiki/w/images/2/2c/Recast_Speak_with_Dead_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Speak with Plants
@@ -9361,6 +9483,7 @@ You create a floating, spectral force that resembles a weapon of your choice and
 As a Bonus Action on your later turns, you can move the force up to 4 *(6m)* and repeat the attack against a creature within 1 *(1.5m)* of it.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for every slot level above 2.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/7/73/Spiritual_Weapon_Halberd_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Splinterburst
@@ -9420,13 +9543,14 @@ The area is difficult terrain for nonplant creatures other than you, and a nonpl
 
 ### Staggering Smite
 *Level 4 Enchantment*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
 The target takes an extra 4d6 Psychic damage from the attack, and the target must succeed on a WIS Save or be [Stunned](conditions.md#stunned) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The extra damage increases by 1d6 for each spell slot level above 4.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/3/30/Bludgeon_the_Weak_Icon.webp)
 *(Source: PHB'24, page 319)*
 
 ### Stain the Soul
@@ -9524,7 +9648,7 @@ You send out a ripple of stilling antimagic. Each creature within range that is 
 - **Range**: 18 *(27m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You create a radius 4 *(6m)* sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by Gust of Wind) disperses it.
+You create a radius 4 *(6m)* sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [Gust of Wind](spells.md#gust-of-wind)) disperses it.
 Each creature that starts its turn in the Sphere must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) until the end of the current turn. While [Poisoned](conditions.md#poisoned) in this way, the creature can't take an action or a Bonus Action.
 - **Classes**: Bard, Sorcerer, Wizard
 *(Source: PHB'24, page 320)*
@@ -9598,6 +9722,7 @@ This effect ends early if you are hit with an attack, or if you cast another spe
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c3/Stoneskin_Icon.webp)
 *(Source: PHB'24, page 320)*
 
 ### Storm Sphere
@@ -9841,6 +9966,7 @@ You launch a sunbeam in a undefined, undefined Line. Each creature in the Line m
 Until the spell ends, you can take a Magic action to create a new Line of radiance.
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a radius 6 *(9m)* sphere and Dim Light for an additional 6 *(9m)*. This light is sunlight.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/6/61/Recast_Sunbeam_Icon.webp)
 *(Source: PHB'24, page 329)*
 
 ### Sunburst
@@ -10162,6 +10288,7 @@ While [Frightened](conditions.md#frightened) in this way, a creature cannot stan
 - **Duration**: 1 minute
 You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time. Altered Eyes. You alter the appearance of your eyes for 1 minute. Booming Voice. Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on CHA  (Intimidation) checks. Fire Play. You cause flames to flicker, brighten, dim, or change color for 1 minute. [Invisible](conditions.md#invisible) Hand. You instantaneously cause an unlocked door or window to fly open or slam shut. Phantom Sound. You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers. Tremors. You cause harmless tremors in the ground for 1 minute.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/3/3f/Thaumaturgy_Icon.webp)
 *(Source: PHB'24, page 333)*
 
 ### The Chittering
@@ -10206,6 +10333,7 @@ On a failed Save a creature takes 28d6 Fire damage, or half as much on a success
 You create a vine-like whip covered in thorns that lashes out at your command toward a creature in range. Make a melee spell attack against the target. On a hit, the target takes 1d6 Piercing damage, and if it is Large or smaller, you can pull it up to 2 *(3m)* closer to you.
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 - **Classes**: Artificer, Druid
+![\|50](https://bg3.wiki/w/images/e/e8/Thorn_Whip_Icon.webp)
 *(Source: PHB'24, page 333)*
 
 ### Thought Scour
@@ -10259,13 +10387,14 @@ Each creature in a radius 1 *(1.5m)* emanation originating from you must succeed
 
 ### Thunderous Smite
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
 Your strike rings with thunder that is audible within 60 *(90m)* of you, and the target takes an extra 2d6 Thunder damage from the attack. Additionally, if the target is a creature, it must succeed on a STR Save or be pushed 2 *(3m)* away from you and be [Prone](conditions.md#prone).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/d/dd/Thunderous_Smite_Icon.webp)
 *(Source: PHB'24, page 334)*
 
 ### Thunderous Touch
@@ -10289,6 +10418,7 @@ You unleash a wave of thunderous energy. Each creature in a size 3 *(4.5m)* cube
 In addition, unsecured objects that are entirely within the Cube are pushed 2 *(3m)* away from you, and a thunderous boom is audible within 60 *(90m)*.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
 - **Classes**: Bard, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/0/04/Thunderwave_Icon.webp)
 *(Source: PHB'24, page 334)*
 
 ### Tidal Wave
@@ -10714,6 +10844,7 @@ A creature reduced below 50 Hit Points in this way must then succeed on a CON Sa
 You unleash a string of insults laced with subtle enchantments at one creature you can see or hear within range. The target must succeed on a WIS Save or take 1d6 Psychic damage and have Disadvantage on the next attack roll it makes before the end of its next turn.
 **Cantrip Upgrade.** The damage increases by 1d6 when you reach levels 5 (2d6), 11 (3d6), and 17 (4d6).
 - **Classes**: Bard
+![\|50](https://bg3.wiki/w/images/6/66/Vicious_Mockery_Icon.webp)
 *(Source: PHB'24, page 337)*
 
 ### Vitriolic Sphere
@@ -10879,6 +11010,7 @@ Any ranged weapon attack that enters the wall's space has disadvantage on the at
 You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 12 *(18m)* of you, it gains a +1 bonus to AC and Saves, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 12 *(18m)*. It also ends if the spell is cast again on either of the connected creatures.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/e/ea/Warding_Bond_Icon.webp)
 *(Source: PHB'24, page 340)*
 
 ### Warding Wind
@@ -11048,6 +11180,7 @@ The spiders act on your Initiative in combat and under your telepathic control. 
 You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a Fly Speed of 60 *(90m)* and can hover; it has Immunity to the [Prone](conditions.md#prone) condition; and it has Resistance to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the Dash action or a Magic action to begin reverting to its normal form. Reverting takes 1 minute, during which the target is [Stunned](conditions.md#stunned). Until the spell ends, the target can revert to cloud form, which also requires a Magic action followed by a 1-minute transformation.
 If a target is in cloud form and flying when the effect ends, the target descends 12 *(18m)* per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/0/06/Wind_Walk_Icon.webp)
 *(Source: PHB'24, page 341)*
 
 ### Wind Wall
@@ -11104,6 +11237,7 @@ On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Light
 The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
 **Using a Higher-Level Spell Slot.** The initial damage increases by 1d12 for each spell slot level above 1.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/5/50/Activate_Witch_Bolt_Icon.webp)
 *(Source: PHB'24, page 343)*
 
 ### Wither and Bloom
@@ -11186,7 +11320,7 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 
 ### Wrathful Smite
 *Level 1 Necromancy*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute

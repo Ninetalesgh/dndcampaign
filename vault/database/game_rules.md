@@ -138,7 +138,7 @@ If you roll a 20 on an attack roll before modifiers you score a ***Critical Hit*
   - **Melee Attack**: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you). Your Attack Modifier for Melee Attacks is your STR + your PB, if you're proficient with the weapon you're attacking with.
   - **Ranged Attack**: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage. Your Attack Modifier for Ranged Attacks is your DEX + your PB, if you're proficient with the weapon you're attacking with.
   - **Ranged or Melee Spell Attack**: Attack something in range of your Spell Attack, with the same restrictions other Melee or Ranged attacks would have respectively. Your Attack Modifier for Spell Attacks is your Spellcasting Ability (INT/WIS/CHA) + your PB. *(For example, if your PB is +2 and your WIS is +3 as a Druid, you would have a +5 Spell Attack Modifier)*
-- 
+
 #### Dash
 Gain additional Speed equal to your *modified* Movement Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
 
@@ -168,11 +168,11 @@ When you take the Help action, you do one of the following:
 
 #### Influence, Search, Study, Utilize, or Stabilize
 Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
-  - Influence a creature, like talk them down, distract them, or alter their attitude some other way. (Usually CHA)
-  - Try to find something, like the source of some poison gas, the hidden switch on the wall to open the secret door, etc. (Usually WIS)
-  - Study something, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
-  - Versatile: Use, or do something with, some object, whatever it might be.
-  - Attempt to stabilize another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
+  - **Influence a creature**, like talk them down, distract them, or alter their attitude some other way. (Usually CHA)
+  - **Try to find something**, like the source of some poison gas, the hidden switch on the wall to open the secret door, etc. (Usually WIS)
+  - **Study something**, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
+  - **Versatile**: Use, or do something with, some object, whatever it might be.
+  - Attempt to **stabilize** another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
   
 ### Default Reactions
 
