@@ -1178,12 +1178,13 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 1.5 kg
 - **Price**: 1 gp
-- **Properties**: When you take the Attack action, you can replace one of your attacks with throwing a Net. Target a creature you can see within range 3 *(4.5m)* of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or have the Restrained condition until it escapes. The target succeeds automatically if it is Huge or larger.To escape, the target or a creature within range 1 *(1.5m)* of it must take an action to make a DC 10 Strength (Athletics) check, freeing the Restrained creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
+- **Properties**: When you take the Attack Action, you can replace one of your attacks with throwing a Net. Target a creature you can see within range 3 *(4.5m)* of yourself. The target must succeed on a DEX Save (DC 8 + your DEX + your PB) or be [Restrained](conditions.md#restrained) until it escapes. The target succeeds automatically if it is [Huge](game_rules.md#creature-sizes) or larger.
+To escape, the target or a creature within range 1 *(1.5m)* of it must take an Action to make a DC 10 Strength (Athletics) check, freeing the [Restrained](conditions.md#restrained) creature on a success. Destroying the Net (AC 10; 5 HP; Immunity to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 *(Source: PHB'24, page227)*
 
 ## Items O
 ### Oil
-*(adventuring gear, Common)*
+*(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 1 sp
 - **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
@@ -1705,7 +1706,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 1 cp
-- **Properties**: A Torch burns for 1 hour, casting Bright Light in a radius 4 *(6m)* sphere and Dim Light for another 4 *(6m)*. When you take the Attack action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
+- **Properties**: A Torch burns for 1 hour, casting Bright Light in a radius 4 *(6m)* sphere and Dim Light for another 4 *(6m)*. When you take the Attack Action, you can attack with the Torch, using it as a Simple Melee weapon. On a hit, the target takes 1 Fire damage.
 *(Source: PHB'24, page229)*
 
 ### Traveler's Clothes
@@ -1861,7 +1862,7 @@ As a Bonus Action you may coat one weapon or up to three pieces of ammunition. T
 Only **one** coating can be applied to a weapon at the same time.
 
 ## Throw Grenade
-When you take the Attack action, you can replace one of your attacks with throwing the grenade.
+When you take the Attack Action, you can replace one of your attacks with throwing the grenade.
 You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save (DC 8 + your DEX + your PB), suffering the effect according to the result of the Save. Objects always fail their DEX Save.
 
 ## Ship Info
