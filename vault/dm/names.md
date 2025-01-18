@@ -1,0 +1,99 @@
+### Human Names
+Alaric Vayne
+Celia Broadshield
+Darrin Whitlock
+Evelyn Marrowind
+Gideon Thorne
+Helena Cresswell
+Jasper Blackthorn
+Lila Fairweather
+Marcus Holloway
+Selena Draycott
+### Dwarven Names
+Bronn Ironbraid
+Dagna Flintstone
+Gorik Deepdelve
+Hilda Stonemantle
+Kargan Emberforge
+Marta Goldpick
+Orin Steelgrasp
+Thrain Rockhewer
+Ula Anvilborn
+Vargan Copperbeard
+### Elven Names
+Aelar Silverdew
+Calantha Moonwhisper
+Elendil Sunshadow
+Faelanis Brightsong
+Ilvara Duskwind
+Kaelen Starfall
+Lyari Mistvale
+Selindra Willowshade
+Thalorin Nightbreeze
+Vaelis Dawnfrost
+### Halfling Names
+Albie Goodbarrel
+Bella Underbough
+Fenwick Greenhill
+Ginny Lightfoot
+Hobart Bramblethorn
+Jemma Tumbletwig
+Milo Tealeaf
+Rosie Hilltopple
+Tillie Honeywell
+Wren Fairmeadow
+### Gnomish Names
+Bixby Cogspinner
+Cally Fizzwhistle
+Dinkle Geargrind
+Filla Tinkerfoot
+Gribble Wobbletop
+Loryn Springflare
+Mertle Copperknob
+Nibbin Sparksprocket
+Quindle Blinkshaft
+Varlyn Glittergem
+### Orcish Names
+Gharak Skullcrusher
+Kagra Stonefist
+Loktar Ironjaw
+Morgra Bloodfang
+Rukhar Thunderaxe
+Sargra Boneclaw
+Thorgar Doomhammer
+Urzul Blackspine
+Vargath Redblade
+Zogar Ashskin
+### Tiefling Names
+Ashara Voidheart
+Baelith Emberveil
+Castras Dreadmark
+Elyria Nightshade
+Kaelen Shadowthorn
+Malrik Thornfire
+Nivara Fellstar
+Rethis Darkmoor
+Sylvara Hexbane
+Zareth Soulflame
+### Dragonborn Names
+Arkrath Flamejaw
+Balasar Stormscale
+Daelith Frostclaw
+Ithraxis Goldenfang
+Korrin Steelhide
+Myrrhith Emberglow
+Ravoth Ironwing
+Serynth Silverstrike
+Tazorith Shadowfang
+Vyrmash Thunderbreath
+### Random Catch-All Names
+Brindle Ashfoot
+Cora Frostwillow
+Derrek Thornhill
+Elysia Darkspire
+Fenric Hollowstride
+Glendrick Oakshade
+Harlon Nightforge
+Isolde Ravenshadow
+Quenlin Starforge
+Zorin Blackleaf
