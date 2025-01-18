@@ -524,6 +524,7 @@ You force a creature you can see within 6 *(9m)* to make a CHA  Save. On a faile
 Up to three creatures of your choice that you can see within range must each make a CHA  Save. Whenever a target that fails this save makes an attack roll or a Save before the spell ends, the target must subtract 1d4 from the attack roll or save.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Warlock
+![\|50](https://bg3.wiki/w/images/1/19/Bane_spell_Icon.webp)
 *(Source: PHB'24, page 245)*
 
 ### Banish Hope
@@ -623,6 +624,7 @@ A creature in the area that uses a spell or magical effect to teleport, move bet
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Choose any number of creatures within range. For the duration, each target has Advantage on WIS Saves and Death Saving Throws and regains the maximum number of Hit Points possible from any healing.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/5/5d/Beacon_of_Hope_Icon.webp)
 *(Source: PHB'24, page 245)*
 
 ### Beacon of Valor
@@ -858,6 +860,7 @@ This effect ends immediately for the creature if it becomes illuminated by Brigh
 You bless up to three creatures within range. Whenever a target makes an attack roll or a Save before the spell ends, the target adds 1d4 to the attack roll or save.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/c/c4/Bless_Icon.webp)
 *(Source: PHB'24, page 247)*
 
 ### Blight
@@ -1173,6 +1176,7 @@ You awaken the bloodlust of your allies against a creature in range. Each creatu
 Each Humanoid in a radius 4 *(6m)* sphere centered on a point you choose within range must succeed on a CHA  Save or be affected by one of the following effects (choose for each creature):The creature has Immunity to the [Charmed](conditions.md#charmed) and [Frightened](conditions.md#frightened) conditions until the spell ends. If the creature was already [Charmed](conditions.md#charmed) or [Frightened](conditions.md#frightened), those conditions are suppressed for the duration.
 The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 - **Classes**: Bard, Cleric
+![\|50](https://bg3.wiki/w/images/d/d9/Calm_Emotions_Icon.webp)
 *(Source: PHB'24, page 249)*
 
 ### Catapult
@@ -1685,6 +1689,7 @@ Each creature in a radius 2 *(3m)* sphere centered on a point you choose within 
 At the end of each of its turns, an affected target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The Sphere's radius increases by 1 *(1.5m)* for each spell slot level above 4.
 - **Classes**: Bard, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/7b/Confusion_Icon.webp)
 *(Source: PHB'24, page 253)*
 
 ### Conjure Animals
@@ -2144,6 +2149,7 @@ One creature that you can see within range must succeed on a WIS Save or be [Cha
 A spectral crown appears on the [Charmed](conditions.md#charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 On your later turns, you must take the Magic action to maintain control of the target, or the spell ends.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/4/48/Crown_of_Madness_Icon.webp)
 *(Source: PHB'24, page 259)*
 
 ### Crown of Stars
@@ -2679,6 +2685,7 @@ You activate one of the effects below. Until the spell ends, you can activate ei
 The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sheet of lead. Read Thoughts. Target one creature you can see within 6 *(9m)* of yourself or one creature within 6 *(9m)* of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
 As a Magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a WIS Save. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an INT (Arcana) check against your spell save DC, ending the spell on a success.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/b6/Detect_Thoughts_Icon.webp)
 *(Source: PHB'24, page 262)*
 
 ### Devastation Cascade
@@ -2910,6 +2917,7 @@ You have a telepathic link with the [Charmed](conditions.md#charmed) target whil
 You can command the target to take a Reaction but must take your own Reaction to do so.
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a spell slot of level 5 (up to 10 minutes), 6 (up to 1 hour), or 7+ (up to 8 hours).
 - **Classes**: Druid, Ranger, Sorcerer
+![\|50](https://bg3.wiki/w/images/8/83/Dominate_Beast_Icon.webp)
 *(Source: PHB'24, page 265)*
 
 ### Dominate Monster
@@ -2938,6 +2946,7 @@ You have a telepathic link with the [Charmed](conditions.md#charmed) target whil
 You can command the target to take a Reaction but must take your own Reaction to do so.
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a spell slot of level 6 (up to 10 minutes), 7 (up to 1 hour), or 8+ (up to 8 hours).
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/1/1d/Dominate_Person_Icon.webp)
 *(Source: PHB'24, page 266)*
 
 ### Doomcrack Rataclysm
@@ -4233,6 +4242,7 @@ You bombard a creature you can see in range with lethal, blood-freezing Cold whi
 You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a WIS Save or be [Charmed](conditions.md#charmed) for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
 The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a Save. When the spell ends, the target knows it was [Charmed](conditions.md#charmed) by you.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/7/75/Friends_Icon.webp)
 *(Source: PHB'24, page 277)*
 
 ### Frost Fingers
@@ -4502,6 +4512,7 @@ An immobile, shimmering barrier appears in a radius 2 *(3m)* emanation around yo
 Any spell of level 5 or lower cast from outside the barrier can't affect anything within it. Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from areas of effect created by such spells.
 **Using a Higher-Level Spell Slot.** The barrier blocks spells of 1 level higher for each spell slot level above 6.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/7a/Globe_of_Invulnerability_Icon.webp)
 *(Source: PHB'24, page 279)*
 
 ### Glowspore Bolt
@@ -4795,6 +4806,7 @@ The spell creates the effects below within the warded area. Dispel Magic has no 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 - **Classes**: Artificer, Cleric, Druid
+![\|50](https://bg3.wiki/w/images/7/7f/Guidance_Icon.webp)
 *(Source: PHB'24, page 282)*
 
 ### Guiding Bolt
@@ -5125,6 +5137,7 @@ A creature that partakes gains several benefits, which last for 24 hours. The cr
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [Frightened](conditions.md#frightened) condition and gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Paladin
+![\|50](https://bg3.wiki/w/images/1/19/Heroism_Icon.webp)
 *(Source: PHB'24, page 285)*
 
 ### Hex
@@ -5137,6 +5150,7 @@ You place a curse on a creature that you can see within range. Until the spell e
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/9/9f/Hex_Icon.webp)
 *(Source: PHB'24, page 285)*
 
 ### Hold Monster
@@ -5148,6 +5162,7 @@ If the target drops to 0 Hit Points before this spell ends, you can take a Bonus
 Choose a creature that you can see within range. The target must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 5.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/c/cf/Hold_Monster_Icon.webp)
 *(Source: PHB'24, page 285)*
 
 ### Hold Person
@@ -5228,6 +5243,7 @@ You magically mark one creature you can see within range as your quarry. Until t
 If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action to move the mark to a new creature you can see within range.
 **Using a Higher-Level Spell Slot.** Your Concentration can last longer with a spell slot of level 3-4 (up to 8 hours) or 5+ (up to 24 hours).
 - **Classes**: Ranger
+![\|50](https://bg3.wiki/w/images/f/f6/Hunter%27s_Mark_Icon.webp)
 *(Source: PHB'24, page 287)*
 
 ### Hurl Flame
@@ -5263,6 +5279,7 @@ Against a target at lower elevation than you (at least 1 *(1.5m)* lower), this a
 You create a twisting pattern of colors in a size 6 *(9m)* cube within range. The pattern appears for a moment and vanishes. Each creature in the area who can see the pattern must succeed on a WIS Save or be [Charmed](conditions.md#charmed) for the duration. While [Charmed](conditions.md#charmed), the creature is [Incapacitated](conditions.md#incapacitated) and a Speed of 0.
 The spell ends for an affected creature if it takes any damage or if someone else uses an action to shake the creature out of its stupor.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/2/28/Hypnotic_Pattern_Icon.webp)
 *(Source: PHB'24, page 287)*
 
 # Spells I
@@ -7285,6 +7302,7 @@ A Disintegrate spell targeting the globe destroys it without harming anything in
 One creature that you can see within range must make a WIS Save. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
 On a failed save, the target is [Charmed](conditions.md#charmed) for the duration. While [Charmed](conditions.md#charmed), the target dances comically, must use all its movement to dance in place, and has Disadvantage on DEX Saves and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 - **Classes**: Bard, Wizard
+![\|50](https://bg3.wiki/w/images/8/8c/Otto%27s_Irresistible_Dance_Icon.webp)
 *(Source: PHB'24, page 303)*
 
 # Spells P
@@ -8220,6 +8238,7 @@ A creature carrying an affected light source can make a STR Save, resisting the 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, Fire, Lightning, Necrotic, Piercing, Poison, Radiant, Slashing, or Thunder. When the creature takes damage of the chosen type before the spell ends, the creature reduces the total damage taken by 1d4. A creature can benefit from this spell only once per turn.
 - **Classes**: Artificer, Cleric, Druid
+![\|50](https://bg3.wiki/w/images/a/a1/Resistance_Cantrip_Icon.webp)
 *(Source: PHB'24, page 312)*
 
 ### Restless Death
@@ -8812,6 +8831,7 @@ The attack's target gains three-quarters cover against ranged attacks until the 
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 - **Classes**: Cleric, Paladin
+![\|50](https://bg3.wiki/w/images/8/83/Shield_of_Faith_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Shillelagh
@@ -8942,6 +8962,7 @@ The target must make either a STR or DEX Saving Throw (target's choice). On a , 
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 For the duration, no sound can be created within or pass through a radius 4 *(6m)* sphere centered on a point you choose within range. Any creature or object entirely inside the Sphere has Immunity to Thunder damage, and creatures be [Deafened](conditions.md#deafened) while entirely inside it. Casting a spell that includes a Verbal component is impossible there.
 - **Classes**: Bard, Cleric, Ranger
+![\|50](https://bg3.wiki/w/images/7/78/Silence_Icon.webp)
 *(Source: PHB'24, page 316)*
 
 ### Silencer's Grasp
@@ -9094,6 +9115,7 @@ Additionally, if this attack reduces the target to 20 Hit Points or fewer, it mu
 Each creature of your choice in a radius 1 *(1.5m)* sphere centered on a point within range must succeed on a WIS Save or be [Incapacitated](conditions.md#incapacitated) until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target is [Unconscious](conditions.md#unconscious) for the duration. The spell ends on a target if it takes damage or someone within 1 *(1.5m)* of it takes an action to shake it out of the spell's effect.
 Creatures that don't sleep, such as elves, or that have Immunity to the Exhaustion condition automatically succeed on saves against this spell.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/ae/Sleep_Icon.webp)
 *(Source: PHB'24, page 317)*
 
 ### Sleep of Death
@@ -10118,6 +10140,7 @@ One creature of your choice that you can see within range makes a WIS Save. On a
 At the end of each of its turns and each time it takes damage, it makes another WIS Save. The target has Advantage on the save if the save is triggered by damage. On a successful save, the spell ends.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level about 1.
 - **Classes**: Bard, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/2/27/Tasha%27s_Hideous_Laughter_Icon.webp)
 *(Source: PHB'24, page 331)*
 
 ### Tasha's Mind Whip
@@ -10638,6 +10661,7 @@ For the duration, the willing creature you touch has Truesight with a range of 2
 Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability for the attack and damage rolls instead of using STR or DEX. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
 **Cantrip Upgrade.** Whether you deal Radiant damage or the weapon's normal damage type, the attack deals extra Radiant damage when you reach levels 5 (1d6), 11 (2d6), and 17 (3d6).
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/4/47/True_Strike_Icon.webp)
 *(Source: PHB'24, page 336)*
 
 ### Tsunami
