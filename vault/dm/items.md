@@ -58,6 +58,16 @@
 - **Price**: 4 cp
 - **Properties**: *(Source: PHB'24, page231)*
 
+### Animal Fat
+*(ingredient, Common)*
+- **Weight**: 1 kg
+- **Price**: 5 cp
+- **Properties**:
+  - *Craft: Heat the fat at low temperature until left with* [Oil](dm/items.md#oil).
+![\|50](https://bg3.wiki/w/images/7/7a/Grease_Icon.webp)
+*Gooey soft cuts of livestock fat.*
+*(Source: Baldur's Gate 3)*
+
 ### Antidote
 *(potion, Common)*
 - **Weight**: -
@@ -1008,8 +1018,6 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
 *(Source: PHB'24, page230)*
 
-
-
 ### Longsword
 *(Longsword, Martial Melee Weapon, Common)*
 - **Reach**: 1
@@ -1020,7 +1028,6 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
 *(Source: PHB'24, page 215)*
-
 
 ### Lute
 *(instrument, Common)*
@@ -1063,7 +1070,9 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(adventuring gear, Common)*
 - **Weight**: 3 kg
 - **Price**: 2 gp
-- **Properties**: As a Utilize Action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+- **Properties**: As a Utilize Action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that is [Grappled](dm/items.md#grappled), [Incapacitated](dm/items.md#incapacitated), or [Restrained](dm/items.md#restrained) if you succeed on a DC 13 Dexterity (Sleight of Hand) check. 
+While bound, a creature has Disadvantage on attack rolls, and the creature is [Restrained](dm/items.md#restrained) if the Manacles are attached to a chain or hook that is fixed in place. 
+Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an Action. Bursting them requires a successful DC 25 Strength (Athletics) check as an Action.Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 *(Source: PHB'24, page226)*
 
 ### Map
