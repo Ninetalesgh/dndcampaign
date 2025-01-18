@@ -17,14 +17,14 @@
 # Scenes
 
 ## The Mylen Farmstead
-**Farmer Merrick Mylen.** -> Human.
+**Farmer Merrick Mylen.** -> Human. [TODO] dies? 
 
 ### The Main Farmhouse
 
 - **Location**: Nestled against the inner edge of the plateau, the farmstead sits in ruin, its fences splintered and crops trampled. Smoke rises from the smoldering remains of the barn, and the acrid scent of burnt hay mingles with the iron tang of spilled blood. Chickens scatter nervously, their clucking the only sound aside from the eerie creak of the farmhouse door swinging ajar in the cold alpine breeze. [TODO]
 
-In the back along the pasture 
 
+In the back along the pasture 
 
 This is where the first fight will take place, with surprised goblins.
 goblins will start fleeing, 3 will enter combat with the players here.

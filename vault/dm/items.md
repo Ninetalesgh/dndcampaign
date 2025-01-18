@@ -276,7 +276,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 1 cp
-- **Properties**: For 1 hour, a lit Candle sheds Bright Light in a radius 1 *(1.5m)* sphere and Dim Light for another 1 *(1.5m)*.
+- **Properties**: For 1 hour, a lit Candle sheds [Bright Light](dm/items.md#bright-light) in a radius 1 *(1.5m)* sphere and [Dim Light](dm/items.md#dim-light) for another 1 *(1.5m)*.
 *(Source: PHB'24, page224)*
 
 ### Carpenter's Tools
@@ -1848,7 +1848,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 # Item Info
 
 ## Concoctions
-At the end of every Long Rest, you can consume one Ingredient to craft a related Concoction.
+At the end of every Long Rest, you can convert one Ingredient into a related Concoction with the according Tools.
+
 Concoctions are: Elixirs, Coatings, Grenades, or Potions.
 
 [TODO] Mechanics for finding out what concoctions an ingredient is good for?  
