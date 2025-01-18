@@ -34,7 +34,7 @@
 [Warhammer](dm/items.md#warhammer)
 [Shield](dm/items.md#shield)
 [Priest's Pack](dm/items.md#priests-pack)
-6 [Javelins](dm/items.md#javelin)
+[6 Javelins](dm/items.md#javelin)
 - **Money**: 14 gp
 
 ## Spellcasting

@@ -318,6 +318,7 @@
     {
       fetchMd(mdUrl).then((node) => {
             applyNodeToView(node);
+            addIconsToInlineLinks();
         });
     }
 
@@ -348,6 +349,47 @@
       }      
     }
     
+    function addIconsToInlineLinks()
+    {
+      //Go through inline links of current page, if it's the only child of its parent <p>, add the image to the button?
+        const inlineLinks = document.querySelectorAll('.inline-link');
+        for (let link of inlineLinks)
+        {
+          if (link.parentElement && link.parentElement.innerHTML === link.outerHTML)
+          {
+            getIndexedContentNode(link.dataset.url).then((node) => {
+
+              const children = node.element.nextElementSibling.children;
+              let existingImg = null;
+
+              for (let i = children.length -1; i >= 0; --i)
+              {
+                const child = children[i];
+
+                if (child.children.length > 0 && child.children[0] instanceof HTMLImageElement)
+                {
+                  existingImg = child.children[0];
+                  break;
+                }
+              }
+
+              if (existingImg)
+              {
+                let img = document.createElement('img');
+                img.src = existingImg.src;
+                img.style.height = '40px';
+                link.style.display = 'flex';
+                link.style.gap = '5px';
+                link.style.alignItems = 'center';
+                link.prepend(img);
+              }
+
+            });
+          }
+        }
+    
+    }
+
     // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);

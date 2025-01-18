@@ -37,7 +37,7 @@
 [Alchemist's Supplies](dm/items.md#alchemists-supplies)
 [Dungeoneer's Pack](dm/items.md#dungeoneers-pack)
 [Shortsword](dm/items.md#shortsword)
-2 [Daggers](dm/items.md#dagger)
+[2 Daggers](dm/items.md#dagger)
 - **Money**: 29 gp
 
 ## Feats and Actions
