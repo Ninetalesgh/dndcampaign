@@ -1,7 +1,7 @@
 # Kazimir
 ## Stats and Proficiencies
 - **Initiative**: +4 *(DEX + PB)*
-- **AC**: 16 ([Chain Shirt](dm/items.md#armor#medium-armor#scale-mail) + DEX)
+- **AC**: 16 ([Scale Mail](dm/items.md#scale-mail) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -33,12 +33,12 @@
 - **Languages**: Common, [TODO] 2 more?
 
 ## Equipment
-[Chain Shirt](dm/items.md#armor#medium-armor#scale-mail)
+[Scale Mail](dm/items.md#scale-mail)
 [Alchemist's Supplies](dm/items.md#alchemists-supplies)
-[Brewer's Supplies](dm/items.md#brewers-supplies)
 [Dungeoneer's Pack](dm/items.md#dungeoneers-pack)
-
-- **Money**: 23 gp
+[Shortsword](dm/items.md#shortsword)
+2 [Daggers](dm/items.md#dagger)
+- **Money**: 29 gp
 
 ## Feats and Actions
 ### Actions

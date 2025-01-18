@@ -1,10 +1,10 @@
 # Mufi
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
-- **AC**: 14 ([Leather Armor](database/items.md#leather-armor) + DEX)
+- **AC**: 14 ([Leather Armor](dm/items.md#leather-armor) + DEX)
 - **HP**: 9
 - **HP Dice**: 1 D8
-- **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
+- **Size**: [Small](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
 | STR 8 (-1)     | DEX 17 (+3)               | CON 13 (+1)   |
@@ -30,7 +30,7 @@
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
 
 ## Equipment
-[Leather Armor](database/items.md#leather-armor)
+[Leather Armor](dm/items.md#leather-armor)
 [Thieves' Tools](dm/items.md#thieves-tools)
 [Burglar's Pack](dm/items.md#burglars-pack)
 2 [Daggers](dm/items.md#dagger)

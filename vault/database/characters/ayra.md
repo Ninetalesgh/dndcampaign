@@ -1,7 +1,7 @@
 # Ayra
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 13 ([Leather Armor](database/items.md#leather-armor) + DEX)
+- **AC**: 13 ([Leather Armor](dm/items.md#leather-armor) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -30,7 +30,7 @@
 - **Languages**: Common, Infernal, Celestial
 
 ## Equipment
-[Leather Armor](database/items.md#leather-armor)
+[Leather Armor](dm/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
 [Book](dm/items.md#book) about Devils.
 

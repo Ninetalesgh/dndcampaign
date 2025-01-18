@@ -1,7 +1,7 @@
 # Kal
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 14 ([Hide Armor](database/items.md#armor#medium-armor#hide-armor) + DEX)
+- **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
 - **HP**: 10
 - **HP Dice**: 1 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -30,7 +30,7 @@
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
 ## Equipment
-[Hide Armor](database/items.md#armor#medium-armor#hide-armor)
+[Hide Armor](dm/items.md#hide-armor)
 [Quarterstaff](dm/items.md#quarterstaff)
 [Shield](dm/items.md#shield)
 [Sickle](dm/items.md#sickle)
