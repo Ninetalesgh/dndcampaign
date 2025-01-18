@@ -1,7 +1,7 @@
 # Nyari
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
-- **AC**: 18 ([Chain Mail](database/items.md#armor#heavy-armor#chain-mail) + Shield)
+- **AC**: 18 ([Chain Mail](dm/items.md#chain-mail) + Shield)
 - **HP**: 12
 - **HP Dice:** 1 D10
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -30,7 +30,7 @@
 - **Languages**: Common, Goliath, [TODO] 1 more
 
 ## Equipment
-[Chain Mail](database/items.md#armor#heavy-armor#chain-mail)
+[Chain Mail](dm/items.md#chain-mail)
 [Warhammer](dm/items.md#warhammer)
 [Shield](dm/items.md#shield)
 [Priest's Pack](dm/items.md#priests-pack)

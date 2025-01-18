@@ -81,7 +81,7 @@
 
     class TreeNode {
       constructor(value){
-        this.name = value ? filterSectionSpecialCharacters(value.innerText) : "";
+        this.name = value ? value.innerText : '';
         this.element = value;
         this.parent = null;
         this.children = [];
@@ -177,7 +177,7 @@
       let queue = new Array();
       for (let childNode of parentNode.children)
       {
-        if (childNode.name === name)
+        if (filterSectionSpecialCharacters(childNode.name) === name)
         {
           return childNode;
         }
