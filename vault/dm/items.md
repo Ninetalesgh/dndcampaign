@@ -39,7 +39,7 @@
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability:* Intelligence
   - *Utilize:* Identify a substance (DC 15), or start a fire (DC 15)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions), [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions), [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
 *(Source: PHB'24, page220)*
 
 ### Ale (mug)
@@ -215,7 +215,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability:* Intelligence
   - *Utilize:* Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions) that require distillation or fermentation. 
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions) that require distillation or fermentation. 
 *(Source: PHB'24, page220)*
 
 ### Bucket
@@ -784,7 +784,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability*: Intelligence
   - *Utilize:* Identify a plant (DC 10)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions) with plant ingredients, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions) with plant ingredients, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
 *(Source: PHB'24, page221)*
 
 ### Hide Armor
