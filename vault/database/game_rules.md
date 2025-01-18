@@ -133,10 +133,11 @@ What you can do when we play Turn Based:
 
 ### Default Actions
 #### Attack
-Choose a target in range and roll for attack! Roll a d20 and add your Attack Modifier.If you roll a 20 on an attack roll you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
+Choose a target in range and roll for attack! Roll a d20 and add your Attack Modifier.
+If you roll a 20 on an attack roll before modifiers you score a ***Critical Hit***, which lets you roll double the number of damage *dice* (for example, if you would deal 1d6+4 damage, you deal 2d6+4 damage instead).
   - **Melee Attack**: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you). Your Attack Modifier for Melee Attacks is your STR + your PB, if you're proficient with the weapon you're attacking with.
   - **Ranged Attack**: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage. Your Attack Modifier for Ranged Attacks is your DEX + your PB, if you're proficient with the weapon you're attacking with.
-  - **Ranged or Melee Spell Attack**: Attack something in range of your Spell Attack. If the target is within range 1 you attack with Disadvantage. Your Attack Modifier for Spell Attacks is your Spellcasting Ability (INT/WIS/CHA) + your PB. *(For example, if your PB is +2 and your WIS is +3 as a Druid, you would have a +5 Spell Attack Modifier)*
+  - **Ranged or Melee Spell Attack**: Attack something in range of your Spell Attack, with the same restrictions other Melee or Ranged attacks would have respectively. Your Attack Modifier for Spell Attacks is your Spellcasting Ability (INT/WIS/CHA) + your PB. *(For example, if your PB is +2 and your WIS is +3 as a Druid, you would have a +5 Spell Attack Modifier)*
 - 
 #### Dash
 Gain additional Speed equal to your *modified* Movement Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*

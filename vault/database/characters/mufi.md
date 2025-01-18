@@ -45,7 +45,8 @@
 
 ## Feats and Actions
 ### Actions
-- [Default Actions](./../game_rules.md#turn-based-play#default-actions)
+- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
+
 - **Cantrips**: 
   - *Magic Initiate:* [Guidance](./../spells.md#spells-g#guidance), [Light](./.././../spells.md#spells-l#light)
 
@@ -56,7 +57,7 @@
   *(none)*
 
 ### Reactions
-- [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
+- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortswords. 

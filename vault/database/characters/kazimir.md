@@ -42,19 +42,19 @@
 
 ## Feats and Actions
 ### Actions
-- [Default Actions](./../game_rules.md#turn-based-play#default-actions)
+- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 ### Bonus Actions
 - **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions
-- [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
+- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - [Alert](./../feats.md#alert) *(Already included above)*
-- **Weapon Mastery**: [TODO] choose 3 weapon types. *(Switch 1 after Long Rest)*
+- **Weapon Mastery**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
 

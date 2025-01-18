@@ -45,14 +45,14 @@
 
 ## Feats and Actions
 ### Actions
-- [Default Actions](./../game_rules.md#turn-based-play#default-actions)
-[TODO] do you want your spells & feats sorted by A/BA/R or by level or such? 
+- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 ### Bonus Actions
 - **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 charges)*
 
 ### Reactions
-- [Default Reactions](./../game_rules.md#turn-based-play#default-reactions)
+- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
+
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
 ### Prepared Spells
@@ -61,7 +61,7 @@
 ### Passive Feats
 *- Extra lineage feat at level 5.*
 - [Alert](./.././../feats.md#alert) *(Already included above)*
-- **Weapon Mastery**: [TODO] choose 2 weapon types. *(Switch 1 after Long Rest)*
+- **Weapon Mastery**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 
 # Reminders
 ### After Short Rest
