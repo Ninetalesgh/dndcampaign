@@ -107,8 +107,6 @@ It takes 10 minutes to recover the Ball Bearings.
 ![\|50](https://bg3.wiki/w/images/0/0f/COAT_Basic_Poison_Unfaded_Icon.png)
 *(Source: PHB'24, page227)*
 
-
-
 ### Basket
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
