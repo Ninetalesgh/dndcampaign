@@ -32,7 +32,7 @@
 ## Equipment
 [Leather Armor](dm/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
-[Book](dm/items.md#book) about Devils.
+[Book about Devils](dm/items.md#book).
 
 - **Money**: 25 gp
 
