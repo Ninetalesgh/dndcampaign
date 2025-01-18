@@ -1507,6 +1507,7 @@ Each creature in the Sphere makes a CON Save, taking 5d8 Poison damage on a fail
 The Sphere moves 2 *(3m)* away from you at the start of each of your turns.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 5.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/74/Cloudkill_Icon.webp)
 *(Source: PHB'24, page 251)*
 
 ### Clutch of Terror
@@ -3422,6 +3423,7 @@ While [Restrained](conditions.md#restrained), the target takes 1d6 Piercing dama
 Grasping plants sprout from the ground in a size 4 *(6m)* square within range. For the duration, these plants turn the ground in the area into Difficult Terrain. They disappear when the spell ends.
 Each creature (other than you) in the area when you cast the spell must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. A [Restrained](conditions.md#restrained) creature can take an action to make a STR (Athletics) check against your spell save DC. On a success, it frees itself from the grasping plants and is no longer [Restrained](conditions.md#restrained) by them.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/d/d9/Entangle_Icon.webp)
 *(Source: PHB'24, page 268)*
 
 ### Enthrall
@@ -3984,6 +3986,7 @@ As a Bonus Action, you can move the sphere up to 6 *(9m)*, rolling it along the 
 When you move the sphere, you can direct it over barriers up to 1 *(1.5m)* tall and jump it across pits up to 2 *(3m)* wide. Flammable objects that aren't being worn or carried start [Burning (1d6)](conditions.md#burning) if touched by the sphere, and it sheds Bright Light in a radius 4 *(6m)* sphere and Dim Light for an additional 4 *(6m)*.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/6/66/Flaming_Sphere_Icon.webp)
 *(Source: PHB'24, page 275)*
 
 ### Flash Freeze
@@ -4090,6 +4093,7 @@ Whenever one fused creature takes damage, the creature it is fused to takes the 
 You create a radius 4 *(6m)* sphere of fog centered on a point within range. The Sphere is Heavily Obscured. It lasts for the duration or until a strong wind (such as one created by [Gust of Wind](spells.md#gust-of-wind)) disperses it.
 **Using a Higher-Level Spell Slot.** The fog's radius increases by 4 *(6m)* for each spell slot level above 1.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c0/Fog_Cloud_Icon.webp)
 *(Source: PHB'24, page 276)*
 
 ### Fold Space
@@ -5535,6 +5539,7 @@ Swarming locusts fill a radius 4 *(6m)* sphere centered on a point you choose wi
 When the swarm appears, each creature in it makes a CON Save, taking 4d10 Piercing damage on a failed save or half as much damage on a successful one. A creature also makes this save when it enters the spell's area for the first time on a turn or ends its turn there. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 5.
 - **Classes**: Cleric, Druid, Sorcerer
+![\|50](https://bg3.wiki/w/images/a/a2/Insect_Plague_Icon.webp)
 *(Source: PHB'24, page 289)*
 
 ### Insidious Pulse
@@ -9458,6 +9463,7 @@ Protective spirits flit around you in a radius 3 *(4.5m)* emanation for the dura
 When you cast this spell, you can designate creatures to be unaffected by it. Any other creature's Speed is halved in the Emanation, and whenever the Emanation enters a creature's space and whenever a creature enters the Emanation or ends its turn there, the creature must make a WIS Save. On a failed save, the creature takes 3d8 Radiant damage (if you are good or neutral) or 3d8 Necrotic damage (if you are evil). On a successful save, the creature takes half as much damage. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 3.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/d/d6/Spirit_Guardians_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Spirit Shroud
@@ -9674,6 +9680,7 @@ You send out a ripple of stilling antimagic. Each creature within range that is 
 You create a radius 4 *(6m)* sphere of yellow, nauseating gas centered on a point within range. The cloud is Heavily Obscured. The cloud lingers in the air for the duration or until a strong wind (such as the one created by [Gust of Wind](spells.md#gust-of-wind)) disperses it.
 Each creature that starts its turn in the Sphere must succeed on a CON Save or be [Poisoned](conditions.md#poisoned) until the end of the current turn. While [Poisoned](conditions.md#poisoned) in this way, the creature can't take an action or a Bonus Action.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/b7/Stinking_Cloud_Icon.webp)
 *(Source: PHB'24, page 320)*
 
 ### Stir the Mountain
@@ -11013,6 +11020,7 @@ A creature can move through the wall, albeit slowly and painfully. For every 30c
 2000000000000002m)* of movement. Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a DEX Save, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** Both types of damage increase by 1d8 for each spell slot level above 6.
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/6/6e/Wall_of_Thorns_Icon.webp)
 *(Source: PHB'24, page 339)*
 
 ### Wall of Water
@@ -11135,6 +11143,7 @@ The first time a creature enters the webs on a turn or starts its turn there, it
 A creature [Restrained](conditions.md#restrained) by the webs can take an action to make a STR (Athletics) check against your spell save DC. If it succeeds, it is no longer [Restrained](conditions.md#restrained).
 The webs are flammable. Anya size 1 *(1.5m)* cube of webs exposed to fire burns away in 1 round, dealing 2d4 Fire damage to any creature that starts its turn in the fire.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/8/8b/Web_Icon.webp)
 *(Source: PHB'24, page 340)*
 
 ### Web Sling
