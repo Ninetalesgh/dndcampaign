@@ -228,10 +228,8 @@
           }
 
           let narrowSearchNode = node;
-          console.log(split);
           for (let id of split)
           {
-            console.log(narrowSearchNode);
             narrowSearchNode = findIndexedContentNodeRecursive(narrowSearchNode, id);
           }
 
