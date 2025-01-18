@@ -4,7 +4,7 @@
 - **Weight**: 500 g
 - **Price**: 25 gp
 - **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
-  *Radius:* 1
+  *Effect Range:* 1 target
   *Effect:* 2d6 Acid damage or half on a successful Save.
 ![\|50](https://bg3.wiki/w/images/7/73/GRN_Acid_Vial_Unfaded_Icon.png)
 *The liquid bubbles slightly as it dissolves any impurities on the inner glass.*
@@ -27,7 +27,7 @@
 - **Weight**: 500 g
 - **Price**: 50 gp
 - **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
-  *Radius:* 1
+  *Effect Range:* 1 target
   *Effect:* 1d6 Fire damage and [Burning (1d4)](conditions.md#burning) or half and no condition on a successful Save.
 ![\|50](https://bg3.wiki/w/images/2/29/GRN_Alchemist%27s_Fire_Unfaded_Icon.png)
 *(Source: PHB'24, page222)*
@@ -86,7 +86,7 @@ Arrows are usually sold in bundles of 20 for 1 gp and typically stored in a Quiv
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a size 2 *(3m)* square area within range 2 *(3m)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 DEX Save or fall [Prone](conditions.md#prone).
+- **Properties**: As a Utilize Action, you can spill Ball Bearings from their pouch. They spread to cover a size 2 *(3m)* square area within range 2 *(3m)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 DEX Save or fall [Prone](conditions.md#prone).
 It takes 10 minutes to recover the Ball Bearings.
 *(Source: PHB'24, page224)*
 
@@ -138,7 +138,7 @@ It takes 10 minutes to recover the Ball Bearings.
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 1 gp
-- **Properties**: When rung as a Utilize action, a Bell produces a sound that can be heard up to 12 *(18m)* away.
+- **Properties**: When rung as a Utilize Action, a Bell produces a sound that can be heard up to 12 *(18m)* away.
 *(Source: PHB'24, page224)*
 
 ### Blanket
@@ -229,7 +229,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 10 gp
-- **Properties**: A Bullseye Lantern burns Oil as fuel to cast Bright Light in a length 12 *(18m)* Cone and Dim Light for an additional 12 *(18m)*.
+- **Properties**: A Bullseye Lantern burns [Oil](dm/items.md#oil) as fuel to cast [Bright Light](dm/items.md#bright-light) in a length 12 *(18m)* Cone and [Dim Light](dm/items.md#dim-light) for an additional 12 *(18m)*.
 *(Source: PHB'24, page226)*
 
 ### Burglar's Pack
@@ -254,7 +254,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can spread Caltrops from their bag to cover a 1 *(1.5m)* square area within range 1 *(1.5)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
+- **Properties**: As a Utilize Action, you can spread Caltrops from their bag to cover a 1 *(1.5m)* square area within range 1 *(1.5)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
 *(Source: PHB'24, page224)*
 
 ### Camel
@@ -310,7 +310,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 5 kg
 - **Price**: 5 gp
-- **Properties**: As a Utilize action, you can wrap a Chain around an unwilling creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+- **Properties**: As a Utilize Action, you can wrap a Chain around an unwilling creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
 *(Source: PHB'24, page224)*
 
 ### Chain Mail
@@ -359,7 +359,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 11 kg
 - **Price**: 25 gp
-- **Properties**: A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 5 *(7.5m)* from the anchor point, and you can't move more than 5 *(7.5m)* from there without undoing the anchor as a Bonus Action.
+- **Properties**: A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize Action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 5 *(7.5m)* from the anchor point, and you can't move more than 5 *(7.5m)* from there without undoing the anchor as a Bonus Action.
 *(Source: PHB'24, page225)*
 
 ### Club
@@ -679,7 +679,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 2 kg
 - **Price**: 2 gp
-- **Properties**: As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a [Rope](dm/items.md#rope) to the hook, you can then climb it.
+- **Properties**: As a Utilize Action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a [Rope](dm/items.md#rope) to the hook, you can then climb it.
 *(Source: PHB'24, page225)*
 
 ### Greataxe
@@ -763,7 +763,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 1.5 kg
 - **Price**: 5 gp
-- **Properties**: A Healer's Kit has ten uses. As a Utilize action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+- **Properties**: A Healer's Kit has ten uses. As a Utilize Action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 *(Source: PHB'24, page225)*
 
 ### Heavy Crossbow
@@ -802,7 +802,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: 500 g
 - **Price**: 25 gp
 - **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
-  *Radius:* 1
+  *Effect Range:* 1 target
   *Effect:* 2d8 Radiant damage if it is a Fiend or an Undead or half on a successful Save.
 *(Source: PHB'24, page226)*
 
@@ -826,7 +826,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 22.5 kg
 - **Price**: 5 gp
-- **Properties**: As a Utilize action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 1 meter). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
+- **Properties**: As a Utilize Action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 1 meter). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
 *(Source: PHB'24, page226)*
 
 ## Items I
@@ -855,7 +855,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 250 g
 - **Price**: 1 sp
-- **Properties**: As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](dm/items.md#rope) or [Chain](dm/items.md#chain) to the Spike.
+- **Properties**: As a Utilize Action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](dm/items.md#rope) or [Chain](dm/items.md#chain) to the Spike.
 Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Source: PHB'24, page228)*
 
@@ -915,7 +915,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 5 sp
-- **Properties**: A Lamp burns Oil as fuel to cast Bright Light in a radius 3 *(4.5m)* sphere and Dim Light for an another 6 *(9m)*.
+- **Properties**: A Lamp burns [Oil](dm/items.md#oil) as fuel to cast [Bright Light](dm/items.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](dm/items.md#dim-light) for an another 6 *(9m)*.
 *(Source: PHB'24, page226)*
 
 ### Lance
@@ -975,7 +975,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 10 gp
-- **Properties**: A Lock comes with a key. Without the key, a creature can use Thieves' Tools to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+- **Properties**: A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 *(Source: PHB'24, page226)*
 
 ### Longbow
@@ -1058,7 +1058,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(adventuring gear, Common)*
 - **Weight**: 3 kg
 - **Price**: 2 gp
-- **Properties**: As a Utilize action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
+- **Properties**: As a Utilize Action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Dexterity (Sleight of Hand) check. While bound, a creature has Disadvantage on attack rolls, and the creature is Restrained if the Manacles are attached to a chain or hook that is fixed in place. Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an action. Bursting them requires a successful DC 25 Strength (Athletics) check as an action.Each set of Manacles comes with a key. Without the key, a creature can use Thieves' Tools to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 *(Source: PHB'24, page226)*
 
 ### Map
@@ -1186,7 +1186,13 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 1 sp
-- **Properties**: You can douse a creature, object, or space with Oil or use it as fuel, as detailed below. Dousing a Creature or an Object. When you take the Attack action, you can replace one of your attacks with throwing an Oil flask. Target one creature or object within range 4 *(6m)* of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or be covered in oil. If the target takes Fire damage before the oil dries (after 1 minute), the target takes an extra 5 Fire damage from burning oil. Dousing a Space. You can take the Utilize action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. Fuel. Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize action) and rekindle it again until it has burned for a total of 6 hours.
+- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+  *Effect Range:* 1 target
+  *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning). 
+
+  *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. 
+
+  *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
 *(Source: PHB'24, page227)*
 
 ## Items P
@@ -1431,7 +1437,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
+- **Properties**: As a Utilize Action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
 You can bind an unwilling creature with the Rope only if the creature has the [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained) condition. If the creature's legs are bound, the creature has the [Restrained](conditions.md#restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 *(Source: PHB'24, page228)*
 
@@ -1559,7 +1565,7 @@ You can bind an unwilling creature with the Rope only if the creature has the [G
 ### Signal Whistle
 *(adventuring gear, Common)*
 - **Weight**: 5 cp
-- **Price**: When blown as a Utilize action, a Signal Whistle produces a sound that can be heard within range 120 *(180m)*.
+- **Price**: When blown as a Utilize Action, a Signal Whistle produces a sound that can be heard within range 120 *(180m)*.
 - **Properties**: *(Source: PHB'24, page228)*
 
 ### Sled
@@ -1639,7 +1645,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 1 sp
-- **Properties**: String has length 2 *(3m)*. You can tie a knot in it as a Utilize action.
+- **Properties**: String has length 2 *(3m)*. You can tie a knot in it as a Utilize Action.
 *(Source: PHB'24, page229)*
 
 ### Studded Leather Armor
@@ -1856,7 +1862,7 @@ Only **one** coating can be applied to a weapon at the same time.
 
 ## Throw Grenade
 When you take the Attack action, you can replace one of your attacks with throwing the grenade.
-You can throw anywhere within range 4 + STR of yourself. All creatures and objects inside the stated radius are affected and must take a DEX Save (DC 8 + your DEX + your PB), suffering the effect according to the result of the Save. Objects always fail their DEX Save.
+You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save (DC 8 + your DEX + your PB), suffering the effect according to the result of the Save. Objects always fail their DEX Save.
 
 ## Ship Info
 - **Speed**: A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 50 kg. 
