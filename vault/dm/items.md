@@ -39,7 +39,7 @@
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability:* Intelligence
   - *Utilize:* Identify a substance (DC 15), or start a fire (DC 15)
-[Craft](dm/items.md#item-info#crafting): All Grenades, [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions), [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
 *(Source: PHB'24, page220)*
 
 ### Ale (mug)
@@ -86,7 +86,8 @@ Arrows are usually sold in bundles of 20 for 1 gp and typically stored in a Quiv
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, size 2 *(3m)* square area within range 2 *(3m)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 DEX Save or fall [Prone](conditions.md#prone). It takes 10 minutes to recover the Ball Bearings.
+- **Properties**: As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a size 2 *(3m)* square area within range 2 *(3m)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 DEX Save or fall [Prone](conditions.md#prone).
+It takes 10 minutes to recover the Ball Bearings.
 *(Source: PHB'24, page224)*
 
 ### Barrel
@@ -178,7 +179,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 25 gp
 - **Properties**:
-  - *Craft: Grind down Bonecap and mix with plant oil to create a* [Basic Poison](dm/items.md#basic-poison).
+  - *Craft: Grind down Bonecap and mix with fat to create a* [Basic Poison](dm/items.md#basic-poison).
 ![\|50](https://bg3.wiki/w/images/4/49/Bonecap_Item_Icon.png)
 *An acidic, foul-tasting mushroom that can be found anywhere bodies have been buried. Or left to rot.*
 *(Source: Baldur's Gate 3)*
@@ -214,7 +215,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability:* Intelligence
   - *Utilize:* Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-[Craft](dm/items.md#item-info#crafting): All Potions.
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions) that require distillation or fermentation. 
 *(Source: PHB'24, page220)*
 
 ### Bucket
@@ -235,7 +236,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 24 kg
 - **Price**: 16 gp
-- **Properties**: A Burglar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Ball Bearings](dm/items.md#ball-bearings), [Bell](dm/items.md#bell), 10 [Candles](dm/items.md#candles), [Crowbar](dm/items.md#crowbar), [Hooded Lantern](dm/items.md#hooded-lantern), 7 flasks of [Oil](dm/items.md#oil), 5 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
+- **Properties**: A Burglar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Ball Bearings](dm/items.md#ball-bearings), [Bell](dm/items.md#bell), 10 [Candles](dm/items.md#candle), [Crowbar](dm/items.md#crowbar), [Hooded Lantern](dm/items.md#hooded-lantern), 7 flasks of [Oil](dm/items.md#oil), 5 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page224)*
 
 ## Items C
@@ -463,7 +464,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 34.5 kg
 - **Price**: 39 gp
-- **Properties**: A Diplomat's Pack contains the following items: Chest, Fine Clothes, Ink, 5 Ink Pens, Lamp, 2 Map or Scroll Cases, 4 flasks of Oil, 5 sheets of Paper, 5 sheets of Parchment, Perfume, and Tinderbox.
+- **Properties**: A Diplomat's Pack contains the following items: [Chest](dm/items.md#chest), [Fine Clothes](dm/items.md#fine-clothes), [Ink](dm/items.md#ink), 5 [Ink Pens](dm/items.md#ink-pen), [Lamp](dm/items.md#lamp), 2 [Map or Scroll Cases](dm/items.md#map-or-scroll-case), 4 flasks of [Oil](dm/items.md#oil), 5 sheets of [Paper](dm/items.md#paper), 5 sheets of [Parchment](dm/items.md#parchment), [Perfume](dm/items.md#perfume), and [Tinderbox](dm/items.md#tinderbox).
 *(Source: PHB'24, page225)*
 
 ### Disguise Kit
@@ -575,7 +576,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 25 gp
 - **Properties**:
-  - *Craft: Crush Fire Amber to Ash and carefully boil in oil to create an* [Alchemist's Fire](dm/items.md#alchemists-fire).
+  - *Craft: Crush Fire Amber to ash and dissolve in hot oil to create an* [Alchemist's Fire](dm/items.md#alchemists-fire).
 ![\|50](https://bg3.wiki/w/images/5/5d/Fire_Amber_Item_Icon.png)
 *Lambent from within, these crystals are the very progenitors of flame.*
 *(Source: Baldur's Gate 3)*
@@ -678,7 +679,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 2 kg
 - **Price**: 2 gp
-- **Properties**: As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a Rope to the hook, you can then climb it.
+- **Properties**: As a Utilize action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a [Rope](dm/items.md#rope) to the hook, you can then climb it.
 *(Source: PHB'24, page225)*
 
 ### Greataxe
@@ -783,7 +784,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability*: Intelligence
   - *Utilize:* Identify a plant (DC 10)
-[Craft](dm/items.md#item-info#crafting): All Elixirs, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
+[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#concoctions) with plant ingredients, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
 *(Source: PHB'24, page221)*
 
 ### Hide Armor
@@ -797,17 +798,19 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Source: PHB'24, page 219)*
 
 ### Holy Water
-*(adventuring gear, Common)*
+*(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 25 gp
-- **Properties**: When you take the Attack action, you can replace one of your attacks with throwing a flask of Holy Water. Target one creature you can see within range 4 *(6m)* of yourself. The target must succeed on a Dexterity saving throw (DC 8 plus your Dexterity modifier and Proficiency Bonus) or take 2d8 Radiant damage if it is a Fiend or an Undead.
+- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+  *Radius:* 1
+  *Effect:* 2d8 Radiant damage if it is a Fiend or an Undead or half on a successful Save.
 *(Source: PHB'24, page226)*
 
 ### Hooded Lantern
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 5 gp
-- **Properties**: A Hooded Lantern burns Oil as fuel to cast Bright Light in a radius 6 *(9m)* sphere and Dim Light for another 6 *(9m)*. As a Bonus Action, you can lower the hood, reducing the light to Dim Light with range 1 *(1.5m)*, or raise it again.
+- **Properties**: A Hooded Lantern burns [Oil](dm/items.md#oil) as fuel to cast [Bright Light](game_rules.md#bright-light) in a radius 6 *(9m)* sphere and [Dim Light](game_rules.md#advanced-rules#dim-light) for another 6 *(9m)*. As a Bonus Action, you can lower the hood, reducing the light to [Dim Light](game_rules.md#advanced-rules#dim-light) with range 1 *(1.5m)*, or raise it again.
 *(Source: PHB'24, page226)*
 
 ### Horn
@@ -831,14 +834,14 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 10 gp
-- **Properties**: Ink comes in a 1-ounce bottle, which provides enough ink to write about 500 pages.
+- **Properties**: Ink comes in a 30 milliliter bottle, which provides enough ink to write about 500 pages.
 *(Source: PHB'24, page226)*
 
 ### Ink Pen
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 2 cp
-- **Properties**: Using Ink, an Ink Pen is used to write or draw.
+- **Properties**: Using [Ink](dm/items.md#ink), an Ink Pen is used to write or draw.
 *(Source: PHB'24, page226)*
 
 ### Iron Pot
@@ -852,7 +855,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(adventuring gear, Common)*
 - **Weight**: 250 g
 - **Price**: 1 sp
-- **Properties**: As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a Rope or Chain to the Spike.
+- **Properties**: As a Utilize action, you can use a blunt object, such as a Light Hammer, to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [Rope](dm/items.md#rope) or [Chain](dm/items.md#chain) to the Spike.
 Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Source: PHB'24, page228)*
 
@@ -1131,7 +1134,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: -
 - **Price**: 25 gp 
 - **Properties**:
-  - *Craft: Sun dry, crush to a herb, let rest in warm water and distill to an* [Antidote](dm/items.md-antidote).
+  - *Craft: Sun dry and crush to flakes, submerge in boiling clear water then distill to an* [Antidote](dm/items.md-antidote).
 ![\|50](https://bg3.wiki/w/images/3/35/Mugwort_Item_Icon.png)
 *A bane of farmers and gardeners, this quick-growing weed reappears mere days after being cut.*
 
@@ -1234,7 +1237,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 5 gp
-- **Properties**: Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within range 1 *(1.5m)* of yourself.
+- **Properties**: Perfume comes in a 120 milliliter vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within range 1 *(1.5m)* of yourself.
 *(Source: PHB'24, page227)*
 
 ### Pike
@@ -1287,7 +1290,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 - **Properties**: [Tools](dm/items.md#item-info#tools).
   - *Ability*: Intelligence
   - *Utilize:* Detect a poisoned object (DC 10)
-[Craft](dm/items.md#item-info#crafting): All Coatings.
+[Craft](dm/items.md#item-info#crafting): All [Coatings](dm/items.md#concoctions).
 *(Source: PHB'24, page221)*
 
 ### Pole
@@ -1419,7 +1422,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 - **Weight**: -
 - **Price**: 25 gp
 - **Properties**:
-  - *Craft: Grind down dried Rogue's Morsel and boil in salt water to brew a* [Potion of Healing](dm/items.md#potion-of-healing).
+  - *Craft: Grind down dried Rogue's Morsel and boil in salt water to create a* [Potion of Healing](dm/items.md#potion-of-healing).
 ![\|50](https://bg3.wiki/w/images/a/aa/Rogue%27s_Morsel_Item_Icon.png)
 *Frequently referenced in tales of roguish adventures, this mushroom can be quite the boon for those who know how to use it.*
 *(Source: Baldur's Gate 3)*
@@ -1428,7 +1431,7 @@ Needles are usually sold in bundles of 50 for 1 gp and typically stored in a Pou
 *(adventuring gear, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
-- **Properties**: As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.You can bind an unwilling creature with the Rope only if the creature has the Grappled, Incapacitated, or Restrained condition. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
+- **Properties**: As a Utilize action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.You can bind an unwilling creature with the Rope only if the creature has the [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained) condition. If the creature's legs are bound, the creature has the [Restrained](conditions.md#restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 *(Source: PHB'24, page228)*
 
 ### Rowboat
@@ -1678,7 +1681,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 500 g
 - **Price**: 5 sp
-- **Properties**: A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a Candle, Lamp, Lantern, or Torch—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
+- **Properties**: A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [Candle](dm/items.md#candle), [Lamp](dm/items.md#lamp), [Lantern](dm/items.md#lantern), or [Torch](dm/items.md#torch)—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
 *(Source: PHB'24, page229)*
 
 ### Tinker's Tools
@@ -1723,7 +1726,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: -
 - **Price**: 1 gp
-- **Properties**: A Vial holds up to 4 ounces.
+- **Properties**: A Vial holds up to 120 milliliter.
 *(Source: PHB'24, page229)*
 
 ### Viol
@@ -1790,7 +1793,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 2.5 kg (full)
 - **Price**: 2 sp
-- **Properties**: A Waterskin holds up to 4 pints. If you don't drink sufficient water, you risk dehydration.
+- **Properties**: A Waterskin holds up to 2 liters. If you don't drink sufficient water, you risk [Dehydration](game_rules.md#food-and-water-needs).
 *(Source: PHB'24, page229)*
 
 ### Weaver's Tools
@@ -1833,15 +1836,14 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 
 # Item Info
 
-## Crafting
-For Crafting Elixirs, Coatings, Grenades, or Potions:
-At the end of every Long Rest, you can consume one Ingredient to craft a related product.
+## Concoctions
+At the end of every Long Rest, you can consume one Ingredient to craft a related Concoction.
+Concoctions are: Elixirs, Coatings, Grenades, or Potions.
 
-[TODO] Lets see how this evolves. Not even sure if I leave these associations:
-Herbalism Kit -> Elixirs.
-Poisoner's Kit -> Coatings.
-Alchemist's Supplies -> Grenades.
-Brewer's Supplies -> Potions.
+[TODO] Mechanics for finding out what concoctions an ingredient is good for?  
+
+## Crafting
+[TODO] Crafting Read as Written is kind of weird. so not sure I want to do it like that.
 
 ## Drink or Administer Potion
 As a Bonus Action you may drink the potion yourself or administer it to a willing or [Unconscious](conditions.md#unconscious) creature to grant the stated effect.
