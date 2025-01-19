@@ -188,27 +188,25 @@ Trigger an Action you previously [Readied](game_rules.md#ready-action).
 - **Death Saves & Death** -> When you hit 0 HP you are [Unconscious](conditions.md#unconscious).
 
 ## Damage Types
+- ![\|25](https://bg3.wiki/w/images/7/7d/Bludgeoning_Damage_Icon.png) **Bludgeoning** -> Bonk.
+- ![\|25](https://bg3.wiki/w/images/0/0b/Piercing_Damage_Icon.png) **Piercing** -> Acupuncture.
+- ![\|25](https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png) **Slashing** -> Cut things.
+- ![\|25](https://bg3.wiki/w/images/0/05/Cold_Damage_Icon.png) **Cold** -> Very icy.
+- ![\|25](https://bg3.wiki/w/images/8/84/Fire_Damage_Icon.png) **Fire** -> Hottie.
+- ![\|25](https://bg3.wiki/w/images/3/31/Lightning_Damage_Icon.png) **Lightning** -> That's shocking.
+- ![\|25](https://bg3.wiki/w/images/8/87/Thunder_Damage_Icon.png) **Thunder** -> VERY LOUD THINGS.
+- ![\|25](https://bg3.wiki/w/images/5/5f/Acid_Damage_Icon.png) **Acid** -> Alien blood and chemicals.
+- ![\|25](https://bg3.wiki/w/images/5/55/Poison_Damage_Icon.png) **Poison** -> McDonalds.
+- ![\|25](https://bg3.wiki/w/images/7/78/Radiant_Damage_Icon.png) **Radiant** -> Holy fire and sun lasers.
+- ![\|25](https://bg3.wiki/w/images/3/39/Necrotic_Damage_Icon.png) **Necrotic** -> Rot, death of flesh.
+- ![\|25](https://bg3.wiki/w/images/d/d1/Force_Damage_Icon.png) **Force** -> Energy.
+- ![\|25](https://bg3.wiki/w/images/0/04/Psychic_Damage_Icon.png) **Psychic** -> Brain Hurty.
 ### Resistance
 Resistance to a damage type halves all damage of that type you take (round down).
 ### Vulnerability
 Vulnerability to a damage type doubles all damage of that type you take.
 ### Immunity
 Immunity to a damage type reduces all damage of that type to 0.
-
-- ![\|20](https://bg3.wiki/w/images/7/7d/Bludgeoning_Damage_Icon.png) **Bludgeoning** -> Bonk.
-- ![\|20](https://bg3.wiki/w/images/0/0b/Piercing_Damage_Icon.png) **Piercing** -> Acupuncture.
-- ![\|20](https://bg3.wiki/w/images/f/f0/Slashing_Damage_Icon.png) **Slashing** -> Cut things.
-- ![\|20](https://bg3.wiki/w/images/0/05/Cold_Damage_Icon.png) **Cold** -> Very icy.
-- ![\|20](https://bg3.wiki/w/images/8/84/Fire_Damage_Icon.png) **Fire** -> Hottie.
-- ![\|20](https://bg3.wiki/w/images/3/31/Lightning_Damage_Icon.png) **Lightning** -> That's shocking.
-- ![\|20](https://bg3.wiki/w/images/8/87/Thunder_Damage_Icon.png) **Thunder** -> VERY LOUD THINGS.
-- ![\|20](https://bg3.wiki/w/images/5/5f/Acid_Damage_Icon.png) **Acid** -> Alien blood and chemicals.
-- ![\|20](https://bg3.wiki/w/images/5/55/Poison_Damage_Icon.png) **Poison** -> McDonalds.
-- ![\|20](https://bg3.wiki/w/images/7/78/Radiant_Damage_Icon.png) **Radiant** -> Holy fire and sun lasers.
-- ![\|20](https://bg3.wiki/w/images/3/39/Necrotic_Damage_Icon.png) **Necrotic** -> Rot, death of flesh.
-- ![\|20](https://bg3.wiki/w/images/d/d1/Force_Damage_Icon.png) **Force** -> Energy.
-- ![\|20](https://bg3.wiki/w/images/0/04/Psychic_Damage_Icon.png) **Psychic** -> Brain Hurty.
-
 
 
 ## Light and Visibility
