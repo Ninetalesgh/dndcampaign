@@ -48,8 +48,10 @@
 - **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 - **Cantrips**: 
-  - *Aasimar:* [Light](./../spells.md#spells-l#light)
-  - *Warlock:* [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
+  - *Warlock:* 
+    [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
+  - *Aasimar:* 
+    [Light](./../spells.md#spells-l#light)
 [TODO] You had a Cantrip to choose still, I think, right?
 - **Spells**
   *(none)*
