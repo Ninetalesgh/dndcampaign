@@ -176,7 +176,6 @@ Regain *(d8 + CON)* HP per expended dice.
 [Silvery Barbs](./../spells.md#spells-s#silvery-barbs)
 [Sleep](./../spells.md#spells-s#sleep)
 [Snare](./../spells.md#spells-s#snare)
-Custom Addition: [Spell Cheat](./../spells.md#spells-s#spell-cheat)
 [Tasha's Caustic Brew](./../spells.md#spells-t#tasha's-caustic-brew)
 [Tasha's Hideous Laughter](./../spells.md#spells-t#tasha's-hideous-laughter)
 [Tenser's Floating Disk](./../spells.md#spells-t#tenser's-floating-disk)
@@ -184,6 +183,8 @@ Custom Addition: [Spell Cheat](./../spells.md#spells-s#spell-cheat)
 [Twist Light](./../spells.md#spells-t#twist-light)
 [Unseen Servant](./../spells.md#spells-u#unseen-servant)
 [Witch Bolt](./../spells.md#spells-w#witch-bolt)
+Custom Addition for Mufi's Magic Initiate:
+[Spell Cheat](./../spells.md#spells-s#spell-cheat)
 ## Level 2
 [Aganazzar's Scorcher](./../spells.md#spells-a#aganazzar's-scorcher)
 [Air Bubble](./../spells.md#spells-a#air-bubble)

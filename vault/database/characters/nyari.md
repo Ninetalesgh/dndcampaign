@@ -101,11 +101,19 @@ Your LoH charges equal to 5 * your Paladin Level.
 [Protection from Evil and Good](./../spells.md#spells-p#protection-from-evil-and-good)
 [Purify Food and Drink](./../spells.md#spells-p#purify-food-and-drink)
 [Shield of Faith](./../spells.md#spells-s#shield-of-faith)
-Custom addition: [Smite of Autumn](./../spells.md#spells-s#smite-of-autumn) *(replacing default [Divine Smite](./../spells.md#spells-d#divine-smite))*
-Custom addition: [Smite of Spring](./../spells.md#spells-s#smite-of-spring) *(replacing default [Searing Smite](./../spells.md#spells-s#searing-smite))*
-Custom addition: [Smite of Summer](./../spells.md#spells-s#smite-of-summer) *(replacing default [Thunderous Smite](./../spells.md#spells-t#thunderous-smite))*
-Custom addition: [Smite of Winter](./../spells.md#spells-s#smite-of-winter) *(replacing default [Wrathful Smite](./../spells.md#spells-w#wrathful-smite))*
 [The Queen's Will](./../spells.md#spells-t#the-queen's-will)
+
+Custom addition for Nyari: 
+[Smite of Autumn](./../spells.md#spells-s#smite-of-autumn) 
+[Smite of Spring](./../spells.md#spells-s#smite-of-spring) 
+[Smite of Summer](./../spells.md#spells-s#smite-of-summer) 
+[Smite of Winter](./../spells.md#spells-s#smite-of-winter) 
+
+Unavailable for Nyari: 
+[Divine Smite](./../spells.md#spells-d#divine-smite)
+[Searing Smite](./../spells.md#spells-s#searing-smite)
+[Thunderous Smite](./../spells.md#spells-t#thunderous-smite)
+[Wrathful Smite](./../spells.md#spells-w#wrathful-smite)
 ## Level 2
 [Anchor Spirit](./../spells.md#spells-a#anchor-spirit)
 [Bloodbond Step](./../spells.md#spells-b#bloodbond-step)
@@ -114,7 +122,6 @@ Custom addition: [Smite of Winter](./../spells.md#spells-s#smite-of-winter) *(re
 [Disfigure](./../spells.md#spells-d#disfigure)
 [Exultation of Blood](./../spells.md#spells-e#exultation-of-blood)
 [Find Steed](./../spells.md#spells-f#find-steed)
-Custom addition: [Flash Freeze](./../spells.md#spells-f#flash-freeze)
 [Gentle Repose](./../spells.md#spells-g#gentle-repose)
 [Glyph of Light's Bane](./../spells.md#spells-g#glyph-of-light's-bane)
 [Honor's Bond](./../spells.md#spells-h#honor's-bond)
@@ -135,6 +142,8 @@ Custom addition: [Flash Freeze](./../spells.md#spells-f#flash-freeze)
 [Swathe in Shadow](./../spells.md#spells-s#swathe-in-shadow)
 [Warding Bond](./../spells.md#spells-w#warding-bond)
 [Zone of Truth](./../spells.md#spells-z#zone-of-truth)
+Custom addition for Nyari: 
+[Flash Freeze](./../spells.md#spells-f#flash-freeze)
 ## Level 3
 [Aura of Vitality](./../spells.md#spells-a#aura-of-vitality)
 [Blasphemous Abrogation](./../spells.md#spells-b#blasphemous-abrogation)
