@@ -5917,7 +5917,7 @@ You sacrifice some of your health to mend another creature's injuries. You take 
 - **Range**: Touch
 - **Components**: V
 - **Duration**: 1 hour
-You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds Bright Light in a radius 4 *(6m)* sphere and Dim Light for an additional 4 *(6m)*. The light can be colored as you like.
+You touch one Large or smaller object that isn't being worn or carried by someone else. Until the spell ends, the object sheds [Bright Light](game_rules.md#bright-light) in a radius 4 *(6m)* sphere and [Dim Light](game_rules.md#dim-light) for an additional 4 *(6m)*. The light can be colored as you like.
 Covering the object with something opaque blocks the light. The spell ends if you cast it again.
 - **Classes**: Artificer, Bard, Cleric, Sorcerer, Wizard
 ![\|50](https://bg3.wiki/w/images/5/5c/Light_Icon.webp)
