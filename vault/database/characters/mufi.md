@@ -45,8 +45,7 @@
 
 ## Feats and Actions
 ### Actions
-![\|30](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png)
-- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 - **Cantrips**: 
   - *Magic Initiate:* [Guidance](./../spells.md#spells-g#guidance), [Light](./.././../spells.md#spells-l#light)
@@ -55,12 +54,10 @@
   - *Magic Initiate:* [Spell Cheat](./../spells.md#spells-s#spell-cheat) *(one free use per Long Rest)*
 
 ### Bonus Actions
-![\|30](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
-  *(none)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) *(none)*
 
 ### Reactions
-![\|30](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png)
-- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortswords. 
