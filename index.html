@@ -380,7 +380,7 @@
             if (link.parentElement && link.parentElement.innerHTML.trim() === link.outerHTML.trim())
             {
               const node = await getIndexedContentNode(link.dataset.url);
-              
+              if (node === null) { continue; }
               const children = node.element.nextElementSibling.children;
               let existingImg = null;
 
