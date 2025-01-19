@@ -569,6 +569,7 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 - **Duration**: 1 hour
 You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/8/8b/Barkskin_Icon.webp)
 *(Source: PHB'24, page 245)*
 
 ### Bathe in Flame
@@ -3387,6 +3388,7 @@ If two or more creatures teleported out of the target space in the last hour, on
 You touch a creature and choose STR, DEX, INT, WIS, or CHA . For the duration, the target has Advantage on ability checks using the chosen ability.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 - **Classes**: Artificer, Bard, Cleric, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/6/65/Enhance_Ability_Icon.webp)
 *(Source: PHB'24, page 268)*
 
 ### Enlarge/Reduce
@@ -3537,8 +3539,9 @@ A [Restrained](conditions.md#restrained) creature can take an action to make a S
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
-You take the Dash action, and until the spell ends, you can take that action again as a Bonus Action.
+You take the [Dash](game_rules.md#dash) action, and until the spell ends, you can take that action again as a Bonus Action.
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/d/d6/Expeditious_Retreat_Icon.webp)
 *(Source: PHB'24, page 270)*
 
 ### Exploding Shot
@@ -3723,6 +3726,7 @@ This spell's duration increases when you reach 5th level (10 minutes), 11th leve
 - **Duration**: 1 minute
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 12 *(18m)* per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/0/00/Feather_Fall_Icon.webp)
 *(Source: PHB'24, page 271)*
 
 ### Feign Death
@@ -4034,6 +4038,7 @@ You attempt to turn one creature that you can see within range into stone. The t
 A [Restrained](conditions.md#restrained) target makes another CON Save at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and is [Petrified](conditions.md#petrified) for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
 If you maintain your Concentration on this spell for the entire possible duration, the target is [Petrified](conditions.md#petrified) until the condition is ended by Greater Restoration or similar magic.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/7/72/Flesh_to_Stone_Icon.webp)
 *(Source: PHB'24, page 275)*
 
 ### Flickerbolt
@@ -4321,6 +4326,7 @@ While in this form, the target's only method of movement is a Fly Speed of 2 *(3
 The target can't talk or manipulate objects, and any objects it was carrying or holding can't be dropped, used, or otherwise interacted with. Finally, the target can't attack or cast spells.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/6/62/Gaseous_Form_Icon.webp)
 *(Source: PHB'24, page 277)*
 
 ### Gate
@@ -5046,6 +5052,7 @@ Choose a manufactured metal object, such as a metal weapon or a suit of Heavy or
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a CON Save or drop the object if it can. If it doesn't drop the object, it has Disadvantage on attack rolls and ability checks until the start of your next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 2.
 - **Classes**: Artificer, Bard, Druid
+![\|50](https://bg3.wiki/w/images/a/a3/Heat_Metal_Icon.webp)
 *(Source: PHB'24, page 284)*
 
 ### Hellfire Castigation
@@ -5745,6 +5752,7 @@ If the attack roll scores a critical hit, the target of that missile takes 5d4 f
 You touch a willing creature. Once on each of its turns until the spell ends, that creature can jump up to 6 *(9m)* by spending 2 *(3m)* of movement.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/4/46/Enhance_Leap_Icon.webp)
 *(Source: PHB'24, page 290)*
 
 # Spells K
@@ -6113,6 +6121,7 @@ If the target is a drow, shunned, or spiderkind creature, you may cast this spel
 You touch a creature. The target's Speed increases by 2 *(3m)* until the spell ends.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 - **Classes**: Artificer, Bard, Druid, Ranger, Wizard
+![\|50](https://bg3.wiki/w/images/3/35/Longstrider_Icon.webp)
 *(Source: PHB'24, page 293)*
 
 # Spells M
@@ -6249,6 +6258,7 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls. The spell ends early if you cast it again.
 **Using a Higher-Level Spell Slot.** The bonus increases to +2 with a level 3-5 spell slot. The bonus increases to +3 with a level 6+ spell slot.
 - **Classes**: Artificer, Paladin, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/9/9c/Magic_Weapon_Icon.webp)
 *(Source: PHB'24, page 295)*
 
 ### Magnify Gravity
@@ -7563,6 +7573,7 @@ The target gains a number of Temporary Hit Points equal to the Hit Points of the
 The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
 The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 - **Classes**: Bard, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/f/f6/Polymorph_Icon.webp)
 *(Source: PHB'24, page 306)*
 
 ### Power Word Drown
@@ -9168,6 +9179,7 @@ You alter time around up to six creatures of your choice in a size 8 *(12m)* cub
 An affected target's Speed is halved, it takes a -2 penalty to AC and DEX Saves, and it can't take Reactions. On its turns, it can take either an action or a Bonus Action, not both, and it can make only one attack if it takes the Attack action. If it casts a spell with a Somatic component, there is a 25 percent chance the spell fails as a result of the target making the spell's gestures too slowly.
 An affected target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/be/Slow_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Smite of Autumn
@@ -9451,6 +9463,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 The ground in a radius 4 *(6m)* sphere centered on a point within range sprouts hard spikes and thorns. The area becomes Difficult Terrain for the duration. When a creature moves into or within the area, it takes 2d4 Piercing damage for every 1 *(1.5m)* it travels.
 The transformation of the ground is camouflaged to look natural. Any creature that can't see the area when the spell is cast must take a Search action and succeed on a WIS (Perception or Survival) check against your spell save DC to recognize the terrain as hazardous before entering it.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/d/d4/Spike_Growth_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Spirit Guardians
@@ -10199,6 +10212,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 If the object is worn or carried by a creature, that creature must succeed on a STR Save, or you pull the object away and move it up to 6 *(9m)* in any direction within the spell's range.
 You can exert fine control on objects with your telekinetic grip, such as manipulating a simple tool, opening a door or a container, stowing or retrieving an item from an open container, or pouring the contents from a vial.
 - **Classes**: Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/c7/Telekinesis_Icon.webp)
 *(Source: PHB'24, page 331)*
 
 ### Telepathy
