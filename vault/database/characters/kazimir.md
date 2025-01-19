@@ -1,18 +1,18 @@
 # Kazimir
 ## Stats and Proficiencies
-- **Initiative**: +4 *(DEX + PB)*
+- **Initiative**: +3 *(DEX + PB)*
 - **AC**: 16 ([Scale Mail](dm/items.md#scale-mail) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
-| STR 17 (+3)        | DEX 12 (+2)          | CON 14 (+2)       |
+| STR 17 (+3)        | DEX 12 (+1)          | CON 14 (+2)       |
 | :----------------- | :------------------- | :---------------- |
-| ☑ **STR Save +5**  | ☐ DEX Save +2        | ☑ **CON Save +4** |
-| ☑ **Athletics +5** | ☐ Acrobatics +2      | .                 |
-| .                  | ☐ Sleight of Hand +2 | .                 |
-| .                  | ☐ Stealth +2         | .                 |
+| ☑ **STR Save +5**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
+| ☑ **Athletics +5** | ☐ Acrobatics +1      | .                 |
+| .                  | ☐ Sleight of Hand +1 | .                 |
+| .                  | ☐ Stealth +1         | .                 |
 
 
 | INT 10 (+0)        | WIS 12 (+1)          | CHA 10 (+0)        |
