@@ -41,11 +41,18 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+  [Attack](game_rules.md#turn-based-play#attack)
+  [Dash](game_rules.md#turn-based-play#dash)
+  [Disengage](game_rules.md#turn-based-play#disengage)
+  [Dodge](game_rules.md#turn-based-play#dodge)
+  [Hide](game_rules.md#turn-based-play#hide)
+  [Ready Action](game_rules.md#turn-based-play#ready-action)
+  [Help](game_rules.md#turn-based-play#help)
+  [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
-- **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).

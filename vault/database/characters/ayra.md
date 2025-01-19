@@ -44,27 +44,33 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+  [Attack](game_rules.md#turn-based-play#attack)
+  [Dash](game_rules.md#turn-based-play#dash)
+  [Disengage](game_rules.md#turn-based-play#disengage)
+  [Dodge](game_rules.md#turn-based-play#dodge)
+  [Hide](game_rules.md#turn-based-play#hide)
+  [Ready Action](game_rules.md#turn-based-play#ready-action)
+  [Help](game_rules.md#turn-based-play#help)
+  [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-- **Cantrips**: 
-  - *Warlock:* 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
+
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
     [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
-  - *Aasimar:* 
     [Light](./../spells.md#spells-l#light)
 [TODO] You had a Cantrip to choose still, I think, right?
-- **Spells**
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**
   *(none)*
-- **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
-- **Spells**
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Spells**
   [Armor of Agathys](./../spells.md#spells-a#armor-of-agathys)
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
-- **Spells**
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Spells**
   *(none)*
 
 ### Passive Feats
