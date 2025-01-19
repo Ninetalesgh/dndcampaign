@@ -186,7 +186,7 @@ Do something in the heat of the moment, whatever you try might be accomplished r
 
 #### Opportunity Attack
 Melee Attack someone who is about to move out of your Melee Reach (not if they're pushed or otherwise physically moved by force).
-![\|30](https://bg3.wiki/w/images/7/7c/Evasion_Icon.webp)
+![\|30](https://bg3.wiki/w/images/3/35/Opportunity_Attack_Icon.webp)
 
 #### Trigger Readied Action
 Trigger an Action you previously [Readied](game_rules.md#ready-action).
