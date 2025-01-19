@@ -138,15 +138,19 @@ If you roll a 20 on an attack roll before modifiers you score a ***Critical Hit*
   - **Melee Attack**: Attack something within reach, unless otherwise specified, your Melee Attack reach is 1 (so you can attack things directly next to you). Your Attack Modifier for Melee Attacks is your STR + your PB, if you're proficient with the weapon you're attacking with.
   - **Ranged Attack**: Attack something in range of your Ranged Attack. If the target is within range 1 or above normal range, you attack with Disadvantage. Your Attack Modifier for Ranged Attacks is your DEX + your PB, if you're proficient with the weapon you're attacking with.
   - **Ranged or Melee Spell Attack**: Attack something in range of your Spell Attack, with the same restrictions other Melee or Ranged attacks would have respectively. Your Attack Modifier for Spell Attacks is your Spellcasting Ability (INT/WIS/CHA) + your PB. *(For example, if your PB is +2 and your WIS is +3 as a Druid, you would have a +5 Spell Attack Modifier)*
+![\|30](https://bg3.wiki/w/images/c/ca/Main_Hand_Attack_Icon.webp)
 
 #### Dash
 Gain additional Speed equal to your *modified* Movement Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
+![\|30](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
 
 #### Disengage
 Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) for the rest of this turn.
+![\|30](https://bg3.wiki/w/images/9/94/Disengage_Icon.webp)
 
 #### Dodge
 Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
+![\|30](https://bg3.wiki/w/images/4/4d/Uncanny_Dodge_Icon.webp)
 
 #### Hide
 Make a DC 15 DEX (Stealth) Check to try to conceal yourself, while you're [Heavily Obscured](game_rules.md#heavily-obscured) or behind at least [Three-Quarters Cover](game_rules.md#cover) and out of any other enemy's line of sight. On a successful check you are mechanically [Invisible](conditions.md#invisible). Make note of your stealth check's total score, that is the DC for your enemy to find you without directly walking into line of sight. 
@@ -155,16 +159,19 @@ The condition ends on you immediately after any of the following occurs:
   - an enemy finds you.
   - you make an Attack Roll.
   - you cast a Spell with a Verbal component.
+![\|30](https://bg3.wiki/w/images/5/59/Hiding_Condition_Icon.webp)
 
 #### Ready Action
 Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#trigger-readied-action) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
 
 When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your Reaction when the trigger occurs. To be readied, a spell must have a casting time of an Action, and holding on to the spell's magic requires [Concentration](conditions.md#concentration), which you can maintain up to the start of your next turn. If your [Concentration](conditions.md#concentration) is broken, the spell dissipates without taking effect.
+![\|30](https://bg3.wiki/w/images/e/e1/Magical_Ambush_Icon.webp)
 
 #### Help
 When you take the Help action, you do one of the following:
 - **Assist an Ability Check.** Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an Ability check. That ally has Advantage on the next Ability check they make with the chosen skill or tool. This benefit expires if the ally doesn't use it before the start of your next turn. The DM has final say on whether your assistance is possible.
 - **Assist an Attack Roll.** You momentarily distract an enemy within range 1 *(1.5m)* of you, giving Advantage to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
+![\|30](https://bg3.wiki/w/images/d/dc/Fast_Hands_Icon.webp)
 
 #### Influence, Search, Study, Utilize, or Stabilize
 Do something in the heat of the moment, whatever you try might be accomplished right away or at least get you on the right track!
@@ -173,14 +180,17 @@ Do something in the heat of the moment, whatever you try might be accomplished r
   - **Study something**, like a spell that an evildoer cast, find out where interleaved mechanical switches lead to understand what would happen if you flipped some switch, or how tree roots are growing towards a source of some energy. (Usually INT)
   - **Versatile**: Use, or do something with, some object, whatever it might be.
   - Attempt to **stabilize** another character on the brink of death, at 0 HP, with a WIS (Medicine) Check. 
+![\|30](https://bg3.wiki/w/images/b/bd/Generic_Tactical_Icon.webp)
   
 ### Default Reactions
 
 #### Opportunity Attack
 Melee Attack someone who is about to move out of your Melee Reach (not if they're pushed or otherwise physically moved by force).
+![\|30](https://bg3.wiki/w/images/7/7c/Evasion_Icon.webp)
 
 #### Trigger Readied Action
 Trigger an Action you previously [Readied](game_rules.md#ready-action).
+![\|30](https://bg3.wiki/w/images/8/86/Generic_Threat_Icon.webp)
 
 # Advanced Rules
 
