@@ -25,7 +25,7 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 
 ### Abyssal Abduction
 *Level 3 Conjuration*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action ![\|50](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: Instantaneous
