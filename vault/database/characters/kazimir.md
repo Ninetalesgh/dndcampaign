@@ -30,8 +30,7 @@
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
-- **Languages**: Common, [TODO] 2 more?
-
+- **Languages**: Common, Undercommon, Thieves' Cant
 ## Equipment
 [Scale Mail](dm/items.md#scale-mail)
 [Alchemist's Supplies](dm/items.md#alchemists-supplies)
