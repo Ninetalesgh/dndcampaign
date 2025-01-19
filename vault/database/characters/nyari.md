@@ -45,16 +45,14 @@
 
 ## Feats and Actions
 ### Actions
-![\|30](https://bg3.wiki/w/images/f/f2/Action_Icon.png)
-- **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 ### Bonus Actions
-![\|30](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
 - **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 charges)*
 
 ### Reactions
-![\|30](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png)
-- **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 
 - **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
