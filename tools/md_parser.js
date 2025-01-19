@@ -88,7 +88,7 @@ function parseMd(input)
     }
 
     //images 
-    lines[i] = lines[i].replace(/!\[(?:[^\|]+)\|([^\]]+)\]\(([^)]+)\)/g, (m,g1,g2) => `<img src="${g2}" style="width:${g1}px;${g1 < 30 ? 'border:none;background:transparent;': ''}">` );
+    lines[i] = lines[i].replace(/!\[(?:[^\|]+)\|([^\]]+)\]\(([^)]+)\)/g, (m,g1,g2) => `<img src="${g2}" style="width:${g1}px;${g1 < 30 ? 'border:none;background:transparent;border-radius:3px;': ''}">` );
 
     //bold
     lines[i] = lines[i].replace(/\*\*((?:[^\s].*?[^\s])|[^\s])\*\*/g, "<b>$1</b>");
