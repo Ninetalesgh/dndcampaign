@@ -314,11 +314,21 @@
       applyNodeToView(dummyNode);
     }
 
+    let gContentPageController = null;
     function setContentPage(mdUrl)
     {
       fetchMd(mdUrl).then((node) => {
+          if (node)
+          {
+            if (gContentPageController)
+            {
+              gContentPageController.abort(); 
+            }
+            gContentPageController = new AbortController(); 
+       
             applyNodeToView(node);
-            addIconsToInlineLinks();
+            addIconsToInlineLinks(gContentPageController.signal);
+          }
         });
     }
 
@@ -349,30 +359,42 @@
       }      
     }
     
-    function addIconsToInlineLinks()
+    function addIconsToInlineLinks(signal)
     {
       //Go through inline links of current page, if it's the only child of its parent <p>, add the image to the button?
-        const inlineLinks = document.querySelectorAll('.inline-link');
-        for (let link of inlineLinks)
+      return new Promise(async (resolve, reject) => 
+      {
+        try 
         {
-          if (link.parentElement && link.parentElement.innerHTML.trim() === link.outerHTML.trim())
+          const interval = setInterval(()=>{
+            if (signal.aborted)
+            {
+              clearInterval(interval);
+              reject();
+            }
+          });
+      
+          const inlineLinks = document.querySelectorAll('.inline-link');
+          for (let link of inlineLinks)
           {
-            getIndexedContentNode(link.dataset.url).then((node) => {
-
+            if (link.parentElement && link.parentElement.innerHTML.trim() === link.outerHTML.trim())
+            {
+              const node = await getIndexedContentNode(link.dataset.url);
+              
               const children = node.element.nextElementSibling.children;
               let existingImg = null;
 
               for (let i = children.length -1; i >= 0; --i)
               {
                 const child = children[i];
-
+                
                 if (child.children.length > 0 && child.children[0] instanceof HTMLImageElement)
                 {
                   existingImg = child.children[0];
                   break;
                 }
               }
-
+              
               if (existingImg)
               {
                 let img = document.createElement('img');
@@ -384,11 +406,16 @@
                 link.style.alignItems = 'center';
                 link.prepend(img);
               }
-
-            });
+            }
           }
+        
+          resolve();
+        } catch(error)
+        {
+          console.log(error);
+          reject();
         }
-    
+      });
     }
 
     // EXECUTION
@@ -454,8 +481,8 @@
         }
       }
 
-      setContentPage(contentPageUrl);      
-      
+      fetchMd('/spells.md').then(setContentPage(contentPageUrl)).then(console.log(rootNode));      
+
       window.addEventListener('paste', (event) => {
         try 
         {

@@ -233,7 +233,7 @@ Custom Addition for Mufi's Magic Initiate:
 [Hurl Flame](./../spells.md#spells-h#hurl-flame)
 [Infernal Exhortation](./../spells.md#spells-i#infernal-exhortation)
 [Invisibility](./../spells.md#spells-i#invisibility)
-[Invocation of The Bloodlord](./../spells.md#spells-i#invocation-ofthe-bloodlord)
+[Invocation of The Bloodlord](./../spells.md#spells-i#invocation-of-the-bloodlord)
 [Jim's Glowing Coin](./../spells.md#spells-j#jim's-glowing-coin)
 [Kinetic Jaunt](./../spells.md#spells-k#kinetic-jaunt)
 [Knock](./../spells.md#spells-k#knock)
