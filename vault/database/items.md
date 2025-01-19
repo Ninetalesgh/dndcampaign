@@ -97,7 +97,6 @@ Items with high availability are always available for players to purchase. (with
 **Miscellaneous**: 
 [Iron Pot](dm/items.md#iron-pot)
 [Iron Spike](dm/items.md#iron-spike)
-[Iron Spikes](dm/items.md#iron-spikes)
 
 ## Florist
 [Herbalism Kit](dm/items.md#herbalism-kit)
