@@ -49,14 +49,22 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
-- **Cantrips**: 
-  - *Druid:* - [TODO] Which cantrips did you want again?
-  - *Wizard:* [Prestidigitation](./../spells.md#spells-p#prestidigitation)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+  [Attack](game_rules.md#turn-based-play#attack)
+  [Dash](game_rules.md#turn-based-play#dash)
+  [Disengage](game_rules.md#turn-based-play#disengage)
+  [Dodge](game_rules.md#turn-based-play#dodge)
+  [Hide](game_rules.md#turn-based-play#hide)
+  [Ready Action](game_rules.md#turn-based-play#ready-action)
+  [Help](game_rules.md#turn-based-play#help)
+  [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Guidance](./../spells.md#spells-g#guidance)
+  [Thorn Whip](./../spells.md#spells-t#thorn-whip)
+  [Prestidigitation](./../spells.md#spells-p#prestidigitation)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
-- **Wild Shape**: [Grappler](./../wildshapes.md#cr-1/4#grappler), [Nimble](./../wildshapes.md#cr-1/4#nimble), [Blindsight](./../wildshapes.md#cr-1/4#blindsight), [Burrower](./../wildshapes.md#cr-1/4#burrower) *(at level 2)* 
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Wild Shape**: [Grappler](./../wildshapes.md#cr-1/4#grappler), [Nimble](./../wildshapes.md#cr-1/4#nimble), [Blindsight](./../wildshapes.md#cr-1/4#blindsight), [Burrower](./../wildshapes.md#cr-1/4#burrower) *(at level 2)* 
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
