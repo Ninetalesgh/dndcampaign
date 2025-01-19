@@ -88,10 +88,6 @@ TODO: Divine Favor Seasonal?
 
 spell: wither and bloom
 spells: flash freeze
-Smite of Autumn,
-Smite of Spring,
-Smite of Summer,
-Smite of Winter,
 
 
 

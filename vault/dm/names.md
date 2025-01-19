@@ -1,25 +1,25 @@
 ### Human Names
-Alaric Vayne
-Celia Broadshield
 Darrin Whitlock
-Evelyn Marrowind
+Alaric Vayne
 Gideon Thorne
-Helena Cresswell
 Jasper Blackthorn
-Lila Fairweather
 Marcus Holloway
+Celia Broadshield
+Evelyn Marrowind
+Helena Cresswell
+Lila Fairweather
 Selena Draycott
 ### Dwarven Names
 Bronn Ironbraid
-Dagna Flintstone
-Gorik Deepdelve
-Hilda Stonemantle
-Kargan Emberforge
-Marta Goldpick
-Orin Steelgrasp
 Thrain Rockhewer
-Ula Anvilborn
+Kargan Emberforge
+Orin Steelgrasp
 Vargan Copperbeard
+Gorik Deepdelve
+Dagna Flintstone
+Hilda Stonemantle
+Marta Goldpick
+Ula Anvilborn
 ### Elven Names
 Aelar Silverdew
 Calantha Moonwhisper

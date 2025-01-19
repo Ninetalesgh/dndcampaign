@@ -1,6 +1,6 @@
 # Strong Introduction
 
-**Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders. 
+**Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders.  
 - Dain sees you hesitate: "There will be 10 gold pieces for everyone of you who joins. Teal, just in case this is more than they can handle, get 10 out of the pit on standby for this." 
 
 - Teal nods harshly "Tess, with them".
@@ -17,11 +17,17 @@
 # Scenes
 
 ## The Mylen Farmstead
+
 **Farmer Merrick Mylen.** -> Human. [TODO] dies? 
 
-### The Main Farmhouse
+### The Farmhouse and Barn
 
-- **Location**: Nestled against the inner edge of the plateau, the farmstead sits in ruin, its fences splintered and crops trampled. Smoke rises from the smoldering remains of the barn, and the acrid scent of burnt hay mingles with the iron tang of spilled blood. Chickens scatter nervously, their clucking the only sound aside from the eerie creak of the farmhouse door swinging ajar in the cold alpine breeze. [TODO]
+- **Location**: 
+  - Nestled against the inner edge of the plateau, the farmstead sits in ruin, its fences splintered and crops trampled.
+  - Chickens scatter nervously.
+  - In the back on the pasture along the edge of the forest
+   their clucking the only sound aside from the eerie creak of the farmhouse door swinging ajar in the cold alpine breeze. [TODO]
+  - Smoke rises from the smoldering remains of the barn, and the acrid scent of burnt hay mingles with the iron tang of spilled blood. 
 
 
 In the back along the pasture 
