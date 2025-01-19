@@ -44,6 +44,7 @@
 
 ## Feats and Actions
 ### Actions
+![\|30](https://bg3.wiki/w/images/f/f2/Action_Icon.png)
 - **Default Actions**: [Attack](game_rules.md#turn-based-play#attack), [Dash](game_rules.md#turn-based-play#dash), [Disengage](game_rules.md#turn-based-play#disengage), [Dodge](game_rules.md#turn-based-play#dodge), [Hide](game_rules.md#turn-based-play#hide), [Ready Action](game_rules.md#turn-based-play#ready-action), [Help](game_rules.md#turn-based-play#help), [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize).
 
 - **Cantrips**: 
@@ -55,11 +56,13 @@
 - **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 
 ### Bonus Actions
+![\|30](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
 - **Spells**
   [Armor of Agathys](./../spells.md#spells-a#armor-of-agathys)
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
+![\|30](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png)
 - **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
 - **Spells**
   *(none)*
