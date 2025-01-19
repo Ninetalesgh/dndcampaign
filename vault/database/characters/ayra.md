@@ -69,7 +69,9 @@
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+  [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
+  [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Spells**
   *(none)*
 

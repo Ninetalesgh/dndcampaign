@@ -55,7 +55,9 @@
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack), [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action).
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+  [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
+  [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
