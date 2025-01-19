@@ -355,7 +355,7 @@
         const inlineLinks = document.querySelectorAll('.inline-link');
         for (let link of inlineLinks)
         {
-          if (link.parentElement && link.parentElement.innerHTML === link.outerHTML)
+          if (link.parentElement && link.parentElement.innerHTML.trim() === link.outerHTML.trim())
           {
             getIndexedContentNode(link.dataset.url).then((node) => {
 
