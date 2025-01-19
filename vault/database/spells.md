@@ -3894,7 +3894,7 @@ A bright streak flashes from you to a point you choose within range and then blo
 Flammable objects in the area that aren't being worn or carried start [Burning (1d10)](conditions.md#burning).
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Wizard
-![\|50](https://bg3.wiki/w/images/d/db/Fireball_Icon.webp)
+![\|50](https://bg3.wiki/w/images/c/cb/Fireball_Icon.webp)
 *(Source: PHB'24, page 274)*
 
 ### Fireburst

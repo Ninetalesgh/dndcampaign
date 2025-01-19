@@ -351,6 +351,7 @@ small{
 .dndcontent img{
   padding: 0px;
   border-radius: 15px;
+  vertical-align: middle;
   background-color: var(--color-foreground-0);
   border: 3px solid var(--color-foreground-0);
 }
