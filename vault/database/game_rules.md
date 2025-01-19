@@ -317,45 +317,45 @@ Every player can have up to 3 magic items attuned.
 
 ## Weapons and Armor Types
 ### Simple Melee Weapons
-- Club
-- Dagger
-- Greatclub
-- Handaxe
-- Javelin
-- Light Hammer
-- Mace
-- Quarterstaff
-- Sickle
-- Spear
+- ![\|30](https://bg3.wiki/w/images/thumb/d/d1/Clubs_Icon.png/25px-Clubs_Icon.png) Club
+- ![\|30](https://bg3.wiki/w/images/thumb/b/b8/Daggers_Icon.png/25px-Daggers_Icon.png) Dagger
+- ![\|30](https://bg3.wiki/w/images/thumb/a/a8/Greatclubs_Icon.png/25px-Greatclubs_Icon.png) Greatclub
+- ![\|30](https://bg3.wiki/w/images/thumb/f/fb/Handaxes_Icon.png/25px-Handaxes_Icon.png) Handaxe
+- ![\|30](https://bg3.wiki/w/images/thumb/8/81/Javelins_Icon.png/25px-Javelins_Icon.png) Javelin
+- ![\|30](https://bg3.wiki/w/images/thumb/b/ba/Light_Hammers_Icon.png/25px-Light_Hammers_Icon.png) Light Hammer
+- ![\|30](https://bg3.wiki/w/images/thumb/a/a9/Maces_Icon.png/25px-Maces_Icon.png) Mace
+- ![\|30](https://bg3.wiki/w/images/thumb/b/bb/Quarterstaves_Icon.png/25px-Quarterstaves_Icon.png) Quarterstaff
+- ![\|30](https://bg3.wiki/w/images/thumb/e/ea/Sickles_Icon.png/25px-Sickles_Icon.png) Sickle
+- ![\|30](https://bg3.wiki/w/images/thumb/a/a1/Spears_Icon.png/25px-Spears_Icon.png) Spear
 ### Simple Ranged Weapons
-- Dart
-- Light Crossbow
-- Shortbow
-- Sling
+- ![\|30](https://bg3.wiki/w/images/thumb/4/4a/Darts_Icon.png/25px-Darts_Icon.png) Dart
+- ![\|30](https://bg3.wiki/w/images/thumb/7/70/Light_Crossbows_Icon.png/25px-Light_Crossbows_Icon.png) Light Crossbow
+- ![\|30](https://bg3.wiki/w/images/thumb/6/64/Shortbows_Icon.png/25px-Shortbows_Icon.png) Shortbow
+- ![\|30](https://bg3.wiki/w/images/thumb/3/31/Slings_Icon.png/25px-Slings_Icon.png) Sling
 ### Martial Melee Weapons
-- Battleaxe 
-- Flail 
-- Glaive 
-- Greataxe 
-- Greatsword
-- Halberd
+- ![\|30](https://bg3.wiki/w/images/thumb/d/d7/Battleaxes_Icon.png/25px-Battleaxes_Icon.png) Battleaxe 
+- ![\|30](https://bg3.wiki/w/images/thumb/f/f6/Flails_Icon.png/25px-Flails_Icon.png) Flail 
+- ![\|30](https://bg3.wiki/w/images/thumb/6/6a/Glaives_Icon.png/25px-Glaives_Icon.png) Glaive 
+- ![\|30](https://bg3.wiki/w/images/thumb/1/1e/Greataxes_Icon.png/25px-Greataxes_Icon.png) Greataxe 
+- ![\|30](https://bg3.wiki/w/images/thumb/9/9d/Greatswords_Icon.png/25px-Greatswords_Icon.png) Greatsword
+- ![\|30](https://bg3.wiki/w/images/thumb/b/b5/Halberds_Icon.png/25px-Halberds_Icon.png) Halberd
 - Lance 
-- Longsword
-- Maul
-- Morningstar
-- Pike 
-- Rapier
-- Scimitar
-- Shortsword
-- Trident 
-- Warhammer 
-- War Pick 
+- ![\|30](https://bg3.wiki/w/images/thumb/b/b6/Longswords_Icon.png/25px-Longswords_Icon.png) Longsword
+- ![\|30](https://bg3.wiki/w/images/thumb/d/d2/Mauls_Icon.png/25px-Mauls_Icon.png) Maul
+- ![\|30](https://bg3.wiki/w/images/thumb/6/65/Morningstars_Icon.png/25px-Morningstars_Icon.png) Morningstar
+- ![\|30](https://bg3.wiki/w/images/thumb/7/72/Pikes_Icon.png/25px-Pikes_Icon.png) Pike 
+- ![\|30](https://bg3.wiki/w/images/thumb/9/97/Rapiers_Icon.png/25px-Rapiers_Icon.png) Rapier
+- ![\|30](https://bg3.wiki/w/images/thumb/b/be/Scimitars_Icon.png/25px-Scimitars_Icon.png) Scimitar
+- ![\|30](https://bg3.wiki/w/images/thumb/b/b3/Shortswords_Icon.png/25px-Shortswords_Icon.png) Shortsword
+- ![\|30](https://bg3.wiki/w/images/thumb/5/5f/Tridents_Icon.png/25px-Tridents_Icon.png) Trident 
+- ![\|30](https://bg3.wiki/w/images/thumb/c/cf/Warhammers_Icon.png/25px-Warhammers_Icon.png) Warhammer 
+- ![\|30](https://bg3.wiki/w/images/thumb/8/81/War_Picks_Icon.png/25px-War_Picks_Icon.png) War Pick 
 - Whip 
 ### Martial Ranged Weapons
 - Blowgun 
-- Hand Crossbow 
-- Heavy Crossbow
-- Longbow 
+- ![\|30](https://bg3.wiki/w/images/thumb/6/60/Hand_Crossbows_Icon.png/25px-Hand_Crossbows_Icon.png) Hand Crossbow 
+- ![\|30](https://bg3.wiki/w/images/thumb/1/16/Heavy_Crossbows_Icon.png/25px-Heavy_Crossbows_Icon.png) Heavy Crossbow
+- ![\|30](https://bg3.wiki/w/images/thumb/9/94/Longbows_Icon.png/25px-Longbows_Icon.png) Longbow 
 - Musket 
 - Pistol 
 ### Armor Types
