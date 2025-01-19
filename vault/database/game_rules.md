@@ -359,10 +359,10 @@ Every player can have up to 3 magic items attuned.
 - Musket 
 - Pistol 
 ### Armor Types
-- Light Armor
-- Medium Armor
-- Heavy Armor
-- Shields
+- ![\|25](https://bg3.wiki/w/images/1/17/Light_Armour_Icon.png) Light Armor
+- ![\|25](https://bg3.wiki/w/images/7/73/Medium_Armour_Icon.png) Medium Armor
+- ![\|25](https://bg3.wiki/w/images/b/b7/Heavy_Armour_Icon.png) Heavy Armor
+- ![\|25](https://bg3.wiki/w/images/a/af/Shields_Icon.png) Shields
 
 ## Food and Water Needs
 - **Dehydration**: You need about 3 liters of fluid per day. If you consume less than half of that you gain 1 stack of [Exhaustion](conditions.md#exhaustion).
