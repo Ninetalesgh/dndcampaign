@@ -265,7 +265,7 @@
 
     async function fetchMd(mdUrl)
     {
-      const nodeName = mdUrl.replace(/^.*(\/dm\/[-_a-zA-Z0-9]+\.md)$/i, '$1');
+      const nodeName = mdUrl.replace(/^.*(\/dm.*\/[-_a-zA-Z0-9]+\.md)$/i, '$1');
       let contentNode = getIndexedContentPage(nodeName);
 
       let absoluteUrl = '';
@@ -451,12 +451,14 @@
           
           const dmPages = new Array(
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_info.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`);
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_01.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`);
 
-          window.addEventListener('load', () => 
+          window.addEventListener('load', async () => 
           {
             const ul = document.createElement('ul');
             ul.style.margin = '10px 0 0 0';
@@ -466,10 +468,10 @@
             
             for (const page of dmPages)
             {
-              fetchMd(page).then((node) => {
+              await fetchMd(page).then((node) => {
                 let li = document.createElement('li');
                 const nodeName = node.name;
-                const buttonLabelParts = nodeName.replace(/\/dm\/([^.]+)\.md/,'$1').split('_');
+                const buttonLabelParts = nodeName.replace(/^.*?\/dm.*\/([^.]+)\.md/,'$1').split('_');
                 let buttonLabel = '';
                 buttonLabelParts.forEach(part => {buttonLabel = `${buttonLabel}${part[0].toUpperCase()}${part.slice(1)} `});
                 li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${buttonLabel.slice(0,-1)}</button>`;
