@@ -200,7 +200,10 @@ The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of
   It flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from its beak can spell doom as its victim slowly turns to stone from the injury.
 
 ## Ooze
+[Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard)
+
 [Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
+
 
 ## Plant
 ### Blights

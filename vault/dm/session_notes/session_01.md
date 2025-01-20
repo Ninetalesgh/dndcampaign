@@ -4,7 +4,10 @@
 # Strong Introduction
 
 [Guard Tessa Marwick](dm/npcs.md#guard-tessa-marwick)
-**Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders.  
+[Farmer Garrin Harvestsong](dm/npcs.md#farmer-garrin-harvestsong)
+
+**Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders. 
+
 - Dain sees you hesitate: "There will be 10 gold pieces for everyone of you who joins. Teal, just in case this is more than they can handle, get 10 out of the pit on standby for this." 
 
 - Teal nods harshly "Tess, with them".
@@ -17,9 +20,7 @@
 
 - bad visibility between the grain fields, forest patches and hills. 
 
-
 # Scenes
-
 ## The Mylen Farmstead
 ### The Plateau
 
@@ -46,36 +47,39 @@
   - Nestled against the inner edge of the plateau, the farmstead sits in ruin, its fences splintered and crops trampled.
   - In the back (200m) on the pasture along the edge of the forest a group of goblins are dragging a couple of sheep into the forest.
   - You see a woman slouched on the ground against a splintered wooden fence, a spear sticking out from her guts.
-  - Chickens scatter nervously around the farm, clucking and hopping, you see two goblins, each holding a chicken by its feet.
 
+  - Garrin: "Lilly!". He runs to her, tears start gathering in his eyes "We have to find Merrick and their daughter!" he runs towards the farm.
+  - Chickens scatter nervously around the farm, clucking and hopping, you see **3 Goblins**, each holding an upside down chicken.
 ROLL INITIATIVE
+  - Tess readies to confront the three: "Someone follow him inside!" 
+  [Goblin (1/4)](dm/monsters.md#goblin)
+  [Worg (1/2)](dm/monsters.md#worg) with Speed 2!
 
-  - Garrin: "Lilly!". He runs to her, tears start gathering in his eyes "We have to find Merrick and their daughter!"
-  - Tess: "
-  - 
+  - When players approach the farm house, Merrick stumbles out chased by **2 Goblins**. 
+    **"Garrin, Chauntea's grace! Where are Lilly and Ginny?"**
+
+  - When Goblins are about to retreat, they set fire to hay on the south edge of the barn.
 
   AFTER THE BATTLE: 
-  - The clucking is the only sound aside from the eerie creak of the farmhouse door swinging ajar in the alpine breeze.
+  - The air is sharp and brisk, carrying the faint cries of goblins and goats echoing out of the woods.
+  - A lone goat bleats mournfully beside an overturned trough, that and the clucking are the only sound aside from the eerie creak of the farmhouse door swinging ajar in the alpine breeze.
+
+  IF FIRE:
   - Smoke rises from the smoldering remains of the barn, and the acrid scent of burnt hay mingles with the iron tang of spilled blood. 
 
-
-
-This is where the first fight will take place, with surprised goblins.
-goblins will start fleeing, 3 will enter combat with the players here.
-[TODO] intro.
+  QUEST CONT: 
+  - They were never this aggressive before, until now they just stole livestock.
 
 ### The Pasture
-- **Location**: Rolling green hills stretch toward the distant tree line, the soft grass stained by frantic footprints heading toward the woods. The air is sharp and brisk, carrying the faint cries of goblins fleeing into the shadows. A lone goat bleats mournfully beside an overturned trough, its plaintive call punctuating the tense pursuit. [TODO]
-
-This is where the second fight will take place? with the wounded warg.
-Other goblins are fleeing in the background.
-[TODO] intro.
+- **Location**: Green hills stretch toward the tree line, the soft grass stained by frantic footprints heading toward the woods. 
 
 ### The Trail
-- **Location**: The narrow trail winds upward, flanked by jagged rock faces on one side and sheer drops on the other. Broken branches and faint smears of blood mark the goblins' passage, leading into the shadowy embrace of the pine forest above. The wind whistles through the crags, carrying a faint, ominous echo that seems to urge haste.
+- **Location**: The fairly narrow trail, flanked by steep leaf covered embankments, winds upward deeper into the Stormhorns.
+  Broken branches and faint smears of blood mark the goblins' passage, leading into the embrace of the pine forest above. 
 
-The trail chasing the goblins that fled.
-[TODO] intro.
+- The wind whistles through the crags, carrying their faint echo.
+- If they chase, they catch up to one Goblin and one wounded Worg that were left behind. 
+- If they chase further, after 2 hours they catch up and spot a raiding party of ~15 Goblins, with their leader **Grishka** at the helm.
 
 ## The Academy
 upper north east - cartography & exploration
@@ -86,53 +90,89 @@ median market side - diplomacy & commerce
 upper cellars - arcane studies
 lower cellars - alchemy medicine (laboratories)
 ### The Entrance Hall
-- **Location**: The vaulted ceiling soars above with intricate frescoes of celestial bodies and arcane symbols, illuminated by streams of light pouring through stained glass windows. Polished marble floors echo with footsteps, and the air is scented faintly with parchment and candle wax. Students and scholars bustle about, their robes swirling as they move between lecture halls and study chambers. [TODO]
+- **Location**: The vaulted ceiling soars above with intricate frescoes of celestial bodies and arcane symbols, illuminated by streams of light pouring through stained glass windows. Freshly polished marble floors echo with footsteps, and the air is scented faintly with parchment and candle wax.
+  - Nearing the end of the off-season, students and scholars begin to bustle about at higher numbers again, their robes swirling as they move between lecture halls and study chambers. 
 
+  - The canteen and lavatories on the entrance level, stairways and elevators lead to the lecture, laboraty, and library rooms. 
 
-The entrance hall 
-[TODO] intro.
 ### The Library
-- **Location**: A labyrinth of towering bookshelves stretches into the dimly lit distance, the scent of aged leather and ink hanging heavily in the air. Soft candlelight flickers, casting dancing shadows on the ornate carvings of the wooden shelves. The only sound is the rustle of pages turning and the occasional murmur of scholars lost in study.
+- **Location**: A labyrinth of dimly lit towering bookshelves, the scent of aged leather and ink hanging heavily in the air. 
+  Soft candlelight flickers, casting dancing shadows on the ornate carvings of the wooden shelves. 
+  The only sound is the rustle of pages turning and the occasional murmur of scholars lost in study.
 
 The library rooms are spread across the entire Academy, but the main halls are found in the lower floors easily reachable from the entrance hall and elevators. The Arcane Studies rooms are seated close to the big library.
-[TODO] intro.
+[Animated Book (1/4)](dm/monsters.md#animated-book)
+
 ### The Laboratories
 - **Maris Tindle**: Halfling -> Serious expression, soft skin, shoulder long flowing black hair, black eyes, tools strapped on her waist and her chest wrapped in a tight vest.
  
-- **Location**: Dimly lit by flickering sconces, the stone-walled laboratory is alive with the bubbling of beakers and the hiss of volatile mixtures. The air is thick with the tang of sulfur and the acrid bite of chemical reagents. Worktables are cluttered with alchemical instruments, and the occasional scorch mark on the walls hints at past experiments gone awry.
+- **Location**: Dimly lit by flickering sconces, the stone-walled laboratory is alive with the bubbling of beakers and the hiss of volatile mixtures. The air is thick with the tang of sulfur and the acrid bite of chemical reagents. 
+Worktables are cluttered with alchemical instruments, and the occasional scorch mark on the walls hints at past experiments.
 
-The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. The laboratories are easily accessible from The Stockpile.
-[TODO] intro.
-- The Academy Alchemy department. 
+- The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. 
+- The laboratories are easily accessible from The Stockpile.
+
+- Maris Tindle preparing and cleaning her personal equipment.
+
 [TODO] Investigate the root + Maris telling the players about Black Lotus troubles. 
+
+## The Undercity
+
+### The Stockpile
+[TODO] intro.
+### The Pit
+[TODO] intro.
 
 ## The Bakery
 - **Brennar Stonewright**: Dwarf -> Jovial with a bushy brown beard, his eyes crinkle with deep laugh lines, a testament to his hearty humor.
 
 - **Location**: The warm, yeasty scent of fresh bread envelops you as you step into the cozy bakery. A stout dwarf with flour-dusted hands works deftly at kneading dough, his braided beard swinging with the rhythm. Rows of golden loaves and sweet pastries line the shelves, their crusts glistening in the soft glow of the hearth.
-[TODO] intro. NPC
+
 
 ## The Tavern
 - **Brunhild Ironwhisper**: Dwarf -> Flush cheeks with freckles and a wide nose, dark blue eyes. Long light brown hair resting on her shoulders in two thick braids.
 
-- **Location**: The hearty hum of conversation and clinking tankards fills the rustic tavern, its wooden beams adorned with old mining tools and hunting trophies. Behind the counter, a robust dwarven woman with a quick wit and a quicker smile pours frothy ales into sturdy mugs. The air is rich with the aroma of roasting meats and spiced cider, inviting weary travelers to rest their feet. 
+- **Location**: The hearty hum of conversation and clinking tankards fills the rustic tavern, its wooden beams adorned with old mining tools and hunting trophies. Behind the counter, a robust dwarven woman NPC with a quick smile pours frothy ales into sturdy mugs. The air is rich with the aroma of roast and spiced cider, inviting weary travelers to rest their feet.
 
-[TODO] intro. NPC
-
+  - Fuller than usual, since elevator traffic has halted and people are held up.
 
 ## The Ruins
 ### The Castle Ruins
-[TODO] intro.
+- **Skeleton of Lyanna Harvestsong** in the north tower.
+
+- **Location**: The air is thick and damp as you approach the remnants of the estate, now a hollow shell of its former self. 
+  The jagged outline of crumbled stone walls juts from the surface of murky, knee-deep sludgy water.
+  Mud and decay cling to every surface, and the faint outlines of once-proud arches and windows are obscured by grime. 
+  A stagnant stench fills the air, and the occasional ripple suggests unseen movement below the surface. 
+  Whatever history this place once held now lies buried, swallowed by the mire.
+
+In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
 ### The Crypt Entrance
-[TODO] intro.
+- **Location**: The crypt’s entrance looms before you, a solemn archway of carved stone now fractured and weathered by time.
+  Moss and vines cling to the walls and stepping into the arch and five steps down, you find a small dark murky pond at the surrounding water level.
 
+  - A gentle downwards current, pressing through the wood door.
 
+# Secrets
 
-# NPCs
-# Monsters
-Kobold, Goblin, Skeleton, Zombie
-# Magic Items
+- The Goblins are a scouting branch with leader **Fizzra**, so far they have only stolen livestock. 
+  The attack was not an order by their leader, but a Renegade Group, **The Bonebiters**, with their leader **Grishka**, who want to clear The Plateau to impress The Army.
+
+- Lyanna Harvestsong has been missing for 5 years now.
+
+- The Corrupted Root is a young branch, so it must've grown really recently, and it reeks of Necromancy.
+
+- Kobolds steal food from the Tavern Pantry.
+
+- Kobolds have a Kurtulmak shrine underneath Waukeen's Chapel adjacent to the smuggling tunnels.
+[Kobold (1/8)](dm/monsters.md#kobold)
+[Kobold Rockbruiser (1/4)](dm/monsters.md#kobold-rockbruiser)
+[Kobold Inventor (1/4)](dm/monsters.md#kobold-inventor)
+
+- Tazlyn Stonewright is Brennar's Ancestor, he still has books of hers. 
+
+- Someone involved with The Stockpile Business summoned animated objects to hide some evidence.
 
 
 # UNSORTED

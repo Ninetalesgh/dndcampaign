@@ -21,7 +21,6 @@ Zibgut
 Skrang
 Mugluk
 Zagna
-Grishka
 Vrix
 Blunka
 Snizz
@@ -29,10 +28,8 @@ Krella
 Yibla
 Traskit
 Zorga
-Fizzra
 The Mudtusks
 The Sharpfangs
-The Bonebiters
 ### Dwarven Names
 Bronn Ironbraid
 Thrain Rockhewer

@@ -1335,6 +1335,33 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters P
+### Poolish Ooze Discard
+**CR**: 1/4
+*Small ooze, Unaligned*
+- **Initiative**: -2
+- **AC**: 6
+- **HP**: 10 (3d6)
+- **Speed**: walk 2 *(3m)*, climb 2 *(3m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+13 (+1) | 6 (-2) | 10 (+0) | 1 (-5) | 6 (-2) | 2 (-4) 
+
+- **Resistances**: acid, fire; bludgeoning, piercing, slashing from nonmagical weapons
+- **Immunities**: [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Prone](conditions.md#prone)
+- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 8
+- **Traits**: 
+   - **Cultured Colony**. If the ooze takes any Fire or Necrotic damage, it is [Poisoned](conditions.md#poisoned) until the end of its next turn.
+   - **Amorphous**. The ooze can move through a space as narrow as 1 inch wide without squeezing.
+- **Actions**: 
+   - **Lacto-Acid Pseudopod**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 (1d6 + 1) acid damage.
+   On a critical hit, the target must succeed on a DC 12 CON Save or gain a point of [Exhaustion](conditions.md#exhaustion).
+- **Reactions**: 
+   - **Bubbling Rise (Concentration)**. When the ooze takes any damage of a type it is resistant to, it can begin to bubble and expand.
+   At the beginning of its next turn, the ooze splits into two new poolish ooze discard with full hit points that share its initiative.
+*(Source: ConfluxCreatures)*
+
 ## Monsters Q
 ## Monsters R
 ## Monsters S
