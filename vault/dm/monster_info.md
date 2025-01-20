@@ -1,24 +1,3 @@
-
-# Monster Traits
-### Animated Object
-The creature is [Incapacitated](conditions.md#incapacitated) while in the area of an [Antimagic Field](spells.md#antimagic-field).
-If this creature is targeted with a spell-nullifying effect, such as [Dispel Magic](spells.md#dispel-magic), it must succeed on a CON Save against the caster's Spell Save DC or die.
-### Minion
-If the kobold takes damage from an Attack or as the result of a failed Save, its HP drop to 0. If it takes damage from another effect, it dies if the damage equals or exceeds its HP, otherwise it takes no damage.
-- **Overkill Attacks.** If a player character deals more damage to a minion than its HP they can assign the damage to another minion of the same type in range or line of the Attack.
-### Nimble Escape
-This creature can take the Disengage or Hide action as a Bonus Action on each of its turns.
-### Pack Tactics
-This creature has Advantage on an Attack Roll against a creature if at least one of its allies is within 1 *(1.5m)* of that creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
-### Scurrilous Scamper
-Opportunity attacks made against this creature by Medium or larger creatures have Disadvantage. 
-### Sunlight Sensitivity
-While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on WIS (Perception) checks that rely on sight.
-If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.
-### Undead Fortitude 
-If damage reduces this creature to 0 HP, it must make a CON Save with a DC of 5 plus the damage taken unless the damage is Radiant or from a Critical Hit. On a successful save, this creature drops to 1 HP instead.
-
-
 # Monsters By Type
 ## Aberration
 The [Cavern Choker (1/2)](dm/monsters.md#cavern-choker) is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -171,7 +150,11 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 ## Giant
 ## Humanoid
 ### Any Humanoid
-[Apprentice Wizard (1/4)](dm/monsters.md#apprentice-wizard)
+[Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
+
+[Bandits (1/8)](dm/monsters.md#bandit) rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
+Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
+[Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 
 ### Goblinoid
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -263,3 +246,22 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 [Kobold Zombie (1/8)](dm/monsters.md#kobold-zombie)
 [Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
 [Gravehound (1/2)](dm/monsters.md#gravehound)
+
+# Monster Traits
+### Animated Object
+The creature is [Incapacitated](conditions.md#incapacitated) while in the area of an [Antimagic Field](spells.md#antimagic-field).
+If this creature is targeted with a spell-nullifying effect, such as [Dispel Magic](spells.md#dispel-magic), it must succeed on a CON Save against the caster's Spell Save DC or die.
+### Minion
+If the kobold takes damage from an Attack or as the result of a failed Save, its HP drop to 0. If it takes damage from another effect, it dies if the damage equals or exceeds its HP, otherwise it takes no damage.
+- **Overkill Attacks.** If a player character deals more damage to a minion than its HP they can assign the damage to another minion of the same type in range or line of the Attack.
+### Nimble Escape
+This creature can take the Disengage or Hide action as a Bonus Action on each of its turns.
+### Pack Tactics
+This creature has Advantage on an Attack Roll against a creature if at least one of its allies is within 1 *(1.5m)* of that creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
+### Scurrilous Scamper
+Opportunity attacks made against this creature by Medium or larger creatures have Disadvantage. 
+### Sunlight Sensitivity
+While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on WIS (Perception) checks that rely on sight.
+If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.
+### Undead Fortitude 
+If damage reduces this creature to 0 HP, it must make a CON Save with a DC of 5 plus the damage taken unless the damage is Radiant or from a Critical Hit. On a successful save, this creature drops to 1 HP instead.

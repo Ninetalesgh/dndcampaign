@@ -119,8 +119,18 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 ## The Undercity
 
 ### The Stockpile
+[Street Kid Tobben](dm/npcs.md#street-kid-tobben)
+
+- **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies. Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures—dockhands, traders, and opportunists alike. The air is thick with the tang of oil, mildew, and secrecy, a reminder that here, the line between legitimate commerce and shady dealings is perilously thin.
+
+[Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
+[Bandit (1/8)](dm/monsters.md#bandit)
+
+
 [TODO] intro.
 ### The Pit
+- **Location**: 
+
 [TODO] intro.
 
 ## The Bakery

@@ -199,6 +199,55 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters B
+### Bandit
+**CR**: 1/8
+*Medium humanoid (any race), NX Chaotic Good NY Evil*
+- **Initiative**: +1
+- **AC**: 12 (leather armor)
+- **HP**: 11 (2d8 + 2)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+11 (+0) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 10 (+0) 
+
+- **Senses**: passive perception 10
+- **Languages**: any one language (usually Common)
+- **Actions**: 
+   - **Scimitar**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 (1d6 + 1) slashing damage.
+   - **Light Crossbow**. *Ranged Attack:* +3 to hit, range 16/64 *(24m/96m)*, one target. 
+    *Hit:* 5 (1d8 + 1) piercing damage.
+*(Source: MM, page 343)*
+
+### Bandit Routewolf
+**CR**: 1/2
+*Medium humanoid (any race), NX Chaotic Good NY Evil*
+- **Initiative**: +2
+- **AC**: 13 (leather armor)
+- **HP**: 33 (6d8 + 6)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+12 (+1) | 14 (+2) | 12 (+1) | 10 (+0) | 10 (+0) | 13 (+1) 
+
+- **Skills**: stealth: +4, survival: +2, sleight of hand: +4
+- **Senses**: passive perception 10
+- **Languages**: Any one language (usually Common)
+- **Traits**: 
+   - **Outlaw's Bravado**. While the bandit has more allies than enemies within 6 *(9m)*, it has advantage on attacks and WIS Saves.
+   While it has fewer allies than enemies within 6 *(9m)*, it has disadvantage on attacks and WIS Saves.
+- **Actions**: 
+   - **Multiattack**. The bandit makes two attacks with its Cutpurse Dagger.
+   - **Cutpurse Dagger**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 (1d4 + 2) piercing damage.
+   A target hit twice in one turn with this attack must succeed on a DC 12 STR Save or drop one pack, coinpurse, or weapon it is carrying.
+   - **Arsonist's Firebrand**. The bandit sets a creature or object within 1 *(1.5m)* aflame, forcing it to succeed on a DC 12 DEX Save or begin [Burning](conditions.md#burning) (1d10).
+- **Reactions**: 
+   - **Pocket Sand**. When the bandit misses with a melee attack, it can hurl sand at the target, forcing it to succeed on a DC 12 CON Save or be [Blinded](conditions.md#blinded) until the end of its next turn.
+*(Source: ConfluxCreatures)*
+
 ### Barrow Wight
 **CR**: 1
 *Medium undead, Neutral Evil*
