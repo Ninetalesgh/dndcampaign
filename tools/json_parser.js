@@ -343,6 +343,12 @@ function convert5EMonsterToText(jsonObject)
   const data = jsonObject;
 
   let output = new Array();
+  // Extra Link
+  {
+    const linkToMonsterString = `[${data.name} (${data.cr.cr ? `${data.cr.cr} Minion` : data.cr})](dm/monsters.md#${data.name.replace(/\s/g,'-').toLowerCase()})`;
+    output.push(linkToMonsterString);
+  }
+
   output.push("### " + data.name);
 
   // CR
