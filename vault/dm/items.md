@@ -3,7 +3,7 @@
 *(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 50 gp
-- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* 2d6 Acid damage or half on a successful Save.
 ![\|50](https://bg3.wiki/w/images/7/73/GRN_Acid_Vial_Unfaded_Icon.png)
@@ -29,14 +29,14 @@
 - **Crew**: 10
 - **AC**: 13
 - **HP**: 300
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 ### Alchemist's Fire
 *(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 50 gp
-- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* 1d6 Fire damage and [Burning (1d4)](conditions.md#burning) or half and no condition on a successful Save.
 ![\|50](https://bg3.wiki/w/images/2/29/GRN_Alchemist%27s_Fire_Unfaded_Icon.png)
@@ -46,10 +46,10 @@
 *(artisan's tools, Common)*
 - **Weight**: 4 kg
 - **Price**: 50 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Identify a substance (DC 15), or start a fire (DC 15)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions), [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
+[Craft](dm/item_info.md#crafting): All [Concoctions](dm/item_info.md#concoctions), [Oil](dm/items.md#oil), [Paper](dm/items.md#paper), [Perfume](dm/items.md#perfume).
 *(Source: PHB'24, page220)*
 
 ### Ale (mug)
@@ -72,7 +72,7 @@
 *(potion, Common)*
 - **Weight**: -
 - **Price**: 50 gp
-- **Properties**: [Drink or Administer Potion](dm/items.md#item-info#drink-or-administer-potion).
+- **Properties**: [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion).
   *Effect:* End [Poisoned](conditions.md#poisoned) and gain Advantage on Saves against the condition for 1 hour.
 ![\|50](https://bg3.wiki/w/images/6/60/POT_Antidote_Unfaded_Icon.png)
 *(Source: PHB'24, page222)*
@@ -121,7 +121,7 @@ It takes 10 minutes to recover the Ball Bearings.
 *(coating, Common)*
 - **Weight**: -
 - **Price**: 50 gp
-- **Properties**: [Apply Weapon Coating](dm/items.md#item-info#apply-weapon-coating).
+- **Properties**: [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating).
   *Effect:* Deal an additional 1d4 Poison damage on Hit.
   *Duration:* 1 minute.
 ![\|50](https://bg3.wiki/w/images/0/0f/COAT_Basic_Poison_Unfaded_Icon.png)
@@ -139,7 +139,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: -
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 10 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/bf/72/26/bf7226d38e98c91366d2fdfa84f1b806.jpg)
@@ -177,8 +177,8 @@ It takes 10 minutes to recover the Ball Bearings.
 *(Blowgun, Martial Ranged Weapon, Common)*
 - **Range**: 5/20 *(7.5m/30m)*
 - **Damage**: 1 + DEX Piercing damage.
-- **Properties**: [Loading](dm/items.md#item-info#weapon-properties#loading).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Loading](dm/item_info.md#weapon-properties#loading).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 10 gp
 ![Image|250]() [TODO]
 - **Weight**: 0.5 kg
@@ -230,10 +230,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 4.5 kg
 - **Price**: 20 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions) that require distillation or fermentation. 
+[Craft](dm/item_info.md#crafting): All [Concoctions](dm/item_info.md#concoctions) that require distillation or fermentation. 
 *(Source: PHB'24, page220)*
 
 ### Bucket
@@ -262,10 +262,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 10 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Write text with impressive flourishes that guard against forgery (DC 15)
-[Craft](dm/items.md#item-info#crafting): Ink, Spell Scroll.
+[Craft](dm/item_info.md#crafting): Ink, Spell Scroll.
 *(Source: PHB'24, page220)*
 
 ### Caltrops
@@ -293,10 +293,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 3 kg
 - **Price**: 8 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Strength
   - *Utilize:* Seal or pry open a door or container (DC 20)
-[Craft](dm/items.md#item-info#crafting): [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), [Barrel](dm/items.md#barrel), [Chest](dm/items.md#chest), [Ladder](dm/items.md#ladder), [Pole](dm/items.md#pole), [Portable Ram](dm/items.md#portable-ram), [Torch](dm/items.md#torch).
+[Craft](dm/item_info.md#crafting): [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), [Barrel](dm/items.md#barrel), [Chest](dm/items.md#chest), [Ladder](dm/items.md#ladder), [Pole](dm/items.md#pole), [Portable Ram](dm/items.md#portable-ram), [Torch](dm/items.md#torch).
 *(Source: PHB'24, page220)*
 
 ### Carriage
@@ -317,10 +317,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 3 kg
 - **Price**: 15 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Wisdom
   - *Utilize:* Draft a map of a small area (DC 15)
-[Craft](dm/items.md#item-info#crafting): [Map](dm/items.md#map).
+[Craft](dm/item_info.md#crafting): [Map](dm/items.md#map).
 *(Source: PHB'24, page220)*
 
 ### Chain
@@ -383,8 +383,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Club, Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Bludgeoning damage.
 - **Reach**: 1 *(1.5m)*
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Light](dm/item_info.md#weapon-properties#light).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 1 sp
 - **Weight**: 0.5 kg
 ![Image|250](https://i.pinimg.com/736x/c1/6b/17/c16b17c9a2395eaaf3b03d11d287310e.jpg)
@@ -394,10 +394,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Climber's Kit](dm/items.md#climbers-kit).
+[Craft](dm/item_info.md#crafting): [Climber's Kit](dm/items.md#climbers-kit).
 *(Source: PHB'24, page220)*
 
 ### Common Wine (bottle)
@@ -418,10 +418,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 4 kg
 - **Price**: 1 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Wisdom
   - *Utilize:* Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
-[Craft](dm/items.md#item-info#crafting): [Rations](dm/items.md#rations).
+[Craft](dm/item_info.md#crafting): [Rations](dm/items.md#rations).
 *(Source: PHB'24, page220)*
 
 ### Costume
@@ -450,8 +450,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Dagger, Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Light](dm/items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Nick](dm/items.md#item-info#nick).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Nick](dm/item_info.md#nick).
 - **Price**: 2 gp
 - **Weight**: 0.5 kg
 ![Image|250](https://i.pinimg.com/736x/73/a7/5f/73a75f5e81ba8d79265110fa2b125cba.jpg)
@@ -461,8 +461,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(, Simple Ranged Weapon, Common)*
 - **Range**: 4/12 *(6m/18m)*
 - **Damage**: 1d4 + STR Piercing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 5 cp
 - **Weight**: 125 g
 ![Image|250]()
@@ -488,10 +488,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(tool, Common)*
 - **Weight**: 1.5 kg
 - **Price**: 25 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Charisma
   - *Utilize:* Apply makeup (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Costume](dm/items.md#costume)
+[Craft](dm/item_info.md#crafting): [Costume](dm/items.md#costume)
 *(Source: PHB'24, page221)*
 
 ### Draft Horse
@@ -615,7 +615,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: -
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 10 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/51/51/b4/5151b461d0b62a1f2db2cca0a7d0fde2.jpg)
@@ -641,7 +641,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(tool, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 15 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Dexterity
   - *Utilize:* Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 *(Source: PHB'24, page221)*
@@ -658,7 +658,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **AC**: 15
 - **HP**: 500 
 - **Damage Threshold**: 20
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 
@@ -666,8 +666,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Glaive, Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Slashing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Graze (STR)](dm/items.md#item-info#graze).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), Reach 2, [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Graze (STR)](dm/item_info.md#graze).
 - **Price**: 20 gp
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/9c/92/5c/9c925c03361e2fe3afd4f56fddd25e5f.jpg)
@@ -684,10 +684,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 30 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Discern what a glass object held in the past 24 hours (DC 15)
-[Craft](dm/items.md#item-info#crafting): [Glass Bottle](dm/items.md#glass-bottle), [Magnifying Glass](dm/items.md#magnifying-glass), [Spyglass](dm/items.md#spyglass), [Vial](dm/items.md#vial).
+[Craft](dm/item_info.md#crafting): [Glass Bottle](dm/items.md#glass-bottle), [Magnifying Glass](dm/items.md#magnifying-glass), [Spyglass](dm/items.md#spyglass), [Vial](dm/items.md#vial).
 *(Source: PHB'24, page220)*
 
 ### Grappling Hook
@@ -701,8 +701,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Greataxe, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d12 + STR Slashing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Cleave](dm/items.md#item-info#cleave).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Cleave](dm/item_info.md#cleave).
 - **Price**: 30 gp
 - **Weight**: 3.5 kg
 ![Image|250](https://i.pinimg.com/736x/aa/67/86/aa6786ac95a00bb74ccb457474660243.jpg)
@@ -712,8 +712,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Greatclub, Simple Melee Weapon, Common)*
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Reach**: 1
-- **Properties**: [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Properties**: [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Push 2](dm/item_info.md#push).
 - **Price**: 2 sp
 - **Weight**: 5 kg
 ![Image|250](https://i.pinimg.com/736x/e1/01/39/e101392ace8845d1b1d885601edd72ae.jpg)
@@ -723,8 +723,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Greatsword, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 2d6 + STR Slashing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Graze (STR)](dm/items.md#item-info#graze).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Graze (STR)](dm/item_info.md#graze).
 - **Price**: 50 gp
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/c2/b7/f6/c2b7f64bfc48e34d8a7269b1eaee8831.jpg)
@@ -735,8 +735,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Halberd, Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Slashing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Cleave](dm/items.md#item-info#cleave).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), Reach 2, [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Cleave](dm/item_info.md#cleave).
 - **Price**: 20 gp
 - **Weight**: 3 kg
 ![Image|250](https://i.pinimg.com/736x/82/de/68/82de680d77d0af9beda1a894cf5af81d.jpg)
@@ -756,8 +756,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Hand Crossbow, Martial Ranged Weapon, Common)*
 - **Range**: 6/24 *(9m/36m)*
 - **Damage**: 1d6 + DEX Piercing damage.
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light), [Loading](dm/items.md#item-info#weapon-properties#loading).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Light](dm/item_info.md#weapon-properties#light), [Loading](dm/item_info.md#weapon-properties#loading).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 75 gp
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/00/3b/07/003b07aac7b9d4784cdb1a2cbeb3ae3d.jpg)
@@ -767,8 +767,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Handaxe, Simple Melee Weapon, Common)*
 - **Damage**: 1d6 + STR Slashing damage.
 - **Reach**: 1
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 5 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
@@ -785,8 +785,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Heavy Crossbow, Martial Ranged Weapon, Common)*
 - **Range**: 20/80 *(30m/120m)*
 - **Damage**: 1d10 + DEX Piercing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), [Loading](dm/items.md#item-info#weapon-properties#loading), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), [Loading](dm/item_info.md#weapon-properties#loading), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Push 2](dm/item_info.md#push).
 - **Price**: 50 gp
 - **Weight**: 9 kg
 ![Image|250](https://i.pinimg.com/736x/2e/76/97/2e7697e2a8d55b56d9b174f5e857fc3a.jpg)
@@ -796,10 +796,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(tool, Common)*
 - **Weight**: 1.5 kg
 - **Price**: 5 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Intelligence
   - *Utilize:* Identify a plant (DC 10)
-[Craft](dm/items.md#item-info#crafting): All [Concoctions](dm/items.md#item-info#concoctions) with plant ingredients, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
+[Craft](dm/item_info.md#crafting): All [Concoctions](dm/item_info.md#concoctions) with plant ingredients, [Candle](dm/items.md#candle), [Healer's Kit](dm/items.md#healers-kit).
 *(Source: PHB'24, page221)*
 
 ### Hide Armor
@@ -816,7 +816,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 25 gp
-- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* 2d8 Radiant damage if it is a Fiend or an Undead or half on a successful Save.
 *(Source: PHB'24, page226)*
@@ -879,8 +879,8 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Javelin, Simple Melee Weapon, Common)* 
 - **Damage**: 1d6 + STR Piercing damage.
 - **Reach**: 1
-- **Properties**: [Thrown 6/24 *(9m/36m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Thrown 6/24 *(9m/36m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 5 sp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/4c/dd/87/4cdd8776fcf47796a062a49be7bfa357.jpg)
@@ -890,10 +890,10 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(artisan's tools, Common)*
 - **Weight**: 1 kg
 - **Price**: 25 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Discern a gem's value (DC 15)
-[Craft](dm/items.md#item-info#crafting): [Arcane Focus](dm/spells.md#arcane-focus), [Holy Symbol](dm/spells.md#holy-symbol).
+[Craft](dm/item_info.md#crafting): [Arcane Focus](dm/spells.md#arcane-focus), [Holy Symbol](dm/spells.md#holy-symbol).
 *(Source: PHB'24, page220)*
 
 ### Jug
@@ -915,7 +915,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **AC**: 15
 - **HP**: 100
 - **Damage Threshold**: 10
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 ## Items L
@@ -937,8 +937,8 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Lance, Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Piercing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
-- **Mastery**: [Topple](dm/items.md#item-info#topple).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), Reach 2, [Two-Handed](dm/item_info.md#weapon-properties#two-handed) *(unless mounted)*.
+- **Mastery**: [Topple](dm/item_info.md#topple).
 - **Price**: 10 gp
 ![Image|250]() [TODO]
 - **Weight**: 3 kg
@@ -958,18 +958,18 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Add a design to a leather item (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Sling](dm/items.md#sling), [Whip](dm/items.md#whip), [Hide Armor](dm/items.md#hide-armor), [Leather Armor](dm/items.md#leather-armor), [Studded Leather Armor](dm/items.md#studded-leather-armor), [Backpack](dm/items.md#backpack), [Crossbow Bolt Case](dm/items.md#crossbow-bolt-case), [Map or Scroll Case](dm/items.md#map-or-scroll-case), [Parchment](dm/items.md#parchment), [Pouch](dm/items.md#pouch), [Quiver](dm/items.md#quiver), [Waterskin](dm/items.md#waterskin).
+[Craft](dm/item_info.md#crafting): [Sling](dm/items.md#sling), [Whip](dm/items.md#whip), [Hide Armor](dm/items.md#hide-armor), [Leather Armor](dm/items.md#leather-armor), [Studded Leather Armor](dm/items.md#studded-leather-armor), [Backpack](dm/items.md#backpack), [Crossbow Bolt Case](dm/items.md#crossbow-bolt-case), [Map or Scroll Case](dm/items.md#map-or-scroll-case), [Parchment](dm/items.md#parchment), [Pouch](dm/items.md#pouch), [Quiver](dm/items.md#quiver), [Waterskin](dm/items.md#waterskin).
 *(Source: PHB'24, page221)*
 
 ### Light Crossbow
 *(Light Crossbow, Simple Ranged Weapon, Common)*
 - **Range**: 16/64 *(24m/96m)*
 - **Damage**: 1d8 + DEX Piercing damage.
-- **Properties**: [Loading](dm/items.md#item-info#weapon-properties#loading), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Loading](dm/item_info.md#weapon-properties#loading), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 5 gp
 - **Weight**: 2.5 kg
 ![Image|250](https://i.pinimg.com/736x/10/2c/9e/102c9edf86147f13448fabb3300ac4dd.jpg)
@@ -979,8 +979,8 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Light Hammer, Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Bludgeoning damage.
 - **Reach**: 1
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Nick](dm/items.md#item-info#nick).
+- **Properties**: [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Nick](dm/item_info.md#nick).
 - **Price**: 2 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/db/70/80/db7080998884237f3e85453ddb489ecc.jpg)..
@@ -997,8 +997,8 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Longbow, Martial Ranged Weapon, Common)*
 - **Range**: 30/120 *(45m/180m)*
 - **Damage**: 1d8 + DEX Piercing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 50 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/6b/e9/e0/6be9e098fd649d8996a312248e76e634.jpg)
@@ -1015,15 +1015,15 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **AC**: 15
 - **HP**: 300
 - **Damage Threshold**: 15
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 ### Longsword
 *(Longsword, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Slashing damage.
-- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Properties**: [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 15 gp
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
@@ -1053,7 +1053,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
 - **Properties**: - 
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 5 gp
 - **Weight**: 2 kg
 ![Image|250](https://i.pinimg.com/736x/66/43/e7/6643e7cbe4cc5f881f7a8bcf9ce62a69.jpg)
@@ -1093,10 +1093,10 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 *(artisan's tools, Common)*
 - **Weight**: 4 kg
 - **Price**: 10 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Strength
   - *Utilize:* Chisel a symbol or hole in stone (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Block and Tackle](dm/items.md#block-and-tackle).
+[Craft](dm/item_info.md#crafting): [Block and Tackle](dm/items.md#block-and-tackle).
 *(Source: PHB'24, page221)*
 
 ### Mastiff
@@ -1110,8 +1110,8 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 *(Maul, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 2d6 + STR Bludgeoning damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Topple](dm/items.md#item-info#topple).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), Reach 2, [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Topple](dm/item_info.md#topple).
 - **Price**: 10 gp
 - **Weight**: 5 kg
 ![Image|250](https://i.pinimg.com/736x/bb/7f/16/bb7f16d8093194f2648dc5a0ca27fbbc.jpg)
@@ -1136,7 +1136,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
 - **Properties**: -
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 15 gp
 - **Weight**: 2 kg
 ![Image|250](https://i.pinimg.com/736x/80/36/06/8036061fea0de1031648c3616360b1ed.jpg)
@@ -1162,8 +1162,8 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 *(Musket, Martial Ranged Weapon, Common)*
 - **Range**: 8/24 *(12m/36m)*
 - **Damage**: 1d12 + DEX Piercing damage.
-- **Properties**: [Loading](dm/items.md#item-info#weapon-properties#loading), [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Loading](dm/item_info.md#weapon-properties#loading), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 500 gp
 ![Image|250]() [TODO]
 - **Weight**: 5 kg
@@ -1174,7 +1174,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 *(tool, Common)*
 - **Weight**: 1 kg
 - **Price**: 25 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Wisdom
   - *Utilize:* Plot a course (DC 10), or determine position by stargazing (DC 15)
 *(Source: PHB'24, page221)*
@@ -1200,7 +1200,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(grenade, Common)*
 - **Weight**: 500 g
 - **Price**: 1 sp
-- **Properties**: [Throw Grenade](dm/items.md#item-info#throw-grenade).
+- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning). 
 
@@ -1224,10 +1224,10 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 10 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Wisdom
   - *Utilize:* Paint a recognizable image of something you've seen (DC 10)
-[Craft](dm/items.md#item-info#crafting): Druidic Focus, Holy Symbol.
+[Craft](dm/item_info.md#crafting): Druidic Focus, Holy Symbol.
 *(Source: PHB'24, page221)*
 
 ### Pan Flute
@@ -1264,8 +1264,8 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Pike, Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d10 + STR Piercing damage.
-- **Properties**: [Heavy](dm/items.md#item-info#weapon-properties#heavy), Reach 2, [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed) *(unless mounted)*.
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Properties**: [Heavy](dm/item_info.md#weapon-properties#heavy), Reach 2, [Two-Handed](dm/item_info.md#weapon-properties#two-handed) *(unless mounted)*.
+- **Mastery**: [Push 2](dm/item_info.md#push).
 - **Price**: 5 gp
 - **Weight**: 9 kg
 ![Image|250](https://i.pinimg.com/736x/00/8a/34/008a343166e9782c41677a86e7520039.jpg)
@@ -1275,8 +1275,8 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Pistol, Martial Ranged Weapon, Common)*
 - **Range**: 6/18 *(9m/27m)*
 - **Damage**: 1d10 + DEX Piercing damage.
-- **Properties**: [Loading](dm/items.md#item-info#weapon-properties#loading).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Loading](dm/item_info.md#weapon-properties#loading).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 250 gp
 ![Image|250]() [TODO]
 - **Weight**: 1.5 kg
@@ -1307,10 +1307,10 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(tool, Common)*
 - **Weight**: 1 kg
 - **Price**: 50 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Intelligence
   - *Utilize:* Detect a poisoned object (DC 10)
-[Craft](dm/items.md#item-info#crafting): All [Coatings](dm/items.md#concoctions).
+[Craft](dm/item_info.md#crafting): All [Coatings](dm/items.md#concoctions).
 *(Source: PHB'24, page221)*
 
 ### Pole
@@ -1338,7 +1338,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(potion, common)*
 - **Weight**: 250 g
 - **Price**: 50 gp
-- **Properties**: [Drink or Administer Potion](dm/items.md#item-info#drink-or-administer-potion).
+- **Properties**: [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion).
   *Effect:* Heal 2d4 + 2 HP.
 ![\|50](https://bg3.wiki/w/images/0/04/POT_Potion_of_Healing_Unfaded_Icon.png)
 *(Source: Baldur's Gate 3)*
@@ -1347,10 +1347,10 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(artisan's tools, Common)*
 - **Weight**: 1.5 kg
 - **Price**: 10 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Discern what a ceramic object held in the past 24 hours (DC 15)
-[Craft](dm/items.md#item-info#crafting): [Jug](dm/items.md#jug), [Lamp](dm/items.md#lamp).
+[Craft](dm/item_info.md#crafting): [Jug](dm/items.md#jug), [Lamp](dm/items.md#lamp).
 *(Source: PHB'24, page221)*
 
 ### Pouch
@@ -1372,8 +1372,8 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Quarterstaff, Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
-- **Properties**: [Versatile (1d8)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Topple](dm/items.md#item-info#topple).
+- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile).
+- **Mastery**: [Topple](dm/item_info.md#topple).
 - **Price**: 2 sp
 - **Weight**: 2 kg
 ![Image|250](https://i.pinimg.com/736x/64/0d/ce/640dceacec8176a8a49e5cce1cbe0c52.jpg)
@@ -1391,8 +1391,8 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Rapier, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 25 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/58/9e/90/589e902d887aba2e1adc82b6acaafdcc.jpg)
@@ -1464,7 +1464,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Crew**: 1
 - **AC**: 11
 - **HP**: 50
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 ## Items S
@@ -1486,7 +1486,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **AC**: 15
 - **HP**: 300
 - **Damage Threshold**: 15
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 ### Scale Mail
 *(Medium Armor, Common)*
@@ -1509,8 +1509,8 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Scimitar, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Slashing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Nick](dm/items.md#item-info#Nick).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+- **Mastery**: [Nick](dm/item_info.md#Nick).
 - **Price**: 25 gp
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
@@ -1539,8 +1539,8 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(, Simple Ranged Weapon, Common)*
 - **Range**: 16/64 *(24m/96m)*
 - **Damage**: 1d6 + DEX Piercing damage.
-- **Properties**: [Two-Handed](dm/items.md#item-info#weapon-properties#two-handed).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 25 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/37/e4/d1/37e4d16d5da34355ecb4df202547f775.jpg)
@@ -1550,8 +1550,8 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Shortsword, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Vex](dm/items.md#item-info#vex).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+- **Mastery**: [Vex](dm/item_info.md#vex).
 - **Price**: 10 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
@@ -1568,8 +1568,8 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Sickle, Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d4 + STR Slashing damage.
-- **Properties**: [Light](dm/items.md#item-info#weapon-properties#light).
-- **Mastery**: [Nick](dm/items.md#item-info#nick).
+- **Properties**: [Light](dm/item_info.md#weapon-properties#light).
+- **Mastery**: [Nick](dm/item_info.md#nick).
 - **Price**: 1 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/1e/12/4f/1e124fef80413a975f1c01039b405989.jpg)
@@ -1593,7 +1593,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Range**: 6/24 *(9m/36m)*
 - **Damage**: 1d4 + DEX Bludgeoning damage.
 - **Properties**: -
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 1 sp
 - **Weight**: -
 ![Image|250]() [TODO]
@@ -1611,18 +1611,18 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(artisan's tools, Common)*
 - **Weight**: 4 kg
 - **Price**: 20 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Strength
   - *Utilize:* Pry open a door or container (DC 20)
-[Craft](dm/items.md#item-info#crafting): Any Melee weapon (except [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), and [Whip](dm/items.md#whip)), Medium armor (except [Hide](dm/items.md#hide-armor)), Heavy armor, [Ball Bearings](dm/items.md#ball-bearings), [Bucket](dm/items.md#bucket), [Caltrops](dm/items.md#caltrops), [Chain](dm/items.md#chain), [Crowbar](dm/items.md#crowbar), [Firearm Bullets](dm/items.md#firearm-bullet), [Grappling Hook](dm/items.md#grappling-hook), [Iron Pot](dm/items.md#iron-pot), [Iron Spikes](dm/items.md#iron-spike), [Sling Bullets](dm/items.md#sling-bullet).
+[Craft](dm/item_info.md#crafting): Any Melee weapon (except [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), and [Whip](dm/items.md#whip)), Medium armor (except [Hide](dm/items.md#hide-armor)), Heavy armor, [Ball Bearings](dm/items.md#ball-bearings), [Bucket](dm/items.md#bucket), [Caltrops](dm/items.md#caltrops), [Chain](dm/items.md#chain), [Crowbar](dm/items.md#crowbar), [Firearm Bullets](dm/items.md#firearm-bullet), [Grappling Hook](dm/items.md#grappling-hook), [Iron Pot](dm/items.md#iron-pot), [Iron Spikes](dm/items.md#iron-spike), [Sling Bullets](dm/items.md#sling-bullet).
 *(Source: PHB'24, page221)*
 
 ### Spear
 *(Spear, Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
-- **Properties**: [Versatile (1d8)](dm/items.md#item-info#weapon-properties#versatile), [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown).
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 1 gp
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/c2/5b/86/c25b86973aa53365b2245dc22e1bd324.jpg)
@@ -1683,7 +1683,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(tool, Common)*
 - **Weight**: 500 g
 - **Price**: 25 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Dexterity
   - *Utilize:* Pick a lock (DC 15), or disarm a trap (DC 15)
 *(Source: PHB'24, page221)*
@@ -1708,10 +1708,10 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(artisan's tools, Common)*
 - **Weight**: 5 kg
 - **Price**: 50 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
-[Craft](dm/items.md#item-info#crafting): [Musket](dm/items.md#musket), [Pistol](dm/items.md#pistol), [Bell](dm/items.md#bell), [Bullseye Lantern](dm/items.md#bullseye-lantern), [Flask](dm/items.md#flask), [Hooded Lantern](dm/items.md#hooded-lantern), [Hunting Trap](dm/items.md#hunting-trap), [Lock](dm/items.md#lock), [Manacles](dm/items.md#manacles), [Mirror](dm/items.md#mirror), [Shovel](dm/items.md#shovel), [Signal Whistle](dm/items.md#signal-whistle), [Tinderbox](dm/items.md#tinderbox).
+[Craft](dm/item_info.md#crafting): [Musket](dm/items.md#musket), [Pistol](dm/items.md#pistol), [Bell](dm/items.md#bell), [Bullseye Lantern](dm/items.md#bullseye-lantern), [Flask](dm/items.md#flask), [Hooded Lantern](dm/items.md#hooded-lantern), [Hunting Trap](dm/items.md#hunting-trap), [Lock](dm/items.md#lock), [Manacles](dm/items.md#manacles), [Mirror](dm/items.md#mirror), [Shovel](dm/items.md#shovel), [Signal Whistle](dm/items.md#signal-whistle), [Tinderbox](dm/items.md#tinderbox).
 *(Source: PHB'24, page221)*
 
 ### Torch
@@ -1732,8 +1732,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Trident, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
-- **Properties**: [Thrown 4/12 *(6m/18m)*](dm/items.md#item-info#weapon-properties#thrown), [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Topple](dm/items.md#item-info#topple).
+- **Properties**: [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown), [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+- **Mastery**: [Topple](dm/item_info.md#topple).
 - **Price**: 5 gp
 - **Weight**: 2 kg
 ![Image|250](https://i.pinimg.com/736x/26/21/63/2621639a489836bf499481905081c18d.jpg)
@@ -1770,8 +1770,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(War Pick, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Piercing damage.
-- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Sap](dm/items.md#item-info#sap).
+- **Properties**: [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+- **Mastery**: [Sap](dm/item_info.md#sap).
 - **Price**: 5 gp
 - **Weight**: 1 kg
 ![Image|250](https://i.pinimg.com/736x/47/41/d7/4741d79572e539ae0028093d64822809.jpg)
@@ -1781,8 +1781,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Warhammer, Martial Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
-- **Properties**: [Versatile (1d10)](dm/items.md#item-info#weapon-properties#versatile).
-- **Mastery**: [Push 2](dm/items.md#item-info#push).
+- **Properties**: [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+- **Mastery**: [Push 2](dm/item_info.md#push).
 - **Price**: 15 gp
 - **Weight**: 2.5 kg
 ![Image|250](https://i.pinimg.com/736x/31/15/a7/3115a7b1824aa15bfe3ce925f6a1cd7a.jpg)
@@ -1806,7 +1806,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **AC**: 15
 - **HP**: 500
 - **Damage Threshold**: 20
-- **Properties**: [Ship Info](dm/items.md#item-info#ship-info).
+- **Properties**: [Ship Info](dm/item_info.md#ship-info).
 *(Source: PHB'24, page230)*
 
 ### Waterskin
@@ -1820,18 +1820,18 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Padded Armor](dm/items.md#padded-armor), [Basket](dm/items.md#basket), [Bedroll](dm/items.md#bedroll), [Blanket](dm/items.md#blanket), [Fine Clothes](dm/items.md#fine-clothes), [Net](dm/items.md#net), [Robe](dm/items.md#robe), [Rope](dm/items.md#rope) [Sack](dm/items.md#sack), [String](dm/items.md#string), [Tent](dm/items.md#tent), [Traveler's Clothes](dm/items.md#travelers-clothes).
+[Craft](dm/item_info.md#crafting): [Padded Armor](dm/items.md#padded-armor), [Basket](dm/items.md#basket), [Bedroll](dm/items.md#bedroll), [Blanket](dm/items.md#blanket), [Fine Clothes](dm/items.md#fine-clothes), [Net](dm/items.md#net), [Robe](dm/items.md#robe), [Rope](dm/items.md#rope) [Sack](dm/items.md#sack), [String](dm/items.md#string), [Tent](dm/items.md#tent), [Traveler's Clothes](dm/items.md#travelers-clothes).
 *(Source: PHB'24, page221)*
 
 ### Whip
 *(Whip, Martial Melee Weapon, Common)*
 - **Reach**: 2
 - **Damage**: 1d4 + STR Slashing damage.
-- **Properties**: [Finesse](dm/items.md#item-info#weapon-properties#finesse), Reach 2.
-- **Mastery**: [Slow 2](dm/items.md#item-info#slow).
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), Reach 2.
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Price**: 2 gp
 - **Weight**: 1.5 kg
 ![Image|250](https://i.pinimg.com/736x/4a/66/cd/4a66cd56b133e36b5026d2f1387c41b3.jpg)
@@ -1841,10 +1841,10 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(artisan's tools, Common)*
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
-- **Properties**: [Tools](dm/items.md#item-info#tools).
+- **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
   - *Utilize:* Carve a pattern in wood (DC 10)
-[Craft](dm/items.md#item-info#crafting): [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), Ranged weapons (except [Pistol](dm/items.md#pistol), [Musket](dm/items.md#musket), and [Sling](dm/items.md#sling)), Arcane Focus, [Arrows](dm/items.md#arrows), [Bolts](dm/items.md#bolts), Druidic Focus, [Ink Pen](dm/items.md#ink-pen), [Needles](dm/items.md#needles).
+[Craft](dm/item_info.md#crafting): [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), Ranged weapons (except [Pistol](dm/items.md#pistol), [Musket](dm/items.md#musket), and [Sling](dm/items.md#sling)), Arcane Focus, [Arrows](dm/items.md#arrows), [Bolts](dm/items.md#bolts), Druidic Focus, [Ink Pen](dm/items.md#ink-pen), [Needles](dm/items.md#needles).
 *(Source: PHB'24, page221)*
 
 
@@ -1853,85 +1853,3 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ## Items Y
 
 ## Items Z
-
-# Item Info
-
-## Concoctions
-At the end of every Long Rest, you can convert one Ingredient into a related Concoction with the according Tools.
-
-Concoctions are: Elixirs, Coatings, Grenades, or Potions.
-
-[TODO] Mechanics for finding out what concoctions an ingredient is good for?  
-
-## Crafting
-[TODO] Crafting Read as Written is kind of weird. so not sure I want to do it like that.
-
-## Drink or Administer Potion
-As a Bonus Action you may drink the potion yourself or administer it to a willing or [Unconscious](conditions.md#unconscious) creature to grant the stated effect.
-If you spend an Action instead of a Bonus Action, you can choose the result of any dice rolled in the stated effect.
-
-## Apply Weapon Coating
-As a Bonus Action you may coat one weapon or up to three pieces of ammunition. The weapon will have the stated effect as property for the stated duration.
-Only **one** coating can be applied to a weapon at the same time.
-
-## Throw Grenade
-When you take the Attack Action, you can replace one of your attacks with throwing the grenade.
-You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save (DC 8 + your DEX + your PB), suffering the effect according to the result of the Save. Objects always fail their DEX Save.
-
-## Ship Info
-- **Speed**: A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 50 kg. 
-- **Crew.** A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see Services) to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship. 
-- **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day. 
-- **Damage Threshold.** See the rules glossary. 
-- **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
-## Tools
-Each type of tools requires a separate proficiency. If you have proficiency with a tool, add your PB to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have **Advantage** on the check too.
-
-## Weapon Mastery
-### Cleave
-On Hit: Allows you to roll a second Attack against another creature within range 1 of the first target also within your reach, but without damage modifier.
-### Graze
-On Miss: You still deal the specified amount of damage to the target.
-### Nick
-Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action **once** per turn.
-### Push
-Allows you to push a creature by the specified range on hit. (STR/DEX save?)
-[Size](./../game_rules.md#advanced-rules#creature-sizes)
-### Sap
-On Hit: The target gets Disadvantage on its next Attack.
-### Slow
-On Hit: The target has its Speed reduced by the specified amount until the end of its next turn.
-### Topple
-On Hit: The target has to succeed a CON Save (DC 8 + your attack modifier + your PB) or be knocked [Prone](conditions.md#prone).
-### Vex
-On Hit: You gain Advantage on your next Attack against the same target.
-### Brace
-Allows you to Opportunity Attack as a Reaction when a creature enters your reach.
-### Rush
-Allows you to move an extra specified distance for free when using the Attack Action.
-
-## Weapon Properties
-### Ammunition
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
-If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
-
-### Finesse
-When making an attack with a Finesse weapon, use your choice of your STR or DEX modifier for the attack and damage rolls. You must use the same modifier for both rolls.
-
-### Heavy
-Small creatures have Disadvantage on Attacks with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
-
-### Light
-Whenever you take the Attack Action on your turn and attack with a Light weapon, you can make one extra attack with a **different** light weapon as a Bonus Action later on the same turn. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
-
-### Loading
-Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
-
-### Thrown
-If a weapon has the thrown property, you can throw the weapon to make a Ranged Attack with the specified normal/far ranges. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon.
-
-### Two-Handed
-This weapon requires two hands when you attack with it.
-
-### Versatile
-This weapon can be used with one or two hands. The specified damage roll is used when using two hands to make a Melee Attack. 

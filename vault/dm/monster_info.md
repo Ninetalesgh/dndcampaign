@@ -1,3 +1,24 @@
+
+# Monster Traits
+### Animated Object
+The creature is [Incapacitated](conditions.md#incapacitated) while in the area of an [Antimagic Field](spells.md#antimagic-field).
+If this creature is targeted with a spell-nullifying effect, such as [Dispel Magic](spells.md#dispel-magic), it must succeed on a CON Save against the caster's Spell Save DC or die.
+### Minion
+If the kobold takes damage from an Attack or as the result of a failed Save, its HP drop to 0. If it takes damage from another effect, it dies if the damage equals or exceeds its HP, otherwise it takes no damage.
+- **Overkill Attacks.** If a player character deals more damage to a minion than its HP they can assign the damage to another minion of the same type in range or line of the Attack.
+### Nimble Escape
+This creature can take the Disengage or Hide action as a Bonus Action on each of its turns.
+### Pack Tactics
+This creature has Advantage on an Attack Roll against a creature if at least one of its allies is within 1 *(1.5m)* of that creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
+### Scurrilous Scamper
+Opportunity attacks made against this creature by Medium or larger creatures have Disadvantage. 
+### Sunlight Sensitivity
+While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on WIS (Perception) checks that rely on sight.
+If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.
+### Undead Fortitude 
+If damage reduces this creature to 0 HP, it must make a CON Save with a DC of 5 plus the damage taken unless the damage is Radiant or from a Critical Hit. On a successful save, this creature drops to 1 HP instead.
+
+
 # Monsters By Type
 ## Aberration
 The [Cavern Choker (1/2)](dm/monsters.md#cavern-choker) is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -182,7 +203,6 @@ The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of
 [Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
 ## Plant
-
 ### Blights
 Awakened plants gifted with the powers of intelligence and mobility, blights plague lands contaminated by darkness. Drinking that darkness from the soil, a blight carries out the will of ancient evil and attempts to spread that evil wherever it can.
 - **Roots of the Gulthias Tree.** Legends tell of a vampire named Gulthias who worked terrible magic and raised up an abominable tower called Nightfang Spire. Gulthias was undone when a hero plunged a wooden stake through his heart, but as the vampire was destroyed, his blood infused the stake with a dreadful power. In time, tendrils of new growth sprouted from the wood, growing into a sapling infused with the vampire's evil essence. It is said that a mad druid discovered the sapling, transplanting it to an underground grotto where it could grow. From this Gulthias tree came the seeds from which the first blights were sown.

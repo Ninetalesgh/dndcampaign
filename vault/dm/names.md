@@ -9,6 +9,30 @@ Evelyn Marrowind
 Helena Cresswell
 Lila Fairweather
 Selena Draycott
+### Goblin Names
+Gribnuk
+Vrek
+Snarg
+Kruguk
+Blit
+Gorkle
+Thraz
+Zibgut
+Skrang
+Mugluk
+Zagna
+Grishka
+Vrix
+Blunka
+Snizz
+Krella
+Yibla
+Traskit
+Zorga
+Fizzra
+The Mudtusks
+The Sharpfangs
+The Bonebiters
 ### Dwarven Names
 Bronn Ironbraid
 Thrain Rockhewer
@@ -86,7 +110,7 @@ Ravoth Ironwing
 Serynth Silverstrike
 Tazorith Shadowfang
 Vyrmash Thunderbreath
-### Random Catch-All Names
+### Catch-All Names
 Brindle Ashfoot
 Cora Frostwillow
 Derrek Thornhill

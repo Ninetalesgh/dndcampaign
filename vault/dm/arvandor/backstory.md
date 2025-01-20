@@ -99,11 +99,11 @@ The Collapse ~ 935 DR when the day was shortest#### 2 months after Halric's deat
   The Academy is named Vinea Academy to honor the tragic past of New Arvandal.  
   Along with it, The Academy Elevator is built, connecting with the upper halls of Mithdral, mostly used for storage of goods,
     named The Stockpile. 
-
 #### Beginning of Resettlement of Mithdral ~ 1010 DR
-  With The Academy Elevator granting access to the lower levels people begin to restaurate and resettle upper Mithdral. 
-  However, class divide deepens over the coming centuries, people in upper Mithdral and people in New Arvandal develop in parallel and less together.
-  People start referring to upper Mithdral as The Pit.
+  With The Academy Elevator granting access people from the surface begin to restaurate and resettle upper Mithdral. 
+  However, class divide deepens over the coming centuries, people in Mithdral and people in New Arvandal develop in parallel and less together.
+  People start referring to Upper Mithdral as The Stockpile and Lower Mithdral as The Pit.
+  The Pit transitions into The Underdark at the bottom end and begins to get repopulated from beneath.
   
 
 

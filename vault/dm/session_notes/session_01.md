@@ -1,36 +1,64 @@
+# Names
+[Human Names](dm/names.md#human-names), [Elven Names](dm/names.md#elven-names), [Dwarven Names](dm/names.md#dwarven-names), [Halfling Names](dm/names.md#halfling-names), [Gnomish Names](dm/names.md#gnomish-names), [Goblin Names](dm/names.md#goblin-names), [Orcish Names](dm/names.md#orcish-names), [Tiefling Names](dm/names.md#tiefling-names), [Dragonborn Names](dm/names.md#dragonborn-names), [Catch-All Names](dm/names.md#catch-all-names).
+
 # Strong Introduction
 
+[Guard Tessa Marwick](dm/npcs.md#guard-tessa-marwick)
 **Captain Teal Lareth.** -> Clean shaven bald head. tall, broad shoulders.  
 - Dain sees you hesitate: "There will be 10 gold pieces for everyone of you who joins. Teal, just in case this is more than they can handle, get 10 out of the pit on standby for this." 
 
 - Teal nods harshly "Tess, with them".
-- Teal walks of towards the academy elevators.
-- Garrin, Tessa, and players run to out farm.
+- Teal walks off towards the academy elevators.
+- Garrin, Tessa, and players run to out Guard Tower at The Plateau Gate
+- A lookout on the tower matches eyes with Tess: "West side of the shelf, the Mylen farmstead, there's smoke!"
+- Tess offers armaments to players (armor, shields, javelins) consider don speed? 
 
-- reach the city gates, a lookout on the tower matches eyes with Tess: "West side of the shelf, the Mylen farmstead!"
+- ~5km distance ATHLETICS check to keep a good pace if you wanted to put on armor?
 
-- ~5km distance ATHLETICS check to keep a good pace. 
-
-- bad visibility between the grain fields 
+- bad visibility between the grain fields, forest patches and hills. 
 
 
 # Scenes
 
 ## The Mylen Farmstead
+### The Plateau
 
-**Farmer Merrick Mylen.** -> Human. [TODO] dies? 
+  - The river called "Limvael" (Elvish for 'Clear/Water Pool'), 
+    a creek, called **"Arm of Limvael"**. 
+  The dwarves referred to the underground streams flowing out underneath the riverpool as **"Drinathar"** - 'Waters of Silver'.
+
+  - Slight haze in the air, cloudy. Lush gently rolling hills, Farmsteads scattered across The Plateau, in the back you see arboreal mountain ranges rise on the horizon in the west and south.
+      In the east you have a steep embankment dropping down into the valley, granting a stunning view across the King's Forest in the Cormyr lowlands. (The entire Plateau is roughly 2x12km)
+  - Through the center runs, north to south, a creek originating from the River nurturing New Arvandal, the Arm of Limvael.
+  - The path next to the creek you run along is made of **cobblestone**. 
 
 ### The Farmhouse and Barn
+**Farmer Merrick Mylen.** -> Human. [TODO] dies? 
+**Farmer Lilly Mylen.** -> Human. [TODO] dies? 
+**Farmer's Daugther Ginny Mylen.** -> Human. [TODO] dies? 
+
+**Goat Becky** -> Ginny's favorite goat that got stolen.
+**Goblin Names** -> Grot, Blik, Skrub, Zorp, Krizz, Frub, Snog.
+
+[Farmhouse](https://watabou.github.io/dwellings/?seed=924670409&tags=basement,organic,low&plan=EF7FBBFD10E00778B3CD1EEF7FFBFF1&w=11&h=11)
 
 - **Location**: 
   - Nestled against the inner edge of the plateau, the farmstead sits in ruin, its fences splintered and crops trampled.
-  - Chickens scatter nervously.
-  - In the back on the pasture along the edge of the forest
-   their clucking the only sound aside from the eerie creak of the farmhouse door swinging ajar in the cold alpine breeze. [TODO]
+  - In the back (200m) on the pasture along the edge of the forest a group of goblins are dragging a couple of sheep into the forest.
+  - You see a woman slouched on the ground against a splintered wooden fence, a spear sticking out from her guts.
+  - Chickens scatter nervously around the farm, clucking and hopping, you see two goblins, each holding a chicken by its feet.
+
+ROLL INITIATIVE
+
+  - Garrin: "Lilly!". He runs to her, tears start gathering in his eyes "We have to find Merrick and their daughter!"
+  - Tess: "
+  - 
+
+  AFTER THE BATTLE: 
+  - The clucking is the only sound aside from the eerie creak of the farmhouse door swinging ajar in the alpine breeze.
   - Smoke rises from the smoldering remains of the barn, and the acrid scent of burnt hay mingles with the iron tang of spilled blood. 
 
 
-In the back along the pasture 
 
 This is where the first fight will take place, with surprised goblins.
 goblins will start fleeing, 3 will enter combat with the players here.
