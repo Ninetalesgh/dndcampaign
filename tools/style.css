@@ -157,10 +157,10 @@ p{
 }
 
 .container{
-  max-width: 1300px;
+  max-width: 1500px;
   margin: auto;
   padding-left: 25px;
-  padding-right: 25px;
+  padding-right: 0px;
 }
 .small-container{
   max-width: 1080px;
@@ -422,6 +422,18 @@ small{
 
 .copyright{
   text-align: center;
+}
+
+.navigation{
+  overflow: hidden;
+  height: 100%;
+}
+
+.dndindex{
+  overflow-y: auto;
+}
+.page-selection{
+  overflow-y: auto;
 }
 
 /* ----- Media Query ------ */
