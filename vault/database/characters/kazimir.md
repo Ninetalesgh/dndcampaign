@@ -1,6 +1,6 @@
 # Kazimir
 ## Stats and Proficiencies
-- **Initiative**: +3 *(DEX + PB)*
+- **Initiative**: +1 *(DEX)*
 - **AC**: 16 ([Scale Mail](dm/items.md#scale-mail) + DEX)
 - **HP**: 12
 - **HP Dice**: 1 D10
@@ -10,7 +10,7 @@
 | STR 17 (+3)        | DEX 12 (+1)          | CON 14 (+2)       |
 | :----------------- | :------------------- | :---------------- |
 | ☑ **STR Save +5**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
-| ☑ **Athletics +5** | ☐ Acrobatics +1      | .                 |
+| ☑ **Athletics +5** | ☑ **Acrobatics +3**  | .                |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
@@ -19,13 +19,12 @@
 | :----------------- | :------------------- | :----------------- |
 | ☐ INT Save +0      | ☐ WIS Save +1        | ☐ CHA Save +0      |
 | ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
-| ☐ History +0       | ☐ Insight +1         | ☐ Intimidation +0  |
+| ☐ History +0       | ☐ Insight +1         | ☑ **Intimidation +2**  |
 | ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
 | ☐ Nature +0        | ☐ Perception +1      | ☐ Persuasion +0    |
 | ☐ Religion +0      | ☐ Survival +1        | .                  |
 
-[TODO] Which 2 other skills did you choose? 
-[TODO] Which Origin feat did you choose? Alert, right?
+[TODO] Origin feat Alert vs Skilled? 
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
@@ -62,7 +61,7 @@
 ### Passive Feats
 *- Extra lineage feat at level 3.*
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-- [Alert](./../feats.md#alert) *(Already included above)*
+//- [Alert](./../feats.md#alert) *(Already included above)*
 - **Weapon Mastery**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
