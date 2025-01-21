@@ -139,7 +139,8 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
   **When the crank is pulled**, the symbols spin wildly before clattering into place with the satisfying click of brass levers locking into position. 
     - A soft chime accompanies a win, while the faint scent of oil and ozone lingers in the air.
 
-- Some boxes contain Black Lotus. ()
+- Some boxes contain Black Lotus. (touching the flower poisons your skin, giving you a rash.)
+  procedure: Dry flower, soak in tar and rinse with strong vegetable soap. Dry crispy in oven. crush to powder. mix with animal fat as cream to smear behind the lips or sniff dry.
 
 - Someone involved with The Stockpile Business summoned animated objects to hide some evidence.
   [Animated Broom (1/4)](dm/monsters.md#animated-broom)
