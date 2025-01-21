@@ -1261,7 +1261,7 @@ It lasts for the duration or until a wind of moderate or greater speed (at least
 
 ### Ceremony
 *Level 1 Abjuration (ritual)*
-- **Casting Time**: 1 Hr. or Ritual
+- **Casting Time**: 1 Hour or Ritual
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
