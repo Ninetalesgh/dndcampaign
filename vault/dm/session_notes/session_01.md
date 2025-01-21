@@ -119,13 +119,32 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 ## The Undercity
 
 ### The Stockpile
-[Street Kid Tobben](dm/npcs.md#street-kid-tobben)
+[Street Kid Tobben](dm/npcs.md#street-kid-tobben) is to be found across The Bridge, he's not around the warehouses.
 
 - **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies. 
 Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures, traders, and opportunists alike. 
 The air is thick with the tang of oil, mildew, and secrecy, a reminder that here, the line between legitimate commerce and shady dealings is perilously thin.
 
-- The levels the elevator stops at 
+- There's paths leading out from the warehouse floors, to The Bridge (the span looking down into the depths of The Pit).
+- People moving around gears and tools. 
+
+- Two guards (people dressed as guards?) moving a crate out of a warehouse room towards The Bridge.
+
+- Some boxes in the warehouse contain **Slot Machines.**
+  Polished brass casing, snugly fit within the crate lined with straw to cushion it.
+  A Scent of oiled metal and freshly worked wood wafts from the crate.
+  Through the clean glass panel you can see rows of vibrant symbols - visualized runes, gems, and coins.
+  It features a hand crank on the side, a wooden lever with an ivory ball at the end.
+  There is a slit in the brass next to the crank, a little finger's width.
+  **When the crank is pulled**, the symbols spin wildly before clattering into place with the satisfying click of brass levers locking into position. 
+    - A soft chime accompanies a win, while the faint scent of oil and ozone lingers in the air.
+
+- Some boxes contain Black Lotus. ()
+
+- Someone involved with The Stockpile Business summoned animated objects to hide some evidence.
+  [Animated Broom (1/4)](dm/monsters.md#animated-broom)
+  [Animated Kettle (1/4)](dm/monsters.md#animated-kettle)
+  [Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)
 
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 [Bandit (1/8)](dm/monsters.md#bandit)
@@ -187,8 +206,9 @@ In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
 - Tazlyn Stonewright is Brennar's Ancestor, he still has books of hers. 
 
-- Someone involved with The Stockpile Business summoned animated objects to hide some evidence.
+- The Guards want to pressure the Thieves' Guild out of The Stockpile. 
 
+- The Thieves' Guild is extremely on edge but also desperate to recruit more people.
 
 # UNSORTED
 
@@ -212,7 +232,3 @@ thief threatens XYZ and then rushes to sewer entrance
 
 - Tess beats one goblin to death violently.
 - if noone speaks Goblin, Tess will snark "The wood worker **Veshka** probably does".
-
-# Secrets and Clues
-
-- Garrin and Alenna's daughter's corpse is in the Vinea ruin tower
