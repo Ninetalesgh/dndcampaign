@@ -135,8 +135,6 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 - **Location**: Far below the Stockpile, the air grows heavy and oppressive, and the cavernous expanse of the Pit stretches into the dark. Makeshift homes and shanties cling precariously to the walls, their occupants eking out a living amidst the underworld's strange and chaotic energy. 
 The chatter of diverse voices — *gruff, lilting, and guttural* — echoes through the gloom, mingling with the distant sounds of flowing water and shifting stone. Dim phosphorescent fungi provide a ghostly light, illuminating the signs of a thriving yet precarious community, teetering between survival and descent into the mysteries of the Underdark below.
 
-
-
 [Aberration](dm/monster_info.md#aberration)
 [Cavern Choker (1/2)](dm/monsters.md#cavern-choker)
 
