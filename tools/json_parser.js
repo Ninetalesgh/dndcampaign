@@ -345,6 +345,7 @@ function convert5EMonsterToText(jsonObject)
   let output = new Array();
   // Extra Link
   {
+    //TODO doesn't work for covens
     const linkToMonsterString = `[${data.name} (${data.cr.cr ? `${data.cr.cr} Minion` : data.cr})](dm/monsters.md#${data.name.replace(/\s/g,'-').toLowerCase()})`;
     output.push(linkToMonsterString);
   }
@@ -353,6 +354,7 @@ function convert5EMonsterToText(jsonObject)
 
   // CR
   {
+    //TODO doesn't work for covens
     const crString = `**CR**: ${data.cr.cr ? `${data.cr.cr} *(Minion)*` : data.cr}`;
     output.push(crString);
   }
