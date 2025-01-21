@@ -34,9 +34,9 @@
   - The path next to the creek you run along is made of **cobblestone**. 
 
 ### The Farmhouse and Barn
-**Farmer Merrick Mylen.** -> Human. [TODO] dies? 
-**Farmer Lilly Mylen.** -> Human. [TODO] dies? 
-**Farmer's Daugther Ginny Mylen.** -> Human. [TODO] dies? 
+**Farmer Merrick Mylen.** -> Human. short cut fuzzy dark hair. 
+**Farmer Lilly Mylen.** -> Human. shoulder long dark hair. light brown skin.
+**Farmer's Daugther Ginny Mylen.** -> Tiefling. Pale purple skin, white eyes, small horn stumps 
 
 **Goat Becky** -> Ginny's favorite goat that got stolen.
 **Goblin Names** -> Grot, Blik, Skrub, Zorp, Krizz, Frub, Snog.
@@ -121,17 +121,24 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 ### The Stockpile
 [Street Kid Tobben](dm/npcs.md#street-kid-tobben)
 
-- **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies. Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures—dockhands, traders, and opportunists alike. The air is thick with the tang of oil, mildew, and secrecy, a reminder that here, the line between legitimate commerce and shady dealings is perilously thin.
+- **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies. 
+Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures, traders, and opportunists alike. 
+The air is thick with the tang of oil, mildew, and secrecy, a reminder that here, the line between legitimate commerce and shady dealings is perilously thin.
+
+- The levels the elevator stops at 
 
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 [Bandit (1/8)](dm/monsters.md#bandit)
 
 
-[TODO] intro.
 ### The Pit
-- **Location**: 
+- **Location**: Far below the Stockpile, the air grows heavy and oppressive, and the cavernous expanse of the Pit stretches into the dark. Makeshift homes and shanties cling precariously to the walls, their occupants eking out a living amidst the underworld's strange and chaotic energy. 
+The chatter of diverse voices — *gruff, lilting, and guttural* — echoes through the gloom, mingling with the distant sounds of flowing water and shifting stone. Dim phosphorescent fungi provide a ghostly light, illuminating the signs of a thriving yet precarious community, teetering between survival and descent into the mysteries of the Underdark below.
 
-[TODO] intro.
+
+
+[Aberration](dm/monster_info.md#aberration)
+[Cavern Choker (1/2)](dm/monsters.md#cavern-choker)
 
 ## The Bakery
 - **Brennar Stonewright**: Dwarf -> Jovial with a bushy brown beard, his eyes crinkle with deep laugh lines, a testament to his hearty humor.
@@ -198,29 +205,15 @@ Cows drink polluted water, go into a frenzy and have to be put down?
 - Some of the people that live in the mountains haven't been seen in a while? (something is going on in the mountains?)
 
 
-
-
 - **Berric Morgrim.** Missing tooth, patchy beard. (jittering hand)
 thief threatens XYZ and then rushes to sewer entrance
-
-
-
 > Kazimir knows Berric's jittering hand symptoms as likely caused by Black Lotus, which.. well, refining it makes money.
 
 
-
-
-[Veshka Tovan](./../arvandor/characters/living_npcs.md#veshka-tovan).
-
-
-## Rushing to Help the Mylen Farmstead
-
-
-- Players rush to help, wounded warg and some goblins still around to catch up with.
 - capture one alive? 
 
 - Tess beats one goblin to death violently.
-- if noone speaks Goblin, Tess will snark "The carpenter probably does".
+- if noone speaks Goblin, Tess will snark "The wood worker **Veshka** probably does".
 
 # Secrets and Clues
 

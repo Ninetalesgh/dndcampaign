@@ -145,8 +145,13 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
   No devil can promote or demote another devil that has not sworn fealty to it, preventing rival archdevils from demoting each other's most powerful servants. Since all devils swear fealty to Asmodeus, he can freely demote any other devil, transforming it into whatever infernal form he desires.
 
 
+### Chtonics
+  [TODO]
+  [Night Hag (5)](dm/monsters.md#night-hag)
+
 ### Demons
   [TODO]
+
 ## Giant
 ## Humanoid
 ### Any Humanoid

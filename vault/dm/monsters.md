@@ -1350,6 +1350,41 @@ STR | DEX | CON | INT | WIS | CHA
    If the triggering attack was an unarmed attack or one with a natural weapon, the attacker takes an additional 2 piercing damage.
 *(Source: ConfluxCreatures)*
 
+### Night Hag
+**CR**: 5 *(7 if part of a coven)*
+*Medium fiend, Neutral Evil*
+- **Initiative**: +2
+- **AC**: 17 (natural armor)
+- **HP**: 112 (15d8 + 45)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) 
+
+- **Skills**: deception: +6, insight: +5, perception: +5, stealth: +5
+- **Resistances**: cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
+- **Immunities**: [Charmed](conditions.md#charmed)
+- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 16
+- **Languages**: Abyssal, Common, Infernal, Primordial
+- **Traits**: 
+   - **Magic Resistance**. The hag has advantage on Saves against spells and other magical effects.
+   - **Night Hag Items**. A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.
+   Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
+   Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
+   - **Temporary Statblock**. {@note This statblock is a placeholder.}
+   - **Innate Spellcasting**. The hag's innate spellcasting ability is CHAa (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
+     - *At will:* [detect magic](spells.md#detect-magic), [magic missile](spells.md#magic-missile)
+     - *2/day each:* [plane shift](spells.md#plane-shift) (self only), [ray of enfeeblement](spells.md#ray-of-enfeeblement), [sleep](spells.md#sleep)
+- **Actions**: 
+   - **Claws (Hag Form Only)**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 13 (2d8 + 4) slashing damage.
+   - **Change Shape**. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
+   - **Etherealness**. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
+   - **Nightmare Haunting (1/Day)**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](spells.md#protection-from-evil-and-good) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](spells.md#greater-restoration) spell or similar magic.
+*(Source: XMM)*
+
+
 ## Monsters O
 ### Ooze Mephit
 **CR**: 1/2
