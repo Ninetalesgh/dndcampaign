@@ -141,11 +141,11 @@ If you roll a 20 on an attack roll before modifiers you score a ***Critical Hit*
 ![\|30](https://bg3.wiki/w/images/c/ca/Main_Hand_Attack_Icon.webp)
 
 #### Dash
-Gain additional Speed equal to your *modified* Movement Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
+Gain additional Movement equal to your *modified* Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
 ![\|30](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
 
 #### Disengage
-Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) for the rest of this turn.
+Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) and you gain 1 *(1.5m)* extra Movement for the rest of this turn.
 ![\|30](https://bg3.wiki/w/images/9/94/Disengage_Icon.webp)
 
 #### Dodge
