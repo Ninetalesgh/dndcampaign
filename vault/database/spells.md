@@ -547,6 +547,7 @@ At the end of each of its turns, an affected creature can repeat this Save, endi
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a CHA  Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/3/3b/Banishing_Smite_Melee_Icon.web)
 *(Source: PHB'24, page 245)*
 
 ### Banishment
@@ -559,6 +560,7 @@ One creature that you can see within range must succeed on a CHA  Save or be tra
 If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/6/6d/Banishment_Icon.web)
 *(Source: PHB'24, page 245)*
 
 ### Barkskin
@@ -683,6 +685,7 @@ In combat, the target must succeed on a WIS Save at the start of each of its tur
 If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
 **Using a Higher-Level Spell Slot.** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 - **Classes**: Bard, Cleric, Wizard
+![\|50](https://bg3.wiki/w/images/0/00/Bestow_Curse_Icon.web)
 *(Source: PHB'24, page 246)*
 
 ### Bestow Wound
@@ -778,6 +781,7 @@ For the duration, you can repeat this effect at the beginning of each of your tu
 You create a wall of whirling blades made of magical energy. The wall appears within range and lasts for the duration. You make a straight wall up to 20 *(30m)* long, 4 *(6m)* high, and 1 *(1.5m)* thick, or a ringed wall up to 12 *(18m)* in diameter, 4 *(6m)* high, and 1 *(1.5m)* thick. The wall provides Three-Quarters Cover, and its space is Difficult Terrain.
 Any creature in the wall's space makes a DEX Save, taking 6d10 Force damage on a failed save or half as much damage on a successful one. A creature also makes that save if it enters the wall's space or ends it turn there. A creature makes that save only once per turn.
 - **Classes**: Cleric
+![\|50](https://bg3.wiki/w/images/b/bb/Blade_Barrier_Icon.webp)
 *(Source: PHB'24, page 247)*
 
 ### Blade Ward
@@ -1607,6 +1611,7 @@ Choose three of the following facts; you learn those facts as they pertain to th
 You try to compel a creature into a duel. One creature that you can see within range makes a WIS Save. On a failed save, the target has Disadvantage on attack rolls against creatures other than you, and it can't willingly move to a space that is more than 6 *(9m)* away from you.
 The spell ends if you make an attack roll against a creature other than the target, if you cast a spell on an enemy other than the target, if an ally of yours damages the target, or if you end your turn more than 6 *(9m)* away from the target.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/7/73/Compelled_Duel_Icon.webp)
 *(Source: PHB'24, page 252)*
 
 ### Comprehend Languages
@@ -2185,6 +2190,7 @@ You collapse a line of space into a single point. Choose a point along a undefin
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You radiate a magical aura in a radius 6 *(9m)* emanation. While in the aura, you and your allies each deal an extra 1d4 Radiant damage when hitting with a weapon or an Unarmed Strike.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/4/4d/Crusader%27s_Mantle_Icon.webp)
 *(Source: PHB'24, page 259)*
 
 ### Crush of Aeons
@@ -2268,6 +2274,7 @@ As an action, you can see through the cursed creature's eyes and hear what it he
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a radius 2 *(3m)* sphere.
 As a Bonus Action, you can move the lights up to 12 *(18m)* to a space within range. A light must be within 4 *(6m)* of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/ba/Dancing_Lights_Icon.web)
 *(Source: PHB'24, page 259)*
 
 ### Danse Macabre
@@ -2341,7 +2348,7 @@ For the duration, magical Darkness spreads from a point within range and fills a
 Alternatively, you cast the spell on an object that isn't being worn or carried, causing the Darkness to fill a radius 3 *(4.5m)* emanation originating from that object. Covering that object with something opaque, such as a bowl or helm, blocks the Darkness.
 If any of this spell's area overlaps with an area of Bright Light or Dim Light created by a spell of level 2 or lower, that other spell is dispelled.
 - **Classes**: Sorcerer, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/5/56/Generic_Darkness_Icon.webp)
+![\|50](https://bg3.wiki/w/images/b/bf/Darkness_Icon.webp)
 *(Source: PHB'24, page 260)*
 
 ### Darkvision
@@ -2882,6 +2889,7 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 - **Duration**: 1 minute
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/4/44/Divine_Favour_Icon.web)
 *(Source: PHB'24, page 265)*
 
 ### Divine Smite
@@ -3260,6 +3268,7 @@ As a bonus action on each of your turns, you can touch this weapon to another me
 A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to 2d4. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to 3d4.
 - **Classes**: Artificer, Druid, Paladin, Ranger
+![\|50](https://bg3.wiki/w/images/0/06/Elemental_Weapon_Icon.web)
 *(Source: PHB'24, page 268)*
 
 ### Elementalism
@@ -3533,6 +3542,7 @@ Squirming, ebony tentacles fill a size 4 *(6m)* square on ground that you can se
 Each creature in that area makes a STR Save. On a failed save, it takes 3d6 Bludgeoning damage, and it is [Restrained](conditions.md#restrained) until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
 A [Restrained](conditions.md#restrained) creature can take an action to make a STR (Athletics) check against your spell save DC, ending the condition on itself on a success.
 - **Classes**: Wizard
+![\|50](https://bg3.wiki/w/images/d/d6/Evard%27s_Black_Tentacles_Icon.webp)
 *(Source: PHB'24, page 270)*
 
 ### Expeditious Retreat
@@ -3599,8 +3609,12 @@ You distort the vision of a creature in range, obscuring yourself from it. The t
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 For the duration, your eyes become an inky void. One creature of your choice within 12 *(18m)* of you that you can see must succeed on a WIS Save or be affected by one of the following effects of your choice for the duration.
-On each of your turns until the spell ends, you can take a Magic action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell. Asleep. The target is [Unconscious](conditions.md#unconscious). It wakes up if it takes any damage or if another creature takes an action to shake it awake. Panicked. The target is [Frightened](conditions.md#frightened). On each of its turns, the [Frightened](conditions.md#frightened) target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 12 *(18m)* away from you where it can't see you, this effect ends. Sickened. The target is [Poisoned](conditions.md#poisoned).
+On each of your turns until the spell ends, you can take a Magic action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell. 
+**Asleep.** The target is [Unconscious](conditions.md#unconscious). It wakes up if it takes any damage or if another creature takes an action to shake it awake. 
+**Panicked.** The target is [Frightened](conditions.md#frightened). On each of its turns, the [Frightened](conditions.md#frightened) target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 12 *(18m)* away from you where it can't see you, this effect ends. 
+**Sickened.** The target is [Poisoned](conditions.md#poisoned).
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/f/f7/Eyebite_Panicked_Icon.web)
 *(Source: PHB'24, page 270)*
 
 # Spells F
@@ -3625,6 +3639,7 @@ Creatures and magic items can't be created by this spell. You also can't use it 
 Objects in a size 4 *(6m)* cube within range are outlined in blue, green, or violet light (your choice). Each creature in the Cube is also outlined if it fails a DEX Save. For the duration, objects and affected creatures shed Dim Light in a radius 2 *(3m)* sphere and can't benefit from the [Invisible](conditions.md#invisible) condition.
 Attack rolls against an affected creature or object have Advantage if the attacker can see it.
 - **Classes**: Artificer, Bard, Druid
+![\|50](https://bg3.wiki/w/images/a/a1/Faerie_Fire_Icon.webp)
 *(Source: PHB'24, page 271)*
 
 ### False Life
@@ -3968,6 +3983,7 @@ As a Magic action, you can make a melee spell attack with the fiery blade. On a 
 The flaming blade sheds Bright Light in a radius 2 *(3m)* sphere and Dim Light for an additional 2 *(3m)*.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 2.
 - **Classes**: Druid, Sorcerer
+![\|50](https://bg3.wiki/w/images/c/c8/Flame_Blade_Icon.webp)
 *(Source: PHB'24, page 275)*
 
 ### Flame Strike
@@ -4986,6 +5002,7 @@ While it carries the gift, the creature has disadvantage on attacks that target 
 Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on DEX Saves, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 When the spell ends, the target is [Incapacitated](conditions.md#incapacitated) and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/1/11/Haste_Icon.web)
 *(Source: PHB'24, page 284)*
 
 ### Heal
@@ -5246,6 +5263,7 @@ You open a gateway to the Far Realm, a region infested with unspeakable horrors.
 Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn there must succeed on a DEX Save or take 2d6 Acid damage from otherworldly tentacles.
 **Using a Higher-Level Spell Slot.** The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 - **Classes**: Warlock
+![\|50](https://bg3.wiki/w/images/4/44/Hunger_of_Hadar_Icon.web)
 *(Source: PHB'24, page 286)*
 
 ### Hunter's Mark
@@ -6733,6 +6751,7 @@ A silvery beam of pale light shines down in a radius 1 *(1.5m)* sphere, height 8
 When the Cylinder appears, each creature in it makes a CON Save. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can't shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 2.
 - **Classes**: Druid
+![\|50](https://bg3.wiki/w/images/8/8b/Moonbeam_Icon.web)
 *(Source: PHB'24, page 300)*
 
 ### Mordenkainen's Faithful Hound
@@ -7311,6 +7330,7 @@ Nothing—not physical objects, energy, or other spell effects—can pass throug
 The sphere is weightless and just large enough to contain the creature or object inside. An enclosed creature can take an action to push against the sphere's walls and thus roll the sphere at up to half the creature's Speed. Similarly, the globe can be picked up and moved by other creatures.
 A Disintegrate spell targeting the globe destroys it without harming anything inside.
 - **Classes**: Artificer, Wizard
+![\|50](https://bg3.wiki/w/images/8/82/Otiluke%27s_Resilient_Sphere_Icon.webp)
 *(Source: PHB'24, page 303)*
 
 ### Otto's Irresistible Dance
@@ -7380,6 +7400,7 @@ A creature that fails this Save by 5 or more uses all of its remaining movement 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You radiate a concealing aura in a radius 6 *(9m)* emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to DEX (Stealth) checks and leave no tracks.
 - **Classes**: Druid, Ranger
+![\|50](https://bg3.wiki/w/images/2/2b/Pass_Without_Trace_Icon.web)
 *(Source: PHB'24, page 303)*
 
 ### Passwall
@@ -7443,6 +7464,7 @@ You tap into the nightmares of a creature you can see within range and create an
 For the duration, the target makes a WIS Save at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Bard, Wizard
+![\|50](https://bg3.wiki/w/images/d/da/Phantasmal_Killer_Icon.web)
 *(Source: PHB'24, page 304)*
 
 ### Phantom Steed
@@ -7495,6 +7517,7 @@ You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service
 A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 - **Classes**: Bard, Cleric, Druid, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/f/fa/Planar_Binding_Icon.web)
 *(Source: PHB'24, page 305)*
 
 ### Plane Shift
@@ -8622,6 +8645,7 @@ While [Restrained](conditions.md#restrained) in this way, the creature takes 4d1
 As you hit the target, it takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a CON Save. On a failed save, the spell continues. On a successful save, the spell ends.
 **Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/5/50/Searing_Smite_Icon.webp)
 *(Source: PHB'24, page 314)*
 
 ### See Invisibility
@@ -9162,6 +9186,7 @@ On a failure, the target falls asleep and is [Unconscious](conditions.md#unconsc
 Until the spell ends, sleet falls in a height 8 *(12m)*,a radius 4 *(6m)* sphere Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
 Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a DEX Save or be [Prone](conditions.md#prone) and lose Concentration.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/5/50/Sleet_Storm_Icon.web)
 *(Source: PHB'24, page 317)*
 
 ### Slip Bonds
@@ -9221,7 +9246,7 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 The target takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a CON Save. On a failed save, the spell continues. On a successful save, the spell ends. All the damage increases by 1d6 against Undead.
 **Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/c/c8/Flame_Blade_Icon.webp)
+![\|50](https://bg3.wiki/w/images/4/4e/Elemental_Weapon_Fire_Icon.web)
 *(Source: Custom)*
 
 ### Smite of Winter
@@ -9413,7 +9438,7 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 - **Classes**: Bard, Cleric, Wizard
-![\|50](https://bg3.wiki/w/images/2/2c/Recast_Speak_with_Dead_Icon.webp)
+![\|50](https://bg3.wiki/w/images/8/8c/Speak_with_Dead_Icon.web)
 *(Source: PHB'24, page 318)*
 
 ### Speak with Plants
@@ -9599,7 +9624,7 @@ The area is difficult terrain for nonplant creatures other than you, and a nonpl
 The target takes an extra 4d6 Psychic damage from the attack, and the target must succeed on a WIS Save or be [Stunned](conditions.md#stunned) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The extra damage increases by 1d6 for each spell slot level above 4.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/3/30/Bludgeon_the_Weak_Icon.webp)
+![\|50](https://bg3.wiki/w/images/0/03/Staggering_Smite_Icon.webp)
 *(Source: PHB'24, page 319)*
 
 ### Stain the Soul
@@ -10016,7 +10041,7 @@ You launch a sunbeam in a undefined, undefined Line. Each creature in the Line m
 Until the spell ends, you can take a Magic action to create a new Line of radiance.
 For the duration, a mote of brilliant radiance shines above you. It sheds Bright Light in a radius 6 *(9m)* sphere and Dim Light for an additional 6 *(9m)*. This light is sunlight.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
-![\|50](https://bg3.wiki/w/images/6/61/Recast_Sunbeam_Icon.webp)
+![\|50](https://bg3.wiki/w/images/6/63/Sunbeam_Icon.webp)
 *(Source: PHB'24, page 329)*
 
 ### Sunburst
@@ -10851,6 +10876,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 Until the spell ends, you can make the attack again on each of your turns as a Magic action, targeting the same creature or a different one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/8/85/Vampiric_Touch_Icon.web)
 *(Source: PHB'24, page 337)*
 
 ### Vector-Spread
@@ -10960,6 +10986,7 @@ When the wall appears, each creature in its area makes a DEX Save, taking 5d8 Fi
 One side of the wall, selected by you when you cast this spell, deals 5d8 Fire damage to each creature that ends its turn within 2 *(3m)* of that side or inside the wall. A creature takes the same damage when it enters the wall for the first time on a turn or ends its turn there. The other side of the wall deals no damage.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 4.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/c/ca/Wall_of_Fire_Icon.webp)
 *(Source: PHB'24, page 338)*
 
 ### Wall of Force
@@ -10971,6 +10998,7 @@ One side of the wall, selected by you when you cast this spell, deals 5d8 Fire d
 An [Invisible](conditions.md#invisible) wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a globe with a radius of up to 2 *(3m)*, or you can shape a flat surface made up of ten 2-by-2 *(3m-by-3m)* panels. Each panel must be contiguous with another panel. In any form, the wall is 6mm thick and lasts for the duration. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (you choose which side).
 Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by Dispel Magic. A Disintegrate spell destroys the wall instantly, however. The wall also extends into the Ethereal Plane and blocks ethereal travel through the wall.
 - **Classes**: Wizard
+![\|50](https://bg3.wiki/w/images/b/b7/Curriculum_of_Strategy_Artistry_of_War_Icon.webp)
 *(Source: PHB'24, page 338)*
 
 ### Wall of Ice
@@ -10985,6 +11013,7 @@ The wall is an object that can be damaged and thus breached. It has AC 12 and 30
 A creature moving through the sheet of frigid air for the first time on a turn makes a CON Save, taking 5d6 Cold damage on a failed save or half as much damage on a successful one.
 **Using a Higher-Level Spell Slot.** The damage the wall deals when it appears increases by 2d6 and the damage from passing through the sheet of frigid air increases by 1d6 for each spell slot level above 6.
 - **Classes**: Wizard
+![\|50](https://bg3.wiki/w/images/d/d2/Wall_of_Ice_Icon.webp)
 *(Source: PHB'24, page 339)*
 
 ### Wall of Light
@@ -11007,9 +11036,7 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 - **Range**: 18 *(27m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
-You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 6 *(9m)* long, 2 *(3m)* high, and 2 *(3m)* thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is [blinded](conditions.md#blinded) while in the wall's space and must spend 0.
-6 *(0.
-8999999999999999m)* of movement for every 30cm it moves there.
+You create a wall of swirling sand on the ground at a point you can see within range. You can make the wall up to 6 *(9m)* long, 2 *(3m)* high, and 2 *(3m)* thick, and it vanishes when the spell ends. It blocks line of sight but not movement. A creature is [blinded](conditions.md#blinded) while in the wall's space and its movement costs triple.
 - **Classes**: Wizard
 *(Source: XGE, page 170)*
 
@@ -11026,6 +11053,7 @@ If you create a span greater than 4 *(6m)* in length, you must halve the size of
 The wall is an object made of stone that can be damaged and thus breached. Each panel has AC 15 and 30 Hit Points per 2.5cm of thickness, and it has Immunity to Poison and Psychic damage. Reducing a panel to 0 Hit Points destroys it and might cause connected panels to collapse at the DM's discretion.
 If you maintain your Concentration on this spell for its full duration, the wall becomes permanent and can't be dispelled. Otherwise, the wall disappears when the spell ends.
 - **Classes**: Artificer, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/e/e2/Wall_of_Stone_Icon.webp)
 *(Source: PHB'24, page 339)*
 
 ### Wall of Thorns
@@ -11292,7 +11320,7 @@ On each of your subsequent turns, you can take a Bonus Action to deal 1d12 Light
 The spell ends if the target is ever outside the spell's range or if it has Total Cover from you.
 **Using a Higher-Level Spell Slot.** The initial damage increases by 1d12 for each spell slot level above 1.
 - **Classes**: Sorcerer, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/5/50/Activate_Witch_Bolt_Icon.webp)
+![\|50](https://bg3.wiki/w/images/d/d2/Witch_Bolt_Icon.webp)
 *(Source: PHB'24, page 343)*
 
 ### Wither and Bloom
@@ -11382,6 +11410,7 @@ You call out to the spirits of nature to rouse them against your enemies. Choose
 The target takes an extra 1d6 Necrotic damage from the attack, and it must succeed on a WIS Save or be [Frightened](conditions.md#frightened) until the spell ends. At the end of each of its turns, the [Frightened](conditions.md#frightened) target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/7/79/Wrathful_Smite_Icon.webp)
 *(Source: PHB'24, page 343)*
 
 ### Wreath With Flame
