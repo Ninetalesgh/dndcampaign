@@ -547,7 +547,7 @@ At the end of each of its turns, an affected creature can repeat this Save, endi
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a CHA  Save or be transported to a harmless demiplane for the duration. While there, the target is [Incapacitated](conditions.md#incapacitated). When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/3/3b/Banishing_Smite_Melee_Icon.web)
+![\|50](https://bg3.wiki/w/images/3/3b/Banishing_Smite_Melee_Icon.webp)
 *(Source: PHB'24, page 245)*
 
 ### Banishment
@@ -560,7 +560,7 @@ One creature that you can see within range must succeed on a CHA  Save or be tra
 If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, the target doesn't return if the spell lasts for 1 minute. The target is instead transported to a random location on a plane (DM's choice) associated with its creature type.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 4.
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/6/6d/Banishment_Icon.web)
+![\|50](https://bg3.wiki/w/images/6/6d/Banishment_Icon.webp)
 *(Source: PHB'24, page 245)*
 
 ### Barkskin
@@ -685,7 +685,7 @@ In combat, the target must succeed on a WIS Save at the start of each of its tur
 If you deal damage to the target with an attack roll or a spell, the target takes an extra 1d8 Necrotic damage.
 **Using a Higher-Level Spell Slot.** If you cast this spell using a level 4 spell slot, you can maintain Concentration on it for up to 10 minutes. If you use a level 5+ spell slot, the spell doesn't require Concentration, and the duration becomes 8 hours (level 5-6 slot) or 24 hours (level 7-8 slot). If you use a level 9 spell slot, the spell lasts until dispelled.
 - **Classes**: Bard, Cleric, Wizard
-![\|50](https://bg3.wiki/w/images/0/00/Bestow_Curse_Icon.web)
+![\|50](https://bg3.wiki/w/images/0/00/Bestow_Curse_Icon.webp)
 *(Source: PHB'24, page 246)*
 
 ### Bestow Wound
@@ -1053,6 +1053,7 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 You brandish the weapon used in the spell's casting and make a melee attack with it against one creature within 1 *(1.5m)* of you. On a hit, the target suffers the weapon attack's normal effects and then becomes sheathed in booming energy until the start of your next turn. If the target willingly moves 1 *(1.5m)* or more before then, the target takes 1d8 thunder damage, and the spell ends.
 This spell's damage increases when you reach certain levels. At 5th level, the melee attack deals an extra 1d8 thunder damage to the target on a hit, and the damage the target takes for moving increases to 2d8. Both damage rolls increase by 1d8 at 11th level (2d8 and 3d8) and again at 17th level (3d8 and 4d8).
 - **Classes**: Artificer, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/d/dd/Thunderous_Smite_Icon.webp)
 *(Source: TCE, page 106)*
 
 ### Borewater Bolt
@@ -2274,7 +2275,7 @@ As an action, you can see through the cursed creature's eyes and hear what it he
 You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a radius 2 *(3m)* sphere.
 As a Bonus Action, you can move the lights up to 12 *(18m)* to a space within range. A light must be within 4 *(6m)* of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
-![\|50](https://bg3.wiki/w/images/b/ba/Dancing_Lights_Icon.web)
+![\|50](https://bg3.wiki/w/images/b/ba/Dancing_Lights_Icon.webp)
 *(Source: PHB'24, page 259)*
 
 ### Danse Macabre
@@ -2889,7 +2890,7 @@ If you cast the spell more than once before finishing a Long Rest, there is a cu
 - **Duration**: 1 minute
 Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage on a hit.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/4/44/Divine_Favour_Icon.web)
+![\|50](https://bg3.wiki/w/images/4/44/Divine_Favour_Icon.webp)
 *(Source: PHB'24, page 265)*
 
 ### Divine Smite
@@ -3268,7 +3269,7 @@ As a bonus action on each of your turns, you can touch this weapon to another me
 A nonmagical weapon you touch becomes a magic weapon. Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. For the duration, the weapon has a +1 bonus to attack rolls and deals an extra 1d4 damage of the chosen type when it hits.
 **Using a Higher-Level Spell Slot.** If you use a level 5-6 spell slot, the bonus to attack rolls increases to +2, and the extra damage increases to 2d4. If you use a level 7+ spell slot, the bonus increases to +3, and the extra damage increases to 3d4.
 - **Classes**: Artificer, Druid, Paladin, Ranger
-![\|50](https://bg3.wiki/w/images/0/06/Elemental_Weapon_Icon.web)
+![\|50](https://bg3.wiki/w/images/0/06/Elemental_Weapon_Icon.webp)
 *(Source: PHB'24, page 268)*
 
 ### Elementalism
@@ -3614,7 +3615,7 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 **Panicked.** The target is [Frightened](conditions.md#frightened). On each of its turns, the [Frightened](conditions.md#frightened) target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 12 *(18m)* away from you where it can't see you, this effect ends. 
 **Sickened.** The target is [Poisoned](conditions.md#poisoned).
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/f/f7/Eyebite_Panicked_Icon.web)
+![\|50](https://bg3.wiki/w/images/f/f7/Eyebite_Panicked_Icon.webp)
 *(Source: PHB'24, page 270)*
 
 # Spells F
@@ -5002,7 +5003,7 @@ While it carries the gift, the creature has disadvantage on attacks that target 
 Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains a +2 bonus to Armor Class, it has Advantage on DEX Saves, and it gains an additional action on each of its turns. That action can be used to take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 When the spell ends, the target is [Incapacitated](conditions.md#incapacitated) and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 - **Classes**: Artificer, Sorcerer, Wizard
-![\|50](https://bg3.wiki/w/images/1/11/Haste_Icon.web)
+![\|50](https://bg3.wiki/w/images/1/11/Haste_Icon.webp)
 *(Source: PHB'24, page 284)*
 
 ### Heal
@@ -5263,7 +5264,7 @@ You open a gateway to the Far Realm, a region infested with unspeakable horrors.
 Any creature that starts its turn in the area takes 2d6 Cold damage. Any creature that ends its turn there must succeed on a DEX Save or take 2d6 Acid damage from otherworldly tentacles.
 **Using a Higher-Level Spell Slot.** The Cold or Acid damage (your choice) increases by 1d6 for each spell slot level above 3.
 - **Classes**: Warlock
-![\|50](https://bg3.wiki/w/images/4/44/Hunger_of_Hadar_Icon.web)
+![\|50](https://bg3.wiki/w/images/4/44/Hunger_of_Hadar_Icon.webp)
 *(Source: PHB'24, page 286)*
 
 ### Hunter's Mark
@@ -6751,7 +6752,7 @@ A silvery beam of pale light shines down in a radius 1 *(1.5m)* sphere, height 8
 When the Cylinder appears, each creature in it makes a CON Save. On a failed save, a creature takes 2d10 Radiant damage, and if the creature is shape-shifted (as a result of the Polymorph spell, for example), it reverts to its true form and can't shape-shift until it leaves the Cylinder. On a successful save, a creature takes half as much damage only. A creature also makes this save when the spell's area moves into its space and when it enters the spell's area or ends its turn there. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 2.
 - **Classes**: Druid
-![\|50](https://bg3.wiki/w/images/8/8b/Moonbeam_Icon.web)
+![\|50](https://bg3.wiki/w/images/8/8b/Moonbeam_Icon.webp)
 *(Source: PHB'24, page 300)*
 
 ### Mordenkainen's Faithful Hound
@@ -7400,7 +7401,7 @@ A creature that fails this Save by 5 or more uses all of its remaining movement 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You radiate a concealing aura in a radius 6 *(9m)* emanation for the duration. While in the aura, you and each creature you choose have a +10 bonus to DEX (Stealth) checks and leave no tracks.
 - **Classes**: Druid, Ranger
-![\|50](https://bg3.wiki/w/images/2/2b/Pass_Without_Trace_Icon.web)
+![\|50](https://bg3.wiki/w/images/2/2b/Pass_Without_Trace_Icon.webp)
 *(Source: PHB'24, page 303)*
 
 ### Passwall
@@ -7464,7 +7465,7 @@ You tap into the nightmares of a creature you can see within range and create an
 For the duration, the target makes a WIS Save at the end of each of its turns. On a failed save, it takes the Psychic damage again. On a successful save, the spell ends.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 for each spell slot level above 4.
 - **Classes**: Bard, Wizard
-![\|50](https://bg3.wiki/w/images/d/da/Phantasmal_Killer_Icon.web)
+![\|50](https://bg3.wiki/w/images/d/da/Phantasmal_Killer_Icon.webp)
 *(Source: PHB'24, page 304)*
 
 ### Phantom Steed
@@ -7517,7 +7518,7 @@ You attempt to bind a Celestial, an Elemental, a Fey, or a Fiend to your service
 A bound creature must follow your commands to the best of its ability. You might command the creature to accompany you on an adventure, to guard a location, or to deliver a message. If the creature is Hostile, it strives to twist your commands to achieve its own objectives. If the creature carries out your commands completely before the spell ends, it travels to you to report this fact if you are on the same plane of existence. If you are on a different plane, it returns to the place where you bound it and remains there until the spell ends.
 **Using a Higher-Level Spell Slot.** The duration increases with a spell slot of level 6 (10 days), 7 (30 days), 8 (180 days), and 9 (366 days).
 - **Classes**: Bard, Cleric, Druid, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/f/fa/Planar_Binding_Icon.web)
+![\|50](https://bg3.wiki/w/images/f/fa/Planar_Binding_Icon.webp)
 *(Source: PHB'24, page 305)*
 
 ### Plane Shift
@@ -8788,12 +8789,14 @@ While concentrating on this spell, you take Psychic damage equal to half the cre
 - **Range**: 6 *(9m)*
 - **Components**: S
 - **Duration**: Instantaneous or 1 hour (see below)
-You choose an area of water that you can see within range and that fits within a size 1 *(1.5m)* cube. You manipulate it in one of the following ways:You instantaneously move or otherwise change the flow of the water as you direct, up to 1 *(1.5m)* in any direction. This movement doesn't have enough force to cause damage.
-You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
-You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
-You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
+You choose an area of water that you can see within range and that fits within a size 1 *(1.5m)* cube. You manipulate it in one of the following ways:
+  - You instantaneously move or otherwise change the flow of the water as you direct, up to 1 *(1.5m)* in any direction. This movement doesn't have enough force to cause damage.
+  - You cause the water to form into simple shapes and animate at your direction. This change lasts for 1 hour.
+  - You change the water's color or opacity. The water must be changed in the same way throughout. This change lasts for 1 hour.
+  - You freeze the water, provided that there are no creatures in it. The water unfreezes in 1 hour.
 If you cast this spell multiple times, you can have no more than two of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
 - **Classes**: Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/6/64/Water_Whip_Icon.webp)
 *(Source: XGE, page 164)*
 
 ### Shapechange
@@ -9187,7 +9190,7 @@ On a failure, the target falls asleep and is [Unconscious](conditions.md#unconsc
 Until the spell ends, sleet falls in a height 8 *(12m)*,a radius 4 *(6m)* sphere Cylinder centered on a point you choose within range. The area is Heavily Obscured, and exposed flames in the area are doused.
 Ground in the Cylinder is Difficult Terrain. When a creature enters the Cylinder for the first time on a turn or starts its turn there, it must succeed on a DEX Save or be [Prone](conditions.md#prone) and lose Concentration.
 - **Classes**: Druid, Sorcerer, Wizard
-![\|50](https://bg3.wiki/w/images/5/50/Sleet_Storm_Icon.web)
+![\|50](https://bg3.wiki/w/images/5/50/Sleet_Storm_Icon.webp)
 *(Source: PHB'24, page 317)*
 
 ### Slip Bonds
@@ -9247,7 +9250,7 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 The target takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a CON Save. On a failed save, the spell continues. On a successful save, the spell ends. All the damage increases by 1d6 against Undead.
 **Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/4/4e/Elemental_Weapon_Fire_Icon.web)
+![\|50](https://bg3.wiki/w/images/4/4e/Elemental_Weapon_Fire_Icon.webp)
 *(Source: Custom)*
 
 ### Smite of Winter
@@ -9439,7 +9442,7 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
 Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 - **Classes**: Bard, Cleric, Wizard
-![\|50](https://bg3.wiki/w/images/8/8c/Speak_with_Dead_Icon.web)
+![\|50](https://bg3.wiki/w/images/8/8c/Speak_with_Dead_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Speak with Plants
@@ -10877,7 +10880,7 @@ The touch of your shadow-wreathed hand can siphon life force from others to heal
 Until the spell ends, you can make the attack again on each of your turns as a Magic action, targeting the same creature or a different one.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 3.
 - **Classes**: Sorcerer, Warlock, Wizard
-![\|50](https://bg3.wiki/w/images/8/85/Vampiric_Touch_Icon.web)
+![\|50](https://bg3.wiki/w/images/8/85/Vampiric_Touch_Icon.webp)
 *(Source: PHB'24, page 337)*
 
 ### Vector-Spread

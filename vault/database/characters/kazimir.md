@@ -63,8 +63,9 @@
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
 [Action Surge](./../feats.md#action-surge)
+[Tactical Mind](./../feats.md#tactical-mind)
 
-- **Tactical Mind.** When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
+- **Tactical Mind.** 
 
 - [Skilled](./../feats.md#skilled) *(Already included above)*
 

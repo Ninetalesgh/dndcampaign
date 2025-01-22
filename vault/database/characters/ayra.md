@@ -83,7 +83,7 @@
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
-- **Magical Cunning.** You can perform an esoteric rite for 1 minute. At the end of it, you regain 1 Spell Slot. *(Once per Long Rest)*
+[Magical Cunning](./../feats.md#magical-cunning).
 
 - **Eldritch Invocations**:
   - **Eldritch Mind.** You have Advantage on CON Saves that you make to maintain [Concentration](./../conditions.md#concentration).
