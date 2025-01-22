@@ -70,7 +70,8 @@
 
 ### Passive Feats
 *- Extra lineage feat at level 5.*
-- [Alert](./.././../feats.md#alert) *(Already included above)*
+  [Alert *(Already included above)*](./../feats.md#alert)
+
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 
 [TODO] Fighting Style or Blessed Warrior.
