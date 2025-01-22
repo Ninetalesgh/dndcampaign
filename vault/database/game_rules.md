@@ -236,14 +236,23 @@ Attempting to see something Heavily Obscured is mechanically equivalent to being
 
 ### Special senses
 #### Blindsight
-sense things moving around you. [TODO]
+Within the stated range, you can see creatures that are **not** behind [Total Cover](game_rules.md#advanced-rules#cover), even if that creature is [Invisible](conditions.md#invisible) or you are [Blinded](conditions.md#blinded) or in [Darkness](game_rules.md#advanced-rules#darkness).
+
 #### Darkvision
-You can see in [Dim Light](game_rules.md#advanced-rules#dim-light) as if it were [Bright Light](game_rules.md#advanced-rules#bright-light).
-You can see in [Darkness](game_rules.md#advanced-rules#darkness) as if it were [Dim Light](game_rules.md#advanced-rules#dim-light), you discern colors in that darkness as shades of gray.
+Within the stated range: 
+  - You can see in [Dim Light](game_rules.md#advanced-rules#dim-light) as if it were [Bright Light](game_rules.md#advanced-rules#bright-light)
+  - You can see in [Darkness](game_rules.md#advanced-rules#darkness) as if it were [Dim Light](game_rules.md#advanced-rules#dim-light), you discern colors in that darkness as shades of gray.
+  
 #### Tremorsense
-like a snake you can feel the ground vibrations. [TODO]
+Within the stated range, you can pinpoint the location of creatures and moving objects, if you and anything you are detecting are both in contact with the same surface (such as the ground, a wall, or a ceiling), or the same liquid.
+
 #### Truesight
-See invisible things. [TODO]
+Within the stated range:
+  - You can see in normal and magical [Darkness](game_rules.md#advanced-rules#darkness).
+  - You can see [Invisible](conditions.md#invisible) creatures and objects.
+  - You automatically succeed on Saves against visual illusions.
+  - You can discern the true form of any creature or object you see that has been transformed by magic.
+  - You can see into the Ethereal Plane.
 
 ### Cover
 Draw lines from one corner of the your square to 4 corners of one of the squares of the creature you're attacking. If ANY line is obstructed, the target is partly obscured and gains benefits of at least Half Cover.
