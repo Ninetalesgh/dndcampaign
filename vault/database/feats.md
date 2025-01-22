@@ -129,6 +129,7 @@ You can cast [Silent Image](spells.md#silent-image) without expending a spell sl
 #### Otherworldly Leap
 *Prerequisite: Level 2+ Warlock*
 You can cast [Jump](spells.md#jump) on yourself without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/4/46/Enhance_Leap_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Repelling Blast
