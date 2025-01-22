@@ -56,23 +56,22 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
-  [Lay on Hands](feats.md#lay-on-hands)
-
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Paladin's Smite.** *(One free use per Long Rest)*
-  [Smite of Summer](./../spells.md#spells-s#smite-of-summer) 
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
+  [Lay on Hands *(5 * Level Charges)*](feats.md#lay-on-hands)
+  [Smite of Summer *(One free use per Long Rest)*](./../spells.md#spells-s#smite-of-summer) 
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+  [Stone's Endurance *(PB times per Long Rest)*](./../feats.md#stones-endurance)
 
 ### Passive Feats
 *- Extra lineage feat at level 5.*
 - [Alert](./.././../feats.md#alert) *(Already included above)*
-- **Weapon Mastery**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 
 [TODO] Fighting Style or Blessed Warrior.
 

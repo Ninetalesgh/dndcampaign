@@ -230,6 +230,16 @@ You perform an esoteric rite for 1 minute. At the end of it, you regain Spell Sl
 
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
+# Lineage Feats
+
+## Stone's Endurance
+When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
+![\|50](https://bg3.wiki/w/images/f/f6/Unarmoured_Defence_%28Barbarian%29_Icon.webp)
+
+## Healing Hands
+You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/7/72/Preserve_Life_Icon.webp)
+
 # Feats
 ## Weapon Mastery
 You gain weapon masteries with the specified weapon types.

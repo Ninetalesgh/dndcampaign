@@ -57,16 +57,14 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Healing Hands.** You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
-
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
     [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
     [Light](./../spells.md#spells-l#light)
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**
-  *(none)*
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
+  [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Spells**
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Armor of Agathys](./../spells.md#spells-a#armor-of-agathys)
   [Hex](./../spells.md#spells-h#hex)
 
@@ -74,7 +72,8 @@
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Spells**
+
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
   *(none)*
 
 ### Passive Feats
