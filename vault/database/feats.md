@@ -4,6 +4,183 @@
 - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
 - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
 
+## Skilled
+You gain proficiency in any combination of three skills or tools of your choice.
+Repeatable. You can take this feat more than once.
+
+## Tough
+Your HP increase by 2 per level.
+
+# Class Feats
+## Warlock
+### Eldritch Invocations
+#### Armor of Shadows
+You can cast [Mage Armor](spells.md#mage-armor) on yourself without expending a spell slot.
+*(Source: PHB'24, page 155)*
+
+#### Eldritch Mind
+You have Advantage on CON Saves that you make to maintain [Concentration](conditions.md#concentration).
+*(Source: PHB'24, page 155)*
+
+#### Pact of the Blade
+As a Bonus Action, you can either conjure any Melee Weapon of your choice as pact weapon in your hand or create a bond with a Melee Weapon you touch. Until the bond ends, you have proficiency with that weapon.
+Whenever you attack with the bonded weapon, you can **use your CHA for the Attack and Damage rolls instead of your STR**; and you can cause the weapon to deal **Necrotic**, **Psychic**, or **Radiant** damage or its normal damage type.
+Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
+You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. 
+*(Source: PHB'24, page 156)*
+
+#### Pact of the Chain
+You learn the [Find Familiar](spells.md#find-familiar) spell and can cast it as a Magic action without expending a spell slot.
+When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp (1)](dm/monsters.md#imp), [Pseudodragon (1/4)](dm/monsters.md#pseudodragon), [Quasit (1)](dm/monsters.md#quasit), [Skeleton (1/4)](dm/monsters.md#skeleton), [Slaad Tadpole (1/8)](dm/monsters.md#slaad-tadpole), [Sphinx of Wonder (1)](dm/monsters.md#sphinx-of-wonder), [Sprite (1/4)](dm/monsters.md#sprite), [Venomous Snake (1/8)](dm/monsters.md#venomous-snake).
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+*(Source: PHB'24, page 157)*
+
+#### Pact of the Tome
+Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short- or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
+**Cantrips and Rituals.** When the book appears, choose three Cantrips, and choose two level 1 spells that have the [Ritual](feats.md#pact-of-the-tome-ritual-spells) tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+*(Source: PHB'24, page 157)*
+##### Pact of the Tome Ritual Spells
+[Alarm](spells.md#alarm)
+[Ceremony](spells.md#ceremony)
+[Comprehend Languages](spells.md#comprehend-languages)
+[Detect Magic](spells.md#detect-magic)
+[Detect Poison and Disease](spells.md#detect-poison-and-disease)
+[Find Familiar](spells.md#find-familiar)
+[Identify](spells.md#identify)
+[Illusory Script](spells.md#illusory-script)
+[Purify Food and Drink](spells.md#purify-food-and-drink)
+[Speak with Animals](spells.md#speak-with-animals)
+[Tenser's Floating Disk](spells.md#tensers-floating-disk)
+[Unseen Servant](spells.md#unseen-servant)
+
+#### Agonizing Blast
+*Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+Choose one of your known Warlock Cantrips that deals damage. You can add your CHA modifier to that spell's damage rolls.
+**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+*(Source: PHB'24, page 155)*
+
+#### Devil's Sight
+*Prerequisite: Level 2+ Warlock*
+You can see normally in [Dim Light](game_rules.md#dim-light) and [Darkness](game_rules.md#darkness) — *both magical and nonmagical* — within range 24 *(36m)* of yourself.
+*(Source: PHB'24, page 155)*
+
+#### Eldritch Spear
+*Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
+Choose one of your known Warlock Cantrips that deals damage and has a range of 2 *(3m)* or more. Its range increases by 6 *(9m)* times your Warlock level.
+**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+*(Source: PHB'24, page 155)*
+
+#### Fiendish Vigor
+*Prerequisite: Level 2+ Warlock*
+You can cast [False Life](spells.md#false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary HP; you automatically get the highest number on the die.
+*(Source: PHB'24, page 155)*
+
+#### Lessons of the First Ones
+*Prerequisite: Level 2+ Warlock*
+You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
+**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
+*(Source: PHB'24, page 156)*
+
+#### Mask of Many Faces
+*Prerequisite: Level 2+ Warlock*
+You can cast [Disguise Self](spells.md#disguise-self) without expending a spell slot.
+*(Source: PHB'24, page 156)*
+
+#### Misty Visions
+*Prerequisite: Level 2+ Warlock*
+You can cast [Silent Image](spells.md#silent-image) without expending a spell slot.
+*(Source: PHB'24, page 156)*
+
+#### Otherworldly Leap
+*Prerequisite: Level 2+ Warlock*
+You can cast [Jump](spells.md#jump) on yourself without expending a spell slot.
+*(Source: PHB'24, page 156)*
+
+#### Repelling Blast
+*Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll*
+Choose one of your known Warlock Cantrips that requires an attack roll. When you hit a [Large](game_rules.md#creature-sizes) or smaller creature with that Cantrip, you can push the creature up to 2 *(3m)* straight away from you.
+**Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+*(Source: PHB'24, page 157)*
+
+#### Ascendant Step
+*Prerequisite: Level 5+ Warlock*
+You can cast [Levitate](spells.md#levitate) on yourself without expending a spell slot.
+*(Source: PHB'24, page 155)*
+
+#### Eldritch Smite
+*Prerequisites: Level 5+ Warlock, Pact of the Blade*
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+*(Source: PHB'24, page 155)*
+
+#### Gaze of Two Minds
+*Prerequisite: Level 5+ Warlock*
+You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
+*(Source: PHB'24, page 156)*
+
+#### Gift of the Depths
+*Prerequisite: Level 5+ Warlock*
+You can breathe underwater, and you gain a Swim Speed equal to your Speed.
+You can also cast Water Breathing once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+*(Source: PHB'24, page 156)*
+
+#### Investment of the Chain Master
+*Prerequisites: Level 5+ Warlock, Pact of the Chain*
+When you cast Find Familiar, you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+Aerial or Aquatic. The familiar gains either a Fly Speed or a Swim Speed (your choice) of 40 feet.
+Quick Attack. As a Bonus Action, you can command the familiar to take the Attack action.
+Necrotic or Radiant Damage. Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
+Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
+Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+*(Source: PHB'24, page 156)*
+
+#### Master of Myriad Forms
+*Prerequisite: Level 5+ Warlock*
+You can cast [Alter Self](spells.md#alter-self) without expending a spell slot.
+*(Source: PHB'24, page 156)*
+
+#### One with Shadows
+*Prerequisite: Level 5+ Warlock*
+While you're in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a spell slot.
+*(Source: PHB'24, page 156)*
+
+#### Thirsting Blade
+*Prerequisites: Level 5+ Warlock, Pact of the Blade*
+You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+*(Source: PHB'24, page 157)*
+
+#### Whispers of the Grave
+*Prerequisite: Level 7+ Warlock*
+You can cast [Speak with Dead](spells.md#speak-with-dead) without expending a spell slot.
+*(Source: PHB'24, page 157)*
+
+#### Gift of the Protectors
+*Prerequisites: Level 9+ Warlock, Pact of the Tome*
+A new page appears in your Book of Shadows when you conjure it. With your permission, a creature can take an action to write its name on that page, which can contain a number of names equal to your Charisma modifier (minimum of one name).
+When any creature whose name is on the page is reduced to 0 Hit Points but not killed outright, the creature magically drops to 1 Hit Point instead. Once this magic is triggered, no creature can benefit from it until you finish a Long Rest.
+As a Magic action, you can erase a name on the page by touching it.
+*(Source: PHB'24, page 156)*
+
+#### Lifedrinker
+*Prerequisites: Level 9+ Warlock, Pact of the Blade*
+Once per turn when you hit a creature with your pact weapon, you can deal an extra 1d6 Necrotic, Psychic, or Radiant damage (your choice) to the creature, and you can expend one of your HP Dice to roll it and regain a number of Hit Points equal to the roll plus your Constitution modifier (minimum of 1 Hit Point).
+*(Source: PHB'24, page 156)*
+
+#### Visions of Distant Realms
+*Prerequisite: Level 9+ Warlock*
+You can cast [Arcane Eye](spells.md#arcane-eye) without expending a spell slot.
+*(Source: PHB'24, page 157)*
+
+#### Devouring Blade
+*Prerequisites: Level 12+ Warlock, Thirsting Blade*
+The Extra Attack of your Thirsting Blade invocation confers two extra attacks rather than one.
+*(Source: PHB'24, page 155)*
+
+#### Witch Sight
+*Prerequisite: Level 15+ Warlock*
+You have Truesight with a range of 30 feet.
+*(Source: PHB'24, page 157)*
+
 # Feats
 ## Weapon Mastery
 You gain weapon masteries with the specified weapon types.

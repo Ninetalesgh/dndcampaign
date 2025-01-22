@@ -1,9 +1,10 @@
 # Nyari
+- **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
-- **AC**: 18 ([Chain Mail](dm/items.md#chain-mail) + Shield)
-- **HP**: 12
-- **HP Dice:** 1 D10
+- **AC**: 18 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield))
+- **HP**: 20 *(4 + [6 + CON] * Level)*
+- **HP Dice:** 2 D10
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
@@ -38,7 +39,7 @@
 - **Money**: 14 gp
 
 ## Spellcasting
-- **Prepared Spells**: 2
+- **Prepared Spells**: 3
 - **Spell Slots Level 1**: 2 
 - **Spell Attack Modifier**: +5 *(PB + CHA)*
 - **Spell Save DC**: 13 *(8 + PB + CHA)* 
@@ -58,6 +59,9 @@
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 charges)*
 
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Paladin's Smite.** *(Once per long rest without a spell slot)*
+  [Smite of Summer](./../spells.md#spells-s#smite-of-summer) 
+
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
@@ -65,13 +69,12 @@
 
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Stone's Endurance.** When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 
-### Prepared Spells
-[Purify Food and Drink](./../spells.md#spells-p#purify-food-and-drink), [Detect Poison and Disease](./../spells.md#spells-d#detect-poison-and-disease)
-
 ### Passive Feats
 *- Extra lineage feat at level 5.*
 - [Alert](./.././../feats.md#alert) *(Already included above)*
 - **Weapon Mastery**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+
+[TODO] Fighting Style or Blessed Warrior.
 
 # Reminders
 ### After Short Rest

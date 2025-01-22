@@ -9395,6 +9395,7 @@ Choose a creature within range that has 0 Hit Points and isn't dead. The creatur
 For the duration, you can comprehend and verbally communicate with Beasts, and you can use any of the Influence action's skill options with them.
 Most Beasts have little to say about topics that don't pertain to survival or companionship, but at minimum, a Beast can give you information about nearby locations and monsters, including whatever it has perceived within the past day.
 - **Classes**: Bard, Druid, Ranger, Warlock
+![\|50](https://bg3.wiki/w/images/2/24/Speak_with_Animals_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Speak with Dead

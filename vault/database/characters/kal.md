@@ -1,9 +1,10 @@
 # Kal
+- **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
-- **HP**: 10
-- **HP Dice**: 1 D8
+- **HP**: 21 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 2 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -40,12 +41,12 @@
 - **Money**: 13 gp, 8 sp
 
 ## Spellcasting
-- **Prepared Spells**: 4 
-- **Spell Slots Level 1**: 2
+- **Prepared Spells**: 5
+- **Spell Slots Level 1**: 3
 - **Spell Attack Modifier**: +5 *(PB + WIS)*
 - **Spell Save DC**: 13 *(8 + PB + WIS)* 
-
-- **Prepared Spells**: [Create or Destroy Water](./../spells.md#spells-c#create-or-destroy-water), [TODO] 3 more.
+- **Wild Shapes Prepared**: 4
+- **Wild Shape Charges**: 2
 
 ## Feats and Actions
 ### Actions
@@ -63,8 +64,16 @@
   [Thorn Whip](./../spells.md#spells-t#thorn-whip)
   [Prestidigitation](./../spells.md#spells-p#prestidigitation)
 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**: 
+  [Speak with Animals](./../spells.md#spells-s#speak-with-animals)
+
+
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Wild Shape**: [Grappler](./../wildshapes.md#cr-1/4#grappler), [Nimble](./../wildshapes.md#cr-1/4#nimble), [Blindsight](./../wildshapes.md#cr-1/4#blindsight), [Burrower](./../wildshapes.md#cr-1/4#burrower) *(at level 2)* 
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Wild Shape**:
+  [Grappler](./../wildshapes.md#cr-1/4#grappler)
+  [Nimble](./../wildshapes.md#cr-1/4#nimble)
+  [Blindsight](./../wildshapes.md#cr-1/4#blindsight)
+  [Burrower](./../wildshapes.md#cr-1/4#burrower)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -73,29 +82,30 @@
 
 ### Passive Feats
 *- Extra lineage feat at level 3 and 5.*
+
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-
-- **Wild Shape Charges**: 0
-
-- **Fey Ancestry**: You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
-- **Trance**: You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
-- **High Elf**: You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
+- **Wild Shape.** When you assume a Wild Shape form, you gain Temporary HP equal to your Druid Level.
+- **Druidic.** You can leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
+- **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
+- **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+- **High Elf Cantrip.** You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
+- [Tough](feats.md#tough) *(Already included above)*
+- **Warden.** Trained for battle, you gain proficiency with Martial Weapons and Medium Armor. *(Already included above)*
 
 # Reminders
 ### After Short Rest
 ##### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended dice.
-##### Regain 1 Wild Shape charge
-*- starts at level 2*
+##### Regain 1 Wild Shape Charge
+
 ### After Long Rest
 ##### Regain all HP & HP Dice
 ##### Regain all Spell Slots
 ##### Prepare Druid Spells
-##### Regain All Wild Shape charges 
-*- starts at level 2*
+##### Regain All Wild Shape Charges 
 ##### Switch 1 Wild Shape form
-*- starts at level 2*
 ##### Switch Wizard Cantrip
+
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
