@@ -28,6 +28,10 @@ On your turn, you can take one additional Action. *(Once per Short Rest)*
 Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/9/95/Second_Wind_Icon.webp)
 
+### Tactical Mind
+When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
+![\|50](https://bg3.wiki/w/images/7/7a/Read_Thoughts_Icon.webp)
+
 ## Paladin
 ### Lay on Hands
 Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 * Level Charges)*
@@ -114,7 +118,7 @@ You can cast [False Life](spells.md#false-life) on yourself without expending a 
 *Prerequisite: Level 2+ Warlock*
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
-![\|50](https://bg3.wiki/w/images/f/f4/Expert_Divination_Icon.webp)
+![\|50](https://bg3.wiki/w/images/a/a9/Generic_Feature_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Mask of Many Faces
@@ -220,6 +224,11 @@ The Extra Attack of your Thirsting Blade invocation confers two extra attacks ra
 *Prerequisite: Level 15+ Warlock*
 You have Truesight with a range of 30 feet.
 *(Source: PHB'24, page 157)*
+
+## Magical Cunning
+You perform an esoteric rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
+
+![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
 # Feats
 ## Weapon Mastery
