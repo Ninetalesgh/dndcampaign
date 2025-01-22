@@ -67,7 +67,8 @@
 
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Change Shape.** Wild Shape into one of your prepared [Wild Shapes](characters/kal.md#wild-shape-reference) and gain Temporary HP equal to your Druid Level.
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) 
+  [Wild Shape](feats.md#wild-shape)
 
 
 ### Reactions

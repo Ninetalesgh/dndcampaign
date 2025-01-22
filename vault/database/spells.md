@@ -1012,6 +1012,7 @@ While you have any of these Temporary Hit Points, your AC is increased by +2.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you. An attacker is immune to this effect if it perceives you with Blindsight or Truesight.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/0/0d/Blur_Icon.webp)
 *(Source: PHB'24, page 248)*
 
 ### Boiling Breath
@@ -2761,6 +2762,7 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 To discern that you are disguised, a creature must take the Study action to inspect your appearance and succeed on an INT (Investigation) check against your spell save DC.
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/8/8d/Disguise_Self_Icon.webp)
 *(Source: PHB'24, page 262)*
 
 ### Disintegrate
@@ -3705,6 +3707,7 @@ If the creature is dead, it can form a spiritual body to aid you that appears as
 Each creature in a length 6 *(9m)* cone must succeed on a WIS Save or drop whatever it is holding and be [Frightened](conditions.md#frightened) for the duration.
 A [Frightened](conditions.md#frightened) creature takes the Dash action and moves away from you by the safest route on each of its turns unless there is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the creature makes a WIS Save. On a successful save, the spell ends on that creature.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/a/ad/Fear_Icon.webp)
 *(Source: PHB'24, page 271)*
 
 ### Fear-Reek
@@ -4744,6 +4747,7 @@ If the target is a creature, it gains the following effects:
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A creature you touch is [Invisible](conditions.md#invisible) until the spell ends.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/2/28/Greater_Invisibility_Icon.webp)
 *(Source: PHB'24, page 281)*
 
 ### Greater Restoration
@@ -5641,6 +5645,7 @@ You can use your action to create a size 3 *(4.5m)* cube of swirling wind center
 A creature you touch is [Invisible](conditions.md#invisible) until the spell ends. The spell ends early immediately after the target makes an attack roll, deals damage, or casts a spell.
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 2.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/4/4e/Invisibility_spell_Icon.webp)
 *(Source: PHB'24, page 289)*
 
 ### Invocation of The Bloodlord
@@ -7425,6 +7430,7 @@ The target can take a Study action to examine the phantasm with an INT (Investig
 While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
 An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal 2d8 Psychic damage to the target if it is in the phantasm's area or within 1 *(1.5m)* of the phantasm. The target perceives the damage as a type appropriate to the illusion.
 - **Classes**: Bard, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/ac/Phantasmal_Force_Icon.webp)
 *(Source: PHB'24, page 304)*
 
 ### Phantasmal Killer

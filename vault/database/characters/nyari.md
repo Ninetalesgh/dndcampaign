@@ -56,7 +56,8 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Lay on Hands**: Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 Charges)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
+  [Lay on Hands](feats.md#lay-on-hands)
 
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Paladin's Smite.** *(One free use per Long Rest)*
   [Smite of Summer](./../spells.md#spells-s#smite-of-summer) 

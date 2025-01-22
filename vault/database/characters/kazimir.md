@@ -48,7 +48,8 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Second Wind.** Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 after Short Rests and all after Long Rests)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png)
+  [Second Wind](./../feats.md#second-wind)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -61,7 +62,7 @@
 - **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
-- **Action Surge.** On your turn, you can take one additional Action. *(Once per Short Rest)*
+  [Action Surge](./../feats.md#action-surge)
 
 - **Tactical Mind.** When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
 
