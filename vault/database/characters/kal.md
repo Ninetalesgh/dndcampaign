@@ -38,8 +38,6 @@
 [Herbalism Kit](dm/items.md#herbalism-kit)
 [Explorer's Pack](dm/items.md#explorers-pack)
 
-- **Money**: 13 gp, 8 sp
-
 ## Spellcasting
 - **Prepared Spells**: 5
 - **Spell Slots Level 1**: 3
