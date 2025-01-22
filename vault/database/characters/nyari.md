@@ -57,9 +57,9 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Lay on Hands**: Touch a creature and spend any number of Lay on Hands charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 charges)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Lay on Hands**: Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](./../conditions.md#poisoned). *(5 Charges)*
 
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Paladin's Smite.** *(Once per long rest without a spell slot)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Paladin's Smite.** *(Once per Long Rest castable without a spell slot)*
   [Smite of Summer](./../spells.md#spells-s#smite-of-summer) 
 
 ### Reactions
@@ -80,18 +80,21 @@
 ### After Short Rest
 ##### Expend HP Dice to regain HP
 Regain *(d10 + CON)* HP per expended dice.
+
 ### After Long Rest
 ##### Regain all HP & HP Dice
 ##### Regain all Spell Slots
-##### Regain all Stone's Endurance charges
-##### Regain all Lay on Hands charges
+##### Regain all Stone's Endurance Charges
+##### Regain all Lay on Hands Charges
+##### Regain Paladin's Smite Charge
 ##### Switch 1 Prepared Spell
 ##### Switch 1 Weapon Mastery
+
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
-##### Recalculate Lay on Hands charges
-Your LoH charges equal to 5 * your Paladin Level. 
+##### Recalculate Lay on Hands Charges
+Your LoH Charges equal to 5 * your Paladin Level. 
 ##### Check Class Level-Up
 
 # Paladin Spell Reference

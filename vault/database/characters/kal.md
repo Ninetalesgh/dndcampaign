@@ -69,22 +69,19 @@
 
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Wild Shape**:
-  [Grappler](./../wildshapes.md#cr-1/4#grappler)
-  [Nimble](./../wildshapes.md#cr-1/4#nimble)
-  [Blindsight](./../wildshapes.md#cr-1/4#blindsight)
-  [Burrower](./../wildshapes.md#cr-1/4#burrower)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Change Shape.** Wild Shape into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level.
+
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
+
 ### Passive Feats
 *- Extra lineage feat at level 3 and 5.*
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-- **Wild Shape.** When you assume a Wild Shape form, you gain Temporary HP equal to your Druid Level.
 - **Druidic.** You can leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
 - **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
 - **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
@@ -112,6 +109,13 @@ Regain *(d8 + CON)* HP per expended dice.
 ##### Check Class Level-Up
 ##### Switch 1 Druid Cantrip
 
+# Wild Shape Reference
+  [Grappler](./../wildshapes.md#cr-1/4#grappler)
+  [Nimble](./../wildshapes.md#cr-1/4#nimble)
+  [Blindsight](./../wildshapes.md#cr-1/4#blindsight)
+  [Burrower](./../wildshapes.md#cr-1/4#burrower)
+  [Web Walker](./../wildshapes.md#web-walker)
+  
 # Druid Spell Reference
 ## Cantrips
 [Control Flames](./../spells.md#spells-c#control-flames)
