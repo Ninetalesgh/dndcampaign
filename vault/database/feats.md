@@ -67,11 +67,8 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 
 #### Pact of the Tome
 After every Short- or Long Rest you can conjure a book, you determine its appearance.
-This Book of Shadows contains eldritch magic that only you can access, granting you the benefits below while it is on your person. The book disappears if you conjure another book or if you die.
-**Cantrips and Rituals.** When the book appears, choose three Cantrips, and choose two [leve 1 spells that have the Ritual tag](feats.md#pact-of-the-tome-ritual-spells). The spells can be from any class's spell list.
-![\|50](https://bg3.wiki/w/images/3/3e/Pact_of_the_Tome_Icon.webp)
-*(Source: PHB'24, page 157)*
-##### Pact of the Tome Ritual Spells
+This Book of Shadows contains eldritch magic that only you can access, granting you the ability to cast extra spells while it is on your person. The book disappears if you conjure another book or if you die.
+**Cantrips and Rituals.** When the book appears, choose 3 Cantrips from any class's spell list and 2 spells from the following list:
 [Alarm](spells.md#alarm)
 [Ceremony](spells.md#ceremony)
 [Comprehend Languages](spells.md#comprehend-languages)
@@ -84,6 +81,10 @@ This Book of Shadows contains eldritch magic that only you can access, granting 
 [Speak with Animals](spells.md#speak-with-animals)
 [Tenser's Floating Disk](spells.md#tensers-floating-disk)
 [Unseen Servant](spells.md#unseen-servant)
+![\|50](https://bg3.wiki/w/images/3/3e/Pact_of_the_Tome_Icon.webp)
+*(Source: PHB'24, page 157)*
+
+
 
 #### Agonizing Blast
 *Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
