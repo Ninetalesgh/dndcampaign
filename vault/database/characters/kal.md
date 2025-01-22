@@ -63,12 +63,12 @@
   [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-  [Speak with Animals](./../spells.md#spells-s#speak-with-animals)
+  [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
 
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Wild Shape](feats.md#wild-shape)
+  [Wild Shape *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*](feats.md#wild-shape)
 
 
 ### Reactions

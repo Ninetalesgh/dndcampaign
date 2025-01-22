@@ -44,7 +44,7 @@
 ## Feats and Actions
 [TODO] 1 more Cantrip
 [TODO] 1 more Spell
-[TODO] 2 more Eldritch Invocations
+[TODO] Switch 1 spell, if you want
 
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
@@ -58,8 +58,8 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
-    [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
-    [Light](./../spells.md#spells-l#light)
+  [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
+  [Light](./../spells.md#spells-l#light)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
 
@@ -78,14 +78,13 @@
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
+  [Magical Cunning *(Once per Long Rest)*](./../feats.md#magical-cunning)
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
-[Magical Cunning](./../feats.md#magical-cunning).
 
-- **Eldritch Invocations**:
-  - **Eldritch Mind.** You have Advantage on CON Saves that you make to maintain [Concentration](./../conditions.md#concentration).
+- **Eldritch Invocations**: [TODO] choose 3!
 
 
 - [Tough](feats.md#tough) *(Already included above)*
