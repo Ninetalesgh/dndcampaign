@@ -12,6 +12,7 @@
 ![\|50](https://bg3.wiki/w/images/1/1d/Portent_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/f/f6/Hypnotic_Gaze_Icon.webp)
 
+![\|50](https://bg3.wiki/w/images/7/79/Arcane_Ward_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/7/79/Projected_Ward_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/c/c9/Potent_Cantrip_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/9/92/Instinctive_Charm_Icon.webp)
@@ -134,6 +135,7 @@
 ![\|50](https://bg3.wiki/w/images/f/fa/Wild_Shape_Sabre-Toothed_Tiger_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/0/01/Wild_Shape_Dilophosaurus_Icon.webp)
 
+
 ![\|50](https://bg3.wiki/w/images/b/bd/Nature%27s_Ward_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/1/18/Wild_Shape_Air_Myrmidon_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/5/55/Wild_Shape_Earth_Myrmidon_Icon.webp)
@@ -189,3 +191,5 @@
 ![\|50](https://bg3.wiki/w/images/e/e2/Defence_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/1/1f/Great_Weapon_Fighting_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/7/73/Protection_Icon.webp)
+
+
