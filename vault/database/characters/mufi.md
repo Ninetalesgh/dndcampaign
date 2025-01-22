@@ -75,15 +75,15 @@
 
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortswords. 
+[Sneak Attack](./../feats.md#sneak-attack)
+
 - **Brave.** You have Advantage on Saves against [Frightened](./../conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 - **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
 - **Naturally Stealthy.** You can take the Hide action even when you are [Obscured](./../game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you.
 - **LEG DAY LEGend.** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks. *(Already included above)*
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
-- **Sneak Attack.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](./../conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
-
 - **Cunning Action.** Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [Dash](game_rules.md#turn-based-play#dash),[Disengage](game_rules.md#turn-based-play#disengage), or[Hide](game_rules.md#turn-based-play#hide). *(Already included above)*
 
 # Reminders

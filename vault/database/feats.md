@@ -12,32 +12,63 @@ Repeatable. You can take this feat more than once.
 Your HP increase by 2 per level.
 
 # Class Feats
+## Druid
+
+### Wild Shape
+Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*
+![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
+ 
+## Fighter
+
+### Action Surge
+On your turn, you can take one additional Action. *(Once per Short Rest)*
+![\|50](https://bg3.wiki/w/images/4/4d/Action_Surge_Icon.webp)
+
+### Second Wind
+Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*
+![\|50](https://bg3.wiki/w/images/9/95/Second_Wind_Icon.webp)
+
+## Paladin
+### Lay on Hands
+Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 * Level Charges)*
+![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
+
+## Rogue
+### Sneak Attack
+Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
+
+![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
+
 ## Warlock
 ### Eldritch Invocations
 #### Armor of Shadows
 You can cast [Mage Armor](spells.md#mage-armor) on yourself without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/0/0d/Mage_Armour_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Eldritch Mind
 You have Advantage on CON Saves that you make to maintain [Concentration](conditions.md#concentration).
+![\|50](https://bg3.wiki/w/images/c/cc/Beguiling_Influence_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Pact of the Blade
 As a Bonus Action, you can either conjure any Melee Weapon of your choice as pact weapon in your hand or create a bond with a Melee Weapon you touch. Until the bond ends, you have proficiency with that weapon.
 Whenever you attack with the bonded weapon, you can **use your CHA for the Attack and Damage rolls instead of your STR**; and you can cause the weapon to deal **Necrotic**, **Psychic**, or **Radiant** damage or its normal damage type.
-Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends.
-You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. 
+Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends. You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. 
+![\|50](https://bg3.wiki/w/images/c/c9/Pact_of_the_Blade_passive_feature_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Pact of the Chain
 You learn the [Find Familiar](spells.md#find-familiar) spell and can cast it as a Magic action without expending a spell slot.
-When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp (1)](dm/monsters.md#imp), [Pseudodragon (1/4)](dm/monsters.md#pseudodragon), [Quasit (1)](dm/monsters.md#quasit), [Skeleton (1/4)](dm/monsters.md#skeleton), [Slaad Tadpole (1/8)](dm/monsters.md#slaad-tadpole), [Sphinx of Wonder (1)](dm/monsters.md#sphinx-of-wonder), [Sprite (1/4)](dm/monsters.md#sprite), [Venomous Snake (1/8)](dm/monsters.md#venomous-snake).
+When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](dm/monsters.md#imp), [Pseudodragon](dm/monsters.md#pseudodragon), [Quasit](dm/monsters.md#quasit), [Skeleton](dm/monsters.md#skeleton), [Slaad Tadpole](dm/monsters.md#slaad-tadpole), [Sphinx of Wonder](dm/monsters.md#sphinx-of-wonder), [Sprite](dm/monsters.md#sprite), [Venomous Snake](dm/monsters.md#venomous-snake).
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
+![\|50](https://bg3.wiki/w/images/0/04/Find_Familiar_Imp_Icon.webp)
 *(Source: PHB'24, page 157)*
 
 #### Pact of the Tome
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short- or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 **Cantrips and Rituals.** When the book appears, choose three Cantrips, and choose two level 1 spells that have the [Ritual](feats.md#pact-of-the-tome-ritual-spells) tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+![\|50](https://bg3.wiki/w/images/3/3e/Pact_of_the_Tome_Icon.webp)
 *(Source: PHB'24, page 157)*
 ##### Pact of the Tome Ritual Spells
 [Alarm](spells.md#alarm)
@@ -57,11 +88,13 @@ Stitching together strands of shadow, you conjure forth a book in your hand at t
 *Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 Choose one of your known Warlock Cantrips that deals damage. You can add your CHA modifier to that spell's damage rolls.
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+![\|50](https://bg3.wiki/w/images/9/9d/Agonising_Blast_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Devil's Sight
 *Prerequisite: Level 2+ Warlock*
 You can see normally in [Dim Light](game_rules.md#dim-light) and [Darkness](game_rules.md#darkness) — *both magical and nonmagical* — within range 24 *(36m)* of yourself.
+![\|50](https://bg3.wiki/w/images/c/c0/Devils_Sight_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Eldritch Spear
@@ -73,6 +106,7 @@ Choose one of your known Warlock Cantrips that deals damage and has a range of 2
 #### Fiendish Vigor
 *Prerequisite: Level 2+ Warlock*
 You can cast [False Life](spells.md#false-life) on yourself without expending a spell slot. When you cast the spell with this feature, you don't roll the die for the Temporary HP; you automatically get the highest number on the die.
+![\|50](https://bg3.wiki/w/images/f/f2/False_Life_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Lessons of the First Ones
@@ -84,6 +118,7 @@ You have received knowledge from an elder entity of the multiverse, allowing you
 #### Mask of Many Faces
 *Prerequisite: Level 2+ Warlock*
 You can cast [Disguise Self](spells.md#disguise-self) without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/8/8d/Disguise_Self_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Misty Visions
@@ -100,6 +135,7 @@ You can cast [Jump](spells.md#jump) on yourself without expending a spell slot.
 *Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll*
 Choose one of your known Warlock Cantrips that requires an attack roll. When you hit a [Large](game_rules.md#creature-sizes) or smaller creature with that Cantrip, you can push the creature up to 2 *(3m)* straight away from you.
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+![\|50](https://bg3.wiki/w/images/6/65/Repelling_Blast_Icon.webp)
 *(Source: PHB'24, page 157)*
 
 #### Ascendant Step
@@ -210,4 +246,5 @@ The available weapon masteries are:
 - **Unarmed Fighting**: 
   - When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 + STR instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
   - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature [Grappled](conditions.md#grappled) by you.
+![\|50](https://bg3.wiki/w/images/a/ae/Duelling_Icon.webp)
 *(Source: PHB'24, page 209)*
