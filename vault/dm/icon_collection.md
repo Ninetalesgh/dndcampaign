@@ -17,6 +17,7 @@
 ![\|50](https://bg3.wiki/w/images/7/79/Projected_Ward_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/c/c9/Potent_Cantrip_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/9/92/Instinctive_Charm_Icon.webp)
+![\|50](https://bg3.wiki/w/images/7/7d/Primal_Strike_Icon.webp)
 
 
 ![\|50](https://bg3.wiki/w/images/1/13/Transmuter%27s_Stone_Constitution_Icon.webp)
@@ -194,3 +195,44 @@
 ![\|50](https://bg3.wiki/w/images/7/73/Protection_Icon.webp)
 
 
+
+
+![\|50](https://bg3.wiki/w/images/0/0b/Lightning_Breath_Icon.webp)
+![\|50](https://bg3.wiki/w/images/4/43/Fire_Breath_Line_Icon.webp)
+![\|50](https://bg3.wiki/w/images/f/fd/Generic_Fire_Icon.webp)
+![\|50](https://bg3.wiki/w/images/b/ba/Generic_Lightning_Icon.webp)
+![\|50](https://bg3.wiki/w/images/4/41/Generic_Acid_Icon.webp)
+![\|50](https://bg3.wiki/w/images/4/48/Fire_Breath_Cone_Icon.webp)
+![\|50](https://bg3.wiki/w/images/5/59/Poison_Breath_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/5/55/Frost_Breath_Icon.webp)
+![\|50](https://bg3.wiki/w/images/2/2b/Generic_Cold_Icon.webp)
+![\|50](https://bg3.wiki/w/images/3/3a/Relentless_Endurance_Icon.webp)
+![\|50](https://bg3.wiki/w/images/8/84/Savage_Attacks_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/0/0d/Darkvision_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/2/2d/Strongheart_Resilience_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/1/16/Dwarven_Resilience_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/3/38/Superior_Darkvision_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/6/66/Duergar_Resilience_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/0/02/Gnome_Cunning_Icon.webp)
+![\|50](https://bg3.wiki/w/images/4/4c/Hellish_Resistance_Icon.webp)
+![\|50](https://bg3.wiki/w/images/2/29/Astral_Knowledge_Icon.webp)
+
+
+![\|50](https://bg3.wiki/w/images/b/b0/Chromatic_Orb_Thunder_Icon.webp)
+![\|50](https://bg3.wiki/w/images/e/e0/Chromatic_Orb_Acid_Icon.webp)
+![\|50](https://bg3.wiki/w/images/e/e8/Chromatic_Orb_Cold_Icon.webp)
+![\|50](https://bg3.wiki/w/images/1/1e/Chromatic_Orb_Fire_Icon.webp)
+![\|50](https://bg3.wiki/w/images/2/20/Chromatic_Orb_Lightning_Icon.webp)
+![\|50](https://bg3.wiki/w/images/8/80/Chromatic_Orb_Poison_Icon.webp)
+
+![\|50](https://bg3.wiki/w/images/3/3d/Magic_Initiate_Wizard_Icon.webp)
+![\|50](https://bg3.wiki/w/images/c/c0/Magic_Initiate_Sorcerer_Icon.webp)
+
+[TODO] Harvest bg3 feats.
