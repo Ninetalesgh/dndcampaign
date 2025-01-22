@@ -59,8 +59,8 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
   [Guidance](./../spells.md#spells-g#guidance)
-  [Thorn Whip](./../spells.md#spells-t#thorn-whip)
-  [Prestidigitation](./../spells.md#spells-p#prestidigitation)
+  [Poison Spray](./../spells.md#spells-p#poison-spray)
+  [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**: 
   [Speak with Animals](./../spells.md#spells-s#speak-with-animals)
