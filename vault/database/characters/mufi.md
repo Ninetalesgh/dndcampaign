@@ -75,10 +75,10 @@
 
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortswords. 
-[Sneak Attack](./../feats.md#sneak-attack)
-[Brave](./../feats.md#brave)
-[Halfling Luck](./../feats.md#halfling-luck)
-[Naturally Stealthy](./../feats.md#naturally-stealthy)
+  [Sneak Attack](./../feats.md#sneak-attack)
+  [Brave](./../feats.md#brave)
+  [Halfling Luck](./../feats.md#halfling-luck)
+  [Naturally Stealthy](./../feats.md#naturally-stealthy)
 
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
 

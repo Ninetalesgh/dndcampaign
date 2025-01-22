@@ -3,7 +3,7 @@
 ## Alert
 - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
 - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
-
+![\|50](https://bg3.wiki/w/images/9/93/Danger_Sense_Icon.webp)
 ## Skilled
 You gain proficiency in any combination of three skills or tools of your choice.
 Repeatable. You can take this feat more than once.
