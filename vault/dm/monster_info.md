@@ -1,5 +1,7 @@
 # Monsters By Type
 ## Aberration
+[Slaad Tadpole (1/8)](dm/monsters.md#slaad-tadpole)
+
 The [Cavern Choker (1/2)](dm/monsters.md#cavern-choker) is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 Chokers have cartilage rather than a bony skeleton. This flexible internal structure enables them to easily slip into narrow fissures and niches in the walls of their cavern homes. They lurk in these spots, silent and unseen, waiting for prey to happen by.
 **Sly Trappers.** A choker's usual method for luring prey involves positioning the body of its latest catch just outside its hiding spot. Whenever it gets hungry, it tears off a few chunks of flesh to feed itself. In the meantime, the corpse serves to entice other curious humanoids—explorers, drow, duergar, or the choker's favorite prey, goblins—to come within reach.
@@ -17,7 +19,12 @@ An [Axe Beak (1/2)](dm/monsters.md#axe-beak) is a tall flightless bird with stro
 
 [Black Bear (1/2)](dm/monsters.md#black-bear)
 
+[Venomous Snake (1/8)](dm/monsters.md#venomous-snake)
+
 ## Celestial
+[Sphinx of Wonder (1)](dm/monsters.md#sphinx-of-wonder)
+
+
 ## Construct
 [Animated Book (1/4)](dm/monsters.md#animated-book)
 [Animated Broom (1/4)](dm/monsters.md#animated-broom)
@@ -38,7 +45,7 @@ Kobolds are craven reptilian humanoids that worship evil dragons as demigods and
 [Kobold Trapcaster (1/2)](dm/monsters.md#kobold-trapcaster)
 [Kobold Dragonshield (1)](dm/monsters.md#kobold-dragonshield)
 
-
+[Pseudodragon (1/4)](dm/monsters.md#pseudodragon)
 
 ## Elemental
 Also known as rocklings and rock hermits, [Geonid (1/4)](dm/monsters.md#geonid)  are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its tremorsense to detect other creatures nearby.
@@ -79,6 +86,9 @@ Comprising frigid air and water, [Ice Mephit (1/2)](dm/monsters.md#ice-mephit) a
 
 ## Fey
 The [Blink Dog (1/4)](dm/monsters.md#blink-dog) takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
+
+[Sprite (1/4)](dm/monsters.md#sprite)
+
 ## Fiend
 ### Devils
 Devils personify tyranny, with a totalitarian society dedicated to the domination of mortal life. The shadow of the Nine Hells of Baator extends far across the multiverse, and Asmodeus, the dark lord of Nessus, strives to subjugate the cosmos to satisfy his thirst for power. To do so, he must continually expand his infernal armies, sending his servants to the mortal realm to corrupt the souls from which new devils are spawned.
@@ -137,6 +147,7 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
   A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso. A permanent expression of anguish twists across its face, its feeble mouth babbling even though it can't speak.
 [Lemure Aspirant (1/2)](dm/monsters.md#lemure-aspirant)
 [Lemure Squidge (1/2, Minion)](dm/monsters.md#lemure-squidge)
+[Imp (1)](dm/monsters.md#imp)
 
 #### Promotion and Demotion
   When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils have the power to promote lemures to lesser devils. Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. This diabolic promotion invokes a brief, painful transformation, with the devil's memories passing intact from one form to the next.
@@ -151,6 +162,7 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 
 ### Demons
   [TODO]
+[Quasit (1)](dm/monsters.md#quasit)
 
 ## Giant
 ## Humanoid
@@ -231,6 +243,8 @@ In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight)
   Although they lack the intellect they possessed in life, skeletons aren't mindless. Rather than break its limbs attempting to batter its way through an iron door, a skeleton tries the handle first. If that doesn't work, it searches for another way through or around the obstacle.
 - **Habitual Behaviors.** Independent skeletons temporarily or permanently free of a master's control sometimes pantomime actions from their past lives, their bones echoing the rote behaviors of their former living selves. The skeleton of a miner might lift a pick and start chipping away at stone walls. The skeleton of a guard might strike up a post at a random doorway. The skeleton of a dragon might lie down on a pile of treasure, while the skeleton of a horse crops grass it can't eat. Left alone in a ballroom, the skeletons of nobles might continue an eternally unfinished dance.
   When skeletons encounter living creatures, the necromantic energy that drives them compels them to kill unless they are commanded by their masters to refrain from doing so. They attack without mercy and fight until destroyed, for skeletons possess little sense of self and even less sense of self-preservation.
+
+[Skeleton (1/4)](dm/monsters.md#skeleton)
 
 ### Wights 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.

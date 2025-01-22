@@ -18,7 +18,7 @@
 
 - ~5km distance ATHLETICS check to keep a good pace if you wanted to put on armor?
 
-- bad visibility between the grain fields, forest patches and hills. 
+
 
 # Scenes
 ## The Mylen Farmstead

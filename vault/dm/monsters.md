@@ -889,6 +889,34 @@ STR | DEX | CON | INT | WIS | CHA
    - **Icy Gust**. When the mephit is hit with a melee attack, it can make a Chilling Touch attack against the attacker. On a hit, the target is pushed 1 *(1.5m)* away.
 *(Source: ConfluxCreatures)*
 
+### Imp
+**CR**: 1
+*Tiny fiend (devil), Lawful Evil*
+- **Initiative**: +3
+- **AC**: 13
+- **HP**: 21 (6d4 + 6)
+- **Speed**: walk 4 *(6m)*, fly 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+6 (-2) | 17 (+3) | 13 (+1) | 11 (+0) | 12 (+1) | 14 (+2) 
+
+- **Skills**: deception: +4, insight: +3, stealth: +5
+- **Resistances**: cold;
+- **Immunities**: fire, poison; [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: Common, Infernal
+- **Traits**: 
+   - **Devil's Sight**. Magical [Darkness](game_rules.md#advanced-rules#darkness) doesn't impede the imp's [Darkvision](./../game_rules.md#advanced-rules#darkvision).
+   - **Magic Resistance**. The imp has Advantage on Saves against spells and other magical effects.
+   - **Invisibility**. The imp casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+     - *At will:* [Invisibility](spells.md#invisibility)
+- **Actions**: 
+   - **Sting**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 6 (1d6 + 3) Piercing damage plus 7 (2d6) Poison damage.
+   - **Change Shape**. The imp changes into a form that resembles a rat (Speed 4 *(6m)*), a raven (4 *(6m)*, Fly 12 *(18m)*), or a spider (4 *(6m)*, Climb 4 *(6m)*), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed. The imp reverts to its true form if it dies.
+*(Source: XPHB, page 352)*
+
 ## Monsters J
 ## Monsters K
 ### Kobold
@@ -1446,7 +1474,60 @@ STR | DEX | CON | INT | WIS | CHA
    At the beginning of its next turn, the ooze splits into two new poolish ooze discard with full hit points that share its initiative.
 *(Source: ConfluxCreatures)*
 
+### Pseudodragon
+**CR**: 1/4
+*Tiny dragon, Neutral Good*
+- **Initiative**: +2
+- **AC**: 14
+- **HP**: 10 (3d4 + 3)
+- **Speed**: walk 3 *(4.5m)*, fly 12 *(18m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+6 (-2) | 15 (+2) | 13 (+1) | 10 (+0) | 12 (+1) | 10 (+0) 
+
+- **Skills**: perception: +5, stealth: +4
+- **Senses**: [Blindsight *(3m)*](./../game_rules.md#advanced-rules#blindsight), [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Languages**: understands Common and Draconic but can't speak
+- **Traits**: 
+   - **Magic Resistance**. The pseudodragon has Advantage on Saves against spells and other magical effects.
+- **Actions**: 
+   - **Multiattack**. The pseudodragon makes two Bite attacks.
+   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 4 (1d4 + 2) Piercing damage.
+   - **Sting**. {@actSave con} DC 12, one creature the pseudodragon can see within 1 *(1.5m)*. {@actSaveFail} 5 (2d4) Poison damage, and the target has the [Poisoned](conditions.md#poisoned) condition for 1 hour. Failure by 5 or More: The [Poisoned](conditions.md#poisoned) target also has the [Unconscious](conditions.md#unconscious) condition until it takes damage or another creature takes an action to shake it awake.
+*(Source: XPHB, page 354)*
+
 ## Monsters Q
+
+### Quasit
+**CR**: 1
+*Tiny fiend (demon), Chaotic Evil*
+- **Initiative**: +3
+- **AC**: 13
+- **HP**: 25 (10d4)
+- **Speed**: walk 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+5 (-3) | 17 (+3) | 10 (+0) | 7 (-2) | 10 (+0) | 10 (+0) 
+
+- **Skills**: stealth: +5
+- **Resistances**: cold, fire, lightning;
+- **Immunities**: poison; [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Abyssal, Common
+- **Traits**: 
+   - **Magic Resistance**. The quasit has Advantage on Saves against spells and other magical effects.
+   - **Invisibility**. The quasit casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+     - *At will:* [Invisibility](spells.md#invisibility)
+- **Actions**: 
+   - **Rend**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 5 (1d4 + 3) Slashing damage, and the target has the [Poisoned](conditions.md#poisoned) condition until the start of the quasit's next turn.
+   - **Change Shape**. The quasit changes into a form that resembles a bat (Speed 2 *(3m)*, Fly 8 *(12m)*), a centipede (8 *(12m)*, Climb 8 *(12m)*), or a toad (8 *(12m)*, Swim 8 *(12m)*), or it returns to its true form. Its statistics are the same in each form, except for its Speed. Any equipment it's wearing or carrying isn't transformed. The quasit reverts to its true form if it dies.
+   - **Scare (1/Day)**. {@actSave wis} DC 10, one creature within 4 *(6m)*. {@actSaveFail} The target has the [Frightened](conditions.md#frightened) condition. At the end of each of its turns, the target repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically
+*(Source: XPHB, page 355)*
+
 ## Monsters R
 ## Monsters S
 ### Salt Mephit
@@ -1555,6 +1636,29 @@ STR | DEX | CON | INT | WIS | CHA
    - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 hit points, the skeleton can move up to 2 *(3m)* towards the creature.
 *(Source: ConfluxCreatures)*
 
+### Slaad Tadpole
+**CR**: 1/8
+*Tiny aberration, Chaotic Neutral*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 7 (3d4)
+- **Speed**: walk 6 *(9m)*, burrow 2 *(3m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+7 (-2) | 15 (+2) | 10 (+0) | 3 (-4) | 5 (-3) | 3 (-4) 
+
+- **Skills**: stealth: +4
+- **Resistances**: acid, cold, fire, lightning, thunder;
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 7
+- **Languages**: understands Slaad but can't speak
+- **Traits**: 
+   - **Magic Resistance**. The slaad has Advantage on Saves against spells and other magical effects.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 5 (1d6 + 2) Piercing damage.
+*(Source: XPHB, page 357)*
+
 ### Smoke Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -1583,6 +1687,56 @@ STR | DEX | CON | INT | WIS | CHA
 - **Reactions**: 
    - **In the Wind**. If the mephit takes any slashing or bludgeoning damage, it can teleport up to 6 *(9m)* to an unoccupied space.
 *(Source: ConfluxCreatures)*
+
+### Sphinx of Wonder
+**CR**: 1
+*Tiny celestial, Lawful Good*
+- **Initiative**: +3
+- **AC**: 13
+- **HP**: 24 (7d4 + 7)
+- **Speed**: walk 4 *(6m)*, fly 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+6 (-2) | 17 (+3) | 13 (+1) | 15 (+2) | 12 (+1) | 11 (+0) 
+
+- **Skills**: arcana: +4, religion: +4, stealth: +5
+- **Resistances**: necrotic, psychic, radiant;
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: Celestial, Common
+- **Traits**: 
+   - **Magic Resistance**. The sphinx has Advantage on Saves against spells and other magical effects.
+- **Actions**: 
+   - **Rend**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 5 (1d4 + 3) Slashing damage plus 7 (2d6) Radiant damage.
+- **Reactions**: 
+   - **Burst of Ingenuity (2/Day)**. {@actTrigger} The sphinx or another creature within 6 *(9m)* makes an ability check or a Save. {@actResponse} The sphinx adds 2 to the roll.
+*(Source: XPHB, page 357)*
+
+### Sprite
+**CR**: 1/4
+*Tiny fey, Neutral Good*
+- **Initiative**: +4
+- **AC**: 15
+- **HP**: 10 (4d4)
+- **Speed**: walk 2 *(3m)*, fly 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+3 (-4) | 18 (+4) | 10 (+0) | 14 (+2) | 13 (+1) | 11 (+0) 
+
+- **Skills**: perception: +3, stealth: +8
+- **Senses**: passive perception 13
+- **Languages**: Common, Elvish, Sylvan
+   - **Invisibility**. The sprite casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+     - *At will:* [Invisibility](spells.md#invisibility)
+- **Actions**: 
+   - **Needle Sword**. *Melee Attack:* +6, reach 1 *(1.5m)* 
+    *Hit:* 6 (1d4 + 4) Piercing damage.
+   - **Enchanting Bow**. *Ranged Attack:* +6, range 8/32 *(12m/48m)* 
+    *Hit:* 1 Piercing damage, and the target has the [Charmed](conditions.md#charmed) condition until the start of the sprite's next turn.
+   - **Heart Sight**. {@actSave cha} DC 10, one creature within 1 *(1.5m)* the sprite can see. Celestials, Fiends, and Undead automatically fail the save. {@actSaveFail} The sprite knows the target's emotions and alignment.
+*(Source: XPHB, page 358)*
 
 ### Steam Mephit
 **CR**: 1/2
@@ -1615,11 +1769,28 @@ STR | DEX | CON | INT | WIS | CHA
    If the mephit teleports to a space within 1 *(1.5m)* of the attacker, the triggering attack has disadvantage.
 *(Source: ConfluxCreatures)*
 
-
-
 ## Monsters T
 ## Monsters U
 ## Monsters V
+
+### Venomous Snake
+**CR**: 1/8
+*Tiny beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 5 (2d4)
+- **Speed**: walk 6 *(9m)*, swim 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 15 (+2) | 11 (+0) | 1 (-5) | 10 (+0) | 3 (-4) 
+
+- **Senses**: [Blindsight *(3m)*](./../game_rules.md#advanced-rules#blindsight), passive perception 10
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 4 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage.
+*(Source: XPHB, page 358)*
+
 ## Monsters W
 ### Water Mephit
 **CR**: 1/2
