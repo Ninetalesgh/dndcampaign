@@ -76,11 +76,12 @@
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortswords. 
 [Sneak Attack](./../feats.md#sneak-attack)
+[Brave](./../feats.md#brave)
+[Halfling Luck](./../feats.md#halfling-luck)
+[Naturally Stealthy](./../feats.md#naturally-stealthy)
 
-- **Brave.** You have Advantage on Saves against [Frightened](./../conditions.md#frightened).
 - **Halfling Nimbleness.** You can move through the space of any creature that is a [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you, but you can't stop in the same space.
-- **Luck.** Whenever you roll a 1 on a d20 test you can reroll that d20 once.
-- **Naturally Stealthy.** You can take the Hide action even when you are [Obscured](./../game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](./../game_rules.md#advanced-rules#creature-sizes) larger than you.
+
 - **LEG DAY LEGend.** Through countless hours of awkward but enthusiastic dancing, you've developed impressively strong legs. You gain a +2 bonus to Athletics Checks and a -2 penalty to Performance Checks. *(Already included above)*
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*

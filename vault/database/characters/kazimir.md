@@ -58,12 +58,13 @@
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
+  [Action Surge](./../feats.md#action-surge)
+  [Tactical Mind](./../feats.md#tactical-mind)
+
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
-[Action Surge](./../feats.md#action-surge)
-[Tactical Mind](./../feats.md#tactical-mind)
 
 - **Tactical Mind.** 
 

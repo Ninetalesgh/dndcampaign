@@ -2902,6 +2902,7 @@ Until the spell ends, your attacks with weapons deal an extra 1d4 Radiant damage
 The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d8 for each spell slot level above 1.
 - **Classes**: Paladin
+![\|50](https://bg3.wiki/w/images/4/4b/Divine_Smite_Icon.webp)
 *(Source: PHB'24, page 265)*
 
 ### Divine Word
@@ -7755,7 +7756,7 @@ You create a magical effect within range. Choose the effect from the options bel
 You channel primal magic to cause your teeth or fingernails to sharpen, ready to deliver a corrosive attack. Make a melee spell attack against one creature within 1 *(1.5m)* of you. On a hit, the target takes 1d10 acid damage. After you make the attack, your teeth or fingernails return to normal.
 The spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 - **Classes**: Druid
-![\|50](https://bg3.wiki/w/images/7/7d/Primal_Strike_Icon.webp)
+![\|50](https://bg3.wiki/w/images/5/54/Acid_Breath.webp)
 *(Source: XGE, page 163)*
 
 ### Primordial Roar

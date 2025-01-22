@@ -39,8 +39,8 @@ Touch a creature and spend any number of Lay on Hands Charges. That creature hea
 
 ## Rogue
 ### Sneak Attack
-Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
-
+Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
+You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
 
 ## Warlock
@@ -239,6 +239,21 @@ When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)
 ## Healing Hands
 You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/7/72/Preserve_Life_Icon.webp)
+
+## Brave
+You have Advantage on Saves against [Frightened](conditions.md#frightened).
+![\|50](https://bg3.wiki/w/images/c/ca/Brave_Icon.webp)
+
+## Naturally Stealthy
+You can take the [Hide](game_rules.md#turn-based-play#hide) Action even when you are [Obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+![\|50](https://bg3.wiki/w/images/2/2a/Naturally_Stealthy_Icon.webp)
+
+## Halfling Luck
+Whenever you roll a 1 on a d20 test you can reroll that d20 once.
+![\|50](https://bg3.wiki/w/images/6/68/Halfling_Luck_Icon.webp)
+
+
+
 
 # Feats
 ## Weapon Mastery
