@@ -1,10 +1,11 @@
 
 
-![\|50](https://bg3.wiki/w/images/5/59/Ensnaring_Strands_Icon.webp
+![\|50](https://bg3.wiki/w/images/5/59/Ensnaring_Strands_Icon.webp)
 
 ![\|50](https://bg3.wiki/w/images/7/73/Dark_One%27s_Blessing_Icon.webp)
 
 
+![\|50](https://bg3.wiki/w/images/f/f4/Expert_Divination_Icon.webp)
 
 ![\|50](https://bg3.wiki/w/images/9/97/Sculpt_Spells_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/5/59/Grim_Harvest_Icon.webp)
@@ -18,10 +19,10 @@
 ![\|50](https://bg3.wiki/w/images/9/92/Instinctive_Charm_Icon.webp)
 
 
-![\|50](https://bg3.wiki/w/images/1/13/Transmuter%27s_Stone_Constitution_Icon.web)
-![\|50](https://bg3.wiki/w/images/a/a6/Benign_Transposition_Teleport_Icon.web)
+![\|50](https://bg3.wiki/w/images/1/13/Transmuter%27s_Stone_Constitution_Icon.webp)
+![\|50](https://bg3.wiki/w/images/a/a6/Benign_Transposition_Teleport_Icon.webp)
 
-![\|50](https://bg3.wiki/w/images/4/4a/Improved_Abjuration_Icon.web)
+![\|50](https://bg3.wiki/w/images/4/4a/Improved_Abjuration_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/d/d0/Empowered_Evocation_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/c/c0/Inured_to_Undeath_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/1/1e/Focused_Conjuration_Icon.webp)
@@ -131,7 +132,7 @@
 ![\|50](https://bg3.wiki/w/images/e/e6/Wild_Shape_Owlbear_Icon.webp)
 
 ![\|50](https://bg3.wiki/w/images/8/89/Fungal_Infestation_Icon.webp)
-![\|50](https://bg3.wiki/w/images/1/18/Fungal_Infestation_Charge_Icon.png/25px-Fungal_Infestation_Charge_Icon.png)
+![\|50](https://bg3.wiki/w/images/1/18/Fungal_Infestation_Charge_Icon.png)
 ![\|50](https://bg3.wiki/w/images/f/fa/Wild_Shape_Sabre-Toothed_Tiger_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/0/01/Wild_Shape_Dilophosaurus_Icon.webp)
 
