@@ -36,7 +36,6 @@
 [Burglar's Pack](dm/items.md#burglars-pack)
 [2 Daggers](dm/items.md#dagger)
 [Shortsword](dm/items.md#shortsword)
-- **Money**: 35 gp
 
 ## Spellcasting
 - **Prepared Spells**: 0 
