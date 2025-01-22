@@ -142,11 +142,11 @@ If you roll a 20 on an attack roll before modifiers you score a ***Critical Hit*
 
 #### Dash
 Gain additional Movement equal to your *modified* Speed for this turn. *For example, if your base speed is 6 and your speed is reduced by 2 by some effect, your Dash Action would grant you another 4 speed for this turn.*
-![\|30](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
+![\|30](https://bg3.wiki/w/images/8/8e/Dash_bonus_action_Icon.webp)
 
 #### Disengage
 Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) and you gain 1 *(1.5m)* extra Movement for the rest of this turn.
-![\|30](https://bg3.wiki/w/images/9/94/Disengage_Icon.webp)
+![\|30](https://bg3.wiki/w/images/4/4b/Disengage_Bonus_Action_Icon.webp)
 
 #### Dodge
 Until the start of your next turn, attacks against you have Disadvantage and you get Advantage on DEX Saves.
@@ -159,7 +159,7 @@ The condition ends on you immediately after any of the following occurs:
   - an enemy finds you.
   - you make an Attack Roll.
   - you cast a Spell with a Verbal component.
-![\|30](https://bg3.wiki/w/images/5/59/Hiding_Condition_Icon.webp)
+![\|30](https://bg3.wiki/w/images/e/ec/Hide_Bonus_Action_Icon.webp)
 
 #### Ready Action
 Prepare to take your Action outside of your turn as [Reaction](game_rules.md#turn-based-play#trigger-readied-action) to a trigger you define (for example "I hide behind the door and will attack the first enemy that runs in").
