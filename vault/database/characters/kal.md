@@ -62,12 +62,12 @@
   [Poison Spray](./../spells.md#spells-p#poison-spray)
   [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Speak with Animals](./../spells.md#spells-s#speak-with-animals)
 
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) 
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Wild Shape](feats.md#wild-shape)
 
 

@@ -59,8 +59,8 @@
   [Guidance](./../spells.md#spells-g#guidance)
   [Light](./.././../spells.md#spells-l#light)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**:
-  *Magic Initiate:* [Spell Cheat](./../spells.md#spells-s#spell-cheat) *(one free use per Long Rest)*
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
+  [Spell Cheat *(one free use per Long Rest)*](./../spells.md#spells-s#spell-cheat) 
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:
