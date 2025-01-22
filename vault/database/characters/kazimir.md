@@ -1,9 +1,10 @@
 # Kazimir
+- **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
-- **AC**: 16 ([Scale Mail](dm/items.md#scale-mail) + DEX)
-- **HP**: 12
-- **HP Dice**: 1 D10
+- **AC**: 15 ([Scale Mail](dm/items.md#scale-mail) + DEX)
+- **HP**: 20 *(4 + [6 + CON] * Level)*
+- **HP Dice**: 2 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
@@ -19,24 +20,20 @@
 | :----------------- | :------------------- | :----------------- |
 | ☐ INT Save +0      | ☐ WIS Save +1        | ☐ CHA Save +0      |
 | ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
-| ☐ History +0       | ☐ Insight +1         | ☑ **Intimidation +2**  |
+| ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
 | ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
-| ☐ Nature +0        | ☐ Perception +1      | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☐ Survival +1        | .                  |
+| ☐ Nature +0        | ☑ **Perception +3**  | ☐ Persuasion +0    |
+| ☑ **Religion +2**  | ☐ Survival +1        | .                  |
 
-[TODO] Origin feat Alert vs Skilled? 
-
-- **Weapon Proficiencies**: Simple Weapons, Martial Weapons
-- **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
+- **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, Undercommon, Thieves' Cant
 ## Equipment
 [Scale Mail](dm/items.md#scale-mail)
 [Alchemist's Supplies](dm/items.md#alchemists-supplies)
-[Dungeoneer's Pack](dm/items.md#dungeoneers-pack)
 [Shortsword](dm/items.md#shortsword)
 [2 Daggers](dm/items.md#dagger)
-- **Money**: 29 gp
 
 ## Feats and Actions
 ### Actions
@@ -51,7 +48,7 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Second Wind**: Regain HP equal to 1d10 plus your Fighter level. *(2 charges, regenerate 1 after Short Rests and all after Long Rests)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Second Wind.** Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 after Short Rests and all after Long Rests)*
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -61,21 +58,28 @@
 ### Passive Feats
 *- Extra lineage feat at level 3.*
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-//- [Alert](./../feats.md#alert) *(Already included above)*
-- **Weapon Mastery**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
+- **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
 
+- **Action Surge.** On your turn, you can take one additional Action. *(Once per Short Rest)*
+
+- **Tactical Mind.** When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
+
+- [Skilled](./../feats.md#skilled) *(Already included above)*
 
 # Reminders
 ### After Short Rest
 ##### Expend HP Dice to regain HP
 Regain *(d10 + CON)* HP per expended die.
-##### Regain 1 Second Wind charge
+##### Regain 1 Second Wind Charge
+##### Regain Action Surge Charge
+
 ### After Long Rest
 ##### Regain all HP & HP Dice
-##### Regain all Second Wind charges
+##### Regain all Second Wind Charges
 ##### Switch 1 Weapon Mastery
 ##### Finish 1 Brewing Potion
+
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die

@@ -1,9 +1,10 @@
 # Ayra
+- **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 13 ([Leather Armor](dm/items.md#leather-armor) + DEX)
-- **HP**: 12
-- **HP Dice**: 1 D8
+- **HP**: 21 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 2 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -34,11 +35,9 @@
 [Scholar's Pack](dm/items.md#scholars-pack)
 [Book about Devils](dm/items.md#book).
 
-- **Money**: 25 gp
-
 ## Spellcasting
 - **Prepared Spells**: 2
-- **Spell Slots Level 1**: 1
+- **Spell Slots Level 1**: 2
 - **Spell Attack Modifier**: +5 *(PB + CHA)*
 - **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
@@ -80,10 +79,14 @@
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
-- **Eldritch Invocations**:
-  - **Eldritch Mind**: You have Advantage on CON Saves that you make to maintain [Concentration](./../conditions.md#concentration).
 
-- **Tough.** Your HP max increases by 2 per level. *(Already included above)*
+- **Magical Cunning.** You can perform an esoteric rite for 1 minute. At the end of it, you regain 1 Spell Slot. *(Once per Long Rest)*
+
+- **Eldritch Invocations**:
+  - **Eldritch Mind.** You have Advantage on CON Saves that you make to maintain [Concentration](./../conditions.md#concentration).
+
+
+- [Tough](feats.md#tough) *(Already included above)*
 - **Light Bearer.** You know the Light cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
 
 # Reminders
@@ -91,10 +94,13 @@
 ##### Expend HP Dice to regain HP
 Regain *(d8 + CON)* HP per expended die.
 ##### Regain all Spell Slots
+
 ### After Long Rest
 ##### Regain all HP & HP Dice
 ##### Regain all Spell Slots
-##### Regain Healing Hands charge
+##### Regain the Healing Hands Charge
+##### Regain the Magical Cunning Charge
+
 ### After Level-Up
 ##### Recalculate HP
 ##### Add 1 HP Die
@@ -103,6 +109,23 @@ Regain *(d8 + CON)* HP per expended die.
 ##### Switch 1 Warlock Spell
 ##### Switch 1 Eldritch Invocation
 ##### Learn new Eldritch Invocations
+
+# Eldritch Invocation Reference
+[Armor of Shadows](feats.md#armor-of-shadows)
+[Eldritch Mind](feats.md#eldritch-mind)
+[Pact of the Blade](feats.md#pact-of-the-blade)
+[Pact of the Chain](feats.md#pact-of-the-chain)
+[Pact of the Tome](feats.md#pact-of-the-tome)
+[Agonizing Blast](feats.md#agonizing-blast)
+[Devil's Sight](feats.md#devils-sight)
+[Eldritch Spear](feats.md#eldritch-spear)
+[Fiendish Vigor](feats.md#fiendish-vigor)
+[Lessons of the First Ones](feats.md#lessons-of-the-first-ones)
+[Mask of Many Faces](feats.md#mask-of-many-faces)
+[Misty Visions](feats.md#misty-visions)
+[Otherworldly Leap](feats.md#otherworldly-leap)
+[Repelling Blast](feats.md#repelling-blast)
+
 
 # Warlock Spell Reference
 ## Cantrips

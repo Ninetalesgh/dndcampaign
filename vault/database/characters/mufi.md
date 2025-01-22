@@ -1,9 +1,10 @@
 # Mufi
+- **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 14 ([Leather Armor](dm/items.md#leather-armor) + DEX)
-- **HP**: 9
-- **HP Dice**: 1 D8
+- **HP**: 15 *(3 + [5 + CON] * Level)*
+- **HP Dice**: 2 D8
 - **Size**: [Small](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -24,7 +25,7 @@
 | ☐ Nature +3            | ☑ **Perception +3**  | ☐ Persuasion -1   |
 | ☐ Religion +3          | ☐ Survival +1        | .                 |
 
-- **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords
+- **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Whip
 - **Armor Proficiencies**: Light Armor
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools), [Tinker's Tools](dm/items.md#tinkers-tools)
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
@@ -63,7 +64,10 @@
   *Magic Initiate:* [Spell Cheat](./../spells.md#spells-s#spell-cheat) *(one free use per Long Rest)*
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) *(none)*
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:
+  [Dash](game_rules.md#turn-based-play#dash)
+  [Disengage](game_rules.md#turn-based-play#disengage)
+  [Hide](game_rules.md#turn-based-play#hide)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -81,6 +85,7 @@
 - **Sneak Attack.** Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](./../conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
 
+- **Cunning Action.** Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [Dash](game_rules.md#turn-based-play#dash),[Disengage](game_rules.md#turn-based-play#disengage), or[Hide](game_rules.md#turn-based-play#hide). *(Already included above)*
 
 # Reminders
 ### After Short Rest
