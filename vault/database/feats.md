@@ -66,8 +66,9 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 *(Source: PHB'24, page 157)*
 
 #### Pact of the Tome
-Stitching together strands of shadow, you conjure forth a book in your hand at the end of a Short- or Long Rest. This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
-**Cantrips and Rituals.** When the book appears, choose three Cantrips, and choose two level 1 spells that have the [Ritual](feats.md#pact-of-the-tome-ritual-spells) tag. The spells can be from any class's spell list, and they must be spells you don't already have prepared. While the book is on your person, you have the chosen spells prepared, and they function as Warlock spells for you.
+After every Short- or Long Rest you can conjure a book, you determine its appearance.
+This Book of Shadows contains eldritch magic that only you can access, granting you the benefits below while it is on your person. The book disappears if you conjure another book or if you die.
+**Cantrips and Rituals.** When the book appears, choose three Cantrips, and choose two [leve 1 spells that have the Ritual tag](feats.md#pact-of-the-tome-ritual-spells). The spells can be from any class's spell list.
 ![\|50](https://bg3.wiki/w/images/3/3e/Pact_of_the_Tome_Icon.webp)
 *(Source: PHB'24, page 157)*
 ##### Pact of the Tome Ritual Spells

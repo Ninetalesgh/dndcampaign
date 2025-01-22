@@ -236,7 +236,7 @@ Attempting to see something Heavily Obscured is mechanically equivalent to being
 
 ### Special senses
 #### Blindsight
-Within the stated range, you can see creatures that are **not** behind [Total Cover](game_rules.md#advanced-rules#cover), even if that creature is [Invisible](conditions.md#invisible) or you are [Blinded](conditions.md#blinded) or in [Darkness](game_rules.md#advanced-rules#darkness).
+Within the stated range, you can see creatures that are not behind [Total Cover](game_rules.md#advanced-rules#cover), even if that creature is [Invisible](conditions.md#invisible) or you are [Blinded](conditions.md#blinded) or in [Darkness](game_rules.md#advanced-rules#darkness).
 
 #### Darkvision
 Within the stated range: 
