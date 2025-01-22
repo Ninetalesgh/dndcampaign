@@ -101,6 +101,7 @@ You can see normally in [Dim Light](game_rules.md#dim-light) and [Darkness](game
 *Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage*
 Choose one of your known Warlock Cantrips that deals damage and has a range of 2 *(3m)* or more. Its range increases by 6 *(9m)* times your Warlock level.
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
+![\|50](https://bg3.wiki/w/images/6/65/Repelling_Blast_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Fiendish Vigor
