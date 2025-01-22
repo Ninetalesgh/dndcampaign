@@ -114,7 +114,7 @@ You can cast [False Life](spells.md#false-life) on yourself without expending a 
 *Prerequisite: Level 2+ Warlock*
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different Origin feat.
-![\|50](https://bg3.wiki/w/images/7/79/Arcane_Ward_Icon.webp)
+![\|50](https://bg3.wiki/w/images/f/f4/Expert_Divination_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Mask of Many Faces
@@ -126,7 +126,7 @@ You can cast [Disguise Self](spells.md#disguise-self) without expending a spell 
 #### Misty Visions
 *Prerequisite: Level 2+ Warlock*
 You can cast [Silent Image](spells.md#silent-image) without expending a spell slot.
-![\|50](https://bg3.wiki/w/images/f/f4/Expert_Divination_Icon.webp)
+![\|50](https://bg3.wiki/w/images/3/37/Improved_Minor_Illusion_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Otherworldly Leap
