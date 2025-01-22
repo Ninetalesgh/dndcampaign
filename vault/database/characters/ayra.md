@@ -42,6 +42,10 @@
 - **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
 ## Feats and Actions
+[TODO] 1 more Cantrip
+[TODO] 1 more Spell
+[TODO] 2 more Eldritch Invocations
+
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)
@@ -58,7 +62,6 @@
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
     [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
     [Light](./../spells.md#spells-l#light)
-[TODO] You had a Cantrip to choose still, I think, right?
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Spells**
   *(none)*
 
