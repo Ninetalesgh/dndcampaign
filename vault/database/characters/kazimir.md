@@ -49,7 +49,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Second Wind](./../feats.md#second-wind)
+  [Second Wind *(2 Charges, regenerate 1 after Short- and all after Long Rests)*](./../feats.md#second-wind)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -58,7 +58,7 @@
 
 ### Passive Feats
 *- Extra lineage feat at level 3.*
-  [Action Surge](./../feats.md#action-surge)
+  [Action Surge *(Once per Short Rest)*](./../feats.md#action-surge)
   [Tactical Mind](./../feats.md#tactical-mind)
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
