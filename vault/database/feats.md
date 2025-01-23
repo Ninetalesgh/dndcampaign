@@ -226,7 +226,7 @@ You have Truesight with a range of 30 feet.
 *(Source: PHB'24, page 157)*
 
 ## Magical Cunning
-You perform an esoteric rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
+You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
 
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 

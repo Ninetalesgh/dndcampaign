@@ -9468,7 +9468,7 @@ If a Plant creature is in the area, you can communicate with it as if you shared
 Requires proficiency in Thieves' Cant.
 You cast a spell of level 1 or below that you saw cast within range since the end of your last turn, using your own Spell Attack Modifier and Spell Save DC, if applicable.
 - **Classes**: Artificer, Bard
-![\|50](https://bg3.wiki/w/images/4/4a/Improved_Abjuration_Icon.webp)
+![\|50](https://bg3.wiki/w/images/3/3d/Magic_Initiate_Wizard_Icon.webp)
 *(Source: ConfluxCreatures)*
 
 ### Spellfire Combustion
