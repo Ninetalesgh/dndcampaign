@@ -90,23 +90,23 @@
 
 # Reminders
 ### After Short Rest
-##### Expend HP Dice to regain HP
+- **Expend HP Dice to regain HP**
 Regain *(d8 + CON)* HP per expended dice.
-##### Regain 1 Wild Shape Charge
+- **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
-##### Regain all HP & HP Dice
-##### Regain all Spell Slots
-##### Prepare Druid Spells
-##### Regain All Wild Shape Charges 
-##### Switch 1 Wild Shape form
-##### Switch Wizard Cantrip
+- **Regain all HP & HP Dice**
+- **Regain all Spell Slots**
+- **Prepare Druid Spells**
+- **Regain All Wild Shape Charges **
+- **Switch 1 Wild Shape form**
+- **Switch Wizard Cantrip**
 
 ### After Level-Up
-##### Recalculate HP
-##### Add 1 HP Die
-##### Check Class Level-Up
-##### Switch 1 Druid Cantrip
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch 1 Druid Cantrip**
 
 # Wild Shape Reference
   [Grappler](./../wildshapes.md#cr-1/4#grappler)

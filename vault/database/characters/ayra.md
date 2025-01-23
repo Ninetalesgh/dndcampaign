@@ -92,24 +92,24 @@
 
 # Reminders
 ### After Short Rest
-##### Expend HP Dice to regain HP
+- **Expend HP Dice to regain HP**
 Regain *(d8 + CON)* HP per expended die.
-##### Regain all Spell Slots
+- **Regain all Spell Slots**
 
 ### After Long Rest
-##### Regain all HP & HP Dice
-##### Regain all Spell Slots
-##### Regain the Healing Hands Charge
-##### Regain the Magical Cunning Charge
+- **Regain all HP & HP Dice**
+- **Regain all Spell Slots**
+- **Regain the Healing Hands Charge**
+- **Regain the Magical Cunning Charge**
 
 ### After Level-Up
-##### Recalculate HP
-##### Add 1 HP Die
-##### Check Class Level-Up
-##### Switch 1 Warlock Cantrip
-##### Switch 1 Warlock Spell
-##### Switch 1 Eldritch Invocation
-##### Learn new Eldritch Invocations
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch 1 Warlock Cantrip**
+- **Switch 1 Warlock Spell**
+- **Switch 1 Eldritch Invocation**
+- **Learn new Eldritch Invocations**
 
 # Eldritch Invocation Reference
 [Armor of Shadows](feats.md#armor-of-shadows)

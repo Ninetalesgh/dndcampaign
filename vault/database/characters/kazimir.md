@@ -72,19 +72,19 @@
 
 # Reminders
 ### After Short Rest
-##### Expend HP Dice to regain HP
+- **Expend HP Dice to regain HP**
 Regain *(d10 + CON)* HP per expended die.
-##### Regain 1 Second Wind Charge
-##### Regain Action Surge Charge
+- **Regain 1 Second Wind Charge**
+- **Regain Action Surge Charge**
 
 ### After Long Rest
-##### Regain all HP & HP Dice
-##### Regain all Second Wind Charges
-##### Switch 1 Weapon Mastery
-##### Finish 1 Brewing Potion
+- **Regain all HP & HP Dice**
+- **Regain all Second Wind Charges**
+- **Switch 1 Weapon Mastery**
+- **Finish 1 Brewing Potion**
 
 ### After Level-Up
-##### Recalculate HP
-##### Add 1 HP Die
-##### Check Class Level-Up
-##### Switch Fighting Style
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch Fighting Style**

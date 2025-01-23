@@ -89,19 +89,19 @@
 
 # Reminders
 ### After Short Rest
-##### Expend HP Dice to regain HP
+- **Expend HP Dice to regain HP**
 Regain *(d8 + CON)* HP per expended dice.
 ### After Long Rest
-##### Regain all HP & HP Dice
-##### Regain all Spell Slots
-##### Regain Magic Initiate Spell charge
-##### Switch 1 Weapon Mastery
+- **Regain all HP & HP Dice**
+- **Regain all Spell Slots**
+- **Regain Magic Initiate Spell charge**
+- **Switch 1 Weapon Mastery**
 ### After Level-Up
-##### Recalculate HP
-##### Add 1 HP Die
-##### Check Class Level-Up
-##### Switch 1 Wizard Cantrip
-##### Switch 1 Wizard Spell
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch 1 Wizard Cantrip**
+- **Switch 1 Wizard Spell**
 
 # Wizard Spells
 ## Cantrips
