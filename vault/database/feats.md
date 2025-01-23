@@ -15,7 +15,7 @@ Your HP increase by 2 per level.
 ## Druid
 
 ### Wild Shape
-Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*
+Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. *(2 Charges, regenerate 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
  
 ## Fighter
@@ -25,7 +25,7 @@ On your turn, you can take one additional Action. *(Once per Short Rest)*
 ![\|50](https://bg3.wiki/w/images/4/4d/Action_Surge_Icon.webp)
 
 ### Second Wind
-Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 Charge after Short Rests and all after Long Rests)*
+Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regenerate 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/9/95/Second_Wind_Icon.webp)
 
 ### Tactical Mind
@@ -34,7 +34,7 @@ When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather 
 
 ## Paladin
 ### Lay on Hands
-Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *(5 * Level Charges)*
+Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Level] Charges per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
 
 ## Rogue

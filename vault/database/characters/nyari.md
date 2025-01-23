@@ -57,7 +57,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Lay on Hands *(5 * Level Charges)*](feats.md#lay-on-hands)
+  [Lay on Hands *([5 * Level] Charges per Long Rest)*](feats.md#lay-on-hands)
   [Smite of Summer *(One free use per Long Rest)*](./../spells.md#spells-s#smite-of-summer) 
 
 ### Reactions
