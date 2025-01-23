@@ -1402,7 +1402,7 @@ STR | DEX | CON | INT | WIS | CHA
    Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
    - **Temporary Statblock**. {@note This statblock is a placeholder.}
    - **Innate Spellcasting**. The hag's innate spellcasting ability is CHAa (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
-     - *At will:* [detect magic](spells.md#detect-magic), [magic missile](spells.md#magic-missile)
+     - *At will:* [Detect Magic (Ritual)](spells.md#detect-magic), [magic missile](spells.md#magic-missile)
      - *2/day each:* [plane shift](spells.md#plane-shift) (self only), [ray of enfeeblement](spells.md#ray-of-enfeeblement), [sleep](spells.md#sleep)
 - **Actions**: 
    - **Claws (Hag Form Only)**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
