@@ -67,6 +67,11 @@
 [Worg (1/2)](dm/monsters.md#worg)
 
 
+TODO: Hobgoblins for a more soldier-like vibe
+
+# Unsorted and need to add to monster info
+
+
 
 
 # Encounter Difficulty Template

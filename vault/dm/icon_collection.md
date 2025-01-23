@@ -4,6 +4,7 @@
 
 ![\|50](https://bg3.wiki/w/images/7/73/Dark_One%27s_Blessing_Icon.webp)
 
+![\|50](https://bg3.wiki/w/images/c/c9/Pact_of_the_Blade_passive_feature_Icon.webp)
 
 ![\|50](https://bg3.wiki/w/images/f/f4/Expert_Divination_Icon.webp)
 
