@@ -97,7 +97,7 @@ function parseMd(input)
     lines[i] = lines[i].replace(/\*((?:[^\s].*?[^\s])|[^\s])\*/g, "<i>$1</i>");
 
     //links    
-    lines[i] = lines[i].replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
+    lines[i] = lines[i].replace(/\[((?!]\().*?)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
 
     //paragraph
     let indent = 0;
