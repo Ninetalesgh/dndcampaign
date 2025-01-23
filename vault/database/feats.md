@@ -59,7 +59,7 @@ You have Advantage on CON Saves that you make to maintain [Concentration](condit
 As a Bonus Action, you can either conjure any Melee Weapon of your choice as pact weapon in your hand or create a bond with a Melee Weapon you touch. Until the bond ends, you have proficiency with that weapon.
 Whenever you attack with the bonded weapon, you can **use your CHA for the Attack and Damage rolls instead of your STR**; and you can cause the weapon to deal **Necrotic**, **Psychic**, or **Radiant** damage or its normal damage type.
 Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends. You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. 
-![\|50](https://bg3.wiki/w/images/c/c9/Pact_of_the_Blade_passive_feature_Icon.webp)
+![\|50](https://bg3.wiki/w/images/2/24/Weapon_Bond_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Pact of the Chain
