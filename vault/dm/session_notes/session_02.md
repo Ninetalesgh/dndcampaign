@@ -7,6 +7,8 @@
 [TODO] 
 A Goblin and a wounded worg on the road.
 
+- If they chase further, after 2 hours they catch up and spot a raiding party of ~15 Goblins, with their leader **Grishka** at the helm.
+
 ## The Academy
 upper north east - cartography & exploration
 Along the elevator: 
@@ -117,3 +119,8 @@ In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
 
 # Secrets
+
+
+# Unsorted
+
+Nettle Blights attack Delia on the high road
