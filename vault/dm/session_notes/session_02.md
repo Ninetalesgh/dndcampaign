@@ -12,10 +12,14 @@ Council with Dain, Merchants, and Academy members want a report from players. (t
 
 Nettle Blights attack Delia on the high road.
 
+Trepidation (feeling of fear or anxiety about something that may happen.)
+
 Parties involved in grasping power in the city: 
 - Academy and Merchants (want to keep the decisionmaking in their hands)
 - Dain and the Guard (Wants to gentrify the Stockpile)
 - Thieves' Guild (Wants independent trade flow from Dain)
+
+
 
 # Scenes
 ## The Trail
@@ -25,7 +29,7 @@ SURVIVAL -> The whincing of the Worg might well attract predators.
 
 Goblin is cooperative and from good faction or uncooperative and from bad faction depending on CHA rolls.
 
-Captured goblin being dragged back to town? 
+Captured goblin being dragged back to town? it becomes night and **dangerous**
 
 - If they chase further, after 2 hours they catch up and spot a raiding party of ~15 Goblins, with their leader **Grishka** at the helm.
 

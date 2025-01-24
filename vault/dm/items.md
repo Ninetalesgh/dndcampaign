@@ -1402,7 +1402,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(adventuring gear, Common)*
 - **Weight**: 1 kg
 - **Price**: 5 sp
-- **Properties**: Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See [Malnutrition](game_rules.md#food-and-water-needs) for the risks of not eating.
+- **Properties**: Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See [Malnutrition](game_rules.md#sleep-food-and-water-needs) for the risks of not eating.
 *(Source: PHB'24, page228)*
 
 ### Riding Horse
@@ -1813,7 +1813,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(adventuring gear, Common)*
 - **Weight**: 2.5 kg (full)
 - **Price**: 2 sp
-- **Properties**: A Waterskin holds up to 2 liters. If you don't drink sufficient water, you risk [Dehydration](game_rules.md#food-and-water-needs).
+- **Properties**: A Waterskin holds up to 2 liters. If you don't drink sufficient water, you risk [Dehydration](game_rules.md#sleep-food-and-water-needs).
 *(Source: PHB'24, page229)*
 
 ### Weaver's Tools
