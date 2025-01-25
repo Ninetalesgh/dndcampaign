@@ -6,6 +6,8 @@
 
 person dying, 30 seconds timer, 1 scroll of revivify, patron takes soul if they die.
 
+Alenna gets reprimanded by Dain for not having enough power for purifications the previous day. (she healed Nyari and one person that fell in the elevator shaft)
+
 Evil priest begins to cast spell on child, Alenna steps in, alenna gets hit.
 
 Council with Dain, Merchants, and Academy members want a report from players. (topic of putting evil priest in position of waukeen's chapel comes up as tangent?) 

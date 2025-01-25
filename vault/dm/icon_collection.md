@@ -197,7 +197,7 @@
 
 
 
-
+![\|50](https://bg3.wiki/w/images/5/5b/Acid_Breath_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/0/0b/Lightning_Breath_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/4/43/Fire_Breath_Line_Icon.webp)
 ![\|50](https://bg3.wiki/w/images/f/fd/Generic_Fire_Icon.webp)
