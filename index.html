@@ -56,6 +56,7 @@
           const currentHeight = parseFloat(computedStyle.getPropertyValue('height'));
           const pages = document.querySelector('.page-selection');
           const dndIndex = document.querySelector('.dndindex');
+          //TODO this is getting computed ALL for each navigation div now, instead of separately for each
           pages.style.maxHeight = `${currentHeight}px`;
           dndIndex.style.maxHeight = `${currentHeight}px`;
           var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
@@ -63,7 +64,7 @@
 
         navigation.style.width = `${wrapperRect.width}px`;
 
-        if (window.scrollY > 0 && hasSpaceNextToContent ) 
+        if (window.scrollY > 0 && hasSpaceNextToContent) 
         {
           navigation.style.position = 'fixed';
           navigation.style.top = 0;
