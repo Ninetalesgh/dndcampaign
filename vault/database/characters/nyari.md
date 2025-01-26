@@ -79,8 +79,7 @@
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-Regain *(d10 + CON)* HP per expended dice.
-
+  Regain *(d10 + CON)* HP per expended dice.
 ### After Long Rest
 - **Regain all HP & HP Dice**
 - **Regain all Spell Slots**
@@ -89,12 +88,11 @@ Regain *(d10 + CON)* HP per expended dice.
 - **Regain Paladin's Smite Charge**
 - **Switch 1 Prepared Spell**
 - **Switch 1 Weapon Mastery**
-
 ### After Level-Up
 - **Recalculate HP**
 - **Add 1 HP Die**
 - **Recalculate Lay on Hands Charges**
-Your LoH Charges equal to 5 * your Paladin Level. 
+  Your LoH Charges equal to 5 * your Paladin Level. 
 - **Check Class Level-Up**
 
 # Paladin Spell Reference
