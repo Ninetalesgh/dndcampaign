@@ -122,7 +122,7 @@ The Collapse ~ 935 DR when the day was shortest#### 2 months after Halric's deat
   Count Faelan passes away and reign of New Arvandal passes on to his son Dain,
   Displeased with the workings of the merchants and the tollkeeper Walt Ashbrook, 
   Dain decides to take charge himself and relieves the tollkeeper of his duties.  
-  Since Walt Ashbrook was also the caretake of Waukeen's Chapel, 
+  Since Walt Ashbrook was also the caretaker of Waukeen's Chapel, 
     it is now no longer frequented apart from superficial cleaning of the main room and balcony by The Priestess.
   While Faelan respected the deities and cared about traditions and rites such as honoring the tragedy of The House Vinea, 
     Dain actively neglects such "irrelevancies" and instead focuses on more populist festivities such as fighting events.   
