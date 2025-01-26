@@ -95,7 +95,7 @@
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-Regain *(d8 + CON)* HP per expended die.
+  Regain *(d8 + CON)* HP per expended die.
 - **Regain all Spell Slots**
 
 ### After Long Rest

@@ -73,7 +73,7 @@
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-Regain *(d10 + CON)* HP per expended die.
+  Regain *(d10 + CON)* HP per expended die.
 - **Regain 1 Second Wind Charge**
 - **Regain Action Surge Charge**
 

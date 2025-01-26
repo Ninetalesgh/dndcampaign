@@ -91,14 +91,14 @@
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-Regain *(d8 + CON)* HP per expended dice.
+  Regain *(d8 + CON)* HP per expended dice.
 - **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
 - **Regain all HP & HP Dice**
 - **Regain all Spell Slots**
 - **Prepare Druid Spells**
-- **Regain All Wild Shape Charges **
+- **Regain All Wild Shape Charges**
 - **Switch 1 Wild Shape form**
 - **Switch Wizard Cantrip**
 
