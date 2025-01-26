@@ -84,8 +84,10 @@
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
 
-- **Eldritch Invocations**: [TODO] choose 3!
-
+- **Eldritch Invocations**:
+  [Eldritch Mind](feats.md#eldritch-mind)
+  [Agonizing Blast](feats.md#agonizing-blast)
+  [Mask of Many Faces](feats.md#mask-of-many-faces)
 
 - [Tough](feats.md#tough) *(Already included above)*
 - **Light Bearer.** You know the Light cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
