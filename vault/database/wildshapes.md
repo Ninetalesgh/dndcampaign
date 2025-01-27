@@ -55,7 +55,7 @@ STR | DEX | CON
   - **Sting**. *Melee Weapon Attack*: +3 to hit, reach 1 *(1.5m)*, one creature. 
    *Hit*: 1d6 + 1 Piercing damage, and the target must make a DC 11 CON Save, taking 2d6 Poison damage on a failed save, or half as much damage on a successful one.
 
-### Blindsight 
+### Blindsight
 *Small*
 - **Initiative**: +2
 - **Speed**: 6 *(9m)*, Climb 6 *(9m)*
