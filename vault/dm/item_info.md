@@ -31,6 +31,17 @@ You can throw anywhere within range 4 + STR of yourself. All creatures within th
 ## Tools
 Each type of tools requires a separate proficiency. If you have proficiency with a tool, add your PB to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have **Advantage** on the check too.
 
+## Attunement
+Some magic items require a creature to form a bond with them before their magical properties can be used. This bond is called **attunement**, and certain items have a prerequisite for it. If the prerequisite is a class, a creature must be a member of that class to attune to the item.
+
+Without becoming attuned to an item that requires attunement, a creature gains only its nonmagical benefits, unless its description states otherwise. For example, a magic shield that requires attunement provides the benefits of a normal shield to a creature not attuned to it, but none of its magical properties.
+
+Attuning to an item requires a creature to spend a Short Rest focused on only that item while being in physical contact with it (this **can't** be the same Short Rest used to learn the item's properties). This focus can take the form of weapon practice (for a weapon), meditation (for a wondrous item), or some other appropriate activity. If the Short Rest is interrupted, the attunement attempt fails. Otherwise, at the end of the Short Rest, the creature gains an intuitive understanding of how to activate any magical properties of the item, including any necessary command words.
+
+An item can be attuned to only one creature at a time, and a creature can be attuned to no more than **three** magic items at a time. Additionally, a creature can't attune to more than one copy of an item. For example, a creature can't attune to more than one ring of protection at a time.
+
+A creature's attunement to an item ends if the creature no longer satisfies the prerequisites for attunement, if the item has been more than 30 meters away for at least 24 hours, if the creature dies, or if another creature attunes to the item. A creature can also voluntarily end attunement by spending another Short Rest focused on the item, unless the item is cursed.
+
 ## Weapon Mastery
 ### Cleave
 On Hit: Allows you to roll a second Attack against another creature within range 1 of the first target also within your reach, but without damage modifier.
@@ -55,7 +66,6 @@ Allows you to Opportunity Attack as a Reaction when a creature enters your reach
 Allows you to move an extra specified distance for free when using the Attack Action.
 
 ## Weapon Properties
-
 ### Weapon +1
 This weapon grants you +1 to both Attack and Damage Rolls. 
 ### Weapon +2

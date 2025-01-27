@@ -29,15 +29,21 @@
 # Available Loot
 
 ## Common
-
-### Clockwork Amulet
-*(Wondrous item, Common)*
+[Clockwork Amulet](dm/items.md#clockwork-amulet)
+[Horn of Silent Alarm](dm/items.md#horn-of-silent-alarm)
 
 
 ## Uncommon
+[The Rattlestick](dm/items.md#the-rattlestick)
+[Inventor's Goggles](dm/items.md#inventors-goggles)
+[Goggles of Night](dm/items.md#goggles-of-night)
 [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 [Feylight Exposé](dm/items.md#feylight-exposé)
 
+## Rare
+[Thalioel's Tear](dm/items.md#thalioels-tear)
+[Ring of Arcane Defense](dm/items.md#ring-of-arcane-defense)
+[Ruby's Grasp](dm/items.md#rubys-grasp)
 
 ## Rare
 ## Very Rare
