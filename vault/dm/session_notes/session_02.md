@@ -1,5 +1,13 @@
 
 
+# Current Player Interests
+
+- **Lilly's Funeral.** For later, to introduce Waukeen's Chapel's new caretaker. Maybe controversy with Mizora wanting her soul and also The Night Hag that cursed Lilly or Merrick?
+
+- **Investigate the Root.** To introduce Maris Tindle and The Laboratory.
+
+- **Enter The Stockpile.** To introduce The Stockpile Business.
+
 # Strong Introduction
 
 # Unsorted
@@ -18,8 +26,8 @@ Trepidation (feeling of fear or anxiety about something that may happen.)
 
 Parties involved in grasping power in the city: 
 - Academy and Merchants (want to keep the decisionmaking in their hands)
-- Dain and the Guard (Wants to gentrify the Stockpile)
-- Thieves' Guild (Wants independent trade flow from Dain)
+- Dain and the Guard (Wants to gentrify the Stockpile to stabilize their finances against the merchants' influence)
+- Thieves' Guild (Wants independent trade flow from Dain, independence from the merchants)
 
 
 
