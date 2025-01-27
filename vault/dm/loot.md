@@ -28,6 +28,23 @@
 
 # Available Loot
 
+## Common
+
+### Clockwork Amulet
+*(Wondrous item, Common)*
+
+
+## Uncommon
+[Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+[Feylight Exposé](dm/items.md#feylight-exposé)
+
+
+## Rare
+## Very Rare
+## Legendary
+## Artifact
+
+# Other
 ## Ingredients
 [Bonecap](dm/items.md#bonecap)
 [Fire Amber](dm/items.md#fire-amber)
@@ -101,22 +118,6 @@
   3 Jacinth (*A transparent fiery orange gemstone.*)
   4 Ruby (*A transparent clear red to deep crimson gemstone.*)
 
-## Common
-
-### Clockwork Amulet
-*(Wondrous item, Common)*
-
-### Censer of the Cremated
-*(Flail, Martial Melee Weapon, Uncommon)*
-- **Reach**: 1
-- **Damage**: 1d8 + STR Bludgeoning damage.
-- **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Everyone able to hear you within range 6 *(9m)* must succeed a DC 15 WIS Save or become [Stunned](conditions.md#stunned) until the end of their next turn. *(1 Charge. To recharge fill the urn with ashes of a recently cremated humanoid whose soul left no longer than 24 hours ago.)*
-- **Mastery**: [Sap](dm/item_info.md#sap).
-- **Price**: ??
-- **Weight**: 1 kg
-![Image|250](https://i.imgur.com/kWnCoEX_d.png?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: PHB'24, page 215)*
 
 
 # Other Unlisted 
