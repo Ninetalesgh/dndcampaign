@@ -38,12 +38,14 @@
 [Inventor's Goggles](dm/items.md#inventors-goggles)
 [Goggles of Night](dm/items.md#goggles-of-night)
 [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+[Circlet of Vitality's Focus](dm/items.md#circlet-of-vitalitys-focus)
 [Feylight Exposé](dm/items.md#feylight-exposé)
 
 ## Rare
 [Thalioel's Tear](dm/items.md#thalioels-tear)
 [Ring of Arcane Defense](dm/items.md#ring-of-arcane-defense)
 [Ruby's Grasp](dm/items.md#rubys-grasp)
+[Shatterglass Ward](dm/items.md#shatterglass-ward)
 
 ## Rare
 ## Very Rare

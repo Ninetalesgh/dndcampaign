@@ -386,6 +386,15 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 5 gp
 *(Source: PHB'24, page225)*
 
+### Circlet of Vitality's Focus
+*(Wondrous Item, Uncommon)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  While you are at full Health you gain, Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and reduce the Critical Hit threshold of your Spell Attacks by 1.  
+- **Weight**: 150 g
+- **Price**: 1800 gp
+![Image|250](https://i.imgur.com/6qI8XuC_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
+
 ### Climber's Kit
 *(adventuring gear, Common)*
 - **Properties**: A Climber's Kit includes boot tips, gloves, pitons, and a harness. As a Utilize Action, you can use the Climber's Kit to anchor yourself; when you do, you can't fall more than 5 *(7.5m)* from the anchor point, and you can't move more than 5 *(7.5m)* from there without undoing the anchor as a Bonus Action.
@@ -1589,6 +1598,17 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Price**: 25 gp
 ![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
 *(Source: PHB'24, page 215)*
+
+### Shatterglass Ward
+*(Shield, Rare)*
+- **Don and Doff Time**: 1 Action / 1 Action
+- **AC**: +3
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: After an attack misses you, Regenerate a Level 1 or Level 2 Spell Slot *(Twice per Long Rest)*
+- **Weight**: 2 kg
+- **Price**: 2500 gp
+![Image|250](https://i.imgur.com/GxwgoOx_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
 
 ### Shawm
 *(instrument, Common)*
