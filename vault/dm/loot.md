@@ -1,4 +1,33 @@
-# Player Rewards
+# Tracker
+
+## Tier 1 (Levels 1-4)
+0/6 C
+0/4 UC
+0/1 R
+
+## Tier 2 (Levels 5-10)
+0/10 C
+0/17 UC
+0/6 R
+0/1 VR
+
+## Tier 3 (Levels 11-16)
+0/3 C
+0/7 UC
+0/11 R
+0/7 VR
+0/2 L
+
+## Tier 4 (Levels 17-20)
+0/4 R
+0/11 VR
+0/9 L
+
+# Aquired
+
+
+# Available Loot
+
 ## Ingredients
 [Bonecap](dm/items.md#bonecap)
 [Fire Amber](dm/items.md#fire-amber)
@@ -10,9 +39,6 @@
 [Alchemist's Fire](dm/items.md#alchemist's-fire)
 [Potion of Healing](dm/items.md#potion-of-healing)
 [Antidote](dm/items.md#Antidote)
-
-
-
 
 ## Valuables
 ### Gems
@@ -74,6 +100,23 @@
   2 Diamond (*A transparent blue-white, canary, pink, brown, or blue gemstone.*)
   3 Jacinth (*A transparent fiery orange gemstone.*)
   4 Ruby (*A transparent clear red to deep crimson gemstone.*)
+
+## Common
+
+### Clockwork Amulet
+*(Wondrous item, Common)*
+
+### Censer of the Cremated
+*(Flail, Martial Melee Weapon, Uncommon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Everyone able to hear you within range 6 *(9m)* must succeed a DC 15 WIS Save or become [Stunned](conditions.md#stunned) until the end of their next turn. *(1 Charge. To recharge fill the urn with ashes of a recently cremated humanoid whose soul left no longer than 24 hours ago.)*
+- **Mastery**: [Sap](dm/item_info.md#sap).
+- **Price**: ??
+- **Weight**: 1 kg
+![Image|250](https://i.imgur.com/kWnCoEX_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: PHB'24, page 215)*
 
 
 # Other Unlisted 

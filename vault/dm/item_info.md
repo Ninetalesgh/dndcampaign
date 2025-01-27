@@ -55,6 +55,14 @@ Allows you to Opportunity Attack as a Reaction when a creature enters your reach
 Allows you to move an extra specified distance for free when using the Attack Action.
 
 ## Weapon Properties
+
+### Weapon +1
+This weapon grants you +1 to both Attack and Damage Rolls. 
+### Weapon +2
+This weapon grants you +2 to both Attack and Damage Rolls. 
+### Weapon +3
+This weapon grants you +3 to both Attack and Damage Rolls. 
+
 ### Ammunition
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see “Improvised Weapons” later in the section). A sling must be loaded to deal any damage when used in this way.
