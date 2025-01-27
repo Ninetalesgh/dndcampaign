@@ -23,7 +23,7 @@
 0/11 VR
 0/9 L
 
-# Aquired
+# Aquired Loot
 
 
 # Available Loot

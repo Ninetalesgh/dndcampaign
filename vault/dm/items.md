@@ -389,7 +389,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Circlet of Vitality's Focus
 *(Wondrous Item, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  While you are at full Health you gain, Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and reduce the Critical Hit threshold of your Spell Attacks by 1.  
+  While you are at full Health you gain Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit threshold for your Spell Attacks is reduced by 1.  
 - **Weight**: 150 g
 - **Price**: 1800 gp
 ![Image|250](https://i.imgur.com/6qI8XuC_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1982,7 +1982,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ### Ring of Arcane Defense
 *(Wondrous Item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: Cast [Shield](spells.md#spells-s#shield), Additionally you gain Advantage on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds.
+  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: Cast [Shield](spells.md#spells-s#shield), Additionally you gain Advantage on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds. *(Once per Long Rest)*
 - **Weight**: 5 g
 - **Price**: 2000 gp
 ![Image|250](https://i.imgur.com/qlqMFaS_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -2347,7 +2347,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d8 + STR Bludgeoning damage.
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Everyone able to hear you within range 6 *(9m)* must succeed a DC 15 WIS Save or become [Stunned](conditions.md#stunned) until the end of their next turn. *(1 Charge. To recharge fill the urn with ashes of a recently cremated humanoid whose soul left no longer than 24 hours ago.)*
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Each creature within range 6 *(9m)* of you that can hear you must succeed a DC 15 WIS Save or become [Stunned](conditions.md#stunned) until the end of their next turn. *(1 Charge. To recharge fill the urn with ashes of a recently cremated humanoid whose soul left no longer than 24 hours ago.)*
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: ??
@@ -2732,7 +2732,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Goggles of Night
 *(Wondrous Item, Uncommon)*
-- **Properties**: You gain [Darkvision 10 *(15m)*](game_rules.md#advanced-rules#darkvision), if you already have Darkvision, increase its range by 10 *(15m)*.
+- **Properties**: You gain [Darkvision 10 *(15m)*](game_rules.md#advanced-rules#darkvision), if you already have Darkvision, increase the range by 10 *(15m)*.
 ![Image|250](https://i.imgur.com/gr1VMaI_d.png?maxwidth=520&shape=thumb&fidelity=high)
 - **Weight**: 250 g
 - **Price**: 1500 gp
