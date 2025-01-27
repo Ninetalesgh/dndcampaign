@@ -27,3 +27,9 @@ Vehicles:
 [Rowboat](dm/items.md#rowboat)
 [Sailing Ship](dm/items.md#sailing-ship)
 [Warship](dm/items.md#warship)
+
+
+
+# Magical Items for the players
+
+## Common
