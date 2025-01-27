@@ -1,12 +1,3 @@
-
-### Feylight Exposé
-*(Wondrous Item, Uncommon)*
-- **Weight**: 200 g
-- **Price**: 1000 gp
-- **Properties**: While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain Advantage on Attack Rolls and WIS (Insight) Checks against it.
-![Image|250](https://i.imgur.com/ZpjO4RN_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: Custom)*
-
 ## Items A
 ### Acid Vial
 *(grenade, Common)*
@@ -592,6 +583,14 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 5 cp
 - **Properties**: 
 *(Source: PHB'24, page230)*
+
+### Feylight Exposé
+*(Wondrous Item, Uncommon)*
+- **Weight**: 200 g
+- **Price**: 1000 gp
+- **Properties**: While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain Advantage on Attack Rolls and WIS (Insight) Checks against it.
+![Image|250](https://i.imgur.com/ZpjO4RN_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
 
 ### Fine Clothes
 *(adventuring gear, Common)*
