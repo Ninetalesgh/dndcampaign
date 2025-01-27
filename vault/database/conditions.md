@@ -73,7 +73,7 @@ It is in [Darkness](game_rules.md#darkness) unless otherwise illuminated.
 It is [Restrained](conditions.md#restrained) if the host is less than three [Sizes](game_rules.md#advanced-rules#creature-sizes) larger than it is.
 If an escape DC is noted, a creature may free itself or another creature inside a host within range 1 *(1.5m)* as an Action with a successful STR (Athletics) or DEX (Acrobatics) check.
 Teleporting out of the host ends the condition.
-The host ignores its [Resistances](game_rules.md#damage-types#resistance) and [Immunities](game_rules.md#damage-types#vulnerability) against sources inside of it.
+The host ignores its [Resistances](game_rules.md#damage-types#resistance) and [Immunities](game_rules.md#damage-types#immunity) against sources inside of it.
 The host fails all DEX Saves and has Disadvantage on CON Saves against sources inside of it.
 As a Reaction to being dealt damage by a swallowed creature the host may regurgitate each swallowed creature.
 ## Unconscious
