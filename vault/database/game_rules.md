@@ -36,7 +36,7 @@ Acrobatics
     - *Play a stringed instrument.*
     - *Craft a small or detailed object.*
   - *Armor Class.* Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
-  - *Initiative.* At the beginning of every combat, you roll initiative by making a Dexterity check. Initiative determines the order of creatures' turns in combat.
+  - *Initiative.* At the beginning of every combat, you roll initiative by making a DEX check. Initiative determines the order of creatures' turns in combat.
   - **Dexterity Attack Rolls and Damage.** You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow. You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
 - **Costitution (CON).** Health and stamina; Push your body beyond normal limits; Endure a toxic hazard.
@@ -90,12 +90,12 @@ Acrobatics
 >[!INFO] Whenever Abilities are mentioned in game we refer to the Modifier, not the score itself! The Modifier is always *(AbilityScore-10)/2* rounded down. For example, an Ability Score of 8 or 9 would result in -1, whereas an Ability Score of 14 or 15 would result in +2.
 
 - **Proficiency Bonus (PB)** -> +2 on all tests you are proficient in, this will increase after level 4. This bonus does not stack, multiple proficiencies in the same skill don't give you +4, etc.  
-- **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw 
+- **Three Types of d20 Tests** -> Attack Roll, Ability Check, Saving Throw
   - ***Attack Roll*** -> STR for melee, DEX for ranged, Varies for Spell Attack. Add your Proficiency Bonus if it's with a weapon you're proficient with or always add it if it's a Spell Attack. When you roll equal to or higher than your target's AC, you hit and roll the damage you do!
   - ***Ability Check*** -> Either roll on an Ability directly or on a Skill (Athletics, Acrobatics, etc.). Add your Proficiency Bonus to Ability Checks you are proficient in. 
     - ***Tools*** -> Proficiency stacks with Skills when Tools are used, if you have Proficiency in both the Skill and the Tool for an associated check you roll with Advantage.
   - ***Saving Throw*** -> Add your Proficiency Bonus if you're proficient in the Saving Throw of the Ability in question. I'll shorthand this to "Saves" in most places.
-- **Advantage & Disadvantage** -> Roll twice on d20 tests, with Advantage you take the higher roll of the two, with Disadvantage you take the lower. Advantage and Disadvantage cancel each other out and never stack (for example, 3 sources of Advantage and 1 source of Disadvantage result in a normal roll).
+- **Advantage & Disadvantage** -> Roll twice on d20 Tests, with Advantage you take the higher roll of the two, with Disadvantage you take the lower. Advantage and Disadvantage cancel each other out and never stack (for example, 3 sources of Advantage and 1 source of Disadvantage result in a normal roll).
 - **Difficulty Class (DC)** -> Very easy 5, easy 10, medium 15, hard 20, Very hard 25, nearly impossible 30 
 - **Armor Class (AC)** -> Your Base AC + DEX. You can only have one Base AC, by default that is 10.
 - **Health Points (HP)** -> Your Health, when it drops to 0 you are on the brink of death! You can never have more HP than your HP maximum.

@@ -249,7 +249,7 @@ You can take the [Hide](game_rules.md#turn-based-play#hide) Action even when you
 ![\|50](https://bg3.wiki/w/images/2/2a/Naturally_Stealthy_Icon.webp)
 
 ## Halfling Luck
-Whenever you roll a 1 on a d20 test you can reroll that d20 once.
+Whenever you roll a 1 on a d20 Test you can reroll that d20 once.
 ![\|50](https://bg3.wiki/w/images/6/68/Halfling_Luck_Icon.webp)
 
 
