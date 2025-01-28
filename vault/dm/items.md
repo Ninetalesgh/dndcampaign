@@ -227,7 +227,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: -
 - **Weight**: 10 kg
 - **Price**: 400 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/36/47/25/364725a378fa5f50988c4ee152a4bd09.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Brewer's Supplies
@@ -355,7 +355,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
   - If the wearer has a Strength score lower than 13, their speed is reduced by 2 *(3m)*.
 - **Weight**: 28 kg
 - **Price**: 75 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/ae/a4/98/aea49804925aae16b0d15c01d3a5db18.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Chain Shirt
@@ -365,7 +365,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: -
 - **Weight**: 10 kg
 - **Price**: 50 gp
-![Image|250](https://i.pinimg.com/736x/ae/a4/98/aea49804925aae16b0d15c01d3a5db18.jpg)
+![Image|250]()
 *(Source: PHB'24, page 219)*
 
 ### Chariot
@@ -734,7 +734,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Goggles of Night
 *(Wondrous Item, Uncommon)*
-- **Properties**: You gain [Darkvision 10 *(15m)*](game_rules.md#advanced-rules#darkvision), if you already have Darkvision, increase its range by 10 *(15m)*.
+- **Properties**: You gain [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), if you already have Darkvision, increase its range by 12 *(18m)*.
 ![Image|250](https://i.imgur.com/gr1VMaI_d.png?maxwidth=520&shape=thumb&fidelity=high)
 - **Weight**: 250 g
 - **Price**: 1500 gp
@@ -1742,7 +1742,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
   - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
 - **Weight**: 30 kg
 - **Price**: 200 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/a5/6c/13/a56c137308cb1c9c41b53f9fe3892628.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Spyglass
