@@ -862,7 +862,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: -
 - **Weight**: 6 kg
 - **Price**: 10 gp
-![Image|250](https://i.imgur.com/FqedhjN_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/d3/d2/64/d3d264e5b8baa88534f9578a3c99bed4.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Holy Water
@@ -1021,7 +1021,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: -
 - **Weight**: 5 kg
 - **Price**: 10 gp
-![Image|250](https://i.imgur.com/7VwqvAo_d.png?maxwidth=520&shape=thumb&fidelity=high) [TODO]
+![Image|250](https://i.pinimg.com/736x/b5/96/f0/b596f00e579a7b2c16e819d7843b5e0d.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Leatherworker's Tools
@@ -1587,7 +1587,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Properties**: Disadvantage on Dexterity (Stealth) checks.
 - **Weight**: 23 kg
 - **Price**: 50 gp
-![Image|250](https://i.imgur.com/NkaHRbE_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/43/5c/f8/435cf82b506d9e354f00f48d7c4096fe.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Scholar's Pack
@@ -1635,7 +1635,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Properties**: -
 - **Weight**: 3 kg
 - **Price**: 10 gp
-![Image|250](https://i.imgur.com/SLSb5Hz_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/7e/cb/26/7ecb26cc57bd5fc8ba475692c02ff674.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Shortbow
