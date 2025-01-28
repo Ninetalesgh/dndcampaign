@@ -68,7 +68,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Wild Shape *(2 Charges, regenerate 1 after Short-, all after Long Rests)*](feats.md#wild-shape)
+  [Wild Shape *(2 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#wild-shape)
 
 
 ### Reactions
@@ -95,7 +95,7 @@
 - **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
-- **Regain all HP & HP Dice**
+- **Regain all HP & *[Level / 2]* HP Dice**
 - **Regain all Spell Slots**
 - **Prepare Druid Spells**
 - **Regain All Wild Shape Charges**

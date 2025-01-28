@@ -100,8 +100,8 @@ Acrobatics
 - **Armor Class (AC)** -> Your Base AC + DEX. You can only have one Base AC, by default that is 10.
 - **Health Points (HP)** -> Your Health, when it drops to 0 you are on the brink of death! You can never have more HP than your HP maximum.
 - **Long Rest (LR)** -> 8 Hours of rest (of which ~6 are sleep) to regain all your HP and Spell Slots and everything else that regenerates or refreshes after Long Rests.
-- **Hit Dice** -> Type of dice that represents how tough you are depending on your class. You have an amount of Hit Dice equal to your Level. You regenerate all your Hit Dice after a Long Rest. 
-- **Short Rest (SR)** -> 1 Hour of rest. Spend and roll as many Hit Dice as you want to regenerate HP. Some resources regenerate after Short Rests.
+- **Hit Point Dice** -> Type of dice that represents how tough you are depending on your class. You have an amount of HP Dice equal to your Level. You regenerate *[Level / 2] (round up)* HP Dice after a Long Rest. 
+- **Short Rest (SR)** -> 1 Hour of rest. Spend and roll as many HP Dice as you want to regenerate HP, add your CON modifier to each die. Some resources regenerate after Short Rests.
 
 ## Turn Based Play
 While we're not playing Turn Based do what you want, ask the GM anything, role play ahead!
@@ -145,7 +145,7 @@ Gain additional Movement equal to your *modified* Speed for this turn. *For exam
 ![\|30](https://bg3.wiki/w/images/8/8e/Dash_bonus_action_Icon.webp)
 
 #### Disengage
-Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) and you gain 1 *(1.5m)* extra Movement for the rest of this turn.
+Your movement doesn't provoke [Opportunity Attacks](game_rules.md#opportunity-attack) and you gain 1 *(1.5m)* extra Movement for the rest of this turn. You can't use this if your Speed is 0.
 ![\|30](https://bg3.wiki/w/images/4/4b/Disengage_Bonus_Action_Icon.webp)
 
 #### Dodge
