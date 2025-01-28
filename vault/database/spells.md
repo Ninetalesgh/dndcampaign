@@ -1,6 +1,4 @@
-
-
-# Spells A
+## Spells A
 ### Abi-Dalzim's Horrid Wilting
 *Level 8 Necromancy*
 - **Casting Time**: Action
@@ -503,7 +501,7 @@ An affected creature repeats this Save at the end of each of its turns, ending t
 - **Classes**: Bard, Druid, Ranger
 *(Source: ConfluxCreatures)*
 
-# Spells B
+## Spells B
 ### Baleful Displacement
 *Level 7 Conjuration*
 - **Casting Time**: Reaction, which you take when you are targeted with a spell.
@@ -1148,7 +1146,7 @@ Each creature in the area is pushed to the nearest unoccupied space, then must m
 - **Classes**: Warlock
 *(Source: ConfluxCreatures)*
 
-# Spells C
+## Spells C
 ### Call Lightning
 *Level 3 Conjuration*
 - **Casting Time**: Action
@@ -2265,7 +2263,7 @@ As an action, you can see through the cursed creature's eyes and hear what it he
 - **Classes**: Bard
 *(Source: ConfluxCreatures)*
 
-# Spells D
+## Spells D
 ### Dancing Lights
 *Illusion Cantrip*
 - **Casting Time**: Action
@@ -2458,6 +2456,27 @@ If the spell is still in effect when the target is subjected to an effect that w
 ![\|50](https://bg3.wiki/w/images/8/84/Death_Ward_Icon.webp)
 *(Source: PHB'24, page 261)*
 
+### Death's Aid
+*Level 1 Necromancy*
+- **Casting Time**: Reaction, which you take when you fail a Save.
+- **Range**: 12 *(18m)*
+- **Components**: V, S
+- **Duration**: Instantaneous
+You sacrifice your undead thralls to bolster yourself with the burst of energy released, reducing any number of friendly undead creatures you can see within range to 0 Hit Points. You add 1d4 to the result of your Save for each undead creature killed in this way.
+- **Classes**: Sorcerer, Wizard
+*(Source: ConfluxCreatures)*
+
+### Death's Beckon
+*Level 2 Necromancy*
+- **Casting Time**: Action
+- **Range**: 12 *(18m)*
+- **Components**: S
+- **Duration**: Instantaneous
+You call a fragment of abyssal energy down to strike a creature within range, using its suffering to forge a momentary rift to the Corpsevaults. Make a ranged spell attack against the target. On a hit, the target takes 3d10 Necrotic damage.
+If this damage reduces a humanoid target to 0 Hit Points, a rift appears in the earth beneath it, disgorging a Horde Ghoul in the nearest unoccupied space that acts on your initiative and is hostile to all living creatures.
+- **Classes**: Warlock, Wizard
+*(Source: ConfluxCreatures)*
+
 ### Death-Fume Globe
 *Level 7 Conjuration*
 - **Casting Time**: Action
@@ -2478,27 +2497,6 @@ If the spell is still in effect when the target is subjected to an effect that w
 - **Duration**: Instantaneous
 You harvest the life from your thralls to heal yourself, reducing each friendly undead creature of your choice that you can see within range to 0 Hit Points and regaining Hit Points equal to the total Hit Points lost in this way.
 - **Classes**: Cleric, Druid, Paladin
-*(Source: ConfluxCreatures)*
-
-### Death's Aid
-*Level 1 Necromancy*
-- **Casting Time**: Reaction, which you take when you fail a Save.
-- **Range**: 12 *(18m)*
-- **Components**: V, S
-- **Duration**: Instantaneous
-You sacrifice your undead thralls to bolster yourself with the burst of energy released, reducing any number of friendly undead creatures you can see within range to 0 Hit Points. You add 1d4 to the result of your Save for each undead creature killed in this way.
-- **Classes**: Sorcerer, Wizard
-*(Source: ConfluxCreatures)*
-
-### Death's Beckon
-*Level 2 Necromancy*
-- **Casting Time**: Action
-- **Range**: 12 *(18m)*
-- **Components**: S
-- **Duration**: Instantaneous
-You call a fragment of abyssal energy down to strike a creature within range, using its suffering to forge a momentary rift to the Corpsevaults. Make a ranged spell attack against the target. On a hit, the target takes 3d10 Necrotic damage.
-If this damage reduces a humanoid target to 0 Hit Points, a rift appears in the earth beneath it, disgorging a Horde Ghoul in the nearest unoccupied space that acts on your initiative and is hostile to all living creatures.
-- **Classes**: Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
 ### Deceptive Demise
@@ -3155,7 +3153,7 @@ This spell's damage increases by 2d10 when you reach 5th level (4d10), 11th leve
 - **Classes**: Druid, Sorcerer
 *(Source: ConfluxCreatures)*
 
-# Spells E
+## Spells E
 ### Earth Tremor
 *Level 1 Evocation*
 - **Casting Time**: Action
@@ -3619,7 +3617,7 @@ On each of your turns until the spell ends, you can take a Magic action to targe
 ![\|50](https://bg3.wiki/w/images/f/f7/Eyebite_Panicked_Icon.webp)
 *(Source: PHB'24, page 270)*
 
-# Spells F
+## Spells F
 ### Fabricate
 *Level 4 Transmutation*
 - **Casting Time**: 10 Min.
@@ -4309,7 +4307,7 @@ Frostbite. When a creature contracts frostbite, it loses the use of one of its l
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
-# Spells G
+## Spells G
 ### Gallseal
 *Level 3 Conjuration*
 - **Casting Time**: Bonus Action
@@ -4906,7 +4904,7 @@ If this spell targeted an area of water, a creature that fails this Save additio
 - **Classes**: Druid, Ranger
 *(Source: ConfluxCreatures)*
 
-# Spells H
+## Spells H
 ### Hail of Thorns
 *Level 1 Conjuration*
 - **Casting Time**: Bonus Action
@@ -5317,7 +5315,7 @@ The spell ends for an affected creature if it takes any damage or if someone els
 ![\|50](https://bg3.wiki/w/images/2/28/Hypnotic_Pattern_Icon.webp)
 *(Source: PHB'24, page 287)*
 
-# Spells I
+## Spells I
 ### Ice Knife
 *Level 1 Conjuration*
 - **Casting Time**: Action
@@ -5731,7 +5729,7 @@ You level a pitiless glare at a [Frightened](conditions.md#frightened) creature 
 - **Classes**: Bard, Cleric, Paladin
 *(Source: ConfluxCreatures)*
 
-# Spells J
+## Spells J
 ### Jallarzi's Storm of Radiance
 *Level 5 Evocation*
 - **Casting Time**: Action
@@ -5780,7 +5778,7 @@ You touch a willing creature. Once on each of its turns until the spell ends, th
 ![\|50](https://bg3.wiki/w/images/4/46/Enhance_Leap_Icon.webp)
 *(Source: PHB'24, page 290)*
 
-# Spells K
+## Spells K
 ### Kinetic Jaunt
 *Level 2 Transmutation*
 - **Casting Time**: Bonus Action
@@ -5831,7 +5829,7 @@ You reach out to the mind of a creature you can see within range and thrust the 
 - **Classes**: Bard, Cleric, Wizard
 *(Source: ConfluxCreatures)*
 
-# Spells L
+## Spells L
 ### Lacerating Rain
 *Level 5 Conjuration*
 - **Casting Time**: Action
@@ -6149,7 +6147,7 @@ You touch a creature. The target's Speed increases by 2 *(3m)* until the spell e
 ![\|50](https://bg3.wiki/w/images/3/35/Longstrider_Icon.webp)
 *(Source: PHB'24, page 293)*
 
-# Spells M
+## Spells M
 ### Maddening Darkness
 *Level 8 Evocation*
 - **Casting Time**: Action
@@ -6595,6 +6593,19 @@ You drive a spike of psionic energy into the mind of one creature you can see wi
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: PHB'24, page 298)*
 
+### Mind's Guise
+*Level 5 Illusion (ritual)*
+- **Casting Time**: 1 Min. or Ritual
+- **Range**: 12 *(18m)*
+- **Components**: V, S
+- **Duration**: 8 hours
+Requires proficiency in Thieves' Cant.
+You imagine a persona to occupy the outer reaches of your mind, warding against telepathic intrusion. For the duration, you can't be compelled to speak truthfully or be prevented from lying, and a creature that attempts to read your mind must succeed on an INT Save or perceive it as though it were the mind of your imagined persona.
+A creature making multiple attempts to read your mind encounters the same result; it can't repeat this Save until you cast the spell again.
+This spell does not allow you to detect when creatures are attempting to read your mind.
+- **Classes**: Bard, Sorcerer, Warlock, Wizard
+*(Source: ConfluxCreatures)*
+
 ### Mindkiller Proble
 *Level 4 Illusion*
 - **Casting Time**: Action
@@ -6617,19 +6628,6 @@ The [Frightened](conditions.md#frightened) creature repeats this Save at the end
 You send a pulse of terrible mental static that briefly overwhelms the faculties of nearby creatures. Each creature of your choice within 3 *(4.5m)* of you must succeed on a WIS Save or be [Paralyzed](conditions.md#paralyzed) until the end of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 8 or higher, the radius increases by 3 *(4.5m)* for each slot level above 7.
 - **Classes**: Bard, Cleric, Sorcerer, Warlock, Wizard
-*(Source: ConfluxCreatures)*
-
-### Mind's Guise
-*Level 5 Illusion (ritual)*
-- **Casting Time**: 1 Min. or Ritual
-- **Range**: 12 *(18m)*
-- **Components**: V, S
-- **Duration**: 8 hours
-Requires proficiency in Thieves' Cant.
-You imagine a persona to occupy the outer reaches of your mind, warding against telepathic intrusion. For the duration, you can't be compelled to speak truthfully or be prevented from lying, and a creature that attempts to read your mind must succeed on an INT Save or perceive it as though it were the mind of your imagined persona.
-A creature making multiple attempts to read your mind encounters the same result; it can't repeat this Save until you cast the spell again.
-This spell does not allow you to detect when creatures are attempting to read your mind.
-- **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
 ### Minor Illusion
@@ -6756,63 +6754,6 @@ When the Cylinder appears, each creature in it makes a CON Save. On a failed sav
 ![\|50](https://bg3.wiki/w/images/8/8b/Moonbeam_Icon.webp)
 *(Source: PHB'24, page 300)*
 
-### Mordenkainen's Faithful Hound
-*Level 4 Conjuration*
-- **Casting Time**: Action
-- **Range**: 6 *(9m)*
-- **Components**: V, S
-- **Duration**: 8 hours
-You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 60 *(90m)* apart from each other.
-No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 6 *(9m)* of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 6 *(9m)*.
-At the start of each of your turns, the hound attempts to bite one enemy within 1 *(1.5m)* of it. That enemy must succeed on a DEX Save or take 4d8 Force damage.
-On your later turns, you can take a Magic action to move the hound up to 6 *(9m)*.
-- **Classes**: Artificer, Wizard
-*(Source: PHB'24, page 300)*
-
-### Mordenkainen's Magnificent Mansion
-*Level 7 Conjuration*
-- **Casting Time**: 1 Min.
-- **Range**: 60 *(90m)*
-- **Components**: V, S
-- **Duration**: 24 hours
-You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 1 *(1.5m)* wide and 2 *(3m)* tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 6 *(9m)* of it. While closed, the door is imperceptible.
-Beyond the door is a magnificent foyer with numerous chambers beyond. The dwelling's atmosphere is clean, fresh, and warm.
-You can create any floor plan you like for the dwelling, but it can't exceed 50 contiguousa size 2 *(3m)* cubes. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. Furnishings and other objects created by this spell dissipate into smoke if removed from it.
-A staff of 100 near-transparent servants attends all who enter. You determine the appearance of these servants and their attire. They are invulnerable and obey your commands. Each servant can perform tasks that a human could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.
-When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
-- **Classes**: Bard, Wizard
-*(Source: PHB'24, page 300)*
-
-### Mordenkainen's Private Sanctum
-*Level 4 Abjuration*
-- **Casting Time**: 10 Min.
-- **Range**: 24 *(36m)*
-- **Components**: V, S
-- **Duration**: 24 hours
-You make an area within range magically secure. The area is a Cube that can be as small as 1 *(1.5m)* to as large as 20 *(30m)* on each side. The spell lasts for the duration.
-When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:Sound can't pass through the barrier at the edge of the warded area.
-The barrier of the warded area appears dark and foggy, preventing vision (including Darkvision) through it.
-Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
-Creatures in the area can't be targeted by Divination spells.
-Nothing can teleport into or out of the warded area.
-Planar travel is blocked within the warded area.
-Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
-**Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 20 *(30m)* for each spell slot level above 4.
-- **Classes**: Artificer, Wizard
-*(Source: PHB'24, page 301)*
-
-### Mordenkainen's Sword
-*Level 7 Evocation*
-- **Casting Time**: Action
-- **Range**: 18 *(27m)*
-- **Components**: V, S
-- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You create a spectral sword that hovers within range. It lasts for the duration.
-When the sword appears, you make a melee spell attack against a target within 1 *(1.5m)* of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
-On your later turns, you can take a Bonus Action to move the sword up to 6 *(9m)* to a spot you can see and repeat the attack against the same target or a different one.
-- **Classes**: Bard, Wizard
-*(Source: PHB'24, page 302)*
-
 ### Mordenkainen's Altered Orbs
 *Level 2 Evocation*
 - **Casting Time**: Action
@@ -6901,6 +6842,19 @@ You gain an enhanced awareness of your surroundings as your vision stretches in 
 - **Classes**: Artificer, Bard, Wizard
 *(Source: ConfluxCreatures)*
 
+### Mordenkainen's Faithful Hound
+*Level 4 Conjuration*
+- **Casting Time**: Action
+- **Range**: 6 *(9m)*
+- **Components**: V, S
+- **Duration**: 8 hours
+You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 60 *(90m)* apart from each other.
+No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 6 *(9m)* of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 6 *(9m)*.
+At the start of each of your turns, the hound attempts to bite one enemy within 1 *(1.5m)* of it. That enemy must succeed on a DEX Save or take 4d8 Force damage.
+On your later turns, you can take a Magic action to move the hound up to 6 *(9m)*.
+- **Classes**: Artificer, Wizard
+*(Source: PHB'24, page 300)*
+
 ### Mordenkainen's Faithful Phantoms
 *Level 5 Conjuration*
 - **Casting Time**: Action
@@ -6980,6 +6934,38 @@ You recall a spell of Level 5 or below with a casting time greater than 1 action
 - **Classes**: Wizard
 *(Source: ConfluxCreatures)*
 
+### Mordenkainen's Magnificent Mansion
+*Level 7 Conjuration*
+- **Casting Time**: 1 Min.
+- **Range**: 60 *(90m)*
+- **Components**: V, S
+- **Duration**: 24 hours
+You conjure a shimmering door in range that lasts for the duration. The door leads to an extradimensional dwelling and is 1 *(1.5m)* wide and 2 *(3m)* tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the door remains open. You can open or close it (no action required) if you are within 6 *(9m)* of it. While closed, the door is imperceptible.
+Beyond the door is a magnificent foyer with numerous chambers beyond. The dwelling's atmosphere is clean, fresh, and warm.
+You can create any floor plan you like for the dwelling, but it can't exceed 50 contiguousa size 2 *(3m)* cubes. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. Furnishings and other objects created by this spell dissipate into smoke if removed from it.
+A staff of 100 near-transparent servants attends all who enter. You determine the appearance of these servants and their attire. They are invulnerable and obey your commands. Each servant can perform tasks that a human could perform, but they can't attack or take any action that would directly harm another creature. Thus the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can't leave the dwelling.
+When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
+- **Classes**: Bard, Wizard
+*(Source: PHB'24, page 300)*
+
+### Mordenkainen's Private Sanctum
+*Level 4 Abjuration*
+- **Casting Time**: 10 Min.
+- **Range**: 24 *(36m)*
+- **Components**: V, S
+- **Duration**: 24 hours
+You make an area within range magically secure. The area is a Cube that can be as small as 1 *(1.5m)* to as large as 20 *(30m)* on each side. The spell lasts for the duration.
+When you cast the spell, you decide what sort of security the spell provides, choosing any of the following properties:Sound can't pass through the barrier at the edge of the warded area.
+The barrier of the warded area appears dark and foggy, preventing vision (including Darkvision) through it.
+Sensors created by Divination spells can't appear inside the protected area or pass through the barrier at its perimeter.
+Creatures in the area can't be targeted by Divination spells.
+Nothing can teleport into or out of the warded area.
+Planar travel is blocked within the warded area.
+Casting this spell on the same spot every day for 365 days makes the spell last until dispelled.
+**Using a Higher-Level Spell Slot.** You can increase the size of the Cube by 20 *(30m)* for each spell slot level above 4.
+- **Classes**: Artificer, Wizard
+*(Source: PHB'24, page 301)*
+
 ### Mordenkainen's Protection From Armored Assailants
 *Level 1 Abjuration*
 - **Casting Time**: Action
@@ -7045,6 +7031,18 @@ Until the spell ends, a creature that moves within 1 *(1.5m)* of you for the fir
 - **Classes**: Artificer, Bard, Wizard
 *(Source: ConfluxCreatures)*
 
+### Mordenkainen's Sword
+*Level 7 Evocation*
+- **Casting Time**: Action
+- **Range**: 18 *(27m)*
+- **Components**: V, S
+- **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
+You create a spectral sword that hovers within range. It lasts for the duration.
+When the sword appears, you make a melee spell attack against a target within 1 *(1.5m)* of the sword. On a hit, the target takes Force damage equal to 4d12 plus your spellcasting ability modifier.
+On your later turns, you can take a Bonus Action to move the sword up to 6 *(9m)* to a spot you can see and repeat the attack against the same target or a different one.
+- **Classes**: Bard, Wizard
+*(Source: PHB'24, page 302)*
+
 ### Motivational Speech
 *Level 3 Enchantment*
 - **Casting Time**: 1 Min.
@@ -7093,7 +7091,7 @@ On a failure, the target falls [prone](conditions.md#prone) and is dragged up to
 - **Classes**: Druid
 *(Source: ConfluxCreatures)*
 
-# Spells N
+## Spells N
 ### Nail to the Sky
 *Level 9 Transmutation*
 - **Casting Time**: Action
@@ -7222,7 +7220,7 @@ With a touch, you place an illusion on a willing creature or an object that isn'
 - **Classes**: Wizard
 *(Source: PHB'24, page 302)*
 
-# Spells O
+## Spells O
 ### Oathbind
 *Level 5 Enchantment*
 - **Casting Time**: Action
@@ -7347,7 +7345,7 @@ On a failed save, the target is [Charmed](conditions.md#charmed) for the duratio
 ![\|50](https://bg3.wiki/w/images/8/8c/Otto%27s_Irresistible_Dance_Icon.webp)
 *(Source: PHB'24, page 303)*
 
-# Spells P
+## Spells P
 ### Painbond
 *Level 2 Enchantment*
 - **Casting Time**: Reaction, which you take when you or an ally you can see within range takes damage.
@@ -7995,7 +7993,7 @@ Choose an area of nonmagical flame that you can see and that fits within a size 
 - **Classes**: Artificer, Bard, Sorcerer, Wizard
 *(Source: XGE, page 163)*
 
-# Spells Q
+## Spells Q
 ### Quash Magic
 *Level 3 Abjuration*
 - **Casting Time**: Bonus Action
@@ -8020,7 +8018,7 @@ On a successful Save, the target can use its reaction to make a melee attack.
 - **Classes**: Druid, Ranger, Warlock
 *(Source: ConfluxCreatures)*
 
-# Spells R
+## Spells R
 ### Rain of Fire
 *Level 2 Evocation*
 - **Casting Time**: Action
@@ -8447,7 +8445,7 @@ Each creature in a radius 2 *(3m)* emanation from that object must make a DEX Sa
 - **Classes**: Cleric, Druid, Warlock
 *(Source: ConfluxCreatures)*
 
-# Spells S
+## Spells S
 ### Sacred Flame
 *Evocation Cantrip*
 - **Casting Time**: Action
@@ -10142,7 +10140,7 @@ On a failed save, a target also has muddled thoughts for 1 minute. During that t
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 *(Source: PHB'24, page 330)*
 
-# Spells T
+## Spells T
 ### Tailored Bane
 *Level 3 Abjuration*
 - **Casting Time**: Action
@@ -10784,7 +10782,7 @@ This attack can target any creature in range to which a traversable path exists,
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
-# Spells U
+## Spells U
 ### Umbral Oubliette
 *Level 8 Conjuration*
 - **Casting Time**: Action
@@ -10871,7 +10869,7 @@ A creature that fails this save by 10 or more is additionally [Paralyzed](condit
 - **Classes**: Warlock
 *(Source: ConfluxCreatures)*
 
-# Spells V
+## Spells V
 ### Vampiric Touch
 *Level 3 Necromancy*
 - **Casting Time**: Action
@@ -10956,7 +10954,7 @@ You magically twist space around another creature you can see within range. The 
 - **Classes**: Artificer, Sorcerer, Wizard
 *(Source: SCC, page 38)*
 
-# Spells W
+## Spells W
 ### Wake the Bones
 *Level 3 Necromancy*
 - **Casting Time**: Action
@@ -11464,7 +11462,9 @@ A thunderous wind descends around you, forcing each creature within 3 *(4.5m)* o
 - **Classes**: Cleric, Paladin, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
-# Spells Y
+## Spells X
+
+## Spells Y
 ### Yolande's Regal Presence
 *Level 5 Enchantment*
 - **Casting Time**: Action
@@ -11475,7 +11475,7 @@ You surround yourself with unearthly majesty in a radius 2 *(3m)* emanation. Whe
 - **Classes**: Bard, Wizard
 *(Source: PHB'24, page 343)*
 
-# Spells Z
+## Spells Z
 ### Zephyr Strike
 *Level 1 Transmutation*
 - **Casting Time**: Bonus Action
@@ -11497,3 +11497,5 @@ You create a magical zone that guards against deception in a radius 3 *(4.5m)* s
 An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 - **Classes**: Bard, Cleric, Paladin
 *(Source: PHB'24, page 343)*
+
+## Spells End

@@ -22,7 +22,6 @@ function sortMdContentPageHeaders(mdText)
   }
 
   let currentBlockStartIndex = -1;
-  let doneSorting = false;
   let contentType = '';
 
   let lastIndex = 0;
@@ -30,12 +29,6 @@ function sortMdContentPageHeaders(mdText)
   {
     if (lines[i].trimStart().startsWith('#'))
     {
-      if (doneSorting)
-      {
-        lastIndex = i;
-        break;
-      }
-
       if (contentType === '')
       {
         const contentTypeMatch = lines[i].match(/^##\s(.*)\s[A-Z]$/mi);
@@ -61,24 +54,13 @@ function sortMdContentPageHeaders(mdText)
       currentBlockStartIndex = i;
     }
 
-    if (contentType !== '' && lines[i].trimStart().startsWith(`## ${contentType} Z`))
+    if (contentType !== '' && lines[i].trimStart().startsWith(`## ${contentType} End`))
     {
-      //Stop sorting after next header change
-      doneSorting = true;
+      lastIndex = i;
+      break;
     }
   }
-
-  if (!doneSorting && currentBlockStartIndex >= 0)
-  {
-    lastIndex = lines.length;
-    const char = lines[currentBlockStartIndex].trimStart().slice(4);
-    const index = getIndexForChar(char);
-    const entry = lines.slice(currentBlockStartIndex, lastIndex + 1).join('\n');
-    sorted[index].push(entry);
-  }
-
-  console.log(sorted);
-
+  
   for (let i = 0; i < 26; ++i)
   {
     sorted[i].sort();
