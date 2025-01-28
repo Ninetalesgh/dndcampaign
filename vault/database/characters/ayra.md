@@ -33,7 +33,7 @@
 ## Equipment
 [Leather Armor](dm/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
-[Book about Devils](dm/items.md#book).
+[Book about Devils](dm/items.md#book)
 
 ## Spellcasting
 - **Prepared Spells**: 2

@@ -17,6 +17,7 @@
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/kazimir.md')">Kazimir</button></li>
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/mufi.md')">Mutafa'il</button></li>
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/nyari.md')">Nyari</button></li>
+              <li style="margin-top:5px;"><input type="text" class="temp-input" style="width:80%;height:26px;"><button onclick="addTemporaryInlineLinkToCurrentPage()" class="btn-right-side" style="text-align:left;width:20%;"><img src="https://bg3.wiki/w/images/f/f2/Action_Icon.png" style="width:25px;border:none;background:transparent;border-radius:3px;padding:0;"></button></li>
             </ul>
             <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/wildshapes.md')">Wildshapes</button></li>
@@ -344,6 +345,7 @@
 
     function toggleInlineLinkContent(inlineLink)
     {
+      console.log(inlineLink);
       let ulElement = inlineLink.parentElement;
       while (ulElement && ulElement.tagName !== "P")
       {
@@ -369,6 +371,35 @@
       }      
     }
     
+    function addIconToInlineLink(link, contentNode)
+    {
+      const children = contentNode.element.nextElementSibling.children;
+      let existingImg = null;
+
+      for (let i = children.length -1; i >= 0; --i)
+      {
+        const child = children[i];
+        
+        if (child.children.length > 0 && child.children[0] instanceof HTMLImageElement)
+        {
+          existingImg = child.children[0];
+          break;
+        }
+      }
+      
+      if (existingImg)
+      {
+        let img = document.createElement('img');
+        img.src = existingImg.src;
+        img.style.height = '40px';
+        link.style.display = 'flex';
+        link.style.gap = '5px';
+        link.style.paddingLeft = '0px';
+        link.style.alignItems = 'center';
+        link.prepend(img);
+      }
+    }
+
     function addIconsToInlineLinks(signal)
     {
       //Go through inline links of current page, if it's the only child of its parent <p>, add the image to the button?
@@ -391,31 +422,9 @@
             if (link.parentElement && link.parentElement.innerHTML.trim() === link.outerHTML.trim())
             {
               const node = await getIndexedContentNode(link.dataset.url);
-              if (node === null) { continue; }
-              const children = node.element.nextElementSibling.children;
-              let existingImg = null;
-
-              for (let i = children.length -1; i >= 0; --i)
+              if (node)
               {
-                const child = children[i];
-                
-                if (child.children.length > 0 && child.children[0] instanceof HTMLImageElement)
-                {
-                  existingImg = child.children[0];
-                  break;
-                }
-              }
-              
-              if (existingImg)
-              {
-                let img = document.createElement('img');
-                img.src = existingImg.src;
-                img.style.height = '40px';
-                link.style.display = 'flex';
-                link.style.gap = '5px';
-                link.style.paddingLeft = '0px';
-                link.style.alignItems = 'center';
-                link.prepend(img);
+                addIconToInlineLink(link, node);
               }
             }
           }
@@ -427,6 +436,52 @@
           reject();
         }
       });
+    }
+
+    async function addTemporaryInlineLinkToCurrentPage()
+    {
+      const tempInput = document.querySelector('.temp-input');
+      const query = tempInput.value;
+      
+      const link = `(dm/items.md#${filterSectionSpecialCharacters(query)})`;
+      const node = await getIndexedContentNode(link);
+      if (node)
+      {
+        const name = node.name;
+        console.log(node);
+        console.log('HUH');
+        const equipmentNode = document.getElementById('equipment');
+        if (equipmentNode)
+        {
+          const div = equipmentNode.nextElementSibling;
+
+          const newInlineLink = document.createElement('button');
+          newInlineLink.classList.add('inline-link');
+          newInlineLink.onclick = function() {toggleInlineLinkContent(this);};
+          newInlineLink.setAttribute('data-url', link);
+          newInlineLink.innerHTML = node.name;
+
+          const newP = document.createElement('p');
+          newP.style.marginLeft = 0;
+          newP.appendChild(newInlineLink);
+
+          const newPlaceholder = document.createElement('ul');
+          newPlaceholder.classList.add('collapsed');
+          newPlaceholder.classList.add('inline-link-placeholder');
+          addIconToInlineLink(newInlineLink, node);
+
+          div.appendChild(newP);
+          div.appendChild(newPlaceholder);
+          tempInput.value = '';
+        }
+      }
+
+      //const result = `[${query}](dm/items.md#${query})`
+
+
+      //find equipment h
+      //find item
+      
     }
 
     // EXECUTION
@@ -540,10 +595,19 @@
       }); 
      
 
+      window.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter')
+        {
+          const tempInput = document.querySelector('.temp-input');
+          if (tempInput === document.activeElement)
+          {
+            addTemporaryInlineLinkToCurrentPage();
+          }
+        }
+      });
       window.addEventListener('scroll', setNavPosition);
       window.addEventListener('resize', setNavPosition);
-      window.addEventListener('load', () => 
-      {
+      window.addEventListener('load', () => {
           const navigation = document.querySelector('.navigation');
           navigation.style.top = '0px';
       });

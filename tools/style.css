@@ -278,6 +278,22 @@ p{
   background: var(--color-button-0-hover);
 }
 
+.btn-right-side{
+  display: inline-block;
+  background: var(--color-button-0);
+  color: var(--color-background-0);
+  padding: 3px 3px 4px 3px;
+  margin: 0;
+  border-radius: 0 10px 10px 0;
+  border: hidden;
+  transition: background-color 0.25s;
+}
+
+.btn-right-side:hover{
+  background: var(--color-button-0-hover);
+  cursor: pointer;
+}
+
 .header{
   max-height: 100px;
   background: radial-gradient(var(--color-background-0),var(--color-background-1));
