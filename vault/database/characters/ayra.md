@@ -34,6 +34,7 @@
 [Leather Armor](dm/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
 [Book about Devils](dm/items.md#book)
+[4 Daggers](dm/items.md#dagger)
 
 ## Spellcasting
 - **Prepared Spells**: 2
