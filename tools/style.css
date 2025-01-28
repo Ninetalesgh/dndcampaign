@@ -15,6 +15,7 @@
   --color-inline-box: #91b473;
   --color-external-link: #6874da;
   --color-external-link-hover: #4954b1;
+  --image-background-0: #f0d3a9;
 }
 
 *{
@@ -134,6 +135,10 @@ nav ul li{
 
 p{
   color: var(--color-foreground-0);
+}
+
+img{
+  background: var(--image-background-0);
 }
 
 .title{

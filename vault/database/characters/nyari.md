@@ -80,7 +80,7 @@
 - **Expend HP Dice to regain HP**
   Regain *(d10 + CON)* HP per expended dice.
 ### After Long Rest
-- **Regain all HP & HP Dice**
+- **Regain all HP & *[Level / 2]* HP Dice**
 - **Regain all Spell Slots**
 - **Regain all Stone's Endurance Charges**
 - **Regain all Lay on Hands Charges**

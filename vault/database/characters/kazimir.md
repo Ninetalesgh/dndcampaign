@@ -49,7 +49,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Second Wind *(2 Charges, regenerate 1 after Short-, all after Long Rests)*](./../feats.md#second-wind)
+  [Second Wind *(2 Charges, regain 1 after Short-, all after Long Rests)*](./../feats.md#second-wind)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -78,7 +78,7 @@
 - **Regain Action Surge Charge**
 
 ### After Long Rest
-- **Regain all HP & HP Dice**
+- **Regain all HP & *[Level / 2]* HP Dice**
 - **Regain all Second Wind Charges**
 - **Switch 1 Weapon Mastery**
 - **Finish 1 Brewing Potion**

@@ -92,7 +92,7 @@
 - **Expend HP Dice to regain HP**
   Regain *(d8 + CON)* HP per expended dice.
 ### After Long Rest
-- **Regain all HP & HP Dice**
+- **Regain all HP & *[Level / 2]* HP Dice**
 - **Regain all Spell Slots**
 - **Regain Magic Initiate Spell charge**
 - **Switch 1 Weapon Mastery**
