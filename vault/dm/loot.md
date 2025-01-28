@@ -1,5 +1,35 @@
 # Tracker
 
+Timeline:
+  Level 2:
+    Session 2 & 3
+  Level 3:
+    Session 3-5
+  Level 4: 
+    Session 6-8?
+Means ~1 Common Item per Session + 1 UC/R Item per Session?
+
+Ayra:
+  C: Imbued Quarterstaff, Orb of Shielding
+  UC: Circlet of Vitality's Focus
+  R:
+Kal: 
+  C: Imbued Quarterstaff, Orb of Shielding
+  UC: 
+  R:
+Kazimir: 
+  C:
+  UC: Ruby's Grasp
+  R:
+Mufi: 
+  C:
+  UC: Feylight Expose, Kobold Diviner's Amulet
+  R: Obsidian Dagger, Sickle of the Sphinx,
+Nyari: 
+  C:
+  UC: Censer of the Cremated
+  R: Shatterglass Ward
+
 ## Tier 1 (Levels 1-4)
 0/6 C
 0/4 UC
@@ -29,6 +59,8 @@
 # Available Loot
 
 ## Common
+[Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
+[Orb of Shielding](dm/items.md#orb-of-shielding)
 [Clockwork Amulet](dm/items.md#clockwork-amulet)
 [Horn of Silent Alarm](dm/items.md#horn-of-silent-alarm)
 

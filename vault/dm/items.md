@@ -1,3 +1,48 @@
+### Imbued Quarterstaff
+*(Quarterstaff, Simple Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile), [Variant](dm/item_info.md#variant).
+  - *One of the following variants:*
+    - **Fernian Ash.** When you cast a damage-dealing spell that deals **Fire** damage, it deals +1.
+    - **Irian Rosewood.** When you cast a damage-dealing spell that deals **Radiant** damage, it deals +1.
+    - **Kythrian Manchineel.** When you cast a damage-dealing spell that deals **Acid or Poison** damage, it deals +1.
+    - **Lamannian Oak.** When you cast a damage-dealing spell that deals **Lightning or Thunder** damage, it deals +1.
+    - **Mabaran Ebony.** When you cast a damage-dealing spell that deals **Necrotic** damage, it deals +1.
+    - **Risian Pine.** When you cast a damage-dealing spell that deals **Cold** damage, it deals +1.
+    - **Shavarran Birch.** When you cast a damage-dealing spell that deals **Force** damage, it deals +1.
+    - **Xorian Wenge.** When you cast a damage-dealing spell that deals **Psychic** damage, it deals +1.
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 2 kg
+- **Price**: 800 gp
+![Image|250](https://i.imgur.com/CGeGW9W_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: PHB'24, page 215)*
+
+### Orb of Shielding
+*(Wondrous Item, Common)*
+- **Properties**: [Variant](dm/item_info.md#variant).
+  - *One of the following variants:*
+    - **Fernian Basalt.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Fire** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Irian Quartz.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Radiant** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Kythrian Skarn.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Acid or Poison** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Lamannian Flint.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Lightning or Thunder** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Mabaran Obsidian.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Necrotic** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Risian Shale.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Cold** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Shavarran Chert.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Force** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Xorian Marble.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Psychic** damage while holding the orb in your hand, reduce that damage by 1d4.
+- **Weight**: 200 g
+- **Price**: 800 gp
+![Image|250](https://i.imgur.com/uXYkeWb_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
+
 ## Items A
 ### Acid Vial
 *(grenade, Common)*
@@ -124,7 +169,7 @@ It takes 10 minutes to recover the Ball Bearings.
 *(coating, Common)*
 - **Properties**: [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating).
   *Effect:* Deal an additional 1d4 Poison damage on Hit.
-  *Duration:* 1 minute.
+  *Duration:* 3 hits.
 - **Weight**: -
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/0/0f/COAT_Basic_Poison_Unfaded_Icon.png)
@@ -1503,7 +1548,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 ### Ring of Arcane Defense
 *(Wondrous Item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: Cast [Shield](spells.md#spells-s#shield), Additionally you gain Advantage on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds.
+  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell.**: Cast [Shield](spells.md#spells-s#shield), Additionally you gain Advantage on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds.
 - **Weight**: 5 g
 - **Price**: 2000 gp
 ![Image|250](https://i.imgur.com/qlqMFaS_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1549,7 +1594,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Source: PHB'24, page 230)*
 
 ### Ruby's Grasp
-*(Gloves, Medium Armor, Rare)*
+*(Gloves, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
     You gain [Resistance](game_rules.md#damage-types#resistance) to Fire damage.
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Imbue your next Melee Weapon Attack with an additional 1d6 Fire damage. *(Once per Short Rest)*
@@ -1613,7 +1658,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Don and Doff Time**: 1 Action / 1 Action
 - **AC**: +3
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: After a Spell Attack misses you, Regenerate a Level 1 or Level 2 Spell Slot *(Twice per Long Rest)*
+  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: After a Spell Attack misses you, regain a Level 1 or Level 2 Spell Slot *(Twice per Long Rest)*
 - **Weight**: 2 kg
 - **Price**: 2500 gp
 ![Image|250](https://i.imgur.com/GxwgoOx_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1788,6 +1833,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Wondrous Item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
     You gain [Resistance](game_rules.md#damage-types#resistance) to Cold and Necrotic damage.
+    You have [Truesight against Dragons 12 *(18m)*](game?rules.md#special-senses#truesight).
 - **Weight**: 20 g
 - **Price**: 3000 gp
 ![Image|250](https://i.imgur.com/I8pLAkO_d.png?maxwidth=520&shape=thumb&fidelity=high)
@@ -1812,6 +1858,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
   - *Utilize:* Pick a lock (DC 15), or disarm a trap (DC 15)
 - **Weight**: 500 g
 - **Price**: 25 gp
+![Image|250](https://i.pinimg.com/736x/30/83/60/3083606ce8ccd964dc3bc827da8de284.jpg)
 *(Source: PHB'24, page 221)*
 
 ### Three-Dragon Ante Set

@@ -31,6 +31,8 @@ Gloves - Gain an additional Reaction. -1 AC. Attunement.
 
 spear with finesse and brace.
 
+something that improves specific spells (like moonbeam radius)
+
 
 webgrip rucksack - This spider leather bag is lined with a thin layer of adhesive web. 
 Items stored inside the bag are held in place by the web, 
@@ -93,7 +95,7 @@ Utility Effect Template:
   3 Add <1d4> to Initiative.
   4 Cast <School of Magic> <Cantrip> at will.
   5 Cast Level <1d4> <School of Magic> <Spell> <1d4> times per (SR/LR).
-  6 Regenerate Level <1d6> Spell Slot <1d4> times per (SR/LR).
+  6 Regain Level <1d6> Spell Slot <1d4> times per (SR/LR).
   7 Add <1d4> to Spell Attack and Spell DC.
   8 Increase <Ability Score> by <1d4> to a max of 20 + <1d4>.
   9 Set <Ability Score> to 16+<1d4>.

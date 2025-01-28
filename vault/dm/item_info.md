@@ -97,3 +97,11 @@ This weapon requires two hands when you attack with it.
 
 ### Versatile
 This weapon can be used with one or two hands. The specified damage roll is used when using two hands to make a Melee Attack. 
+
+## Variant
+Items with variants have different templates, the variant does not change once determined. *(A Fernian Ash Staff will always be a Fernian Ash Staff)*
+
+## Modified Metal
+[TODO] Rules, but basically 1 variant per item. item has to be mundane. only counts for weapons, armor, and shield?
+
+
