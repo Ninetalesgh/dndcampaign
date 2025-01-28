@@ -90,7 +90,7 @@
   [Mask of Many Faces](feats.md#mask-of-many-faces)
 
 - [Tough](feats.md#tough) *(Already included above)*
-- **Light Bearer.** You know the Light cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
+- **Light Bearer.** You know the [Light](./../spells.md#spells-l#light) cantrip. Charisma is your spellcasting ability for it. *(Already included above)*
 
 # Reminders
 ### After Short Rest
