@@ -59,10 +59,11 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
-  [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
+  [Eldritch Blast (+3 damage)](./../spells.md#spells-e#eldritch-blast)
   [Light](./../spells.md#spells-l#light)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
+  [Disguise Self *(Unlimited)*](./../spells.md#spells-d#disguise-self)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
