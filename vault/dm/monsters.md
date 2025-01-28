@@ -1,55 +1,4 @@
 
-### Bugbear
-**CR**: 1
-*Medium humanoid (goblinoid), Neutral Evil*
-- **Initiative**: +2
-- **AC**: 16 (hide armor, shield)
-- **HP**: 27 (5d8 + 5)
-- **Speed**: walk 6 *(9m)*
-
-STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-14 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) 
-
-- **Skills**: stealth: +6, survival: +2
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
-- **Languages**: Common, Goblin
-- **Traits**: 
-   - **Predatory Eye**. The bugbear has advantage on attack rolls against creatures with no adjacent allies.
-   - **Surprise Attack**. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
-- **Actions**: 
-   - **Morningstar**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
-    *Hit:* 11 (2d8 + 2) bludgeoning damage.
-   - **Javelin**. *Melee or Ranged Attack:* +4 to hit, reach 2 *(3m)* or range 6/24 *(9m/36m)*, one target. 
-    *Hit:* 9 (2d6 + 2) piercing damage.
-*(Source: ConfluxCreatures)*
-
-### Goblin Taunter
-**CR**: 2
-*Small humanoid (goblinoid), Neutral Evil*
-- **Initiative**: +2
-- **AC**: 16 (studded leather armor, shield)
-- **HP**: 52 (7d10 + 14)
-- **Speed**: walk 6 *(9m)*
-
-STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-8 (-1) | 14 (+2) | 15 (+2) | 10 (+0) | 10 (+0) | 8 (-1) 
-
-- **Skills**: stealth: +6
-- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
-- **Languages**: Common, Goblin
-- **Traits**: 
-   - **Underfoot**. The goblin taunter can take the Dodge action as a bonus action if it is within 1 *(1.5m)* of at least two enemies.
-   - **Attention Grabbing**. A creature struck by the goblin must succeed on a DC 12 WIS Save or have disadvantage on all attack rolls against targets other than the goblin until the end of the creature's next turn.
-- **Actions**: 
-   - **Whip**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
-    *Hit:* 5 (1d4 + 2) slashing damage.
-- **Reactions**: 
-   - **Slippery**. If an attack misses the goblin, it can move up to 1 *(1.5m)* as a reaction without provoking attacks of opportunity.
-*(Source: ConfluxCreatures)*
-
-
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2
@@ -477,6 +426,31 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 5 (1d6 + 2) piercing damage.
 *(Source: VGM, page 42)*
 
+### Bugbear
+**CR**: 1
+*Medium humanoid (goblinoid), Neutral Evil*
+- **Initiative**: +2
+- **AC**: 16 (hide armor, shield)
+- **HP**: 27 (5d8 + 5)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1) 
+
+- **Skills**: stealth: +6, survival: +2
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Common, Goblin
+- **Traits**: 
+   - **Predatory Eye**. The bugbear has advantage on attack rolls against creatures with no adjacent allies.
+   - **Surprise Attack**. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
+- **Actions**: 
+   - **Morningstar**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 11 (2d8 + 2) bludgeoning damage.
+   - **Javelin**. *Melee or Ranged Attack:* +4 to hit, reach 2 *(3m)* or range 6/24 *(9m/36m)*, one target. 
+    *Hit:* 9 (2d6 + 2) piercing damage.
+*(Source: ConfluxCreatures)*
+
 ## Monsters C
 ### Cavern Choker
 **CR**: 1/2
@@ -664,7 +638,6 @@ STR | DEX | CON | INT | WIS | CHA
 
 
 ## Monsters E
-
 ### Earth Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -884,6 +857,32 @@ STR | DEX | CON | INT | WIS | CHA
    - **Slippery**. If an attack misses the goblin, it can move up to 1 *(1.5m)* as a reaction without provoking attacks of opportunity.
 *(Source: ConfluxCreatures)*
 
+### Goblin Taunter
+**CR**: 2
+*Small humanoid (goblinoid), Neutral Evil*
+- **Initiative**: +2
+- **AC**: 16 (studded leather armor, shield)
+- **HP**: 52 (7d10 + 14)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+8 (-1) | 14 (+2) | 15 (+2) | 10 (+0) | 10 (+0) | 8 (-1) 
+
+- **Skills**: stealth: +6
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Common, Goblin
+- **Traits**: 
+   - **Underfoot**. The goblin taunter can take the Dodge action as a bonus action if it is within 1 *(1.5m)* of at least two enemies.
+   - **Attention Grabbing**. A creature struck by the goblin must succeed on a DC 12 WIS Save or have disadvantage on all attack rolls against targets other than the goblin until the end of the creature's next turn.
+- **Actions**: 
+   - **Whip**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 5 (1d4 + 2) slashing damage.
+- **Reactions**: 
+   - **Slippery**. If an attack misses the goblin, it can move up to 1 *(1.5m)* as a reaction without provoking attacks of opportunity.
+*(Source: ConfluxCreatures)*
+
+
 ### Gravehound
 **CR**: 1/2
 *Small undead, Unaligned*
@@ -909,8 +908,8 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters H
-## Monsters I
 
+## Monsters I
 ### Ice Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -969,6 +968,7 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 352)*
 
 ## Monsters J
+
 ## Monsters K
 ### Kobold
 **CR**: 1/8
@@ -1397,7 +1397,6 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters N
-
 ### Needle Blight
 **CR**: 1/2
 *Medium plant, Neutral Evil*
@@ -1550,7 +1549,6 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 354)*
 
 ## Monsters Q
-
 ### Quasit
 **CR**: 1
 *Tiny fiend (demon), Chaotic Evil*
@@ -1580,6 +1578,7 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 355)*
 
 ## Monsters R
+
 ## Monsters S
 ### Salt Mephit
 **CR**: 1/2
@@ -1821,9 +1820,10 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters T
-## Monsters U
-## Monsters V
 
+## Monsters U
+
+## Monsters V
 ### Venomous Snake
 **CR**: 1/8
 *Tiny beast, Unaligned*
@@ -1923,8 +1923,11 @@ STR | DEX | CON | INT | WIS | CHA
 
 
 ## Monsters X
+
 ## Monsters Y
+
 ## Monsters Z
+
 ### Zombie
 **CR**: 1/4
 *Medium undead, Neutral Evil*
@@ -1970,3 +1973,4 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 4 (1d6 + 1) piercing damage and 7 (2d6) necrotic damage.
 *(Source: ConfluxCreatures)*
 
+## Monsters End
