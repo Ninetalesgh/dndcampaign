@@ -2,7 +2,7 @@
 - **Level**: 2
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX + PB)*
-- **AC**: 18 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield))
+- **AC**: 19 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield) + Defense)
 - **HP**: 20 *(4 + [6 + CON] * Level)*
 - **HP Dice:** 2 D10
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -27,7 +27,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
-- **Tool Proficiencies**: [TODO]
+- **Tool Proficiencies**: [Smith's Tools](dm/items.md#smiths-tools)
 - **Languages**: Common, Goliath, [TODO] 1 more
 
 ## Equipment
@@ -73,8 +73,7 @@
   [Alert *(Already included above)*](./../feats.md#alert)
 
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
-
-[TODO] Fighting Style or Blessed Warrior.
+- [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 
 # Reminders
 ### After Short Rest
