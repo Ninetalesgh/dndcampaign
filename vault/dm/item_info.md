@@ -50,8 +50,7 @@ On Miss: You still deal the specified amount of damage to the target.
 ### Nick
 Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action **once** per turn.
 ### Push
-Allows you to push a creature by the specified range on hit. (STR/DEX save?)
-[Size](./../game_rules.md#advanced-rules#creature-sizes)
+Allows you to push a creature that is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you by the specified range on hit.
 ### Sap
 On Hit: The target gets Disadvantage on its next Attack.
 ### Slow

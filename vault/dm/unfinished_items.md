@@ -1252,6 +1252,105 @@ Thin wisps of smoke gently rise from this spool of magic black thread. You can u
 ### Ghostbow Bracer
 [TODO] rework this for ghost hand control for mufi
 
+### Steel Hawk Elite Lance
+Weapon (lance), rare
+
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. As an action, you can thrust the lance in a direction to cause a line of powerful wind to erupt from the lance. The line is 5 feet wide and 30 feet long. Each creature in the line is buffeted by the wind and must make a DC 15 Strength saving throw. On a failed save, a creature takes 4d10 bludgeoning damage and is pushed 10 feet in a random direction that's perpendicular to the line. On a successful save, a creature takes half as much bludgeoning damage and isn't pushed. You then fly up to 30 feet in a straight line in that same direction. This movement doesn't provoke opportunity attacks. Once this property of the lance has been used, it can't be used again until the next dawn.
+
+### Silver Eagle Acolyte Robe
+Wondrous item, uncommon (requires attunement)
+
+This robe is worn by religious and administrative members of the Silver Eagle Forge Coalition. You gain a +1 bonus to saving throws you make while wearing this robe. In addition, whenever you make an attack roll, ability check, or saving throw with advantage or disadvantage and roll the same number on both d20s, you can combine the two rolls and use their sum as the result. If a combined result would equal 20 or higher, it is instead treated as a 20, but is not treated as a critical hit or critical success.
+
+### Faerie Firework Launcher
+Weapon (crossbow, light or heavy), rare (requires attunement)
+
+This crossbow's wood shifts from golden yellows to vibrant reds and has a dimly lit fuse at its top. It has 6 charges and regains 1d6 expended charges daily at dawn. You can expend 1 of the weapon's charges once on each of your turns when you make a ranged attack roll with it. When you do, the bolt sizzles and sparks with festive colors, and whistles loudly as it flies through the air. On a hit, the target takes an extra 2d10 fire damage. Hit or miss, the bolt then explodes in an eruption of magical fireworks. The target of the attack and each creature within 5 feet of it must succeed on a DC 15 Dexterity saving throw or take 1d10 fire damage and be under the effects of the faerie fire spell until the start of your next turn (no concentration required). The whistling bolt and firework's explosion can be heard out to a range of 300 feet. The bolt is then destroyed, provided it wasn't magical.
+
+### Protector's Ward
+[TODO] this is cool for Nyari
+Armor (shield), uncommon
+
+This shield depicts a pair of knights reflected across its center. While holding this shield, you can use your reaction when a friendly creature that you can see within 15 feet of you is hit by an attack from a hostile creature. You then teleport to the friendly creature's space, pushing it 5 feet away from you to an unoccupied space of your choice when you do. You take the damage from the attack, even if the total of the attack roll doesn't meet or exceed your AC. Once this property of the shield has been used, it can't be used again until the next dawn.
+
+### Gauntlets of the Divine Feud
+Wondrous item, very rare (requires attunement by a cleric)
+
+These paired gauntlets are the last remnants of a conflict between ancient rivals, one a holy warrior and the other a grim zealot, and remain linked by their feud. You have a +1 bonus to AC and saving throws while wearing these gloves.
+
+The gloves have a total of 2 charges and regain 1 expended charge daily at dawn. While wearing them, you can use an action to expend 1 of the gauntlets' charges to cast either the harm or heal spell from them, using your spell save DC. Once you cast a spell from the gauntlets, it can't be cast in this way again until the next dawn. Alternatively, you can expend 2 charges as an action to cast both spells from the gauntlets at the same time. When you do, the spells each have a range of touch.
+
+### Owlbear-Fletched Arrow
+[TODO] these are probably okay as common too? 
+Weapon (arrow), uncommon
+
+This magic arrow is fletched with the feathers of an owlbear. When you use this arrow as part of making a ranged weapon attack against a creature that's behind half or three-quarters cover, that creature gains no benefit from that cover. If the attack hits, the target takes extra piercing damage equal to the bonus to AC that the target would have normally received from being behind cover. Once the arrow deals its extra damage to a creature, it becomes a nonmagical arrow.
+
+Other types of magic ammunition of this kind exist, such as owlbear-fletched bolts meant for a crossbow, though arrows are most common.
+
+### Ravenous Ring
+Ring, uncommon
+
+While wearing this ring, you can use an action to transform your hand into a kraken-like maw and touch a creature within 5 feet of you. When you do, the creature must make a DC 13 Dexterity saving throw, taking 3d6 necrotic damage on a failed save, or half as much damage on a successful one. Your hand then returns to normal. If the creature fails the saving throw, you also gain a number of temporary hit points equal to half the necrotic damage dealt. These temporary hit points remain for 1 minute. Once this property of the ring has been used, it can't be used again until the next dawn.
+
+### Hag's Claw
+Weapon (dagger), legendary (requires attunement)
+
+The metal of this wicked knife is said to be folded with the hair of a hag, giving it a dark, wave-like pattern that sizzles with corrupting magic. Its handle, curved like the blade, is made from long finger bones that ever-so-slightly curl to hold your hand.
+
+You have a +2 bonus to attack and damage rolls made with this magic weapon. Once on each of your turns when you hit a creature with the dagger, it takes an extra 1d8 acid damage. If you had advantage on the attack roll, the target must also succeed on a DC 17 Constitution saving throw or take an additional 1d8 acid damage and be poisoned until the end of your next turn. While poisoned in this way, a creature makes Constitution saving throws with disadvantage. If you reduce a Small or larger hostile creature to 0 hit points with this weapon, you gain the benefits of the greater invisibility spell (no concentration required) until the end of your next turn.
+
+Curse. This dagger is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you are unwilling to part with the dagger, keeping it within reach at all times. You also have disadvantage on attack rolls with weapons other than this one, unless no foe is within 60 feet of you that you can see or hear.
+
+Whenever you reduce a creature to 0 hit points using the dagger, there's a 10 percent chance that your appearance changes to more closely resemble the hag that was used to make the weapon. For example, your teeth show signs of decay, your laugh turns to a cackle, and your hair loses its color and grows stringy. Once this happens for a third time, you become possessed by the spirit of the hag: your alignment changes to neutral evil, and you regard your allies as manipulatable threats. You remain possessed by the hag until the curse ends.
+
+A single remove curse spell (or similar magic) fails to end the dagger's curse if your appearance has begun to change as a result of it. For each time your appearance has changed in this way, an additional use of remove curse or similar spell must be cast within a 24-hour period in order to end the curse. Ending the curse returns your appearance to normal.
+
+### Corvus Pyre
+Weapon (quarterstaff), legendary (requires attunement)
+
+This black cane is made of gnarled wood and has a silvered raven's skull at its top. You gain a +1 bonus to attack and damage rolls made with this magic weapon, which has the finesse property, regardless of which form it's in.
+
+While in its cane form, it functions as a quarterstaff. While holding it, you can use a bonus action to transform it into its scythe form. When you do, a large, shadowy sickle blade erupts from the raven's beak and the cane glows with fiery embers.
+
+While in its scythe form, the weapon functions as a halberd that lacks the heavy property, although it's still considered to be a quarterstaff for the purposes of weapon proficiency. When you hit with an attack using the scythe, the target takes an extra 2d6 fire damage. You gain temporary hit points equal to the fire damage dealt, which last until the start of your next turn. If a creature hits you with a melee attack while you have these hit points, the creature takes 5 fire damage. The weapon remains in this form until you use a bonus action to transform it back into its cane form or until you drop or sheathe it. When you reduce a creature to 0 hit points using the scythe, you can choose to reduce it to ash. A creature with legendary actions can't be turned to ash in this way.
+
+Death's Vigil. As an action, you can touch a corpse with the weapon to create a harmless, flaming mantle around it. The mantle duplicates the effect of the gentle repose spell, which lasts until this property is used again or until your attunement to the weapon ends. While protected by the mantle, a corpse has a damage threshold of 20, which means it has immunity to all damage unless it takes 20 damage or more from a single attack or effect, in which case it takes damage as normal.
+
+Fate's Bond. While holding the weapon, you can use a bonus action to curse a creature that you can see with a grim fate. The curse remains for 1 minute or until the creature is reduced to 0 hit points. While cursed, your attacks with this weapon against that creature are made with advantage, and you magically know the exact distance and direction of the creature from you, provided that you're on the same plane of existence. This property of the weapon can't be used again until the next dusk.
+
+If the curse lasts for its full duration, it rebounds; you take 4d10 fire damage, which can't be reduced or prevented in any way. If you're reduced to 0 hit points when this happens, your body is incinerated and turned to ash.
+
+### Daemonomicon
+Wondrous item, very rare
+
+This leather tome is filled with demonic lore and occult secrets, which are written in Abyssal. You can spend 10 minutes reading through its pages to learn information about an aberration, demon, or cult. At the end of that time, make an Intelligence saving throw. The DC is equal to 10 + half the aberration's or demon's challenge rating (rounded up), or 16 if you used it to learn information about a cult. On a failed save, you take 4d6 psychic damage, which can't be reduced or prevented in any way, and learn nothing from the book. You have advantage on the saving throw if you're a warlock with an eldritch or fiendish patron. On a successful save, you learn up to three of the following pieces of information of your choice about an aberration or demon:
+   
+    Up to three of its ability scores of your choice
+     
+    Any damage resistances, immunities, or vulnerabilities it has
+     
+    Any condition immunities it has
+     
+    Its armor class
+     
+    Its hit point maximum
+     
+    Its challenge rating
+
+Alternatively, if you read the book to learn about a cult and succeed on the saving throw, you have a +10 bonus to the next ability check you make to uncover such information related to the cult.
+
+Curse. This book is cursed, and failing the Intelligence saving throw extends the curse to you. While cursed, you are unwilling to part with the book, keeping it within reach at all times, and you have disadvantage on attack rolls against aberrations and demons and on saving throws against their spells and special abilities. If you're a warlock, you also learn the following spells, which don't count against the number of spells you know: banishment, bestow curse, hellish rebuke, and scorching ray. Charisma is your spellcasting ability for these spells, which you know for as long as you remain cursed. If you have a Book of Shadows, this book replaces it, and whenever you have to make an Intelligence saving throw when reading the book, you can make a Charisma saving throw instead.
+
+### Cathedral Armor
+Armor (breastplate), very rare (requires attunement by a cleric or paladin)
+
+The front of this magic armor is covered in a panel of stained glass. Attuning to the armor causes the design of the glass to change to depict your deity, oaths, or similar divine order. You have a +2 bonus to AC while wearing this armor.
+
+While wearing the armor, you can use an action to cast the prismatic spray spell from it, using your spell save DC. Alternatively, you can cast this spell as part of using your Channel Divinity. The Channel Divinity must require an action to use, and you choose whether the spell is cast before or after the effects of the Channel Divinity resolve. If your deity is aligned to a particular damage type, such as fire or lightning, you can choose that damage type's respective color, instead of rolling a d8 to determine it, as part of casting the spell from the armor. The armor can't be used to cast this spell again until the next dawn.
+
+
+
 
 ### Zweihander
 ![Image|250](https://i.pinimg.com/736x/71/af/99/71af994bb99f0c9bdde4a37d82b73391.jpg)
@@ -1322,4 +1421,10 @@ Thin wisps of smoke gently rise from this spool of magic black thread. You can u
 
 ### EVen Nicer Bow
 ![Image|250](https://i.pinimg.com/736x/18/2d/9a/182d9a9d729fd6e33562ad217181df3b.jpg)
+
+### Hell Greatsword
+![Image|250](https://i.pinimg.com/736x/7c/d8/42/7cd842244826f780b0b4e37c50b35051.jpg)
+
+### Smoldering Stone Dagger
+![Image|250](https://i.pinimg.com/736x/93/f2/49/93f2492c38da8a7d284a6adf3806fc21.jpg)
 

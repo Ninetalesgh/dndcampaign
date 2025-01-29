@@ -1,46 +1,13 @@
-### Imbued Quarterstaff
-*(Quarterstaff, Simple Melee Weapon, Common)*
-- **Reach**: 1
-- **Damage**: 1d6 + STR Bludgeoning damage.
-- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile), [Variant](dm/item_info.md#variant).
-  - *One of the following variants:*
-    - **Fernian Ash.** When you cast a damage-dealing spell that deals **Fire** damage, it deals +1.
-    - **Irian Rosewood.** When you cast a damage-dealing spell that deals **Radiant** damage, it deals +1.
-    - **Kythrian Manchineel.** When you cast a damage-dealing spell that deals **Acid or Poison** damage, it deals +1.
-    - **Lamannian Oak.** When you cast a damage-dealing spell that deals **Lightning or Thunder** damage, it deals +1.
-    - **Mabaran Ebony.** When you cast a damage-dealing spell that deals **Necrotic** damage, it deals +1.
-    - **Risian Pine.** When you cast a damage-dealing spell that deals **Cold** damage, it deals +1.
-    - **Shavarran Birch.** When you cast a damage-dealing spell that deals **Force** damage, it deals +1.
-    - **Xorian Wenge.** When you cast a damage-dealing spell that deals **Psychic** damage, it deals +1.
-- **Mastery**: [Topple](dm/item_info.md#topple).
-- **Weight**: 2 kg
+### Greenthumb Whittler
+*(Wondrous Item, Uncommon)*
+- **Properties**:
+  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient.
+  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 1 foot in any dimension. At the end of each hour you spend carving the statue, make a DC 10 Dexterity check, adding your PB to the roll if you were already proficient with Woodcarver's Tools. The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
+  The statue can do minor feats of animation, which you decide upon completing it. If it moves, it can't leave its space on its own. For example, the statue can wave and turn its head back and forth robotically, or dance around in a circle within its space. You can start or stop the animation by tapping the statue twice in rapid succession (no action required).
+  Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
+- **Weight**: 250 g
 - **Price**: 800 gp
-![Image|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
-*(Source: PHB'24, page 215)*
-
-### Orb of Shielding
-*(Wondrous Item, Common)*
-- **Properties**: [Variant](dm/item_info.md#variant).
-  - *One of the following variants:*
-    - **Fernian Basalt.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Fire** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Irian Quartz.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Radiant** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Kythrian Skarn.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Acid or Poison** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Lamannian Flint.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Lightning or Thunder** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Mabaran Obsidian.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Necrotic** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Risian Shale.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Cold** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Shavarran Chert.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Force** damage while holding the orb in your hand, reduce that damage by 1d4.
-    - **Xorian Marble.**
-    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Psychic** damage while holding the orb in your hand, reduce that damage by 1d4.
-- **Weight**: 200 g
-- **Price**: 800 gp
-![Image|250](https://i.imgur.com/uXYkeWb_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.imgur.com/wqsceXf_d.png?maxwidth=520&shape=thumb&fidelity=high)
 *(Source: Custom)*
 
 ## Items A
@@ -848,6 +815,18 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ![Image|250]() [TODO]
 *(Source: PHB'24, page 219)*
 
+### Halric Varron's Blade
+*(Longsword, Martial Melee Weapon, Uncommon)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Slashing damage.
+- **Properties**: [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+    You gain Advantage on Attacks against Undead with this Weapon.
+- **Mastery**: [Sap](dm/item_info.md#sap).
+- **Weight**: 1.5 kg
+- **Price**: ??
+![Image|250](https://i.imgur.com/uaE48P1_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
+
 ### Hand Crossbow
 *(Hand Crossbow, Martial Ranged Weapon, Common)*
 - **Range**: 6/24 *(9m/36m)*
@@ -952,6 +931,26 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Source: PHB'24, page 226)*
 
 ## Items I
+### Imbued Quarterstaff
+*(Quarterstaff, Simple Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile), [Variant](dm/item_info.md#variant).
+  - *One of the following variants:*
+    - **Fernian Ash.** When you cast a damage-dealing spell that deals **Fire** damage, it deals +1.
+    - **Irian Rosewood.** When you cast a damage-dealing spell that deals **Radiant** damage, it deals +1.
+    - **Kythrian Manchineel.** When you cast a damage-dealing spell that deals **Acid or Poison** damage, it deals +1.
+    - **Lamannian Oak.** When you cast a damage-dealing spell that deals **Lightning or Thunder** damage, it deals +1.
+    - **Mabaran Ebony.** When you cast a damage-dealing spell that deals **Necrotic** damage, it deals +1.
+    - **Risian Pine.** When you cast a damage-dealing spell that deals **Cold** damage, it deals +1.
+    - **Shavarran Birch.** When you cast a damage-dealing spell that deals **Force** damage, it deals +1.
+    - **Xorian Wenge.** When you cast a damage-dealing spell that deals **Psychic** damage, it deals +1.
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 2 kg
+- **Price**: 800 gp
+![Image|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
+*(Source: ERLW, page 277)*
+
 ### Ink
 *(adventuring gear, Common)*
 - **Properties**: Ink comes in a 30 milliliter bottle, which provides enough ink to write about 500 pages.
@@ -1323,6 +1322,31 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Weight**: 500 g
 - **Price**: 1 sp
 *(Source: PHB'24, page 227)*
+
+### Orb of Shielding
+*(Wondrous Item, Common)*
+- **Properties**: [Variant](dm/item_info.md#variant).
+  - *One of the following variants:*
+    - **Fernian Basalt.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Fire** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Irian Quartz.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Radiant** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Kythrian Skarn.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Acid or Poison** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Lamannian Flint.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Lightning or Thunder** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Mabaran Obsidian.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Necrotic** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Risian Shale.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Cold** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Shavarran Chert.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Force** damage while holding the orb in your hand, reduce that damage by 1d4.
+    - **Xorian Marble.**
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Psychic** damage while holding the orb in your hand, reduce that damage by 1d4.
+- **Weight**: 200 g
+- **Price**: 800 gp
+![Image|250](https://i.imgur.com/uXYkeWb_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: ERLW, page 278)*
 
 ## Items P
 ### Padded Armor

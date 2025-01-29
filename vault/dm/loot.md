@@ -19,7 +19,7 @@ Kal:
   R:
 Kazimir: 
   C:
-  UC: Ruby's Grasp
+  UC: Ruby's Grasp, Halric Varron's Blade
   R:
 Mufi: 
   C:
@@ -59,6 +59,7 @@ Nyari:
 # Available Loot
 
 ## Common
+[Greenthumb Whittler](dm/items.md#greenthumb-whittler)
 [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
 [Orb of Shielding](dm/items.md#orb-of-shielding)
 [Clockwork Amulet](dm/items.md#clockwork-amulet)
@@ -72,6 +73,7 @@ Nyari:
 [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 [Circlet of Vitality's Focus](dm/items.md#circlet-of-vitalitys-focus)
 [Feylight Exposé](dm/items.md#feylight-exposé)
+[Halric Varron's Blade](dm/items.md#halric-varrons-blade)
 
 ## Rare
 [Thalioel's Tear](dm/items.md#thalioels-tear)
