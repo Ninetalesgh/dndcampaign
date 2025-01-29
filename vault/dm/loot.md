@@ -64,7 +64,7 @@ Nyari:
 [Orb of Shielding](dm/items.md#orb-of-shielding)
 [Clockwork Amulet](dm/items.md#clockwork-amulet)
 [Horn of Silent Alarm](dm/items.md#horn-of-silent-alarm)
-
+[Owlbear Leather Armor](dm/items.md#owlbear-leather-armor)
 
 ## Uncommon
 [The Rattlestick](dm/items.md#the-rattlestick)
@@ -74,12 +74,16 @@ Nyari:
 [Circlet of Vitality's Focus](dm/items.md#circlet-of-vitalitys-focus)
 [Feylight Exposé](dm/items.md#feylight-exposé)
 [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
-
-## Rare
-[Thalioel's Tear](dm/items.md#thalioels-tear)
 [Ring of Arcane Defense](dm/items.md#ring-of-arcane-defense)
 [Ruby's Grasp](dm/items.md#rubys-grasp)
 [Shatterglass Ward](dm/items.md#shatterglass-ward)
+[Cloak of Protection](dm/items.md#cloak-of-protection)
+[Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
+
+## Rare
+[Mantle of Spell Resistance](dm/items.md#mantle-of-spell-resistance)
+[Ring of Protection](dm/items.md#ring-of-protection)
+[Thalioel's Tear](dm/items.md#thalioels-tear)
 
 ## Rare
 ## Very Rare

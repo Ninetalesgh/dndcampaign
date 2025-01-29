@@ -100,7 +100,33 @@ This weapon can be used with one or two hands. The specified damage roll is used
 ## Variant
 Items with variants have different templates, the variant does not change once determined. *(A Fernian Ash Staff will always be a Fernian Ash Staff)*
 
-## Modified Metal
-[TODO] Rules, but basically 1 variant per item. item has to be mundane. only counts for weapons, armor, and shield?
+## Modifiers
+[TODO] Rules, but basically 1 modifier per item. item has to be mundane. only counts for weapons, armor, and shield?
 
+### Common
+#### Armor of Gleaming
+  This armor never gets dirty.
 
+#### Cast-Off Armor
+  You can doff this armor as a Magic Action.
+
+#### Smoldering Armor
+  Wisps of harmless, odorless smoke rise from this armor while it is worn.
+
+#### Moon-Touched Sword 
+  In Darkness, the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](dm/items.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](dm/items.md#dim-light) for an another 3 *(4.5m)*.
+
+#### Silvered Weapon
+  An alchemical process has bonded silver to this magic weapon. When you score a **Critical Hit** with it against a creature that is shape-shifted, the weapon deals one additional die of damage.
+
+### Uncommon
+
+#### Adamantine Armor
+  This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any Critical Hit against you becomes a normal hit.
+
+#### Adamatine Weapon
+  This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a Critical Hit.
+
+#### Mithral Armor
+Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes.
+If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.

@@ -1350,6 +1350,39 @@ The front of this magic armor is covered in a panel of stained glass. Attuning t
 While wearing the armor, you can use an action to cast the prismatic spray spell from it, using your spell save DC. Alternatively, you can cast this spell as part of using your Channel Divinity. The Channel Divinity must require an action to use, and you choose whether the spell is cast before or after the effects of the Channel Divinity resolve. If your deity is aligned to a particular damage type, such as fire or lightning, you can choose that damage type's respective color, instead of rolling a d8 to determine it, as part of casting the spell from the armor. The armor can't be used to cast this spell again until the next dawn.
 
 
+### Stinkbug Shield
+Armor (shield), uncommon
+
+This shield is designed in the likeness of a brass stinkbug with green accents. While holding it, you can use your reaction when you're hit by a melee weapon attack to release a gaseous plume of stinking fog from the shield. The attacker must immediately succeed on a DC 13 Constitution saving throw or spend the rest of its action and bonus action retching and reeling. A creature that doesn't need to breathe is immune to this effect, but a creature with a trait that grants them advantage on Wisdom (Perception) checks that rely on smell has disadvantage on the saving throw. This property of the shield can't be used again until the next dawn.
+
+### Corsage of the Hidden Thorn
+Wondrous item, uncommon
+
+This corsage is teeming with all manner of verdant plant life. Four roses decorate the corsage, whose colors and arrangement can be magically changed using an action while wearing it. You always smell of fresh plants and roses while wearing the corsage.
+
+You can remove a rose from the corsage as if you were unsheathing a weapon. When you do, the rose's stem magically extends from the flower, transforming into a long thorn at its tip. The rose is considered to be a +1 dagger and can't be returned to the corsage once removed. If a removed rose is more than 5 feet away from the corsage at the end of a turn, it withers and becomes an ordinary dead rose.
+
+The corsage regrows 1d4 missing roses daily at dawn.
+
+### Mercenary's Pauldron
+Wondrous item, uncommon (requires attunement)
+
+This magic pauldron has 3 charges and regains all expended charges daily at dawn. You can use a bonus action while wearing the pauldron to expend 1 of its charges to divine its tactical insights, magically granting you advantage on the next weapon attack roll you make before the end of your next turn. On a hit, the attack deals an extra 1d6 damage of the weapon's type, and you gain that same amount of temporary hit points, which last until the end of your next turn.
+
+
+### Hide of the Wild Guardian
+[TODO] this is very cool but probably too strong for a while
+Wondrous item, legendary (requires attunement by a druid)
+
+This well-worn gray bearskin cloak has been passed down from druid to druid for generations. While wearing it, you gain the following benefits:
+     
+    You gain a +1 bonus to ability checks and saving throws.
+     
+    You can use your Wild Shape feature up to three times between rests, instead of twice, unless you can already use it more.
+     
+    The maximum challenge rating beast you can transform into with your Wild Shape increases by 1.
+     
+    While transformed into a beast, you gain a +3 bonus to AC, as well as to attack and damage rolls with natural weapons, even if the cloak merges into your new form.
 
 
 ### Zweihander
@@ -1428,3 +1461,537 @@ While wearing the armor, you can use an action to cast the prismatic spray spell
 ### Smoldering Stone Dagger
 ![Image|250](https://i.pinimg.com/736x/93/f2/49/93f2492c38da8a7d284a6adf3806fc21.jpg)
 
+
+### Husk
+Armor (shield), very rare (requires attunement by a druid)
+
+While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. When you use your Wild Shape druid feature to turn into a Beast, the segments of this shield magically reassemble over your new shape to form an insectoid exoskeleton. Your new form gains a +3 bonus to its AC.
+
+One With the Swarm. As an action while holding the shield, you can cast the insect plague spell centered on yourself. When cast from the shield, the spell only affects creatures of your choice, and it moves with you for the duration. Additionally, when you take damage while this spell is active, you can use a reaction to command the insect swarm to shield you and halve the damage taken. Each time you use this reaction, the damage that insect plague deals is reduced by 2d10. The spell ends if its damage is reduced to 0d10. Once One With the Swarm has been used, it can’t be used again until the next dawn unless you expend a spell slot of 5th level or higher (casting insect plague at the level of the spell slot expended).
+
+Moonlight refracted off of the green-black carapace of the monster as it burst from the treeline. Its roar sent shivers down my spine. Our logging camp had beefed up defenses in response to warnings from the locals. “A druid protects this forest” they said… but this thing must’ve tore itself straight from hell. I saw snow-white fur beneath its serrated armor. A pair of antennae protruded from its head bedecked with six unblinking eyes. Its maw and claws were ursine. We launched a last-ditch volley of arrows at it, but they clattered against its shell to no effect. The beast smashed through our meager palisade in the blink of an eye. We turned to run, but the bug-bear was too quick. It destroyed my comrades with horrid savagery. As quickly as the carnage started, it was over. The monster pinned me down with one bloody paw, large as my chest, and it spoke this message to me “I am Ursius, I speak for the trees. Defile this land again and your blood will quench its roots. Flee now, and tell the others what fate befell you here.”
+
+### Prayer Beads of Protection
+Wondrous item, uncommon (requires attunement)
+
+When you finish a long rest while wearing these beads, the beads cast the sanctuary spell (DC 13) on you. The spell lasts for 24 hours or until you break it.
+
+### War Banner of the Tactician
+Rod, very rare (requires attunement)
+
+Unless you are incapacitated, while you hold this banner in one hand, you inspire nearby allies. Each friendly creature that starts its turn within 30 feet of you that can see the banner gains the effects of the freedom of movement spell until the start of their next turn.
+
+Tactical Maneuver. When an enemy creature moves within 5 feet of a friendly creature that can see or hear you, you can use your reaction to direct your ally to move up to half its speed without provoking opportunity attacks.
+
+### Runic Axe of the Sunderer
+[TODO] make this a warhammer for Nyari
+Weapon (greataxe), very rare (requires attunement)
+
+This brutal adamantine greataxe has the rare giant “Sunder” rune engraved into it. An accumulation of brittle shale coats the axe and jagged stone shards float around the exposed axehead. When a creature attunes to the axe, its size changes to suit the attuned creature. In its non-attuned state, the axe is large enough for a Huge giant to wield. You have a +2 bonus to attack and damage rolls made with this magic weapon.
+
+Shatter Strike. When you hit a target with this axe, you can cause the shale accumulation to shatter explosively (no action required). Each creature within 10 feet of you (excluding yourself) must make a DC 16 Dexterity saving throw. A creature that is wearing armor or a shield that has been sundered by this axe’s Sunder Rune makes this save with disadvantage. Each creature takes 8d4 piercing damage on a failed save, or half as much damage on a successful one. Once this property of the axe has been used, it can’t be used again until the next dawn.
+
+Sunder Rune. You can only activate this rune if you have a Strength score of 17 or higher. When you score a critical hit with this weapon, and the target is wearing armor or wielding a shield, you can activate the rune to sunder the target’s armor or shield (your choice). You can also activate the rune when you hit a suit of armor or shield with this weapon, and the target object isn’t being worn or carried. When you do so, the armor or shield takes a permanent and cumulative −2 penalty to the AC it offers. If the object is magical, it is immune to this effect. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed by this effect. Once activated, this rune can’t be used again until the next dawn.
+
+### Aegis of Dawn
+Armor (shield), uncommon
+
+This shield has 3 charges, and it regains all expended charges daily at dawn. As a reaction when a Fiend or Undead creature hits you with an attack while you are holding this shield, you can expend 1 charge to cast the shield spell from it. When cast from the shield, the spell only protects against the attacks of Fiends and Undead creatures, and a barrier of radiance surrounds you, shedding bright light in a 10-foot radius and dim light for an additional 10 feet.
+
+### Jumping Sabatons
+Wondrous item, uncommon (requires attunement)
+
+While wearing these sabatons, you can use your bonus action to jump to an unoccupied space that you can see, without provoking opportunity attacks. This jump costs movement as normal.
+
+Leaping Tackle (requires attunement by a barbarian). When you jump with the sabatons, you can choose to land on a space occupied by a Large or smaller creature. Make a contested Strength check. If the creature fails the contest, it takes piercing damage equal to 2d4 + your rage damage bonus and is knocked prone. If the creature succeeds the contest, it suffers no damage or effect and you land in the nearest unoccupied space of your choice.
+
+Surging Leap (requires attunement by a fighter). When you use your Action Surge class feature, you can jump with these sabatons as part of that extra action. This additional jump doesn’t use your movement; however, you can’t jump a distance farther than your full movement would allow. If you land within 5 feet of a creature, you have advantage on attacks against that creature until the end of your turn.
+
+Once Leaping Tackle or Surging Leap has been used, neither property can be used again until you finish a long rest.
+
+### Armor of Retribution
+Armor (any medium armor), rare (requires attunement)
+
+This armor has 5 charges, and it regains 1d4 + 1 expended charges daily at dawn. When you take damage while wearing the armor, you can use your reaction to expend 1 charge and cause spectral bones to burst from your body, shielding you and impaling nearby enemies. You take half damage from the attack and each creature of your choice within 10 feet of you must make a DC 15 Dexterity saving throw. A creature takes 2d8 piercing damage on a failed save, or half as much damage on a successful one.
+
+### Shatterbolt
+Armor (any medium armor), rare (requires attunement)
+
+This armor has 5 charges, and it regains 1d4 + 1 expended charges daily at dawn. When you take damage while wearing the armor, you can use your reaction to expend 1 charge and cause spectral bones to burst from your body, shielding you and impaling nearby enemies. You take half damage from the attack and each creature of your choice within 10 feet of you must make a DC 15 Dexterity saving throw. A creature takes 2d8 piercing damage on a failed save, or half as much damage on a successful one.
+
+### Cloak of the Condor
+Wondrous item, common (requires attunement)
+
+As a reaction when you fall while wearing this cloak, you can cast the feather fall spell, targeting only yourself. Once this spell has been cast from the cloak, it cannot be cast again until the next dawn. Roll a d20 each time you cast the spell from the cloak. On a 1, the spell fails and the cloak permanently loses its magic.
+
+### Crescent Pearl
+Weapon (scimitar), rare (requires attunement)
+
+The pearlescent blade of this scimitar glimmers like the moon and its lapis lazuli handle resembles a starlit night sky. You have a +1 bonus to attack and damage rolls made with this magic weapon. In darkness, the unsheathed blade of this sword sheds dim moonlight in a 10-foot radius. The sword has a number of charges equal to your proficiency bonus and regains all expended charges daily at dawn.
+
+Lunar Flash. As a bonus action while wielding the sword, you can expend one charge to cast the misty step spell from it.
+
+Cosmic Cleave. As a bonus action while wielding the sword, you can expend one charge to suffuse the blade with moonlight. The next target you hit with the sword before the end of your turn takes an extra 2d6 radiant damage.
+
+
+### Death Drum
+[TODO] goblin related
+Wondrous item, rare
+
+This magic instrument is made with the talons, bones, and hide of a nemesis, a creature of ill fortune and demise. All who hear this drum are drawn closer to death.
+
+As an action while holding the drum, you can play a dirge. Each creature within a 30-foot radius of you that can hear the drum (including yourself) is cursed until the start of your next turn. Whenever a cursed creature takes damage, it takes an extra 1d8 necrotic damage.
+
+### Baneblade
+Weapon (any sword), uncommon (requires attunement)
+
+Once on each of your turns, when you hit a creature with this magic sword you can curse it until the end of its next turn. Whenever the cursed creature makes an attack roll or a saving throw, the creature must roll a d4 and subtract the number rolled from the attack roll or saving throw. This curse has no effect on a creature under the effect of the bane spell. A remove curse spell ends this effect and grants the target immunity to the sword’s curse for 24 hours.
+
+### Bandolier of Many Knives
+Wondrous item, rare (requires attunement)
+
+This leather bandolier has eight daggers sheathed in it. You have a +1 bonus to attack and damage rolls made with one of these magic daggers. A dagger removed (or thrown) from the bandolier vanishes at the end of your turn and reappears on the bandolier, unless you are wielding the dagger as a melee weapon. You can draw a dagger from the bandolier (no action required) as part of making an attack with it.
+
+Fan of Blades. As an action while wearing the bandolier, you can throw all eight daggers at once. You must have a free hand to do so. Each creature in a 15-foot cone must make a DC 15 Dexterity saving throw. A creature takes 8d4 + 8 piercing damage on a failed save, or half as much damage on a successful one. Once this property of the bandolier has been used, it cannot be used again until the next dawn.
+
+### Pilum of Plummeting
+Weapon (javelin), uncommon
+
+Ethereal chains spring from anything this magical javelin hits, binding and tethering it to the ground. A creature hit by this javelin must make a DC 13 Strength saving throw, or its flying speed (if any) is reduced to 0 feet for 1 minute. An airborne creature affected by this spell safely descends at 100 feet per round until it reaches the ground or the effect ends. At the end of each of its turns, the target can repeat the saving throw, ending the effect on a success. Once the javelin hits a creature, it becomes nonmagical.
+
+### Hammerstrike
+[TODO] cool leadership style hammer for Nyari
+Weapon (maul), rare (requires attunement)
+
+This weighty maul is cast entirely of platinum and meticulously engraved with heroic scenes from Hammond Hammerstrike I’s past. You gain a +1 to attack and damage rolls made with this magic weapon. In darkness, the head of this hammer glows a brilliant silvery light, creating bright light in a 30-foot radius and dim light for an additional 30 feet. While the hammer is glowing, the engravings on its surface animate and act out scenes of mining, exploration, and battle.
+
+Aura of Leadership. As an action, you can hold the hammer aloft to emit a 30-foot aura of emboldening radiance. Up to 6 creatures of your choice (including yourself) within the aura gain one Leadership die each, a d8. Within the next 10 minutes, a creature can roll their Leadership die and add the number rolled to any ability check, attack roll, or saving throw it makes. Each time a Leadership die is rolled, it decreases by one size (from a d8 to a d6 to a d4). Once a d4 Leadership die is rolled, it is lost. After this property of the hammer has been used, it cannot be used again until the next dawn.
+
+### Venomous Arrow
+Weapon (arrow), rarity varies
+
+The rarity of this magic ammunition is determined by the age of the scorpula stinger affixed to its tip. An arrow with a larval stinger is uncommon, juvenile is rare, and adult is very rare. The poisonous effects of this arrow are non-magical and cannot be dispelled or canceled by an antimagic field.
+
+Larval. A venomous arrow tipped with a larval scorpula stinger has these properties:
+ 
+    A creature hit by the arrow takes an extra 1d8 poison damage and must make a DC 13 Constitution saving throw or be poisoned for 1 minute. A poisoned creature can remake the save at the end of each of its turns, ending the effect on a success. Once it hits a target, the arrow is no longer magical and its venom is expended.
+
+Juvenile. A venomous arrow tipped with a juvenile scorpula stinger has these properties:
+     
+    The extra poison damage increases to 3d8.
+     
+    The poison’s save DC increases to 15. A creature that fails this save by 5 or more is paralyzed until the poison ends.
+     
+    Scorpula Swarm. As an action, you can cast the insect plague spell (save DC 15) from the arrow by firing it at a point within 300 feet of you. When cast in this way, the spell deals poison damage instead of piercing. The arrow is destroyed when used in this way.
+
+Adult. A venomous arrow tipped with an adult scorpula stinger has these properties:
+     
+    The extra poison damage increases to 6d8.
+     
+    The poison’s save DC increases to 16 and its duration increases to 10 minutes.
+     
+    The save DC for insect plague increases to 16 and it is cast as an 8th level spell.
+
+### Entropic Arrow
+Weapon (arrow), rarity varies
+
+The rarity of this ammunition is determined by the type of gemstone embedded in its shaft. An uncommon arrow is chrysoberyl, rare is peridot, and very rare is emerald.
+
+Chrysoberyl. An entropic arrow embedded with chrysoberyl has these magical properties:
+
+    On a hit, this arrow deals an extra 1d8 necrotic damage to the target. If the target is a creature, its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the creature finishes a long rest. Once it hits a target, the ammunition is no longer magical.
+
+Peridot. An entropic arrow embedded with peridot has these magical properties:
+     
+    The extra necrotic damage increases to 2d8.
+     
+    Enervating Cone. If you speak the arrow’s command word while firing it, the arrow shatters into a 30-foot-cone of negative energy. Each creature in the area must succeed on a DC 15 Constitution saving throw or become enervated for 1 minute. An enervated creature can’t regain hit points and it has disadvantage on Strength-based attack rolls and checks. At the end of each of its turns, an enervated creature can repeat the saving throw, ending the effect on itself on a success. Conversely, undead creatures in the area are empowered by this effect, and gain advantage on attack rolls and Strength checks for 1 minute. The arrow is destroyed when used in this way.
+
+Emerald. An entropic arrow embedded with emerald has these magical properties:
+     
+    The extra necrotic damage increases to 4d8.
+     
+    A target hit by this arrow must succeed on a DC 16 Constitution saving throw or be aged a number of years equal to half the necrotic damage it took, rounded down. This aging effect can only be reversed by a wish spell.
+     
+    Enervating Cone’s range increases to a 60-foot-cone and the save DC increases to 16.
+
+### Luminous Arrow
+Weapon (arrow), rarity varies
+
+The rarity of this ammunition is determined by the metal its tip is made of. An uncommon arrow is steel-tipped, rare is mithril-tipped, and very rare is adamantine-tipped.
+
+Steel. A luminous arrow tipped with steel has these magical properties:
+
+On a hit, this arrow deals an extra 1d6 radiant damage to the target. The damage increases by 1d6 if the target is an undead or a fiend. An undead creature of CR 1 or lower hit by this arrow must succeed on a DC 13 Constitution saving throw or immediately die and turn to ash. Once it hits a target, the ammunition is no longer magical.
+
+Mithril. A luminous arrow tipped with mithril has these magical properties:
+     
+    The extra radiant damage increases to 2d6 for both the base and creature-type-specific instances.
+     
+    The CR increases to 2 and the save DC increases to 15.
+     
+    Illuminate. If you shoot the arrow straight upward, it creates a 60-foot-radius sphere of sunlight 30 feet above you for 1 minute. The sphere is bright light and sheds dim light for an additional 60 feet. The arrow is destroyed when used in this way.
+
+Adamantine. A luminous arrow tipped with adamantine has these magical properties:
+     
+    The extra radiant damage increases to 3d6 for both the base and creature-type-specific instances.
+     
+    The CR increases to 3 and the save DC increases to 16.
+     
+    The radius of both bright and dim light for Illuminate increases to 120 feet, and the duration increases to 10 minutes.
+
+
+### Chain Devil's Embrace
+[TODO] maybe some crazy thing or Kazimir or Ayra
+Armor (chain mail or chain shirt), very rare (requires attunement by a lawful creature)
+
+This mass of chains slithers with sinister sentience, threatening to constrict anyone in reach. Each chain ends in a rusty hook or wicked blade, perfect for snaring and lacerating victims. Donning the chains as a suit of armor is an unpleasantly confining experience, but the living metal adjusts to provide ample protection and mobility to its wearer. You can choose to don it as a suit of chain mail or a chain shirt. You have a +1 bonus to AC while wearing this armor.
+
+Infernal Oath. In order to attune to this armor, you must declare an oath that will bind you together. The oath can be any goal, set of rules, or moral tenet that you choose, however it must be clearly defined and actionable. If the oath is of sufficient clarity and importance, it appears in written form and must be signed in blood before it burns away.
+
+Grasping Chains. The armor has 7 charges, and it regains 1d4 + 3 expended charges daily at dawn. As an action while wearing it you can expend 1 charge to shoot out hook-tipped chains to ensnare a creature that you can see within 10 feet of you. Make an attack roll against the target with a +8 bonus. On a hit, the target takes 2d6 slashing damage and, if it is Huge or smaller, it is grappled (escape DC 16). Until this grapple ends, the target is restrained, takes 1d6 piercing damage at the start of each of its turns, and you can’t use Grasping Chains.
+
+Devilish Form. While wearing the armor, as a bonus action you can invoke its infernal essence for 1 minute. For the duration, you gain the following effects:
+     
+    Your skin turns blood red, your eyes glow like coals, and chains writhe across your body.
+     
+    Grasping Chains’ range increases to 60 feet. It deals an extra 2d8 fire damage when it hits a target.
+     
+    You are immune to fire damage.
+     
+    As a reaction when a creature starts its turn within 30 feet of you and you can see one another, you can create the illusion that you look like one of the creature's departed loved ones or bitter enemies. It must succeed on a DC 16 Wisdom saving throw or be frightened until the end of its turn. Creatures that can see through illusions are immune to this effect.
+
+Once you’ve used Devilish Form, it cannot be used again until the next dawn.
+
+Sentience. The Chain Devil’s Embrace is a sentient, lawful evil suit of armor with an Intelligence of 11, a Wisdom of 12, and a Charisma of 14. It has hearing and darkvision vision out to a range of 120 feet. The armor communicates telepathically to the creature attuned to it and can speak, read, and understand Infernal and Common.
+
+A sadistic chain devil named Tyrastr lives within the Chain Devil’s Embrace. The armor yearns to inflict pain and tyranny on others. It doesn’t care what the beliefs of its wearer are, so long as they are enforced meticulously and transgressors are punished without mercy.
+
+Curse. While wearing this armor, Tyrastr demands strict adherence to your oath. If you act contradictory to your oath or do not seize an opportunity to mercilessly pursue it, the chains constrict around you and you take 1d8 piercing damage. The damage increases by 1d8 with each subsequent transgression. If this damage reduces you to 0 hit points, you immediately die and your soul is sent to hell, where it is imprisoned by a chain devil warden.
+
+Until your attunement to this armor ends, you have disadvantage on ability checks, attack rolls, and saving throws while wearing any other armor.
+
+### Iron Maiden
+[TODO] lategame kazimir item
+Armor (plate), legendary (requires attunement)
+
+The interior of this suit of iron armor is lined with brutal spikes. Donning the armor is an excruciating procedure that binds it to your body by piercing your flesh. Your hit point maximum is reduced by a number equal to your character level. Roll a d100. If the number rolled is greater than your new hit point maximum, you immediately die and the attunement fails.
+
+The armor suspends your lifeforce while you are imprisoned within it, and grows in power as your blood is spilled, feeding off of your agony to fuel its magic. While wearing the armor you gain the following benefits:
+
+    You have a +1 bonus to AC.
+     
+    You are immune to exhaustion and the frightened condition.
+     
+    Death Howl. When damage drops you to 0 hit points, you can emanate a psychic wail of agony and drop to 1 hit point instead. Each creature of your choice within 60 feet of you that can hear you must succeed on a DC 17 Wisdom saving throw or take psychic damage equal to the damage you took. Once this property has been used, it can’t be used again until the next dawn.
+
+While wearing the armor and you have fewer than half of your maximum hit points (rounded down), you gain the following benefits:
+
+    The AC bonus increases to +2.
+     
+    Bloody Vigor. Once on each of your turns, when you hit with an attack or deal damage with a spell, you can deal an extra 2d8 damage to one of the targets. If the target is a creature, you gain temporary hit points equal to the extra damage dealt.
+
+While wearing the armor and you have fewer than one quarter of your maximum hit points (rounded down), you gain the following benefits:
+     
+    The AC bonus increases to +3.
+     
+    The extra damage from Bloody Vigor increases to 4d8.
+
+Curse. The armor cannot be removed unless this curse is broken via the remove curse or wish spell. If the armor is removed, the magic that sustained your mangled body ends. You immediately drop to 0 hit points and you have disadvantage on death saving throws for the next 1d6 days.
+
+### Misty Shiv
+Weapon (dagger), rare (requires attunement)
+
+A chilling mist wafts from the blade of this dagger. The misty shiv has 3 charges, and regains all expended charges daily at dawn. As a bonus action you can expend one charge to cast the misty step spell from the dagger. Upon reappearing, the next attack you make with this dagger before the end of the turn deals an extra 1d6 cold damage on a hit.
+
+### Puffbomb
+[TODO] cool craftable grenade?
+Wondrous item, rare
+
+This 3-inch diameter spherical fungal sac is filled with poisonous spores that burst forth if disturbed.
+
+You can use an action to throw the puffbomb up to 60 feet. The puffbomb bursts on impact, expelling a 10-foot-radius cloud of spores that lingers for 1 round. When a creature enters the cloud’s area for the first time on a turn or starts its turn there, that creature must make a DC 15 Constitution saving throw. On a failed save, a creature takes 2d10 poison damage and is poisoned for 1 minute. On a successful save, a creature takes half as much damage and is not poisoned. A creature poisoned in this way is assaulted by hallucinations and paranoid delusions as if under the effect of the confusion spell. At the end of each of its turns, an affected target can repeat the saving throw, ending the effect on a success.
+
+Alternatively, you can use an action to attach the puffbomb’s sticky end to a solid surface. A puffbomb set in this way will burst when a creature touches it by entering the space it occupies.
+
+### Focusblade
+Weapon (any sword), very rare (requires attunement)
+
+You gain a bonus to attack and damage rolls made with this sword equal to half your proficiency bonus (rounded down). This sword has a number of charges equal to half your proficiency bonus (rounded down), and it regains all expended charges when you complete a long rest. When you attack with this weapon and miss, you can expend 1 charge to turn that miss into a hit.
+
+### Titan's Greatbow
+Weapon (longbow), very rare (requires attunement)
+
+This massive longbow is bound together from a bundle of saplings. Runic enchantments engraved into metal rings along its limbs empower the wielder with the strength to wield it. The bow has a normal range of 200 feet and a long range of 800 feet, and you have a bonus to damage rolls equal to your Strength modifier or +2, whichever is higher.
+
+Enlarging Arrow. The bow has 5 charges, and it regains 1d4 + 1 expended charges daily at dawn. When you make a ranged attack with the bow, you can expend 1 charge to cause the arrow to grow to immense proportions in mid-flight. On a hit, the target takes an extra 2d8 piercing damage if it is in the bow’s normal range, or 3d8 if it is in the bow’s long range. Additionally, if the target is a creature, it must make a successful DC 16 Strength saving throw or be knocked prone. This arrow deals double damage to objects and structures. The arrow then reverts to its normal size.
+
+### Coldhand
+Ring, uncommon (requires attunement)
+
+This iron band is ringed with frost and embedded with milky blue uncut larimar. The hand upon which you wear the ring is pale and ice cold to the touch. The ring has 3 charges, and it regains all expended charges daily at dawn. You can expend 1 charge while wearing the ring to do one of the following options:
+
+Chilling Blow. When you hit a target with an unarmed strike or a melee weapon attack, the target takes an extra 2d6 cold damage and it must make a successful DC 13 Constitution saving throw or it can’t take reactions and its speed is halved until the end of its next turn.
+
+Ice Javelin. When you take the Attack action, if your ring-wearing hand is free, you can replace one of the attacks with a special thrown weapon attack. As part of the attack, you summon a javelin made of ice and throw it at a target that you can see within range. The ice javelin uses the damage die and weapon properties of a typical javelin. Hit or miss, the javelin then explodes. The target of your attack and each creature within 5 feet of it must succeed on a DC 13 Dexterity saving throw or take 2d6 cold damage. If the attack hit, the target has disadvantage on this saving throw.
+
+### Icebreaker
+[TODO] rework for Nyari
+
+### Rooting Arrows
+Weapon (arrow), uncommon
+
+Rooting arrows are a type of arrow created by militant druid circles and ranger conclaves. There are multiple types of these arrows, which are described below. After a rooting arrow's been fired from a bow as part of a weapon attack, it continues to grow until its effect occurs at the start of your next turn. Once the effect ends, the arrow withers away and is destroyed. If an arrow hits a target, it remains centered on the target until a creature within reach uses an action to remove it. If an arrow misses a target, it lands in a space at the GM's discretion.
+
+Floral. This arrow grows into a beautiful, enchanting flower. When its effect occurs, each humanoid within 10 feet of the arrow must make a DC 13 Wisdom saving throw, and it does so with advantage if you or your companions are fighting it. On a failed save, the humanoid is charmed by the creature who fired it for 1 minute or until the creature takes any damage.
+
+Ivy. This arrow grows into a writhing mass of vines. When its effect occurs, each creature within 5 feet of the arrow must make a DC 13 Strength saving throw. On a failed save, a creature is grappled by the vine for 1 minute. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the vine (AC 10) also frees the creature without harming it, ending the effect and destroying the vine. On a successful save, a creature's speed is halved until the end of its next turn as it struggles against the vines.
+
+Spruce. This arrow grows painful tree needles that burst from it when it finishes growing. When the effect occurs, each creature within 10 feet of the arrow must make a DC 13 Dexterity saving throw. A creature takes 2d8 piercing damage on a failed save, or half as much damage on a successful one.
+
+### Rod of Instant Pillars
+Rod, uncommon
+
+This rod looks like a miniature stone pillar. You can use an action to set it down in an unoccupied space on solid ground within 5 feet of you and speak its command word. The rod then expands upward, creating a vertical pillar made of stone in that space. The pillar is a 5-foot-diameter cylinder and grows upward to fill the available space, up to 20 feet tall. Regardless of its size, it always weighs 500 pounds while in its pillar form. A creature can use an action to make a DC 20 Strength check, moving the pillar on a success. If the pillar is moved in any way, it magically returns to its normal rod form.
+
+The pillar remains until it's moved. When you speak the rod's command word, you can choose the style, color, and apparent quality of the pillar it creates.
+
+### Steel Hawk Handaxe
+[TODO] Very cool throwable for Kazimir
+Weapon (handaxe), uncommon
+
+When you hurl this magic axe and speak its command word, choose up to 4 different creatures that you can see, recording the order in which you choose each one. The first target must be within the weapon's range; each subsequent one must be within 20 feet of the previous target. Make a ranged attack against each target using the handaxe, treating each one after the first as if the weapon was thrown from the previous target's space. Immediately after the last attack, the weapon flies back to your hand.
+
+This property can't be used again until the next dawn. In the meantime, the handaxe can still be used as a magic weapon.
+
+
+### Bramble Token Cuff
+[TODO] cool reward from Alenna
+Wondrous item, uncommon
+
+This green ear cuff magically grips and coils around your ear while you're wearing it. You can use an action to speak the cuff's command word and throw it on the ground at a point you can see within 30 feet of you. The cuff then shatters, destroying it, and immediately grows into a mass of twisting vines and thorns in one of the following shapes of your choice:
+
+Circle. The thorns grow in a 20-foot-radius circle on the ground that's centered on the point where the cuff landed. The area becomes difficult terrain for the duration, and when a creature moves into or within the area, it takes 2d4 piercing damage for every 5 feet it travels.
+
+Cone. The thorns extend in a 30-foot cone originating from the point where the cuff landed in a direction of your choice. Each creature in the area must make a DC 13 Strength saving throw. On a failed save, a creature takes 2d8 piercing damage and is grappled for the duration. A creature can use its action to make a DC 13 Strength check, freeing itself or another creature within its reach from the thorns on a success. Dealing 10 fire or slashing damage to the thorns (AC 10) also frees the creature without harming it, ending the effect. On a successful save, a creature takes half as much piercing damage and isn't grappled.
+
+Cylinder. The thorns erupt into a towering pillar of scraggly vines. The pillar is a 5-foot-radius, 40-foot-high cylinder. If the space isn't large enough for the vines, they harmlessly grow to fit the space. A creature in the area of the cylinder when it appears is either pushed to the nearest unoccupied space within 5 feet of it or is lifted on top of the pillar (its choice).
+
+Line. The thorns create a dense wall of bramble-like brush in a straight line up to 30 feet long, 10 feet high, and 6 inches thick. A creature can move through the wall using an action to pull and fight through the tangled mass of painful thorns. When it does, the creature takes 2d8 piercing damage and can't move until the start of its next turn. Dealing 10 fire or slashing damage to the wall (AC 10) temporarily destroys a 5-foot-wide portion of it until the end of the turn, at which point it magically regrows.
+
+The vines and thorns remain for 1 minute, at which point they decompose and turn to rich soil.
+
+### Sun and Moon Shield
+Armor (shield), common
+
+This shield is embossed with personified sun and moon designs. The sun's eyes magically open between dawn and dusk, and the moon's eyes open between dusk and dawn. While holding the shield, you can use an action to cause the shield to shed bright light in a 20-foot radius, and dim light for an additional 20 feet. The light is warmly colored while the sun's eyes are open, but cool while the moon's are. The light remains for 1 hour or until you use an action to end it.
+
+### Mirrorlight Stinger
+Weapon (any bow), rare
+
+This bow is decorated with mirrorlight crystals, allowing it to recreate illusions of the arrows fired from it. When you take the Attack action using the bow, you can use a bonus action to make a special ranged weapon attack with it. This attack fires an illusory arrow from the bow, and on a hit, it deals force damage instead of piercing damage. You don't add your ability modifier to the damage of this special attack, unless that modifier is negative. The illusory arrow vanishes immediately after the attack.
+
+### H'rethi Cloak of Shielding
+[TODO] on flavor for Kal
+Wondrous item, very rare (requires attunement)
+
+This asymmetrical cloak is typically worn by desert nomads in place of more durable armor. Its woven fibers have been enchanted to be like the shifting sand of the desert, shrugging off extraordinary heat and devastating blows. While wearing the cloak, you have resistance to fire damage, and any critical hit against you becomes a normal hit. The cloak also has 4 charges and regains 1d4 expended charges daily at dawn. When a creature within 5 feet of you hits you with an attack (but before it deals damage), you can use your reaction to expend 1 of the cloak's charges to force that creature to reroll the attack. It must use the new roll.
+
+
+### Ring of the Printless
+Ring, common
+
+This patinaed copper ring has a waving pattern etched inside it that resembles a traditional fingerprint. While wearing the ring, your hands leave no fingerprints or natural oil behind on objects you touch.
+
+### Glaive of the Forest Guardian
+[TODO] alright weapon for Kal
+Weapon (glaive), rare (requires attunement)
+
+The blade of this weapon is made of clear green crystal, and has decorative vines and flora wrapping around its metallic haft. While the weapon is on your person, You have advantage on saving throws against being charmed, and magic can't put you to sleep. If you're a fey or have the Fey Ancestry trait, you can use an action to cast the plant growth spell from the weapon while you're holding it. Once the glaive has been used to cast this spell, it can't do so again until the next dawn.
+
+In addition, while in a forest, you gain the following benefits while the glaive is on your person:
+
+    Moving through nonmagical difficult terrain costs you no extra movement.
+     
+    You can't become lost except by magical means.
+     
+    Whenever you make an Intelligence or Wisdom check related to the forest you're in, your proficiency bonus is doubled if it applies to the check.
+     
+    If you're a ranger, your climbing, swimming, and walking speeds also increase by 5 feet.
+
+### Phoenix fan
+[TODO] another smoke themed item for Ayra
+Wondrous item, rare
+
+This vibrant paper fan bears a gilded phoenix design and fire opals along its wooden clasp. The fan has 4 charges and regains 1d4 expended charges daily at dawn. While holding the fan, you can use an action to expend 1 or more of its charges to cast one of the following spells from it (save DC 15, spell attack bonus +7): fire shield (4 charges), fog cloud (1 charge; the cloud is made of smoke), scorching ray (2 charges), or wall of fire (4 charges). Alternatively, you can use a reaction when you or a creature within 60 feet of you falls to expend 1 of the fan's charges to cast the feather fall spell on up to five falling creatures within range.
+
+You can cast these spells from the fan even if it doesn't have enough charges. When you do, there is a cumulative 20% chance that the fan is destroyed for each spent charge beyond the number of remaining charges in the fan. If the fan is destroyed in this way, the spell fails and the action to cast it is wasted, and the fan is consumed by flame as it turns to ash and is destroyed.
+
+### Rod of the Scarecrow
+[TODO] probably cool earyl farm related item? 
+Rod, uncommon
+
+This wooden rod has a small stuffed scarecrow head on its end. You can use an action while holding the rod to speak its first command word. When you do, the rod's head transforms into a full scarecrow and leaps from your hand, landing in an unoccupied space that you can see within 5 feet of you and balancing on the rod. The summoned scarecrow uses the zombie's statistics with the following changes:
+
+    The scarecrow is a construct, instead of undead, and can't understand any languages.
+     
+    The scarecrow holds a farmer's sickle. It can use its action to make two attacks with its sickle (+3 to hit). On a hit, it deals 1d4 + 1 slashing damage.
+     
+    Small and Tiny beasts have disadvantage on attack rolls against the scarecrow.
+
+The scarecrow obeys your mental commands (no action required by you) and takes its turn immediately after yours. If you don't issue any commands, it defends itself from hostile creatures, but otherwise takes no actions. The scarecrow remains for 1 hour or until it dies or you use an action to speak its first command word again. The scarecrow reverts to the rod form at the end of the duration.
+
+You can use a bonus action to speak the rod's second command word. If you're holding the rod, each creature within a 15-foot cone must succeed on a DC 13 Wisdom saving throw or be frightened of you for 1 minute or until it takes damage. Small and Tiny beasts have disadvantage on the saving throw. If the scarecrow is summoned when you speak the command word, each creature within 15 feet of it must make the saving throw instead.
+
+Once a command word has been used, it can't be used again until the next dawn.
+
+### Coldfire Phoenix Draft
+[TODO] cool late reward
+Potion, legendary
+
+This frigid potion is made from Everglacier ice that's been boiled by the flames of a phoenix. A single, downy phoenix feather rests inside the bottle, which has turned blue from the potion's magic.
+
+When you drink this potion using an action, you gain resistance to cold damage until you die. When you die, you are immediately returned to life with 1 hit point and 100 temporary hit points. While you have these temporary hit points, you are immune to cold damage, your speed is halved, and you have disadvantage on ability checks.
+
+### Amulet of the Lycanthrope
+[TODO] Rework to be a bonus for shapeshifting for Kal?
+Wondrous item, rare (requires attunement)
+
+This rounded amulet depicts a harrowing crescent moon with blood-red claw marks running through its center. The markings emit a dim red light on the day of a full moon.
+
+If you're not a lycanthrope, you can use a bonus action while wearing the amulet to assume a more bestial appearance, taking on the claws and defining features of either a bear, rat, tiger, or wolf (your choice). This transformation lasts for 1 minute or until you drop to 0 hit points or use a bonus action to revert to your normal form. For the duration, you can use your claws as natural weapons when making unarmed strikes. If you hit with them, you deal slashing damage equal to 1d8 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. In addition, you have advantage on Wisdom (Perception) checks that rely on hearing or smell for the duration of the transformation. This property can't be used again for 12 hours or until the next dusk, whichever comes first. Alternatively, if it's within 24 hours of a full moon, this property can be used again after 6 hours, instead of 12.
+
+If you're already a lycanthrope and are wearing the amulet, your claw and bite attacks while in your animal or hybrid forms deal an extra 1d8 necrotic damage and count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. In addition, your bite attack save DC increases by 3.
+
+Curse. This amulet is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you have disadvantage on saving throws made to resist becoming cursed by lycanthropy.
+
+### Scorpio Armor
+[TODO] for Kal, in crates the circus scorpion whisperer left
+Armor (half plate or plate), uncommon (requires attunement)
+
+This armor is made from the treated carapace of a giant scorpion. You can benefit from the armor, as described below, even if you aren't attuned to it.
+
+While wearing this armor, it doesn’t impose disadvantage on your Dexterity (Stealth) checks while you’re in dim light or darkness. However, your speed is reduced by 5 feet while you're in sunlight, as the armored husk recoils and constricts from it.
+
+While attuned to this armor and wearing it, you have advantage on saving throws against poison. In addition, you can use a bonus action to close your eyes and speak the armor's command word. When you do, you create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature within 30 feet of you that's on the ground as if you had tremorsense out to a range of 30 feet. Once the armor's command word has been used, it can't be used again until the next dusk.
+
+### Cottage Chest
+[TODO] Good reward for the whole group midgame  
+Wondrous item, rare
+
+This 1-foot-long chest looks like a replica of a woodland cottage and is magically locked. You can use an action to place this chest on the ground and speak its command word. The chest immediately unlocks and grows into a cottage that remains until you use an action to speak the command word that dismisses it, which works only if the cottage is empty. When dismissed, the cottage returns to its normal chest form. If there isn't enough space for the cottage or there are creatures in its area when you speak the command word, the chest remains locked and the action is wasted.
+
+The cottage is a wooden, two-story building that's 40 feet wide and 65 feet long. Inside is a kitchen, a dining room, and a large parlor with an ever-burning fire in its hearth. A curling stairway leads to the second floor, which has 4 bedrooms equipped with furniture you'd find in a modest to respectable inn. The first floor has six windows, and each bedroom on the second floor has one. When activated, the cottage has a small door on the side facing you. The door opens only at your command, which you can speak as a bonus action. It is immune to the knock spell and similar magic, such as that of a chime of opening.
+
+The cottage's kitchen is filled with magical utensils that automatically stir, measure, and heat all manner of cuisine. Any check made using cook's utensils within the cottage has advantage on the roll. When left to its own devices, the cottage magically produces an array of baked goods for up to 8 creatures when the cottage appears for the first time each day and again each day at dawn until it is dismissed. Eating the food within the cottage provides enough nourishment to sustain a creature for one day. If any baked goods are left uneaten, they vanish at dawn as the new goods appear. Any baked good, furniture, or similar object vanishes when taken outside the cottage and immediately reappears inside.
+
+Further, fey and fiends can't enter the cottage unless you choose to let them, and creatures can't move or travel into it using teleportation or by extradimensional or interplanar means.
+
+The cottage is made of wood and plaster, and its magic prevents it from being tipped over or moved. The roof, the door, and the walls (including the windows) each have 60 hit points, immunity to damage from nonmagical weapons excluding siege weapons, and resistance to all other damage. Only a wish spell can repair the cottage (this use of the spell counts as replicating a spell of 8th level or lower). Each casting of wish causes the roof, the door, or one wall to regain all its hit points.
+
+### Mandible Bident
+[TODO] cool flavor for Kal
+
+### Soleless Sandals
+[TODO] cool for Nyari
+Wondrous item, rare (requires attunement)
+
+These sandals have no sole and they amplify the sensation of the ground beneath your feet. While wearing the sandals, you have tremorsense out to 10 feet. If you already have tremorsense, wearing the sandals increases its range by 10 feet.
+
+Staggering Fissure. As an action while wearing the sandals, you can stomp the ground to cause vibrations along the ground within a 5-foot-wide, 30-foot-long line. Each creature in that area must make a DC 15 Dexterity saving throw. On a failure, a creature takes 3d10 bludgeoning damage and falls prone. On a success, a creature takes half as much damage and its walking speed is reduced by 10 feet until the end of its next turn instead. Once this property has been used, it cannot be used again until next dawn.
+
+### Flanker's Bow
+Weapon (shortbow), rare (requires attunement)
+
+When you make an attack with this bow, you have advantage on the attack roll if you've made another attack with the bow this turn against the same target and you're 20 feet or more from where the previous attack was made.
+
+Swift Shot. Immediately after you attack with this bow, you can make an attack with this bow as a bonus action. You can use this property a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Flurry of Bows (requires attunement by a monk). Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two attacks with this bow as a bonus action.
+
+### Cannibal's Cutlery
+Wondrous item, uncommon
+
+You can extract knowledge from the food you eat while using this cutlery. As an action while eating the flesh of a creature, you can telepathically ask the creature one question as if you cast the speak with dead spell. The response appears visually and audibly in your mind. This property can only be used to extract information from a creature once. Additionally, you have advantage on any check to deduce knowledge about a creature’s lived experience whose flesh you have consumed.
+
+Curse. If you eat the flesh of a humanoid with this cutlery, you become cursed with an insatiable hunger for humanoid meat. You gain one level of exhaustion for every 3 days that pass without eating humanoid meat. This exhaustion can only be removed by eating 1 lb of humanoid flesh, which removes all levels of exhaustion. If this curse is lifted, the exhaustion is removed as well.
+
+
+### Quagmire Maul
+Weapon (maul), very rare (requires attunement)
+
+This old, withered hammer seemingly belongs in a swamp. Regardless of the conditions the hammer is kept in, it is always damp and smells of bog water. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+
+This hammer has 10 charges and regains 1d6 + 4 expended charges each day at dawn. As an action, you can expend 1 or more of the hammer's charges to slam it into the ground and transform the area around you into sickly, swamp-like terrain that remains for 1 minute. When you do, choose a space within 5 feet of you. You create a swamp that fills that space and adjacent spaces in a 5-foot radius with a thick muck up to 1 foot deep. For each additional expended charge after the first, the radius of the swamp increased by 5 feet. This area is considered difficult terrain. While you're holding the hammer, you can traverse the magical swamp as if it were normal terrain.
+
+If you expend the last charge from the hammer, roll a d20. On a 1, the hammer turns to a viscous muck in your hands and is destroyed.
+
+### Hammer of Thorns
+[TODO] for Nyari
+Weapon (warhammer), rare (requires attunement)
+
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. The hammer has 10 charges and regains 1d8 + 2 expended charges daily at dawn.
+
+Wall of Thorns. While holding the hammer, you can use an action to expend 1 or more of its charges to slam it down into the ground. When you do, a wall of thorns appears (save DC 16), as if by the spell, which originates in a space within 5 feet of you. The wall is up to 5 feet long for each charge you expend. This version of the spell doesn't require concentration and deals no damage to any creature that succeeds on the saving throw when it appears; such a creature is instead pushed to one side of the wall (your choice). The wall remains for the duration of the spell or until this property of the hammer is used again.
+
+
+### Spiker and Striker
+[TODO] Cool Kazimir item
+Weapon (dagger and warhammer), rare (requires attunement)
+
+This warhammer and nail-like dagger share a magical bond. Despite being a pair of weapons, they are considered to be a single item for the purposes of attuning to them. You gain a +1 bonus to attack and damage rolls made with these magic weapons. While wielding only the warhammer or both it and the dagger in either hand, the warhammer also has the light property.
+
+When you hit a target with Spiker (the dagger), you can choose to leave the weapon embedded in the target. The first time you hit that target using Striker (the warhammer) while the dagger is embedded in it, the target takes an extra 1d12 piercing damage from the attack. The dagger then magically returns to your hand. It returns early if you don't deal this extra damage before the end of your next turn or if a creature uses an action to remove it from the target. If you don't have a free hand when Spiker returns to you, it lands at your feet instead.
+
+
+### Shield of Yggdrasil
+[TODO] cool for Nyari
+Armor (shield), very rare (requires attunement)
+
+You must have a Strength of 17 or higher in order to wield this massive, magical tower shield. The shield is of dwarven make and functions as a small battlement, granting you an additional +1 bonus to your AC while you wield it. This bonus is in addition to the shield’s normal bonus to AC.
+
+Shield plant. As a bonus action, you can plant this shield on the ground to barricade yourself behind it, granting you half cover against ranged attacks from the direction you’re facing. While you wield the planted shield, bludgeoning, piercing, and slashing damage you take from nonmagical weapons is reduced by 3, but your movement speed becomes 5 feet. You can uproot the shield to end this effect as an action.
+
+You can doff the shield when planting it by using an action to do so instead of a bonus action. The shield magically remains upright and in place and can be used as half cover to any creature standing immediately behind it in the space it was left in. The shield falls down when you fall unconscious or when knocked over following a successful DC 20 Strength (Athletics) check. You can move the shield while it’s planted by donning the shield again.
+
+This shield has 3 charges and regains all expended charges each day at dawn. You can expend 1 charge when you plant this shield or later on a subsequent turn as a bonus action to send out metal roots along the ground in a 10-foot radius, centered on the shield. Enemy creatures treat this area as difficult terrain. Moving the shield also moves the roots. The roots remain until you uproot the shield or it falls over. 
+
+You can choose to use an action instead of a bonus action in order to plant the shield while doffing it. While planted on the ground and unworn, any magical roots around the shield remain in place, and any creature immediately behind the shield has half cover from incoming projectiles.
+
+You can uproot the shield as an action. The shield falls down and withdraws its magical roots early if you either fall unconscious or it is knocked over following a successful DC 20 Strength (athletics) check.
+
+### Forgemaster's Might
+Weapon (warhammer or maul), legendary (requires attunement)
+
+This monumental ( * ) maul or warhammer requires a Strength of 17 or higher to wield. You gain a +2 bonus to attack and damage rolls made with this magic weapon.
+
+You can use a bonus action to speak the hammer’s command phrase, “light the forge” and cause flames to curl up and heat the hammer’s anvil head. These flames shed bright light in a 20-foot radius and dim light for an additional 20 feet. While the hammer is lit, it deals an additional 1d8 fire damage to any target it hits and ignores resistance to fire damage. The flames last until you use a bonus action to speak the command word “quench,” or until you drop or stow the hammer.
+
+Smith's Blessing. You can use the hammer to cast either the creation or fabricate spell using an action instead of its usual casting time. Creation is cast as a 6th level spell when cast in this way, and its conjured materials can be used as materials for the fabricate spell, although the materials still have a limited duration. Once the hammer has been used to cast a spell in this way, it can’t be used to cast that spell again until the following dawn.
+
+In addition, you know the mending cantrip if you don’t already know it while you’re attuned to the hammer. Mending’s usual size restriction is increased to 5 feet in any dimension for you when you use it to repair metal. Ability checks you make using smith’s tools to make or repair an item are made with advantage when you use the hammer’s head as the anvil.
+
+Iron Raze. The hammer deals an additional 2d8 bludgeoning damage to constructs and structures hit by it.
+
+### Dagger of First Light
+Weapon (dagger), uncommon
+
+You have advantage on initiative rolls while holding this weapon. If you're first in the initiative order, your speed is increased by 15 feet for the first round of combat.
+
+In addition, you can use a bonus action to speak the weapon's command word to cause its blade to glow. The glowing weapon sheds bright light in a 20-foot radius and dim light for an additional 20 feet. While the weapon is glowing, it deals radiant damage instead of piercing. You can use a bonus action to speak the weapon's command word again to cause its light to fade and return to normal.
+
+### Covolt Dagger
+[TODO] for Mufi or Kazimir
+Weapon (dagger), uncommon
+
+This angular dagger is forged with covolt, an elemental blue metal that carries storm-like properties. When you score a critical hit against a target with an attack made with this magic weapon, the target takes an extra 1d8 lightning damage and can't take reactions until the start of its next turn.
+
+### Dusk Dagger
+Weapon (dagger), uncommon
+
+This angular dagger is forged with covolt, an elemental blue metal that carries storm-like properties. When you score a critical hit against a target with an attack made with this magic weapon, the target takes an extra 1d8 lightning damage and can't take reactions until the start of its next turn.
+
+### Frozen Dagger
+Weapon (dagger), uncommon (requires attunement)
+
+Attacks made with this dagger deal cold damage instead of piercing. If you roll a 20 on an attack roll made with this magic weapon, the target must succeed on a DC 12 Constitution saving throw or be paralyzed until the end of its next turn, frozen in place and unable to move. If it succeeds, its movement speed is halved until the end of its next turn instead. 
