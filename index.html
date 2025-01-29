@@ -392,6 +392,7 @@
       {
         let img = document.createElement('img');
         img.src = existingImg.src;
+        img.classList.add(...existingImg.classList);
         img.style.height = '40px';
         link.style.display = 'flex';
         link.style.gap = '5px';
