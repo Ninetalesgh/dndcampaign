@@ -109,12 +109,17 @@
 - **Switch 1 Druid Cantrip**
 
 # Wild Shape Reference
-  [Grappler](./../wildshapes.md#cr-1/4#grappler)
-  [Nimble](./../wildshapes.md#cr-1/4#nimble)
-  [Blindsight](./../wildshapes.md#cr-1/4#blindsight)
-  [Burrower](./../wildshapes.md#cr-1/4#burrower)
-  [Web Walker](./../wildshapes.md#web-walker)
-  
+
+### CR 1/4
+  [Grappler](./../wildshapes.md#cr-14#grappler)
+  [Nimble](./../wildshapes.md#cr-14#nimble)
+  [Blindsight](./../wildshapes.md#cr-14#blindsight)
+  [Burrower](./../wildshapes.md#cr-14#burrower)
+  [Web Walker](./../wildshapes.md#cr-14#web-walker)
+### CR 1
+  *(none)*
+
+
 # Druid Spell Reference
 ## Cantrips
 [Control Flames](./../spells.md#spells-c#control-flames)
