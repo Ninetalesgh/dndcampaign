@@ -60,6 +60,7 @@ Nyari:
 
 ## Common
 [Greenthumb Whittler](dm/items.md#greenthumb-whittler)
+[Redsmith Crucible Set](dm/items.md#redsmith-crucible-set)
 [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
 [Orb of Shielding](dm/items.md#orb-of-shielding)
 [Clockwork Amulet](dm/items.md#clockwork-amulet)
@@ -76,6 +77,7 @@ Nyari:
 [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
 [Ring of Arcane Defense](dm/items.md#ring-of-arcane-defense)
 [Ruby's Grasp](dm/items.md#rubys-grasp)
+[Ring of Feather Falling](dm/items.md#ring-of-feather-falling)
 [Shatterglass Ward](dm/items.md#shatterglass-ward)
 [Cloak of Protection](dm/items.md#cloak-of-protection)
 [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)

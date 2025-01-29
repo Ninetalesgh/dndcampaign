@@ -1,66 +1,3 @@
-### Cloak of Protection
-*(Wondrous Item, Uncommon)*
-- **Properties**: [Attunement](dm/item_info.md#attunement).
-  - You gain a +1 to AC and Saves.
-- **Weight**: 0.5 kg
-- **Price**: 3500 gp
-![Image|250](https://i.imgur.com/rA9YiCa_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: DMG'24, page 245)*
-
-### Ring of Protection
-*(Wondrous Item, Rare)*
-- **Properties**: [Attunement](dm/item_info.md#attunement).
-  - You gain a +1 to AC and Saves.
-- **Weight**: 10 g
-- **Price**: 3500 gp
-![Image|250](https://i.imgur.com/45GHV5z_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: DMG'24, page 294)*
-
-### Mantle of Spell Resistance
-*(Wondrous Item, Rare)*
-- **Properties**: [Attunement](dm/item_info.md#attunement).
-  - You have Advantage on Saves against Spells.
-- **Weight**: 10 g
-- **Price**: 10000 gp
-![Image|250](https://i.imgur.com/RphJ5ne_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: DMG'24, page 276)*
-
-### Spell Scroll Dagger
-*(Dagger, Simple Melee Weapon, Uncommon)*
-- **Damage**: 1d4 + STR Piercing damage.
-- **Reach**: 1 *(1.5m)* 
-- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you previously cast a Spell this turn: Make a Melee Attack. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the damage. unless that modifier is negative.
-- **Mastery**: [Vex](dm/item_info.md#vex).
-- **Weight**: 0.5 kg
-- **Price**: 2 gp
-![Image|250](https://i.imgur.com/Sjm9nLG_d.png?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: Custom)*
-
-### Redsmith Crucible Set
-Wondrous item, common
-
-This set of magic smith's tools from the dwarven Redsmith family includes a stone crucible that's been enchanted with minor transmutation magic. If you are proficient with smith's tools or are a dwarf, you can use an action to speak the tools' command word and lower a nonmagical weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 Strength check using the smith's tools. On a success, the weapon is magically reforged. A reforged weapon counts as magical, and when you pull the reforged weapon from the crucible, you can change it into another type of weapon that shares the same properties as the original one. For example, a light hammer could become a handaxe, or a longsword could become a warhammer. These benefits last for 24 hours, at which point the weapon becomes nonmagical once more and returns to its original form.
-
-Once this property of the tools has been used, it can't be used again for 24 hours. In the meantime, the tools can still be used as magic smith's tools.
-
-![Image|250](https://i.imgur.com/EG9sSg8_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-
-### Ring of Feather Falling
-![Image|250](https://i.imgur.com/TLCYk2K_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-
-### Owlbear Leather Armor
-*(Light Armor, Common)*
-- **Don and Doff Time**: 1 minute / 1 minute
-- **AC**: 11 + DEX
-- **Properties**: 
-  - If you fail a CON Save against an effect from a hostile source, you can choose to succeed instead. *(Once per Long Rest)*
-- **Weight**: 5 kg
-- **Price**: 800 gp
-![Image|250](https://i.imgur.com/bbktuB5_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*This set of leather armor was made from the remains of a hardy and ferocious owlbear.*
-*(Source: The Griffon's Saddlebag)*
-
 ## Items A
 ### Acid Vial
 *(grenade, Common)*
@@ -468,6 +405,15 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 25 gp
 *(Source: PHB'24, page 225)*
 
+### Cloak of Protection
+*(Wondrous Item, Uncommon)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - You gain a +1 to AC and Saves.
+- **Weight**: 0.5 kg
+- **Price**: 3500 gp
+![Image|250](https://i.imgur.com/rA9YiCa_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: DMG'24, page 245)*
+
 ### Clockwork Amulet
 *(Wondrous Item, Common)*
 - **Properties**: Instead of rolling for an Attack, set the result of the d20 to 10. *(Once per Long Rest)*
@@ -847,8 +793,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Greenthumb Whittler
 *(Wondrous Item, Uncommon)*
 - **Properties**:
-  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient.
-  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 30cm in any dimension. At the end of each hour you spend carving the statue, make a DC 10 DEX check, adding your PB to the roll if you were already proficient with Woodcarver's Tools. The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
+  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient with it.
+  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 30cm in any dimension. At the end of each hour you spend carving the statue, make a DC 10 DEX check, adding your PB to the roll if you were already proficient with [Woodcarver's Tools](dm/items.md#woodcarvers-tools). The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
   The statue can do minor feats of animation, which you decide upon completing it. If it moves, it can't leave its space on its own. For example, the statue can wave and turn its head back and forth robotically, or dance around in a circle within its space. You can start or stop the animation by tapping the statue twice in rapid succession (no action required).
   Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
 - **Weight**: 250 g
@@ -1252,6 +1198,15 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Price**: 2 gp
 *(Source: PHB'24, page 226)*
 
+### Mantle of Spell Resistance
+*(Wondrous Item, Rare)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - You have Advantage on Saves against Spells.
+- **Weight**: 10 g
+- **Price**: 10000 gp
+![Image|250](https://i.imgur.com/RphJ5ne_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: DMG'24, page 276)*
+
 ### Map
 *(adventuring gear, Common)*
 - **Properties**: If you consult an accurate Map, you gain a +5 bonus to Wisdom (Survival) checks you make to find your way in the place represented on it.
@@ -1410,6 +1365,18 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Price**: 800 gp
 ![Image|250](https://i.imgur.com/wGZbWJN_d.png?maxwidth=520&shape=thumb&fidelity=high)
 *(Source: ERLW, page 278)*
+
+### Owlbear Leather Armor
+*(Light Armor, Common)*
+- **Don and Doff Time**: 1 minute / 1 minute
+- **AC**: 11 + DEX
+- **Properties**: 
+  - If you fail a CON Save against an effect from a hostile source, you can choose to succeed instead. *(Once per Long Rest)*
+- **Weight**: 5 kg
+- **Price**: 800 gp
+![Image|250](https://i.imgur.com/bbktuB5_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*This set of leather armor was made from the remains of a hardy and ferocious owlbear.*
+*(Source: The Griffon's Saddlebag)*
 
 ## Items P
 ### Padded Armor
@@ -1608,6 +1575,18 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Price**: 5 sp
 *(Source: PHB'24, page 228)*
 
+### Redsmith Crucible Set
+*(Wondrous Item, Common)*
+- **Properties**:
+  - This set of magic smith's tools includes a stone crucible that's been enchanted with minor transmutation magic and can be used in place of a set of [Smith's Tools](dm/items.md#smiths-tools) and as if you were proficient with it.
+  - If you were already proficient with [Smith's Tools](dm/items.md#smiths-tools) or are a Dwarf, you can use an action to speak the tools' command word and do one of the following:
+    - lower a **nonmagical** weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 STR Check using the smith's tools. On a success, the weapon is magically reforged. A reforged weapon counts as magical, and when you pull the reforged weapon from the crucible, you can change it into another type of weapon that shares the same properties as the original one. For example, a Light Hammer could become a Handaxe, or a Longsword could become a Warhammer. These benefits lasts until the next Long Rest, at which point the weapon becomes nonmagical once more and returns to its original form. *(Once per Long Rest)*
+    - lower a **magical** weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 STR Check using the smith's tools. On a success, the weapon is **permanently** magically reforged, keeping all of its properties. This counts as weapon modifier. On a failure, the weapon loses all of its magical properties. Either way, the Redsmith Crucible Set loses all of its magical properties after this use.
+- **Weight**: 10 kg
+- **Price**: 1000 gp
+![Image|250](https://i.imgur.com/EG9sSg8_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: The Griffon's Saddlebag)*
+
 ### Riding Horse
 *(mount, Common)*
 - **Properties**: Speed: 60, Carrying Capacity: 480/2 kg
@@ -1640,6 +1619,24 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Price**: 2000 gp
 ![Image|250](https://i.imgur.com/qlqMFaS_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
 *(Source: Custom)*
+
+### Ring of Feather Falling
+*(Wondrous Item, Uncommon)*
+- **Properties**:
+  - When you fall while wearing this ring, you descend 18m per round and take no damage from falling.
+- **Weight**: 10 g
+- **Price**: 2000 gp
+![Image|250](https://i.imgur.com/TLCYk2K_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: DMG'24, page 191)*
+
+### Ring of Protection
+*(Wondrous Item, Rare)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - You gain a +1 to AC and Saves.
+- **Weight**: 10 g
+- **Price**: 3500 gp
+![Image|250](https://i.imgur.com/45GHV5z_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: DMG'24, page 294)*
 
 ### Robe
 *(adventuring gear, Common)*
@@ -1864,6 +1861,18 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Price**: 1 gp
 ![Image|250](https://i.pinimg.com/736x/c2/5b/86/c25b86973aa53365b2245dc22e1bd324.jpg)
 *(Source: PHB'24, page 215)*
+
+### Spell Scroll Dagger
+*(Dagger, Simple Melee Weapon, Uncommon)*
+- **Damage**: 1d4 + STR Piercing damage.
+- **Reach**: 1 *(1.5m)* 
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you previously cast a Spell this turn: Make a Melee Attack. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the damage. unless that modifier is negative.
+- **Mastery**: [Vex](dm/item_info.md#vex).
+- **Weight**: 0.5 kg
+- **Price**: 3000 gp
+![Image|250](https://i.imgur.com/Sjm9nLG_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
 
 ### Splint Armor
 *(Heavy Armor, Common)*
