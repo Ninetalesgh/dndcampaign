@@ -1,5 +1,10 @@
 # Limited Availability
-*(None available yet)*
+
+[Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
+[Orb of Shielding](dm/items.md#orb-of-shielding)
+[Cloak of Protection](dm/items.md#cloak-of-protection)
+[Inventor's Goggles](dm/items.md#inventors-goggles)
+
 # High Availability
 Items with high availability are always available for players to purchase. (with DM disgression for bulk purchases)
 
