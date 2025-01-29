@@ -15,7 +15,7 @@
   --color-inline-box: #91b473;
   --color-external-link: #6874da;
   --color-external-link-hover: #4954b1;
-  --image-background-0: #f0d3a9;
+  --color-image-background-0: #fafafa;
 }
 
 *{
@@ -135,10 +135,6 @@ nav ul li{
 
 p{
   color: var(--color-foreground-0);
-}
-
-img{
-  background: var(--image-background-0);
 }
 
 .title{
@@ -370,11 +366,27 @@ small{
 
 .dndcontent img{
   padding: 0px;
-  border-radius: 15px;
   vertical-align: middle;
-  background-color: var(--color-foreground-0);
+}
+
+.img-tiny-background{
+  border:none;
+  background-color: transparent;
+  border-radius:3px;
+}
+
+.img-small-background{
+  background-color:var(--color-foreground-0);
+  border-radius: 15px;
   border: 3px solid var(--color-foreground-0);
 }
+
+.img-normal-background{
+  background-color: var(--color-image-background-0);
+  border-radius: 15px;
+  border: 3px solid var(--color-foreground-0);
+}
+
 .dndcontent table img{
   border-radius: 0px;
   border: none;
