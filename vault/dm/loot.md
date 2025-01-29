@@ -15,7 +15,7 @@ Ayra:
   R:
 Kal: 
   C: Imbued Quarterstaff, Orb of Shielding
-  UC: 
+  UC: Mandible Bident, Scorpion Glaive, Scorpio Armor
   R:
 Kazimir: 
   C:
@@ -86,6 +86,7 @@ Nyari:
 [Mantle of Spell Resistance](dm/items.md#mantle-of-spell-resistance)
 [Ring of Protection](dm/items.md#ring-of-protection)
 [Thalioel's Tear](dm/items.md#thalioels-tear)
+[Death Drum](dm/items.md#death-drum)
 
 ## Rare
 ## Very Rare

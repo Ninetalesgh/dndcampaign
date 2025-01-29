@@ -66,6 +66,8 @@
 [Goblin (1/4)](dm/monsters.md#goblin)
 [Worg (1/2)](dm/monsters.md#worg)
 
+One goblin hammering on this:
+[Death Drum](dm/items.md#death-drum)
 
 TODO: Hobgoblins for a more soldier-like vibe
 
