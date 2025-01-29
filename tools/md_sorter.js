@@ -14,6 +14,7 @@ function recordEntry(lines, startIndex, endIndex)
 function sortMdContentPageHeaders(mdText)
 {
   const lines = mdText.split('\n');
+  const linksToNewEntries = new Array();
 
   let sorted = new Array(26);
   for (let i = 0; i < 26; ++i)
@@ -29,16 +30,6 @@ function sortMdContentPageHeaders(mdText)
   {
     if (lines[i].trimStart().startsWith('#'))
     {
-      if (contentType === '')
-      {
-        const contentTypeMatch = lines[i].match(/^##\s(.*)\s[A-Z]$/mi);
-        if (contentTypeMatch) 
-        {
-          contentType = contentTypeMatch[1];
-          console.log(`Sorting '${contentType}' content.`);
-        }
-      }
-
       if (currentBlockStartIndex >= 0)
       {    
         const char = lines[currentBlockStartIndex].trimStart().slice(4);
@@ -47,6 +38,27 @@ function sortMdContentPageHeaders(mdText)
         sorted[index].push(entry);
         currentBlockStartIndex = -1;
       }
+
+      if (contentType === '')
+        {
+          const contentTypeMatch = lines[i].match(/^##\s(.*)\s[A-Z]$/mi);
+          if (contentTypeMatch) 
+          {
+            contentType = contentTypeMatch[1];
+            console.log(`Sorting '${contentType}' content.`);
+            for (let i = 0; i < 26; ++i)
+            {
+              sorted[i].forEach(entry => 
+              {
+                const match = entry.match(/^### (.*)\n/);
+                if (match)
+                {
+                  linksToNewEntries.push(`[${match[1]}](dm/${contentType.toLowerCase()}.md#${filterSectionSpecialCharacters(match[1])})`);
+                }
+              });
+            }
+          }
+        }
     }
     
     if (lines[i].trimStart().startsWith('### '))
@@ -74,7 +86,7 @@ function sortMdContentPageHeaders(mdText)
     }
   }
 
-  const result = `${sorted.join('\n')}\n${lines.slice(lastIndex).join('\n')}`;
+  const result = `${linksToNewEntries.join('\n')}\n\n${sorted.join('\n')}\n${lines.slice(lastIndex).join('\n')}`;
   navigator.clipboard.writeText(result).then(() => {
     console.log("copied md to clipboard!");
   });
