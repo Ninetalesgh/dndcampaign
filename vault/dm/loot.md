@@ -10,25 +10,46 @@ Timeline:
 Means ~1 Common Item per Session + 1 UC/R Item per Session?
 
 Ayra:
-  C: Imbued Quarterstaff, Orb of Shielding
-  UC: Circlet of Vitality's Focus
+  C: 
+    [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
+    [Orb of Shielding](dm/items.md#orb-of-shielding)
+  UC: 
+    [Circlet of Vitality's Focus](dm/items.md#circlet-of-vitalitys-focus)
+    [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
   R:
 Kal: 
-  C: Imbued Quarterstaff, Orb of Shielding
+  C: 
+    [Greenthumb Whittler](dm/items.md#greenthumb-whittler)
+    [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
+    [Orb of Shielding](dm/items.md#orb-of-shielding)
   UC: Mandible Bident, Scorpion Glaive, Scorpio Armor
+    [Scorpio Armor](dm/items.md#scorpio-armor)
   R:
 Kazimir: 
   C:
-  UC: Ruby's Grasp, Halric Varron's Blade
+    [Clockwork Amulet](dm/items.md#clockwork-amulet)
+  UC: 
+    [Ruby's Grasp](dm/items.md#rubys-grasp)
+    [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
+    [Cannulated Shortsword](dm/items.md#cannulated-shortsword)
+    [Legion of Brass Katars](dm/items.md#legion-of-brass-katars)
   R:
 Mufi: 
   C:
+    [Clockwork Amulet](dm/items.md#clockwork-amulet)
   UC: Feylight Expose, Kobold Diviner's Amulet
-  R: Obsidian Dagger, Sickle of the Sphinx,
+    [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
+    [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
+  R: Obsidian Dagger, Sickle of the Sphinx
 Nyari: 
   C:
-  UC: Censer of the Cremated
-  R: Shatterglass Ward
+    [Clockwork Amulet](dm/items.md#clockwork-amulet)
+    [Redsmith Crucible Set](dm/items.md#redsmith-crucible-set)
+  UC: 
+    [Shatterglass Ward](dm/items.md#shatterglass-ward)
+    [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+    [Ruby's Grasp](dm/items.md#rubys-grasp)
+  R:
 
 ## Tier 1 (Levels 1-4)
 0/6 C
@@ -81,6 +102,10 @@ Nyari:
 [Shatterglass Ward](dm/items.md#shatterglass-ward)
 [Cloak of Protection](dm/items.md#cloak-of-protection)
 [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
+[Cannulated Shortsword](dm/items.md#cannulated-shortsword)
+[Legion of Brass Katars](dm/items.md#legion-of-brass-katars)
+[Scorpio Armor](dm/items.md#scorpio-armor)
+[Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
 
 ## Rare
 [Mantle of Spell Resistance](dm/items.md#mantle-of-spell-resistance)

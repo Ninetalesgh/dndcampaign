@@ -141,23 +141,6 @@ This staff is made of a cluster of bioluminscent mushrooms atop a mycelial colum
 
 "Oh, I have an extensive underground network."
 
-
-### Alchemy Blade
-Weapon (shortsword), uncommon
-
-This sword has a glass channel running down its length. In place of a traditional pommel, it instead has an open hole designed to fit atop a typical flask or vial. While holding the sword, you can use an action to attach a flask or vial to the pommel and draw its contents into the blade; doing so changes the sword's properties based on the attached flask or vial.
-
-    Acid Vial. The sword deals an extra 1d4 acid damage to the first target hit by it each turn. When the target is an object that isn't being worn or carried, the acid damage is maximized.
-
-    Alchemist's Fire. The sword deals an extra 1d4 fire damage to the first target hit by it each turn. If you reduce a creature to 0 hit points using the sword, you can cause a different creature of your choice within 5 feet of the target to also take 2d4 fire damage.
-
-    Basic Poison. The sword deals an extra 1d4 poison damage to the first target hit by it each turn. The first time that the target hits with an attack that uses Strength before the start of your next turn, the damage is reduced by an amount equal to the poison damage dealt.
-
-    Holy Water. The sword deals an extra 1d4 radiant damage to the first target hit by it each turn. The radiant damage is doubled against fiends and undead.
-
-You can eject and remove the flask or vial using a bonus action, destroying its contents and leaving the container empty.
-
-
 ### Scorpion Glaive
 Weapon (glaive), uncommon
 
@@ -1463,6 +1446,7 @@ This well-worn gray bearskin cloak has been passed down from druid to druid for 
 
 
 ### Husk
+[TODO] rare or very rare for Kal.
 Armor (shield), very rare (requires attunement by a druid)
 
 While holding this shield, you have a +1 bonus to AC. This bonus is in addition to the shield's normal bonus to AC. When you use your Wild Shape druid feature to turn into a Beast, the segments of this shield magically reassemble over your new shape to form an insectoid exoskeleton. Your new form gains a +3 bonus to its AC.
@@ -1533,14 +1517,6 @@ Lunar Flash. As a bonus action while wielding the sword, you can expend one char
 
 Cosmic Cleave. As a bonus action while wielding the sword, you can expend one charge to suffuse the blade with moonlight. The next target you hit with the sword before the end of your turn takes an extra 2d6 radiant damage.
 
-
-### Death Drum
-[TODO] goblin related
-Wondrous item, rare
-
-This magic instrument is made with the talons, bones, and hide of a nemesis, a creature of ill fortune and demise. All who hear this drum are drawn closer to death.
-
-As an action while holding the drum, you can play a dirge. Each creature within a 30-foot radius of you that can hear the drum (including yourself) is cursed until the start of your next turn. Whenever a cursed creature takes damage, it takes an extra 1d8 necrotic damage.
 
 ### Baneblade
 Weapon (any sword), uncommon (requires attunement)
@@ -1865,16 +1841,6 @@ If you're already a lycanthrope and are wearing the amulet, your claw and bite a
 
 Curse. This amulet is cursed, and becoming attuned to it extends the curse to you. As long as you remain cursed, you have disadvantage on saving throws made to resist becoming cursed by lycanthropy.
 
-### Scorpio Armor
-[TODO] for Kal, in crates the circus scorpion whisperer left
-Armor (half plate or plate), uncommon (requires attunement)
-
-This armor is made from the treated carapace of a giant scorpion. You can benefit from the armor, as described below, even if you aren't attuned to it.
-
-While wearing this armor, it doesn’t impose disadvantage on your Dexterity (Stealth) checks while you’re in dim light or darkness. However, your speed is reduced by 5 feet while you're in sunlight, as the armored husk recoils and constricts from it.
-
-While attuned to this armor and wearing it, you have advantage on saving throws against poison. In addition, you can use a bonus action to close your eyes and speak the armor's command word. When you do, you create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature within 30 feet of you that's on the ground as if you had tremorsense out to a range of 30 feet. Once the armor's command word has been used, it can't be used again until the next dusk.
-
 ### Cottage Chest
 [TODO] Good reward for the whole group midgame  
 Wondrous item, rare
@@ -1995,3 +1961,34 @@ This angular dagger is forged with covolt, an elemental blue metal that carries 
 Weapon (dagger), uncommon (requires attunement)
 
 Attacks made with this dagger deal cold damage instead of piercing. If you roll a 20 on an attack roll made with this magic weapon, the target must succeed on a DC 12 Constitution saving throw or be paralyzed until the end of its next turn, frozen in place and unable to move. If it succeeds, its movement speed is halved until the end of its next turn instead. 
+
+
+### Cloak of Daggers
+Wondrous item, uncommon (requires attunement)
+
+This asymmetrical cloak has a ring of silver daggers along its bottom hem. While wearing the cloak, you have advantage on Dexterity (Stealth) checks while in dim light or darkness.
+
+In addition, you can use a bonus action to summon a magic silver dagger to one or both of your hands, provided that they're empty. Each dagger disappears in a puff of smoke after 1 minute or at the end of your turn if you aren't holding it.
+
+### Spiderbite Daggers
+Weapon (dagger), rare
+
+These daggers are made using the harvested fangs of a large venomous spider. When you hit the same target on your turn with each dagger, that target must succeed on a DC 14 Constitution saving throw or take an extra 2d4 poison damage and become poisoned until the end of its next turn.
+
+### Pick and Pocket
+Weapon (dagger), rare
+
+This brass and steel dagger can also be used as part of a set of thieves' tools when picking locks. You gain a +1 bonus to attack and damage rolls made with this magic weapon, as well as on any ability check you make using thieves' tools to pick open a lock, provided you use the dagger as part of the set of tools.
+
+While holding the dagger in one hand and a small enough object in another, you can use an action to speak the dagger’s command word and twist it in the air as if it were a key. When you do, the object is shunted into a special demiplane, where it remains until you either twist the dagger in the opposite direction on your turn (no action required) or until you’re no longer holding the weapon. If you have a free hand, the stored object reappears in it when the object leaves the demiplane. Otherwise, it reappears at your feet. The demiplane can only store one object at a time, which must be no more than 1 foot on a side and weigh no more than 10 pounds.
+
+### Devil's Backbone
+Weapon (longsword), rare (requires attunement by a warlock)
+
+You have a +1 bonus to attack and damage rolls made with this magical weapon. While attuned to this sword, you have proficiency with it.
+
+Bone Lance. The spinal segments of the blade launch forward, connected by stretchy sinew, to impale your enemies. When you take the Attack action on your turn, you can replace one of your attacks with a Bone Lance. Make a melee spell attack against a target that you can see within 30 feet of you. On a hit, the target takes 2d8 Piercing damage, and if it is Large or smaller, you can pull it up to 25 feet closer to you. You can use this property a number of times equal to your Charisma modifier (minimum of once) and you regain all expended uses when you finish a Long Rest.
+
+Ossuary Armor. While attuned to this sword, you gain the Fiendish Vigor eldritch invocation. A suit of boney armor grows over your body when you use this invocation.
+
+The spine of a bone devil is a powerful reagent for nefarious craftsmanship. Some semblance of unlife still lurks within it, anguished by its diminished state. For a fleeting moment, the tortured fiend feels vile satisfaction when its new form is used to inflict pain. To this end, it will help even a virtuous wielder strike true.

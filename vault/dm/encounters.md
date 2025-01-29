@@ -74,6 +74,8 @@ TODO: Hobgoblins for a more soldier-like vibe
 # Unsorted and need to add to monster info
 
 
+## Chain and Bone Devil Encounter
+At level 7 Mizora (?) sends a chain and a bone devil for the players.
 
 
 # Encounter Difficulty Template

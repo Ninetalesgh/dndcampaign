@@ -36,7 +36,7 @@
 *(grenade, Common)*
 - **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
-  *Effect:* 1d6 Fire damage and [Burning (1d4)](conditions.md#burning) or half and no condition on a successful Save.
+  *Effect:* 1d6 Fire damage and [Burning (1d6)](conditions.md#burning) or half and no condition on a successful Save.
 - **Weight**: 500 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/2/29/GRN_Alchemist%27s_Fire_Unfaded_Icon.png)
@@ -124,7 +124,7 @@ It takes 10 minutes to recover the Ball Bearings.
 *(coating, Common)*
 - **Properties**: [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating).
   *Effect:* Deal an additional 1d4 Poison damage on Hit.
-  *Duration:* 3 hits.
+  *Duration:* 1 minute or 3 hits.
 - **Weight**: -
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/0/0f/COAT_Basic_Poison_Unfaded_Icon.png)
@@ -292,6 +292,24 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: -
 - **Price**: 1 cp
 *(Source: PHB'24, page 224)*
+
+### Cannulated Shortsword
+*(Shortsword, Martial Melee Weapon, Uncommon)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Piercing damage.
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt of the weapon is unoccupied:
+    - Apply a vial or flask containing either a [Grenade or a Coating](dm/items.md#concoctions) or an empty vial to the hilt of this weapon, consuming it in the process.
+      - **Grenade**: The next 2 targets you hit are affected by the grenade as if you threw it, the DEX Save DC to evade the grenade effect is increased by the damage dealt by each respective hit.
+      - **Coating**: The Coating is applied and its duration (use and time) is tenfold. 
+      - **Empty Vial**: Drain blood into the vial. A vial is full after 20 damage done to HP of targets which can bleed with this weapon. 
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt of the weapon is occupied:
+    - Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a grenade that has not been consumed yet, you have to succeed the DEX Save as if you threw the grenade at yourself.
+- **Mastery**: [Vex](dm/item_info.md#vex).
+- **Weight**: 1 kg
+- **Price**: 1500 gp
+![\|250](https://i.imgur.com/a0Ompm6_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
 
 ### Carpenter's Tools
 *(artisan's tools, Common)*
@@ -627,7 +645,9 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Feylight Exposé
 *(Wondrous Item, Uncommon)*
-- **Properties**: While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain Advantage on Attack Rolls and WIS (Insight) Checks against it.
+- **Properties**: 
+  - +2 to CHA (Deception) Checks.
+  - While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain Advantage on Attack Rolls and WIS (Insight) Checks against it.
 - **Weight**: 200 g
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/ZpjO4RN_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -810,7 +830,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: 250 g
 - **Price**: 800 gp
 ![\|250](https://i.imgur.com/wqsceXf_d.png?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: Custom)*
+*(Source: The Griffon's Saddlebag, Customized)*
 
 ## Items H
 ### Halberd
@@ -912,7 +932,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(grenade, Common)*
 - **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
-  *Effect:* 2d8 Radiant damage if it is a Fiend or an Undead or half on a successful Save.
+  *Effect:* 2d8 Radiant damage if it is a Fiend or Undead or half on a successful Save.
 - **Weight**: 500 g
 - **Price**: 25 gp
 *(Source: PHB'24, page 226)*
@@ -1097,6 +1117,19 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
 *(Source: PHB'24, page 221)*
+
+### Legion of Brass Katars
+*(Dagger, Simple Melee Weapon, Uncommon)*
+- **Damage**: 1d4 + STR Piercing damage.
+- **Reach**: 1 *(1.5m)* 
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  - *On Hit*, If you already hit the target with the katars this turn: deal an extra 2d4 Fire damage. 
+- **Mastery**: [Nick](dm/item_info.md#nick).
+- **Weight**: 0.5 kg
+- **Price**: 2 gp
+![\|250](https://i.imgur.com/6CJxcMp_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*This pair of matching brass katars seems to exhale heat in the throes of battle.*
+*(Source: The Griffon's Saddlebag, Customized)*
 
 ### Light Crossbow
 *(Light Crossbow, Simple Ranged Weapon, Common)*
@@ -1592,11 +1625,11 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
   - This set of magic smith's tools includes a stone crucible that's been enchanted with minor transmutation magic and can be used in place of a set of [Smith's Tools](dm/items.md#smiths-tools) and as if you were proficient with it.
   - If you were already proficient with [Smith's Tools](dm/items.md#smiths-tools) or are a Dwarf, you can use an action to speak the tools' command word and do one of the following:
     - lower a **nonmagical** weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 STR Check using the smith's tools. On a success, the weapon is magically reforged. A reforged weapon counts as magical, and when you pull the reforged weapon from the crucible, you can change it into another type of weapon that shares the same properties as the original one. For example, a Light Hammer could become a Handaxe, or a Longsword could become a Warhammer. These benefits lasts until the next Long Rest, at which point the weapon becomes nonmagical once more and returns to its original form. *(Once per Long Rest)*
-    - lower a **magical** weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 STR Check using the smith's tools. On a success, the weapon is **permanently** magically reforged, keeping all of its properties. This counts as weapon modifier. On a failure, the weapon loses all of its magical properties. Either way, the Redsmith Crucible Set loses all of its magical properties after this use.
+    - lower a **magical** weapon made of metal into the crucible and hold it there for 10 minutes. At the end of that time, make a DC 10 STR Check using the smith's tools. On a success, the weapon is **permanently** magically reforged, keeping all of its other properties. This counts as weapon modifier. On a failure, the weapon loses all of its magical properties. Either way, the Redsmith Crucible Set loses all of its magical properties after using it this way.
 - **Weight**: 10 kg
 - **Price**: 1000 gp
 ![\|250](https://i.imgur.com/EG9sSg8_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: The Griffon's Saddlebag)*
+*(Source: The Griffon's Saddlebag, Customized)*
 
 ### Riding Horse
 *(mount, Common)*
@@ -1748,6 +1781,21 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 ![\|250](https://i.pinimg.com/736x/be/e8/79/bee879219407fd0acbe84ff77d8d17c4.jpg)
 *(Source: PHB'24, page 215)*
 
+### Scorpio Armor
+*(Medium Armor, Uncommon)*
+- **Don and Doff Time**: 5 minutes / 1 minute
+- **AC**: 15 + DEX (max 2)
+- **Properties**:
+  - You have Disadvantage on Dexterity (Stealth) checks while in [Bright Light](dm/items.md#bright-light).
+  - You have Advantage on Saves against [Poisoned](conditions.md#poisoned).
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**:
+    Create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature that's on the ground as if you had [Tremorsense 6 *(9m)*](game_rules.md#advanced-rules#tremorsense). *(Once per Long Rest)*
+- **Weight**: 20 kg
+- **Price**: 1500 gp
+![\|250](https://i.imgur.com/eE1lwHB_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*This armor is made from the treated carapace of a giant scorpion.*
+*(Source: The Griffon's Saddlebag, Customized)*
+
 ### Shatterglass Ward
 *(Shield, Uncommon)*
 - **Don and Doff Time**: 1 Action / 1 Action
@@ -1877,8 +1925,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Dagger, Simple Melee Weapon, Uncommon)*
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
-- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn: Make a Melee Attack. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the attack's damage unless that modifier is negative.
+- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the attack's damage unless that modifier is negative.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
 - **Price**: 3000 gp
@@ -1993,6 +2041,20 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Weight**: 5 kg
 - **Price**: 50 gp
 *(Source: PHB'24, page 221)*
+
+### Tobben's Thieves' Tools
+*(Wondrous Item, Uncommon)*
+- **Properties**:
+  - This high quality assortment can be used in place of a set of [Thieves' Tools](dm/items.md#thieves-tools) and as if you were proficient with it.
+  - If you already had proficiency with Thieves' Tools:
+    - You gain +1 to Ability Checks using these.
+    - If you set off a trap while using these tools to pick a lock, you have Advantage on any Save to resist the trap.
+    ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Hold the listening cone against a door to hear through it. As long as it's no thicker than 30cm, you learn the location of any creatures within range 4 *(6m)* of the door.
+- **Weight**: 500 g
+- **Price**: 1200 gp
+![\|250](https://i.imgur.com/IKPKzq2_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*He probably made more money selling thieving equipment to the thieves than the thieves did from thieving!*
+*(Source: Dungeon Strugglers, Customized)*
 
 ### Torch
 *(adventuring gear, Common)*
