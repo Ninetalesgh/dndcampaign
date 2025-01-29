@@ -1,15 +1,3 @@
-### Greenthumb Whittler
-*(Wondrous Item, Uncommon)*
-- **Properties**:
-  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient.
-  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 1 foot in any dimension. At the end of each hour you spend carving the statue, make a DC 10 Dexterity check, adding your PB to the roll if you were already proficient with Woodcarver's Tools. The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
-  The statue can do minor feats of animation, which you decide upon completing it. If it moves, it can't leave its space on its own. For example, the statue can wave and turn its head back and forth robotically, or dance around in a circle within its space. You can start or stop the animation by tapping the statue twice in rapid succession (no action required).
-  Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
-- **Weight**: 250 g
-- **Price**: 800 gp
-![Image|250](https://i.imgur.com/wqsceXf_d.png?maxwidth=520&shape=thumb&fidelity=high)
-*(Source: Custom)*
-
 ## Items A
 ### Acid Vial
 *(grenade, Common)*
@@ -348,7 +336,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: ??
-![Image|250](https://i.pinimg.com/736x/b5/60/73/b56073ba7ee5619bc9ac5da0f849512d.jpg)
+![Image|250](https://i.imgur.com/kWnCoEX_d.png?maxwidth=520&shape=thumb&fidelity=high)
 *(Source: Custom)*
 
 ### Chain
@@ -672,7 +660,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: 10 gp
-![Image|250](https://i.pinimg.com/736x/51/51/b4/5151b461d0b62a1f2db2cca0a7d0fde2.jpg)
+![Image|250](https://i.pinimg.com/736x/b5/60/73/b56073ba7ee5619bc9ac5da0f849512d.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Flask
@@ -792,6 +780,18 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 50 gp
 ![Image|250](https://i.pinimg.com/736x/9e/d0/00/9ed000b280e1d95b40510d60e1428722.jpg)
 *(Source: PHB'24, page 215)*
+
+### Greenthumb Whittler
+*(Wondrous Item, Uncommon)*
+- **Properties**:
+  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient.
+  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 1 foot in any dimension. At the end of each hour you spend carving the statue, make a DC 10 Dexterity check, adding your PB to the roll if you were already proficient with Woodcarver's Tools. The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
+  The statue can do minor feats of animation, which you decide upon completing it. If it moves, it can't leave its space on its own. For example, the statue can wave and turn its head back and forth robotically, or dance around in a circle within its space. You can start or stop the animation by tapping the statue twice in rapid succession (no action required).
+  Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
+- **Weight**: 250 g
+- **Price**: 800 gp
+![Image|250](https://i.imgur.com/wqsceXf_d.png?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
 
 ## Items H
 ### Halberd
@@ -1345,7 +1345,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**: If you would take **Psychic** damage while holding the orb in your hand, reduce that damage by 1d4.
 - **Weight**: 200 g
 - **Price**: 800 gp
-![Image|250](https://i.imgur.com/uXYkeWb_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/1d/e3/0d/1de30d25663a879ffdb87fc35c1f98bd.jpg)
 *(Source: ERLW, page 278)*
 
 ## Items P
