@@ -15,7 +15,7 @@
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 2 kg
 - **Price**: 800 gp
-![Image|250](https://i.imgur.com/CGeGW9W_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Orb of Shielding
@@ -190,7 +190,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: 10 gp
-![Image|250](https://i.pinimg.com/736x/bf/72/26/bf7226d38e98c91366d2fdfa84f1b806.jpg)
+![Image|250](https://i.pinimg.com/736x/d7/50/25/d750253686f8326ce55c9047a4b9f56c.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Bedroll
@@ -230,7 +230,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
 - **Price**: 10 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/df/22/a5/df22a55dabf4d1ff99ba4f8630f3858c.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Bolt
@@ -381,7 +381,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: ??
-![Image|250](https://i.imgur.com/kWnCoEX_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![Image|250](https://i.pinimg.com/736x/b5/60/73/b56073ba7ee5619bc9ac5da0f849512d.jpg)
 *(Source: Custom)*
 
 ### Chain
@@ -466,7 +466,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: 0.5 kg
 - **Price**: 1 sp
-![Image|250](https://i.pinimg.com/736x/c1/6b/17/c16b17c9a2395eaaf3b03d11d287310e.jpg)
+![Image|250](https://i.pinimg.com/736x/40/c5/5e/40c55eb25b0de151da3452062b40ea4e.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Cobbler's Tools
@@ -757,7 +757,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Graze (STR)](dm/item_info.md#graze).
 - **Weight**: 3 kg
 - **Price**: 20 gp
-![Image|250](https://i.pinimg.com/736x/9c/92/5c/9c925c03361e2fe3afd4f56fddd25e5f.jpg)
+![Image|250](https://i.pinimg.com/736x/1d/6c/d4/1d6cd4ef7e7fc7f6cb8cb1c174a84559.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Glass Bottle
@@ -801,7 +801,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Cleave](dm/item_info.md#cleave).
 - **Weight**: 3.5 kg
 - **Price**: 30 gp
-![Image|250](https://i.pinimg.com/736x/aa/67/86/aa6786ac95a00bb74ccb457474660243.jpg)
+![Image|250](https://i.pinimg.com/736x/26/14/0a/26140a4976562626c6cfd2a24c0b04bb.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Greatclub
@@ -812,7 +812,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Push 2](dm/item_info.md#push).
 - **Weight**: 5 kg
 - **Price**: 2 sp
-![Image|250](https://i.pinimg.com/736x/e1/01/39/e101392ace8845d1b1d885601edd72ae.jpg)
+![Image|250](https://i.pinimg.com/736x/07/2c/98/072c9829d6189b19b21c013b482315f7.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Greatsword
@@ -823,7 +823,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Graze (STR)](dm/item_info.md#graze).
 - **Weight**: 3 kg
 - **Price**: 50 gp
-![Image|250](https://i.pinimg.com/736x/c2/b7/f6/c2b7f64bfc48e34d8a7269b1eaee8831.jpg)
+![Image|250](https://i.pinimg.com/736x/9e/d0/00/9ed000b280e1d95b40510d60e1428722.jpg)
 *(Source: PHB'24, page 215)*
 
 ## Items H
@@ -835,7 +835,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Cleave](dm/item_info.md#cleave).
 - **Weight**: 3 kg
 - **Price**: 20 gp
-![Image|250](https://i.pinimg.com/736x/82/de/68/82de680d77d0af9beda1a894cf5af81d.jpg)
+![Image|250](https://i.pinimg.com/736x/01/a9/9e/01a99edeb83029c9e09162a197adee05.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Half Plate Armor
@@ -867,7 +867,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
+![Image|250](https://i.pinimg.com/736x/f0/01/ef/f001ef50c4ad541232c95d11432c1b56.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Healer's Kit
@@ -886,7 +886,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Push 2](dm/item_info.md#push).
 - **Weight**: 9 kg
 - **Price**: 50 gp
-![Image|250](https://i.pinimg.com/736x/2e/76/97/2e7697e2a8d55b56d9b174f5e857fc3a.jpg)
+![Image|250](https://i.pinimg.com/736x/11/34/a9/1134a91f4bea92b3efb8ccc4b425387a.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Herbalism Kit
@@ -998,7 +998,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: 1 kg
 - **Price**: 5 sp
-![Image|250](https://i.pinimg.com/736x/4c/dd/87/4cdd8776fcf47796a062a49be7bfa357.jpg)
+![Image|250](https://i.pinimg.com/736x/12/03/2e/12032e9cb1a5ac1450b9859fa752f826.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Jeweler's Tools
@@ -1087,7 +1087,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/10/2c/9e/102c9edf86147f13448fabb3300ac4dd.jpg)
+![Image|250](https://i.pinimg.com/736x/f0/0c/02/f00c02c45deabcba2effbf85424c4b7f.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Light Hammer
@@ -1116,7 +1116,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: 1 kg
 - **Price**: 50 gp
-![Image|250](https://i.pinimg.com/736x/6b/e9/e0/6be9e098fd649d8996a312248e76e634.jpg)
+![Image|250](https://i.pinimg.com/736x/53/c4/c4/53c4c47d1750689e1129d4cc853eadb4.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Longship
@@ -1141,7 +1141,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1.5 kg
 - **Price**: 15 gp
-![Image|250](https://i.pinimg.com/736x/03/3c/eb/033ceb074cd691e371d1ef64de2d1b8f.jpg)
+![Image|250](https://i.pinimg.com/736x/66/80/8f/66808f543a864cda4c01b37984d8cf80.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Lute
@@ -1171,7 +1171,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 2 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/66/43/e7/6643e7cbe4cc5f881f7a8bcf9ce62a69.jpg)
+![Image|250](https://i.pinimg.com/736x/b6/e3/04/b6e30461e36636f2af5ce6c6f39dd9a4.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Magnifying Glass
@@ -1229,7 +1229,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 5 kg
 - **Price**: 10 gp
-![Image|250](https://i.pinimg.com/736x/bb/7f/16/bb7f16d8093194f2648dc5a0ca27fbbc.jpg)
+![Image|250](https://i.pinimg.com/736x/86/29/85/8629853419b7bc925b5a713f6c36834f.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Military Saddle
@@ -1254,7 +1254,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 2 kg
 - **Price**: 15 gp
-![Image|250](https://i.pinimg.com/736x/80/36/06/8036061fea0de1031648c3616360b1ed.jpg)
+![Image|250](https://i.pinimg.com/1200x/f2/6c/22/f26c22e1128771f4baea7bf8a2243995.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Mugwort
@@ -1281,7 +1281,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: 5 kg
 - **Price**: 500 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/97/09/c0/9709c08ee19af011d9e0ed2c1a2cd135.jpg)
 *(Source: PHB'24, page 215)*
 
 ## Items N
@@ -1383,7 +1383,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Mastery**: [Push 2](dm/item_info.md#push).
 - **Weight**: 9 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/00/8a/34/008a343166e9782c41677a86e7520039.jpg)
+![Image|250](https://i.pinimg.com/736x/d3/57/3b/d3573bbb6d2b3f00f548a5076d003365.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Pistol
@@ -1394,7 +1394,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1.5 kg
 - **Price**: 250 gp
-![Image|250]() [TODO]
+![Image|250](https://i.pinimg.com/736x/eb/48/72/eb487277305bb0fa49631486f9703ab8.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Plate Armor
@@ -1492,7 +1492,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 2 kg
 - **Price**: 2 sp
-![Image|250](https://i.pinimg.com/736x/64/0d/ce/640dceacec8176a8a49e5cce1cbe0c52.jpg)
+![Image|250](https://i.pinimg.com/736x/d4/12/6a/d4126a29b7d72968e00f64bb01e980ba.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Quiver
@@ -1511,7 +1511,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 25 gp
-![Image|250](https://i.pinimg.com/736x/58/9e/90/589e902d887aba2e1adc82b6acaafdcc.jpg)
+![Image|250](https://i.pinimg.com/736x/5d/74/67/5d7467a5ede7c057c458dfdfc0224eac.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Rations
@@ -1650,7 +1650,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Mastery**: [Nick](dm/item_info.md#Nick).
 - **Weight**: 1.5 kg
 - **Price**: 25 gp
-![Image|250](https://i.pinimg.com/736x/63/38/a9/6338a9ba9aa31114f68992e0c9e2acaf.jpg)
+![Image|250](https://i.pinimg.com/736x/be/e8/79/bee879219407fd0acbe84ff77d8d17c4.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Shatterglass Ward
@@ -1680,7 +1680,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Properties**: -
 - **Weight**: 3 kg
 - **Price**: 10 gp
-![Image|250](https://i.pinimg.com/736x/7e/cb/26/7ecb26cc57bd5fc8ba475692c02ff674.jpg)
+![Image|250](https://i.pinimg.com/736x/af/79/85/af7985cd19deb0e0656021db5510b986.jpg)
 *(Source: PHB'24, page 219)*
 
 ### Shortbow
@@ -1702,7 +1702,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 10 gp
-![Image|250](https://i.pinimg.com/736x/be/4f/56/be4f56d701771d26c91e671b2f938ea7.jpg)
+![Image|250](https://i.pinimg.com/736x/b2/10/98/b210982aa4381135d2e8f9bea8c49293.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Shovel
@@ -1909,7 +1909,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 2 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/26/21/63/2621639a489836bf499481905081c18d.jpg)
+![Image|250](https://i.pinimg.com/736x/13/69/97/13699710dbf5370806bbf1bbe5c8b69c.jpg)
 *(Source: PHB'24, page 215)*
 
 ## Items U
@@ -1947,7 +1947,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: 5 gp
-![Image|250](https://i.pinimg.com/736x/47/41/d7/4741d79572e539ae0028093d64822809.jpg)
+![Image|250](https://i.pinimg.com/736x/15/36/06/153606a82490d24d62da61c8e6d7d578.jpg)
 *(Source: PHB'24, page 215)*
 
 ### Warhammer
@@ -1958,7 +1958,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Mastery**: [Push 2](dm/item_info.md#push).
 - **Weight**: 2.5 kg
 - **Price**: 15 gp
-![Image|250](https://i.pinimg.com/736x/31/15/a7/3115a7b1824aa15bfe3ce925f6a1cd7a.jpg)
+![Image|250](https://i.pinimg.com/736x/21/b9/ff/21b9ffe0aad2714834838c76c94cf6cf.jpg)
 *(Source: PHB'24, page 215)*
     
 ### Warhorse

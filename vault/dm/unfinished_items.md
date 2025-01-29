@@ -1067,3 +1067,259 @@ When you roll initiative while wearing this armor, use the number rolled on the 
 1-5 | Any attack roll made against yo ubefore the start of your second turn of combat is made with Disadvantage.
 6-15 | You add 1d12 to the total of your initiative.
 16-20 | At the start of your first turn, you can use a Bonus Action to take the Dash action. If you take the Attack action on that turn, you can make one additional weapon attack as part of that Attack action. You make this additional attack roll with advantage.
+
+### Staff of Awakening
+Staff, artifact (requires attunement by a spellcaster)
+
+This fey staff's shaft is hewn from the wood of an ancient, mysterious oak in the Ebony Glade, whose roots are said to have absorbed the dreams of elves from long ago. A perfect sphere of amber from that same oak hangs suspended in the center of it. While attuned to the staff, you are immune to the dream and sleep spells.
+
+Charges. The staff has 10 charges for the following properties. It regains all expended charges daily at dawn. If you expend the staff's last charge and are not fey or lack the Fey Ancestry trait, roll a d20. On a 1, the staff disappears into a dreamlike mist and returns to the Ebony Glade in the realm of the fey.
+
+Sleep. While holding the staff, you can use an action to expend 1 of its charges to cast the sleep spell from it. This version of the spell uses 3d8 to determine the maximum number of hit points for the spell, but targets a single creature within the spell's range instead. You can use the staff to cast the normal version of the spell at 1st level by expending 2 or more of its charges in this way, instead. For every 2 charges you spend after the 2nd, the level of the spell increases by 1.
+
+Destroying the Staff. The only way of destroying the Staff of Awakening is to leave it in the workshop of the Grephearon, where its artisans untangle the dreams from which its originating oak grew. Doing so takes 1 year, after which the staff can be broken like a normal branch.
+
+Dormant Properties. Some properties of this artifact are locked behind layers of dormant magic. As you grow stronger and reach certain milestones, these properties may become available to you.
+
+(Prerequisite: 5th level) Nightmare. This staff can be wielded as a magic quarterstaff that deals an extra 1d8 psychic damage to any creature it hits. When you fail to put a creature to sleep with a sleep spell cast from the staff, that creature takes an amount of psychic damage equal to half the spell's remaining hit point total.
+
+(Prerequisite: 5th level) Rested. While attuned to the staff, the amount of time you need to finish a long rest is halved, down to a minimum of 4 hours.
+
+(Prerequisite: 9th level) Dream Walker. Sleep spells you cast roll an extra die when determining the spell's total number of hit points. In addition, you can reroll any 1 or 2 you roll on the spell's dice. You must use the new roll.
+
+You can cast the dream spell from the staff, using your spell save DC, even if you're asleep or in a trance. You don't need to be holding the staff to cast the spell in this way, although it must be within 30 feet of you, and you must be the messenger of the spell. If you finish the spell and wake up, the staff immediately loses 5 charges, up to the maximum it has remaining. If you remain asleep or in a trance until you finish a long rest, it doesn't lose any charges. This version of the spell can't make the messenger appear monstrous to the target.
+
+(Prerequisite: 13th level) Awaken. While holding the staff, you can cast the awaken spell from it, without any material components. To do so, you must use the spell's normal casting time and trace the spell's magical pathways into the staff's amber sphere. The lines vanish at the end of the spell. Once this property of the staff has been used, it can't be used again until 30 days have passed.
+
+This part of the Awaken property is only discovered when a legend lore spell is cast on the staff: the version of the awaken spell cast by the staff can be used on itself, revealing additional properties. The Staff of Awakening gains the following properties once the awaken spell has been cast on it from the staff.
+
+Sentience. The Staff of Awakening is a sentient chaotic good staff with an Intelligence of 10, a Wisdom of 19, and a Charisma of 16. It has hearing and darkvision out to a range of 120 feet; it can also see invisible creatures within that range. The staff communicates telepathically with its wielder and can speak, read, and understand Common, Elvish, and Sylvan. While you're attuned to it, it can communicate with you as long as you're within 30 feet of it.
+
+Personality. The Staff of Awakening is dreamlike in its whims and wishes, and it always seems to be partially distracted. While you're attuned to it, the staff can also appear in your dreams, during which time it is exceptionally coherent and insightful. It loves nothing more than analyzing the dreams of other people and imagining far-flung scenarios.
+
+Dream Aura. While holding the staff, you can use an action to create an aura of dreams, which extends from you in a 40-foot radius. When a creature starts its turn within the aura with fewer than half its maximum hit points remaining, it immediately regains a number of hit points equal to 1d8 plus your spellcasting ability modifier if it's friendly to you, or takes psychic damage equal to that amount instead if it's hostile. The aura remains for 1 minute or until you end it early (no action required). Once this property of the staff has been used, it can't be used again until the next dawn. Alternatively, you can use an action to expend 10 charges from the staff to use this property again.
+
+Improved Nightmare. When you hit a creature with the staff, you can expend 1 of its charges to deal an extra 2d8 psychic damage to the target.
+
+Increased Charges. The staff's maximum number of charges increases to 20; it regains 1d10 + 10 expended charges daily at dawn, instead of all of them. In addition, if you expend its last charge, you don't need to roll a d20 if you aren't fey or lack the Fey Ancestry trait.
+
+Plane Shift. You can use an action to expend 7 charges from the staff to cast the plane shift spell from it, using the staff as the tuning fork for the spell. When cast in this way, creatures targeted by the spell are transported to the Ebony Glade on the plane of the fey. If the spell is cast while you're on that plane of existence, the targets are instead transported back to wherever the plane shift spell was last cast before bringing creatures to the Ebony Glade. Alternatively, you can expend 7 charges to magically teleport you and up to eight willing creatures linking hands to the location where you last finished a long rest, provided that you're on the same plane of existence.
+
+Premonition. When you start a long rest, you can focus on a question about an upcoming event that can be answered with either "good" or "bad." If you fall asleep during that rest, you learn the answer to the question at the end of the rest. At the GM's discretion, any dreams you have during that rest may reflect details of the event. This property doesn't take into account any possible circumstances that might change the outcome, such as the casting of spells or the loss or gain of a companion.
+
+Psychic Resistance. While holding the staff, you have resistance to psychic damage.
+
+### Bastion Chain
+Armor (chain mail), rare (requires attunement)
+
+The chains of this armor shift naturally with your movements. You gain a +1 bonus to AC while you wear this armor, which doesn't impose disadvantage on Dexterity (Stealth) checks you make. In addition, the chains flow around you reflexively when you're surrounded; the armor's bonus to AC increases to +2 when three or more hostile creatures are within 5 feet of you.
+
+### Shadow-Fletched Arrow
+Weapon (arrow), rare
+
+This arrow is barbed with unforgiving spikes and releases a plume of magical shadow when shot. When a creature is hit by the arrow, it must make a DC 15 Constitution saving throw. A creature's Strength score is reduced by 2d4 for 1 hour on a failed save, or by half as much on a successful one. This effect can't reduce a creature's Strength score below 6. The arrow then becomes nonmagical.
+
+Other types of magic ammunition of this kind exist, such as shadow-fletched bolts meant for a crossbow, though arrows are most common.
+
+### Mimic's Smilemaker
+Wondrous item, common
+
+This bone-handled brush can clean your teeth exceptionally well, resulting in magically fresh breath with every use. You can clean your teeth using the brush over the course of 1 minute. Parts of a mimic's tongue are used to make a comfortable grip and scrubber. The brush creates its own frothing cleaning solution when it's used.
+
+Your teeth are magically transformed into fangs whenever you finish cleaning your teeth with the brush, and they remain transformed in this way until you finish a long rest. In addition, your tongue becomes stained blue and purple for the duration.
+
+### Bullseye Dart
+Weapon (dart), rare
+
+The weighted end of this dart is made to resemble a stylized eye, and its shaft is hewn from a bull's horn. Your attacks with this magic weapon score a critical hit on a roll of 16–20. Once this happens, the dart loses this property for 1 minute. In the meantime, it can still be used as a magic dart.
+
+### Magmarath Molten Blaster
+Weapon (crossbow, heavy or light), very rare (requires attunement)
+
+Molten veins glimmer from beneath this magic weapon's volcanic body. The crossbow magically creates and loads its own ammunition whenever the drawstring is pulled back, forming a bolt of condensed lava each time. On a hit, it deals 2d8 fire damage, instead of the weapon's normal damage. You still add your Dexterity modifier to this damage roll. The ammunition crumbles and turns to ash immediately after it hits or misses a target or if it's removed from the crossbow.
+
+The crossbow has 5 charges and regains all expended charges daily at dawn. While holding the crossbow, you can expend 1 of its charges using an action. When you do, the crossbow magically projects an explosive mote of fire, which vaguely resembles a fiery mephit. If the last target you hit with one of the crossbow's lava bolts is still within the weapon's normal range, the mote magically strikes that target and explodes. Roll 4d6. The target takes fire damage equal to the total, and each creature within 10 feet of the explosion (not including the target) must succeed on a DC 16 Dexterity saving throw or take fire damage equal to half the total.
+
+### Solar Torch
+Rod, very rare (requires attunement)
+
+While holding this rod, you can use a bonus action to cause a Tiny sun to float above it. The sun sheds bright light out to 30 feet, and dim light for an additional 30 feet. The light is sunlight. If any of the bright light overlaps with an area of magical darkness, it suppresses that effect in the area (but does not dispel it), allowing creatures to see as normal within the bright light's radius.
+
+Sunburst. While holding the rod, you can use an action to cast the sunburst spell from it (save DC 16), centered on you. You take no damage from the spell when cast in this way, but are still blinded if you fail the saving throw. Each time the rod is used to cast this spell, there is a 50 percent chance that the rod loses this property. When that happens, the rod no longer requires you to be attuned to it in order to use its properties.
+
+### Ashen Bloom
+[TODO] this is cool, or the petals are for sure as consumable
+Wondrous item, rare
+
+An ashen bloom is a rare flower that grows in earth that's been charred by a phoenix's fire. Once it blooms, it continues to live indefinitely until all of its petals are removed, even if it's plucked from the soil. When found, an ashen bloom has 2d4 + 2 petals remaining. The flower crumbles to ash once its last petal is removed.
+
+Its petals have a variety of uses. You can pluck one of its petals as part of the options below. Once a petal has been used, it loses its magic.
+
+Component. You can use one petal as part of casting a spell that deals fire damage. When you do, choose one creature that takes damage from the spell. That target takes an extra 2d6 fire damage.
+
+Eaten. You can eat one petal using an action. When you do, you're cured of either one disease or one poison affecting you. If you're afflicted by more than one, you neutralize one disease or poison of your choice that you know is present, or you neutralize one at random.
+
+Smoked. You can smoke one petal in a pipe or similar object over the course of 1 minute, at which time you gain resistance to fire damage for 1d4 hours. The exhaled smoke is red.
+
+Steeped. You can steep one petal in 8 ounces of cold water over the course of 10 minutes, by which point the water is boiling and crimson. Drinking all of this tea, which takes at least 1 minute, reduces your exhaustion level by one.
+
+### Shroud of the Unburied
+Wondrous item, rare
+
+This canvas burial shroud is permanently stained red and is worn like a cloak. When you're reduced to 0 hit points while wearing the shroud but not killed outright, it magically wraps around you to protect your unconscious body. You immediately gain 25 temporary hit points, which remain for 10 minutes or until you regain any hit points, at which point the shroud unwraps from you. While you have these temporary hit points, you can neither gain nor suffer any death saving throw successes or failures, and whenever a creature within 10 feet of you deals damage to you, it immediately takes 2d12 necrotic damage.
+
+Once the shroud has granted temporary hit points in this way, it can't do so again until 3 days have passed. In the meantime, you must make a DC 5 Constitution saving throw whenever you finish a long rest. On a failed save, you gain only the benefits of a short rest, as you're plagued by horrific visions of long-dead spirits.
+
+### Lionguard Chain
+Armor (chain shirt or chain mail), rare (requires attunement)
+
+This armor was once the standard equipment of elite guards for a now-fallen empire. You gain a +1 bonus to AC while you wear this armor. In addition, you have advantage on saving throws against being frightened, and you can add your proficiency bonus to any Charisma check with which you aren't already proficient when interacting with common guards or soldiers.
+
+### Clangor Helmet
+Wondrous item, rare (requires attunement)
+
+This helmet was made from a temple bell and weighs 10 pounds. While wearing it, you have resistance to thunder damage and can't be deafened. In addition, whenever a creature within 5 feet of you deals bludgeoning damage to you with a melee attack, roll a d6. On a 5 or 6, the attacking creature takes 5 or 6 thunder damage, respectively.
+
+### The Timekeeper's Pendulum
+Weapon (greataxe), legendary (requires attunement)
+
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. While holding it, you can use a bonus action to speak its command word. When you do, you are affected by the haste spell, which lasts until the start of your next turn. At the start of your next turn, roll a d20. On a 1–10, you are affected by the slow spell, or the haste spell on an 11–20. The spell lasts until the start of your next turn, at which point you roll the d20 again. Continue to roll the d20 at the start of each of your turns in this way for 1 minute, gaining the effects of either the haste or slow spell each turn, or until you end it using a bonus action. This property of the axe can't be used again until the next dawn.
+
+In addition, when you roll a 1 or 20 on an attack roll made with this weapon, you are immediately affected by either the slow or haste spell, respectively. The spell lasts until the start of your next turn; if you are already affected by one of the spells, it's replaced by this one for the duration.
+
+These spells don't require concentration, but the effect ends early if you start your turn without holding the axe or if you're reduced to 0 hit points. Furthermore, you don't suffer the effects of the end of any haste spell from the axe.
+
+Rewind. While holding the axe, if you take damage that reduces you to 0 hit points but doesn’t kill you outright, you can use your reaction (before falling unconscious) to interrupt the current turn. You then immediately take an extra turn, and regain any hit points you lost since the end of your last turn, up to a maximum of 24 hit points. You are affected by the haste spell for the duration of this extra turn. Once this property of the axe has been used, it can't be used again until the next dawn.
+
+### Primordial Earth Heart
+Wondrous item, legendary (requires attunement)
+
+This crystal-pierced rock is shaped like a heart. It gently pulses while held and is always slightly warmer than body temperature. It is said that the first earth elemental was once a human that joined with such a heart.
+
+As part of attuning to the heart, you must also hold it to your chest. Once you've attuned to it, the heart magically sinks into your chest, with its crystals just barely visible above the surface. While attuned to the heart, your skin becomes hard like stone, granting you the effects of the stoneskin spell. In addition, while you are not wearing any armor, your Armor Class equals 14 + your Dexterity modifier. You can use a shield and still gain this benefit.
+
+Spells. While attuned to the heart, you can use an action to cast one of the following spells from it (save DC 17): entangle, spike growth, or wall of stone. Each spell manifests as a series of jagged crystals. When a creature other than you enters the area of one of these spells (or within 5 feet of a wall of stone) for the first time on a turn or starts its turn there, that creature immediately takes 1d4 piercing damage from the jagged crystals. You are immune to the effects of the entangle and spike growth spells when cast in this way. Once the heart has been used to cast a spell, it can’t be used to cast that spell again until the next dawn.
+
+Curse. This heart is cursed, and attuning to it extends that curse to you. While cursed, the stone and crystals spread across your body, gradually replacing your flesh with pure rock and crystal over the course of 30 days. After 30 days, you no longer need to breathe, you gain a burrowing speed equal to half your walking speed, and you have tremorsense out to a range of 10 feet. Your weight is also tripled; your swimming speed is reduced to 0 if you have one, and you sink to the bottom of any liquid at a rate of 60 feet per round, at which point you can walk as normal. Only a wish spell can end your attunement to the heart and remove the curse, at which point it erupts from your body, landing in a space within 5 feet of you and returning your flesh to normal.
+
+### Ravenheart's Origami Ravens
+Wondrous item, uncommon
+
+This slim wooden carrying case holds three dark paper birds. While holding a paper bird, you can use an action to speak its command phrase, "By fold and feather, fly." When you do, the paper springs to life and transforms into a raven for 1 hour. For the duration, the raven is treated as if it were your familiar summoned by the find familiar spell. Its animal form can't be changed. The raven reverts to its paper form at the end of the hour, if it's reduced to 0 hit points, or if you dismiss it. When it does, it immediately tears itself to tiny paper shreds and is destroyed.
+
+### Armor of the Stone Citadel
+Armor (plate), legendary (requires attunement)
+
+This armor is made of stone and reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than 17, instead of 15. Castle-like crenellations run along the tops of the armor's various pieces. While wearing the armor, you can't be petrified, and you have a damage threshold of 10. In addition, if you are blocking a friendly creature enough to grant it half cover against an attack or hostile effect, that creature instead has three-quarters cover against it.
+
+Living Citadel. While wearing the armor, you can use an action to transform into a Huge stone tower. The tower is a 15-foot-square that's 30 feet tall, centered on you. It resembles your head and upper torso, complete with a pair of powerful stone arms. If there isn't space for the tower, you don't transform, and the action (but not the use of this property) is wasted. Your equipment merges into this form when you transform and has no effect for the duration. For the duration, you use your normal senses, but your speed is reduced to 0. While in this form, you gain 100 temporary hit points and have an AC of 18, your damage threshold increases to 20, and you can't be moved or knocked prone. You are also immune to any spell or effect that would alter your form. You remain in this form for up to 8 hours, at which point you return to your normal form. You return to your normal form early if you lose all of these temporary hit points or if you end the effect using an action. While in this form, you can't cast spells, and your normal attacks are replaced by unarmed strikes using your massive stone fists. These unarmed strikes have a reach of 30 feet and deal 4d8 bludgeoning damage on a hit. You can make two unarmed strike attacks on each of your turns when you take the Attack action, even if you can normally make more. Alternatively, you can use an action to hurl a boulder from your arm. The boulder is a ranged weapon attack with a normal range of 60 feet and a long range of 180 feet. On a hit, it deals 6d8 bludgeoning damage. You are proficient with these attacks, which use your Strength modifier for their attack and damage rolls.
+
+You can choose to contain any willing or unconscious creatures that would be in your space when you transform into the tower. Other creatures are pushed to the nearest unoccupied space outside the tower. When you revert to your normal form, any creatures within the tower reappear in the nearest unoccupied space. A door large enough for Medium creatures to enter the tower appears on the ground. Creatures of your choice can open the door easily, but any other creature must make a DC 20 Dexterity check using thieves' tools or a DC 25 Strength (Athletics) check to open it. The tower has no windows, but has two floors and a staircase connecting them inside.
+
+Once this property of the armor has been used, it can't be used again until the next dawn. If you're reduced to 0 temporary hit points and revert to your normal form, it can't be used again until 1d6 + 1 days have passed, instead.
+
+### Quiver of Seasons
+Wondrous item, rare (requires attunement)
+
+This slender quiver is decorated with a forest of silhouetted trees. You can use a bonus action on each of your turns to speak the quiver's command word to change its season, which also changes its color and design: Spring (green, trees with silver leaves), Summer (yellow, rays of silver sunlight), Autumn (orange, silver leaves falling), or Winter (blue, silver veins on trees).
+
+The quiver has 8 charges and regains 1d6 + 2 expended charges daily at dawn. When you make a ranged attack using a weapon to fire ammunition drawn from this quiver, you can expend 1 of the quiver's charges to infuse that ammunition with the quiver's seasonal magic. That ammunition gains the following benefits depending on the quiver's associated season:
+
+Spring. The ammunition is wrapped by verdant brambles. On a hit, the brambles wrap around the target and deal an extra 1d10 piercing damage. The target must succeed on a DC 15 Strength saving throw or be restrained by the brambles until the end of your next turn. A creature can use its action to make a DC 15 Strength check, freeing itself or another creature within its reach from the brambles on a success.
+
+Summer. The ammunition is scorched by wildfire. On a hit, flames erupt from it that deal an extra 1d10 fire damage to the target. The target must succeed on a DC 15 Dexterity saving throw or take an extra 1d10 fire damage at the start of its next turn.
+
+Autumn. The ammunition is touched by decaying fungus. On a hit, a cloud of sickening spores bursts from it that deals an extra 1d10 necrotic damage to the target. The target must succeed on a DC 15 Constitution saving throw or be poisoned until the end of your next turn. This has no effect on undead or constructs.
+
+Winter. The ammunition is covered in biting frost. On a hit, ice splinters outward from it that deals an extra 1d10 cold damage. The target must make a DC 15 Constitution saving throw. On a failed save, the target's speed is halved until the end of your next turn. For the duration of this effect, it can't use reactions, and on its turn, it can use either an action or a bonus action, but not both. Regardless of the target's abilities, it can't make more than one attack during its turn for the duration.
+
+The ammunition returns to normal after the attack.
+
+Other types of magic ammunition containers of this kind exist, such as a bolt case of seasons meant for crossbows, though quivers are most common.
+
+### Battlebrew Bomb
+Wondrous item, uncommon
+
+This fist-sized keg contains 1 ounce of extremely old dwarven liquor which is as strong as it is explosive. A built-in locking mechanism keeps the barrel sealed until it's ready to be used. You can use an action to twist the sides of the keg and throw it at a point that you can see up to 20 feet away from you, splitting the keg open on impact and spraying the area with a fine mist of the liquor. Each creature within 10 feet of that point must make a DC 13 Dexterity saving throw, taking 2d8 poison damage on a failed saving throw, or half as much damage on a successful one.
+
+The next time that a target that was sprayed by the liquor takes fire damage within 1 minute, it takes an extra 2d8 fire damage as the liquor ignites.
+
+### Spool of Shadow
+Wondrous item, common
+
+Thin wisps of smoke gently rise from this spool of magic black thread. You can use the entire spool of thread to repair an article of clothing or embroider a design on one instead. In either case, it takes 1 hour to sew the entire spool's thread on an article of clothing, at which point the thread's magic is transferred to it. While a creature is wearing the article of clothing, it can add 1d4 to the total of any Dexterity (Stealth) check it makes. Once this property has been used for a third time, its magic is lost.
+
+### Ghostbow Bracer
+[TODO] rework this for ghost hand control for mufi
+
+
+### Zweihander
+![Image|250](https://i.pinimg.com/736x/71/af/99/71af994bb99f0c9bdde4a37d82b73391.jpg)
+
+### Naginata
+
+![Image|250](https://i.pinimg.com/736x/3e/b7/f3/3eb7f30701f6c254d6ca38c32b62427c.jpg)
+
+
+### Tattered Glaive
+![Image|250](https://i.pinimg.com/736x/13/a3/78/13a378d8153967c888af36521e52051f.jpg)
+
+### Simple Gold Axe
+![Image|250](https://i.pinimg.com/736x/b8/c3/77/b8c377f45a56b234ea13f92847bf92f7.jpg)
+
+### Small Handaxe
+![Image|250](https://i.pinimg.com/736x/b2/1d/b6/b21db6f13533e4d35c25a9e1c777b59a.jpg)
+
+### Pretty Axe
+![Image|250](https://i.pinimg.com/736x/51/20/12/5120126ebba88b2f365dd71c87167dd1.jpg)
+
+### Guns
+![Image|250](https://i.pinimg.com/736x/f3/96/0b/f3960b20e30d602380f329c75c9d3300.jpg)
+![Image|250](https://i.pinimg.com/736x/7a/b7/6b/7ab76b372683ea4ddafbedf301a6371f.jpg)
+![Image|250](https://i.pinimg.com/736x/02/fc/0f/02fc0f7d1ac33819260903d256d255ef.jpg)
+
+### Wood Chopping Axe
+![Image|250](https://i.pinimg.com/736x/bc/e2/d0/bce2d0f2465865ef6fc5555cc332a34e.jpg)
+
+### Elegant Pike
+![Image|250](https://i.pinimg.com/736x/e6/59/65/e65965b9911e606935e652d47b76f0b1.jpg)
+
+### Time Shortsword
+![Image|250](https://i.pinimg.com/736x/c8/dc/db/c8dcdbe808bbb85b7e35fb66a4f5f50f.jpg)
+
+### Auto Reload Crossbow
+![Image|250](https://i.pinimg.com/736x/5f/8e/93/5f8e93b786866ac15673f636b3a5c90d.jpg)
+
+### Ornate Longsword
+![Image|250](https://i.pinimg.com/736x/55/8b/2f/558b2f6bf4633ac721de8765cf4e672d.jpg)
+
+### Elegant Shortbow
+![Image|250](https://i.pinimg.com/736x/18/2d/9a/182d9a9d729fd6e33562ad217181df3b.jpg)
+
+### Goblin Machete
+![Image|250](https://i.pinimg.com/736x/6c/9b/51/6c9b51bc192339eacbdbabe936f0e352.jpg)
+
+### Dwarven Handaxe
+![Image|250](https://i.pinimg.com/736x/48/9f/4d/489f4d0d02677119b19ba735c5e57486.jpg)
+
+### Arm Extended Scimitar
+![Image|250](https://i.pinimg.com/736x/71/a4/55/71a455cd2e03d0e1724c88043af892b5.jpg)
+
+### Wide Broadsword
+![Image|250](https://i.pinimg.com/736x/f3/df/7f/f3df7f68a2120432f065c7c3b2384df2.jpg)
+
+### War Scythe
+![Image|250](https://i.pinimg.com/736x/cd/a9/19/cda919d3566ecbf655569db683d559c8.jpg)
+
+### Nice Shield
+![Image|250](https://i.pinimg.com/736x/6c/3d/28/6c3d28eb02a62382e24534819f665b9e.jpg)
+
+### Nice Longbow
+![Image|250](https://i.pinimg.com/736x/6b/e9/e0/6be9e098fd649d8996a312248e76e634.jpg)
+
+### Nice Shortbow
+![Image|250](https://i.pinimg.com/736x/36/de/72/36de7248d0fd2c6f2162114f8a1915ef.jpg)
+
+### EVen Nicer Bow
+![Image|250](https://i.pinimg.com/736x/18/2d/9a/182d9a9d729fd6e33562ad217181df3b.jpg)
+
