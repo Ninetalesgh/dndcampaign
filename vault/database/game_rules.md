@@ -99,7 +99,7 @@ Acrobatics
 - **Difficulty Class (DC)** -> Very easy 5, easy 10, medium 15, hard 20, Very hard 25, nearly impossible 30 
 - **Armor Class (AC)** -> Your Base AC + DEX. You can only have one Base AC, by default that is 10.
 - **Health Points (HP)** -> Your Health, when it drops to 0 you are on the brink of death! You can never have more HP than your HP maximum.
-- **Long Rest (LR)** -> 8 Hours of rest (of which ~6 are sleep) to regain all your HP and Spell Slots and everything else that regenerates or refreshes after Long Rests.
+- **Long Rest (LR)** -> 8 Hours of rest (of which ~6 are sleep) to regain all your HP and Spell Slots and everything else that regenerates or refreshes after Long Rests. All effects lasting until the next Long Rest end. *(If you forego Long Rests these effects instead last a maximum of 24 hours)*
 - **Hit Point Dice** -> Type of dice that represents how tough you are depending on your class. You have an amount of HP Dice equal to your Level. You regenerate *[Level / 2] (round up)* HP Dice after a Long Rest. 
 - **Short Rest (SR)** -> 1 Hour of rest. Spend and roll as many HP Dice as you want to regenerate HP, add your CON modifier to each die. Some resources regenerate after Short Rests.
 
