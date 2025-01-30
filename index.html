@@ -26,9 +26,9 @@
             </ul>
             <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/game_rules.md')">General Rules</button></li>
-              <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/spells.md')">Spells</button></li>
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/merchant_wares.md')">Merchants' Wares</button></li>
-              <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/conditions.md')">Conditions</button></li>
+              <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/spells.md')">Spells</button></li>
+              <!-- <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/conditions.md')">Conditions</button></li> -->
             </ul>
           </div>
         </div>
@@ -517,15 +517,15 @@
           }
           
           const dmPages = new Array(
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_info.md`,
+            //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_02.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_01.md`,
-            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`);
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
+            `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`);
 
           window.addEventListener('load', async () => 
           {

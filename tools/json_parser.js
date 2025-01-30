@@ -23,7 +23,7 @@ function convertFeetRangeInts(nearRange,farRange)
 
 function strip5EToolsItemTag(string)
 {
-  return string.replace(/(?:\{@item )?([^|]+)(?:\|(?:[^}]*)\})?/gm, (m, g) => (g));
+  return string.replace(/(?:\{@item )([^|]+)(?:\|(?:[^}]*)\})?/gm, (m, g) => (g));
 }
 
 const gCommonMonsterTraits = new Array(
@@ -56,10 +56,13 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\{@creature\s([^|}]+)[^}]*\}/gm, '$1');
   strippedString = strippedString.replace(/\{@status\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   strippedString = strippedString.replace(/\{@condition\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
+  strippedString = strippedString.replace(/\{@disease\s([^|}]+)[^}]*\}/gm, (m, g) => `[${g[0].toUpperCase() + g.slice(1)}](conditions.md#${g.toLowerCase().replace(/\s/g, '-')})`);
   strippedString = strippedString.replace(/\{@recharge\s?([^}]*)\}/gm, (m, g) => (g ? `(Recharge ${g}-6)` : '(Recharge 6)'));
   strippedString = strippedString.replace(/\{@scaledamage\s[^}]+?([^|}]*)\}/gm, (m, g) => g);
+  strippedString = strippedString.replace(/(?:\{@quickref )([^|]+).*?([^|}]+)\}/gm, (m, g1, g2) => `[${g2}](game_rules.md#${g1.toLowerCase()})`);
 
   //custom
+  strippedString = strippedString.replace(/\shit\spoints?/gm, ' HP');
   strippedString = strippedString.replace(/\ssaving\sthrow/gm, ' Save');
   strippedString = strippedString.replace(/\sstrength/gmi, ' STR');
   strippedString = strippedString.replace(/\sdexterity/gmi, ' DEX');
@@ -343,12 +346,12 @@ function convert5EMonsterToText(jsonObject)
   const data = jsonObject;
 
   let output = new Array();
-  // Extra Link
-  {
-    //TODO doesn't work for covens
-    const linkToMonsterString = `[${data.name} (${data.cr.cr ? `${data.cr.cr} Minion` : data.cr})](dm/monsters.md#${data.name.replace(/\s/g,'-').toLowerCase()})`;
-    output.push(linkToMonsterString);
-  }
+  // Extra Link, not necessary for now since sorting does that now
+  // {
+  //   //TODO doesn't work for covens
+  //   const linkToMonsterString = `[${data.name} (${data.cr.cr ? `${data.cr.cr} Minion` : data.cr})](dm/monsters.md#${data.name.replace(/\s/g,'-').toLowerCase()})`;
+  //   output.push(linkToMonsterString);
+  // }
 
   output.push("### " + data.name);
 

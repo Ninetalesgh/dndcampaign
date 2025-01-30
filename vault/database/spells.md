@@ -666,7 +666,7 @@ You touch a willing Beast. For the duration, you can perceive through the Beast'
 - **Components**: V, S
 - **Duration**: Instantaneous
 You blast the mind of a creature that you can see within range. The target makes an INT Save.
-On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the Greater Restoration, Heal, or Wish spell.
+On a failed save, the target takes 10d12 Psychic damage and can't cast spells or take the Magic action. At the end of every 30 days, the target repeats the save, ending the effect on a success. The effect can also be ended by the [Greater Restoration](spells.md#greater-restoration), [Heal](spells.md#heal), or [Wish](spells.md#wish) spell.
 On a successful save, the target takes half as much damage only.
 - **Classes**: Bard, Druid, Warlock, Wizard
 *(Source: PHB'24, page 245)*
@@ -755,7 +755,7 @@ On a Success, the creature takes half damage.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 Veins of iron begin to spread from you in a radius 6 *(9m)* emanation, corrupting all they touch.
 A creature that starts its turn in the area must succeed on a CON Save or have a limb of its choice turn to iron, becoming unusable and counting as a nonmagical metal object for the spell's duration.
-If each of the target's limbs are already iron, the creature instead is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
+If each of the target's limbs are already iron, the creature instead is [Petrified](conditions.md#petrified) until cured by [Greater Restoration](spells.md#greater-restoration) or similar magic.
 - **Classes**: Cleric, Warlock
 *(Source: ConfluxCreatures)*
 
@@ -1817,7 +1817,7 @@ In addition, you can take the Disengage action as a Bonus Action for the spell's
 - **Components**: V
 - **Duration**: 1 minute
 You mentally contact a demigod, the spirit of a long-dead sage, or some other knowledgeable entity from another plane. Contacting this otherworldly INT can break your mind. When you cast this spell, make a DC 15 INT Save. On a successful save, you can ask the entity up to five questions. You must ask your questions before the spell ends. The DM answers each question with one word, such as ""yes,"" ""no,"" ""maybe,"" ""never,"" ""irrelevant,"" or ""unclear"" (if the entity doesn't know the answer to the question). If a one-word answer would be misleading, the DM might instead offer a short phrase as an answer.
-On a failed save, you take 6d6 Psychic damage and be [Incapacitated](conditions.md#incapacitated) until you finish a Long Rest. A Greater Restoration spell cast on you ends this effect.
+On a failed save, you take 6d6 Psychic damage and be [Incapacitated](conditions.md#incapacitated) until you finish a Long Rest. A [Greater Restoration](spells.md#greater-restoration) spell cast on you ends this effect.
 - **Classes**: Warlock, Wizard
 *(Source: PHB'24, page 255)*
 
@@ -2199,7 +2199,7 @@ You radiate a magical aura in a radius 6 *(9m)* emanation. While in the aura, yo
 - **Components**: V, S
 - **Duration**: Instantaneous
 You clasp a fist toward a creature you can see within range, calling the weight of endless stone to bear down upon it from all sides.
-The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Bludgeoning damage plus 5d6 Fire damage and the target's Size is decreased by one category until cured by Greater Restoration or similar magic. On a Success, the target takes half damage.
+The target must make a CON Saving Throw. On a Failure, the target takes 5d10 Bludgeoning damage plus 5d6 Fire damage and the target's Size is decreased by one category until cured by [Greater Restoration](spells.md#greater-restoration) or similar magic. On a Success, the target takes half damage.
 - **Classes**: Druid, Sorcerer, Warlock, Wizard
 *(Source: ConfluxCreatures)*
 
@@ -4055,7 +4055,7 @@ A creature killed by this damage has its skin peeled off and blown away in a spr
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 You attempt to turn one creature that you can see within range into stone. The target makes a CON Save. On a failed save, it is [Restrained](conditions.md#restrained) for the duration. On a successful save, its Speed is 0 until the start of your next turn. Constructs automatically succeed on the save.
 A [Restrained](conditions.md#restrained) target makes another CON Save at the end of each of its turns. If it successfully saves against this spell three times, the spell ends. If it fails its saves three times, it is turned to stone and is [Petrified](conditions.md#petrified) for the duration. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind.
-If you maintain your Concentration on this spell for the entire possible duration, the target is [Petrified](conditions.md#petrified) until the condition is ended by Greater Restoration or similar magic.
+If you maintain your Concentration on this spell for the entire possible duration, the target is [Petrified](conditions.md#petrified) until the condition is ended by [Greater Restoration](spells.md#greater-restoration) or similar magic.
 - **Classes**: Druid, Sorcerer, Wizard
 ![\|50](https://bg3.wiki/w/images/7/72/Flesh_to_Stone_Icon.webp)
 *(Source: PHB'24, page 275)*
@@ -4381,7 +4381,7 @@ You fortify the fabric of the planes in a size 6 *(9m)* cube you can see within 
 You give a verbal command to a creature that you can see within range, ordering it to carry out some service or refrain from an action or a course of activity as you decide. The target must succeed on a WIS Save or be [Charmed](conditions.md#charmed) for the duration. The target automatically succeeds if it can't understand your command.
 While [Charmed](conditions.md#charmed), the creature takes 5d10 Psychic damage if it acts in a manner directly counter to your command. It takes this damage no more than once each day.
 You can issue any command you choose, short of an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
-A Remove Curse, Greater Restoration, or Wish spell ends this spell.
+A [Remove Curse](spells.md#remove-curse), [Greater Restoration](spells.md#greater-restoration), or [Wish](spells.md#wish) spell ends this spell.
 **Using a Higher-Level Spell Slot.** If you use a level 7 or 8 spell slot, the duration is 365 days. If you use a level 9 spell slot, the spell lasts until it is ended by one of the spells mentioned above.
 - **Classes**: Bard, Cleric, Druid, Paladin, Wizard
 *(Source: PHB'24, page 278)*
@@ -4772,7 +4772,11 @@ A creature you touch is [Invisible](conditions.md#invisible) until the spell end
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: Instantaneous
-You touch a creature and magically remove one of the following effects from it:1 Exhaustion levelThe [Charmed](conditions.md#charmed) or [Petrified](conditions.md#petrified) conditionA curse, including the target's Attunement to a cursed magic itemAny reduction to one of the target's ability scoresAny reduction to the target's Hit Point maximum
+You touch a creature and magically remove one of the following effects from it:
+  - 1 stack of [Exhaustion](conditions.md#exhaustion).
+  - [Charmed](conditions.md#charmed) or [Petrified](conditions.md#petrified).
+  - A curse, including the target's Attunement to a cursed magic item.
+  - Any reduction to one of the target's ability scoresAny reduction to the target's HP maximum.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger
 ![\|50](https://bg3.wiki/w/images/e/ee/Greater_Restoration_Icon.webp)
 *(Source: PHB'24, page 281)*
@@ -10602,7 +10606,7 @@ This spell grants the creature you touch the ability to understand any spoken or
 Each creature of your choice that you can see within range must succeed on a CHA  Saving Throw or be Cursed.
 At the start of each of its turns, the Cursed creature must make a CON Saving Throw. On a Failure, the creature takes 2d10 Psychic damage and its Speed is reduced by 1 *(1.5m)* until this curse ends.
 A creature that has its Speed reduced to 2 *(3m)* or lower in this way has the [Blinded](conditions.md#blinded) and [Choking](conditions.md#choking) conditions, as liquid stone wells up from its mouth, nose, and eyes.
-A creature that has its Speed reduced to 0 in this way is [Petrified](conditions.md#petrified) until cured by Greater Restoration or similar magic.
+A creature that has its Speed reduced to 0 in this way is [Petrified](conditions.md#petrified) until cured by [Greater Restoration](spells.md#greater-restoration) or similar magic.
 - **Classes**: Cleric, Druid, Sorcerer, Wizard
 *(Source: ConfluxCreatures)*
 
@@ -11303,7 +11307,7 @@ On each of your turns until the spell ends, you can use your Bonus Action to for
 Wish is the mightiest spell a mortal can cast. By simply speaking aloud, you can alter reality itself.
 The basic use of this spell is to duplicate any other spell of level 8 or lower. If you use it this way, you don't need to meet any requirements to cast that spell, including costly components. The spell simply takes effect.
 Alternatively, you can create one of the following effects of your choice:Object Creation. You create one object of up to 25,000 GP in value that isn't a magic item. The object can be no more than 60 *(90m)* in any dimension, and it appears in an unoccupied space that you can see on the ground.
-Instant Health. You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the Greater Restoration spell.
+Instant Health. You allow yourself and up to twenty creatures that you can see to regain all Hit Points, and you end all effects on them listed in the [Greater Restoration](spells.md#greater-restoration) spell.
 Resistance. You grant up to ten creatures that you can see Resistance to one damage type that you choose. This Resistance is permanent.
 Spell Immunity. You grant up to ten creatures you can see immunity to a single spell or other magical effect for 8 hours.
 Sudden Learning. You replace one of your feats with another feat for which you are eligible. You lose all the benefits of the old feat and gain the benefits of the new one. You can't replace a feat that is a prerequisite for any of your other feats or features.
