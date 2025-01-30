@@ -311,7 +311,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 1500 gp
-![\|250](https://i.imgur.com/a0Ompm6_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/a0Ompm6.png)
 *(Source: Custom)*
 
 ### Carpenter's Tools
@@ -357,7 +357,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1 kg
 - **Price**: ??
-![\|250](https://i.imgur.com/kWnCoEX_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/kWnCoEX.png)
 *(Source: Custom)*
 
 ### Chain
@@ -440,7 +440,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: Instead of rolling for an Attack, set the result of the d20 to 10. *(Once per Long Rest)*
 - **Weight**: 20 g
 - **Price**: 1000 gp
-![\|250](https://i.imgur.com/gs0DFS8_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/gs0DFS8.png)
 *(Source: DMG'24, page 245)*
 
 ### Club
@@ -777,7 +777,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Goggles of Night
 *(Wondrous Item, Uncommon)*
 - **Properties**: You gain [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision), if you already have Darkvision, increase its range by 12 *(18m)*.
-![\|250](https://i.imgur.com/gr1VMaI_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/gr1VMaI.png)
 - **Weight**: 250 g
 - **Price**: 1500 gp
 *(Source: Custom)*
@@ -832,7 +832,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
   Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
 - **Weight**: 250 g
 - **Price**: 800 gp
-![\|250](https://i.imgur.com/wqsceXf_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/wqsceXf.png)
 *(Source: The Griffon's Saddlebag, Customized)*
 
 ## Items H
@@ -866,7 +866,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1.5 kg
 - **Price**: ??
-![\|250](https://i.imgur.com/uaE48P1_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/uaE48P1.png)
 *(Source: Custom)*
 
 ### Hand Crossbow
@@ -962,7 +962,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: One creature of your choice hears the horn's blare if the creature is within 180 meters of you and able to hear. No other creature hears this. *(4 Charges, regain 1d4 Charges after Long Rest)*
 - **Weight**: 250 g
 - **Price**: 800 gp
-![\|250](https://i.imgur.com/GQFEueb_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/GQFEueb.png)
 *(Source: DMG'24, page 270)*
 
 ### Hunting Trap
@@ -1013,7 +1013,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
   - You gain +2 to INT (Investigation) and DEX (Initiative) Checks.
 - **Weight**: 250 g
 - **Price**: 1200 gp
-![\|250](https://i.imgur.com/qcp8A8T_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/qcp8A8T.png)
 *(Source: Custom)*
 
 ### Iron Pot
@@ -1130,7 +1130,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Nick](dm/item_info.md#nick).
 - **Weight**: 0.5 kg
 - **Price**: 2 gp
-![\|250](https://i.imgur.com/6CJxcMp_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/6CJxcMp.png)
 *This pair of matching brass katars seems to exhale heat in the throes of battle.*
 *(Source: The Griffon's Saddlebag, Customized)*
 
@@ -1410,7 +1410,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Psychic** damage while holding the orb in your hand: Reduce that damage by 1d4.
 - **Weight**: 200 g
 - **Price**: 800 gp
-![\|250](https://i.imgur.com/wGZbWJN_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/wGZbWJN.png)
 *(Source: ERLW, page 278)*
 
 ### Owlbear Leather Armor
@@ -1909,7 +1909,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 [Craft](dm/item_info.md#crafting): Any Melee weapon (except [Club](dm/items.md#club), [Greatclub](dm/items.md#greatclub), [Quarterstaff](dm/items.md#quarterstaff), and [Whip](dm/items.md#whip)), Medium armor (except [Hide](dm/items.md#hide-armor)), Heavy armor, [Ball Bearings](dm/items.md#ball-bearings), [Bucket](dm/items.md#bucket), [Caltrops](dm/items.md#caltrops), [Chain](dm/items.md#chain), [Crowbar](dm/items.md#crowbar), [Firearm Bullets](dm/items.md#firearm-bullet), [Grappling Hook](dm/items.md#grappling-hook), [Iron Pot](dm/items.md#iron-pot), [Iron Spikes](dm/items.md#iron-spike), [Sling Bullets](dm/items.md#sling-bullet).
 - **Weight**: 4 kg
 - **Price**: 20 gp
-![\|250](https://i.imgur.com/mEXX8xW_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/mEXX8xW.png)
 *(Source: PHB'24, page 221)*
 
 ### Spear
@@ -1932,7 +1932,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
 - **Price**: 3000 gp
-![\|250](https://i.imgur.com/Sjm9nLG_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/Sjm9nLG.png)
 *(Source: Custom)*
 
 ### Splint Armor
@@ -1993,7 +1993,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
   - You have [Truesight against Dragons 12 *(18m)*](game?rules.md#special-senses#truesight).
 - **Weight**: 20 g
 - **Price**: 3000 gp
-![\|250](https://i.imgur.com/I8pLAkO_d.png?maxwidth=520&shape=thumb&fidelity=high)
+![\|250](https://i.imgur.com/I8pLAkO.png)
 *(Source: Custom)*
 
 ### The Rattlestick
