@@ -213,6 +213,8 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 [Lemure Squidge (1/2, Minion)](dm/monsters.md#lemure-squidge)
 [Imp (1)](dm/monsters.md#imp)
 
+
+[TODO] Bone/Spined Devil and Chain Devil for the sword and the chain armor! 
 #### Promotion and Demotion
   When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils have the power to promote lemures to lesser devils. Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. This diabolic promotion invokes a brief, painful transformation, with the devil's memories passing intact from one form to the next.
   Low-level promotions are typically based on need, such as when a pit fiend transforms lemures into imps to gain invisible spies under its command. High-level promotions are almost always based on merit, such as when a bone devil that distinguishes itself in battle is transformed into a horned devil by the archdevil it serves. A devil is seldom promoted more than one step at a time in the hierarchy of infernal forms.
