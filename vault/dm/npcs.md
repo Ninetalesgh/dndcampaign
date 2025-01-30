@@ -21,12 +21,15 @@ Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a littl
 Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#mufis-performance): Pushes Mufi.
+  [Session 1](dm/session_notes/session_01.md#the-farmhouse-and-barn): Lead the party against the goblin attack.
 
 # Alenna Harvestsong
 **Priestess**
 Human -> Dark hair, warm brown skin tone. orange white robes dusted from gardening.
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#nyari-investigates-the-pollution): Gives Nyari the corrupted root & urges him to ask players to help him investigate.  
+  [Session 1](dm/session_notes/session_01.md#revealed-secrets): Heals Nyari and suggests the root should be identified in the Academy Laboratory.
+    - Begins funeral preparations for [Lilly Mylen](dm/npcs.md#lilly-mylen).
 
 # Delia Leabrace
 **Florist**
@@ -39,12 +42,14 @@ Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel 
 Human -> Pronounced jawline, high cheekbones, deeply set eyes. Long leather coat. Strong Hands.
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#the-elevator-scene): Calls Borin and helps lift, tells Garrin to help against the attack on the farms. 
+  [Session 1](dm/session_notes/session_01.md#introduction): Appears in the introduction.
 
 # Garrin Harvestsong
 **Farmer Spokesperson** 
 Human -> Tall burly man, greying trimmed beard, greasy hair, dull eyes.
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#the-elevator-scene): Helps lift and urges characters to join against the attack.
+  [Session 1](dm/session_notes/session_01.md#the-farmhouse-and-barn): Helped the party against the goblin attack, knew the Mylen family.
 
 # Borin Grathal
 **Academy Rector**

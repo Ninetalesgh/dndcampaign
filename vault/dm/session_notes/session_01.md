@@ -21,7 +21,6 @@
 
   - The river called "Limvael" (Elvish for 'Clear/Water Pool'), 
     a creek, called **"Arm of Limvael"**. 
-  The dwarves referred to the underground streams flowing out underneath the riverpool as **"Drinathar"** - 'Waters of Silver'.
 
   - Slight haze in the air, cloudy. Lush gently rolling hills, Farmsteads scattered across The Plateau, in the back you see arboreal mountain ranges rise on the horizon in the west and south.
       In the east you have a steep embankment dropping down into the valley, granting a stunning view across the King's Forest in the Cormyr lowlands. (The entire Plateau is roughly 2x12km)
@@ -57,16 +56,15 @@ ROLL INITIATIVE
   - Merrick/Garrin: "They were never this aggressive before, until now they just stole livestock."
   - Ginny is found hiding in a trapdoor in the barn.
 
-### The Pasture
-- **Location**: Green hills stretch toward the tree line, the soft grass stained by frantic footprints heading toward the woods. 
+- **The Pasture**
+  - Green hills stretch toward the tree line, the soft grass stained by frantic footprints heading toward the woods. 
 
-### The Trail
-- **Location**: The fairly narrow trail, flanked by steep leaf covered embankments, winds upward deeper into the Stormhorns.
+- **The Trail**
+  The fairly narrow trail, flanked by steep leaf covered embankments, winds upward deeper into the Stormhorns.
   Broken branches and faint smears of blood mark the goblins' passage, leading into the embrace of the pine forest above. 
-
-- The wind whistles through the crags, carrying their faint echo.
-- If they chase, they catch up to one Goblin and one wounded Worg that were left behind. 
+  - The party catches up to one Goblin and one wounded Worg that were left behind. 
 
 # Revealed Secrets 
 
 - The Corrupted Root is a young branch, so it must've grown really recently, and it reeks of Necromancy.
+  - Alenna suggests investigating it with laboratory equipment at the Academy.

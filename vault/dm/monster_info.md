@@ -36,19 +36,31 @@ An [Axe Beak (1/2)](dm/monsters.md#axe-beak) is a tall flightless bird with stro
 [Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
 ## Dragon
+[Pseudodragon (1/4)](dm/monsters.md#pseudodragon)
+
 ### Kobolds
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 - **Strength in Numbers.** Kobolds are egg-laying creatures. They mature quickly and can live to be "great wyrms" more than a century old. However, many kobolds perish before they reach the end of their first decade. Physically weak, they are easy prey for predators. This vulnerability forces them to band together. Their superior numbers can win battles against powerful adversaries, but often with massive casualties on the kobold side.
 - **Tunnelers and Builders.** Kobolds make up for their physical ineptitude with a cleverness for trap making and tunneling. Their lairs consist of low tunnels through which they move easily but which hinder larger humanoids. Kobolds also riddle their lairs with traps. The most insidious kobold traps make use of natural hazards and other creatures. A trip wire might connect to a spring-loaded trap that hurls clay pots of flesh-eating green slime or flings crates of venomous giant centipedes at intruders.
 - **The Lost God.** In addition to the dragons they revere, kobolds worship a lesser god named Kurtulmak. Legends speak of how Kurtulmak served as Tiamat's vassal in the Nine Hells until Garl Glittergold, the god of gnomes, stole a trinket from the Dragon Queen's hoard. Tiamat sent Kurtulmak to retrieve the trinket, but Garl Glittergold played a trick on him, collapsing the earth and trapping the kobold god in an underground maze for eternity. For this reason, kobolds hate gnomes and pranks of any kind. Kurtulmak's most devoted worshipers dedicate themselves to finding and releasing their lost god from his prison-maze.
 [Kobold (1/8)](dm/monsters.md#kobold)
-[Kobold Inventor (1/4)](dm/monsters.md#kobold-inventor)
 [Kobold Rockbruiser (1/4)](dm/monsters.md#kobold-rockbruiser)
 [Kobold Shinetooth (Minion, 1/2)](dm/monsters.md#kobold-shinetooth)
 [Kobold Trapcaster (1/2)](dm/monsters.md#kobold-trapcaster)
-[Kobold Dragonshield (1)](dm/monsters.md#kobold-dragonshield)
 
-[Pseudodragon (1/4)](dm/monsters.md#pseudodragon)
+![\|250](https://5e.tools/img/bestiary/MM/Kobold.webp)
+
+[Kobold Scale Sorcerers (1)](dm/monsters.md#kobold-scale-sorcerer) have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
+  A scale sorcerer who resides in or near a dragon's lair may serve as that dragon's diplomat and mouthpiece—anticipating the dragon's needs, issuing commands to others on the dragon's behalf, and reporting information back to the dragon. Such scale sorcerers often wear artificial wings, which are a sign of their draconic office. Scale sorcerers are just as awed by and respectful of dragons as others who venerate these mighty creatures, but they know that duty requires them not to fawn over their master at all times. They also understand that their frequent proximity to their dragon master means they would probably be the first to die if their master became angry or displeased, so they frantically maintain a balance between adoration and terror in their behavior toward their master.
+![\|250](https://5e.tools/img/bestiary/MPMM/Kobold%20Scale%20Sorcerer.webp)
+
+A [Kobold Inventor (1/4)](dm/monsters.md#kobold-inventor) builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
+![\|250](https://5e.tools/img/bestiary/MPMM/Kobold%20Inventor.webp)
+
+[Kobold Dragonshields (1)](dm/monsters.md#kobold-dragonshield) are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
+  Dragonshields know they have a place of honor among those who venerate dragons, but—being kobolds at heart—most of them feel unworthy of their status and are desperate to prove themselves deserving of it. But they also have the ability to rally in the face of certain death, inspiring others to follow them into battle.
+![\|250](https://5e.tools/img/bestiary/MPMM/Kobold%20Dragonshield.webp)
+
 
 ## Elemental
 Also known as rocklings and rock hermits, [Geonid (1/4)](dm/monsters.md#geonid)  are small, intelligent cave dwellers that originated on the Elemental Plane of Earth. A geonid's arms and legs come out of a small opening in the bottom of its shell. A geonid can draw its limbs into its shell and close the opening. When it does so, the creature looks like a small boulder. In this state, the geonid can't see and relies on its tremorsense to detect other creatures nearby.
@@ -286,6 +298,14 @@ In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight)
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
+### Boneless
+
+Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.md#boneless) are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
+  Boneless arise in a variety of forms. While the animate skins of specific creatures are the most common, foul spellcasters might create these horrors from the scraps of failed experiments, necromantic slurries, heaps of discarded hair, abattoirs, and charnel concoctions. These origins don't affect a boneless's statistics but lend it distinct forms.
+  Whether through accident or depraved genius, some villains use one corpse to create two separate undead. Boneless might adorn the frames of other undead, like skeletons or zombies. The sight of a boneless peeling itself from its independently undead frame haunts the nightmares of many seasoned monster hunters.
+
+![\|250](https://5e.tools/img/bestiary/VRGR/Boneless.webp)
+
 ### Claws 
 [Crawling Claws (0)](dm/monsters.md#crawling-claw) are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 - **Magical Origins.** Through dark necromantic rituals, the life force of a murderer is bound to its severed hand, haunting and animating it. If a dead murderer's spirit already manifests as another undead creature, if the murderer is raised from death, or if the spirit has long passed on to another plane, the ritual fails.
@@ -296,10 +316,14 @@ In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight)
 - **Living Claws.** If a crawling claw is animated from the severed hand of a still-living murderer, the ritual binds the claw to the murderer's soul. The disembodied hand can then return to its former limb, its undead flesh knitting to the living arm from which it was severed.
   Made whole again, the murderer acts as though the hand had never been severed and the ritual had never taken place. When the crawling claw separates again, the living body falls into a coma. Destroying the crawling claw while it is away from the body kills the murderer. However, killing the murderer has no effect on the crawling claw.
 
+![\|250](https://5e.tools/img/bestiary/MM/Crawling%20Claw.webp)
+
 ### Shadows
 [Shadows (1/2)](dm/monsters.md#shadow) are undead that resemble dark exaggerations of humanoid shadows.
 - **Dark Disposition.** From the darkness, the shadow reaches out to feed on living creatures' vitality. They can consume any living creature, but they are especially drawn to creatures untainted by evil. A creature that lives a life of goodness and piety consigns its basest impulses and strongest temptations to the darkness where the shadows hunger. As a shadow drains its victim's strength and physical form, the victim's shadow darkens and begins to move of its own volition. In death, the creature's shadow breaks free, becoming a new undead shadow hungry for more life to consume.
   If a creature from which a shadow has been created somehow returns to life, its undead shadow senses the return. The shadow might seek its "parent" to vex or slay. Whether the shadow pursues its living counterpart, the creature that birthed the shadow no longer casts one until the monster is destroyed.
+
+![\|250](https://5e.tools/img/bestiary/MM/Shadow.webp)
 
 ### Skeletons
 [Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior) arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
@@ -312,6 +336,7 @@ In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight)
   When skeletons encounter living creatures, the necromantic energy that drives them compels them to kill unless they are commanded by their masters to refrain from doing so. They attack without mercy and fight until destroyed, for skeletons possess little sense of self and even less sense of self-preservation.
 
 [Skeleton (1/4)](dm/monsters.md#skeleton)
+![\|250](https://5e.tools/img/bestiary/XPHB/Skeleton.webp)
 
 ### Wights 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -320,6 +345,8 @@ The word "wight" meant "person" in days of yore, but the name now refers to evil
   When a wight attacks, this life essence glows like white-hot embers to its dark eyes, and the wight's cold touch can drain the spark through flesh, clothing, and armor.
 - **Shadow of the Grave.** Wights flee from the world by day, away from the light of the sun, which they hate. They retreat to barrow mounds, crypts, and tombs where they dwell. Their lairs are silent, desolate places, surrounded by dead plants, noticeably blackened, and avoided by bird and beast.
   Humanoids slain by a wight can rise as zombies under its control. Motivated by hunger for living souls and driven by the same desire for power that awakened them in undeath, some wights serve as shock troops for evil leaders, including wraiths. As soldiers, they are able to plan but seldom do so, relying on their hunger for destruction to overwhelm any creature that stands before them.
+
+![\|250](https://5e.tools/img/bestiary/MM/Wight.webp)
 
 ### Zombies
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The [Zombie (1/4)](dm/monsters.md#zombie) advances, driven to kill anyone too slow to escape its grasp.
@@ -334,12 +361,14 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 [Gravehound (1/2)](dm/monsters.md#gravehound)
 [Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
 
+![\|250](https://5e.tools/img/bestiary/XPHB/Zombie.webp)
+
 # Monster Traits
 ### Animated Object
 The creature is [Incapacitated](conditions.md#incapacitated) while in the area of an [Antimagic Field](spells.md#antimagic-field).
 If this creature is targeted with a spell-nullifying effect, such as [Dispel Magic](spells.md#dispel-magic), it must succeed on a CON Save against the caster's Spell Save DC or die.
 ### Minion
-If the kobold takes damage from an Attack or as the result of a failed Save, its HP drop to 0. If it takes damage from another effect, it dies if the damage equals or exceeds its HP, otherwise it takes no damage.
+If a minion takes damage from an Attack or as the result of a failed Save, its HP drop to 0. If it takes damage from another effect, it dies if the damage equals or exceeds its HP, otherwise it takes no damage.
 - **Overkill Attacks.** If a player character deals more damage to a minion than its HP they can assign the damage to another minion of the same type in range or line of the Attack.
 ### Nimble Escape
 This creature can take the Disengage or Hide action as a Bonus Action on each of its turns.

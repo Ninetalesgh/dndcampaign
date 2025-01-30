@@ -1,3 +1,4 @@
+
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2
@@ -352,6 +353,30 @@ STR | DEX | CON | INT | WIS | CHA
    - **Foaming Defiance**. When the boar would be reduced to 0 HP, it can make a DC 10 CON Save. On a success, the boar is instead reduced to 1 hit point.
    If triggered by piercing damage or a critical hit, this Save is made with disadvantage.
 *(Source: ConfluxCreatures)*
+
+### Boneless
+**CR**: 1/2
+*Medium undead, Neutral Evil*
+- **Initiative**: +0
+- **AC**: 16 (natural armor)
+- **HP**: 27 (5d8 + 5)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+13 (+1) | 10 (+0) | 12 (+1) | 3 (-4) | 7 (-2) | 5 (-3) 
+
+- **Immunities**: poison; [Charmed](conditions.md#charmed), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Grappled](conditions.md#grappled), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Traits**: 
+   - **Damage Transfer**. While it is wrapped around a creature, the boneless takes only half the damage dealt to it by creatures it is not grappling, and the creature [Grappled](conditions.md#grappled) by the boneless takes the other half.
+   - **Amorphous**. The boneless can move through a space as narrow as 1 inch wide without squeezing.
+- **Actions**: 
+   - **Clinging Slam**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 3 (1d4 + 1) bludgeoning damage and the boneless wraps itself around the target (escape DC 11). While the boneless is wrapped around it, a creature cannot speak or breathe, and the boneless moves with the target.
+   - **Throttle**. One creature the boneless is wrapped around must succeed on a DC 11 CON Save or have the air driven from its lungs and begin to suffocate.
+*(Source: ConfluxCreatures)*
+
 
 ### Booyahg Caster
 **CR**: 1/4
@@ -1111,6 +1136,33 @@ STR | DEX | CON | INT | WIS | CHA
    - **Sneaky Shove**. When a friendly creature  hits a creature within 1 *(1.5m)* of the kobold with an attack, the kobold can force the target to succeed on a DC 12 STR Save or fall [Prone](conditions.md#prone).
    - **Flimsy Bravado**. When the kobold misses with a melee attack, it can move up to 3 *(4.5m)* directly away from the target.
 *(Source: ConfluxCreatures)*
+
+### Kobold Scale Sorcerer
+**CR**: 1
+*Small humanoid, Any Alignment*
+- **Initiative**: +2
+- **AC**: 15 (natural armor)
+- **HP**: 27 (5d6 + 10)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+7 (-2) | 15 (+2) | 14 (+2) | 10 (+0) | 9 (-1) | 14 (+2) 
+
+- **Skills**: arcana: +2, medicine: +1
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Languages**: Common, Draconic
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
+   - **Spellcasting**. The kobold casts one of the following spells, requiring no material components and using CHAa as the spellcasting ability (spell save DC 12):
+     - *At will:* [mage hand](spells.md#mage-hand), [prestidigitation](spells.md#prestidigitation)
+     - *2/day each:* [charm person](spells.md#charm-person), [fog cloud](spells.md#fog-cloud), [levitate](spells.md#levitate)
+- **Actions**: 
+   - **Multiattack**. The kobold makes two Dagger or Chromatic Bolt attacks. It can replace one attack with a use of Spellcasting.
+   - **Dagger**. *Melee or Ranged Attack:* +4 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
+    *Hit:* 4 (1d4 + 2) piercing damage.
+   - **Chromatic Bolt**. *Ranged Spell Attack:* +4 to hit, range 12 *(18m)*, one target. 
+    *Hit:* 9 (2d6 + 2) of a type of the kobold's choice: acid, cold, fire, lightning, poison, or thunder.
+*(Source: MPMM, page 165)*
 
 ### Kobold Shinetooth
 **CR**: 1/2 *(Minion)*

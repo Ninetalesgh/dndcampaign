@@ -9,8 +9,6 @@
 
 - **Enter The Stockpile.** To introduce The Stockpile Business.
 
-# Strong Introduction
-
 
 # Introduction
 
@@ -73,9 +71,10 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 - The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. 
 - The laboratories are easily accessible from The Stockpile.
 
-- Maris Tindle preparing and cleaning her personal equipment.
+[TODO] write out the Maris introduction better, leading the players in both directions.
 
 [TODO] Investigate the root + Maris telling the players about Black Lotus troubles. 
+- Maris Tindle preparing and cleaning her personal equipment.
 
 - Maris is investigating a patient with [Sewer Plague](conditions.md#sewer-plague), [Sight Rot](conditions.md#sight-rot) or later also [Cackle Fever](conditions.md#cackle-fever)
 
@@ -111,13 +110,13 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
   [Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)
   [Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
-[Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
-[Bandit (1/8)](dm/monsters.md#bandit)
+  [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
+  [Bandit (1/8)](dm/monsters.md#bandit)
 
 
 ### The Pit
 - **Location**: Far below the Stockpile, the air grows heavy and oppressive, and the cavernous expanse of the Pit stretches into the dark. Makeshift homes and shanties cling precariously to the walls, their occupants eking out a living amidst the underworld's strange and chaotic energy. 
-The chatter of diverse voices — *gruff, lilting, and guttural* — echoes through the gloom, mingling with the distant sounds of flowing water and shifting stone. Dim phosphorescent fungi provide a ghostly light, illuminating the signs of a thriving yet precarious community, teetering between survival and descent into the mysteries of the Underdark below.
+- The chatter of diverse voices — *gruff, lilting, and guttural* — echoes through the gloom, mingling with the distant sounds of flowing water and shifting stone. Dim phosphorescent fungi provide a ghostly light, illuminating the signs of a thriving yet precarious community, teetering between survival and descent into the mysteries of the Underdark below.
 
 [Aberration](dm/monster_info.md#aberration)
 [Cavern Choker (1/2)](dm/monsters.md#cavern-choker)
@@ -145,7 +144,11 @@ The chatter of diverse voices — *gruff, lilting, and guttural* — echoes thro
   A stagnant stench fills the air, and the occasional ripple suggests unseen movement below the surface. 
   Whatever history this place once held now lies buried, swallowed by the mire.
 
-In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
+  In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
+
+  Lyanna's body flops into a [Boneless (1/2)](dm/monsters.md#boneless) and a [Skeleton Warrior (1/4)](dm/monsters.md#skeleton-warrior) with just it's finger bones sharpened.
+
+  
 
 ### The Crypt Entrance
 - **Location**: The crypt’s entrance looms before you, a solemn archway of carved stone now fractured and weathered by time.
@@ -166,6 +169,9 @@ In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 [Kobold (1/8)](dm/monsters.md#kobold)
 [Kobold Rockbruiser (1/4)](dm/monsters.md#kobold-rockbruiser)
 [Kobold Inventor (1/4)](dm/monsters.md#kobold-inventor)
+[Kobold Trapcaster (1/2)](dm/monsters.md#kobold-trapcaster)
+[Kobold Dragonshields (1)](dm/monsters.md#kobold-dragonshield)
+[Kobold Scale Sorcerers (1)](dm/monsters.md#kobold-scale-sorcerer)
 
 - Tazlyn Stonewright is Brennar's Ancestor, he still has books of hers. 
 
@@ -173,6 +179,7 @@ In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
 - The Thieves' Guild is extremely on edge but also desperate to recruit more people.
 
+-  The dwarves referred to the underground streams flowing out underneath the river **Limvael** as **"Drinathar"** - 'Waters of Silver'.
 
 # UNSORTED
 
