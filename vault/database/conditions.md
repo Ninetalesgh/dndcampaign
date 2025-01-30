@@ -1,3 +1,4 @@
+# Conditions
 ## Attached
 A creature that is Attached to an object or another creature is moved with that object or creature whenever it moves. Any effect that could be used to [Grapple](conditions.md#grappled) a creature can be used to Attach to a creature too large for the Grappler to grapple.
 Any effect that ends [Grappled](conditions.md#grappled) can also end attached. The DC to remove an Attached creature is noted as its Remove DC.
@@ -81,3 +82,27 @@ An unconscious creature is [Prone](conditions.md#prone), [Incapacitated](conditi
 It fails all STR and DEX Saves.
 It is unaware of its surroundings.
 Attacks against it have Advantage and if they are from within range 1 always Critical Hits.
+
+# Diseases
+## Redding Ague
+A creature infected with Redding Ague does not recover stacks of [Exhaustion](conditions.md#exhaustion) upon completing a Long Rest. 
+Whenever an infected creature fails a CON Save by 5 or more, it acquires a stack of [Exhaustion](conditions.md#exhaustion).
+
+## Sewer Plague
+Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 CON Save or become infected with Sewer Plague. A creature suffers the following effects 1d4 days after infection:
+- **Fatigue.** The creature gains 1 stack of [Exhaustion](conditions.md#exhaustion).
+- **Weakness.** While the creature has any [Exhaustion](conditions.md#exhaustion), it regains only half the normal number of HP from spending HP Dice.
+- **Restlessness.** While the creature has any [Exhaustion](conditions.md#exhaustion), finishing a Long Rest neither restores lost HP nor reduces the creature's Exhaustion.
+- **Fighting the Contagion.** After a Long Rest, an infected creature makes a DC 11 CON Save. On a failed save, the creature gains 1 stack of [Exhaustion](conditions.md#exhaustion) as its fatigue worsens. On a successful save, the creature's [Exhaustion](conditions.md#exhaustion) decreases by 1. If the creature has no [Exhaustion](conditions.md#exhaustion), the contagion ends.
+
+## Sight Rot
+Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 CON Save or be [Blinded](conditions.md#blinded) until the contagion ends.
+- **Fighting the Contagion.** Magic such as [Heal](spells.md#heal) or [Lesser Restoration](spells.md#lesser-restoration) end the contagion immediately. A character who is proficient with a [Herbalism Kit](dm/items.md#herbalism-kit) can use it to create one dose of nonmagical ointment, which takes 1 hour. When applied to the eyes of a creature suffering from Sight Rot, the ointment suppresses the contagion on that creature for 24 hours. If the contagion is suppressed in this way for a total of 72 hours (requiring three doses and applications of the ointment), the contagion ends.
+- **Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 CON Save or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
+
+## Cackle Fever
+Any Humanoid (gnomes are immune). A creature suffers the following effects 1d4 days after infection:
+- **Fever.** The creature gains 1 stack of [Exhaustion](conditions.md#exhaustion), which lasts until the contagion ends.
+- **Uncontrollable Laughter.** While the creature has any [Exhaustion](conditions.md#exhaustion), it makes a DC 13 CON Save each time it takes damage other than Psychic damage. On a failed save, the creature takes 5 (1d10) Psychic damage and becomes [Incapacitated](conditions.md#incapacitated) as it laughs uncontrollably. At the end of each of its turns, the creature repeats the save, ending the effect on itself on a success. After 1 minute, it succeeds automatically.
+- **Fighting the Contagion.** At the end of each Long Rest, an infected creature makes a DC 13 CON Save. After the creature succeeds on three of these saves, the contagion ends on it, and the creature is immune to Cackle Fever for 1 year.
+- **Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a radius 2 *(3m)* Emanation originating from a creature infected with Cackle Fever must succeed on a DC 10 CON Save or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
