@@ -114,7 +114,7 @@ Items with variants have different templates, the variant does not change once d
   Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
 #### Moon-Touched Sword 
-  In Darkness, the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](dm/items.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](dm/items.md#dim-light) for an another 3 *(4.5m)*.
+  In Darkness, the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](game_rules.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](game_rules.md#dim-light) for an another 3 *(4.5m)*.
 
 #### Silvered Weapon
   An alchemical process has bonded silver to this magic weapon. When you score a **Critical Hit** with it against a creature that is shape-shifted, the weapon deals one additional die of damage.

@@ -21,9 +21,11 @@ An [Axe Beak (1/2)](dm/monsters.md#axe-beak) is a tall flightless bird with stro
 
 [Venomous Snake (1/8)](dm/monsters.md#venomous-snake)
 
+[Lion (1)](dm/monsters.md#lion)
+[Saber-Toothed Tiger (2)](dm/monsters.md#saber-toothed-tiger)
+
 ## Celestial
 [Sphinx of Wonder (1)](dm/monsters.md#sphinx-of-wonder)
-
 
 ## Construct
 [Animated Book (1/4)](dm/monsters.md#animated-book)
@@ -31,6 +33,7 @@ An [Axe Beak (1/2)](dm/monsters.md#axe-beak) is a tall flightless bird with stro
 [Animated Kettle (1/4)](dm/monsters.md#animated-kettle)
 [Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)
 [Flying Sword (1/2)](dm/monsters.md#flying-sword)
+[Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
 ## Dragon
 ### Kobolds
@@ -88,6 +91,55 @@ Comprising frigid air and water, [Ice Mephit (1/2)](dm/monsters.md#ice-mephit) a
 The [Blink Dog (1/4)](dm/monsters.md#blink-dog) takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 
 [Sprite (1/4)](dm/monsters.md#sprite)
+
+### Goblinoid
+#### Goblins
+  [Goblins (1/4)](dm/monsters.md#goblin) are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
+  - **Goblinoids.** Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
+  - **Malicious Glee.** Motivated by greed and malice, goblins can't help but celebrate the few times they have the upper hand. They dance, caper with sheer joy when victory is theirs. Once their revels have ended, goblins delight in the torment of other creatures and embrace all manner of wickedness.
+  - **Leaders and Followers.** Goblins are ruled by the strongest or smartest among them. A goblin boss might command a single lair, while a goblin king or queen (who is nothing more than a glorified goblin boss) rules hundreds of goblins, spread out among multiple lairs to ensure the tribe's survival. Goblin bosses are easily ousted, and many goblin tribes are taken over by hobgoblin warlords or bugbear chiefs.
+  - **Challenging Lairs.** Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are also riddled with narrow tunnels and bolt-holes that human-sized creatures can't navigate, but which goblins can crawl through with ease, allowing them to flee or to circle around and surprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
+  - **Worshipers of Maglubiyet.** Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
+
+  [Goblin Taunter (2)](dm/monsters.md#goblin-taunter)
+
+![\|250](https://5e.tools/img/bestiary/MM/Goblin.webp)
+
+#### Booyahgs 
+  Spellcasters of any sort among the goblins are rare. Goblins typically lack the intelligence and patience needed to learn and practice wizardry, and they fare poorly even when given access to the necessary training and knowledge. Sorcerers are less prevalent among them than in many other races, and Khurgorbaeyag seems to dislike sharing his divine power with his followers. And although many goblins would readily offer anything to have the abilities of a warlock, the patrons that grant such power know a goblin is unlikely to be able to uphold its end of any bargain.
+  Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
+  A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
+
+  The [Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
+
+  Khurgorbaeyag saw fit to gift the [Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
+
+  The [Booyahg Wielder (1/4)](dm/monsters.md#booyahg-wielder) found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
+
+#### Bugbears
+  [Bugbears (1)](dm/monsters.md#bugbear) are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
+  **Goblinoids.** Bugbears are often found in the company of their cousins, hobgoblins and goblins. Bugbears usually enslave goblins they encounter, and they bully hobgoblins into giving them gold and food in return for serving as scouts and shock troops. Even when paid, bugbears are at best unreliable allies, yet goblins and hobgoblins understand that no matter how much bugbears might drain a tribe of resources, these creatures are a potent force.
+  **Followers of Hruggek.** Bugbears worship Hruggek, a lesser god who dwells on the plane of Acheron. In the absence of their goblinoid kin, bugbears form loose war bands, each one led by its fiercest member. Bugbears believe that when they die, their spirits have a chance to fight at Hruggek's side. They try to prove themselves worthy by defeating as many foes as possible.
+  **Venal Ambushers.** Despite their intimidating builds, bugbears move with surprising stealth. They are fond of setting ambushes and flee when outmatched. They are dependable mercenaries as long as they are supplied food, drink, and treasure, but a bugbear forgets any bond when its life is on the line. A wounded member of a bugbear band might be left behind to help the rest of the band escape. Afterward, that bugbear might help pursuers track down its former companions if doing so saves its life.
+![\|250](https://5e.tools/img/bestiary/MM/Bugbear.webp)
+
+#### Hobgoblin
+War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
+  Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
+- **Martial Might.** A hobgoblin measures virtue by physical strength and martial prowess, caring about nothing except the opportunity to demonstrate skill and cunning in battle. Hobgoblins of high military rank attain their positions by force, then hold those positions by imposing their authority through draconian measures.
+  Hobgoblins train to fight with a variety of weapons, and have great skill at crafting arms, armor, siege engines, and other military devices. Organized and disciplined, they take exceptional care of their weapons, armor, and personal possessions. They favor the bold colors associated with their tribes, and trim their often-elaborate uniforms with blood-red piping and leather dyed black.
+- **Military Legions.** Hobgoblins organize themselves into tribal bands known as legions. In their martial society, every hobgoblin has a rank, from the powerful leaders and champions, to the rank-and-file foot soldiers, to the goblins that find themselves driven into the front lines at spear point. A legion is headed by a warlord with several captains serving under its command. A hobgoblin warlord is a ruthless tyrant more interested in strategy, victory, glory, reputation, and dominion than leading troops into battle.
+  As loyal and disciplined as hobgoblins are in their own legion, rival legions compete constantly for reputation and status. Meetings between legions erupt in violence if troops aren't restrained, and only exceptionally powerful leaders can force legions to cooperate on the battlefield.
+- **Strategic Thinkers.** Hobgoblins have a strong grasp of tactics and discipline, and can carry out sophisticated battle plans under the direction of a strategically minded leader. However, they hate elves and attack them first in battle over any other opponents, even if doing so would be a tactical error.
+  Legions often supplement their ranks with less reliable and more expendable troops, including goblins, bugbears, orcs, evil humans, ogres, and giants.
+- **Beast Trainers.** Hobgoblins have a long history of training animals to service. Like the more civilized races, they use oxen and horses to transport goods and weaponry over long distances. They communicate with each other using trained ravens, and keep vicious wolves to guard prisoners and protect hobgoblin camps. Hobgoblin cavalry use trained worgs as steeds, in the same way that goblins ride wolves. Some tribes even keep carnivorous apes as fighting beasts.
+- **Conquer and Control.** Hobgoblins claim lands with abundant resources, and they can be found in forests and mountains, near mines and humanoid settlements, and anywhere else that wood, metal, and potential slaves can be found. They build and conquer strongholds in strategically advantageous locations, which they then use as staging areas to expand their territory.
+  Hobgoblin warlords never tire of combat, but they don't take up arms lightly. Before they attack, hobgoblins conduct thorough reconnaissance to gauge the strengths and weaknesses of their foes. When assaulting a stronghold, they surround it first to cut off escape routes and supply lines, then slowly starve their enemies out.
+  Hobgoblins fortify their own holdings, bolstering existing defenses with innovations of their own. Whether they lair in cavern complexes, dungeons, ruins, or forests, they protect their strongholds with ditches, fences, gates, guard towers, pit traps, and crude catapults or ballistas.
+- **Legion of Maglubiyet.** Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As terrifying as this figure is, hobgoblins don't fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet's army on the plane of Acheron.
+[Hobgoblin Phalangite (1)](dm/monsters.md#hobgoblin-phalangite)
+
+![\|250](https://5e.tools/img/bestiary/MM/Hobgoblin.webp)
 
 ## Fiend
 ### Devils
@@ -165,6 +217,28 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 [Quasit (1)](dm/monsters.md#quasit)
 
 ## Giant
+### Ogres
+Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
+
+- **Furious Tempers.** Ogres are notorious for their quick tempers, which flare at the smallest perceived offense. Insults and name-calling can rouse an ogre's wrath in an instant-as can stealing from it, bumping, jabbing, or prodding it, laughing, making faces, or simply looking at it the wrong way. When its rage is incited, an ogre lashes out in a frustrated tantrum until it runs out of objects or creatures to smash.
+- **Gruesome Gluttons.** Ogres eat almost anything, but they especially enjoy the taste of dwarves, halflings, and elves. When they can, they combine dinner with pleasure, chasing scurrying victims around before eating them raw. If enough of its victim remains after the ogre has gorged itself, it might make a loincloth from its quarry's skin and a necklace from its leftover bones. This macabre crafting is the height of ogre culture.
+- **Greedy Collectors.** An ogre's eyes glitter with avarice when it sees the possessions of others. Ogres carry rough sacks on their raids, which they fill with fabulous "treasure" taken from their victims. This might include a collection of battered helmets, a moldy wheel of cheese, a rough patch of animal fur fastened like a cloak, or a squealing, mud-spattered pig. Ogres also delight in the gleam of gold and silver, and they will fight one another over small handfuls of coins. Smarter creatures can earn an ogre's trust by offering it gold or a weapon forged for a creature of its size.
+- **Legendary Stupidity.** Few ogres can count to ten, even with their fingers in front of them. Most speak only a rudimentary form of Giant and know a smattering of Common words. Ogres believe what they are told and are easy to fool or confuse, but they break things they don't understand. Silver-tongued tricksters who test their talents on these savages typically end up eating their eloquent words-and then being eaten in turn.
+- **Primitive Wanderers.** Ogres clothe themselves in animal pelts and uproot trees for use as crude tools and weapons. They create stone-tipped javelins for hunting. When they establish lairs, they settle near the rural edges of civilized lands, taking advantage of poorly protected livestock, undefended larders, and unwary farmers.
+  An ogre sleeps in caves, animal dens, or under trees until it finds a cabin or isolated farmhouse, whereupon it kills the inhabitants and lairs there. Whenever it is bored or hungry, an ogre ventures out from its lair, attacking anything that crosses its path. Only after an ogre has depleted an area of food does it move on.
+- **Ogre Gangs.** Ogres sometimes band together in small, nomadic groups, but they lack a true sense of tribalism. When bands of ogres meet, one might attempt to capture the members of the other group to increase its numbers. However, ogre bands are just as likely to trade members freely, especially if the welcoming band is temporarily flush with food and weapons.
+  Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
+
+[Ogre Scout (2)](dm/monsters.md#ogre-scout)
+![\|250](https://5e.tools/img/bestiary/MM/Ogre.webp)
+
+When an ogre mates with a human, hobgoblin, bugbear, or orc, the result is always a [Ogrillon (Half-Ogre) (1)](dm/monsters.md#ogrillon-half-ogre). (Ogres don't mate with dwarves, halflings, or elves. They eat them.) Human mothers rarely survive the birth of a half-ogre offspring.
+The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adult half-ogre or ogrillon stands 8 feet tall and weighs 450 pounds on average.
+![\|250](https://5e.tools/img/bestiary/MM/Half-Ogre%20(Ogrillon).webp)
+
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. [Ogre Howdahs (2)](dm/monsters.md#ogre-howdah) are most often seen bearing bow- and spear-wielding goblins into battle, or perhaps kobolds or deep gnomes, but they might also transport other Small folk.
+![\|250](https://5e.tools/img/bestiary/MPMM/Ogre%20Howdah.webp)
+
 ## Humanoid
 ### Any Humanoid
 [Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -173,43 +247,18 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 
-### Goblinoid
-#### Goblins
-  [Goblins (1/4)](dm/monsters.md#goblin) are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
-  - **Goblinoids.** Goblins belong to a family of creatures called goblinoids. Their larger cousins, hobgoblins and bugbears, like to bully goblins into submission. Goblins are lazy and undisciplined, making them poor servants, laborers, and guards.
-  - **Malicious Glee.** Motivated by greed and malice, goblins can't help but celebrate the few times they have the upper hand. They dance, caper with sheer joy when victory is theirs. Once their revels have ended, goblins delight in the torment of other creatures and embrace all manner of wickedness.
-  - **Leaders and Followers.** Goblins are ruled by the strongest or smartest among them. A goblin boss might command a single lair, while a goblin king or queen (who is nothing more than a glorified goblin boss) rules hundreds of goblins, spread out among multiple lairs to ensure the tribe's survival. Goblin bosses are easily ousted, and many goblin tribes are taken over by hobgoblin warlords or bugbear chiefs.
-  - **Challenging Lairs.** Goblins festoon their lairs with alarms designed to signal the arrival of intruders. Those lairs are also riddled with narrow tunnels and bolt-holes that human-sized creatures can't navigate, but which goblins can crawl through with ease, allowing them to flee or to circle around and surprise their enemies. Rat Keepers and Wolf Riders. Goblins have an affinity for rats and wolves, raising them to serve as companions and mounts, respectively. Like rats, goblins shun sunlight and sleep underground during the day. Like wolves, they are pack hunters, made bolder by their numbers. When they hunt from the backs of wolves, goblins use hit-and-run attacks.
-  - **Worshipers of Maglubiyet.** Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
-
-  [Goblin Taunter (2)](dm/monsters.md#goblin-taunter)
-
-![\|250](https://5e.tools/img/bestiary/MM/Goblin.webp)
-
-#### Booyahgs 
-  Spellcasters of any sort among the goblins are rare. Goblins typically lack the intelligence and patience needed to learn and practice wizardry, and they fare poorly even when given access to the necessary training and knowledge. Sorcerers are less prevalent among them than in many other races, and Khurgorbaeyag seems to dislike sharing his divine power with his followers. And although many goblins would readily offer anything to have the abilities of a warlock, the patrons that grant such power know a goblin is unlikely to be able to uphold its end of any bargain.
-  Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
-  A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
-
-  The [Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
-
-  Khurgorbaeyag saw fit to gift the [Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with powers that enable it to dominate others. The goblin has 1d3 other goblins that slavishly obey its orders.
-
-  The [Booyahg Wielder (1/4)](dm/monsters.md#booyahg-wielder) found a magic item (a necklace of fireballs, a circlet of blasting, or the like) and learned how to use it.
-
-#### Bugbears
-  [Bugbears (1)](dm/monsters.md#bugbear) are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
-  **Goblinoids.** Bugbears are often found in the company of their cousins, hobgoblins and goblins. Bugbears usually enslave goblins they encounter, and they bully hobgoblins into giving them gold and food in return for serving as scouts and shock troops. Even when paid, bugbears are at best unreliable allies, yet goblins and hobgoblins understand that no matter how much bugbears might drain a tribe of resources, these creatures are a potent force.
-  **Followers of Hruggek.** Bugbears worship Hruggek, a lesser god who dwells on the plane of Acheron. In the absence of their goblinoid kin, bugbears form loose war bands, each one led by its fiercest member. Bugbears believe that when they die, their spirits have a chance to fight at Hruggek's side. They try to prove themselves worthy by defeating as many foes as possible.
-  **Venal Ambushers.** Despite their intimidating builds, bugbears move with surprising stealth. They are fond of setting ambushes and flee when outmatched. They are dependable mercenaries as long as they are supplied food, drink, and treasure, but a bugbear forgets any bond when its life is on the line. A wounded member of a bugbear band might be left behind to help the rest of the band escape. Afterward, that bugbear might help pursuers track down its former companions if doing so saves its life.
-![\|250](https://5e.tools/img/bestiary/MM/Bugbear.webp)
-
-#### Hobgoblin
-[TODO]
-
-![\|250](https://5e.tools/img/bestiary/MM/Hobgoblin.webp)
-
 ## Monstrosity
+[Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer)
+This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
+
+Stirges feed on the blood of living creatures, attaching and draining them slowly. Although they pose little danger in small numbers, packs of stirges can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
+
+Blood Drain. A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh while using its pincer legs to latch on to the victim. Once the stirge has sated itself, it detaches and flies off to digest its meal.
+[Stirge Harrier (Minion, 2)](dm/monsters.md#stirge-harrier)
+
+![\|250](https://5e.tools/img/bestiary/MM/Stirge.webp)
+
+
 A [Worg (1/2)](dm/monsters.md#worg) is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
 The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. 
@@ -220,7 +269,7 @@ The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of
 
 [Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
-
+F
 ## Plant
 ### Blights
 Awakened plants gifted with the powers of intelligence and mobility, blights plague lands contaminated by darkness. Drinking that darkness from the soil, a blight carries out the will of ancient evil and attempts to spread that evil wherever it can.
@@ -232,6 +281,8 @@ Awakened plants gifted with the powers of intelligence and mobility, blights pla
 In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight) might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
   When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
 
+[Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
+[Vine Blight (1)](dm/monsters.md#vine-blight)
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
@@ -281,6 +332,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 [Kobold Zombie (1/8)](dm/monsters.md#kobold-zombie)
 [Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
 [Gravehound (1/2)](dm/monsters.md#gravehound)
+[Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
 
 # Monster Traits
 ### Animated Object

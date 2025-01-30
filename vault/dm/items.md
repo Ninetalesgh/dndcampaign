@@ -298,13 +298,16 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt of the weapon is unoccupied:
-    - Apply a vial or flask containing either a [Grenade or a Coating](dm/items.md#concoctions) or an empty vial to the hilt of this weapon, consuming it in the process.
-      - **Grenade**: The next 2 targets you hit are affected by the grenade as if you threw it, the DEX Save DC to evade the grenade effect is increased by the damage dealt by each respective hit.
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is free: Apply a vial or flask containing either a [Grenade or a Coating](dm/item_info.md#concoctions) or an empty vial to the hilt of this weapon, occupying the hilt. This consumes the Grenade or Coating.
+      - **Grenade**: The next 2 hits apply the grenade to the target as if you threw it, the DEX Save DC to evade the grenade effect is increased by the damage dealt by each respective hit.
       - **Coating**: The Coating is applied and its duration (use and time) is tenfold. 
       - **Empty Vial**: Drain blood into the vial. A vial is full after 20 damage done to HP of targets which can bleed with this weapon. 
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt of the weapon is occupied:
-    - Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a grenade that has not been consumed yet, you have to succeed the DEX Save as if you threw the grenade at yourself.
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is occupied: Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a grenade that still has hits left, you have to succeed the DEX Save as if you threw the grenade at yourself.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, if the hilt is occupied: Carefully Eject the current vial or flask.
+    - **Grenade**: If it still has all of its uses remaining, you regain the initial Item.
+    - **Coating**: Coatings always start drying out, and are lost once applied, you 
+    - **Empty Vial**: 
+
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 1500 gp
@@ -823,8 +826,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Greenthumb Whittler
 *(Wondrous Item, Uncommon)*
 - **Properties**:
-  This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient with it.
-  Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 30cm in any dimension. At the end of each hour you spend carving the statue, make a DC 10 DEX check, adding your PB to the roll if you were already proficient with [Woodcarver's Tools](dm/items.md#woodcarvers-tools). The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
+  - This small whittling knife has a green blade and can be used in place of a set of [Woodcarver's Tools](dm/items.md#woodcarvers-tools) and as if you were proficient with it.
+  - Over the course of several hours, you can use the knife to carve a Tiny statue from fine wood, which can't be larger than 30cm in any dimension. At the end of each hour you spend carving the statue, make a DC 10 DEX check, adding your PB to the roll if you were already proficient with [Woodcarver's Tools](dm/items.md#woodcarvers-tools). The statue is successfully completed if you succeed on four of these checks, or unfortunately mangled and destroyed if you fail two of them.
   The statue can do minor feats of animation, which you decide upon completing it. If it moves, it can't leave its space on its own. For example, the statue can wave and turn its head back and forth robotically, or dance around in a circle within its space. You can start or stop the animation by tapping the statue twice in rapid succession (no action required).
   Up to three statues can be animated at a time in this way. When a fourth statue is completed, the first one ceases to move and loses its magic. Destroying a statue ends the effect.
 - **Weight**: 250 g
@@ -1521,7 +1524,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability*: Intelligence
   - *Utilize:* Detect a poisoned object (DC 10)
-[Craft](dm/item_info.md#crafting): All [Coatings](dm/items.md#concoctions).
+[Craft](dm/item_info.md#crafting): All [Coatings](dm/item_info.md#concoctions).
 - **Weight**: 1 kg
 - **Price**: 50 gp
 ![\|250](https://i.pinimg.com/736x/e7/61/7b/e7617b54959dd9f4a2d9f776ca506237.jpg)
@@ -1724,7 +1727,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 ### Ruby's Grasp
 *(Gloves, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-    You gain [Resistance](game_rules.md#damage-types#resistance) to Fire damage.
+  - You gain [Resistance](game_rules.md#damage-types#resistance) to Fire damage.
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Imbue your next Melee Weapon Attack with an additional 1d6 Fire damage. *(Once per Short Rest)*
 - **Weight**: 1 kg
 - **Price**: 1800 gp
@@ -1787,9 +1790,8 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **AC**: 15 + DEX (max 2)
 - **Properties**:
   - You have Disadvantage on Dexterity (Stealth) checks while in [Bright Light](dm/items.md#bright-light).
-  - You have Advantage on Saves against [Poisoned](conditions.md#poisoned).
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**:
-    Create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature that's on the ground as if you had [Tremorsense 6 *(9m)*](game_rules.md#advanced-rules#tremorsense). *(Once per Long Rest)*
+  - You have Advantage on Saves against being [Poisoned](conditions.md#poisoned).
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature that's on the ground as if you had [Tremorsense 6 *(9m)*](game_rules.md#advanced-rules#tremorsense). *(Once per Long Rest)*
 - **Weight**: 20 kg
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/eE1lwHB_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)

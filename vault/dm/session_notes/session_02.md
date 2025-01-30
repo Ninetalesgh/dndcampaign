@@ -1,4 +1,5 @@
-
+# Names
+[Human Names](dm/names.md#human-names), [Elven Names](dm/names.md#elven-names), [Dwarven Names](dm/names.md#dwarven-names), [Halfling Names](dm/names.md#halfling-names), [Gnomish Names](dm/names.md#gnomish-names), [Goblin Names](dm/names.md#goblin-names), [Orcish Names](dm/names.md#orcish-names), [Tiefling Names](dm/names.md#tiefling-names), [Dragonborn Names](dm/names.md#dragonborn-names), [Catch-All Names](dm/names.md#catch-all-names).
 
 # Current Player Interests
 
@@ -10,25 +11,11 @@
 
 # Strong Introduction
 
-# Unsorted
 
-person dying, 30 seconds timer, 1 scroll of revivify, patron takes soul if they die.
+# Introduction
 
-Alenna gets reprimanded by Dain for not having enough power for purifications the previous day. (she healed Nyari and one person that fell in the elevator shaft)
-
-Evil priest begins to cast spell on child, Alenna steps in, alenna gets hit.
-
-Council with Dain, Merchants, and Academy members want a report from players. (topic of putting evil priest in position of waukeen's chapel comes up as tangent?) 
-
-Nettle Blights attack Delia on the high road.
-
-Trepidation (feeling of fear or anxiety about something that may happen.)
-
-Parties involved in grasping power in the city: 
-- Academy and Merchants (want to keep the decisionmaking in their hands)
-- Dain and the Guard (Wants to gentrify the Stockpile to stabilize their finances against the merchants' influence)
-- Thieves' Guild (Wants independent trade flow from Dain, independence from the merchants)
-
+- They chase after the goblins, they catch up to one Goblin and one wounded Worg that were left behind. 
+[Goblin (1/4)](dm/monsters.md#goblin), [Worg (1/2)](dm/monsters.md#worg) with Speed 2!
 
 
 # Scenes
@@ -39,9 +26,18 @@ SURVIVAL -> The whincing of the Worg might well attract predators.
 
 Goblin is cooperative and from good faction or uncooperative and from bad faction depending on CHA rolls.
 
-Captured goblin being dragged back to town? it becomes night and **dangerous**
+- If they chase further, after another 2 hours they catch up and spot a raiding party of ~15 Goblins, with their (hobgoblin?) leader **Grishka** at the helm.
 
-- If they chase further, after 2 hours they catch up and spot a raiding party of ~15 Goblins, with their leader **Grishka** at the helm.
+[Goblin (1/4)](dm/monsters.md#goblin).
+[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) [TODO] Spells?
+[Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with a [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer).
+
+Captured goblin being dragged back to town? it becomes night and **dangerous**
+[TODO] Threat in the forest at night.
+[Wolf (1/4)](dm/monsters.md#wolf)
+[Lion (1)](dm/monsters.md#lion)
+[Saber-Toothed Tiger (2)](dm/monsters.md#saber-toothed-tiger)
+
 
 ## The Academy
 upper north east - cartography & exploration
@@ -64,6 +60,9 @@ lower cellars - alchemy medicine (laboratories)
 
 The library rooms are spread across the entire Academy, but the main halls are found in the lower floors easily reachable from the entrance hall and elevators. The Arcane Studies rooms are seated close to the big library.
 [Animated Book (1/4)](dm/monsters.md#animated-book)
+[Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
+
+[TODO] Add Zara here!!!! Players get attacked, zara rushes to help (she might frantically look for a solution in books on shelves?)
 
 ### The Laboratories
 - **Maris Tindle**: Halfling -> Serious expression, soft skin, shoulder long flowing black hair, black eyes, tools strapped on her waist and her chest wrapped in a tight vest.
@@ -77,6 +76,8 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 - Maris Tindle preparing and cleaning her personal equipment.
 
 [TODO] Investigate the root + Maris telling the players about Black Lotus troubles. 
+
+- Maris is investigating a patient with [Sewer Plague](conditions.md#sewer-plague), [Sight Rot](conditions.md#sight-rot) or later also [Cackle Fever](conditions.md#cackle-fever)
 
 ## The Undercity
 
@@ -108,6 +109,7 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
   [Animated Broom (1/4)](dm/monsters.md#animated-broom)
   [Animated Kettle (1/4)](dm/monsters.md#animated-kettle)
   [Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)
+  [Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 [Bandit (1/8)](dm/monsters.md#bandit)
@@ -151,6 +153,58 @@ In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
   - A gentle downwards current, pressing through the wood door.
 
-
 # Secrets
+
+- The Goblins are a scouting branch with leader **Fizzra**, so far they have only stolen livestock. 
+  The attack was not an order by their leader, but a Renegade Group, **The Bonebiters**, with their leader **Grishka**, who want to clear The Plateau to impress The Army.
+
+- Lyanna Harvestsong has been missing for 5 years now.
+
+- Kobolds steal food from the Tavern Pantry.
+
+- Kobolds have a Kurtulmak shrine underneath Waukeen's Chapel adjacent to the smuggling tunnels.
+[Kobold (1/8)](dm/monsters.md#kobold)
+[Kobold Rockbruiser (1/4)](dm/monsters.md#kobold-rockbruiser)
+[Kobold Inventor (1/4)](dm/monsters.md#kobold-inventor)
+
+- Tazlyn Stonewright is Brennar's Ancestor, he still has books of hers. 
+
+- The Guards want to pressure the Thieves' Guild out of The Stockpile. 
+
+- The Thieves' Guild is extremely on edge but also desperate to recruit more people.
+
+
+# UNSORTED
+
+- Wild animals in the mountains aggressive and push down towards the plateau. (the army does something that pushes them away?)
+- Some of the people that live in the mountains haven't been seen in a while? (something is going on in the mountains?)
+
+
+- **Berric Morgrim.** Missing tooth, patchy beard. (jittering hand)
+thief threatens XYZ and then rushes to sewer entrance
+> Kazimir knows Berric's jittering hand symptoms as likely caused by Black Lotus, which.. well, refining it makes money.
+
+
+- capture one alive? 
+- Tess beats one goblin to death violently.
+- if noone speaks Goblin, Tess will snark "The wood worker **Veshka** probably does".
+
+
+person dying, 30 seconds timer, 1 scroll of revivify, patron takes soul if they die.
+
+Alenna gets reprimanded by Dain for not having enough power for purifications the previous day. (she healed Nyari and one person that fell in the elevator shaft)
+
+Evil priest begins to cast spell on child, Alenna steps in, alenna gets hit.
+
+Council with Dain, Merchants, and Academy members want a report from players. (topic of putting evil priest in position of waukeen's chapel comes up as tangent?) 
+
+Nettle Blights attack Delia on the high road.
+
+Trepidation (feeling of fear or anxiety about something that may happen.)
+
+Parties involved in grasping power in the city: 
+- Academy and Merchants (want to keep the decisionmaking in their hands)
+- Dain and the Guard (Wants to gentrify the Stockpile to stabilize their finances against the merchants' influence)
+- Thieves' Guild (Wants independent trade flow from Dain, independence from the merchants)
+
 

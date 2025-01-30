@@ -8,16 +8,12 @@ Alpine trade city of New Arvandal, sitting in the Stormhorns, between Tyrluk and
 - While turning back into town, in the distance you see some smoke rising on the edge of the shelf, something is going on there.
 - You decide to just go back to town and see a group of people gathering around something..
 
-SWITCH SCENE
-
 ## Kazimir's Tuition Struggle
 - **Halston Tharbek.** -> Human. short straight black hair, slender eyes and some damage to his skin on his cheeks. glasses low on his nose.
 
 - Academy halls, relaxing on one of the library chairs placed on the side of the foyer. Halston approaches you, with a couple of papers in hand. "Kazimir, I still have you on this list.. you do know that your tuition is due.. you better pay up before the semester begins, otherwise we will unfortunately have to impose some form of suspension." 
 - Pushes up his glasses "oh and also.. we will be swiping the foyer halls now, so please put those chairs back in the library and then get out." Walks away..
 - You go out to clear your head.. walk through the town streets, run into a crowd gathering around something... 
-
-SWITCH SCENE
 
 ## Ayra's Pact
 - **Mizora**. Cambion -> Short, fiery-red hair, tucked neatly behind her pointed ears. Her skin is pale blue, with purplish lips and coal-black eyes, iris speckled with fire. She adorns her hair with gold and rubies in an ornament similar to a tiara, and she dresses in a simple, yet elegant blue dress with a gilded belt. Her four horns and large wings give her an imposing presence, despite her alluring demeanour.
@@ -31,8 +27,6 @@ SWITCH SCENE
 - Clause H § 11: 'Should the promised soul refuse obeyance or neglect duty, the pact-holder shall cast the promised in Avernus as a lemure.'  
 - Clause Z § 5: 'If the soul-binder consents to separation, she will release the soul-bearer from all obligation within six months.'
 - After signing she vanishes. you look around, see a crowd gathering on the plaza.. you approach. 
-
-SWITCH SCENE 
 
 ## Mufi's Performance
 - **Street kid Tobben.** Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a little greasy straight brown hair.
@@ -49,11 +43,9 @@ SWITCH SCENE
 - !! Tobben receives the keys and the bun roll?
 - Mufi keeps keychain "Handle with care! If lost, retur.." Burnt off leather.
 
-SWITCH SCENE
-
 ## Nyari Investigates the Pollution
 - **Florist Delia Leabrace.** Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel eyes, barefoot. 
-- [Alenna Harvestsong](./../arvandor/characters/living_npcs.md#alenna-harvestsong) -> Dark hair, warm brown skin tone. orange white robes dusted from gardening.
+- [Alenna Harvestsong](dm/npcs.md#alenna-harvestsong) -> Dark hair, warm brown skin tone. orange white robes dusted from gardening.
 - Nyari up on the high road with Alenna and Delia, she wants to show you what Delia has been dealing with. 
 - The warmth of the road beneath your feet, heated by the sun.
 - Delia cutting into the ground, trying to reach something growing underground between flowers.
@@ -64,14 +56,12 @@ SWITCH SCENE
 - The man now holding onto the embrasure slit 
 - Down below you're sure you saw at least 3 people get buried by the rubble you just saw fall. 
 
-SWITCH SCENE
-
 ## The Elevator Scene
 
 >[!INFO] Now everyone should be at the elevator. 4 at the ground, Nyari at the top.
 
-- [Dain Elster](./../arvandor/characters/living_npcs.md#dain-elster) -> Pronounced jawline, high cheekbones, deeply set eyes. Long leather coat. 
-- [Garrin Harvestsong](./../arvandor/characters/living_npcs.md#garrin-harvestsong) -> Tall burly man, greying trimmed beard, greasy hair, dull eyes.
+- [Dain Elster](dm/npcs.md#dain-elster) -> Pronounced jawline, high cheekbones, deeply set eyes. Long leather coat. 
+- [Garrin Harvestsong](dm/npcs.md#garrin-harvestsong) -> Tall burly man, greying trimmed beard, greasy hair, dull eyes.
 - Dain calls for Borin from The Academy. "Bring me the mechanist from his damn school, we need this up and running as soon as we can."
 - Inside, Fire! Someone pushes a bucket of water into Druid's hands. Spell can help!
 - Outter door is jammed shut. A man starts hacking it with an axe. Warlock can help!
@@ -80,11 +70,9 @@ SWITCH SCENE
 - Scaffolding beam in the way, Garrin attempts to lift from outside, Dain from inside. asking for help from Kazimir.
 - Alenna, if she was helped down somehow, heals wounded.
 
-
-
 ## After the Dust Settles
 
-- [Borin Grathal](./../arvandor/characters/living_npcs.md#borin-grathal) arrives.
+- [Borin Grathal](dm/npcs.md#borin-grathal) arrives.
 - Alenna urges Nyari to ask them to help him investigate the rotten roots & the pollution. "Ask these people, they seem like the right tough bunch you could use.
 - Garrin tells Kazimir the farmers need some help, they would offer coin. the farms at edges of the shelf have had some casualties. *"And if it's an Owlbear or a pack of Wolves we could use another muscle."*
 

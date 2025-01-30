@@ -1,4 +1,3 @@
-
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2
@@ -98,7 +97,7 @@ STR | DEX | CON | INT | WIS | CHA
    - **Dust Up**. The broom furiously sweeps a dust-covered surface within 1 *(1.5m)*, kicking up a thick cloud in a 5 foot radius that Lightly Obscures the area and lasts for a minute, or until cleared by a strong breeze.
 - **Reactions**:
    - **Splintry Snap**. When the broom is hit with a melee attack, it can allow that attack to score a critical.
-   If it does, the broom snaps in half, splitting into two animated broom that each have hit points equal to half the original broom's, act on its initiative, and can't use this reaction or regain hit points.
+   If it does, the broom snaps in half, splitting into two animated broom that each have HP equal to half the original broom's, act on its initiative, and can't use this reaction or regain HP.
 *(Source: ConfluxCreatures)*
 
 ### Animated Kettle
@@ -274,7 +273,7 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 6 (1d8 + 2) piercing damage.
 - **Bonus Actions**:
    - **Erode Life**. The wight drains the vitality from a creature it hit with a melee attack this turn, forcing it to make a DC 13 CON Save.
-   On a failure, the target loses 2 unexpended hit dice, or drops to 0 hit points if it can't.
+   On a failure, the target loses 2 unexpended hit dice, or drops to 0 HP if it can't.
    - **Rotten Return**. The wight touches a humanoid corpse that died in the last minute, raising it in undeath as a zombie rotter that acts on the wight's initiative and under its control.
 *(Source: ConfluxCreatures)*
 
@@ -350,13 +349,13 @@ STR | DEX | CON | INT | WIS | CHA
    - **Tusks**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 4 (1d6 + 1) slashing damage. A [Prone](conditions.md#prone) creature takes an additional 3 (1d6) piercing damage.
 - **Reactions**:
-   - **Foaming Defiance**. When the boar would be reduced to 0 hit points, it can make a DC 10 CON Save. On a success, the boar is instead reduced to 1 hit point.
+   - **Foaming Defiance**. When the boar would be reduced to 0 HP, it can make a DC 10 CON Save. On a success, the boar is instead reduced to 1 hit point.
    If triggered by piercing damage or a critical hit, this Save is made with disadvantage.
 *(Source: ConfluxCreatures)*
 
 ### Booyahg Caster
 **CR**: 1/4
-*Small humanoid (goblinoid), Neutral Evil*
+*Small fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 15 (leather armor, shield)
 - **HP**: 7 (2d6)
@@ -380,7 +379,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Booyahg Whip
 **CR**: 1/4
-*Small humanoid (goblinoid), Neutral Evil*
+*Small fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 15 (leather armor, shield)
 - **HP**: 7 (2d6)
@@ -404,7 +403,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Booyahg Wielder
 **CR**: 1/4
-*Small humanoid (goblinoid), Neutral Evil*
+*Small fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 15 (leather armor, shield)
 - **HP**: 7 (2d6)
@@ -428,7 +427,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Bugbear
 **CR**: 1
-*Medium humanoid (goblinoid), Neutral Evil*
+*Medium fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 16 (hide armor, shield)
 - **HP**: 27 (5d8 + 5)
@@ -569,7 +568,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Traits**:
    - **Bolting Reflex**. When initiative is rolled, the horse may move up to half its speed away from the nearest enemy without provoking attacks of opportunity.
    A creature riding the horse may attempt a DC 14 WIS (Animal Handling) check to instead control the direction of this movement, with disadvantage if the horse has taken any damage.
-   - **Docile**. If the horse has all of its hit points, its attacks are made at disadvantage.
+   - **Docile**. If the horse has all of its HP, its attacks are made at disadvantage.
 - **Actions**:
    - **Hooves**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 9 (2d4 + 4) bludgeoning damage and the target is pushed 1 *(1.5m)* away.
@@ -816,7 +815,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Ignan, Terran
 - **Traits**:
-   - **Molten Repair**. If the mephit would take any fire damage, it instead takes no damage and regains a number of hit points equal to the fire damage dealt.
+   - **Molten Repair**. If the mephit would take any fire damage, it instead takes no damage and regains a number of HP equal to the fire damage dealt.
    - **Mirror Dweller**. The mephit may spend half its movement to pass through a Medium or larger reflective surface within 1 *(1.5m)*, entering or exiting an extradimensional mirrorspace resembling the space reflected in the surface.
    If a mirrored surface containing the mephit ceases to be reflective, the mephit is expelled into the nearest unoccupied space.
    - **Death Burst**. When the mephit dies, it explodes in a burst of glass in a 10 foot radius. Each creature in the area must succeed on a DC 11 DEX Save or take 5 (2d4) slashing damage and have glass shards embedded in its flesh.
@@ -834,7 +833,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Goblin
 **CR**: 1/4
-*Small humanoid (goblinoid), Neutral Evil*
+*Small fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 15 (leather armor, shield)
 - **HP**: 7 (2d6)
@@ -859,7 +858,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Goblin Taunter
 **CR**: 2
-*Small humanoid (goblinoid), Neutral Evil*
+*Small fey (goblinoid), Neutral Evil*
 - **Initiative**: +2
 - **AC**: 16 (studded leather armor, shield)
 - **HP**: 52 (7d10 + 14)
@@ -904,10 +903,37 @@ STR | DEX | CON | INT | WIS | CHA
    - **Worry**. One creature [Grappled](conditions.md#grappled) by both the gravehound and at least one of the gravehound's allies must succeed on a DC 12 CON Save or fall [Prone](conditions.md#prone) and take 9 (2d8) piercing damage, or take half as much damage on a success.
    - **Rotted Baying**. The gravehound begins a frantic, distorted barking that attracts undead in a 100 *(150m)* radius to its current location. It may continue baying each turn as a Bonus Action. When the gravehound stops baying, undead with an INT score of 6 or lower stop approaching it.
 - **Reactions**:
-   - **Jaws of Death**. When the gravehound is reduced to 0 hit points, it can make an attack with its Lockjaw Bite. if this attack hits, the gravehound maintains this grapple even while dead or [Unconscious](conditions.md#unconscious).
+   - **Jaws of Death**. When the gravehound is reduced to 0 HP, it can make an attack with its Lockjaw Bite. if this attack hits, the gravehound maintains this grapple even while dead or [Unconscious](conditions.md#unconscious).
 *(Source: ConfluxCreatures)*
 
 ## Monsters H
+### Hobgoblin Phalangite
+**CR**: 1
+*Medium fey (goblinoid), Lawful Evil*
+- **Initiative**: +1
+- **AC**: 18 (chain mail, shield)
+- **HP**: 44 (8d8 + 8)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 12 (+1) | 13 (+1) | 10 (+0) | 10 (+0) | 9 (-1) 
+
+- **Skills**: athletics: +5, intimidation: +1
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Common, Goblin
+- **Traits**: 
+   - **Martial Advantage**. While the hobgoblin is within 1 *(1.5m)* of at least two allied creatures, the first attack it hits a creature with each turn deals an additional 7 (2d6) damage.
+   - **Coordinated Advance**. The hobgoblin acts on initiative count 10, instead of rolling initiative. Creatures with this trait share a turn, taking their actions and movement in any order.
+   - **Shield Bearer**. The Phalangite grants half cover to friendly creatures within 1 *(1.5m)* of it that don't have this trait.
+- **Actions**: 
+   - **Longspear**. *Melee Attack:* +5 to hit, reach 3 *(4.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) piercing damage. This attack can't target a creature within 1 *(1.5m)*.
+   - **Shield Wall Shove**. One creature within 1 *(1.5m)* of the hobgoblin must succeed on a DC 13 STR Save or be pushed 1 *(1.5m)* away.
+   A creature makes this save at disadvantage if the hobgoblin is within 1 *(1.5m)* of at least two of the hobgoblin's allies.
+- **Reactions**: 
+   - **Brace**. When a creature enters its reach, the phalangite can force the creature to succeed on a DC 13 DEX Save or have its movement reduced to 0 until the end of its turn.
+*(Source: ConfluxCreatures)*
 
 ## Monsters I
 ### Ice Mephit
@@ -927,14 +953,14 @@ STR | DEX | CON | INT | WIS | CHA
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: Auran, Aquan
 - **Traits**: 
-   - **Chip Away**. If the mephit is missing any of its hit points, its AC is reduced to 11.
+   - **Chip Away**. If the mephit is missing any of its HP, its AC is reduced to 11.
    - **Death Burst**. When the mephit dies, it explodes in a burst of ice in a 5 foot radius. Each creature in the area must succeed on a DC 9 DEX Save or take 7 (3d4) cold damage and have its movement speed reduced by 20 until the end of its next turn.
 - **Actions**: 
    - **Chilling Touch**. *Melee Attack:* +3 to hit, reach 2 *(3m)*, one target. 
     *Hit:* 4 (1d4 + 2) cold damage and the target's movmeent speed is reduced by 2 *(3m)* until the end of its next turn.
    A creature whose movement speed is reduced to 0 in this way must succeed on a DC 10 CON Save or be [Paralyzed](conditions.md#paralyzed) until the end of its next turn.
-   - **Encase in Frost (Recharge 6)**. One creature within 1 *(1.5m)* must succeed on a DC 9 STR Save or gain 5 (2d4) temporary hit points.
-   While it has any of these temporary hit points, the creature is [Restrained](conditions.md#restrained).
+   - **Encase in Frost (Recharge 6)**. One creature within 1 *(1.5m)* must succeed on a DC 9 STR Save or gain 5 (2d4) temporary HP.
+   While it has any of these temporary HP, the creature is [Restrained](conditions.md#restrained).
 - **Reactions**: 
    - **Icy Gust**. When the mephit is hit with a melee attack, it can make a Chilling Touch attack against the attacker. On a hit, the target is pushed 1 *(1.5m)* away.
 *(Source: ConfluxCreatures)*
@@ -995,7 +1021,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Kobold Dragonshield
 **CR**: 1
-*Small humanoid (kobold), Lawful Evil*
+*Small dragon (kobold), Lawful Evil*
 - **Initiative**: +2
 - **AC**: 16 (dragonshield, shedleather)
 - **HP**: 66 (12d6 + 24)
@@ -1017,8 +1043,8 @@ STR | DEX | CON | INT | WIS | CHA
    On a hit or miss, the target's space becomes Heavily Obscured until the beginning of the kobold's next turn.
    - **Dragonshield Bash**. One creature within 1 *(1.5m)* must succeed on a DC 12 STR Save or take 4 (1d4 + 2) bludgeoning damage and be pushed up to 1 *(1.5m)* away.
    A creature that fails this Save by 5 or more additionally falls [Prone](conditions.md#prone).
-   - **Fearless Shout (recharge 5)**. The kobold and each friendly non-minion kobold within 6 *(9m)* that can hear it gain 5 (2d4) temporary hit points.
-   While it has any of these temporary hit points, a creature has advantage on WIS Saves.
+   - **Fearless Shout (recharge 5)**. The kobold and each friendly non-minion kobold within 6 *(9m)* that can hear it gain 5 (2d4) temporary HP.
+   While it has any of these temporary HP, a creature has advantage on WIS Saves.
 - **Reactions**:
    - **Flimsy Bravado**. When the kobold misses with a melee attack, it can move up to 3 *(4.5m)* directly away from the target.
 *(Source: ConfluxCreatures)*
@@ -1048,14 +1074,14 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 7 (2d6) acid damage.
     - **2: Alchemist's Fire.** The kobold throws a flask of alchemist's fire. *Ranged Attack:* +4 to hit, range 1/4 *(1.5m/6m)*, one target. 
     *Hit:* 2 (1d4) fire damage at the start of each of the target's turns. The target can end this damage by using its action to make a DC 10 DEX check to extinguish the flames.
-    - **3: Basket of Centipedes.** The kobold throws a small basket into a size 1 *(1.5m)* square space within 4 *(6m)* of it. A Swarm of Centipedes with 11 hit points emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50% chance that the swarm disperses.
+    - **3: Basket of Centipedes.** The kobold throws a small basket into a size 1 *(1.5m)* square space within 4 *(6m)* of it. A Swarm of Centipedes with 11 HP emerges from the basket and rolls initiative. At the end of each of the swarm's turns, there's a 50% chance that the swarm disperses.
     - **4: Green Slime Pot.** The kobold throws a clay pot full of green slime at the target, and it breaks open on impact. *Ranged Attack:* +4 to hit, range 1/4 *(1.5m/6m)*, one target. 
     *Hit:* 5 (1d10) acid damage, and the target is covered in slime until a creature uses its action to scrape or wash the slime off. A target covered in the slime takes 5 (1d10) acid damage at the start of each of its turns.
     - **5: Rot Grub Pot.** The kobold throws a clay pot into a size 1 *(1.5m)* square space within 4 *(6m)* of it, and it breaks open on impact. A swarm of rot grubs (in this book) emerges from the shattered pot and remains a hazard in that square.
     - **6: Scorpion on a Stick.** The kobold makes a melee attack with a scorpion tied to the end of a length 1 *(1.5m)* pole. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 1 piercing damage, and the target must make a DC 9 CON Save, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
     - **7: Skunk in a Cage.** The kobold releases a skunk into an unoccupied space within 1 *(1.5m)* of it. The skunk has a walking speed of 4 *(6m)*, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 1 *(1.5m)* of it. The target must succeed on a DC 9 CON Save, or it retches and is [Incapacitated](conditions.md#incapacitated) for 1 minute. The target can repeat the Save at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the Save. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.
-    - **8: Wasp Nest in a Bag.** The kobold throws a small bag into a size 1 *(1.5m)* square space within 4 *(6m)* of it. A Swarm of Wasps with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50% chance that the swarm disperses.
+    - **8: Wasp Nest in a Bag.** The kobold throws a small bag into a size 1 *(1.5m)* square space within 4 *(6m)* of it. A Swarm of Wasps with 11 HP emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50% chance that the swarm disperses.
 *(Source: MPMM, page 164)*
 
 ### Kobold Rockbruiser
@@ -1162,6 +1188,33 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: IDRotF, page 297)*
 
 ## Monsters L
+### Leaf Blight
+**CR**: 1 *(Minion)*
+*Small plant, Neutral Evil*
+- **Initiative**: +1
+- **AC**: 13 (natural armor)
+- **HP**: 7 (2d6)
+- **Speed**: walk 2 *(3m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+5 (-3) | 13 (+1) | 10 (+0) | 4 (-3) | 8 (-1) | 3 (-4) 
+
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
+- **Languages**: understands Common but can't speak
+- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a pile of dead leaves.
+   - **Shallow Roots**. If the blight is forced to move or is knocked [Prone](conditions.md#prone), it dies.
+- **Actions**: 
+   - **Razorleaf Flurry (Group Attack)**. *Melee or Ranged Attack:* +3 to hit, reach 1 *(1.5m)* or range 6 *(9m)*, one target. 
+    *Hit:* 1 slashing damage.
+- **Reactions**: 
+   - **Scatterdrift Spawning**. When two or more leaf blights within 6 *(9m)* of each other take any non-fire damage, each of them can collapse into a drift of leaves, forming a new leaf blight in an unoccupied space within 6 *(9m)* of each of them.
+*(Source: ConfluxCreatures)*
+
+
 ### Lemure Aspirant
 **CR**: 1/2
 *Medium fiend (devil), Lawful Evil*
@@ -1189,8 +1242,8 @@ STR | DEX | CON | INT | WIS | CHA
    - **Bash Head**. The lemure slams its face against a [Prone](conditions.md#prone) or [Grappled](conditions.md#grappled) creature within 1 *(1.5m)*, forcing it to make a DC 11 CON Save.
    The lemure takes 7 (2d6) bludgeoning damage, and on a failed Save the target takes the same amount.
 - **Reactions**: 
-   - **Boil Back**. When the lemure is reduced to 0 hit points by damage not from a divine source or blessed weapon, it can make a DC 10 CON Save.
-   On a success, the lemure grows a new body from its shed gore, regaining all of its hit points.
+   - **Boil Back**. When the lemure is reduced to 0 HP by damage not from a divine source or blessed weapon, it can make a DC 10 CON Save.
+   On a success, the lemure grows a new body from its shed gore, regaining all of its HP.
 *(Source: ConfluxCreatures)*
 
 ### Lemure Squidge
@@ -1276,6 +1329,32 @@ STR | DEX | CON | INT | WIS | CHA
    - **Numbing Sparks**. When the mephit is hit with a melee attack, it can force the attacker to make a DC 11 CON Save.
    On a failed save, the target takes 3 (1d6) lightning damage, drops one object of the mephit's choice that it is wielding, and is unable to pick the dropped object up until the beginning of its next turn.
 *(Source: ConfluxCreatures)*
+
+### Lion
+**CR**: 1
+*Large beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 26 (4d10 + 4)
+- **Speed**: walk 10 *(15m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+17 (+3) | 15 (+2) | 13 (+1) | 3 (-4) | 12 (+1) | 8 (-1) 
+
+- **Skills**: perception: +3, stealth: +6
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
+   - **Stalking Pounce**. If the lion is hidden from each hostile creature, it may Dash as a Bonus Action. If the lion hits a creature with a claw attack on the same turn, the target must succeed on a DC 13 STR Save or be knocked [Prone](conditions.md#prone).
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) piercing damage. The lion may make this attack as  a Bonus Action against a [Prone](conditions.md#prone) target.
+   - **Claw**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 6 (1d6 + 3) slashing damage.
+- **Bonus Actions**: 
+   - **Daunting Roar (1/Day)**. As a Bonus Action, the lion lets out a menacing roar. Each hostile creature within 3 *(4.5m)* must succeed on a DC 13 WIS Save or become [Frightened](conditions.md#frightened) of the lion until the end of the lion's next turn.
+*(Source: ConfluxCreatures)*
+
 
 ## Monsters M
 ### Magma Mephit
@@ -1416,7 +1495,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Traits**: 
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a spiny stump.
    - **Root-Bound**. The blight has advantage on Saves to resist being moved or knocked [Prone](conditions.md#prone).
-   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) hit points.
+   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
 - **Actions**: 
    - **Longspine Claws**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 6 (2d4 + 1) piercing damage.
@@ -1428,42 +1507,78 @@ STR | DEX | CON | INT | WIS | CHA
    If the triggering attack was an unarmed attack or one with a natural weapon, the attacker takes an additional 2 piercing damage.
 *(Source: ConfluxCreatures)*
 
-### Night Hag
-**CR**: 5 *(7 if part of a coven)*
-*Medium fiend, Neutral Evil*
-- **Initiative**: +2
-- **AC**: 17 (natural armor)
-- **HP**: 112 (15d8 + 45)
+## Monsters O
+### Ogre Howdah
+**CR**: 2
+*Large giant, Chaotic Evil*
+- **Initiative**: -1
+- **AC**: 15 (breastplate, shield)
+- **HP**: 59 (7d10 + 21)
+- **Speed**: walk 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) 
+
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Languages**: Common, Giant
+- **Traits**: 
+   - **Howdah**. The ogre carries a compact fort on its back. Up to four Small creatures can ride in the fort without squeezing. To make a melee attack against a target within 1 *(1.5m)* of the ogre, they must use spears or weapons with reach. Creatures in the fort have [three-quarters cover](game_rules.md#cover) against attacks and effects from outside it. If the ogre dies, creatures in the fort are placed in unoccupied spaces within 1 *(1.5m)* of the ogre.
+- **Actions**: 
+   - **Mace**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 11 (2d6 + 4) bludgeoning damage.
+*(Source: MPMM, page 201)*
+
+
+
+### Ogre Scout
+**CR**: 2
+*Large giant, Chaotic Evil*
+- **Initiative**: -1
+- **AC**: 11 (hide armor)
+- **HP**: 59 (7d10 + 21)
+- **Speed**: walk 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+19 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 7 (-2) | 7 (-2) 
+
+- **Skills**: athletics: +8, survival: +0
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Languages**: Common, Giant
+- **Traits**: 
+   - **Juggernaut**. The ogre may attempt to shove a creature as a bonus action. If it moves 4 *(6m)* before attempting to shove a creature, the ogre has advantage on the contested check, and on a success the target is knocked [Prone](conditions.md#prone) and pushed 2 *(3m)* back.
+   - **Spell Resistant Hide**. The ogre has resistance to damage from spells of third level or below.
+- **Actions**: 
+   - **Greatclub**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 13 (2d8 + 4) bludgeoning damage. This attack deals an additional 9 (2d8) damage against a [Prone](conditions.md#prone) creature.
+   - **Javelin**. *Melee or Ranged Attack:* +6 to hit, reach 1 *(1.5m)* or range 6/24 *(9m/36m)*, one target. 
+    *Hit:* 11 (2d6 + 4) piercing damage.
+   - **Juggernaut Charge (Recharge 5-6)**. The ogre attempts to shove a creature. If it succeeds, it may make another shove attempt against the same target, and continue doing so until it fails or runs out of movement. The target then takes 4 (1d8) bludgeoning damage for each 1 *(1.5m)* it was pushed.
+*(Source: ConfluxCreatures)*
+
+
+### Ogrillon (Half-Ogre)
+**CR**: 1
+*Large giant, Any Chaotic Alignment*
+- **Initiative**: +0
+- **AC**: 12 (hide armor)
+- **HP**: 30 (4d10 + 8)
 - **Speed**: walk 6 *(9m)*
 
 STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--: 
-18 (+4) | 15 (+2) | 16 (+3) | 16 (+3) | 14 (+2) | 16 (+3) 
+17 (+3) | 10 (+0) | 14 (+2) | 7 (-2) | 9 (-1) | 10 (+0) 
 
-- **Skills**: deception: +6, insight: +5, perception: +5, stealth: +5
-- **Resistances**: cold, fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Immunities**: [Charmed](conditions.md#charmed)
-- **Senses**: [Darkvision *(36m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 16
-- **Languages**: Abyssal, Common, Infernal, Primordial
-- **Traits**: 
-   - **Magic Resistance**. The hag has advantage on Saves against spells and other magical effects.
-   - **Night Hag Items**. A night hag carries two very rare magic items that she must craft for herself. If either object is lost, the night hag will go to great lengths to retrieve it, as creating a new tool takes time and effort.
-   Heartstone: This lustrous black gem allows a night hag to become ethereal while it is in her possession. The touch of a heartstone also cures any disease. Crafting a heartstone takes 30 days.
-   Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haunting, the hag catches the soul in this black sack made of stitched flesh. A soul bag can hold only one evil soul at a time, and only the night hag who crafted the bag can catch a soul with it. Crafting a soul bag takes 7 days and a humanoid sacrifice (whose flesh is used to make the bag).
-   - **Temporary Statblock**. {@note This statblock is a placeholder.}
-   - **Innate Spellcasting**. The hag's innate spellcasting ability is CHAa (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
-     - *At will:* [Detect Magic (Ritual)](spells.md#detect-magic), [magic missile](spells.md#magic-missile)
-     - *2/day each:* [plane shift](spells.md#plane-shift) (self only), [ray of enfeeblement](spells.md#ray-of-enfeeblement), [sleep](spells.md#sleep)
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Languages**: Common, Giant
 - **Actions**: 
-   - **Claws (Hag Form Only)**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
-    *Hit:* 13 (2d8 + 4) slashing damage.
-   - **Change Shape**. The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.
-   - **Etherealness**. The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
-   - **Nightmare Haunting (1/Day)**. While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](spells.md#protection-from-evil-and-good) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](spells.md#greater-restoration) spell or similar magic.
-*(Source: XMM)*
+   - **Battleaxe**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 12 (2d8 + 3) slashing damage, or 14 (2d10 + 3) slashing damage if used with two hands.
+   - **Javelin**. *Melee or Ranged Attack:* +5 to hit, reach 1 *(1.5m)* or range 6/24 *(9m/36m)*, one target. 
+    *Hit:* 10 (2d6 + 3) piercing damage.
+*(Source: MM, page 238)*
 
-
-## Monsters O
 ### Ooze Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -1493,7 +1608,7 @@ STR | DEX | CON | INT | WIS | CHA
    - **Stick (Recharge 6)**. When the mephit is hit with a melee attack by a Medium or smaller creature within 1 *(1.5m)*, the mephit forces the attacker to succeed on a DC 11 STR Save or be [Grappled](conditions.md#grappled) (escape DC 11).
    A creature [Grappled](conditions.md#grappled) in this way takes 5 (2d4) acid damage at the beginning of each of its turns.
    - **Split**. When the mephit takes any slashing damage, it splits into two new mephits that act on its initiative.
-   Each new mephit has hit points equal to half the original mephit's, rounded down, and can't take reactions.
+   Each new mephit has HP equal to half the original mephit's, rounded down, and can't take reactions.
 *(Source: ConfluxCreatures)*
 
 ## Monsters P
@@ -1521,7 +1636,7 @@ STR | DEX | CON | INT | WIS | CHA
    On a critical hit, the target must succeed on a DC 12 CON Save or gain a point of [Exhaustion](conditions.md#exhaustion).
 - **Reactions**: 
    - **Bubbling Rise (Concentration)**. When the ooze takes any damage of a type it is resistant to, it can begin to bubble and expand.
-   At the beginning of its next turn, the ooze splits into two new poolish ooze discard with full hit points that share its initiative.
+   At the beginning of its next turn, the ooze splits into two new poolish ooze discard with full HP that share its initiative.
 *(Source: ConfluxCreatures)*
 
 ### Pseudodragon
@@ -1578,8 +1693,87 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 355)*
 
 ## Monsters R
+### Rotwing Zombie
+**CR**: 1
+*Medium undead, Unaligned*
+- **Initiative**: +1
+- **AC**: 11
+- **HP**: 58 (9d8 + 18)
+- **Speed**: walk 4 *(6m)*, fly 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 12 (+1) | 14 (+2) | 3 (-4) | 6 (-2) | 5 (-3) 
+
+- **Skills**: athletics: +4
+- **Immunities**: cold, poison; [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
+   - **Decaying Wings**. If the zombie is hit with a critical hit, it permanently loses the ability to fly.
+   - **Abductor's Build**. The zombie is not slowed while grappling a Medium or smaller creature.
+- **Actions**: 
+   - **Swooping Snatch**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 5 (1d6 + 2) bludgeoning damage and the target is [Grappled](conditions.md#grappled) (escape DC 12).
+   - **Festering Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, targets one [Grappled](conditions.md#grappled) creature. 
+    *Hit:* 4 (1d6 + 1) bludgeoning damage and 7 (2d6) necrotic damage.
+- **Reactions**: 
+   - **Sudden Drop**. When the zombie takes any damage, it can release a creature [Grappled](conditions.md#grappled) by it.
+*(Source: ConfluxCreatures)*
+
+### Rug of Smothering
+**CR**: 2
+*Large construct, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 55 (10d10)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+17 (+3) | 14 (+2) | 10 (+0) | 1 (-5) | 3 (-4) | 1 (-5) 
+
+- **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 6
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
+   - **False Appearance**. While the rug remains motionless, it is indistinguishable from a normal rug.
+   - **Damage Transfer**. While it is grappling a creature, the rug takes only half the damage dealt to it by creatures it is not grappling, and the creature [Grappled](conditions.md#grappled) by the rug takes the other half.
+- **Actions**: 
+   - **Smothering Wrap**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one Medium or smaller creature. 
+    *Hit:* The target is [Grappled](conditions.md#grappled) (escape DC 13).
+   While [Grappled](conditions.md#grappled) in this way, the target is [Blinded](conditions.md#blinded) and [Choking](conditions.md#choking).
+   If the rug has fewer than 28 HP, the creature can attempt to escape this grapple as a Bonus Action.
+   - **Wild Thrash**. The rug thrashes wildly, lurching  3 *(4.5m)* in a random direction.
+   Then, the rug and each creature within 1 *(1.5m)* of it must succeed on a DC 13 DEX Save or take 7 (2d6) bludgeoning damage.
+- **Reactions**: 
+   - **Rug Pull**. When initiative is rolled, the rug can force each creature that is standing on it to succeed on a DC 13 DEX Save or fall [Prone](conditions.md#prone) and reroll its initiative, taking the lower of the two rolls.
+*(Source: ConfluxCreatures)*
+
 
 ## Monsters S
+### Saber-Toothed Tiger
+**CR**: 2
+*Large beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 52 (7d10 + 14)
+- **Speed**: walk 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 14 (+2) | 15 (+2) | 3 (-4) | 12 (+1) | 8 (-1) 
+
+- **Skills**: perception: +3, stealth: +6
+- **Senses**: passive perception 13
+- **Traits**: 
+   - **Keen Smell**. The tiger has advantage on WIS (Perception) checks that rely on smell.
+   - **Pounce**. If the tiger moves at least 4 *(6m)* straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 14 STR Save or be knocked [Prone](conditions.md#prone). If the target is [Prone](conditions.md#prone), the tiger can make one bite attack against it as a bonus action.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 10 (1d10 + 5) piercing damage.
+   - **Claw**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 12 (2d6 + 5) slashing damage.
+*(Source: MM, page 336)*
+
 ### Salt Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -1683,7 +1877,7 @@ STR | DEX | CON | INT | WIS | CHA
    - **Shortbow**. *Ranged Attack:* +4 to hit, range 16/64 *(24m/96m)*, one target. 
     *Hit:* 5 (1d6 + 2) piercing damage.
 - **Reactions**:
-   - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 hit points, the skeleton can move up to 2 *(3m)* towards the creature.
+   - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 HP, the skeleton can move up to 2 *(3m)* towards the creature.
 *(Source: ConfluxCreatures)*
 
 ### Slaad Tadpole
@@ -1726,7 +1920,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Senses**: [Blindsight *(9m)*](game_rules.md#advanced-rules#blindsight), passive perception 9
 - **Languages**: Auran, Ignan
 - **Traits**: 
-   - **Pull Together (1/Day)**. When the mephit is reduced to 0 hit points, it may turn to smoke and disipate instead of dying. At the beginning of its next turn, it reappears within 3 *(4.5m)* of the space it disappeared with 1 hit point.
+   - **Pull Together (1/Day)**. When the mephit is reduced to 0 HP, it may turn to smoke and disipate instead of dying. At the beginning of its next turn, it reappears within 3 *(4.5m)* of the space it disappeared with 1 hit point.
    - **Death Burst**. When the mephit dies, it explodes in a 5 foot radius burst of  smoke.
    Each creature in the area must succeed on a DC 9 CON Save or begin [Choking](conditions.md#choking) for the next minute (Save Ends at end of turn)
 - **Actions**: 
@@ -1819,6 +2013,59 @@ STR | DEX | CON | INT | WIS | CHA
    If the mephit teleports to a space within 1 *(1.5m)* of the attacker, the triggering attack has disadvantage.
 *(Source: ConfluxCreatures)*
 
+### Stirge Harrier
+**CR**: 2 *(Minion)*
+*Tiny monstrosity, Unaligned*
+- **Initiative**: +3
+- **AC**: 14 (natural armor)
+- **HP**: 10 (4d4)
+- **Speed**: walk 2 *(3m)*, fly 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+4 (-3) | 16 (+3) | 11 (+0) | 2 (-4) | 8 (-1) | 6 (-2) 
+
+- **Vulnerabilities**: fire.
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+   - **Breath Sight**. A creature that does not need to breathe is [Invisible](conditions.md#invisible) to the stirge, and a creature that holds its breath has advantage on checks made to hide from the stirge.
+   - **Weakness Seeker**. The stirge's attacks have advantage against creatures afflicted with a disease.
+- **Actions**: 
+   - **Pierce Vein (Group Attack)**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one creature. 
+    *Hit:* 2 piercing damage and the stirge becomes [Attached](conditions.md#attached) to the target (remove DC 13).
+   - **Draw Blood**. One creature the stirge is [Attached](conditions.md#attached) to loses 2 HP. Then, if the creature has lost 6 or more HP in this way this turn, it must succeed on a DC 10 CON Save or be infected with [Redding ague](conditions.md#redding-ague).
+*(Source: ConfluxCreatures)*
+
+
+### Stirge Skullpiercer
+**CR**: 1
+*Small monstrosity, Unaligned*
+- **Initiative**: +4
+- **AC**: 15 (natural armor)
+- **HP**: 40 (8d6 + 12)
+- **Speed**: walk 2 *(3m)*, fly 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+6 (-2) | 19 (+4) | 15 (+2) | 2 (-4) | 9 (-1) | 6 (-2) 
+
+- **Vulnerabilities**: fire.
+- **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Traits**: 
+   - **Breath Sight**. A creature that does not need to breathe is [Invisible](conditions.md#invisible) to the stirge, and a creature that holds its breath has advantage on checks made to hide from the stirge.
+   - **Weakness Seeker**. The stirge's attacks have advantage against creatures afflicted with a disease.
+- **Actions**: 
+   - **Pierce Vein**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one creature. 
+    *Hit:* 6 (1d4 + 4) piercing damage and the stirge becomes [Attached](conditions.md#attached) to the target (remove DC 14).
+   - **Draw Blood**. One creature the stirge is [Attached](conditions.md#attached) to loses 5 HP, then must succeed on a DC 12 CON Save or be infected with [Redding Ague](conditions.md#redding-ague).
+   - **Essence Transfusion (Recharges when the stirge uses its Draw Blood)**. The stirge revitalizes itself or a creature it is attached to with stored blood, restoring 5 HP.
+- **Reactions**: 
+   - **Pierce Skull**. When a humanoid creature the stirge is [Attached](conditions.md#attached) to drops to 0 HP, the stirge can repositions itself, piercing the creature's head and gaining control of its body.
+   The creature is not [Incapacitated](conditions.md#incapacitated) while at 0 HP, and fails death Saves automatically.
+   On each of the creature's turns, it moves under the stirge's control and takes the Attack action against a target of the stirge's choice.
+*(Source: ConfluxCreatures)*
+
+
 ## Monsters T
 
 ## Monsters U
@@ -1841,6 +2088,37 @@ STR | DEX | CON | INT | WIS | CHA
    - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
     *Hit:* 4 (1d4 + 2) Piercing damage plus 3 (1d6) Poison damage.
 *(Source: XPHB, page 358)*
+
+### Vine Blight
+**CR**: 1
+*Medium plant, Neutral Evil*
+- **Initiative**: -1
+- **AC**: 12 (natural armor)
+- **HP**: 71 (11d8 + 22)
+- **Speed**: walk 2 *(3m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+15 (+2) | 8 (-1) | 14 (+2) | 5 (-3) | 10 (+0) | 3 (-4) 
+
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 10
+- **Languages**: Common
+- **Traits**: 
+   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a tangle of vines.
+   - **Root-Bound**. The blight has advantage on Saves to resist being moved or knocked [Prone](conditions.md#prone).
+   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
+- **Actions**: 
+   - **Constricting Embrace**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 9 (2d6 + 2) bludgeoning damage and the blight enters the target's space and grapples it (escape DC 12).
+   While it has a creature [Grappled](conditions.md#grappled) in this way, the blight and the [Grappled](conditions.md#grappled) creature are each [Restrained](conditions.md#restrained).
+   - **Bloodquest Rootlets**. Threadlike roots grow out from the blight, forcing a creature [Grappled](conditions.md#grappled) by it to succeed on a DC 12 CON Save or have the roots enter its wounds.
+   Until the grapple ends or the creature receives any magical healing, at the beginning of each of its turns the creature loses 5 (2d4) HP and the blight regains an equal amount of HP.
+- **Bonus Actions**: 
+   - **Tanglegrowth (Recharges when the blight regains HP)**. A burst of growth roils out from the blight, carpeting the area in a 15 foot radius in dense roots and vines.
+   The area is difficult terrain for nonplant creatures, and a creature that enters a space in the area for the first time in a turn must succeed on a DC 12 STR Save or fall [Prone](conditions.md#prone).
+*(Source: ConfluxCreatures)*
 
 ## Monsters W
 ### Water Mephit
@@ -1927,7 +2205,6 @@ STR | DEX | CON | INT | WIS | CHA
 ## Monsters Y
 
 ## Monsters Z
-
 ### Zombie
 **CR**: 1/4
 *Medium undead, Neutral Evil*
