@@ -7,6 +7,7 @@ git commit -m "update dm"
 printf "\n== PUSH\n"
 git push
 printf "\n== STASH\n"
+git stash clear
 git stash
 printf "\n== CHECKOUT MAIN\n"
 git checkout main
