@@ -993,6 +993,18 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ![\|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
 *(Source: ERLW, page 277)*
 
+### Imbued Quarterstaff - Kythrian Manchineel
+*(Quarterstaff, Simple Melee Weapon, Common)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile).
+  -  When you cast a damage-dealing spell that deals **Acid or Poison** damage, it deals +1 damage.
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 2 kg
+- **Price**: 800 gp
+![\|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
+*(Source: ERLW, page 277)*
+
 ### Ink
 *(adventuring gear, Common)*
 - **Properties**: Ink comes in a 30 milliliter bottle, which provides enough ink to write about 500 pages.
@@ -1408,6 +1420,15 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Force** damage while holding the orb in your hand: Reduce that damage by 1d4.
     - **Xorian Marble.**
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Psychic** damage while holding the orb in your hand: Reduce that damage by 1d4.
+- **Weight**: 200 g
+- **Price**: 800 gp
+![\|250](https://i.imgur.com/wGZbWJN.png)
+*(Source: ERLW, page 278)*
+
+### Orb of Shielding - Fernian Basalt
+*(Wondrous Item, Common)*
+- **Properties**:
+    ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Fire** damage while holding the orb in your hand: Reduce that damage by 1d4.
 - **Weight**: 200 g
 - **Price**: 800 gp
 ![\|250](https://i.imgur.com/wGZbWJN.png)

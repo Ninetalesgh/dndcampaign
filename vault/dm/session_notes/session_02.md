@@ -36,10 +36,10 @@ Close by is a small Booyahg watch position.
 
 - If they chase further, after another 2 hours they catch up and spot a raiding party of ~15 Goblins, with their (hobgoblin?) leader **Grishka** at the helm. This should be an intimidating show.
 
-**Potential rewards looted from the Booyahgs**:   [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff), [Orb of Shielding](dm/items.md#orb-of-shielding).  
+**Potential rewards looted from the Booyahgs**:   [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff---kythrian-manchineel), [Orb of Shielding](dm/items.md#orb-of-shielding---fernian-basalt).  
 
 [Goblin (1/4)](dm/monsters.md#goblin).
-[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Spells: [Fog Cloud](spells.md#fog-cloud), [Thunderwave](spells.md#thunderwave). 
+[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Spells: [Fog Cloud](spells.md#fog-cloud), [Thunderwave](spells.md#thunderwave), [Ray of Sickness](spells.md#ray-of-sickness). 
 [Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with a [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer).
 
 Captured goblin being dragged back to town? it becomes night and **dangerous**.
