@@ -1798,6 +1798,17 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *This armor is made from the treated carapace of a giant scorpion.*
 *(Source: The Griffon's Saddlebag, Customized)*
 
+### Sending Stones
+*(Wondrous Item, Uncommon)*
+- **Properties**: Sending Stones come in pairs, with each stone carved to match the other so the pairing is easily recognized.
+  - If one of the stones in a pair is destroyed, the other one becomes nonmagical.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, while touching one stone: Cast [Sending](spells.md#sending) from it. The target is the bearer of the other stone. If no creature bears the other stone, you know that fact as soon as you use the stone, and you don't cast the spell. *(Once per Long Rest)*
+- **Weight**: 150 g
+- **Price**: 800 gp
+![\|250](https://imgur.com/pxVN6er.png)
+*(Source: DMG'24, page 303)*
+
+
 ### Shatterglass Ward
 *(Shield, Uncommon)*
 - **Don and Doff Time**: 1 Action / 1 Action

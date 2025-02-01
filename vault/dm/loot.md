@@ -105,6 +105,7 @@ Nyari:
 [Cannulated Shortsword](dm/items.md#cannulated-shortsword)
 [Legion of Brass Katars](dm/items.md#legion-of-brass-katars)
 [Scorpio Armor](dm/items.md#scorpio-armor)
+[Sending Stones](dm/items.md#sending-stones)
 [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
 
 ## Rare

@@ -18,20 +18,33 @@
 
 # Scenes
 ## The Trail
-[TODO] 
+**Sik**. Goblin. -> Egg shaped head with egg colored skin, with two long pointy flappy ears and a fuzzy blue patch of hair on the tip of her head.
+
+The goblin leader is **Fizzra**.
+The leader of a renegade subgroup is **Grishka**.
+
+- Goblin Names: Tog, Brik, Grib.
+
 A Goblin and a wounded worg on the road.
 SURVIVAL -> The whincing of the Worg might well attract predators.
 
 Goblin is cooperative and from good faction or uncooperative and from bad faction depending on CHA rolls.
 
-- If they chase further, after another 2 hours they catch up and spot a raiding party of ~15 Goblins, with their (hobgoblin?) leader **Grishka** at the helm.
+Close by is a small Booyahg watch position. 
+
+- The Goblin they face is called **Sik**. Who reveals that she just sent her friend **Rix** to ask one of the Booyahg from the scout post nearby to come help heal **Snarl**. (but she thinks Rix betrayed her, encouraging the players to avenge her)
+
+- If they chase further, after another 2 hours they catch up and spot a raiding party of ~15 Goblins, with their (hobgoblin?) leader **Grishka** at the helm. This should be an intimidating show.
+
+**Potential rewards looted from the Booyahgs**:   [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff), [Orb of Shielding](dm/items.md#orb-of-shielding).  
 
 [Goblin (1/4)](dm/monsters.md#goblin).
-[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) [TODO] Spells?
+[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Spells: [Fog Cloud](spells.md#fog-cloud), [Thunderwave](spells.md#thunderwave). 
 [Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with a [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer).
 
-Captured goblin being dragged back to town? it becomes night and **dangerous**
-[TODO] Threat in the forest at night.
+Captured goblin being dragged back to town? it becomes night and **dangerous**.
+
+When the players travel back, there are wolves in the forest, use lion for bigger one and wolf for smaller one.
 [Wolf (1/4)](dm/monsters.md#wolf)
 [Lion (1)](dm/monsters.md#lion)
 [Saber-Toothed Tiger (2)](dm/monsters.md#saber-toothed-tiger)
@@ -52,15 +65,19 @@ lower cellars - alchemy medicine (laboratories)
   - The canteen and lavatories on the entrance level, stairways and elevators lead to the lecture, laboraty, and library rooms. 
 
 ### The Library
-- **Location**: A labyrinth of dimly lit towering bookshelves, the scent of aged leather and ink hanging heavily in the air. 
-  Soft candlelight flickers, casting dancing shadows on the ornate carvings of the wooden shelves. 
-  The only sound is the rustle of pages turning and the occasional murmur of scholars lost in study.
+
+- [Zara Brightscale](dm/arvandor/characters/living_npcs.md#zara-brightscale). Dragonborn -> A slender ivory snout marks her head peaked by her elegant white horns and almost lion-like scaly mane that encompasses her face. Bright blue warm and perceptive reptilian eyes. Robes a blend of ice blue and white, shimmering with faint glacial patterns.
+- [Theron Windrunner](dm/arvandor/characters/living_npcs.md#theron-windrunner). Human -> The energy of a young adventurer. His sun-kissed skin reflects days spent in the wild. A faint scar across his left brow hints at a few early scrapes, but his boyish confident grin suggests he relished every moment. He wears a rugged, well-worn jacket over a practical tunic, and his utility belt is stocked with cartographer’s tools.
+- [Elara Moonshadow](dm/arvandor/characters/living_npcs.md#elara-moonshadow). Elf -> Dark brown skin, silver white hair, dark blue, gold and white woven imposing dress. 
 
 The library rooms are spread across the entire Academy, but the main halls are found in the lower floors easily reachable from the entrance hall and elevators. The Arcane Studies rooms are seated close to the big library.
 [Animated Book (1/4)](dm/monsters.md#animated-book)
 [Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
-[TODO] Add Zara here!!!! Players get attacked, zara rushes to help (she might frantically look for a solution in books on shelves?)
+If desired, **Zara** or **Theron** appear here and greet the players or helps out if they are fighting the animated things. (they might frantically look for a solution for healing if someone is hurt in books on shelves?)
+- **Zara** is interested in The Crypt and source of the necromantic magic and about the mine tunnels in lower Mithdral, she urged Theron to lead an expedition already.
+- **Theron** is skeptic about the goblin attack being something superficial, he believes something bigger is going on. It's
+- **Elara** desires a diplomatic approach to ensure flow of commerce, wants to strike deals with the antagonist authority.
 
 ### The Laboratories
 - **Maris Tindle**: Halfling -> Serious expression, soft skin, shoulder long flowing black hair, black eyes, tools strapped on her waist and her chest wrapped in a tight vest.
@@ -71,12 +88,14 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 - The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. 
 - The laboratories are easily accessible from The Stockpile.
 
-[TODO] write out the Maris introduction better, leading the players in both directions.
+- Maris is investigating a patient with [Sewer Plague](conditions.md#sewer-plague), [Sight Rot](conditions.md#sight-rot) or later also [Cackle Fever](conditions.md#cackle-fever). And is harvesting organs from the beheaded corpse from the elevator accident.
+- The Patient has severe tremors, shaking hands, which are withdrawal symptoms of Black Lotus. **MEDICINE** to identify.
+- **Maris** believes this is not something originating from The Stockpile or The Pit, but is not sure.  
+- If wanted she uses a sending stone to call **Zara**, zara places the sending stone next to the other (giving players the opportunity to steal them).
+- **Zara** after quick analysis determines that it shares the "same magical weave with the necromancy clearly emanating from the crypt I detected when I was asked to monitor magical intrusion of the Academy's foundation after the recent tremors." (there is no intrusion, but the necromancy is apparent). 
+- **Zara** after brief introduction then urges **Maris** to rush to a Merchant Council gathering about the appointment of **Grand Factor Silan Thornvale** as new administer of trade and chapel caretaker. And they rush out, Maris dismisses patient through secret door she just clicks open. (they leave the sending stones on the table) 
 
-[TODO] Investigate the root + Maris telling the players about Black Lotus troubles. 
-- Maris Tindle preparing and cleaning her personal equipment.
-
-- Maris is investigating a patient with [Sewer Plague](conditions.md#sewer-plague), [Sight Rot](conditions.md#sight-rot) or later also [Cackle Fever](conditions.md#cackle-fever)
+**Potential Reward**: [Sending Stones](dm/items.md#sending-stones)
 
 ## The Undercity
 
@@ -159,9 +178,9 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 # Secrets
 
 - The Goblins are a scouting branch with leader **Fizzra**, so far they have only stolen livestock. 
-  The attack was not an order by their leader, but a Renegade Group, **The Bonebiters**, with their leader **Grishka**, who want to clear The Plateau to impress The Army.
+  The attack was not an order by their leader, but a Renegade Group, **The Bonebiters**, with their leader **Grishka**, who want to clear The Plateau to impress The Army. ??
 
-- Lyanna Harvestsong has been missing for 5 years now.
+- Lyanna Harvestsong has been missing for almost a year now.
 
 - Kobolds steal food from the Tavern Pantry.
 

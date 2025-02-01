@@ -19,6 +19,25 @@ Hobgoblin Captain CR 3, 700 XP
 Hobgoblin Devastator CR 4, 1100 XP
 Hobgoblin Warlord CR 6, 2300 XP
 
+TODO:
+2 * Dretch Demon,
+Cockatrice,
+Dimetrodon,
+Troll CR 5, 1800 XP
+Drow Archmage,
+Thri-Kreen,
+Camel,
+Giant Vulture,
+Violet Fungus,
+Wereboar,
+Shield Dwarf Wizard,
+Weretiger,
+Dust Mephit,
+Ettercap,
+Roper,
+
+
+
 Feywild 2D plastic:
 Blink Dog CR 1/4, 50 XP
 Giant Snail CR 1/4, 50 XP
