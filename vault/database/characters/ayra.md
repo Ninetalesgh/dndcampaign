@@ -35,6 +35,7 @@
 [Scholar's Pack](dm/items.md#scholars-pack)
 [Book about Devils](dm/items.md#book)
 [4 Daggers](dm/items.md#dagger)
+[Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
 
 ## Spellcasting
 - **Prepared Spells**: 2

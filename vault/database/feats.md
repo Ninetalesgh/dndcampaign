@@ -15,7 +15,7 @@ Your HP increase by 2 per level.
 ## Druid
 
 ### Wild Shape
-Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. *(2 Charges, regain 1 after Short-, and all after Long Rests)*
+Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. Your AC is 14. You retain your own HP, HP Dice, INT, WIS, CHA, PBs, Save proficiencies, feats, and languages in addition to gaining the proficiencies of the creature. You can only cast explicitly allowed Moon Druid spells but shape-shifting doesn't break your [Concentration](conditions.md#concentration) of previously cast spells. *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
  
 ## Fighter
@@ -63,7 +63,7 @@ Your bond with the weapon ends if you use this feature's Bonus Action again, if 
 *(Source: PHB'24, page 156)*
 
 #### Pact of the Chain
-You learn the [Find Familiar (Ritual)](spells.md#find-familiar) spell and can cast it as a Magic action without expending a spell slot.
+You learn the [Find Familiar](spells.md#find-familiar) spell and can cast it as a Magic action without expending a spell slot.
 When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](dm/monsters.md#imp), [Pseudodragon](dm/monsters.md#pseudodragon), [Quasit](dm/monsters.md#quasit), [Skeleton](dm/monsters.md#skeleton), [Slaad Tadpole](dm/monsters.md#slaad-tadpole), [Sphinx of Wonder](dm/monsters.md#sphinx-of-wonder), [Sprite](dm/monsters.md#sprite), [Venomous Snake](dm/monsters.md#venomous-snake).
 Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your familiar to make one attack of its own with its Reaction.
 ![\|50](https://bg3.wiki/w/images/0/04/Find_Familiar_Imp_Icon.webp)

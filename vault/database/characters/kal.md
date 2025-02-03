@@ -37,6 +37,7 @@
 [Sickle](dm/items.md#sickle)
 [Herbalism Kit](dm/items.md#herbalism-kit)
 [Explorer's Pack](dm/items.md#explorers-pack)
+[Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
 
 ## Spellcasting
 - **Prepared Spells**: 5
@@ -64,6 +65,7 @@
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
+  [Wild Companion *(Spell Slot or Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
 
 
 ### Bonus Actions
