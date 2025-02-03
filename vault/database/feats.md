@@ -9,7 +9,7 @@ You gain proficiency in any combination of three skills or tools of your choice.
 Repeatable. You can take this feat more than once.
 
 ## Tough
-Your HP increase by 2 per level.
+Your HP increase by 2 per Level.
 
 # Class Feats
 ## Druid
@@ -34,13 +34,13 @@ When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather 
 
 ## Paladin
 ### Lay on Hands
-Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Level] Charges per Long Rest)*
+Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Paladin Level] Charges per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
 
 ## Rogue
 ### Sneak Attack
-Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
-You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you don't have Disadvantage on the attack roll. The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table.
+Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
+- You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you **don't** have Disadvantage on the attack roll.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
 
 ## Warlock
