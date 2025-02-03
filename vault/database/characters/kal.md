@@ -30,6 +30,9 @@
 - **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+- **STR Based Attack Modifier**: +3.
+- **DEX Based Attack Modifier**: +4.
+
 ## Equipment
 [Hide Armor](dm/items.md#hide-armor)
 [Quarterstaff](dm/items.md#quarterstaff)
@@ -65,7 +68,7 @@
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
-  [Wild Companion *(Spell Slot or Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
+  [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
 
 
 ### Bonus Actions

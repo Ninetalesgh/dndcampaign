@@ -29,6 +29,10 @@
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, Undercommon, Thieves' Cant
+
+- **STR Based Attack Modifier**: +5.
+- **DEX Based Attack Modifier**: +3.
+
 ## Equipment
 [Scale Mail](dm/items.md#scale-mail)
 [Alchemist's Supplies](dm/items.md#alchemists-supplies)

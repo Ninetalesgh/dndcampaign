@@ -30,6 +30,9 @@
 - **Tool Proficiencies**: [Smith's Tools](dm/items.md#smiths-tools)
 - **Languages**: Common, Goliath, [TODO] 1 more
 
+- **STR Based Attack Modifier**: +5.
+- **DEX Based Attack Modifier**: +1.
+
 ## Equipment
 [Chain Mail](dm/items.md#chain-mail)
 [Warhammer](dm/items.md#warhammer)
