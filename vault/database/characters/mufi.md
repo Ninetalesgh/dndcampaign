@@ -30,6 +30,9 @@
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools), [Tinker's Tools](dm/items.md#tinkers-tools)
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
 
+- **STR Based Attack Modifier**: +1.
+- **DEX Based Attack Modifier**: +5.
+
 ## Equipment
 [Leather Armor](dm/items.md#leather-armor)
 [Thieves' Tools](dm/items.md#thieves-tools)

@@ -30,6 +30,9 @@
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools)
 - **Languages**: Common, Infernal, Celestial
 
+- **STR Based Attack Modifier**: +1.
+- **DEX Based Attack Modifier**: +4.
+
 ## Equipment
 [Leather Armor](dm/items.md#leather-armor)
 [Scholar's Pack](dm/items.md#scholars-pack)
