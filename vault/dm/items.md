@@ -993,7 +993,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ![\|250](https://i.pinimg.com/736x/ca/85/48/ca8548172d38dd60de7cb9bee92f8241.jpg)
 *(Source: ERLW, page 277)*
 
-### Imbued Quarterstaff - Kythrian Manchineel
+### Imbued Quarterstaff, Venom
 *(Quarterstaff, Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
@@ -1425,7 +1425,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 ![\|250](https://i.imgur.com/wGZbWJN.png)
 *(Source: ERLW, page 278)*
 
-### Orb of Shielding - Fernian Basalt
+### Orb of Shielding, Fire
 *(Wondrous Item, Common)*
 - **Properties**:
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Fire** damage while holding the orb in your hand: Reduce that damage by 1d4.
@@ -1915,7 +1915,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Source: PHB'24, page 230)*
 
 ### Sling
-*(, Simple Ranged Weapon, Common)*
+*(Sling, Simple Ranged Weapon, Common)*
 - **Range**: 6/24 *(9m/36m)*
 - **Damage**: 1d4 + DEX Bludgeoning damage.
 - **Properties**: -

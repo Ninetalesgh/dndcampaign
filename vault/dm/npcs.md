@@ -16,7 +16,7 @@ Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a littl
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#mufis-performance): Gets keys & tells Mufi about getting around in the pit.
 
-# Tessa Marwick
+# Tess Marwick
 **Guard**
 Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
 - **Scenes**

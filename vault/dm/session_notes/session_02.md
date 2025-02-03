@@ -1,70 +1,75 @@
-# Names
-[Human Names](dm/names.md#human-names), [Elven Names](dm/names.md#elven-names), [Dwarven Names](dm/names.md#dwarven-names), [Halfling Names](dm/names.md#halfling-names), [Gnomish Names](dm/names.md#gnomish-names), [Goblin Names](dm/names.md#goblin-names), [Orcish Names](dm/names.md#orcish-names), [Tiefling Names](dm/names.md#tiefling-names), [Dragonborn Names](dm/names.md#dragonborn-names), [Catch-All Names](dm/names.md#catch-all-names).
 
-# Current Player Interests
-
-- **Lilly's Funeral.** For later, to introduce Waukeen's Chapel's new caretaker. Maybe controversy with Mizora wanting her soul and also The Night Hag that cursed Lilly or Merrick?
-
-- **Investigate the Root.** To introduce Maris Tindle and The Laboratory.
-
-- **Enter The Stockpile.** To introduce The Stockpile Business.
 
 
 # Introduction
+**Sik**. Goblin. -> Egg shaped head with egg colored skin, with two long pointy flappy ears and a fuzzy blue patch of hair on the tip of her head.
 
-- They chase after the goblins, they catch up to one Goblin and one wounded Worg that were left behind. 
+- They chase after the goblins, they catch up to one Goblin, **Sik**, and one wounded Worg that were seemingly left behind. 
 [Goblin (1/4)](dm/monsters.md#goblin), [Worg (1/2)](dm/monsters.md#worg) with Speed 2!
 
+- **Sik** had Goblin Orders from "**Fizzra**" on her, they were: 
+  - Keep **Grishka** in check.
+  - Bring **Snarl** back safely.
+  - Only take Livestock.
+
+SURVIVAL -> The whincing of the Worg might well attract predators.
 
 # Scenes
 ## The Trail
-**Sik**. Goblin. -> Egg shaped head with egg colored skin, with two long pointy flappy ears and a fuzzy blue patch of hair on the tip of her head.
 
-The goblin leader is **Fizzra**.
-The leader of a renegade subgroup is **Grishka**.
+[TODO] make Fizzra and Grishka NPCs.
 
-- Goblin Names: Tog, Brik, Grib.
+- Following the footsteps of the raiding party, on the peak above the tunnel an old watchtower position from Old Arvandal, camped by a group of booyahg scouts.
+[2 * Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Spells: [Fog Cloud](spells.md#fog-cloud), [Ray of Sickness](spells.md#ray-of-sickness). 
+[Goblin (1/4)](dm/monsters.md#goblin) with a [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer).
 
-A Goblin and a wounded worg on the road.
-SURVIVAL -> The whincing of the Worg might well attract predators.
+- Mid-fight three wolves catches up with the party and join combat.
+[2 * Wolf (1/4)](dm/monsters.md#wolf)
+[Lion (1)](dm/monsters.md#lion) (use Lion statblock as bigger wolf)
 
-Goblin is cooperative and from good faction or uncooperative and from bad faction depending on CHA rolls.
+**Potential rewards looted from the Booyahgs**: 
+  - [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+  - [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+  - Another parchment of Goblin Orders from "**Fizzra**".
+    - Reconnaissance only, do not engage in combat, we want to keep a diplomatic approach possible.
+    - Do not let raiding parties drag anything but Livestock past you.
+    - Stay hidden.
+    - We're here to dig only.
 
-Close by is a small Booyahg watch position. 
+- They rest through the night on the scout post and in the morning they chase further north for ~5 hours and spot an intimidating Hobgoblin army camp. (more than a dozen tents)
 
-- The Goblin they face is called **Sik**. Who reveals that she just sent her friend **Rix** to ask one of the Booyahg from the scout post nearby to come help heal **Snarl**. (but she thinks Rix betrayed her, encouraging the players to avenge her)
+- They turn back to town, arrive in the evening.
 
-- If they chase further, after another 2 hours they catch up and spot a raiding party of ~15 Goblins, with their (hobgoblin?) leader **Grishka** at the helm. This should be an intimidating show.
+## Back in New Arvandal
+[TODO] add Veshka NPC here.
+[Tess Marwick](dm/npcs.md#tess-marwick)
 
-**Potential rewards looted from the Booyahgs**:   [Imbued Quarterstaff - Kythrian Manchineel](dm/items.md#imbued-quarterstaff---kythrian-manchineel), [Orb of Shielding - Fernian Basalt](dm/items.md#orb-of-shielding---fernian-basalt).  
+- if noone speaks Goblin, **Tess** will snark "The wood worker **Veshka** probably does", incentivizing them to meet her (she does **NOT** speak any goblin, she's an Orc).
 
-[Goblin (1/4)](dm/monsters.md#goblin).
-[Booyahg Caster (1/4)](dm/monsters.md#booyahg-caster) Spells: [Fog Cloud](spells.md#fog-cloud), [Thunderwave](spells.md#thunderwave), [Ray of Sickness](spells.md#ray-of-sickness). 
-[Booyahg Whip (1/4)](dm/monsters.md#booyahg-whip) with a [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer).
+- **Tess** records the group's statement and sends it off to [Teal Lareth](dm/npcs.md#teal-lareth) and [Dain Elster](dm/npcs.md#dain-elster).
 
-Captured goblin being dragged back to town? it becomes night and **dangerous**.
+- They learn about the political friction between:
+  - The Guard & Dain
+  - The Merchants & The Academy Administration
 
-When the players travel back, there are wolves in the forest, use lion for bigger one and wolf for smaller one.
-[Wolf (1/4)](dm/monsters.md#wolf)
-[Lion (1)](dm/monsters.md#lion)
-[Saber-Toothed Tiger (2)](dm/monsters.md#saber-toothed-tiger)
+- They visit **Veshka**, learn that **Tess** was "joking".
 
+- They visit the Academy Library to find a way to translate the goblin orders .
 
 ## The Academy
-upper north east - cartography & exploration
-Along the elevator: 
-  upper south west - mechanics
-  lower south west - stone works
-median market side - diplomacy & commerce
-upper cellars - arcane studies
-lower cellars - alchemy medicine (laboratories)
-### The Entrance Hall
-- **Location**: The vaulted ceiling soars above with intricate frescoes of celestial bodies and arcane symbols, illuminated by streams of light pouring through stained glass windows. Freshly polished marble floors echo with footsteps, and the air is scented faintly with parchment and candle wax.
-  - Nearing the end of the off-season, students and scholars begin to bustle about at higher numbers again, their robes swirling as they move between lecture halls and study chambers. 
 
-  - The canteen and lavatories on the entrance level, stairways and elevators lead to the lecture, laboraty, and library rooms. 
+### The Entrance Hall
+- **Location**: The vaulted ceiling is decorated with intricate frescoes of celestial bodies and arcane symbols, illuminated by streams of light pouring through stained glass windows. Freshly polished marble floors echo with footsteps, and the air is scented faintly with parchment and candle wax.
+
+  - Nearing the end of the off-season, students and scholars begin to bustle about at higher numbers again. 
+
+
 
 ### The Library
+[TODO] Darrin NPC (student)
+[TODO] Bok NPC (Kazimir student colleague)
+
+
 
 - [Zara Brightscale](dm/arvandor/characters/living_npcs.md#zara-brightscale). Dragonborn -> A slender ivory snout marks her head peaked by her elegant white horns and almost lion-like scaly mane that encompasses her face. Bright blue warm and perceptive reptilian eyes. Robes a blend of ice blue and white, shimmering with faint glacial patterns.
 - [Theron Windrunner](dm/arvandor/characters/living_npcs.md#theron-windrunner). Human -> The energy of a young adventurer. His sun-kissed skin reflects days spent in the wild. A faint scar across his left brow hints at a few early scrapes, but his boyish confident grin suggests he relished every moment. He wears a rugged, well-worn jacket over a practical tunic, and his utility belt is stocked with cartographer’s tools.
@@ -212,8 +217,6 @@ thief threatens XYZ and then rushes to sewer entrance
 
 
 - capture one alive? 
-- Tess beats one goblin to death violently.
-- if noone speaks Goblin, Tess will snark "The wood worker **Veshka** probably does".
 
 
 person dying, 30 seconds timer, 1 scroll of revivify, patron takes soul if they die.

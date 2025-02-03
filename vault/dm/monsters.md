@@ -377,7 +377,6 @@ STR | DEX | CON | INT | WIS | CHA
    - **Throttle**. One creature the boneless is wrapped around must succeed on a DC 11 CON Save or have the air driven from its lungs and begin to suffocate.
 *(Source: ConfluxCreatures)*
 
-
 ### Booyahg Caster
 **CR**: 1/4
 *Small fey (goblinoid), Neutral Evil*

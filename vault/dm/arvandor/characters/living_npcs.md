@@ -1,4 +1,4 @@
-### Dain Elster 
+### Dain Elster
 (b. 1458 DR) Human, M.
 ###### Appearance
   A pronounced jawline and high cheekbones, deeply set eyes that exude an almost piercing quality, 
@@ -135,7 +135,7 @@ Human, M. (b. 1458 DR)
    We would have to find out where they came from."
    [[thotc_overview]]
 
-### Brennar Stonewright 
+### Brennar Stonewright
 Dwarf, M. (b. 1400 DR)
 ###### Appearance
   A jovial dwarf with a bushy brown beard, his eyes crinkle with deep laugh lines, a testament to his hearty humor. 
@@ -175,7 +175,7 @@ Dwarf, M. (b. 1400 DR)
   They are key NPCs for improving player items at cost or for favors.
   ??
 
-### Veshka Tovan 
+### Veshka Tovan
 Half-Orc, F. (b. 1470 DR)
 ###### Appearance
   She has rough, olive-tinted skin weathered by years of carpentry, and her small tusks barely protrude from her lower lip, giving her an unassuming, approachable look. 
@@ -202,7 +202,7 @@ Half-Orc, F. (b. 1470 DR)
   "Carpentry’s not about looking pretty; it’s about holding up when everything else falls apart. Same goes for people."
   *Watching a group of kids run off* "They’ll either break their necks or grow up to be builders. Let’s hope for the second."
 
-### Elara Moonshadow 
+### Elara Moonshadow
 Half-Elf, F. (b. 1452 DR) 
 ###### Appearance
 ###### Info
@@ -217,7 +217,7 @@ Half-Elf, F. (b. 1452 DR)
   "Before swords are drawn, have we asked why they’re marching? Even goblins have their reasons, and ignoring them will only escalate the conflict."
   "Your task is not just to observe but to listen. Find their leaders, hear their grievances. The path to peace lies in understanding."
 
-### Borin Grathal 
+### Borin Grathal
 Dwarf, M. (b. 1355 DR)
 ###### Appearance
   He is a sturdy dwarf with stoic presence, his slightly dusty white beard framing a weathered face set in a permanent scowl. 
@@ -243,7 +243,7 @@ Dwarf, M. (b. 1355 DR)
    You, however, might be in a position to look into this. If you find anything, I’ll be grateful, but tread carefully. Not all business is as it seems.”
    [[tsb_overview]]
 
-### Maris Tindle 
+### Maris Tindle
 Halfling, F. (b. 1468 DR)
 ###### Appearance
 ###### Info
@@ -257,7 +257,7 @@ Halfling, F. (b. 1468 DR)
   *if pushed on the issue, staring* "I do not know what you are talking about. You better hope you are not accusing a member of the faculty of involvement in unlawful activity. Out."
 ###### Quest
 
-### Theron Windrunner 
+### Theron Windrunner
 Human, M. (b. 1475 DR)
 ###### Appearance
   Theron carries himself with the energy of a young adventurer eager to uncover the world’s mysteries. His sun-kissed skin reflects days spent in the wild, 
@@ -296,7 +296,7 @@ Human, M. (b. 1475 DR)
   [[tlmofm_overview]]
   [[tsb_overview]]
 
-### Zara Brightscale 
+### Zara Brightscale
 White-Dragonborn, F. (b. 1458 DR)
 ###### Appearance
   She carries herself with quiet elegance, her robes a graceful blend of ice blue and white that flow around her, 
@@ -332,7 +332,7 @@ White-Dragonborn, F. (b. 1458 DR)
    Find out what’s causing this, but beware.. you may uncover something much darker than mere undead beneath the surface."
    [[thvl_overview]]
 
-### Walt Ashbrook 
+### Walt Ashbrook
 Human, M. (b. 1440 DR)
   He was the former tollkeeper and caretaker of Waukeen's Chapel relieved of his duties in 1499 DR. He no longer lives in New Arvandal.
   > [!WARNING] maybe make him part of The Thieves' Guild

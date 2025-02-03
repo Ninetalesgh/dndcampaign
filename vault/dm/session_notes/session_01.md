@@ -1,6 +1,6 @@
 # Introduction
 
-[Tessa Marwick](dm/npcs.md#tessa-marwick)
+[Tess Marwick](dm/npcs.md#tess-marwick)
 [Garrin Harvestsong](dm/npcs.md#garrin-harvestsong)
 [Teal Lareth](dm/npcs.md#teal-lareth)
 [Dain Elster](dm/npcs.md#dain-elster)
@@ -9,7 +9,7 @@
 
 - Teal nods harshly "Tess, with them".
 - Teal walks off towards the academy elevators.
-- Garrin, Tessa, and players run to out Guard Tower at The Plateau Gate
+- Garrin, Tess, and players run to out Guard Tower at The Plateau Gate
 - A lookout on the tower matches eyes with Tess: "West side of the shelf, the Mylen farmstead, there's smoke!"
 - Tess offers armaments to players (armor, shields, javelins) consider don speed? 
 
@@ -31,7 +31,7 @@
 [Merrick Mylen](dm/npcs.md#merrick-mylen) -> Human. short cut fuzzy dark hair. 
 [Lilly Mylen](dm/npcs.md#lilly-mylen) -> Human. shoulder long dark hair. light brown skin.
 [Ginny Mylen](dm/npcs.md#ginny-mylen) -> Tiefling. Pale purple skin, white eyes, small horn stumps 
-[Tessa Marwick](dm/npcs.md#tessa-marwick) Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
+[Tess Marwick](dm/npcs.md#tess-marwick) Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
 [Garrin Harvestsong](dm/npcs.md#garrin-harvestsong) Human -> Tall burly man, greying trimmed beard, greasy hair, dull eyes.
 
 - **Location**: 

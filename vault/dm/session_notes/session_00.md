@@ -30,7 +30,7 @@ Alpine trade city of New Arvandal, sitting in the Stormhorns, between Tyrluk and
 
 ## Mufi's Performance
 - **Street kid Tobben.** Human -> triangle shaped head, sharp chin, stubbles of adolescent beard. a little greasy straight brown hair.
-- **Guard Tessa Marwick.** Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
+- **Guard Tess Marwick.** Human -> broad shoulders, black hair tied back. thin scare along her jawline. grey eyes.
 
 - Mufi dances in the street, teenager dashes through the crowd, guards pursuing.
 - !! adam punches fabric into the air, distracting the guards.
