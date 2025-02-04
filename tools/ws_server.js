@@ -46,7 +46,6 @@ function onMessage(message)
   });
 }
 
-
 server.on('connection', (socket) => {
   socket.on('message', (message) => {
     const handshakeMatch = message.toString().match(/'(.*)' handshake!/);

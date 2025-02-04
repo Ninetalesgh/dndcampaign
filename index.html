@@ -481,29 +481,9 @@
     {
       const tempInput = document.querySelector('.temp-input');
       const query = tempInput.value;
-      let match = query.match(/^([a-zA-Z0-9\s]*?)\s?([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$/, 'g');
-      if (match)
-      {
-        //TODO this is probably not needed anymore
-        let name = match[1];
-        let ip = match[2];
-        console.log(`Attempting to connect to '${ip}' with name '${name}'.`);
-        connectWebsocket(name, ip,
-        () =>
-        {
-          webSocket.send(`'${name}' handshake!`);
-          console.log(`WebSocket connection established with '${ip}'`);
-        }, 
-        (event) => 
-        {    
-          console.log(event.data);
-          addTemporaryEquipmentToCharacterPage(event.data);
-        });    
-      }
-      else
-      {
-        await addTemporaryEquipmentToCharacterPage(query);
-      }
+
+      sendMessageToServer(query);
+      await addTemporaryEquipmentToCharacterPage(query);
     }
 
     function connectToLocalServer(clientName, ip)
@@ -517,7 +497,7 @@
       }, 
       (event) => 
       {    
-        //TODO onmessage comes here
+        addTemporaryEquipmentToCharacterPage(event.data);
         console.log(event.data);
       });
     }
