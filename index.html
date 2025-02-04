@@ -496,12 +496,11 @@
         (event) => 
         {    
           console.log(event.data);
-        });
-        
+        });    
       }
       else
       {
-        addTemporaryEquipmentToCharacterPage(query);
+        await addTemporaryEquipmentToCharacterPage(query);
       }
     }
 

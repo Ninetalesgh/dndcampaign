@@ -8,7 +8,7 @@ function connectWebsocket(clientName, ip, onOpenFunction, onMessageFunction)
     return;
   }
   
-  webSocket = new WebSocket(`wss://${ip}:8080`);
+  webSocket = new WebSocket(`ws://${ip}:8081`);
   
   webSocket.onopen = onOpenFunction;
   webSocket.onmessage = onMessageFunction;
