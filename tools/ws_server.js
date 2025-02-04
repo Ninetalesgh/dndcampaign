@@ -1,6 +1,7 @@
 const WebSocket = require('ws');
 const os = require('os');
 
+
 // Function to get the local IP address
 function getLocalIpAddress() {
   const interfaces = os.networkInterfaces();
@@ -22,25 +23,58 @@ const ipAddress = getLocalIpAddress();
 
 console.log(`WebSocket server is running on ws://${ipAddress}:8080`);
 
+class ConnectedPlayer
+{
+  constructor(name, socket)
+  {
+    this.socket = this.socket;
+    this.name = name;
+  }
+}
+
+let connectedClients = new Array();
+let connectedDm = null;
+
+function onMessage(message)
+{
+  console.log(`Forwarding: '${message}'`);
+  server.clients.forEach(client => {
+      if (client.readyState === WebSocket.OPEN) 
+      {
+          client.send(message);
+      }
+  });
+}
+
+
 server.on('connection', (socket) => {
-    console.log('A client connected');
+  socket.on('message', (message) => {
+    const handshakeMatch = message.match(/'(.*)' connected!/);
+    if (handshakeMatch)
+    {
+      socket.removeAllListeners('message');
 
-    socket.on('message', (message) => {
-        console.log(`Received: ${message}`);
-        // Broadcast the message to all connected clients
-        server.clients.forEach(client => {
-            if (client.readyState === WebSocket.OPEN) {
-                client.send(message);
-            }
-        });
-    });
+      if (handshakeMatch[1] === 'dm')
+      {
+        connectedDm = socket;
+        //only add the dm back as messenger here
+        socket.on('message', onMessage);
+      }
+      else
+      {
+        connectedClients.push(new ConnectedPlayer(handshakeMatch[1], socket));
+      }
+    }
+    else
+    {
+      console.log(`Received message '${message}', not allowing the connection.`);
+      socket.close();
+    }
+  });
 
-    socket.on('close', () => {
-        console.log('A client disconnected');
-    });
+  socket.on('close', () => {
+      console.log('A client disconnected');
+  });
 });
-
-console.log('WebSocket server is running on ws://0.0.0.0:8080');
-
 
 

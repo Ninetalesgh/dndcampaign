@@ -1,39 +1,44 @@
 
-function websocketTest()
-{  
-  // Replace with your server's IP address if not running locally
-  const socket = new WebSocket('ws://localhost:8080');
+var webSocket = null;
+function connectWebsocket(clientName, ip, onOpenFunction, onMessageFunction)
+{
+  if (webSocket)
+  {
+    console.log('websocket already connected.');
+    return;
+  }
   
-  // Handle connection open
-  socket.onopen = () => {
-    console.log('WebSocket connection established');
-  };
+  webSocket = new WebSocket(`ws://${ip}:8080`);
   
-  // Handle incoming messages
-  socket.onmessage = (event) => {
-    const messages = document.getElementById('messages');
-    const li = document.createElement('li');
-    li.textContent = event.data;
-    messages.appendChild(li);
-  };
-  
+  webSocket.onopen = onOpenFunction;
+  webSocket.onmessage = onMessageFunction;
+
   // Handle connection close
-  socket.onclose = () => {
-    console.log('WebSocket connection closed');
+  webSocket.onclose = () => {
+    console.log(`Closed WebSocket connection with '${ip}'`);
   };
-  
+
   // Handle errors
-  socket.onerror = (error) => {
+  webSocket.onerror = (error) => {
     console.error('WebSocket error:', error);
   };
-  
-  // Send a message to the server
-  function sendMessage() {
-    const input = document.getElementById('messageInput');
-    const message = input.value;
-    if (message) {
-      socket.send(message);
-      input.value = ''; // Clear the input field
-    }
+
+  if (webSocket)
+  {
+    return true;
+  }
+
+  return false;
+}
+
+function sendMessageToServer(message) 
+{
+  if (webSocket && webSocket.readyState === WebSocket.OPEN) 
+  {
+    webSocket.send(message);
+  }
+  else
+  {
+    console.log('Attempted to send message without a WebSocket connection.');
   }
 }
