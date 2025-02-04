@@ -484,6 +484,7 @@
       let match = query.match(/^([a-zA-Z0-9\s]*?)\s?([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+)$/, 'g');
       if (match)
       {
+        //TODO this is probably not needed anymore
         let name = match[1];
         let ip = match[2];
         console.log(`Attempting to connect to '${ip}' with name '${name}'.`);
@@ -504,11 +505,30 @@
       }
     }
 
+    function connectToLocalServer(clientName, ip)
+    {
+      console.log(`Attempting to WebSocket connect to '${ip}' with name '${clientName}'.`);
+      connectWebsocket(clientName, ip,
+      () =>
+      {
+        webSocket.send(`'${clientName}' handshake!`);
+        console.log(`WebSocket connection established with '${ip}'`);
+      }, 
+      (event) => 
+      {    
+        //TODO onmessage comes here
+        console.log(event.data);
+      });
+    }
+
     // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);
-      
+      const host = window.location.host;
+      const port = window.location.port;
+
       let contentPageUrl = '/game_rules.md';
+
       for (const [key, value] of urlParams)
       {
         if (key === 'page')
@@ -516,6 +536,10 @@
           if (value.match(/(ayra|kal|kazimir|mufi|nyari)/))
           {
             contentPageUrl = `/characters/${value}.md`;
+            if (port === 8080)
+            {
+              connectToLocalServer(`'${value}' handshake!`, host);
+            }
           }
           else
           {
@@ -534,6 +558,11 @@
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
           }
           
+          if (port === 8080)
+          {
+            connectToLocalServer(`'dm' handshake!`, host);
+          }
+
           const dmPages = new Array(
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,

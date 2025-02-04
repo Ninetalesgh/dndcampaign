@@ -1,24 +1,24 @@
 const WebSocket = require('ws');
 const os = require('os');
 
-
-// Function to get the local IP address
-function getLocalIpAddress() {
+function getLocalIpAddress() 
+{
   const interfaces = os.networkInterfaces();
-  for (const interfaceName in interfaces) {
-      for (const iface of interfaces[interfaceName]) {
-          // Skip internal (loopback) and non-IPv4 addresses
-          if (iface.family === 'IPv4' && !iface.internal) {
-              return iface.address;
-          }
+  for (const interfaceName in interfaces) 
+  {
+    for (const iface of interfaces[interfaceName]) 
+    {
+      // Skip internal (loopback) and non-IPv4 addresses
+      if (iface.family === 'IPv4' && !iface.internal) {
+          return iface.address;
       }
+    }
   }
-  return '0.0.0.0'; // Fallback if no IP address is found
+  // Fallback if no IP address is found
+  return '0.0.0.0'; 
 }
 
 const server = new WebSocket.Server({ port: 8081 });
-
-// Get the local IP address
 const ipAddress = getLocalIpAddress();
 
 console.log(`WebSocket server is running on ws://${ipAddress}:8081`);
