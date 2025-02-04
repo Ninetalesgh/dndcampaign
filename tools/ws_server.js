@@ -49,7 +49,7 @@ function onMessage(message)
 
 server.on('connection', (socket) => {
   socket.on('message', (message) => {
-    const handshakeMatch = message.toString().match(/'(.*)' connected!/);
+    const handshakeMatch = message.toString().match(/'(.*)' handshake!/);
     if (handshakeMatch)
     {
       socket.removeAllListeners('message');
@@ -58,10 +58,12 @@ server.on('connection', (socket) => {
       {
         connectedDm = socket;
         //only add the dm back as messenger here
+        console.log(`The almighty dungeon master has connected!`);
         socket.on('message', onMessage);
       }
       else
       {
+        console.log(`'${handshakeMatch[1]}' connected!`);
         connectedClients.push(new ConnectedPlayer(handshakeMatch[1], socket));
       }
     }

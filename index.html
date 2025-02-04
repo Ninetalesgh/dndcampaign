@@ -490,7 +490,7 @@
         connectWebsocket(name, ip,
         () =>
         {
-          webSocket.send(`'${name}' connected!`);
+          webSocket.send(`'${name}' handshake!`);
           console.log(`WebSocket connection established with '${ip}'`);
         }, 
         (event) => 
@@ -498,7 +498,6 @@
           console.log(event.data);
         });
         
-        //sendMessageToServer(`${name} connected!`);
       }
       else
       {
