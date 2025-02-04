@@ -1,5 +1,5 @@
 const WebSocket = require('ws');
-const WebSocket = require('os');
+const os = require('os');
 
 // Function to get the local IP address
 function getLocalIpAddress() {
