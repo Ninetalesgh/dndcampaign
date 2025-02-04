@@ -1,0 +1,23 @@
+{
+  "name": "dndcampaign",
+  "version": "1.0.0",
+  "description": "Lots on here is not made by me, like almost all monsters or some items.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ninetalesgh/dndcampaign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ninetalesgh/dndcampaign/issues"
+  },
+  "homepage": "https://github.com/Ninetalesgh/dndcampaign#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
