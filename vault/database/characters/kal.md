@@ -101,10 +101,11 @@
 - **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
-- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Prepare Druid Spells**
-- **Regain All Wild Shape Charges**
+- **Regain all Wild Shape Charges**
 - **Switch 1 Wild Shape form**
 - **Switch Wizard Cantrip**
 
