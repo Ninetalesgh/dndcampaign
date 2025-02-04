@@ -497,6 +497,7 @@
         (event) => 
         {    
           console.log(event.data);
+          addTemporaryEquipmentToCharacterPage(event.data);
         });    
       }
       else
@@ -541,7 +542,7 @@
             contentPageUrl = `/characters/${value}.md`;
             if (port === '8080')
             {
-              connectToLocalServer(`'${value}' handshake!`, host);
+              connectToLocalServer(`${value}`, host);
             }
           }
           else
@@ -563,7 +564,7 @@
           
           if (port === '8080')
           {
-            connectToLocalServer(`'dm' handshake!`, host);
+            connectToLocalServer('dm', host);
           }
 
           const dmPages = new Array(
