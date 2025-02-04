@@ -3921,8 +3921,8 @@ Flammable objects in the area that aren't being worn or carried start [Burning (
 - **Range**: 12 *(18m)*
 - **Components**: V
 - **Duration**: Instantaneous
-You cause the fires engulfing a creature to flare explosively. One [Burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save or take 3d6 Fire damage.
-**Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of Level 2 or higher, the damage increases by 1d6 for each slot level above 2.
+You cause the fires engulfing a creature to flare explosively. One [Burning](conditions.md#burning) creature within 4 *(6m)* erupts in an explosion of flame. It and each other creature within 4 *(6m)* of it must succeed on a DEX Save, taking 3d6 Fire damage on a failed Save or half as much damage on a successful one.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each slot level above 1.
 - **Classes**: Druid, Sorcerer
 *(Source: ConfluxCreatures)*
 
@@ -9239,7 +9239,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 - **Components**: V
 - **Duration**: 1 minute 
 The target takes an extra 1d6 Radiant damage from the attack, and it must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. At the end of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save, ending the spell on itself on a success.
-**Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** The damage increases by 1d6 and the STR Save DC by 1 for each spell slot level above 1.
 - **Classes**: Paladin
 ![\|50](https://bg3.wiki/w/images/5/50/Ensnaring_Strike_Melee_Icon.webp)
 *(Source: Custom)*
@@ -9250,8 +9250,8 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute
-The target takes an extra 1d6 Fire damage from the attack. At the start of each of its turns until the spell ends, the target takes 1d6 Fire damage and then makes a CON Save. On a failed save, the spell continues. On a successful save, the spell ends. All the damage increases by 1d6 against Undead.
-**Using a Higher-Level Spell Slot.** All the damage increases by 1d6 for each spell slot level above 1.
+The target takes an extra 1d6 Fire damage from the attack and starts [Burning (1d6)](conditions.md#burning).
+**Using a Higher-Level Spell Slot.** Both the initial and the burning damage increase by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
 ![\|50](https://bg3.wiki/w/images/4/4e/Elemental_Weapon_Fire_Icon.webp)
 *(Source: Custom)*
