@@ -28,17 +28,20 @@
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
 - **Tool Proficiencies**: [Smith's Tools](dm/items.md#smiths-tools)
-- **Languages**: Common, Goliath, [TODO] 1 more
+- **Languages**: Common, Goliath, Halfling
 
-- **STR Based Attack Modifier**: +5.
-- **DEX Based Attack Modifier**: +1.
 
 ## Equipment
-[Chain Mail](dm/items.md#chain-mail)
+### Weapons
+- **STR Based Attack Modifier**: +5.
+- **DEX Based Attack Modifier**: +1.
 [Warhammer](dm/items.md#warhammer)
+[6 Javelins](dm/items.md#javelin)
+
+### Other
+[Chain Mail](dm/items.md#chain-mail)
 [Shield](dm/items.md#shield)
 [Priest's Pack](dm/items.md#priests-pack)
-[6 Javelins](dm/items.md#javelin)
 
 ## Spellcasting
 - **Prepared Spells**: 3

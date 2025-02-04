@@ -30,17 +30,18 @@
 - **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+## Equipment
+### Weapons
 - **STR Based Attack Modifier**: +3.
 - **DEX Based Attack Modifier**: +4.
-
-## Equipment
-[Hide Armor](dm/items.md#hide-armor)
-[Quarterstaff](dm/items.md#quarterstaff)
-[Shield](dm/items.md#shield)
-[Sickle](dm/items.md#sickle)
-[Herbalism Kit](dm/items.md#herbalism-kit)
-[Explorer's Pack](dm/items.md#explorers-pack)
-[Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+  [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+  [Quarterstaff](dm/items.md#quarterstaff)
+  [Sickle](dm/items.md#sickle)
+### Other
+  [Hide Armor](dm/items.md#hide-armor)
+  [Shield](dm/items.md#shield)
+  [Herbalism Kit](dm/items.md#herbalism-kit)
+  [Explorer's Pack](dm/items.md#explorers-pack)
 
 ## Spellcasting
 - **Prepared Spells**: 5

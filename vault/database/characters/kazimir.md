@@ -30,14 +30,15 @@
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, Undercommon, Thieves' Cant
 
+## Equipment
+### Weapons
 - **STR Based Attack Modifier**: +5.
 - **DEX Based Attack Modifier**: +3.
-
-## Equipment
-[Scale Mail](dm/items.md#scale-mail)
-[Alchemist's Supplies](dm/items.md#alchemists-supplies)
-[Shortsword](dm/items.md#shortsword)
-[2 Daggers](dm/items.md#dagger)
+  [Shortsword](dm/items.md#shortsword)
+  [2 Daggers](dm/items.md#dagger)
+### Other
+  [Scale Mail](dm/items.md#scale-mail)
+  [Alchemist's Supplies](dm/items.md#alchemists-supplies)
 
 ## Feats and Actions
 ### Actions

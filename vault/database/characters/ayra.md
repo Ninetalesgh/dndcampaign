@@ -30,15 +30,17 @@
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools)
 - **Languages**: Common, Infernal, Celestial
 
-- **STR Based Attack Modifier**: +1.
-- **DEX Based Attack Modifier**: +4.
 
 ## Equipment
-[Leather Armor](dm/items.md#leather-armor)
-[Scholar's Pack](dm/items.md#scholars-pack)
-[Book about Devils](dm/items.md#book)
-[4 Daggers](dm/items.md#dagger)
-[Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+### Weapons
+- **STR Based Attack Modifier**: +1.
+- **DEX Based Attack Modifier**: +4.
+  [4 Daggers](dm/items.md#dagger)
+### Other
+  [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+  [Book about Devils](dm/items.md#book)
+  [Scholar's Pack](dm/items.md#scholars-pack)
+  [Leather Armor](dm/items.md#leather-armor)
 
 ## Spellcasting
 - **Prepared Spells**: 2

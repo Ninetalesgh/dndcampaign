@@ -30,15 +30,17 @@
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools), [Tinker's Tools](dm/items.md#tinkers-tools)
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
 
+## Equipment
+### Weapons
 - **STR Based Attack Modifier**: +1.
 - **DEX Based Attack Modifier**: +5.
-
-## Equipment
-[Leather Armor](dm/items.md#leather-armor)
-[Thieves' Tools](dm/items.md#thieves-tools)
-[Burglar's Pack](dm/items.md#burglars-pack)
-[2 Daggers](dm/items.md#dagger)
-[Shortsword](dm/items.md#shortsword)
+  [Goblin Shortbow](dm/items.md#shortbow)
+  [Shortsword](dm/items.md#shortsword)
+  [2 Daggers](dm/items.md#dagger)
+### Other
+  [Leather Armor](dm/items.md#leather-armor)
+  [Thieves' Tools](dm/items.md#thieves-tools)
+  [Burglar's Pack](dm/items.md#burglars-pack)
 
 ## Spellcasting
 - **Prepared Spells**: 0 
