@@ -33,8 +33,8 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +1.
-- **DEX Based Attack Modifier**: +4.
+- **STR Based Attack Modifier**: +1 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
   [4 Daggers](dm/items.md#dagger)
 ### Other
   [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
@@ -107,7 +107,7 @@
 - **Regain all Spell Slots**
 
 ### After Long Rest
-- **Regain all HP & *[Level / 2]* HP Dice**
+- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Regain the Healing Hands Charge**
 - **Regain the Magical Cunning Charge**

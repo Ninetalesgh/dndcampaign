@@ -32,8 +32,8 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +5.
-- **DEX Based Attack Modifier**: +3.
+- **STR Based Attack Modifier**: +5 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
 ### Other
@@ -83,7 +83,7 @@
 - **Regain Action Surge Charge**
 
 ### After Long Rest
-- **Regain all HP & *[Level / 2]* HP Dice**
+- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
 - **Regain all Second Wind Charges**
 - **Switch 1 Weapon Mastery**
 - **Finish 1 Brewing Potion**

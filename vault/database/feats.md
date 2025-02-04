@@ -15,7 +15,13 @@ Your HP increase by 2 per Level.
 ## Druid
 
 ### Wild Shape
-Shape-change into one of your prepared Wild Shapes and gain Temporary HP equal to your Druid Level. Your AC is 14. You retain your own HP, HP Dice, INT, WIS, CHA, PBs, Save proficiencies, feats, and languages in addition to gaining the proficiencies of the creature. You can only cast explicitly allowed Moon Druid spells but shape-shifting doesn't break your [Concentration](conditions.md#concentration) of previously cast spells. *(2 Charges, regain 1 after Short-, and all after Long Rests)*
+Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of 1/4, with following effects:
+- You gain **Temporary HP** equal to your Druid Level.
+- You have an **AC** of 14.
+- You aquire the creature's **STR, DEX, and CON**.
+- For all Skill and Save Proficiencies use the higher value between your own and the creature's stats.
+- You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
+*(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
  
 ## Fighter
