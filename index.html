@@ -443,6 +443,7 @@
 
     async function addTemporaryEquipmentToCharacterPage(query)
     {
+      console.log(`Attempting to add '${query}' as temporary equipment.`);
       const link = `(dm/items.md#${filterSectionSpecialCharacters(query)})`;
       const node = await getIndexedContentNode(link);
       if (node)
@@ -497,7 +498,7 @@
       }, 
       (event) => 
       {    
-        addTemporaryEquipmentToCharacterPage(event.data);
+        addTemporaryEquipmentToCharacterPage(`${event.data}`);
         console.log(event.data);
       });
     }
