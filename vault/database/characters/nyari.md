@@ -1,7 +1,7 @@
 # Nyari
 - **Level**: 2
 ## Stats and Proficiencies
-- **Initiative**: +1 *(DEX + PB)*
+- **Initiative**: +1 *(PB + DEX)*
 - **AC**: 19 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield) + Defense)
 - **HP**: 20 *(4 + [6 + CON] * Level)*
 - **HP Dice:** 2 D10
@@ -33,8 +33,8 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +5.
-- **DEX Based Attack Modifier**: +1.
+- **STR Based Attack Modifier**: +5 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +1 *(PB + DEX)*.
 [Warhammer](dm/items.md#warhammer)
 [6 Javelins](dm/items.md#javelin)
 
@@ -86,7 +86,7 @@
 - **Expend HP Dice to regain HP**
   Regain *(d10 + CON)* HP per expended dice.
 ### After Long Rest
-- **Regain all HP & *[Level / 2]* HP Dice**
+- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Regain all Stone's Endurance Charges**
 - **Regain all Lay on Hands Charges**

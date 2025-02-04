@@ -32,8 +32,8 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +1.
-- **DEX Based Attack Modifier**: +5.
+- **STR Based Attack Modifier**: +1 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +5 *(PB + DEX)*.
   [Goblin Shortbow](dm/items.md#shortbow)
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
@@ -97,7 +97,7 @@
 - **Expend HP Dice to regain HP**
   Regain *(d8 + CON)* HP per expended dice.
 ### After Long Rest
-- **Regain all HP & *[Level / 2]* HP Dice**
+- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Regain Magic Initiate Spell charge**
 - **Switch 1 Weapon Mastery**

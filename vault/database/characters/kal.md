@@ -32,8 +32,8 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +3.
-- **DEX Based Attack Modifier**: +4.
+- **STR Based Attack Modifier**: +3 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
   [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
   [Quarterstaff](dm/items.md#quarterstaff)
   [Sickle](dm/items.md#sickle)
@@ -101,7 +101,7 @@
 - **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
-- **Regain all HP & *[Level / 2]* HP Dice**
+- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Prepare Druid Spells**
 - **Regain All Wild Shape Charges**
