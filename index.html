@@ -483,8 +483,8 @@
       const tempInput = document.querySelector('.temp-input');
       const query = tempInput.value;
 
-      sendMessageToServer(query);
-      await addTemporaryEquipmentToCharacterPage(query);
+      sendMessageToServer(`${query}`);
+      await addTemporaryEquipmentToCharacterPage(`${query}`);
     }
 
     function connectToLocalServer(clientName, ip)
