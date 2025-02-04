@@ -3416,7 +3416,7 @@ Everything that a targeted creature is wearing and carrying changes size with it
 
 ### Ensnaring Strike
 *Level 1 Conjuration*
-- **Casting Time**: Bonus Action
+- **Casting Time**: Bonus Action, after a successful Weapon Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
@@ -9155,7 +9155,7 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 - **Range**: Self
 - **Components**: V
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-The next time you hit a creature with a melee attack before this spell ends, your weapon is wreathed in deathly energies, and the attack deals an extra 8d8 Necrotic damage to the target.
+As you hit the target, it takes an extra 8d8 Necrotic damage from the attack.
 Additionally, if this attack reduces the target to 20 Hit Points or fewer, it must succeed on a CON Save or die. If the target is not native to the plane you're on, it has disadvantage on this Save.
 - **Classes**: Paladin
 *(Source: ConfluxCreatures)*
@@ -9222,7 +9222,7 @@ An affected target repeats the save at the end of each of its turns, ending the 
 
 ### Smite of Autumn
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action, after a successful Melee Attack 
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
@@ -9234,11 +9234,11 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 
 ### Smite of Spring
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action, after a successful Melee Attack 
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute 
-The target takes an extra 1d6 Radiant damage from the attack, and it must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. At the end of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save, ending the spell on itself on a success.
+The target takes an extra 1d6 Radiant damage from the attack, and it must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. Large or larger creatures have Advantage on this Save. At the end of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 and the STR Save DC by 1 for each spell slot level above 1.
 - **Classes**: Paladin
 ![\|50](https://bg3.wiki/w/images/5/50/Ensnaring_Strike_Melee_Icon.webp)
@@ -9246,7 +9246,7 @@ The target takes an extra 1d6 Radiant damage from the attack, and it must succee
 
 ### Smite of Summer
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action, after a successful Melee Attack 
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute
@@ -9258,7 +9258,7 @@ The target takes an extra 1d6 Fire damage from the attack and starts [Burning (1
 
 ### Smite of Winter
 *Level 1 Evocation*
-- **Casting Time**: Bonus Action, after a successful Melee Attack 
+- **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
 - **Duration**: Instantaneous
