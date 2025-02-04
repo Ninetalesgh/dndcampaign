@@ -500,14 +500,9 @@
       }, 
       (event) => 
       {    
-        const reader = new FileReader();
-        reader.onerror = function() {
-          console.error('Error reading blob as text');
-        };
-        const message = reader.readAsText(event.data);
-
-        addTemporaryEquipmentToCharacterPage(message);
-        console.log(message);
+        //TODO WHAT
+        //addTemporaryEquipmentToCharacterPage(message);
+        console.log(event);
       });
     }
 
