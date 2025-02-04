@@ -107,7 +107,8 @@
 - **Regain all Spell Slots**
 
 ### After Long Rest
-- **Regain all HP & [*Level / 2 (round down)*] HP Dice**
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Regain the Healing Hands Charge**
 - **Regain the Magical Cunning Charge**
