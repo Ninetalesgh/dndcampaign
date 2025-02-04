@@ -74,7 +74,17 @@ server.on('connection', (socket) => {
   });
 
   socket.on('close', () => {
-      console.log('A client disconnected');
+      
+      let client = connectedClients.find((client) => client.socket === socket);
+      if (client)
+      {
+        //TODO remove from client list
+        console.log(`'${client.name}' disconnected`);
+      }
+      else
+      {
+        console.log('A client disconnected');
+      }
   });
 });
 

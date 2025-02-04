@@ -35,6 +35,7 @@ function sendMessageToServer(message)
 {
   if (webSocket && webSocket.readyState === WebSocket.OPEN) 
   {
+    console.log(`Sending '${message}'.`);
     webSocket.send(message);
   }
   else

@@ -449,8 +449,6 @@
       if (node)
       {
         const name = node.name;
-        console.log(node);
-        console.log('HUH');
         const equipmentNode = document.getElementById('equipment');
         if (equipmentNode)
         {
@@ -473,9 +471,10 @@
 
           div.appendChild(newP);
           div.appendChild(newPlaceholder);
-          tempInput.value = '';
+          return true;
         }
       }      
+      return false;
     }
 
     async function onPageInputFieldConfirmed()
@@ -484,7 +483,10 @@
       const query = tempInput.value;
 
       sendMessageToServer(`${query}`);
-      await addTemporaryEquipmentToCharacterPage(`${query}`);
+      if (await addTemporaryEquipmentToCharacterPage(`${query}`))
+      {
+        tempInput.value = '';
+      }
     }
 
     function connectToLocalServer(clientName, ip)
@@ -498,8 +500,16 @@
       }, 
       (event) => 
       {    
-        addTemporaryEquipmentToCharacterPage(`${event.data}`);
-        console.log(event.data);
+        const reader = new FileReader(); // Create a new FileReader instance
+
+        reader.onerror = function() {
+          console.error('Error reading blob as text');
+        };
+
+        const message = reader.readAsText(blob); // Read the Blob as text
+
+        addTemporaryEquipmentToCharacterPage(message);
+        console.log(message);
       });
     }
 
