@@ -50,6 +50,7 @@ function onMessage(message)
 server.on('connection', (socket) => {
   socket.on('message', (message) => {
     const handshakeMatch = message.toString().match(/'(.*)' handshake!/);
+    console.log(handshakeMatch);
     if (handshakeMatch)
     {
       socket.removeAllListeners('message');
