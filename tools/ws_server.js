@@ -21,7 +21,7 @@ const server = new WebSocket.Server({ port: 8080 });
 // Get the local IP address
 const ipAddress = getLocalIpAddress();
 
-console.log(`WebSocket server is running on ws://${ipAddress}:8080`);
+console.log(`WebSocket server is running on wss://${ipAddress}:8080`);
 
 class ConnectedPlayer
 {
