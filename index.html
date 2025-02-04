@@ -524,12 +524,12 @@
     // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);
-      const host = window.location.host;
+      const host = window.location.hostname;
       const port = window.location.port;
 
       console.log(port);
       console.log(host);
-      
+
       let contentPageUrl = '/game_rules.md';
 
       for (const [key, value] of urlParams)
@@ -539,7 +539,7 @@
           if (value.match(/(ayra|kal|kazimir|mufi|nyari)/))
           {
             contentPageUrl = `/characters/${value}.md`;
-            if (port === 8080)
+            if (port === '8080')
             {
               connectToLocalServer(`'${value}' handshake!`, host);
             }
@@ -561,7 +561,7 @@
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
           }
           
-          if (port === 8080)
+          if (port === '8080')
           {
             connectToLocalServer(`'dm' handshake!`, host);
           }
