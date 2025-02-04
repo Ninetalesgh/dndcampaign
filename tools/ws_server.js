@@ -16,7 +16,7 @@ function getLocalIpAddress() {
   return '0.0.0.0'; // Fallback if no IP address is found
 }
 
-const server = new WebSocket.Server({ port: 8080 });
+const server = new WebSocket.Server({ port: 8081 });
 
 // Get the local IP address
 const ipAddress = getLocalIpAddress();
