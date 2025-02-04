@@ -49,7 +49,7 @@ function onMessage(message)
 
 server.on('connection', (socket) => {
   socket.on('message', (message) => {
-    const handshakeMatch = message.match(/'(.*)' connected!/);
+    const handshakeMatch = message.toString().match(/'(.*)' connected!/);
     if (handshakeMatch)
     {
       socket.removeAllListeners('message');
