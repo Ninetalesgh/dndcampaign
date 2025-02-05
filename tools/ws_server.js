@@ -39,13 +39,21 @@ function onMessage(message)
 {
   console.log(`Forwarding: '${message}'`);
 
-  connectedClients.forEach(client => 
-  {
-    if (client.socket.readyState === WebSocket.OPEN)
-    {
-      client.socket.send(message);
-    }
+  server.clients.forEach(client => {
+      if (client.readyState === WebSocket.OPEN) 
+      {
+        console.log(client);
+      }
   });
+ 
+  connectedClients.forEach(client => 
+    {
+      console.log(client.socket);
+      if (client.socket.readyState === WebSocket.OPEN)
+      {
+        client.socket.send(message);
+      }
+    });
 }
 
 server.on('connection', (socket) => {
@@ -65,6 +73,7 @@ server.on('connection', (socket) => {
       else
       {
         console.log(`'${handshakeMatch[1]}' connected!`);
+        console.log(socket);
         connectedClients.push(new ConnectedPlayer(handshakeMatch[1], socket));
       }
     }
