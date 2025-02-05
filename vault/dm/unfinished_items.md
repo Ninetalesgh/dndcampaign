@@ -734,16 +734,6 @@ This gilded armor is made of purified mourningsteel and repels undead aggression
 If you're a cleric or paladin and are wearing this armor, immediately after an undead creature deals damage to you with a melee attack, it is automatically destroyed if its challenge rating is 1 or lower.
 
 
-### Kobold Diviner's Amulet
-[TODO] really cool kobold item
-Wondrous item, uncommon
-
-This necklace bears numerous rings and charms from its leather strap. The largest charm is a crystal ball, which is grasped by a draconic claw. While wearing the amulet, you can use an action to peer into its crystal ball and predict a number between 1 and 20. Then, roll a d20. If the result of the roll has a difference of no more than 2 from the predicted number, you magically foretell a sliver of future possibility. You then ask the GM one question about the events that will or can occur within the next 30 minutes, which must be able to be answered with either "yes," "no," or "uncertain." At the GM's discretion, the crystal ball may alternatively show you a visual answer. Once this property of the amulet has been used, it can't be used again until the next dawn. You must be able to speak Draconic in order to use this property.
-
-For example, you use the amulet and predict the number 14. You then roll a 16 on the d20, allowing you to ask the GM a question, such as "Will the prison guards be attentive for the next half hour?" The GM may then describe a vision in the crystal of a guard sleeping beside their post, or simply say "no."
-
-For the purposes of predicting a number on the d20, 19 and 20 are considered to have a difference of two from 1 and 2, respectively. Similarly, 20 and 1 are considered to have a difference of one.
-
 ### Cloth of Instant Tables
 [TODO] good early reward
 Wondrous item, common

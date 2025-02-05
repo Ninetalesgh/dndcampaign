@@ -44,25 +44,29 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 
 ## Weapon Mastery
 ### Cleave
-On Hit: Allows you to roll a second Attack against another creature within range 1 of the first target also within your reach, but without damage modifier.
+*On Hit:* Allows you to roll a second Attack against another creature within range 1 of the first target also within your reach, but without damage modifier.
 ### Graze
-On Miss: You still deal the specified amount of damage to the target.
+*On Miss:* You still deal the specified amount of damage to the target.
 ### Nick
-Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action **once** per turn.
+Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action. *(Once per Turn)*
 ### Push
-Allows you to push a creature that is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you by the specified range on hit.
+*On Hit:*: You may push the target by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Sap
-On Hit: The target gets Disadvantage on its next Attack.
+*On Hit:* The target gets Disadvantage on its next Attack.
 ### Slow
-On Hit: The target has its Speed reduced by the specified amount until the end of its next turn.
+*On Hit:* The target has its Speed reduced by the specified amount until the end of its next turn.
 ### Topple
-On Hit: The target has to succeed a CON Save (DC 8 + your attack modifier + your PB) or be knocked [Prone](conditions.md#prone).
+*On Hit:* The target has to succeed a CON Save (DC 8 + your attack modifier + your PB) or be knocked [Prone](conditions.md#prone).
 ### Vex
-On Hit: You gain Advantage on your next Attack against the same target.
+*On Hit:* You gain Advantage on your next Attack against the same target.
 ### Brace
-Allows you to Opportunity Attack as a Reaction when a creature enters your reach.
+Allows you to Opportunity Attack as a Reaction when a creature **enters** your reach.
 ### Rush
 Allows you to move an extra specified distance for free when using the Attack Action.
+### Eviscerate
+*On Hit:* The target is [Bleeding](conditions.md#bleeding) for the specified amount.
+### Execute
+*On Critical Hit:* Instead of doubling your damage dice, triple them.
 
 ## Weapon Properties
 ### Weapon +1

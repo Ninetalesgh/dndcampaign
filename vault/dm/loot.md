@@ -8,6 +8,7 @@ Timeline:
   Level 4: 
     Session 6-8?
 Means ~1 Common Item per Session + 1 UC/R Item per Session?
+About 2 items per session!!
 
 Ayra:
   C: 
@@ -23,9 +24,9 @@ Kal:
     [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
     [Orb of Shielding](dm/items.md#orb-of-shielding)
   UC: Mandible Bident, Scorpion Glaive, Scorpio Armor
-    [Scorpio Armor](dm/items.md#scorpio-armor)
+    [Scorpio Armor (TODO refine this)](dm/items.md#scorpio-armor)
   R:
-Kazimir: 
+Kazimir:
   C:
     [Clockwork Amulet](dm/items.md#clockwork-amulet)
   UC: 
@@ -37,7 +38,8 @@ Kazimir:
 Mufi: 
   C:
     [Clockwork Amulet](dm/items.md#clockwork-amulet)
-  UC: Feylight Expose, Kobold Diviner's Amulet
+  UC: Feylight Expose
+    [Kobold Diviner's Amulet](dm/items.md#kobold-diviners-amulet)
     [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
     [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
   R: Obsidian Dagger, Sickle of the Sphinx
@@ -51,9 +53,12 @@ Nyari:
     [Ruby's Grasp](dm/items.md#rubys-grasp)
   R:
 
+# Aquired Loot
 ## Tier 1 (Levels 1-4)
-0/6 C
-0/4 UC
+2/6 C
+    [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+    [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+0/5 UC
 0/1 R
 
 ## Tier 2 (Levels 5-10)
@@ -74,7 +79,6 @@ Nyari:
 0/11 VR
 0/9 L
 
-# Aquired Loot
 
 
 # Available Loot

@@ -413,7 +413,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Circlet of Vitality's Focus
 *(Wondrous Item, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  While you are at full Health you gain Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit threshold for your Spell Attacks is reduced by 1.  
+  - While you are at full Health you gain Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit Threshold for your Spell Attacks is reduced by 1.  
 - **Weight**: 150 g
 - **Price**: 1800 gp
 ![\|250](https://i.imgur.com/6qI8XuC_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -861,8 +861,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Longsword, Martial Melee Weapon, Uncommon)*
 - **Reach**: 1
 - **Damage**: 1d8 + STR Slashing damage.
-- **Properties**: [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
-  - Your Attacks against Undead have Advantage and deal Radiant instead of Slashing damage with this weapon. 
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+  - With this weapon, your Attacks against Undead have Advantage and deal Radiant instead of Slashing damage.
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1.5 kg
 - **Price**: ??
@@ -1086,6 +1086,16 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: -
 - **Price**: 3,000 gp
 *(Source: PHB'24, page 230)*
+
+### Kobold Diviner's Amulet
+*(Wondrous Item, Uncommon)*
+- **Properties**:
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, if you speak Draconic: predict a number, then roll a 1d4. If you roll the predicted result you magically foretell a sliver of future possibility. You then ask the GM one question about the events that will or can occur within the next 30 minutes, which must be able to be answered with either "yes," "no," or "uncertain." At the GM's discretion, the crystal ball may alternatively show you a visual answer. *(Once per Long Rest)*
+- **Weight**: 150 g
+- **Price**: 1300 gp
+![\|250](https://i.imgur.com/et54PtN.png)
+*This necklace bears numerous rings and charms from its leather strap. The largest charm is a crystal ball, which is grasped by a draconic claw.*
+*(Source: Custom)*
 
 ## Items L
 ### Ladder
@@ -1816,7 +1826,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Weight**: 20 kg
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/eE1lwHB_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
-*This armor is made from the treated carapace of a giant scorpion.*
+*This armor is made from the treated carapace of a giant scorpion. The armored husk recoils and constricts in bright light, hindering some motion.*
 *(Source: The Griffon's Saddlebag, Customized)*
 
 ### Sending Stones
