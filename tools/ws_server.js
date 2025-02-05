@@ -23,16 +23,8 @@ const ipAddress = getLocalIpAddress();
 
 console.log(`WebSocket server is running on ws://${ipAddress}:8081`);
 
-class ConnectedPlayer
-{
-  constructor(name, socket)
-  {
-    this.socket = this.socket;
-    this.name = name;
-  }
-}
 
-let connectedClients = new Array();
+let connectedClients = new Map();
 let connectedDm = null;
 
 function onMessage(message)
@@ -42,17 +34,17 @@ function onMessage(message)
   server.clients.forEach(client => {
       if (client.readyState === WebSocket.OPEN) 
       {
-        console.log(client);
+      //  console.log(client);
       }
   });
  
   connectedClients.forEach(client => 
     {
-      console.log(client.socket);
-      if (client.socket.readyState === WebSocket.OPEN)
-      {
-        client.socket.send(message);
-      }
+      console.log(client);
+      // if (client.socket.readyState === WebSocket.OPEN)
+      // {
+      //   client.socket.send(message);
+      // }
     });
 }
 
@@ -73,8 +65,8 @@ server.on('connection', (socket) => {
       else
       {
         console.log(`'${handshakeMatch[1]}' connected!`);
-        console.log(socket);
-        connectedClients.push(new ConnectedPlayer(handshakeMatch[1], socket));
+        connectedClients.set(`${handshakeMatch[1]}`, socket);
+        console.log(connectedClients);
       }
     }
     else
