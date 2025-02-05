@@ -512,7 +512,7 @@
           console.error('Error reading the Blob as text');
           console.log(event);
         };
-        reader.readAsText(blob);
+        reader.readAsText(event.data);
       });
     }
 
