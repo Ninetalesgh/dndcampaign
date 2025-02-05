@@ -20,6 +20,8 @@ Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating
 - You have an **AC** of 14.
 - You aquire the creature's **STR, DEX, and CON**.
 - For all Skill and Save Proficiencies use the higher value between your own and the creature's stats.
+- You retain your languages and feats.
+- You choose whether your equipment falls to the ground, merges into your new form, or is worn by it.
 - You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
