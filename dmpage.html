@@ -83,33 +83,117 @@
       });
     }
 
-
+    
 // EXECUTION
 {
   const urlParams = new URLSearchParams(window.location.search);
   const host = window.location.hostname;
   const port = window.location.port;
-  let contentPageUrl = '/game_rules.md';
+
+  console.log(port);
+  console.log(host);
+
+  let contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_02.md`;
 
   for (const [key, value] of urlParams)
   {
     if (key === 'page')
     {
-      if (value.match(/(ayra|kal|kazimir|mufi|nyari)/))
+      if (value === '') {}
+      else if (value.match(/session_/))
       {
-        contentPageUrl = `/characters/${value}.md`;
-        if (port === '8080')
-        {
-          connectToLocalServer(`${value}`, host);
-        }
+        contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/${value}.md`;
       }
       else
-      {
-        contentPageUrl = `/${value}.md`;
+      {  
+        contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
       }
     }
   }
-  setContentPage(contentPageUrl);
+
+  if (port === '8080')
+      {
+        connectToLocalServer('dm', host);
+      }
+
+      const dmPages = new Array(
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_info.md`,
+        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_02.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_01.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`,
+        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
+        );
+
+      window.addEventListener('load', async () => 
+      {
+        const ul = document.createElement('ul');
+        ul.style.margin = '10px 0 0 0';
+        ul.style.padding = 0;
+        ul.style.textAlign = 'left';
+        ul.style.border = 'none';
+        
+        for (const page of dmPages)
+        {
+          await fetchMd(page).then((node) => {
+            let li = document.createElement('li');
+            const nodeName = node.name;
+            const buttonLabelParts = nodeName.replace(/^.*?\/dm.*\/([^.]+)\.md/,'$1').split('_');
+            let buttonLabel = '';
+            buttonLabelParts.forEach(part => {buttonLabel = `${buttonLabel}${part[0].toUpperCase()}${part.slice(1)} `});
+            li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${buttonLabel.slice(0,-1)}</button>`;
+            ul.appendChild(li); 
+          });
+        }
+        
+        const pageSelection = document.querySelector('.page-selection');
+        pageSelection.appendChild(ul);
+      });
+
+  setContentPage(contentPageUrl);    
+
+  window.addEventListener('paste', (event) => {
+    try 
+    {
+      const clipboardData = event.clipboardData.getData('text');
+      if (clipboardData)
+      {
+        let result = null;
+        if (clipboardData.startsWith('{'))
+        {
+          result = convert5EJsonToHtml(JSON.parse(clipboardData));
+        }
+        else if (clipboardData.trimStart().startsWith('#'))
+        {
+          result = parseMd(sortMdContentPageHeaders(clipboardData));
+        }
+        else
+        {
+          result = convertCsvToHtml(clipboardData);
+        }
+        if (result)
+        {
+          let div = document.createElement('div');
+          div.innerHTML = result;
+          applyCustomDivToView(div);
+        }
+        else
+        {
+          console.log(`No parsing for: ${clipboardData}`);
+        }
+      }
+    }
+    catch (error) 
+    {
+      console.log(error);
+      return;
+    }
+
+    event.preventDefault();
+  }); 
   
   window.addEventListener('keydown', (event) => {
     if (event.key === 'Enter')
@@ -120,7 +204,7 @@
         onPageInputFieldConfirmed();
       }
     }
-  }); 
+  });
   window.addEventListener('scroll', setNavPosition);
   window.addEventListener('resize', setNavPosition);
   window.addEventListener('load', () => {
@@ -128,7 +212,6 @@
       navigation.style.top = '0px';
   });
 }
-
   </script>
 
 </body>
