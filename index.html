@@ -500,9 +500,19 @@
       }, 
       (event) => 
       {    
-        //TODO WHAT
-        //addTemporaryEquipmentToCharacterPage(message);
-        console.log(event);
+        const reader = new FileReader();
+        reader.onload = function() 
+        {
+          const message = reader.result;
+          console.log(`Received WebSocket message '${message}'`);
+          addTemporaryEquipmentToCharacterPage(message);
+        };
+        reader.onerror = function() 
+        {
+          console.error('Error reading the Blob as text');
+          console.log(event);
+        };
+        reader.readAsText(blob);
       });
     }
 
