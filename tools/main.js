@@ -429,3 +429,45 @@ function connectToLocalServer(clientName, ip)
     reader.readAsText(event.data);
   });
 }
+
+
+// EXECUTION
+window.addEventListener('paste', (event) => {
+  try 
+  {
+    const clipboardData = event.clipboardData.getData('text');
+    if (clipboardData)
+    {
+      let result = null;
+      if (clipboardData.startsWith('{'))
+      {
+        result = convert5EJsonToHtml(JSON.parse(clipboardData));
+      }
+      else if (clipboardData.trimStart().startsWith('#'))
+      {
+        result = parseMd(sortMdContentPageHeaders(clipboardData));
+      }
+      else
+      {
+        result = convertCsvToHtml(clipboardData);
+      }
+      if (result)
+      {
+        let div = document.createElement('div');
+        div.innerHTML = result;
+        applyCustomDivToView(div);
+      }
+      else
+      {
+        console.log(`No parsing for: ${clipboardData}`);
+      }
+    }
+  }
+  catch (error) 
+  {
+    console.log(error);
+    return;
+  }
+
+  event.preventDefault();
+}); 
