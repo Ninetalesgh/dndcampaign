@@ -261,8 +261,6 @@ Whenever you roll a 1 on a d20 Test you can reroll that d20 once.
 ![\|50](https://bg3.wiki/w/images/6/68/Halfling_Luck_Icon.webp)
 
 
-
-
 # Feats
 ## Weapon Mastery
 You gain weapon masteries with the specified weapon types.
