@@ -38,11 +38,13 @@ let connectedDm = null;
 function onMessage(message)
 {
   console.log(`Forwarding: '${message}'`);
-  server.clients.forEach(client => {
-      if (client.readyState === WebSocket.OPEN) 
-      {
-          client.send(message);
-      }
+
+  connectedClients.forEach(client => 
+  {
+    if (client.socket.readyState === WebSocket.OPEN)
+    {
+      client.socket.send(message);
+    }
   });
 }
 
