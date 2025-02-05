@@ -17,8 +17,8 @@
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/kazimir.md')">Kazimir</button></li>
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/mufi.md')">Mutafa'il</button></li>
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/characters/nyari.md')">Nyari</button></li>
-              <li style="font-size:12px;">Add Temporary Equipment:</li>
-              <li style="margin-top:5px;"><input type="text" class="temp-input" style="width:80%;height:26px;"><button onclick="addTemporaryInlineLinkToCurrentPage()" class="btn-right-side" style="text-align:left;width:20%;"><img src="https://bg3.wiki/w/images/f/f2/Action_Icon.png" style="width:25px;border:none;background:transparent;border-radius:3px;padding:0;"></button></li>
+              <li style="font-size:12px;">Page Input:</li>
+              <li style="margin-top:5px;"><input type="text" class="temp-input" style="width:80%;height:26px;"><button onclick="onPageInputFieldConfirmed()" class="btn-right-side" style="text-align:left;width:20%;"><img src="https://bg3.wiki/w/images/f/f2/Action_Icon.png" style="width:25px;border:none;background:transparent;border-radius:3px;padding:0;"></button></li>
             </ul>
             <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
               <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/wildshapes.md')">Wildshapes</button></li>
@@ -347,7 +347,6 @@
 
     function toggleInlineLinkContent(inlineLink)
     {
-      console.log(inlineLink);
       let ulElement = inlineLink.parentElement;
       while (ulElement && ulElement.tagName !== "P")
       {
@@ -441,18 +440,14 @@
       });
     }
 
-    async function addTemporaryInlineLinkToCurrentPage()
+    async function addTemporaryEquipmentToCharacterPage(query)
     {
-      const tempInput = document.querySelector('.temp-input');
-      const query = tempInput.value;
-      
+      console.log(`Attempting to add '${query}' as temporary equipment.`);
       const link = `(dm/items.md#${filterSectionSpecialCharacters(query)})`;
       const node = await getIndexedContentNode(link);
       if (node)
       {
         const name = node.name;
-        console.log(node);
-        console.log('HUH');
         const equipmentNode = document.getElementById('equipment');
         if (equipmentNode)
         {
@@ -475,23 +470,62 @@
 
           div.appendChild(newP);
           div.appendChild(newPlaceholder);
-          tempInput.value = '';
+          return true;
         }
+      }      
+      return false;
+    }
+
+    async function onPageInputFieldConfirmed()
+    {
+      const tempInput = document.querySelector('.temp-input');
+      const query = tempInput.value;
+
+      sendMessageToServer(`${query}`);
+      if (await addTemporaryEquipmentToCharacterPage(`${query}`))
+      {
+        tempInput.value = '';
       }
+    }
 
-      //const result = `[${query}](dm/items.md#${query})`
-
-
-      //find equipment h
-      //find item
-      
+    function connectToLocalServer(clientName, ip)
+    {
+      console.log(`Attempting to WebSocket connect to '${ip}' with name '${clientName}'.`);
+      connectWebsocket(clientName, ip,
+      () =>
+      {
+        webSocket.send(`'${clientName}' handshake!`);
+        console.log(`WebSocket connection established with '${ip}'`);
+      }, 
+      (event) => 
+      {    
+        const reader = new FileReader();
+        reader.onload = function() 
+        {
+          const message = reader.result;
+          console.log(`Received WebSocket message '${message}'`);
+          addTemporaryEquipmentToCharacterPage(message);
+        };
+        reader.onerror = function() 
+        {
+          console.error('Error reading the Blob as text');
+          console.log(event);
+        };
+        reader.readAsText(event.data);
+      });
     }
 
     // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);
-      
+      const host = window.location.hostname;
+      const port = window.location.port;
+
+      console.log(port);
+      console.log(host);
+
       let contentPageUrl = '/game_rules.md';
+
       for (const [key, value] of urlParams)
       {
         if (key === 'page')
@@ -499,6 +533,10 @@
           if (value.match(/(ayra|kal|kazimir|mufi|nyari)/))
           {
             contentPageUrl = `/characters/${value}.md`;
+            if (port === '8080')
+            {
+              connectToLocalServer(`${value}`, host);
+            }
           }
           else
           {
@@ -517,6 +555,11 @@
             contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
           }
           
+          if (port === '8080')
+          {
+            connectToLocalServer('dm', host);
+          }
+
           const dmPages = new Array(
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
             `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
@@ -604,7 +647,7 @@
           const tempInput = document.querySelector('.temp-input');
           if (tempInput === document.activeElement)
           {
-            addTemporaryInlineLinkToCurrentPage();
+            onPageInputFieldConfirmed();
           }
         }
       });
@@ -614,8 +657,6 @@
           const navigation = document.querySelector('.navigation');
           navigation.style.top = '0px';
       });
-
-      websocketTest();
     }
   </script>
 

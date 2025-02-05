@@ -1105,7 +1105,7 @@ A creature killed by this damage is dragged through a planar rift to Thanatos.
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a gout of burning toxic fumes emerges from its wound in a length 3 *(4.5m)* cone. Each creature in the area must succeed on a DEX Save or take 10 (3d6) fire plus 10 (3d6) Poison damage, or half as much on a success.
+One allied demon you can see within 12 *(18m)* takes 15 Slashing damage and a gout of burning toxic fumes emerges from its wound in a length 3 *(4.5m)* cone. Each creature in the area must succeed on a DEX Save or take 3d6 fire plus 3d6 Poison damage, or half as much on a success.
 - **Classes**: Warlock
 *(Source: ConfluxCreatures)*
 

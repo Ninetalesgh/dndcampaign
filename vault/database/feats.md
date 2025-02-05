@@ -20,6 +20,8 @@ Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating
 - You have an **AC** of 14.
 - You aquire the creature's **STR, DEX, and CON**.
 - For all Skill and Save Proficiencies use the higher value between your own and the creature's stats.
+- You retain your languages and feats.
+- You choose whether your equipment falls to the ground, merges into your new form, or is worn by it.
 - You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
@@ -79,18 +81,18 @@ Additionally, when you take the Attack action, you can forgo one of your own att
 After every Short- or Long Rest you can conjure a book, you determine its appearance.
 This Book of Shadows contains eldritch magic that only you can access, granting you the ability to cast extra spells while it is on your person. The book disappears if you conjure another book or if you die.
 **Cantrips and Rituals.** When the book appears, choose 3 Cantrips from any class's spell list and 2 spells from the following list:
-[Alarm (Ritual)](spells.md#alarm)
-[Ceremony (Ritual)](spells.md#ceremony)
-[Comprehend Languages (Ritual)](spells.md#comprehend-languages)
-[Detect Magic (Ritual)](spells.md#detect-magic)
-[Detect Poison and Disease (Ritual)](spells.md#detect-poison-and-disease)
-[Find Familiar (Ritual)](spells.md#find-familiar)
-[Identify (Ritual)](spells.md#identify)
-[Illusory Script (Ritual)](spells.md#illusory-script)
-[Purify Food and Drink (Ritual)](spells.md#purify-food-and-drink)
-[Speak with Animals (Ritual)](spells.md#speak-with-animals)
-[Tenser's Floating Disk (Ritual)](spells.md#tensers-floating-disk)
-[Unseen Servant (Ritual)](spells.md#unseen-servant)
+[Alarm](spells.md#alarm)
+[Ceremony](spells.md#ceremony)
+[Comprehend Languages](spells.md#comprehend-languages)
+[Detect Magic](spells.md#detect-magic)
+[Detect Poison and Disease](spells.md#detect-poison-and-disease)
+[Find Familiar](spells.md#find-familiar)
+[Identify](spells.md#identify)
+[Illusory Script](spells.md#illusory-script)
+[Purify Food and Drink](spells.md#purify-food-and-drink)
+[Speak with Animals](spells.md#speak-with-animals)
+[Tenser's Floating Disk](spells.md#tensers-floating-disk)
+[Unseen Servant](spells.md#unseen-servant)
 ![\|50](https://bg3.wiki/w/images/3/3e/Pact_of_the_Tome_Icon.webp)
 *(Source: PHB'24, page 157)*
 
