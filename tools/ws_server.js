@@ -29,16 +29,19 @@ let connectedDm = null;
 
 function onMessage(message)
 {
-  console.log(`Forwarding: '${message}'`); 
+  //TODO filtering here
+  console.log(`Forwarding '${message}' to:`); 
   for (let [key, value] of connectedClients)
   {
     if (value instanceof WebSocket && value.readyState === WebSocket.OPEN)
     {
+      console.log(`  '${key}'`);
       value.send(message);
     }
   }
 }
 
+let unnamedClientIndex = 0;
 server.on('connection', (socket) => {
   socket.on('message', (message) => {
     const handshakeMatch = message.toString().match(/'(.*)' handshake!/);
@@ -61,23 +64,32 @@ server.on('connection', (socket) => {
     }
     else
     {
-      console.log(`Received message '${message}', not allowing the connection.`);
-      socket.close();
+      connectedClients.set(`unnamed_client_${unnamedClientIndex++}`, socket);
+      //console.log(`Received message '${message}', not allowing the connection.`);
+      //socket.close();
     }
   });
 
-  socket.on('close', () => {
-      
-      let client = connectedClients.find((client) => client.socket === socket);
-      if (client)
+  socket.on('close', () => { 
+    let name = null;
+    for (let [key, value] of connectedClients)
+    {
+      if (value === socket)
       {
-        //TODO remove from client list
-        console.log(`'${client.name}' disconnected`);
+        name = key;
+        break;
       }
-      else
-      {
-        console.log('A client disconnected');
-      }
+    }
+    
+    if (name)
+    {
+      console.log(`'${name}' disconnected`);
+      connectedClients.delete(name);
+    }
+    else
+    {
+      console.log('A client disconnected');
+    }
   });
 });
 
