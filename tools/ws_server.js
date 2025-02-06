@@ -27,9 +27,25 @@ console.log(`WebSocket server is running on ws://${ipAddress}:8081`);
 let connectedClients = new Map();
 let connectedDm = null;
 
+function fetchClientByName(name)
+{
+  
+}
+
 function onMessage(message)
 {
   //TODO filtering here
+  const matches = message.matches(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
+
+  for (let match of matches)
+  {
+    if (match[1])
+    {
+
+    } 
+    match[2]
+  }
+
   console.log(`Forwarding '${message}' to:`); 
   for (let [key, value] of connectedClients)
   {
