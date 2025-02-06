@@ -29,23 +29,14 @@ let connectedDm = null;
 
 function onMessage(message)
 {
-  console.log(`Forwarding: '${message}'`);
-
-  server.clients.forEach(client => {
-      if (client.readyState === WebSocket.OPEN) 
-      {
-      //  console.log(client);
-      }
-  });
- 
-  connectedClients.forEach(client => 
+  console.log(`Forwarding: '${message}'`); 
+  for (let [key, value] of connectedClients)
+  {
+    if (value instanceof WebSocket && value.readyState === WebSocket.OPEN)
     {
-      console.log(client);
-      // if (client.socket.readyState === WebSocket.OPEN)
-      // {
-      //   client.socket.send(message);
-      // }
-    });
+      value.send(message);
+    }
+  }
 }
 
 server.on('connection', (socket) => {
@@ -66,7 +57,6 @@ server.on('connection', (socket) => {
       {
         console.log(`'${handshakeMatch[1]}' connected!`);
         connectedClients.set(`${handshakeMatch[1]}`, socket);
-        console.log(connectedClients);
       }
     }
     else
