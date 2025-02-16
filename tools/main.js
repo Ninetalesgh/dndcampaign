@@ -426,6 +426,8 @@ function connectToLocalServer(clientName, ip)
       console.error('Error reading the Blob as text');
       console.log(event);
     };
+    console.log(event);
+    console.log(event.data);
     reader.readAsText(event.data);
   });
 }
