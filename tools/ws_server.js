@@ -34,9 +34,8 @@ function fetchClientByName(name)
 
 function onMessage(message)
 {
-  const messageString = `${message}`;
   //TODO filtering here >||NAME||< 
-  const matches = messageString.match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
+  const matches = message.toString().match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
 
   if (matches)
   {
@@ -45,13 +44,13 @@ function onMessage(message)
     //send match[2] to only that client / those clients?
   }
 
-  console.log(`Forwarding '${messageString}' to:`); 
+  console.log(`Forwarding '${message}' to:`); 
   for (let [key, socket] of connectedClients)
   {
     if (socket instanceof WebSocket && socket.readyState === WebSocket.OPEN)
     {
       console.log(`  '${key}'`);
-      socket.send(messageString);
+      socket.send(message);
     }
   }
 }
