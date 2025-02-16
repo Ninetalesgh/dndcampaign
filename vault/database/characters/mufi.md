@@ -34,7 +34,7 @@
 ### Weapons
 - **STR Based Attack Modifier**: +1 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +5 *(PB + DEX)*.
-  [Goblin Shortbow](dm/items.md#shortbow)
+  [Shortbow](dm/items.md#shortbow)
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
 ### Other
