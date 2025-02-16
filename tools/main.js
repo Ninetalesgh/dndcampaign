@@ -413,22 +413,29 @@ function connectToLocalServer(clientName, ip)
     console.log(`WebSocket connection established with '${ip}'`);
   }, 
   (event) => 
-  {    
-    const reader = new FileReader();
-    reader.onload = function() 
+  {
+    if (event && event.data instanceof String)
     {
-      const message = reader.result;
+      const message = event.data;
       console.log(`Received WebSocket message '${message}'`);
       addTemporaryEquipmentToCharacterPage(message);
-    };
-    reader.onerror = function() 
+    }
+    else
     {
-      console.error('Error reading the Blob as text');
-      console.log(event);
-    };
-    console.log(event);
-    console.log(event.data);
-    reader.readAsText(event.data);
+      const reader = new FileReader();
+      reader.onload = function() 
+      {
+        const message = reader.result;
+        console.log(`Received WebSocket message '${message}'`);
+        addTemporaryEquipmentToCharacterPage(message);
+      };
+      reader.onerror = function() 
+      {
+        console.error('Error reading the Blob as text');
+        console.log(event);
+      };
+      reader.readAsText(event.data);
+    }
   });
 }
 
