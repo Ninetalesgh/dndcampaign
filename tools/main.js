@@ -414,13 +414,7 @@ function connectToLocalServer(clientName, ip)
   }, 
   (event) => 
   {
-    if (event && event.data instanceof String)
-    {
-      const message = event.data;
-      console.log(`Received WebSocket message '${message}'`);
-      addTemporaryEquipmentToCharacterPage(message);
-    }
-    else
+    if (event.data instanceof Blob)
     {
       const reader = new FileReader();
       reader.onload = function() 
@@ -435,6 +429,12 @@ function connectToLocalServer(clientName, ip)
         console.log(event);
       };
       reader.readAsText(event.data);
+    }
+    else
+    {
+      const message = event.data;
+      console.log(`Received WebSocket message '${message}'`);
+      addTemporaryEquipmentToCharacterPage(message);
     }
   });
 }
