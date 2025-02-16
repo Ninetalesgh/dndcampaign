@@ -34,23 +34,36 @@ function fetchClientByName(name)
 
 function onMessage(message)
 {
-  //TODO filtering here >||NAME||< 
-  const matches = message.toString().match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
-
-  if (matches)
+  if (message.toString().match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm'))
   {
-    //TODO
-    //find match[1] in connectedClients
-    //send match[2] to only that client / those clients?
-  }
-
-  console.log(`Forwarding '${message}' to:`); 
-  for (let [key, socket] of connectedClients)
-  {
-    if (socket instanceof WebSocket && socket.readyState === WebSocket.OPEN)
+    const regex = /^>\|\|([a-z]+)\|\|<\s(.*)/gm;
+    let match;
+    while ((match = regex.exec(message.toString())) !== null)
     {
-      console.log(`  '${key}'`);
-      socket.send(message);
+      //Sending message to specific clients
+      for (let [key, socket] of connectedClients)
+      {
+        if (key === match[1] && socket instanceof WebSocket && socket.readyState === WebSocket.OPEN)
+        {
+          console.log(`Forwarding '${match[2]}' to:`); 
+          console.log(`  '${key}'`);
+          socket.send(match[2]);
+          break;
+        }
+      }
+    }
+  }
+  else
+  {
+    //Sending message to all clients
+    console.log(`Forwarding '${message}' to:`); 
+    for (let [key, socket] of connectedClients)
+    {
+      if (socket instanceof WebSocket && socket.readyState === WebSocket.OPEN)
+      {
+        console.log(`  '${key}'`);
+        socket.send(message);
+      }
     }
   }
 }
