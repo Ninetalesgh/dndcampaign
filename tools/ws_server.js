@@ -34,16 +34,14 @@ function fetchClientByName(name)
 
 function onMessage(message)
 {
-  //TODO filtering here
+  //TODO filtering here >||NAME||< 
   const matches = message.matches(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
 
-  for (let match of matches)
+  if (matches)
   {
-    if (match[1])
-    {
-
-    } 
-    match[2]
+    //TODO
+    //find match[1] in connectedClients
+    //send match[2] to only that client / those clients?
   }
 
   console.log(`Forwarding '${message}' to:`); 
