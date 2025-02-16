@@ -34,9 +34,9 @@ function fetchClientByName(name)
 
 function onMessage(message)
 {
-  if (message.toString().match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm'))
+  if (message.toString().match(/>\|\|([a-zA-Z0-9\s,]+)\|\|<\s(.*)/, 'gm'))
   {
-    const regex = /^>\|\|([a-z]+)\|\|<\s(.*)/gm;
+    const regex = />\|\|([a-zA-Z0-9\s,]+)\|\|<\s([^(?:>\|\|)]*)/gm;
     let match;
     while ((match = regex.exec(message.toString())) !== null)
     {
@@ -45,9 +45,9 @@ function onMessage(message)
       {
         if (key === match[1] && socket instanceof WebSocket && socket.readyState === WebSocket.OPEN)
         {
-          console.log(`Forwarding '${match[2]}' to:`); 
+          console.log(`Forwarding '${match[2].trim()}' to:`); 
           console.log(`  '${key}'`);
-          socket.send(match[2]);
+          socket.send(match[2].trim());
           break;
         }
       }
