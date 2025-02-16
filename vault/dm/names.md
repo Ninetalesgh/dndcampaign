@@ -1,5 +1,4 @@
 ### Human Names
-???? Whitlock
 Alaric Vayne
 Gideon Thorne
 Jasper Blackthorn
