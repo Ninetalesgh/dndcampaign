@@ -55,6 +55,14 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 
 **Potential Reward**: [Sending Stones](dm/items.md#sending-stones)
 
+## The Upper City
+
+[TODO] Merchants, Council meeting, 1 or two NPC roles prepared
+[TODO] **Grand Factor Silan Thornvale** -> Balding, White Robe.
+-
+- Clean polished marble plates and ornate wood guard rails.
+
+
 ## The Undercity
 
 ### The Stockpile
@@ -133,6 +141,58 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 
   - A gentle downwards current, pressing through the wood door.
 
+## The Crypt
+
+[Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
+[Barrow Wights (1)](dm/monsters.md#barrow-wight)
+[Zombie (1/4)](dm/monsters.md#zombie)
+[Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
+[Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
+[Shadows (1/2)](dm/monsters.md#shadow)
+
+[Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard)
+[Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube)
+
+### The Crypt Level 0
+**See Screenshot**
+Loot: 
+[Halric Varron's Blade](dm/items.md#halric-varrons-blade)
+[Thalioel's Tear](dm/items.md#thalioels-tear)
+
+### The Honorable Room
+[TODO] Room contents
+
+### Room Of Ash
+- Lots of urns, some shattered, ash in the air during combat, bad vision.
+Monsters: 
+[Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
+
+Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+
+### Engine Room
+
+[TODO] Engine Build. How it works, how it suppresses magic, etc.
+
+- General Monsters:
+[Air Mephit (1/2)](dm/monsters.md#air-mephit)
+[Steam Mephit (1/2)](dm/monsters.md#steam-mephit)
+[Glass Mephit (1/4)](dm/monsters.md#glass-mephit)
+[Magma Mephit (1)](dm/monsters.md#magma-mephit)
+[Magmin (1/2)](dm/monsters.md#magmin)
+[Geonid (1/4)](dm/monsters.md#geonid)
+
+
+
+
+## The High Road
+- [Delia Leabrace](dm/npcs.md#delia-leabrace)
+
+- Blights attack Delia on the high road. They grew out of the ground there and corrupt the flowers and vines.
+
+[Needle Blights (1/2)](dm/monsters.md#needle-blight)
+[Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
+[Vine Blight (1)](dm/monsters.md#vine-blight)
+
 # Secrets
 
 - The Goblins are a scouting branch with leader **Fizzra**, so far they have only stolen livestock. 
@@ -169,6 +229,7 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 thief threatens XYZ and then rushes to sewer entrance
 > Kazimir knows Berric's jittering hand symptoms as likely caused by Black Lotus, which.. well, refining it makes money.
 
+[TODO] Some of the elves in the crypt are from scorpion tribe? makes for great loot spots.
 
 [TODO] Bok NPC (Kazimir student colleague)
 
@@ -179,8 +240,6 @@ Alenna gets reprimanded by Dain for not having enough power for purifications th
 Evil priest begins to cast spell on child, Alenna steps in, alenna gets hit.
 
 Council with Dain, Merchants, and Academy members want a report from players. (topic of putting evil priest in position of waukeen's chapel comes up as tangent?) 
-
-Nettle Blights attack Delia on the high road.
 
 Trepidation (feeling of fear or anxiety about something that may happen.)
 

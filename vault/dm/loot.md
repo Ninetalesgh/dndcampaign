@@ -86,8 +86,8 @@ Nyari:
 ## Common
 [Greenthumb Whittler](dm/items.md#greenthumb-whittler)
 [Redsmith Crucible Set](dm/items.md#redsmith-crucible-set)
-[Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
-[Orb of Shielding](dm/items.md#orb-of-shielding)
+given: [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
+given: [Orb of Shielding](dm/items.md#orb-of-shielding)
 [Clockwork Amulet](dm/items.md#clockwork-amulet)
 [Horn of Silent Alarm](dm/items.md#horn-of-silent-alarm)
 [Owlbear Leather Armor](dm/items.md#owlbear-leather-armor)

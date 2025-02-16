@@ -283,7 +283,6 @@ The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of
 
 [Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube) scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved. A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
-F
 ## Plant
 ### Blights
 Awakened plants gifted with the powers of intelligence and mobility, blights plague lands contaminated by darkness. Drinking that darkness from the soil, a blight carries out the will of ancient evil and attempts to spread that evil wherever it can.

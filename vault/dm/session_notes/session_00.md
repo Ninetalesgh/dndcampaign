@@ -44,7 +44,7 @@ Alpine trade city of New Arvandal, sitting in the Stormhorns, between Tyrluk and
 - Mufi keeps keychain "Handle with care! If lost, retur.." Burnt off leather.
 
 ## Nyari Investigates the Pollution
-- **Florist Delia Leabrace.** Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel eyes, barefoot. 
+- [Delia Leabrace](dm/npcs.md#delia-leabrace) Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel eyes, barefoot. 
 - [Alenna Harvestsong](dm/npcs.md#alenna-harvestsong) -> Dark hair, warm brown skin tone. orange white robes dusted from gardening.
 - Nyari up on the high road with Alenna and Delia, she wants to show you what Delia has been dealing with. 
 - The warmth of the road beneath your feet, heated by the sun.
