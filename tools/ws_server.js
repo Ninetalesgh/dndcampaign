@@ -35,7 +35,7 @@ function fetchClientByName(name)
 function onMessage(message)
 {
   //TODO filtering here >||NAME||< 
-  const matches = message.matches(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
+  const matches = message.match(/^>\|\|([a-z]+)\|\|<\s(.*)/, 'gm');
 
   if (matches)
   {
