@@ -2042,7 +2042,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Wondrous Item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
   - You gain [Resistance](game_rules.md#damage-types#resistance) to Cold and Necrotic damage.
-  - You have [Truesight against Dragons 12 *(18m)*](game?rules.md#special-senses#truesight).
+  - You have [Truesight against Dragons 12 *(18m)*](game_rules.md#special-senses#truesight).
 - **Weight**: 20 g
 - **Price**: 3000 gp
 ![\|250](https://i.imgur.com/I8pLAkO.png)
