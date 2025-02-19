@@ -1,5 +1,6 @@
 # Known Concoctions
-Refer to the rules for creating [Concoctions](dm/item_info.md#concoctions).
+Refer to the rules for [Gathering Ingredients](dm/item_info.md#gathering-ingredients) and [Brewing Concoctions](dm/item_info.md#concoctions).
+
 
 [Bonecap](dm/items.md#bonecap) -> [Basic Poison](dm/items.md#basic-poison)
 

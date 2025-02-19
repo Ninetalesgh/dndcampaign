@@ -9238,6 +9238,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 - **Range**: Self
 - **Components**: V
 - **Duration**: 1 minute 
+[TODO] this is to be changed, too much overlap with Ensnaring Strike. 
 The target takes an extra 1d6 Radiant damage from the attack, and it must succeed on a STR Save or be [Restrained](conditions.md#restrained) until the spell ends. Large or larger creatures have Advantage on this Save. At the end of each of its turns, the [Restrained](conditions.md#restrained) target repeats the save, ending the spell on itself on a success.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 and the STR Save DC by 1 for each spell slot level above 1.
 - **Classes**: Paladin
