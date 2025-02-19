@@ -3,9 +3,10 @@
 Instead of **Short Rest** a PC can choose to gather ingredients instead.
 Harvesting dead creatures can also work.
 
-In city CHA (Persuasion) ? 
-In wilderness WIS (Survival) ?
-In dungeons, buildings, etc INT (Investigation) ?
+[TODO]
+In city CHA (Persuasion) to find and convince appropriate merchants. 
+In wilderness WIS (Survival) to find ingredients in the wild.
+In dungeons, buildings, etc INT (Investigation) to dig through drawers, containers, laboratories or the like.
 
 | Roll | Result |
 | ---: | :------ |

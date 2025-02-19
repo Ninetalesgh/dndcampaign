@@ -169,13 +169,13 @@ Her notes found in The Red Estate's basement:
   How Zephyr Elster was pushed into The Council by his father Thedran Elster, instead of Elinna Vinea's son Maron. 
     Maron was such a kind but fierce young man, he would have made a desperately needed change of course for House Elster.    
 - About The Selera Ritual:
-  > [!WARNING] TODO
+  > [!TODO]
 - About The Blood Curse:
   How the ritual could drain power from the contained cursed souls for fuel. 
 - About Tazlyn:
   How kind of a teacher she was.
   How her concern is understandable, but short sighted. 
-  "I am aware the power I pursue comes with risk, but the gain could be much greater."   
+  "I am aware the power I pursue comes with risk, but the gain could be much greater. Protecting Arvandral must be worth it."   
 ### Halric Varron
 Human, M. (b. 891 DR - d. 935 DR)
 He was captain of The Guard just before The Collapse, 
