@@ -155,21 +155,80 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 
 ### The Crypt Level 0
 **See Screenshot**
-Loot: 
-[Halric Varron's Blade](dm/items.md#halric-varrons-blade)
-[Thalioel's Tear](dm/items.md#thalioels-tear)
+  - Upon entering the water sloshes to the right, as the entire structure on the right is tilted and lowered down by a step.
+  - Right at the entrance is an altar showing an **elster** and a **vine** next to each other with a metal placard that reads:
+     "Bound in trust, as the vine binds the earth
+     and the elster soars the sky.
+     Here lies the legacy of unity, where strength
+     and commerce met with unshakable trust."
 
-### The Honorable Room
+#### The Crypt Level 0, Left
+- **Tombs**:
+  **TOP**
+  - A sarcophagus accessible through the narrow path between collapsed structures 
+  - Contains: ring that grants Proficiency in Persuasion (Attunement) [TODO],
+   silver (30) gold (50), two rings with ornate designs (worth 120 and 80) 
+    **Read**:
+      "In every handshake, a promise; in every journey, a tale.
+      **Liora Vinea**
+      Merchant of Fortune, Friend of All Lands
+      852 DR — 933 DR
+      A visionary diplomat who proved that 
+      tradition is but a guide, not a chain.
+      The Feathered Vine Liora brought the world closer and wove unity where none had been. May Liora's steps echo eternally among the stars."
+
+  **LEFT**
+  - The estate tower that is visible from the ruins above crashed into the crypt and pushed the sarcophagus forward. 
+  - The tower is identifyable by a **gothic window frame**, must have originally been above ground floor.
+  - Contains: silver (20) gold (70), 
+  [Thalioel's Tear](dm/items.md#thalioels-tear), a warm red tear shaped amulet.
+    **Read**:
+      "**Tazlyn Stonewright**
+      Master Architect of Stone and Spirit
+      Her hands shaped halls and paths for Dwarves and Humans,
+      Her vision carved the future in granite and stone.
+      Born: 681 DR — Died: 930 DR
+      A legacy built in stone, spanning cultures,
+      Her walls still stand, and her name still echoes,
+      From the great estates of men to the deepest halls of dwarven kind.
+      Rest now in the halls you built, Tazlyn, for your work endures— eternal."
+
+  **BOTTOM**
+  - A tomb accessible behind collapsed narrow paths and two thin walls to break through.
+  - Contains: [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
+   Silver (40) gold (30), a gold ring (worth 50) 
+    **Read**:
+      "In the face of darkness, he stood unyielding,
+      A heart of courage, a shield for the people.
+      **Captain Halric Varron**
+      Born: 891 DR — Died: 935 DR
+      Though the mysteries of the night elude us,
+      His resolve to protect never faltered.
+      May his watch now end, his spirit at peace."
+#### The Crypt Level 0, Right
+
+  **TOP**
+  - The entire corridor collapsed and tilts down, the water sloshing in from the entrance flows here.
+  - Rubble and dirt prevents the water from flowing faster, breaking through the rubble lets the water flow further down through a rock crevasse.
+    **IF TENSION IS NEEDED**: The water from above keeps flowing in - the water level rises until this drain is unclogged. Once unclogged, there is a strong current until the water level is back to ankle deep.
+
+  **RIGHT**
+  - This corridor is elevated higher than the entrance level on the other side, Water will fill up here last. 
+  - The gap to climb through quite tight, but manageable even for larger humans.
+  - On the right side the floor collapsed and there is a gap leading down to **The Crypt Level 1**.
+
+### The Crypt Level 1
+#### The Honorable Room
 [TODO] Room contents
 
-### Room Of Ash
+#### Room Of Ash
 - Lots of urns, some shattered, ash in the air during combat, bad vision.
 Monsters: 
 [Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
 
 Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 
-### Engine Room
+#### Engine Room
 
 [TODO] Engine Build. How it works, how it suppresses magic, etc.
 
@@ -180,8 +239,6 @@ Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 [Magma Mephit (1)](dm/monsters.md#magma-mephit)
 [Magmin (1/2)](dm/monsters.md#magmin)
 [Geonid (1/4)](dm/monsters.md#geonid)
-
-
 
 
 ## The High Road
@@ -248,5 +305,4 @@ Parties involved in grasping power in the city:
 - Dain and the Guard (Wants to gentrify the Stockpile to stabilize their finances against the merchants' influence)
 - Thieves' Guild (Wants independent trade flow from Dain, independence from the merchants)
 
-
-
+Dalereckoning (DR) and Cormyr Reckoning (CR = DR-25) both used in the past, New Arvandal is using primarily DR historically because of the closeness to the elves of Cormanthyr.

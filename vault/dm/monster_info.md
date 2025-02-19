@@ -262,6 +262,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 
 ## Monstrosity
+### Stirge
 [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer)
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
 
@@ -272,9 +273,10 @@ Blood Drain. A stirge attacks by landing on a victim, finding a vulnerable spot,
 
 ![\|250](https://5e.tools/img/bestiary/MM/Stirge.webp)
 
-
+### Worg
 A [Worg (1/2)](dm/monsters.md#worg) is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
+### Cockatrice
 The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. 
   It flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from its beak can spell doom as its victim slowly turns to stone from the injury.
 

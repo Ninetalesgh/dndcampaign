@@ -1,11 +1,31 @@
 # Item Info
+## Gathering Ingredients
+Instead of **Short Rest** a PC can choose to gather ingredients instead.
+Harvesting dead creatures can also work.
+
+In city CHA (Persuasion) ? 
+In wilderness WIS (Survival) ?
+In dungeons, buildings, etc INT (Investigation) ?
+
+| Roll | Result |
+| ---: | :------ |
+| 1-5  | Nothing |
+| 6-10 | Info about what could be found |
+| 11-20 | 1d4 Ingredients |
+| 21-25 | 2d4 Ingredients |
+| 26-30 | 3d4 Ingredients |
+| 30+ | 4d4 Ingredients |
+
+[TODO]
 
 ## Concoctions
-At the end of every Long Rest, you can convert one Ingredient into a related Concoction with the according Tools.
+At the end of every Long Rest, you can convert one Ingredient into a related Concoction with Tools.
 
-Concoctions are: Elixirs, Coatings, Grenades, or Potions.
+Concoctions can be consumables (like Potions or Elixirs), weapon coatings, or throwables.
 
-[TODO] Mechanics for finding out what concoctions an ingredient is good for?  
+Concoction has some DC, depending on the circumstances it's easier or harder to brew. (access to a laboratory, etc.)
+
+[TODO] Specify mechanics for finding out what concoctions an ingredient is good for?  
 
 ## Crafting
 [TODO] Crafting Read as Written is kind of weird. so not sure I want to do it like that.

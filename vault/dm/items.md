@@ -1,9 +1,10 @@
 ## Items A
 ### Acid Vial
-*(grenade, Common)*
-- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
-  *Effect Range:* 1 target
-  *Effect:* 2d6 Acid damage or half on a successful Save.
+*(concoction, Common)*
+- **Properties**: 
+  - [Throw Grenade](dm/item_info.md#throw-grenade)
+    *Effect Range:* 1 target
+    *Effect:* 2d6 Acid damage or half on a successful Save.
 - **Weight**: 500 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/7/73/GRN_Acid_Vial_Unfaded_Icon.png)
@@ -33,10 +34,11 @@
 *(Source: PHB'24, page 230)*
 
 ### Alchemist's Fire
-*(grenade, Common)*
-- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
-  *Effect Range:* 1 target
-  *Effect:* 1d6 Fire damage and [Burning (1d6)](conditions.md#burning) or half and no condition on a successful Save.
+*(conction, Common)*
+- **Properties**: 
+  - [Throw Grenade](dm/item_info.md#throw-grenade)
+    *Effect Range:* 1 target
+    *Effect:* 1d6 Fire damage and [Burning (1d6)](conditions.md#burning) or half and no condition on a successful Save.
 - **Weight**: 500 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/2/29/GRN_Alchemist%27s_Fire_Unfaded_Icon.png)
@@ -71,10 +73,11 @@
 *(Source: Baldur's Gate 3)*
 
 ### Antidote
-*(potion, Common)*
-- **Properties**: [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion).
-  *Effect:* End [Poisoned](conditions.md#poisoned) and gain Advantage on Saves against the condition for 1 hour.
-- **Weight**: -
+*(concoction, Common)*
+- **Properties**: 
+  [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion)
+    *Effect:* End [Poisoned](conditions.md#poisoned) and gain Advantage on Saves against the condition for 1 hour.
+- **Weight**: 150 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/6/60/POT_Antidote_Unfaded_Icon.png)
 *(Source: PHB'24, page 222)*
@@ -121,10 +124,11 @@ It takes 10 minutes to recover the Ball Bearings.
 *(Source: PHB'24, page 224)*
 
 ### Basic Poison
-*(coating, Common)*
-- **Properties**: [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating).
-  *Effect:* Deal an additional 1d4 Poison damage on Hit.
-  *Duration:* 1 minute or 3 hits.
+*(concoction, Common)*
+- **Properties**: 
+  [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating)
+    *Effect:* Deal an additional 1d4 Poison damage on Hit.
+    *Duration:* 1 minute or 3 hits.
 - **Weight**: -
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/0/0f/COAT_Basic_Poison_Unfaded_Icon.png)
@@ -298,16 +302,15 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d6 + STR Piercing damage.
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is free: Apply a vial or flask containing either a [Grenade or a Coating](dm/item_info.md#concoctions) or an empty vial to the hilt of this weapon, occupying the hilt. This consumes the Grenade or Coating.
-      - **Grenade**: The next 2 hits apply the grenade to the target as if you threw it, the DEX Save DC to evade the grenade effect is increased by the damage dealt by each respective hit.
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is free: Apply a vial or flask containing a [Concoction](dm/item_info.md#concoctions) or an empty vial to the hilt of this weapon, occupying the hilt. This consumes the Concoction.
+      - **Throwable**: The next 2 hits apply the effect to the target as if you threw it, the DEX Save DC to evade the effect is increased by the damage dealt by each respective hit.
       - **Coating**: The Coating is applied and its duration (use and time) is tenfold. 
       - **Empty Vial**: Drain blood into the vial. A vial is full after 20 damage done to HP of targets which can bleed with this weapon. 
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is occupied: Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a grenade that still has hits left, you have to succeed the DEX Save as if you threw the grenade at yourself.
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is occupied: Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a throwable that still has hits left, you have to succeed the DEX Save as if you threw it at yourself.
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, if the hilt is occupied: Carefully Eject the current vial or flask.
-    - **Grenade**: If it still has all of its uses remaining, you regain the initial Item.
-    - **Coating**: Coatings always start drying out, and are lost once applied, you 
-    - **Empty Vial**: 
-
+    - **Throwable**: If it still has all of its uses remaining, you regain the initial Item.
+    - **Coating**: Coatings always start drying out, and are lost once applied.
+    - **Empty Vial**: If the vial is full, you receive a vial full of blood (of whichever creatures bled into the blade).
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 1 kg
 - **Price**: 1500 gp
@@ -358,6 +361,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: 1 kg
 - **Price**: ??
 ![\|250](https://i.imgur.com/kWnCoEX.png)
+*With each swing, a veil of ash drifts through the air, carrying whispers of the lost. Their wails, a sorrowful chorus that lingers like the embers of a life extinguished.*
 *(Source: Custom)*
 
 ### Chain
@@ -654,6 +658,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Weight**: 200 g
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/ZpjO4RN_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*It is a rare thing to see through the deception of the otherworldly without revealing your own face in turn. This mask grants just that.*
 *(Source: Custom)*
 
 ### Fine Clothes
@@ -854,7 +859,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: Disadvantage on Dexterity (Stealth) checks.
 - **Weight**: 20 kg
 - **Price**: 750 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 219)*
 
 ### Halric Varron's Blade
@@ -862,11 +867,12 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d8 + STR Slashing damage.
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
-  - With this weapon, your Attacks against Undead have Advantage and deal Radiant instead of Slashing damage.
+  - With this weapon, your Attacks against Undead have Advantage and deal either Radiant or Slashing damage (your choice).
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1.5 kg
 - **Price**: ??
 ![\|250](https://i.imgur.com/uaE48P1.png)
+*The only part of this blade untouched by rust is the unwavering duty it instills in its wielder—to protect the innocent at all costs.*
 *(Source: Custom)*
 
 ### Hand Crossbow
@@ -932,7 +938,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Source: PHB'24, page 219)*
 
 ### Holy Water
-*(grenade, Common)*
+*(concoction, Common)*
 - **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
   *Effect Range:* 1 target
   *Effect:* 2d8 Radiant damage if it is a Fiend or Undead or half on a successful Save.
@@ -1120,7 +1126,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 3 kg
 - **Price**: 10 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 215)*
 
 ### Leather Armor
@@ -1398,14 +1404,15 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ## Items O
 ### Oil
-*(grenade, Common)*
-- **Properties**: [Throw Grenade](dm/item_info.md#throw-grenade).
-  *Effect Range:* 1 target
-  *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning). 
+*(concoction, Common)*
+- **Properties**: 
+  - [Throw Grenade](dm/item_info.md#throw-grenade)
+    *Effect Range:* 1 target
+    *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning). 
 
-  *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. 
+  - *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. 
 
-  *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#hooded-lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
+  - *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#hooded-lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
 - **Weight**: 500 g
 - **Price**: 1 sp
 *(Source: PHB'24, page 227)*
@@ -1464,7 +1471,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: Disadvantage on Dexterity (Stealth) checks.
 - **Weight**: 4 kg
 - **Price**: 5 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 219)*
 
 ### Painter's Supplies
@@ -1538,7 +1545,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
   - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
 - **Weight**: 33 kg
 - **Price**: 1500 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 219)*
 
 ### Playing Cards
@@ -1583,10 +1590,11 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Source: PHB'24, page 228)*
 
 ### Potion of Healing
-*(potion, common)*
-- **Properties**: [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion).
-  *Effect:* Heal 2d4 + 2 HP.
-- **Weight**: 250 g
+*(concoction, common)*
+- **Properties**: 
+  [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion)
+    *Effect:* Heal 2d4 + 2 HP.
+- **Weight**: 150 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/0/04/POT_Potion_of_Healing_Unfaded_Icon.png)
 *(Source: Baldur's Gate 3)*
@@ -1686,7 +1694,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: Disadvantage on Dexterity (Stealth) checks.
 - **Weight**: 20 kg
 - **Price**: 30 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 219)*
 
 ### Ring of Arcane Defense
@@ -1932,7 +1940,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: -
 - **Price**: 1 sp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 215)*
 
 ### Sling Bullet
@@ -1970,6 +1978,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  [TODO] Spell Scroll mechanic.
+
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the attack's damage unless that modifier is negative.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
@@ -2017,7 +2027,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Properties**: -
 - **Weight**: 7 kg
 - **Price**: 45 gp
-![\|250]() [TODO]
+![\|250]() []
 *(Source: PHB'24, page 219)*
 
 ## Items T
@@ -2036,6 +2046,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Weight**: 20 g
 - **Price**: 3000 gp
 ![\|250](https://i.imgur.com/I8pLAkO.png)
+*A warm, red, tear-shaped amulet, given in quiet gratitude—a token of trust between two friends.*
 *(Source: Custom)*
 
 ### The Rattlestick
