@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 # Nyari
 - **Paladin of the Ancients Level**: 3
 ## Stats and Proficiencies
@@ -256,4 +254,3 @@ Custom addition for Nyari:
 [Summon Celestial](./../spells.md#spells-s#summon-celestial)
 [Waygate Assault](./../spells.md#spells-w#waygate-assault)
 [Wyrmwing's Howl](./../spells.md#spells-w#wyrmwing's-howl)
->>>>>>> Stashed changes
