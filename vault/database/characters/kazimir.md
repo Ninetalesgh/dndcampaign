@@ -1,10 +1,10 @@
 # Kazimir
-- **Level**: 2
+- **Battle Master Fighter Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **AC**: 15 ([Scale Mail](dm/items.md#scale-mail) + DEX)
-- **HP**: 20 *(4 + [6 + CON] * Level)*
-- **HP Dice**: 2 D10
+- **HP**: 28 *(4 + [6 + CON] * Level)*
+- **HP Dice**: 3 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
@@ -30,6 +30,9 @@
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, Undercommon, Thieves' Cant
 
+[TODO] 1 Fighter Skill Proficiency
+[TODO] 1 Tool Proficiency
+
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +5 *(PB + STR)*.
@@ -39,6 +42,12 @@
 ### Other
   [Scale Mail](dm/items.md#scale-mail)
   [Alchemist's Supplies](dm/items.md#alchemists-supplies)
+
+## Battle Master
+- **Superiority Dice:** 4 d8.
+- **Maneuver Save DC:** 13 *(8 + PB + STR or DEX)*.
+- **Maneuvers:**
+[TODO] 3 Maneuvers
 
 ## Feats and Actions
 ### Actions
@@ -62,7 +71,6 @@
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ### Passive Feats
-*- Extra lineage feat at level 3.*
   [Action Surge *(Once per Short Rest)*](./../feats.md#action-surge)
   [Tactical Mind *(Uses Second Wind Charges)*](./../feats.md#tactical-mind)
 

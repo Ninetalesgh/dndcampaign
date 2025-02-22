@@ -1,10 +1,10 @@
 # Kal
-- **Level**: 2
+- **Moon Druid Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
-- **HP**: 21 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 2 D8
+- **HP**: 30 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 3 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -44,12 +44,13 @@
   [Explorer's Pack](dm/items.md#explorers-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 5
-- **Spell Slots Level 1**: 3
+- **Prepared Spells**: 6
+- **Spell Slots Level 1**: 4
+- **Spell Slots Level 2**: 2
 - **Spell Attack Modifier**: +5 *(PB + WIS)*
 - **Spell Save DC**: 13 *(8 + PB + WIS)* 
 - **Wild Shapes Prepared**: 4
-- **Wild Shape Charges**: 2
+- **Wild Shape Charges**: 2 *(Regain 1 after Short Rest, all after Long Rest)*
 
 ## Feats and Actions
 ### Actions
@@ -68,13 +69,17 @@
   [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
+  [Detect Magic (Ritual)](./../spells.md#spells-d#detect-magic)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
   [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
-
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Circle of the Moon Spells**: 
+  [Starry Wisp](./../spells.md#spells-s#starry-wisp)
+  [Cure Wounds](./../spells.md#spells-c#cure-wounds)
+  [Moonbeam](./../spells.md#spells-m#moonbeam)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Wild Shape *(2 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#wild-shape)
+  [Wild Shape](feats.md#wild-shape-moon)
 
 
 ### Reactions
@@ -124,7 +129,15 @@
   [Burrower](./../wildshapes.md#cr-14#burrower)
   [Web Walker](./../wildshapes.md#cr-14#web-walker)
 ### CR 1
-  *(none)*
+  [Blind Grappler](./../wildshapes.md#cr-1#blind-grappler)
+  [Burrower](./../wildshapes.md#cr-1#burrower)
+  [Chameleonic](./../wildshapes.md#cr-1#chameleonic)
+  [Hook-Claw Climber](./../wildshapes.md#cr-1#hook-claw-climber)
+  [Huge Defensive](./../wildshapes.md#cr-1#huge-defensive)
+  [Poison Shooter](./../wildshapes.md#cr-1#poison-shooter)
+  [Ranged Stunner](./../wildshapes.md#cr-1#ranged-stunner)
+  [Spiked Carapace](./../wildshapes.md#cr-1#spiked-carapace)
+  
 
 
 # Druid Spell Reference

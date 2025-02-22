@@ -26,6 +26,18 @@ Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
  
+### Wild Shape, Moon
+Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of *(your Druid Level / 3)*, with following effects:
+- You gain **Temporary HP** equal to *(your Druid Level * 3)*.
+- You have an **AC** of *(13 + your WIS modifier)*.
+- You aquire the creature's **STR, DEX, and CON**.
+- For all Skill and Save Proficiencies use the higher value between your own and the creature's stats.
+- You retain your languages and feats.
+- You choose whether your equipment falls to the ground, merges into your new form, or is worn by it.
+- You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
+*(2 Charges, regain 1 after Short-, and all after Long Rests)*
+![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
+ 
 ## Fighter
 
 ### Action Surge
@@ -241,12 +253,20 @@ You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal 
 # Lineage Feats
 
 ## Stone's Endurance
-When you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
+As a Reaction when you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/f/f6/Unarmoured_Defence_%28Barbarian%29_Icon.webp)
 
 ## Healing Hands
-You touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
+As an Action you touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/7/72/Preserve_Life_Icon.webp)
+
+## Celestial Revelation
+As a Bonus Action you can transform yourself in one of three ways for up to 1 minute. *(Once per Long Rest)* 
+- **Bonus Damage.** While you are transformed, when you deal damage with an attack or spell during your turn, you may deal bonus damage equal to your PB, the damage type depends on your transformation. *(Once per turn)*
+- **Possible Transformations:**
+	- **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
+	- **Inner Radiance.** *Searing light radiates from your eyes and mouth.* You shed [Bright Light](dm/items.md#bright-light) in a radius 2 *(3m)* sphere and [Dim Light](dm/items.md#dim-light) for another 2 *(3m)* and at the end of each of your turns, each creature within range 2 *(3m)* takes PB Radiant damage. The bonus damage you deal is **Radiant**.
+	- **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
 
 ## Brave
 You have Advantage on Saves against [Frightened](conditions.md#frightened).
