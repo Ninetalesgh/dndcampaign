@@ -1,10 +1,10 @@
 # Mufi
-- **Level**: 2
+- **Arcane Trickster Rogue Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 14 ([Leather Armor](dm/items.md#leather-armor) + DEX)
-- **HP**: 15 *(3 + [5 + CON] * Level)*
-- **HP Dice**: 2 D8
+- **HP**: 21 *(3 + [5 + CON] * Level)*
+- **HP Dice**: 3 D8
 - **Size**: [Small](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -43,12 +43,14 @@
   [Burglar's Pack](dm/items.md#burglars-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 0 
-- **Spell Slots Level 1**: 0 
+- **Prepared Spells**: 3 
+- **Spell Slots Level 1**: 2 
 - **Spell Attack Modifier**: +5 *(PB + INT)*
 - **Spell Save DC**: 13 *(8 + PB + INT)* 
 
 ## Feats and Actions
+[TODO] 3 prepared spells
+[TODO] 2 prepared cantrips
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)
@@ -66,12 +68,15 @@
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
   [Spell Cheat *(one free use per Long Rest)*](./../spells.md#spells-s#spell-cheat) 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Spells**:
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
   [Hide](game_rules.md#turn-based-play#hide)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Mage Hand Legerdemain.** You always have [Mage Hand](./../spells.md#spells-m#mage-hand) prepared, you can cast it as a Bonus Action, you can make the spectral hand [invisible](conditions.md#invisible), and you can make DEX (Sleight of Hand) checks through it.
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Steady Aim**, if you are not moving during this turn: Gain Advantage on your next Attack on the current turn.
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -79,7 +84,7 @@
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ### Passive Feats
-- **Weapon Mastery**: Daggers, Shortswords. 
+- **Weapon Mastery**: Daggers, Shortswords.
   [Sneak Attack](./../feats.md#sneak-attack)
   [Brave](./../feats.md#brave)
   [Halfling Luck](./../feats.md#halfling-luck)
