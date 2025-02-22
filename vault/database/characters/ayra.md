@@ -1,10 +1,10 @@
 # Ayra
-- **Level**: 2
+- **Fiend Warlock Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 13 ([Leather Armor](dm/items.md#leather-armor) + DEX)
-- **HP**: 21 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 2 D8
+- **HP**: 30 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 3 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -43,16 +43,16 @@
   [Leather Armor](dm/items.md#leather-armor)
 
 ## Spellcasting
-- **Prepared Spells**: 2
-- **Spell Slots Level 1**: 2
+- **Prepared Spells**: 4
+- **Spell Slots Level 2**: 2 *(Regain all after Short Rest)*
 - **Spell Attack Modifier**: +5 *(PB + CHA)*
 - **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
 ## Feats and Actions
-[TODO] 1 more Cantrip
 [TODO] 1 more Spell
 [TODO] Switch 1 spell, if you want
-
+[TODO] Switch 1 Eldritch Invocation, if you want
+[TODO] Switch 1 Cantrip if you want
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)
@@ -64,16 +64,26 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
-  [Eldritch Blast (+CHA damage)](./../spells.md#spells-e#eldritch-blast)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Always Prepared Cantrips**: 
   [Light](./../spells.md#spells-l#light)
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Cantrips**: 
+  [Eldritch Blast (+CHA damage)](./../spells.md#spells-e#eldritch-blast)
+  [Prestidigitation](./../spells.md#spells-p#prestidigitation)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Always Prepared Feats and Spells**:
+  [Burning Hands](./../spells.md#spells-b#burning-hands)
+  [Command](./../spells.md#command)
+  [Scorching Ray](./../spells.md#scorching-ray)
+  [Suggestion](./../spells.md#spells-s#suggestion)
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
   [Disguise Self *(Unlimited)*](./../spells.md#spells-d#disguise-self)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Spells**:
+  [Bane](./../spells.md#spells-b#bane)
+  [Charm Person](./../spells.md#spells-c#charm-person)
 
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Armor of Agathys](./../spells.md#spells-a#armor-of-agathys)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Always Prepared Feats and Spells**:
+  [Celestial Revelation *(Once per Long Rest)*](./../feats.md#celestial-revelation)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Prepared Spells**:
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions
@@ -85,8 +95,8 @@
   *(none)*
 
 ### Passive Feats
-*- Extra lineage feat at level 3.*
   [Magical Cunning *(Once per Long Rest)*](./../feats.md#magical-cunning)
+- **Dark One's Blessing.** When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *(your CHA modifier + your Warlock Level)* 
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
