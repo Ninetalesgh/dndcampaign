@@ -3277,9 +3277,7 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You exert control over the elements, creating one of the following effects within range. Beckon Air. You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a size 1 *(1.5m)* cube. Doors and shutters being held open by someone or something aren't affected. Beckon Earth. You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand. Beckon Fire. You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute. Beckon Water. You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit in a size 0.
-2 *(0.
-30000000000000004m)* cube to assume a crude shape (such as that of a creature) for 1 hour.
+You exert control over the elements, creating one of the following effects within range. Beckon Air. You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a size 1 *(1.5m)* cube. Doors and shutters being held open by someone or something aren't affected. Beckon Earth. You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand. Beckon Fire. You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute. Beckon Water. You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit in a 30cm cube to assume a crude shape (such as that of a creature) for 1 hour.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: PHB'24, page 267)*
 
@@ -4886,9 +4884,7 @@ On a failure, the target takes 3d8 Bludgeoning damage and is pushed up to 4 *(6m
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 A Line of strong wind 12 *(18m)* long and 2 *(3m)* wide blasts from you in a direction you choose for the duration. Each creature in the Line must succeed on a STR Save or be pushed 3 *(4.5m)* away from you in a direction following the Line. A creature that ends its turn in the Line must make the same save.
-Any creature in the Line must spend 0.
-4 *(0.
-6000000000000001m)* of movement for every 30cm it moves when moving closer to you.
+Moving closer to you costs double.
 The gust disperses gas or vapor, and it extinguishes candles and similar unprotected flames in the area. It causes protected flames, such as those of lanterns, to dance wildly and has a 50 percent chance to extinguish them.
 As a Bonus Action on your later turns, you can change the direction in which the Line blasts from you.
 - **Classes**: Druid, Ranger, Sorcerer, Wizard
@@ -7413,9 +7409,7 @@ You radiate a concealing aura in a radius 6 *(9m)* emanation for the duration. W
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: 1 hour
-A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 1 *(1.5m)* wide, 1.
-6 *(2.
-4000000000000004m)* tall, and 4 *(6m)* deep. The passage creates no instability in a structure surrounding it.
+A passage appears at a point that you can see on a wooden, plaster, or stone surface (such as a wall, ceiling, or floor) within range and lasts for the duration. You choose the opening's dimensions: up to 1.5m wide, 2.5m tall, and 6m deep. The passage creates no instability in a structure surrounding it.
 When the opening disappears, any creatures or objects still in the passage created by the spell are safely ejected to an unoccupied space nearest to the surface on which you cast the spell.
 - **Classes**: Wizard
 *(Source: PHB'24, page 303)*
@@ -7541,9 +7535,9 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 - **Range**: 30 *(45m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below. Overgrowth. Choose a point within range. All normal plants in a radius 20 *(30m)* sphere centered on that point become thick and overgrown. A creature moving through that area must spend 0.
-8 *(1.
-2000000000000002m)* of movement for every 30cm it moves. You can exclude one or more areas of any size within the spell's area from being affected. Enrichment. All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
+This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below. Overgrowth. Choose a point within range. All normal plants in a radius 20 *(30m)* sphere centered on that point become thick and overgrown.
+Moving through the area costs **quadruple**. 
+You can exclude one or more areas of any size within the spell's area from being affected. Enrichment. All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 - **Classes**: Bard, Druid, Ranger
 ![\|50](https://bg3.wiki/w/images/a/ad/Plant_Growth_Icon.webp)
 *(Source: PHB'24, page 305)*
@@ -10941,9 +10935,7 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 - **Range**: 30 *(45m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You point at a location within range, and a glowing,a diameter 0.
-2 *(0.
-30000000000000004m)* ball of acid streaks there and explodes in a radius 4 *(6m)* sphere. Each creature in that area makes a DEX Save. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
+You point at a location within range, and a glowing,a 30cm diameter ball of acid streaks there and explodes in a radius 4 *(6m)* sphere. Each creature in that area makes a DEX Save. On a failed save, a creature takes 10d4 Acid damage and another 5d4 Acid damage at the end of its next turn. On a successful save, a creature takes half the initial damage only.
 **Using a Higher-Level Spell Slot.** The initial damage increases by 2d4 for each spell slot level above 4.
 - **Classes**: Sorcerer, Wizard
 *(Source: PHB'24, page 337)*
@@ -11073,9 +11065,9 @@ If you maintain your Concentration on this spell for its full duration, the wall
 - **Duration**: [Concentration](conditions.md#concentration), up to 10 minutes
 You create a wall of tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 12 *(18m)* long, 2 *(3m)* high, and 1 *(1.5m)* thick or a circle that has a diameter 4 *(6m)* and is up to 4 *(6m)* high and 1 *(1.5m)* thick. The wall blocks line of sight.
 When the wall appears, each creature in its area makes a DEX Save, taking 7d8 Piercing damage on a failed save or half as much damage on a successful one.
-A creature can move through the wall, albeit slowly and painfully. For every 30cm a creature moves through the wall, it must spend 0.
-8 *(1.
-2000000000000002m)* of movement. Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a DEX Save, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
+A creature can move through the wall, albeit slowly and painfully.
+Moving through the wall costs **quadruple**.
+Furthermore, the first time a creature enters a space in the wall on a turn or ends its turn there, the creature makes a DEX Save, taking 7d8 Slashing damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 **Using a Higher-Level Spell Slot.** Both types of damage increase by 1d8 for each spell slot level above 6.
 - **Classes**: Druid
 ![\|50](https://bg3.wiki/w/images/6/6e/Wall_of_Thorns_Icon.webp)

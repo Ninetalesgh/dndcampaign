@@ -76,14 +76,14 @@
   [Suggestion](./../spells.md#spells-s#suggestion)
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
   [Disguise Self *(Unlimited)*](./../spells.md#spells-d#disguise-self)
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Spells**:
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Selected Spells**:
   [Bane](./../spells.md#spells-b#bane)
   [Charm Person](./../spells.md#spells-c#charm-person)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Always Prepared Feats and Spells**:
   [Celestial Revelation *(Once per Long Rest)*](./../feats.md#celestial-revelation)
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Prepared Spells**:
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Selected Spells**:
   [Hex](./../spells.md#spells-h#hex)
 
 ### Reactions

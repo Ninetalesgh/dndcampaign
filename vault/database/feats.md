@@ -15,7 +15,7 @@ Your HP increase by 2 per Level.
 ## Druid
 
 ### Wild Shape
-Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of 1/4, with following effects:
+As a **Bonus Action** you shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of 1/4, with following effects:
 - You gain **Temporary HP** equal to your Druid Level.
 - You have an **AC** of 14.
 - You aquire the creature's **STR, DEX, and CON**.
@@ -27,7 +27,7 @@ Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
  
 ### Wild Shape, Moon
-Shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of *(your Druid Level / 3)*, with following effects:
+As a **Bonus Action** you shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of *(your Druid Level / 3)*, with following effects:
 - You gain **Temporary HP** equal to *(your Druid Level * 3)*.
 - You have an **AC** of *(13 + your WIS modifier)*.
 - You aquire the creature's **STR, DEX, and CON**.
@@ -53,9 +53,18 @@ When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather 
 ![\|50](https://bg3.wiki/w/images/7/7a/Read_Thoughts_Icon.webp)
 
 ## Paladin
+### Divine Sense
+As a **Bonus Action**, you can open your awareness to detect **Celestials**, **Fiends**, and **Undead**. For the next 10 minutes or until you are [Incapacitated](conditions.md#incapacitated), you know the location of any creature of those types within range 12 *(18m)*  of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](spells.md#hallow) spell.
+![\|50](https://bg3.wiki/w/images/4/41/Divine_Sense_Icon.webp)
+
 ### Lay on Hands
 Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Paladin Level] Charges per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
+
+### Nature's Wrath
+As a **Magic Action**, you can expend one use of your **Channel Divinity** to conjure spectral vines around nearby creatures.
+Each creature of your choice that you can see within range 3 *(4.5m)* of yourself must succeed on a STR Save or be [Restrained](conditions.md#restrained) for 1 minute. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
+![\|50](https://bg3.wiki/w/images/6/68/Nature%27s_Wrath_Icon.webp)
 
 ## Rogue
 ### Sneak Attack

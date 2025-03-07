@@ -159,7 +159,7 @@ STR | DEX | CON
     *Hit*: 1d4 + 2 Piercing damage, and the target must succeed on a DC 11 CON Save or be Poisoned for the next minute.
    A creature poisoned in this way repeats this Save at the end of each of its turns, ending the effect on a success, or falling asleep until the beginning of its next turn on a failure. A creature wakes up early if it takes any damage, or if a creature uses an Action to shake it awake.
 
-### Hook-Claw Climber 
+### Hook-Claw Climber
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 8 *(12m)*, climb: 6 *(9m)*
@@ -202,7 +202,7 @@ STR | DEX | CON
    - **Scuttle**. When you would make a Save against a spell or magical effect, you can move up to 2 *(3m)*.
    If this movement puts you out of range or area of the spell or magical effect, you are unaffected.
 
-### Huge Defensive 
+### Huge Defensive
 *Huge*
 - **Initiative**: +0
 - **Speed**: walk: 10 *(15m)*
