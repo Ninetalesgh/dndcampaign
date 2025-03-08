@@ -22,6 +22,6 @@ git push
 printf "\n== CHECKOUT DM\n"
 git checkout dm
 printf "\n== MERGE MAIN\n"
-git merge main
+git merge main --no-edit
 printf "\n== PUSH\n"
 git push
