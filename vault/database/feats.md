@@ -73,6 +73,10 @@ Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** dam
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
 
 ## Warlock
+### Dark One's Blessing
+When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *(your CHA modifier + your Warlock Level)* 
+![\|50](https://bg3.wiki/w/images/5/59/Grim_Harvest_Icon.webp)
+
 ### Eldritch Invocations
 #### Armor of Shadows
 You can cast [Mage Armor](spells.md#mage-armor) on yourself without expending a spell slot.
@@ -254,7 +258,7 @@ The Extra Attack of your Thirsting Blade invocation confers two extra attacks ra
 You have Truesight with a range of 30 feet.
 *(Source: PHB'24, page 157)*
 
-## Magical Cunning
+### Magical Cunning
 You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
 
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
@@ -276,6 +280,7 @@ As a Bonus Action you can transform yourself in one of three ways for up to 1 mi
 	- **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
 	- **Inner Radiance.** *Searing light radiates from your eyes and mouth.* You shed [Bright Light](dm/items.md#bright-light) in a radius 2 *(3m)* sphere and [Dim Light](dm/items.md#dim-light) for another 2 *(3m)* and at the end of each of your turns, each creature within range 2 *(3m)* takes PB Radiant damage. The bonus damage you deal is **Radiant**.
 	- **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
+![\|50](hhttps://i.imgur.com/GqWRLly.png)
 
 ## Brave
 You have Advantage on Saves against [Frightened](conditions.md#frightened).

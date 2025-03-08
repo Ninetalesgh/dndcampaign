@@ -94,6 +94,7 @@
 
 ### Passive Feats
   [Magical Cunning *(Once per Long Rest)*](./../feats.md#magical-cunning)
+  [Dark One's Blessing](./../feats.md#dark-ones-blessing)
 - **Dark One's Blessing.** When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *(your CHA modifier + your Warlock Level)* 
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
