@@ -64,7 +64,7 @@
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Always Prepared Cantrips**: 
   [Light](./../spells.md#spells-l#light)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Cantrips**: 
-  [Eldritch Blast (+CHA damage)](./../spells.md#spells-e#eldritch-blast)
+  [Eldritch Blast](./../spells.md#spells-e#eldritch-blast)
   [Prestidigitation](./../spells.md#spells-p#prestidigitation)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Always Prepared Feats and Spells**:
   [Burning Hands](./../spells.md#spells-b#burning-hands)
@@ -95,7 +95,6 @@
 ### Passive Feats
   [Magical Cunning *(Once per Long Rest)*](./../feats.md#magical-cunning)
   [Dark One's Blessing](./../feats.md#dark-ones-blessing)
-- **Dark One's Blessing.** When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *(your CHA modifier + your Warlock Level)* 
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.

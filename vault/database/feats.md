@@ -274,11 +274,11 @@ As an Action you touch a creature and roll a number of d4s equal to your PB. The
 
 ## Celestial Revelation
 As a Bonus Action you can transform yourself in one of three ways for up to 1 minute. *(Once per Long Rest)* 
-- **Bonus Damage.** While you are transformed, when you deal damage with an attack or spell during your turn, you may deal bonus damage equal to your PB, the damage type depends on your transformation. *(Once per turn)*
-- **Possible Transformations:**
-	- **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
-	- **Inner Radiance.** *Searing light radiates from your eyes and mouth.* You shed [Bright Light](dm/items.md#bright-light) in a radius 2 *(3m)* sphere and [Dim Light](dm/items.md#dim-light) for another 2 *(3m)* and at the end of each of your turns, each creature within range 2 *(3m)* takes PB Radiant damage. The bonus damage you deal is **Radiant**.
-	- **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
+**Bonus Damage.** While you are transformed, when you deal damage with an attack or spell during your turn, you may deal bonus damage equal to your PB, the damage type depends on your transformation. *(Once per turn)*
+**Possible Transformations:**
+- **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
+- **Inner Radiance.** *Searing light radiates from your eyes and mouth.* You shed [Bright Light](dm/items.md#bright-light) in a radius 2 *(3m)* sphere and [Dim Light](dm/items.md#dim-light) for another 2 *(3m)* and at the end of each of your turns, each creature within range 2 *(3m)* takes PB Radiant damage. The bonus damage you deal is **Radiant**.
+- **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
 ![\|50](https://i.imgur.com/GqWRLly.png)
 
 ## Brave
