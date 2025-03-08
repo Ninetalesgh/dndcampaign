@@ -55,9 +55,10 @@ Nyari:
 
 # Aquired Loot
 ## Tier 1 (Levels 1-4)
-2/6 C
+3/6 C
     [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
     [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+    [Clockwork Amulet](dm/items.md#clockwork-amulet)
 0/5 UC
 0/1 R
 

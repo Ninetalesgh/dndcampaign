@@ -22,7 +22,7 @@ Human -> broad shoulders, black hair tied back. thin scare along her jawline. gr
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#mufis-performance): Pushes Mufi.
   [Session 1](dm/session_notes/session_01.md#the-farmhouse-and-barn): Lead The Party against the goblin attack.
-  [Session 2](dm/session_notes/session_02.md#back-in-new-arvandal): Forward the group's encounter debrief to [Teal Lareth](dm/npcs.md#teal-lareth) and [Dain Elster](dm/npcs.md#dain-elster).
+  [Session 2](dm/session_notes/session_02.md#back-in-new-arvandal): Forward The Party's encounter debrief to [Teal Lareth](dm/npcs.md#teal-lareth) and [Dain Elster](dm/npcs.md#dain-elster).
 
 ### Alenna Harvestsong
 **Priestess**
@@ -36,7 +36,8 @@ Human, F. (b. 1469 DR) -> Dark hair, warm brown skin tone. orange white robes du
 **Florist**
 Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel eyes, barefoot. 
 - **Scenes**
-  [Session 0](dm/session_notes/session_00.md#nyari-investigates-the-pollution): Digs up the corrupted root Alenna gives to Nyari.  
+  [Session 0](dm/session_notes/session_00.md#nyari-investigates-the-pollution): Digs up the corrupted root **Alenna** gives to **Nyari**.  
+  [Session 3](dm/session_notes/session_03.md#the-high-road): She witnesses the blights attacking on The High Road and saves **Nyari** from the brink of death. 
 
 ### Darrin Whitlock
 **Student - Diplomacy & Commerce**
@@ -99,6 +100,17 @@ Hobgoblin -> [TODO]
 Half-Orc, F. (b. 1470 DR) -> Rough, olive-tinted weathered skin, small tusks barely protruding from her lower lip. An unassuming, approachable look. 
 - **Scenes**
   [Session 2](dm/session_notes/session_02.md#back-in-new-arvandal): [Tess Marwick](dm/npcs.md#tess-marwick) "jokingly" suggested Veshka would be able to translate The Goblin Orders. Veshka does **not** speak Goblin.
+
+### Zara Brightscale
+**Head of Arcane Studies**
+White-Dragonborn, F. (b. 1458 DR) -> Slender ivory snout, elegant white horns, lion like scaly mane, bright blue warm eyes.
+- **Scenes**
+  [Session 3](dm/session_notes/session_03.md#the-library): She introduces herself, catches Mufi trying to steal, leads them to books about Mithdral.
+
+### Adrian Copperhill
+**Traveller to High Horn**
+- **Scenes**
+  [Session 3](dm/session_notes/session_03.md#the-high-road): He gets saved by The Party from the Blights attacking on The High Road. 
 
 ### Blacksmiths Seraphine Sorelle & Ronan Hammerfall
 

@@ -38,7 +38,7 @@ SURVIVAL -> The whincing of the Worg might well attract predators.
 
 ## Back in New Arvandal
 [Tess Marwick](dm/npcs.md#tess-marwick)
-[TODO] add Veshka NPC here.
+[Veshka Tovan](dm/npcs.md#veshka-tovan)
 
 - Noone speaks Goblin, **Tess** snarks "The wood worker **Veshka** probably does", incentivizing them to meet her (she does **NOT** speak any goblin, she's an Orc).
 
