@@ -49,10 +49,7 @@
 - **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
 ## Feats and Actions
-[TODO] 1 more Spell
-[TODO] Switch 1 spell, if you want
-[TODO] Switch 1 Eldritch Invocation, if you want
-[TODO] Switch 1 Cantrip if you want
+
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)
@@ -77,7 +74,7 @@
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
   [Disguise Self *(Unlimited)*](./../spells.md#spells-d#disguise-self)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Selected Spells**:
-  [Bane](./../spells.md#spells-b#bane)
+  [Hold Person](./../spells.md#spells-h#hold-person)
   [Charm Person](./../spells.md#spells-c#charm-person)
 
 ### Bonus Actions
@@ -85,6 +82,7 @@
   [Celestial Revelation *(Once per Long Rest)*](./../feats.md#celestial-revelation)
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Selected Spells**:
   [Hex](./../spells.md#spells-h#hex)
+  [Misty Step](./../spells.md#spells-m#misty-step)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -102,7 +100,7 @@
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
 - **Eldritch Invocations**:
-  [Eldritch Mind](feats.md#eldritch-mind)
+  [Armor of Shadows](feats.md#armor-of-shadows)
   [Agonizing Blast](feats.md#agonizing-blast)
   [Mask of Many Faces](feats.md#mask-of-many-faces)
 
