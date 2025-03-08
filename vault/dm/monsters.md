@@ -1545,8 +1545,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Languages**: understands Common but can't speak
 - **Traits**: 
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a spiny stump.
-   - **Root-Bound**. The blight has advantage on Saves to resist being moved or knocked [Prone](conditions.md#prone).
-   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
+   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
 - **Actions**: 
    - **Longspine Claws**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 6 (2d4 + 1) piercing damage.
@@ -2158,8 +2157,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Languages**: Common
 - **Traits**: 
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a tangle of vines.
-   - **Root-Bound**. The blight has advantage on Saves to resist being moved or knocked [Prone](conditions.md#prone).
-   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
+   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
 - **Actions**: 
    - **Constricting Embrace**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
     *Hit:* 9 (2d6 + 2) bludgeoning damage and the blight enters the target's space and grapples it (escape DC 12).
