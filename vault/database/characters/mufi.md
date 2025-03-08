@@ -11,9 +11,9 @@
 | STR 8 (-1)     | DEX 17 (+3)               | CON 13 (+1)   |
 | :------------- | :------------------------ | :------------ |
 | ☐ STR Save -1  | ☑ **DEX Save +5**         | ☐ CON Save +1 |
-| ☐ Athletics +1 | ☑☑ **Acrobatics +7**      | .             |
+| ☐ Athletics +1 | ☑ **Acrobatics +5**      | .             |
 | .              | ☑☑ **Sleight of Hand +7** | .             |
-| .              | ☑ **Stealth +5**          | .             |
+| .              | ☑☑ **Stealth +7**          | .             |
 
 
 | INT 16 (+3)            | WIS 12 (+1)          | CHA 8 (-1)        |
@@ -49,8 +49,7 @@
 - **Spell Save DC**: 13 *(8 + PB + INT)* 
 
 ## Feats and Actions
-[TODO] 3 prepared spells
-[TODO] 2 prepared cantrips
+
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)
@@ -62,13 +61,17 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Initiate Cantrips**: 
   [Guidance](./../spells.md#spells-g#guidance)
   [Light](./.././../spells.md#spells-l#light)
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Cantrips**: 
+  [Message](./../spells.md#spells-m#message)
+  [True Strike](./../spells.md#spells-t#true-strike)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
   [Spell Cheat *(one free use per Long Rest)*](./../spells.md#spells-s#spell-cheat) 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Spells**:
+  [Tasha's Hideous Laughter](./../spells.md#spells-t#tasha's-hideous-laughter)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:
@@ -82,9 +85,12 @@
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Prepared Spells**: 
+  [Silvery Barbs](./../spells.md#spells-s#silvery-barbs)
+  [Feather Fall](./../spells.md#spells-f#feather-fall)
 
 ### Passive Feats
-- **Weapon Mastery**: Daggers, Shortswords.
+- **Weapon Mastery**: Daggers, Shortbow.
   [Sneak Attack](./../feats.md#sneak-attack)
   [Brave](./../feats.md#brave)
   [Halfling Luck](./../feats.md#halfling-luck)
@@ -105,14 +111,14 @@
 - **Regain all HP**
 - **Regain [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
-- **Regain Magic Initiate Spell charge**
+- **Regain Magic Initiate Spell Charge**
 - **Switch 1 Weapon Mastery**
 ### After Level-Up
 - **Recalculate HP**
 - **Add 1 HP Die**
 - **Check Class Level-Up**
-- **Switch 1 Wizard Cantrip**
-- **Switch 1 Wizard Spell**
+- **Switch 1 Prepared Cantrip**
+- **Switch 1 Prepared Spell**
 
 # Wizard Spells
 ## Cantrips

@@ -101,7 +101,6 @@
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Celestial Resistance.** You have [Resistance](./../game_rules.md#advanced-rules#resistance) to Necrotic damage and Radiant damage.
 
-
 - **Eldritch Invocations**:
   [Eldritch Mind](feats.md#eldritch-mind)
   [Agonizing Blast](feats.md#agonizing-blast)

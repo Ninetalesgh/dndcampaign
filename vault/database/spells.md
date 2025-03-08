@@ -799,9 +799,7 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 - **Range**: 12 *(18m)*
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
-You create a blade-shaped planar rift about 0.
-6 *(0.
-8999999999999999m)* long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 1 *(1.5m)* of the blade. On a hit, the target takes 4d12 force damage. This attack scores a critical hit if the number on the d20 is 18 or higher. On a critical hit, the blade deals an extra 8d12 force damage (for a total of 12d12 force damage).
+You create a blade-shaped planar rift about 1m long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 1 *(1.5m)* of the blade. On a hit, the target takes 4d12 force damage. This attack scores a critical hit if the number on the d20 is 18 or higher. On a critical hit, the blade deals an extra 8d12 force damage (for a total of 12d12 force damage).
 As a bonus action on your turn, you can move the blade up to 6 *(9m)* to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 The blade can harmlessly pass through any barrier, including a wall of force.
 - **Classes**: 
@@ -1558,11 +1556,11 @@ You launch a dazzling array of flashing, colorful light. Each creature in a leng
 - **Components**: V
 - **Duration**: Instantaneous
 You speak a one-word command to a creature you can see within range. The target must succeed on a WIS Save or follow the command on its next turn. Choose the command from these options:
-  - *Approach.* The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 *(1.5m)* of you.
-  - *Drop.* The target drops whatever it is holding and then ends its turn.
-  - *Flee.* The target spends its turn moving away from you by the fastest available means.
-  - *Grovel.* The target is [Prone](conditions.md#prone) and then ends its turn.
-  - *Halt.* On its turn, the target doesn't move and takes no action or Bonus Action.
+  - **Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 *(1.5m)* of you.
+  - **Drop.** The target drops whatever it is holding and then ends its turn.
+  - **Flee.** The target spends its turn moving away from you by the fastest available means.
+  - **Grovel.** The target is [Prone](conditions.md#prone) and then ends its turn.
+  - **Halt.** On its turn, the target doesn't move and takes no action or Bonus Action.
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 - **Classes**: Bard, Cleric, Paladin
 ![\|50](https://bg3.wiki/w/images/7/7f/Command_Halt_Icon.webp)
@@ -3277,7 +3275,12 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You exert control over the elements, creating one of the following effects within range. Beckon Air. You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a size 1 *(1.5m)* cube. Doors and shutters being held open by someone or something aren't affected. Beckon Earth. You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand. Beckon Fire. You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute. Beckon Water. You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. Sculpt Element. You cause dirt, sand, fire, smoke, mist, or water that can fit in a 30cm cube to assume a crude shape (such as that of a creature) for 1 hour.
+You exert control over the elements, creating one of the following effects within range. 
+  - **Beckon Air.** You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a size 1 *(1.5m)* cube. Doors and shutters being held open by someone or something aren't affected.
+  - **Beckon Earth.** You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand. 
+  - **Beckon Fire.** You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute. 
+  - **Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. 
+  - **Sculpt Element.** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 30cm cube to assume a crude shape (such as that of a creature) for 1 hour.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: PHB'24, page 267)*
 
@@ -9293,9 +9296,7 @@ The target must succeed on a DEX Save or take 4d8 Piercing damage and be [restra
 - **Duration**: 8 hours
 As you cast this spell, you use the rope to create a circle with a radius 1 *(1.5m)* sphere on the ground or the floor. When you finish casting, the rope disappears and the circle becomes a magic trap.
 This trap is nearly [invisible](conditions.md#invisible), requiring a successful INT (Investigation) check against your spell save DC to be discerned.
-The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a DEX Save or be magically hoisted into the air, leaving it hanging upside down 0.
-6 *(0.
-8999999999999999m)* above the ground or the floor. The creature is [restrained](conditions.md#restrained) there until the spell ends.
+The trap triggers when a Small, Medium, or Large creature moves onto the ground or the floor in the spell's radius. That creature must succeed on a DEX Save or be magically hoisted into the air, leaving it hanging upside down 1 meter above the ground or the floor. The creature is [restrained](conditions.md#restrained) there until the spell ends.
 A [restrained](conditions.md#restrained) creature can make a DEX Save at the end of each of its turns, ending the effect on itself on a success. Alternatively, the creature or someone else who can reach it can use an action to make an INT (Arcana) check against your spell save DC. On a success, the [restrained](conditions.md#restrained) effect ends.
 After the trap is triggered, the spell ends when no creature is [restrained](conditions.md#restrained) by it.
 - **Classes**: Artificer, Druid, Ranger, Wizard
@@ -11118,9 +11119,7 @@ The attack rolls of ranged weapon attacks have disadvantage if the attacks pass 
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 For the duration, you sense the presence of portals, even inactive ones, within 6 *(9m)* of yourself.
 If you detect a portal in this way, you can use your action to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.
-The spell can penetrate most barriers but is blocked by 30cm of stone, 3cm of common metal, a thin sheet of lead, or 0.
-6 *(0.
-8999999999999999m)* of wood or dirt.
+The spell can penetrate most barriers but is blocked by 30cm of stone, 3cm of common metal, a thin sheet of lead, or 1m of wood or dirt.
 - **Classes**: Sorcerer, Warlock, Wizard
 *(Source: SatO, page 12)*
 
