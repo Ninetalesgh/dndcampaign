@@ -7744,6 +7744,7 @@ You create a magical effect within range. Choose the effect from the options bel
 - *Magic Mark.* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour. 
 - *Minor Creation.* You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/d/d4/Dampen_Elements_Icon.webp)
 *(Source: PHB'24, page 307)*
 
 ### Primal Savagery
@@ -9885,6 +9886,7 @@ You suggest a course of activity—described in no more than 25 words—to one c
 "" Or you could say, ""Stop fighting, leave this library peacefully, and don't return.
 ""The target must succeed on a WIS Save or be [Charmed](conditions.md#charmed) for the duration or until you or your allies deal damage to the target. The [Charmed](conditions.md#charmed) target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for the target upon completing it.
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/2/24/Intimidating_Presence_Icon.webp)
 *(Source: PHB'24, page 320)*
 
 ### Summon Aberration
