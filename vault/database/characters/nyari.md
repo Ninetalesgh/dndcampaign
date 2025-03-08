@@ -30,8 +30,6 @@
 - **Tool Proficiencies**: [Smith's Tools](dm/items.md#smiths-tools)
 - **Languages**: Common, Goliath, Halfling
 
-[TODO] Oath of the Ancients.
-[TODO] rewrite smite of spring.
 [TODO] replacement for speak with animals (another out of combat utility spell).
 
 ## Equipment
