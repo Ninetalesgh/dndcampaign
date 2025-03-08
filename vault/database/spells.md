@@ -2669,6 +2669,7 @@ The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sh
 For the duration, you sense the presence of magical effects within 6 *(9m)* of yourself. If you sense such effects, you can take the Magic action to see a faint aura around any visible creature or object in the area that bears the magic, and if an effect was created by a spell, you learn the spell's school of magic.
 The spell is blocked by 30cm of stone, dirt, or wood; 3cm of metal; or a thin sheet of lead.
 - **Classes**: Artificer, Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard
+![\|50](https://bg3.wiki/w/images/1/1e/Focused_Conjuration_Icon.webp)
 *(Source: PHB'24, page 262)*
 
 ### Detect Poison and Disease
@@ -6535,6 +6536,7 @@ A creature that fails this save by 5 or more additionally has its movement contr
 You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 30cm of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 - **Classes**: Artificer, Bard, Druid, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/b/b6/Detect_Thoughts_Icon.webp)
 *(Source: PHB'24, page 298)*
 
 ### Meteor Swarm
@@ -9228,7 +9230,7 @@ An affected target repeats the save at the end of each of its turns, ending the 
 The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amount of Temporary Hitpoints among allies in a radius 6 (9m) around you equal to half the damage done by this attack. It can't regain HP until the end of your next turn.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d6 for each spell slot level above 1.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/7/79/Lifedrinker_Icon.webp)
+![\|50](https://i.imgur.com/vxZN72O.png)
 *(Source: Custom)*
 
 ### Smite of Spring
@@ -9240,7 +9242,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 The target of the attack and each creature within a length 2 *(3m)* cone of it make a DEX Save, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one. Any *On Hit* effects of the Attack are applied to each target that failed the save.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 and the length of the cone by 1 for each spell slot level above 1.
 - **Classes**: Paladin
-![\|50](https://bg3.wiki/w/images/5/50/Ensnaring_Strike_Melee_Icon.webp)
+![\|50](https://i.imgur.com/dmE0Nmj.png)
 *(Source: Custom)*
 
 ### Smite of Summer
@@ -9674,6 +9676,7 @@ For the purposes of line-of-effect and AC bonuses from cover, this attack ignore
 You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 Radiant damage, and until the end of your next turn, it emits Dim Light in a radius 2 *(3m)* sphere and can't benefit from the [Invisible](conditions.md#invisible) condition.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Bard, Druid
+![\|50](https://bg3.wiki/w/images/2/2c/Guiding_Bolt_Icon.webp)
 *(Source: PHB'24, page 320)*
 
 ### Static Surge
