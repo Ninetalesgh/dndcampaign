@@ -260,7 +260,6 @@ You have Truesight with a range of 30 feet.
 
 ### Magical Cunning
 You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
-
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
 # Lineage Feats
@@ -280,7 +279,7 @@ As a Bonus Action you can transform yourself in one of three ways for up to 1 mi
 	- **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
 	- **Inner Radiance.** *Searing light radiates from your eyes and mouth.* You shed [Bright Light](dm/items.md#bright-light) in a radius 2 *(3m)* sphere and [Dim Light](dm/items.md#dim-light) for another 2 *(3m)* and at the end of each of your turns, each creature within range 2 *(3m)* takes PB Radiant damage. The bonus damage you deal is **Radiant**.
 	- **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
-![\|50](hhttps://i.imgur.com/GqWRLly.png)
+![\|50](https://i.imgur.com/GqWRLly.png)
 
 ## Brave
 You have Advantage on Saves against [Frightened](conditions.md#frightened).
