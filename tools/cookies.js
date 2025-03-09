@@ -114,10 +114,16 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
 function processTagClick(event) {
   if (gMouseHeldAboveThreshold) {
     gMouseHeldAboveThreshold = false;
-    if (event.target.classList.contains("inline-link")) {
-      if (event.target.dataset.url && gActiveContentPageNode) {
-        const categoryPageName = getCategoryPageNameFromUrl(event.target.dataset.url);
-        const tagName = getTagNameFromUrl(event.target.dataset.url);
+
+    let target = event.target;
+    while (target && !target.classList.contains("inline-link")) {
+      target = target.parentElement;
+    }
+
+    if (target) {
+      if (target.dataset.url && gActiveContentPageNode) {
+        const categoryPageName = getCategoryPageNameFromUrl(target.dataset.url);
+        const tagName = getTagNameFromUrl(target.dataset.url);
         toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
         //TODO make this a single element change
         applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
