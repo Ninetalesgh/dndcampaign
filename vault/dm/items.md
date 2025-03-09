@@ -139,6 +139,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Properties**: A Basket holds up to 20 kg within 60 liters.
 - **Weight**: 1 kg
 - **Price**: 4 sp
+![\|250](https://i.pinimg.com/736x/d6/4b/80/d64b80abb7709648780532e75ab76cc5.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Battleaxe
@@ -172,6 +173,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Properties**: While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master's Guide).
 - **Weight**: 1.5 kg
 - **Price**: 5 sp
+![\|250](https://i.pinimg.com/736x/32/28/6a/32286a5daae18d0fadafb43016dfa958.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Block and Tackle
@@ -263,6 +265,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Burglar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Ball Bearings](dm/items.md#ball-bearings), [Bell](dm/items.md#bell), 10 [Candles](dm/items.md#candle), [Crowbar](dm/items.md#crowbar), [Hooded Lantern](dm/items.md#hooded-lantern), 7 flasks of [Oil](dm/items.md#oil), 5 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
 - **Weight**: 24 kg
 - **Price**: 16 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 224)*
 
 ## Items C
@@ -281,6 +284,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: As a Utilize Action, you can spread Caltrops from their bag to cover a 1 *(1.5m)* square area within range 1 *(1.5)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
 - **Weight**: 1 kg
 - **Price**: 1 gp
+![\|250](https://i.pinimg.com/736x/d4/b4/a9/d4b4a9035b28e4a06ff97f7cdb2a44a5.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Camel
@@ -295,6 +299,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: For 1 hour, a lit Candle sheds [Bright Light](dm/items.md#bright-light) in a radius 1 *(1.5m)* sphere and [Dim Light](dm/items.md#dim-light) for another 1 *(1.5m)*.
 - **Weight**: -
 - **Price**: 1 cp
+![\|250](https://i.pinimg.com/736x/9b/77/97/9b7797138b32ef6fe1f152c3556fb781.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Cannulated Shortsword
@@ -369,6 +374,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: As a Utilize Action, you can wrap a Chain around an unwilling creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
 - **Weight**: 5 kg
 - **Price**: 5 gp
+![\|250](https://i.pinimg.com/736x/0c/55/82/0c5582df20a1d084a473f575cbac4339.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Chain Mail
@@ -412,6 +418,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Chest holds up to 340 liters of contents.
 - **Weight**: 22.5 kg
 - **Price**: 5 gp
+![\|250](https://i.pinimg.com/736x/08/4d/4e/084d4e1ec9dfdf8d1410d69b3cd6a636.jpg)
 *(Source: PHB'24, page 225)*
 
 ### Circlet of Vitality's Focus
@@ -560,6 +567,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Diplomat's Pack contains the following items: [Chest](dm/items.md#chest), [Fine Clothes](dm/items.md#fine-clothes), [Ink](dm/items.md#ink), 5 [Ink Pens](dm/items.md#ink-pen), [Lamp](dm/items.md#lamp), 2 [Map or Scroll Cases](dm/items.md#map-or-scroll-case), 4 flasks of [Oil](dm/items.md#oil), 5 sheets of [Paper](dm/items.md#paper), 5 sheets of [Parchment](dm/items.md#parchment), [Perfume](dm/items.md#perfume), and [Tinderbox](dm/items.md#tinderbox).
 - **Weight**: 34.5 kg
 - **Price**: 39 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 225)*
 
 ### Disguise Kit
@@ -611,6 +619,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Dungeoneer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Caltrops](dm/items.md#caltrops), [Crowbar](dm/items.md#crowbar), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torch), and [Waterskin](dm/items.md#waterskin).
 - **Weight**: 52.5 kg
 - **Price**: 12 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 225)*
 
 ## Items E
@@ -626,6 +635,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: An Entertainer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), [Bell](dm/items.md#bell), [Bullseye Lantern](dm/items.md#bullseye-lantern), 3 [Costumes](dm/items.md#costume), [Mirror](dm/items.md#mirror), 8 flasks of [Oil](dm/items.md#oil), 9 days of [Rations](dm/items.md#rations), [Tinderbox](dm/items.md#tinderbox), and [Waterskin](dm/items.md#waterskin).
 - **Weight**: 29 kg
 - **Price**: 40 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 225)*
 
 ### Exotic Saddle
@@ -640,6 +650,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: An Explorer's Pack contains the following items: [Backpack](dm/items.md#backpack), [Bedroll](dm/items.md#bedroll), 2 flasks of [Oil](dm/items.md#oil), 10 days of [Rations](dm/items.md#rations), [Rope](dm/items.md#rope), [Tinderbox](dm/items.md#tinderbox), 10 [Torches](dm/items.md#torch), and [Waterskin](dm/items.md#waterskin).
 - **Weight**: 52.5 kg
 - **Price**: 10 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 225)*
 
 ## Items F
@@ -902,7 +913,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Healer's Kit has ten uses. As a Utilize Action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
 - **Weight**: 1.5 kg
 - **Price**: 5 gp
-![\|250](https://i.pinimg.com/736x/98/cc/98/98cc982253def44fee8ed21fa6f7f567.jpg)
+![\|250](https://i.pinimg.com/736x/b9/6a/f7/b96af7d2cef1e57c6b10eced750d11c0.jpg)
 *(Source: PHB'24, page 225)*
 
 ### Heavy Crossbow
@@ -951,6 +962,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Hooded Lantern burns [Oil](dm/items.md#oil) as fuel to cast [Bright Light](game_rules.md#bright-light) in a radius 6 *(9m)* sphere and [Dim Light](game_rules.md#advanced-rules#dim-light) for another 6 *(9m)*. As a Bonus Action, you can lower the hood, reducing the light to [Dim Light](game_rules.md#advanced-rules#dim-light) with range 1 *(1.5m)*, or raise it again.
 - **Weight**: 1 kg
 - **Price**: 5 gp
+![\|250](https://i.pinimg.com/736x/cb/3e/ab/cb3eab87715979957cb69e163eea80cb.jpg)
+
 *(Source: PHB'24, page 226)*
 
 ### Horn
@@ -973,9 +986,10 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Hunting Trap
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 Dexterity saving throw or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 1 meter). A creature can use its action to make a DC 13 Strength (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
+- **Properties**: As a Utilize Action, you can set a Hunting Trap, which is a sawtooth steel ring that snaps shut when a creature steps on a pressure plate in the center. The trap is affixed by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 13 DEX Save or take 1d4 Piercing damage and have its Speed reduced to 0 until the start of its next turn. Thereafter, until the creature breaks free of the trap, its movement is limited by the length of the chain (typically 1 meter). A creature can use its action to make a DC 13 STR (Athletics) check, freeing itself or another creature within its reach on a success. Each failed check deals 1 Piercing damage to the trapped creature.
 - **Weight**: 22.5 kg
 - **Price**: 5 gp
+![\|250](https://i.pinimg.com/736x/d7/39/fe/d739fed5875c815fd1d792722455ae65.jpg)
 *(Source: PHB'24, page 226)*
 
 ## Items I
@@ -1023,6 +1037,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: Using [Ink](dm/items.md#ink), an Ink Pen is used to write or draw.
 - **Weight**: -
 - **Price**: 2 cp
+![\|250](https://i.pinimg.com/736x/bc/14/aa/bc14aa97ff2b7dcf757fe77ee1cb6bdc.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Inventor's Goggles
@@ -1039,6 +1054,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: An Iron Pot holds up to 3.5 liters.
 - **Weight**: 5 kg
 - **Price**: 2 gp
+![\|250](https://i.pinimg.com/736x/89/f7/ef/89f7ef493d890acf0f3c5bb6034cdd6d.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Iron Spike
@@ -1076,6 +1092,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: A Jug holds up to 3.5 liters.
 - **Weight**: 2 kg
 - **Price**: 2 cp
+![\|250](https://i.pinimg.com/736x/0f/c3/a8/0fc3a87fbace51034f8b684adcd98833.jpg)
 *(Source: PHB'24, page 226)*
 
 ## Items K
@@ -1109,6 +1126,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: A Ladder has height 2 *(3m)*. You must climb to move up or down it.
 - **Weight**: 22.5 kg
 - **Price**: 1 sp
+![\|250](https://i.pinimg.com/736x/0b/5a/88/0b5a8813c34b9c0627b2202a595adbac.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Lamp
@@ -1116,6 +1134,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: A Lamp burns [Oil](dm/items.md#oil) as fuel to cast [Bright Light](dm/items.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](dm/items.md#dim-light) for an another 6 *(9m)*.
 - **Weight**: 500 g
 - **Price**: 5 sp
+![\|250](https://i.pinimg.com/736x/ca/b7/c2/cab7c2e1be875a6f4431dd9695f3861d.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Lance
@@ -1189,6 +1208,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 - **Weight**: 500 g
 - **Price**: 10 gp
+![\|250](https://i.pinimg.com/736x/e9/9a/09/e99a093f0bafc9344e71dde6a7f823be.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Longbow
@@ -1262,6 +1282,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Properties**: A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
 - **Weight**: -
 - **Price**: 100 gp
+![\|250](https://i.pinimg.com/736x/cd/43/a9/cd43a942d6fd06f409736aa5261b9b54.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Manacles
@@ -1271,6 +1292,7 @@ While bound, a creature has Disadvantage on attack rolls, and the creature is [R
 Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an Action. Bursting them requires a successful DC 25 Strength (Athletics) check as an Action.Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 - **Weight**: 3 kg
 - **Price**: 2 gp
+![\|250](https://i.pinimg.com/736x/37/0e/88/370e886e3db4a59d763c058a9a3cd4ac.jpg)
 *(Source: PHB'24, page 226)*
 
 ### Mantle of Spell Resistance
@@ -1439,7 +1461,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Psychic** damage while holding the orb in your hand: Reduce that damage by 1d4.
 - **Weight**: 200 g
 - **Price**: 800 gp
-![\|250](https://i.imgur.com/wGZbWJN.png)
+![\|250](https://i.pinimg.com/736x/6a/30/01/6a300172f2b4d2ffc2f985115e2bcb9c.jpg)
 *(Source: ERLW, page 278)*
 
 ### Orb of Shielding, Fire
@@ -1448,7 +1470,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
     ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, Whenever you would take **Fire** damage while holding the orb in your hand: Reduce that damage by 1d4.
 - **Weight**: 200 g
 - **Price**: 800 gp
-![\|250](https://i.imgur.com/wGZbWJN.png)
+![\|250](https://i.pinimg.com/736x/6a/30/01/6a300172f2b4d2ffc2f985115e2bcb9c.jpg)
 *(Source: ERLW, page 278)*
 
 ### Owlbear Leather Armor
@@ -1498,6 +1520,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: One sheet of Paper can hold about 250 handwritten words.
 - **Weight**: -
 - **Price**: 2 sp
+![\|250](https://i.pinimg.com/736x/4e/9d/74/4e9d7491736178d90d90c6d32f0e98b7.jpg)
 *(Source: PHB'24, page 227)*
 
 ### Parchment
@@ -1505,6 +1528,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: One sheet of Parchment can hold about 250 handwritten words.
 - **Weight**: -
 - **Price**: 1 sp
+![\|250](https://i.pinimg.com/736x/bf/a1/bc/bfa1bc20f2c0596f35a3e95dc0bce836.jpg)
 *(Source: PHB'24, page 227)*
 
 ### Perfume
@@ -1512,6 +1536,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: Perfume comes in a 120 milliliter vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within range 1 *(1.5m)* of yourself.
 - **Weight**: -
 - **Price**: 5 gp
+![\|250](https://i.pinimg.com/736x/4f/11/d8/4f11d8655fb3853b9b5f9fadbdbef6c3.jpg)
 *(Source: PHB'24, page 227)*
 
 ### Pike
@@ -1587,6 +1612,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.
 - **Weight**: 32.5 kg
 - **Price**: 4 gp
+![\|250](https://i.pinimg.com/736x/5f/85/17/5f8517bff77eb06207e3fb622e516229.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Potion of Healing
@@ -1614,6 +1640,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: A Pouch holds up to 3 kg within 5 liters.
 - **Weight**: 500 g
 - **Price**: 5 sp
+![\|250](https://i.pinimg.com/736x/a1/57/88/a15788fa81b4aeaed9989e670ab069a8.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Priest's Pack
@@ -1621,6 +1648,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: A Priest's Pack contains the following items: [Backpack](dm/items.md#backpack), [Blanket](dm/items.md#blanket), [Holy Water](dm/items.md#holy-water), [Lamp](dm/items.md#lamp), 7 days of [Rations](dm/items.md#rations), [Robe](dm/items.md#robe), and [Tinderbox](dm/items.md#tinderbox).
 - **Weight**: 24.5 kg
 - **Price**: 33 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 228)*
 
 ## Items Q
@@ -1659,6 +1687,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 - **Properties**: Rations consist of travel-ready food, including jerky, dried fruit, hardtack, and nuts. See [Malnutrition](game_rules.md#sleep-food-and-water-needs) for the risks of not eating.
 - **Weight**: 1 kg
 - **Price**: 5 sp
+![\|250](https://i.pinimg.com/736x/ca/f3/a6/caf3a618d32d5e5c9742f07b3c86778b.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Redsmith Crucible Set
@@ -1810,6 +1839,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Properties**: A Scholar's Pack contains the following items: [Backpack](dm/items.md#backpack), [Book](dm/items.md#book), [Ink](dm/items.md#ink), [Ink Pen](dm/items.md#ink-pen), [Lamp](dm/items.md#lamp), 10 flasks of [Oil](dm/items.md#oil), 10 sheets of [Parchment](dm/items.md#parchment), and [Tinderbox](dm/items.md#tinderbox).
 - **Weight**: 21 kg
 - **Price**: 40 gp
+![\|250](https://i.pinimg.com/736x/d2/04/84/d2048465105831be3462073008418b06.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Scimitar
@@ -1923,6 +1953,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Properties**: 
 - **Weight**: 5 cp
 - **Price**: When blown as a Utilize Action, a Signal Whistle produces a sound that can be heard within range 120 *(180m)*.
+![\|250](https://i.pinimg.com/736x/7a/18/50/7a185092583597b22e987f81ec765ca7.jpg)
 *(Source: PHB'24, page 228)*
 
 ### Sled
@@ -2004,6 +2035,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Properties**: Objects viewed through a Spyglass are magnified to twice their size.
 - **Weight**: 500 g
 - **Price**: 1,000 gp
+![\|250](https://i.pinimg.com/736x/ad/5a/28/ad5a289ef3ea69dc23448880b9275df3.jpg)
 *(Source: PHB'24, page 229)*
 
 ### Stabling (per day)
@@ -2085,6 +2117,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Properties**: A Tinderbox is a small container holding flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a [Candle](dm/items.md#candle), [Lamp](dm/items.md#lamp), [Lantern](dm/items.md#hooded-lantern), or [Torch](dm/items.md#torch)—or anything else with exposed fuel—takes a Bonus Action. Lighting any other fire takes 1 minute.
 - **Weight**: 500 g
 - **Price**: 5 sp
+![\|250](https://i.pinimg.com/736x/e0/a3/30/e0a330aa12ccd6b14ad86afed0e2d29a.jpg)
 *(Source: PHB'24, page 229)*
 
 ### Tinker's Tools
