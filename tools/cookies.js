@@ -70,7 +70,7 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
     console.log(`Attempted to tag inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
   }
 
-  //optional: sort the list? 
+  //TODO optional: sort the list? 
 }
 
 function getCategoryPageNameFromUrl(url) {
@@ -111,9 +111,23 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
   }
 }
 
+function processTagClick(event) {
+  if (gMouseHeldAboveThreshold) {
+    gMouseHeldAboveThreshold = false;
+    if (event.target.classList.contains("inline-link")) {
+      if (event.target.dataset.url && gActiveContentPageNode) {
+        const categoryPageName = getCategoryPageNameFromUrl(event.target.dataset.url);
+        const tagName = getTagNameFromUrl(event.target.dataset.url);
+        toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
+        //TODO make this a single element change
+        applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
+      }
+    }
+  }
+}
+
 // EXECUTION
 {
-
   let gMouseDownTimer = null;
   window.addEventListener("mousedown", (event) => {
     gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
@@ -127,24 +141,14 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
   });
   window.addEventListener("touchend", (event) => {
     clearTimeout(gMouseDownTimer);
+    processTagClick(event);
   });
   window.addEventListener("touchcancel", (event) => {
     clearTimeout(gMouseDownTimer);
+    gMouseHeldAboveThreshold = false;
   });
 
   document.body.addEventListener("click", (event) => {
-    if (gMouseHeldAboveThreshold) {
-      gMouseHeldAboveThreshold = false;
-      if (event.target.classList.contains("inline-link")) {
-        if (event.target.dataset.url && gActiveContentPageNode) {
-          const categoryPageName = getCategoryPageNameFromUrl(event.target.dataset.url);
-          const tagName = getTagNameFromUrl(event.target.dataset.url);
-          toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
-          //TODO make this a single element change
-          applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
-        }
-      }
-    }
+    processTagClick(event);
   });
-
 }
