@@ -33,23 +33,21 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
     let categories = pageCookie?.split('|') ?? [];
 
     let foundExistingCategory = false;
+    let foundExistingEntry = false;
     for (let i = 0; i < categories.length; ++i) {
       let categoryEntries = categories[i].split(':');
       if (categoryEntries.length > 0 && categoryEntries[0] === targetCategoryPageName) {
-        let foundExistingEntry = false;
         for (let j = 1; j < categoryEntries.length; ++j) {
           if (categoryEntries[j] === targetTagName) {
             [categoryEntries[j], categoryEntries[categoryEntries.length - 1]] = [categoryEntries[categoryEntries.length - 1], categoryEntries[j]];
             categoryEntries.length--;
 
             console.log(`REMOVE tag from inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
-
             foundExistingEntry = true;
             break;
           }
         }
         if (!foundExistingEntry) {
-          console.log(`ADD tag to inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
           categoryEntries.push(targetTagName);
         }
         categories[i] = categoryEntries.join(':');
@@ -61,7 +59,9 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
     if (!foundExistingCategory) {
       categories.push(`${targetCategoryPageName}:${targetTagName}`);
     }
-
+    if (!foundExistingEntry) {
+      console.log(`ADD tag to inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
+    }
     resultCookie = categories.join('|');
 
     setCookie(contentPageName, resultCookie, 30);
