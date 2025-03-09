@@ -217,6 +217,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: A Book contains fiction or nonfiction. If you consult an accurate nonfiction Book about its topic, you gain a +5 bonus to Intelligence (Arcana, History, Nature, or Religion) checks you make about that topic.
 - **Weight**: 2.5 kg
 - **Price**: 25 gp
+![\|250](https://i.pinimg.com/736x/ae/f3/6f/aef36fc5b9b9feb1d80a25a262974a46.jpg)
 *(Source: PHB'24, page 224)*
 
 ### Bread (loaf)
@@ -2100,7 +2101,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
   - *Utilize:* Pick a lock (DC 15), or disarm a trap (DC 15)
 - **Weight**: 500 g
 - **Price**: 25 gp
-![\|250](https://i.pinimg.com/736x/30/83/60/3083606ce8ccd964dc3bc827da8de284.jpg)
+![\|250](https://i.pinimg.com/736x/c4/e9/5d/c4e95d3236da2f5c0aea361925f423c4.jpg)
 *(Source: PHB'24, page 221)*
 
 ### Three-Dragon Ante Set
