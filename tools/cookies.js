@@ -136,12 +136,26 @@ function processTagClick(event) {
     clearTimeout(gMouseDownTimer);
   });
 
+  let gStartTouchLocation = { x: 0, y: 0 };
   window.addEventListener("touchstart", (event) => {
     gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
+    gStartTouchLocation.x = event.touches[0].clientX;
+    gStartTouchLocation.y = event.touches[0].clientY;
   });
+
   window.addEventListener("touchend", (event) => {
     clearTimeout(gMouseDownTimer);
-    processTagClick(event);
+    const endTouch = event.changedTouches[0];
+    const deltaX = endTouch.clientX - gStartTouchLocation.x;
+    const deltaY = endTouch.clientY - gStartTouchLocation.y;
+    const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+
+    if (distance < 100) {
+      processTagClick(event);
+    }
+    else {
+      gMouseHeldAboveThreshold = false;
+    }
   });
   window.addEventListener("touchcancel", (event) => {
     clearTimeout(gMouseDownTimer);
