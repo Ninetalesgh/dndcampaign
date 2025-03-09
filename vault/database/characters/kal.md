@@ -121,13 +121,6 @@
 - **Switch 1 Druid Cantrip**
 
 # Wild Shape Reference
-
-### CR 1/4
-  [Grappler](./../wildshapes.md#cr-14#grappler)
-  [Nimble](./../wildshapes.md#cr-14#nimble)
-  [Blindsight](./../wildshapes.md#cr-14#blindsight)
-  [Burrower](./../wildshapes.md#cr-14#burrower)
-  [Web Walker](./../wildshapes.md#cr-14#web-walker)
 ### CR 1
   [Blind Grappler](./../wildshapes.md#cr-1#blind-grappler)
   [Burrower](./../wildshapes.md#cr-1#burrower)
@@ -137,8 +130,12 @@
   [Poison Shooter](./../wildshapes.md#cr-1#poison-shooter)
   [Ranged Stunner](./../wildshapes.md#cr-1#ranged-stunner)
   [Spiked Carapace](./../wildshapes.md#cr-1#spiked-carapace)
-  
-
+### CR 1/4
+  [Grappler](./../wildshapes.md#cr-14#grappler)
+  [Nimble](./../wildshapes.md#cr-14#nimble)
+  [Blindsight](./../wildshapes.md#cr-14#blindsight)
+  [Burrower](./../wildshapes.md#cr-14#burrower)
+  [Web Walker](./../wildshapes.md#cr-14#web-walker)
 
 # Druid Spell Reference
 ## Cantrips
