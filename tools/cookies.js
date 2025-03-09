@@ -116,11 +116,19 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
 
   let gMouseDownTimer = null;
   window.addEventListener("mousedown", (event) => {
-    gMouseDownTimer = setTimeout(() => {
-      gMouseHeldAboveThreshold = true;
-    }, 500);
+    gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
   });
   window.addEventListener("mouseup", (event) => {
+    clearTimeout(gMouseDownTimer);
+  });
+
+  window.addEventListener("touchstart", (event) => {
+    gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
+  });
+  window.addEventListener("touchend", (event) => {
+    clearTimeout(gMouseDownTimer);
+  });
+  window.addEventListener("touchcancel", (event) => {
     clearTimeout(gMouseDownTimer);
   });
 
