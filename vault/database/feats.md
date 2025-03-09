@@ -74,7 +74,7 @@ Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** dam
 
 ## Warlock
 ### Dark One's Blessing
-When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *(your CHA modifier + your Warlock Level)* 
+When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *[CHA + your Warlock Level]* 
 ![\|50](https://bg3.wiki/w/images/5/59/Grim_Harvest_Icon.webp)
 
 ### Eldritch Invocations
