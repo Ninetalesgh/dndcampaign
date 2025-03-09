@@ -36,13 +36,14 @@
 ### Weapons
 - **STR Based Attack Modifier**: +5 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +1 *(PB + DEX)*.
-[Warhammer](dm/items.md#warhammer)
-[6 Javelins](dm/items.md#javelin)
+  [Warhammer](dm/items.md#warhammer)
+  [6 Javelins](dm/items.md#javelin)
 
 ### Other
-[Chain Mail](dm/items.md#chain-mail)
-[Shield](dm/items.md#shield)
-[Priest's Pack](dm/items.md#priests-pack)
+  [Chain Mail](dm/items.md#chain-mail)
+  [Shield](dm/items.md#shield)
+  [Priest's Pack](dm/items.md#priests-pack)
+  [Clockwork Amulet](dm/items.md#clockwork-amulet)
 
 ## Spellcasting
 - **Prepared Spells**: 4
