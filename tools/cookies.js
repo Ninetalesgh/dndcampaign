@@ -27,7 +27,7 @@ function getCookie(name) {
 
 function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagName) {
 
-  if (targetCategoryPageName === "spells.md" || targetCategoryPageName === "conditions.md") {
+  if (true || targetCategoryPageName === "spells.md" || targetCategoryPageName === "conditions.md") {
     let resultCookie;
     let pageCookie = getCookie(contentPageName);
     let categories = pageCookie?.split('|') ?? [];
