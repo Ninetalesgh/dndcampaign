@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Ninetalesgh/dndcampaign#readme",
   "dependencies": {
-    "ws": "^8.18.0"
+    "ws": "^8.18.1"
   }
 }
