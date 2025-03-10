@@ -4,4 +4,4 @@ git checkout main
 git pull
 git checkout dm
 git pull
-git merge main
+git merge main --no-edit
