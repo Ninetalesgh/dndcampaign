@@ -58,7 +58,7 @@ As a **Bonus Action**, you can open your awareness to detect **Celestials**, **F
 ![\|50](https://bg3.wiki/w/images/4/41/Divine_Sense_Icon.webp)
 
 ### Lay on Hands
-Touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Paladin Level] Charges per Long Rest)*
+As a **Bonus Action**, you can touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Paladin Level] Charges per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
 
 ### Nature's Wrath
