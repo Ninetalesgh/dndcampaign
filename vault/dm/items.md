@@ -76,7 +76,7 @@
 *(concoction, Common)*
 - **Properties**: 
   [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion)
-    *Effect:* End [Poisoned](conditions.md#poisoned) and gain Advantage on Saves against the condition for 1 hour.
+    *Effect:* End [Poisoned](conditions.md#poisoned) and gain **Advantage** on Saves against the condition for 1 hour.
 - **Weight**: 150 g
 - **Price**: 50 gp
 ![\|50](https://bg3.wiki/w/images/6/60/POT_Antidote_Unfaded_Icon.png)
@@ -170,7 +170,7 @@ It takes 10 minutes to recover the Ball Bearings.
 
 ### Blanket
 *(adventuring gear, Common)*
-- **Properties**: While wrapped in a blanket, you have Advantage on saving throws against extreme cold (see the Dungeon Master's Guide).
+- **Properties**: While wrapped in a blanket, you have **Advantage** on saving throws against extreme cold (see the Dungeon Master's Guide).
 - **Weight**: 1.5 kg
 - **Price**: 5 sp
 ![\|250](https://i.pinimg.com/736x/32/28/6a/32286a5daae18d0fadafb43016dfa958.jpg)
@@ -425,7 +425,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Circlet of Vitality's Focus
 *(Wondrous Item, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  - While you are at full Health you gain Advantage on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit Threshold for your Spell Attacks is reduced by 1.  
+  - While you are at full Health you gain **Advantage** on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit Threshold for your Spell Attacks is reduced by 1.  
 - **Weight**: 150 g
 - **Price**: 1800 gp
 ![\|250](https://i.imgur.com/6qI8XuC_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -470,7 +470,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
-  - *Utilize:* Modify footwear to give Advantage on the wearer's next Dexterity (Acrobatics) check (DC 10)
+  - *Utilize:* Modify footwear to give **Advantage** on the wearer's next Dexterity (Acrobatics) check (DC 10)
 [Craft](dm/item_info.md#crafting): [Climber's Kit](dm/items.md#climbers-kit).
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
@@ -502,7 +502,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Costume
 *(adventuring gear, Common)*
-- **Properties**: While wearing a Costume, you have Advantage on any ability check you make to impersonate the person or type of person it represents.
+- **Properties**: While wearing a Costume, you have **Advantage** on any ability check you make to impersonate the person or type of person it represents.
 - **Weight**: 2 kg
 - **Price**: 5 gp
 *(Source: PHB'24, page 225)*
@@ -516,7 +516,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Crowbar
 *(adventuring gear, Common)*
-- **Properties**: Using a Crowbar gives you Advantage on Strength checks where the Crowbar's leverage can be applied.
+- **Properties**: Using a Crowbar gives you **Advantage** on Strength checks where the Crowbar's leverage can be applied.
 - **Weight**: 2.5 kg
 - **Price**: 2 gp
 *(Source: PHB'24, page 225)*
@@ -666,7 +666,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Wondrous Item, Uncommon)*
 - **Properties**: 
   - +2 to CHA (Deception) Checks.
-  - While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain Advantage on Attack Rolls and WIS (Insight) Checks against it.
+  - While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain **Advantage** on Attack Rolls and WIS (Insight) Checks against it.
 - **Weight**: 200 g
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/ZpjO4RN_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -879,7 +879,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Reach**: 1
 - **Damage**: 1d8 + STR Slashing damage.
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
-  - With this weapon, your Attacks against Undead have Advantage and deal either Radiant or Slashing damage (your choice).
+  - With this weapon, your Attacks against Undead have **Advantage** and deal either Radiant or Slashing damage (your choice).
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 1.5 kg
 - **Price**: ??
@@ -1174,7 +1174,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  - *On Hit*, If you already hit the target with the katars this turn: deal an extra 2d4 Fire damage. 
+  - *On Hit*, If you already hit the same target with the katars this turn: deal an extra 2d4 Fire damage. 
 - **Mastery**: [Nick](dm/item_info.md#nick).
 - **Weight**: 0.5 kg
 - **Price**: 2 gp
@@ -1280,7 +1280,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ### Magnifying Glass
 *(adventuring gear, Common)*
-- **Properties**: A Magnifying Glass grants Advantage on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
+- **Properties**: A Magnifying Glass grants **Advantage** on any ability check made to appraise or inspect a highly detailed item. Lighting a fire with a Magnifying Glass requires light as bright as sunlight to focus, tinder to ignite, and about 5 minutes for the fire to ignite.
 - **Weight**: -
 - **Price**: 100 gp
 ![\|250](https://i.pinimg.com/736x/cd/43/a9/cd43a942d6fd06f409736aa5261b9b54.jpg)
@@ -1299,7 +1299,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 ### Mantle of Spell Resistance
 *(Wondrous Item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  - You have Advantage on Saves against Spells.
+  - You have **Advantage** on Saves against Spells.
 - **Weight**: 10 g
 - **Price**: 10000 gp
 ![\|250](https://i.imgur.com/RphJ5ne_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1349,7 +1349,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 
 ### Military Saddle
 *(tack and harness, Common)*
-- **Properties**: A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted.
+- **Properties**: A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives **Advantage** on any ability check you make to remain mounted.
 - **Weight**: 15 kg
 - **Price**: 20 gp
 *(Source: PHB'24, page 230)*
@@ -1534,7 +1534,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Perfume
 *(adventuring gear, Common)*
-- **Properties**: Perfume comes in a 120 milliliter vial. For 1 hour after applying Perfume to yourself, you have Advantage on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within range 1 *(1.5m)* of yourself.
+- **Properties**: Perfume comes in a 120 milliliter vial. For 1 hour after applying Perfume to yourself, you have **Advantage** on Charisma (Persuasion) checks made to influence an Indifferent Humanoid within range 1 *(1.5m)* of yourself.
 - **Weight**: -
 - **Price**: 5 gp
 ![\|250](https://i.pinimg.com/736x/4f/11/d8/4f11d8655fb3853b9b5f9fadbdbef6c3.jpg)
@@ -1596,7 +1596,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Pole
 *(adventuring gear, Common)*
-- **Properties**: A Pole has length 2 *(3m)*. You can use it to touch something within range 2 *(3m)*. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself Advantage on the check.
+- **Properties**: A Pole has length 2 *(3m)*. You can use it to touch something within range 2 *(3m)*. If you must make a Strength (Athletics) check as part of a High or Long Jump, you can use the Pole to vault, giving yourself **Advantage** on the check.
 - **Weight**: 3.5 kg
 - **Price**: 5 cp
 *(Source: PHB'24, page 228)*
@@ -1610,7 +1610,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Portable Ram
 *(adventuring gear, Common)*
-- **Properties**: You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you Advantage on this check.
+- **Properties**: You can use a Portable Ram to break down doors. When doing so, you gain a +4 bonus to the Strength check. One other character can help you use the ram, giving you **Advantage** on this check.
 - **Weight**: 32.5 kg
 - **Price**: 4 gp
 ![\|250](https://i.pinimg.com/736x/5f/85/17/5f8517bff77eb06207e3fb622e516229.jpg)
@@ -1730,7 +1730,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 ### Ring of Arcane Defense
 *(Wondrous Item, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, when you are hit by an attack or targeted by the Magic Missile spell: Cast [Shield](spells.md#spells-s#shield), Additionally you gain Advantage on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds.
+  ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Reaction**, when you are hit by an attack or targeted by the Magic Missile spell: Cast [Shield](spells.md#spells-s#shield), Additionally you gain **Advantage** on Saves against [Restrained](conditions.md#restrained) and [Paralyzed](conditions.md#paralyzed) for 10 rounds.
 - **Weight**: 5 g
 - **Price**: 2000 gp
 ![\|250](https://i.imgur.com/qlqMFaS_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1797,7 +1797,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Gloves, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
   - You gain [Resistance](game_rules.md#damage-types#resistance) to Fire damage.
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Imbue your next Melee Weapon Attack with an additional 1d6 Fire damage. *(Once per Short Rest)*
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Imbue your next Melee Weapon Attack this turn with an additional 1d6 Fire damage. *(Once per Short Rest)*
 - **Weight**: 1 kg
 - **Price**: 1800 gp
 ![\|250](https://i.imgur.com/HOFICx1_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -1860,7 +1860,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **AC**: 15 + DEX (max 2)
 - **Properties**:
   - You have Disadvantage on Dexterity (Stealth) checks while in [Bright Light](dm/items.md#bright-light).
-  - You have Advantage on Saves against being [Poisoned](conditions.md#poisoned).
+  - You have **Advantage** on Saves against being [Poisoned](conditions.md#poisoned).
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**: Create an instantaneous pulse of awareness around you, immediately alerting you to the presence and location of any creature that's on the ground as if you had [Tremorsense 6 *(9m)*](game_rules.md#advanced-rules#tremorsense). *(Once per Long Rest)*
 - **Weight**: 20 kg
 - **Price**: 1500 gp
@@ -2137,7 +2137,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
   - This high quality assortment can be used in place of a set of [Thieves' Tools](dm/items.md#thieves-tools) and as if you were proficient with it.
   - If you already had proficiency with Thieves' Tools:
     - You gain +1 to Ability Checks using these.
-    - If you set off a trap while using these tools to pick a lock, you have Advantage on any Save to resist the trap.
+    - If you set off a trap while using these tools to pick a lock, you have **Advantage** on any Save to resist the trap.
     ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Hold the listening cone against a door to hear through it. As long as it's no thicker than 30cm, you learn the location of any creatures within range 4 *(6m)* of the door.
 - **Weight**: 500 g
 - **Price**: 1200 gp

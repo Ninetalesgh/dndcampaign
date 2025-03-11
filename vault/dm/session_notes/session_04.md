@@ -16,9 +16,53 @@
 
  **Grand Factor Silan Thornvale** -> Balding, White Robe.
 
-[TODO] Grand Factor approaches, Dain, and Borin as well. INTRODUCE PRIEST
-Dain doesn't like the priest, priest suggests the players step into merchant council about this and the goblin encounter.
-[TODO] INTRODUCE Merchant Council 
+- MAYBE [TODO] Grand Factor approaches, Dain, and Borin as well. INTRODUCE PRIEST
+- Dain doesn't like the priest, priest suggests the players step into merchant council about this and the goblin encounter.
+
+- **Kazimir** on his way back to The Academy from his place notices breached storefronts, and even stab victims.
+(maybe it's **Tobben**, who tried to hold another looter back from hurting the storekeeper and got hurt in the process)
+- Kobolds could also turn up here.
+
+## The Council
+
+- [Borin Grathal](dm/npcs.md#borin-grathal).
+- [Dain Elster](dm/npcs.md#dain-elster).
+
+The players see:
+1  a fashionable f-HUMAN textile trader
+2  a scarred x-DRAGONBORN weapons trader
+3  a silver-haired m-HUMAN head of the alchemists
+4  a f-HALF-ELF spice, perfume & luxury trader
+5  a m-DWARVEN brewer & liquor trader
+6  a m-HUMAN transport & logistics
+7  a f-GNOME glassblower & jeweler
+8  a m-HUMAN moneylender & the de-facto head of the council **Ledgerhand**
+9  a m-HUMAN grand factor of waukeen **Silan Thornvale**
+10 **Borin Grathal**, head of the Academy
+11 **Dain Elster**, count of New Arvandal
+
+**Baroness Isolde Redmire.** -> A refined and shrewd textile magnate who controls the wool and dye trade. Always draped in the latest imported silks, she has an eye for fashion and finance alike.
+
+**Gorva "Three-Scales" Durn.** -> A grizzled dragonborn metalsmith who oversees a lucrative arms and armor trade. Her nickname comes from an old forge accident that left three scale-shaped scars across her face.
+
+**Magister Othric Venn.** -> A silver-haired human academic and head of the local alchemist’s guild, he argues for magical advancements in trade but is notoriously difficult to work with due to his pedantic nature.
+
+**Velora Quinch.** -> A half-elf spice and luxury goods importer who has made a fortune in exotic teas, perfumes, and rare indulgences. Always smells faintly of cinnamon and wears jingling gold bracelets.
+
+**Brenn Foremarsh.** -> A portly, good-natured halfling brewer who supplies the town’s finest ales. Has a booming laugh and a tendency to call everyone "my friend" before negotiating them into a terrible deal.
+
+**Hendrik Karral.** -> A former mercenary turned logistics expert, he runs a shipping and caravan business. Pragmatic and unsentimental, he sees commerce as a battlefield where only the clever survive.
+
+**Seraphine Lowind.** -> A gnome glassblower and jeweler, small in stature but large in presence. She commands respect with her sharp business sense and even sharper tongue.
+
+**Jorvus "Ledgerhand" Pell.** -> A meticulous accountant and moneylender whose sharp mind has made him indispensable to the council. He wears wire-rimmed glasses and always seems to be scribbling figures in a notebook.
+
+**Motivations**: 
+- Academy staff kind of put off by the merchant's council
+- Merchant's council wants to exert pressure on **Dain** to move The Guard towards the goblins
+- Arms dealer, Alchemist and Logistics lean towards aggression, luxury goods traders rather towards diplomacy. Especially **Ledgerhand** doesn't like aggression, dead people don't pay back debts, after all.
+
+- Mobilizing against the goblins means less guards in the Stockpile. **Tess** also likes this. **Teal** and **Dain** are invested in the Stockpile Encroachment.
 
 
 ## The Academy  
