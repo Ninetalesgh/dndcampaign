@@ -22,7 +22,7 @@
 | ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
 | ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
 | ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
-| ☐ Nature +0        | ☑ **Perception +3**  | ☐ Persuasion +0    |
+| ☐ Nature +0        | ☑ **Perception +3**  | ☑ **Persuasion +2**    |
 | ☑ **Religion +2**  | ☐ Survival +1        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
@@ -30,7 +30,6 @@
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
 - **Languages**: Common, Undercommon, Thieves' Cant
 
-[TODO] 1 Fighter Skill Proficiency
 [TODO] 1 Tool Proficiency
 
 ## Equipment

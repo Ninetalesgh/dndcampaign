@@ -81,6 +81,7 @@
 
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
   [Stone's Endurance *(PB times per Long Rest)*](./../feats.md#stones-endurance)
+  [Absorb Elements](./../spells.md#spells-a#absorb-elements)
 
 ### Passive Feats
 *- Extra lineage feat at level 5.*
