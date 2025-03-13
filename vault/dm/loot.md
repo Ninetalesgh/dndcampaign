@@ -59,8 +59,11 @@ Nyari:
     [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
     [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
     [Clockwork Amulet](dm/items.md#clockwork-amulet)
-0/5 UC
-0/1 R
+2/5 UC
+  [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
+[TODO] RING OF PERSUASION HERE
+1/1 R
+  [Thalioel's Tear](dm/items.md#thalioels-tear)
 
 ## Tier 2 (Levels 5-10)
 0/10 C
