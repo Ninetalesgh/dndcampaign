@@ -38,6 +38,7 @@
 - **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
+  [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
 ### Other
   [Scale Mail](dm/items.md#scale-mail)
   [Alchemist's Supplies](dm/items.md#alchemists-supplies)
