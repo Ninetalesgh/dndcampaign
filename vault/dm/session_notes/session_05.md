@@ -13,11 +13,11 @@
 
 
 # Introduction
+[TODO] Change this ENTIRE PART
+[TODO] CLEAN UP DANGLING SECTIONS HERE
 
  **Grand Factor Silan Thornvale** -> Balding, White Robe.
 
-- MAYBE [TODO] Grand Factor approaches, Dain, and Borin as well. INTRODUCE PRIEST
-- Dain doesn't like the priest, priest suggests the players step into merchant council about this and the goblin encounter.
 
 - **Kazimir** on his way back to The Academy from his place notices breached storefronts, and even stab victims.
 (maybe it's **Tobben**, who tried to hold another looter back from hurting the storekeeper and got hurt in the process)
@@ -210,6 +210,21 @@ Monsters:
 Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 
 #### Engine Room
+
+Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
+Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
+  someone she remembers?
+  - telling her she can never go back to the heavens, something about their damnation [TODO]
+Kal -> His whole tribe 
+  how his coming of age ceremony looked? 
+  - telling him he is a disappointment, not able to save them.
+Kazimir -> His father (because his mother isn't dead yet)
+  how he looked, a childhood memory?
+  - He yells at him about how much he's one of 'them' and your own father is just cattle to you?' (maybe that's too direct [TODO])
+Mufi -> Adam
+  a good memory playing or studying together.
+  - He yells at Mufi about how noone likes him and he hates him.
+Nyari -> His mentory? Monastery?
 
 [TODO] Engine Build. How it works, how it suppresses magic, etc.
 

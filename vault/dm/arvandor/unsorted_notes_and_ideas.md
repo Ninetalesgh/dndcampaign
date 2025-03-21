@@ -1,19 +1,3 @@
-# The Engine Room 
-
-Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
-Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
-  someone she remembers?
-  - telling her she can never go back to the heavens, something about their damnation [TODO]
-Kal -> His whole tribe 
-  how his coming of age ceremony looked? 
-  - telling him he is a disappointment, not able to save them.
-Kazimir -> His father (because his mother isn't dead yet)
-  how he looked, a childhood memory?
-  - He yells at him about how much he's one of 'them' and your own father is just cattle to you?' (maybe that's too direct [TODO])
-Mufi -> Adam
-
-Nyari -> His mentory? Monastery?
-
 # Strong Introduction
 
 [Guard Tessa Marwick](dm/npcs.md#guard-tessa-marwick)
@@ -30,7 +14,6 @@ Nyari -> His mentory? Monastery?
 - Tess offers armaments to players (armor, shields, javelins) consider don speed? 
 
 - ~5km distance ATHLETICS check to keep a good pace if you wanted to put on armor?
-
 
 
 # Scenes

@@ -4,7 +4,7 @@
 
 Dain mentions council.
 Alenna mentions daughter.
-
+Kazimir makes his way back up to the high road from his personal quarters.
 
 ## The Ruins
 [TODO] Ruin description.
