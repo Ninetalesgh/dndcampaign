@@ -127,6 +127,17 @@ function processTagHold(event) {
   }
 }
 
+function androidLog(text) {
+  let androidLogNode = document.getElementById('android-log');
+  if (!androidLogNode) {
+    const equipmentNode = document.getElementById('equipment');  
+    androidLogNode = document.createElement('p');
+    newP.id = 'android-log';
+    equipmentNode.appendChild(androidLogNode);
+  }
+  androidLogNode.innerHTML = text;
+}
+
 // EXECUTION
 {
   let gMouseDownTimer = null;
@@ -164,13 +175,12 @@ function processTagHold(event) {
   window.addEventListener("touchmove", (event) => {
     gCurrentTouchLocation.x = event.touches[0].clientX;
     gCurrentTouchLocation.y = event.touches[0].clientY;
+    androidLog(`${event}`);
   });
   window.addEventListener("touchend", (event) => {
     clearTimeout(gMouseDownTimer);
-
   });
   window.addEventListener("touchcancel", (event) => {
     clearTimeout(gMouseDownTimer);
-
   });
 }
