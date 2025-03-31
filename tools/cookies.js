@@ -127,6 +127,7 @@ function processTagHold(event) {
   }
 }
 
+// This is just for debugging the android emergencies
 function androidLog(text) {
   let androidLogNode = document.getElementById('android-log');
   if (!androidLogNode) {
@@ -164,7 +165,6 @@ function androidLog(text) {
       const deltaX = gCurrentTouchLocation.x - gStartTouchLocation.x;
       const deltaY = gCurrentTouchLocation.y - gStartTouchLocation.y;
       const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
-
       if (distance < 100) {
         processTagHold(event);
       }
@@ -175,7 +175,6 @@ function androidLog(text) {
   window.addEventListener("touchmove", (event) => {
     gCurrentTouchLocation.x = event.touches[0].clientX;
     gCurrentTouchLocation.y = event.touches[0].clientY;
-    androidLog(`${event}`);
   });
   window.addEventListener("touchend", (event) => {
     clearTimeout(gMouseDownTimer);
