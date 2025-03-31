@@ -2,7 +2,6 @@ let gActiveContentPageNode = null;
 let gMouseHeldAboveThreshold = false;
 
 function setCookie(name, value, days) {
-
   const date = new Date();
   date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
   let expires = "; expires=" + date.toUTCString();
@@ -112,22 +111,18 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
 }
 
 function processTagClick(event) {
-  if (gMouseHeldAboveThreshold) {
-    gMouseHeldAboveThreshold = false;
+  let target = event.target;
+  while (target && !target.classList.contains("inline-link")) {
+    target = target.parentElement;
+  }
 
-    let target = event.target;
-    while (target && !target.classList.contains("inline-link")) {
-      target = target.parentElement;
-    }
-
-    if (target) {
-      if (target.dataset.url && gActiveContentPageNode) {
-        const categoryPageName = getCategoryPageNameFromUrl(target.dataset.url);
-        const tagName = getTagNameFromUrl(target.dataset.url);
-        toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
-        //TODO make this a single element change
-        applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
-      }
+  if (target) {
+    if (target.dataset.url && gActiveContentPageNode) {
+      const categoryPageName = getCategoryPageNameFromUrl(target.dataset.url);
+      const tagName = getTagNameFromUrl(target.dataset.url);
+      toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
+      //TODO make this a single element change
+      applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
     }
   }
 }
@@ -136,39 +131,46 @@ function processTagClick(event) {
 {
   let gMouseDownTimer = null;
   window.addEventListener("mousedown", (event) => {
-    gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
+    gMouseHeldAboveThreshold = false;
+    gMouseDownTimer = setTimeout(() => {
+      processTagClick(event);
+      gMouseHeldAboveThreshold = true;
+    }, 500);
   });
   window.addEventListener("mouseup", (event) => {
     clearTimeout(gMouseDownTimer);
   });
 
   let gStartTouchLocation = { x: 0, y: 0 };
+  let gCurrentTouchLocation = { x: 0, y: 0 };
   window.addEventListener("touchstart", (event) => {
-    gMouseDownTimer = setTimeout(() => { gMouseHeldAboveThreshold = true; }, 500);
     gStartTouchLocation.x = event.touches[0].clientX;
     gStartTouchLocation.y = event.touches[0].clientY;
+    gCurrentTouchLocation = { ...gStartTouchLocation };
+
+    gMouseHeldAboveThreshold = false;
+    gMouseDownTimer = setTimeout(() => {
+      const deltaX = gCurrentTouchLocation.clientX - gStartTouchLocation.x;
+      const deltaY = gCurrentTouchLocation.clientY - gStartTouchLocation.y;
+      const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+
+      if (distance < 100) {
+        processTagClick(event);
+      }
+      gMouseHeldAboveThreshold = true;
+    }, 500);
   });
 
+  window.addEventListener("touchmove", (event) => {
+    gCurrentTouchLocation.x = event.touches[0].clientX;
+    gCurrentTouchLocation.y = event.touches[0].clientY;
+  });
   window.addEventListener("touchend", (event) => {
     clearTimeout(gMouseDownTimer);
-    const endTouch = event.changedTouches[0];
-    const deltaX = endTouch.clientX - gStartTouchLocation.x;
-    const deltaY = endTouch.clientY - gStartTouchLocation.y;
-    const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
 
-    if (distance < 100) {
-      processTagClick(event);
-    }
-    else {
-      gMouseHeldAboveThreshold = false;
-    }
   });
   window.addEventListener("touchcancel", (event) => {
     clearTimeout(gMouseDownTimer);
-    gMouseHeldAboveThreshold = false;
-  });
 
-  document.body.addEventListener("click", (event) => {
-    processTagClick(event);
   });
 }
