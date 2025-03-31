@@ -110,7 +110,7 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
   }
 }
 
-function processTagClick(event) {
+function processTagHold(event) {
   let target = event.target;
   while (target && !target.classList.contains("inline-link")) {
     target = target.parentElement;
@@ -133,7 +133,7 @@ function processTagClick(event) {
   window.addEventListener("mousedown", (event) => {
     gMouseHeldAboveThreshold = false;
     gMouseDownTimer = setTimeout(() => {
-      processTagClick(event);
+      processTagHold(event);
       gMouseHeldAboveThreshold = true;
     }, 500);
   });
@@ -150,12 +150,12 @@ function processTagClick(event) {
 
     gMouseHeldAboveThreshold = false;
     gMouseDownTimer = setTimeout(() => {
-      const deltaX = gCurrentTouchLocation.clientX - gStartTouchLocation.x;
-      const deltaY = gCurrentTouchLocation.clientY - gStartTouchLocation.y;
+      const deltaX = gCurrentTouchLocation.x - gStartTouchLocation.x;
+      const deltaY = gCurrentTouchLocation.y - gStartTouchLocation.y;
       const distance = Math.sqrt(deltaX * deltaX + deltaY * deltaY);
 
       if (distance < 100) {
-        processTagClick(event);
+        processTagHold(event);
       }
       gMouseHeldAboveThreshold = true;
     }, 500);
