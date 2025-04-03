@@ -1,6 +1,7 @@
 # Names
 [Human Names](dm/names.md#human-names), [Elven Names](dm/names.md#elven-names), [Dwarven Names](dm/names.md#dwarven-names), [Halfling Names](dm/names.md#halfling-names), [Gnomish Names](dm/names.md#gnomish-names), [Goblin Names](dm/names.md#goblin-names), [Orcish Names](dm/names.md#orcish-names), [Tiefling Names](dm/names.md#tiefling-names), [Dragonborn Names](dm/names.md#dragonborn-names), [Catch-All Names](dm/names.md#catch-all-names).
 
+- **DAY 3**
 # Current Player Interests
 
 - **Translate Goblin Orders & Find out why there is an army camp.** To introduce Elara Moonshadow & The Council superficially.
@@ -18,12 +19,61 @@
 
  **Grand Factor Silan Thornvale** -> Balding, White Robe.
 
+## The Crypt
 
-- **Kazimir** on his way back to The Academy from his place notices breached storefronts, and even stab victims.
-(maybe it's **Tobben**, who tried to hold another looter back from hurting the storekeeper and got hurt in the process)
-- Kobolds could also turn up here.
+[Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
+[Barrow Wights (1)](dm/monsters.md#barrow-wight)
+[Zombie (1/4)](dm/monsters.md#zombie)
+[Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
+[Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
+[Shadows (1/2)](dm/monsters.md#shadow)
+
+[Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard)
+[Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube)
+
+### The Crypt Level 1
+#### The Honorable Room
+[TODO] Room contents
+
+#### Room Of Ash
+- Lots of urns, some shattered, ash in the air during combat, bad vision.
+Monsters: 
+[Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
+
+Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+
+#### Engine Room
+
+Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
+Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
+  someone she remembers?
+  - telling her she can never go back to the heavens, something about their damnation [TODO]
+Kal -> His whole tribe 
+  how his coming of age ceremony looked? 
+  - telling him he is a disappointment, not able to save them.
+Kazimir -> His father (because his mother isn't dead yet)
+  how he looked, a childhood memory?
+  - He yells at him about how much he's one of 'them' and your own father is just cattle to you?' (maybe that's too direct [TODO])
+Mufi -> Adam
+  a good memory playing or studying together.
+  - He yells at Mufi about how noone likes him and he hates him.
+Nyari -> His mentory? Monastery?
+
+[TODO] Engine Build. How it works, how it suppresses magic, etc.
+
+- General Monsters:
+[Air Mephit (1/2)](dm/monsters.md#air-mephit)
+[Steam Mephit (1/2)](dm/monsters.md#steam-mephit)
+[Glass Mephit (1/4)](dm/monsters.md#glass-mephit)
+[Magma Mephit (1)](dm/monsters.md#magma-mephit)
+[Magmin (1/2)](dm/monsters.md#magmin)
+[Geonid (1/4)](dm/monsters.md#geonid)
 
 ## The Council
+
+[TODO] The Grand Factor is in liege with Zariel, trying to recruit souls for the army of hell.
+- There is something interesting in The Crypt (demonic power or such) that the grand factor wants, hirelings will show up later in The Crypt. 
+
 
 - [Borin Grathal](dm/npcs.md#borin-grathal).
 - [Dain Elster](dm/npcs.md#dain-elster).
@@ -184,56 +234,5 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
   In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).
 
   Lyanna's body flops into a [Boneless (1/2)](dm/monsters.md#boneless) and a [Skeleton Warrior (1/4)](dm/monsters.md#skeleton-warrior) with just it's finger bones sharpened.
-
-
-## The Crypt
-
-[Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
-[Barrow Wights (1)](dm/monsters.md#barrow-wight)
-[Zombie (1/4)](dm/monsters.md#zombie)
-[Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
-[Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
-[Shadows (1/2)](dm/monsters.md#shadow)
-
-[Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard)
-[Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube)
-
-### The Crypt Level 1
-#### The Honorable Room
-[TODO] Room contents
-
-#### Room Of Ash
-- Lots of urns, some shattered, ash in the air during combat, bad vision.
-Monsters: 
-[Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
-
-Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
-
-#### Engine Room
-
-Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
-Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
-  someone she remembers?
-  - telling her she can never go back to the heavens, something about their damnation [TODO]
-Kal -> His whole tribe 
-  how his coming of age ceremony looked? 
-  - telling him he is a disappointment, not able to save them.
-Kazimir -> His father (because his mother isn't dead yet)
-  how he looked, a childhood memory?
-  - He yells at him about how much he's one of 'them' and your own father is just cattle to you?' (maybe that's too direct [TODO])
-Mufi -> Adam
-  a good memory playing or studying together.
-  - He yells at Mufi about how noone likes him and he hates him.
-Nyari -> His mentory? Monastery?
-
-[TODO] Engine Build. How it works, how it suppresses magic, etc.
-
-- General Monsters:
-[Air Mephit (1/2)](dm/monsters.md#air-mephit)
-[Steam Mephit (1/2)](dm/monsters.md#steam-mephit)
-[Glass Mephit (1/4)](dm/monsters.md#glass-mephit)
-[Magma Mephit (1)](dm/monsters.md#magma-mephit)
-[Magmin (1/2)](dm/monsters.md#magmin)
-[Geonid (1/4)](dm/monsters.md#geonid)
 
 
