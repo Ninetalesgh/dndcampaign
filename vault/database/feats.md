@@ -56,7 +56,7 @@ When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather 
 #### Bait and Switch
 *(Cost: 1 Superiority Die)*
 When you're within range 1 *(1.5m)* of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 1 range movement and the creature is willing and isn't [Incapacitated](conditions.md#incapacitated). This movement doesn't provoke Opportunity Attacks.
- - Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
+  - **Roll the Superiority Die.** Until the start of your next turn, you or the other creature (your choice) gains a bonus to **AC** equal to the number rolled.
  ![\|50](https://imgur.com/URyXlFw.png)
 
 #### Grappling Attack

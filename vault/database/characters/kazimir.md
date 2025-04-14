@@ -79,10 +79,6 @@
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](feats.md#fighting-style): Two-Weapon Fighting.
-
-
-- **Tactical Mind.** 
-
 - [Skilled](feats.md#skilled) *(Already included above)*
 
 # Reminders
