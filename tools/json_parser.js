@@ -78,7 +78,7 @@ function strip5EToolsTags(string)
   strippedString = convertFeetString(strippedString);
   
   strippedString = strippedString.replace(/(darkvision|blindsight|tremorsense|truesight)(?:\s[0-9]+\s(\*\([0-9]+m\)\*))?/gmi, (m,g1,g2) => {
-    return g1 ? `[${`${g1[0].toUpperCase()}${g1.slice(1)}`}${g2 ? ` ${g2}` : ''}](./../game_rules.md#advanced-rules#${g1.toLowerCase()})` : m; });
+    return g1 ? `[${`${g1[0].toUpperCase()}${g1.slice(1)}`}${g2 ? ` ${g2}` : ''}](game_rules.md#advanced-rules#${g1.toLowerCase()})` : m; });
 
   strippedString = strippedString.replace(/dim\slight/gmi, '[Dim Light](game_rules.md#advanced-rules#dim-light)');
   strippedString = strippedString.replace(/bright\slight/gmi, '[Bright Light](game_rules.md#advanced-rules#bright-light)');
