@@ -44,7 +44,7 @@
   [Alchemist's Supplies](dm/items.md#alchemists-supplies)
 
 ## Battle Master
-- **Superiority Dice:** 4 d8.
+- ![\|25](https://bg3.wiki/w/images/9/9f/Superiority_Die_d8_Icon.png) **Superiority Dice:** 4 d8.
 - **Maneuver Save DC:** 13 *(8 + PB + STR or DEX)*.
 - **Maneuvers:**
   [Bait and Switch](feats.md#bait-and-switch)
@@ -65,7 +65,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Second Wind *(2 Charges, regain 1 after Short-, all after Long Rests)*](./../feats.md#second-wind)
+  [Second Wind *(2 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#second-wind)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -73,17 +73,17 @@
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ### Passive Feats
-  [Action Surge *(Once per Short Rest)*](./../feats.md#action-surge)
-  [Tactical Mind *(Uses Second Wind Charges)*](./../feats.md#tactical-mind)
+  [Action Surge *(Once per Short Rest)*](feats.md#action-surge)
+  [Tactical Mind *(Uses Second Wind Charges)*](feats.md#tactical-mind)
 
-- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
+- [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
-- [Fighting Style](./../feats.md#fighting-style): Two-Weapon Fighting.
+- [Fighting Style](feats.md#fighting-style): Two-Weapon Fighting.
 
 
 - **Tactical Mind.** 
 
-- [Skilled](./../feats.md#skilled) *(Already included above)*
+- [Skilled](feats.md#skilled) *(Already included above)*
 
 # Reminders
 ### After Short Rest
