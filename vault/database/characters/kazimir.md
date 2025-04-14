@@ -47,7 +47,9 @@
 - **Superiority Dice:** 4 d8.
 - **Maneuver Save DC:** 13 *(8 + PB + STR or DEX)*.
 - **Maneuvers:**
-[TODO] 3 Maneuvers
+  [Bait and Switch](feats.md#bait-and-switch)
+  [Grappling Attack](feats.md#grappling-attack)
+  [Menacing Attack](feats.md#menacing-attack)
 
 ## Feats and Actions
 ### Actions

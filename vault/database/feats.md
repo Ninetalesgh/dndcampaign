@@ -52,6 +52,23 @@ Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regain 1 after Sho
 When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
 ![\|50](https://bg3.wiki/w/images/7/7a/Read_Thoughts_Icon.webp)
 
+### Maneuver
+#### Bait and Switch
+*(Cost: 1 Superiority Die)*
+When you're within range 1 *(1.5m)* of a creature on your turn, you can expend one Superiority Die and switch places with that creature, provided you spend at least 1 range movement and the creature is willing and isn't [Incapacitated](conditions.md#incapacitated). This movement doesn't provoke Opportunity Attacks.
+ - Roll the Superiority Die. Until the start of your next turn, you or the other creature (your choice) gains a bonus to AC equal to the number rolled.
+ ![\|50](https://imgur.com/URyXlFw)
+
+#### Grappling Attack 
+*(Cost: 1 Superiority Die)*
+When you hit a creature with a **Melee Attack** and one of your hands is free, you can expend one Superiority Die to attempt to grapple the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a STR Save or be [Grappled](conditions.md#grappled) by you.
+![\|50](https://bg3.wiki/w/images/4/40/Unarmed_Strike_Icon.webp)
+
+#### Menacing Attack
+*(Cost: 1 Superiority Die)*
+When you hit a creature with a **Melee or Ranged Attack**, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wis Save or be [Frightened](conditions.md#frightened) until the end of your next turn.
+![\|50](https://bg3.wiki/w/images/e/e6/Menacing_Attack_Melee_Icon.webp)
+
 ## Paladin
 ### Divine Sense
 As a **Bonus Action**, you can open your awareness to detect **Celestials**, **Fiends**, and **Undead**. For the next 10 minutes or until you are [Incapacitated](conditions.md#incapacitated), you know the location of any creature of those types within range 12 *(18m)*  of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](spells.md#hallow) spell.
