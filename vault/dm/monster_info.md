@@ -339,6 +339,9 @@ Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.
   When skeletons encounter living creatures, the necromantic energy that drives them compels them to kill unless they are commanded by their masters to refrain from doing so. They attack without mercy and fight until destroyed, for skeletons possess little sense of self and even less sense of self-preservation.
 
 [Skeleton (1/4)](dm/monsters.md#skeleton)
+[Boneshard Skeleton (2)](dm/monsters.md#boneshard-skeleton)
+[Blazing Bones (3)](dm/monsters.md#blazing-bones)
+
 ![\|250](https://i.pinimg.com/736x/8c/f9/38/8cf9388b7486c01aee6072c7cef8f424.jpg)
 ### Wights 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -362,6 +365,7 @@ From somewhere in the darkness, a gurgling moan is heard. A form lurches into vi
 [Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
 [Gravehound (1/2)](dm/monsters.md#gravehound)
 [Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
+[Zombie Burster (2)](dm/monsters.md#zombie-burster)
 
 ![\|250](https://i.pinimg.com/736x/7a/a7/51/7aa75134bed6bd2d0673cb28faf0e2b8.jpg)
 
@@ -383,3 +387,7 @@ While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on
 If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.
 ### Undead Fortitude 
 If damage reduces this creature to 0 HP, it must make a CON Save with a DC of 5 plus the damage taken unless the damage is Radiant or from a Critical Hit. On a successful save, this creature drops to 1 HP instead.
+### Rattle
+A creature that hits this creature with a Melee Attack that deals bludgeoning damage must succeed a DC 12 WIS Save or be [Frightened](conditions.md#frightened) until the end of its next turn as it feels its own skeleton twitch slightly.
+### Bonesense
+The skeleton can pinpoint, by scent, the location of any creature with bones within 4 *(6m)* of it, and does not suffer Disadvantage for attacking a creature with bones that it cannot see.

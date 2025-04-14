@@ -305,6 +305,35 @@ STR | DEX | CON | INT | WIS | CHA
    If no creature fails this save, the bear is [Frightened](conditions.md#frightened) of each creature that passed it until the end of its next turn.
 *(Source: ConfluxCreatures)*
 
+### Blazing Bones
+**CR**: 3
+*Medium undead, Lawful Evil*
+- **Initiative**: +3
+- **AC**: 14 (natural armor)
+- **HP**: 90 (12d8 + 36)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+10 (+0) | 16 (+3) | 17 (+3) | 6 (-2) | 8 (-1) | 8 (-1) 
+
+- **Vulnerabilities**: bludgeoning.
+- **Immunities**: fire, poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Languages**: understands all languages it knew in life but can't speak
+- **Traits**: [Bonesense](dm/monster_info.md#bonesense).
+   - **Burning Aura**. A creature that hits the blazing bones with a melee attack for the first time on a turn must succeed on a DC 13 DEX Save or begin [Burning](conditions.md#burning).
+   - **Regrow Nerves**. If the blazing bones would receive any magical healing, it receives no healing, and instead gains disadvantage on attack rolls for the next minute.
+- **Actions**: 
+   - **Multiattack**. The blazing bones makes two attacks with its blazing claw.
+   - **Blazing Claw**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 6 (1d6 + 3) slashing plus 3 (1d6) fire damage.
+   - **Hurled Flame**. *Ranged Attack:* +5 to hit, range 6 *(9m)*, one target. 
+    *Hit:* 14 (2d10 + 3) fire damage and the creature starts [Burning (1d10)](conditions.md#burning).
+- **Reactions**: 
+   - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 HP, the skeleton can move up to 2 *(3m)* towards the creature.
+*(Source: ConfluxCreatures)*
+
 ### Blink Dog
 **CR**: 1/4
 *Medium fey, Lawful Good*
@@ -375,6 +404,34 @@ STR | DEX | CON | INT | WIS | CHA
    - **Clinging Slam**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 3 (1d4 + 1) bludgeoning damage and the boneless wraps itself around the target (escape DC 11). While the boneless is wrapped around it, a creature cannot speak or breathe, and the boneless moves with the target.
    - **Throttle**. One creature the boneless is wrapped around must succeed on a DC 11 CON Save or have the air driven from its lungs and begin to suffocate.
+*(Source: ConfluxCreatures)*
+
+### Boneshard Skeleton
+**CR**: 2
+*Medium undead, Lawful Evil*
+- **Initiative**: +3
+- **AC**: 15 (natural armor)
+- **HP**: 78 (12d8 + 24)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+10 (+0) | 16 (+3) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) 
+
+- **Vulnerabilities**: bludgeoning.
+- **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Languages**: understands all languages it knew in life but can't speak
+- **Traits**: [Rattle](dm/monster_info.md#rattle), [Bonesense](dm/monster_info.md#bonesense).
+   - **Marrowseal**. If the skeleton would receive any magical healing, it receives no healing, and instead loses the ability to use its Boneshard for the next minute.
+- **Actions**: 
+   - **Multiattack**. The skeleton makes two attacks with its bound blades, one of which it may replace with a use of its Boneshard.
+   - **Bound Blades**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 10 (2d6 + 3) piercing damage.
+   - **Boneshard**. One creature the skeleton can see within 4 *(6m)* must make a DC 13 DEX Save. On a failure, the target takes 7 (2d6) piercing damage and has its movement speed reduced by 1 *(1.5m)* until a creature takes an Action to remove the shard, or takes half as much damage on a success.
+- **Reactions**: 
+   - **Boneshard Burst**. When the skeleton is reduced to 0 HP, it can use its Boneshard targeting each creature within 2 *(3m)* of it before being destroyed.
+   - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 HP, the skeleton can move up to 2 *(3m)* towards the creature.
 *(Source: ConfluxCreatures)*
 
 ### Booyahg Caster
@@ -1917,10 +1974,9 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: understands all languages it knew in life but can't speak
-- **Traits**:
+- **Traits**: [Rattle](dm/monster_info.md#rattle).
    - **Unliving Warriors**. The skeleton has proficiency in all martial weapons and armor.
    - **Bonesense**. The skeleton can pinpoint, by scent, the location of any creature with bones within 4 *(6m)* of it, and does not suffer disadvantage for attacking a creature with bones that it cannot see.
-   - **Rattle**. A creature that hits the skeleton with a melee attack that deals bludgeoning damage must succeed a DC 12 WIS Save or be [Frightened](conditions.md#frightened) until the end of its next turn as it feels its own skeleton twitch slightly.
 - **Actions**:
    - **Shortsword**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
     *Hit:* 5 (1d6 + 2) piercing damage.
@@ -2254,6 +2310,32 @@ STR | DEX | CON | INT | WIS | CHA
 ## Monsters Y
 
 ## Monsters Z
+### Zombie Burster
+**CR**: 2
+*Large undead, Unaligned*
+- **Initiative**: -2
+- **AC**: 12 (natural armor)
+- **HP**: 59 (7d10 + 21)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) 
+
+- **Skills**: athletics: +4
+- **Immunities**: poison; [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Traits**: 
+   - **Corrupted Bloat**. If the zombie takes at least 10 points of slashing or piercing damage in a turn, a gout of toxic gas erupts from it. Each creature within 2 *(3m)* must succeed on a DC 13 DEX Save or take 7 (2d6) poison damage.
+   - **Volatile**. If the zombie takes any fire damage, it must succeed on a DC 10 CON Save or explode. Each creature within 4 *(6m)* must succeed on a DC 13 DEX Save or take 14 (4d6) fire damage and be knocked [Prone](conditions.md#prone), or take half as much on a success.
+- **Actions**: 
+   - **Multiattack**. The zombie makes two attacks with its grasp of the dead.
+   - **Grasp of the Dead**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 6 (1d6 + 2) bludgeoning damage and the target is [Grappled](conditions.md#grappled) (escape DC 12).
+   - **Festering Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, targets one [Grappled](conditions.md#grappled) creature. 
+    *Hit:* 9 (2d6 + 2) piercing damage and 7 (2d6) necrotic damage.
+*(Source: ConfluxCreatures)*
+
 ### Zombie
 **CR**: 1/4
 *Medium undead, Neutral Evil*
@@ -2300,3 +2382,4 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+

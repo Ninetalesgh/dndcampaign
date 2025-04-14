@@ -22,10 +22,7 @@
 
 ## The Crypt
 
-[Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
-[Barrow Wights (1)](dm/monsters.md#barrow-wight)
-[Zombie (1/4)](dm/monsters.md#zombie)
-[Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
+
 [Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
 [Shadows (1/2)](dm/monsters.md#shadow)
 
@@ -36,14 +33,23 @@
 #### The Honorable Room
 [TODO] Room contents
 
+Some of these:
+[Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
+[Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
+
+One: [Boneshard Skeleton (2)](dm/monsters.md#boneshard-skeleton)
+One: [Zombie Burster (2)](dm/monsters.md#zombie-burster)
+
 #### Room Of Ash
 - Lots of urns, some shattered, ash in the air during combat, bad vision.
 Monsters: 
-[Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
+Some: [Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
 
 Loot: [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 
 #### Engine Room
+One: [Blazing Bones (3)](dm/monsters.md#blazing-bones)
+Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 
 Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
 Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
