@@ -112,7 +112,7 @@
       console.log(port);
       console.log(host);
 
-      let contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_04.md`;
+      let contentPageUrl = '';
 
       for (const [key, value] of urlParams) {
         if (key === 'page') {
@@ -134,7 +134,7 @@
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_info.md`,
-        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
+        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_05.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_04.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_03.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_02.md`,
@@ -142,8 +142,14 @@
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/encounters.md`,
         //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
+        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
         `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
       );
+      
+      if (contentPageUrl === '')
+      {
+        contentPageUrl = dmPages[3];  
+      }
 
       window.addEventListener('load', async () => {
         const ul = document.createElement('ul');
