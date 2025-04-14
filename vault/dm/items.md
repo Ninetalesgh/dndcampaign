@@ -1213,6 +1213,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 - **Weight**: 5 g
 - **Price**: 1000 gp
 ![\|250](https://imgur.com/GOl64by.png)
+*This ring surely must be the reason for Liora's diplomatic prowess.*
 *(Source: Custom)*
 
 ### Lock
