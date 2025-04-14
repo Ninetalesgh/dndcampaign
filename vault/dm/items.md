@@ -1212,7 +1212,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
   - You have **Advantage** on WIS Saves against being [Charmed](conditions.md#charmed).
 - **Weight**: 5 g
 - **Price**: 1000 gp
-![\|250](https://imgur.com/GOl64by)
+![\|250](https://imgur.com/GOl64by.png)
 *(Source: Custom)*
 
 ### Lock
