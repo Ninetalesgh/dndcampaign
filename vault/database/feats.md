@@ -61,7 +61,7 @@ When you're within range 1 *(1.5m)* of a creature on your turn, you can expend o
 
 #### Grappling Attack
 *(Cost: 1 Superiority Die)*
-When you hit a creature with a **Melee Attack** and one of your hands is free, you can expend one Superiority Die to attempt to grapple the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a STR Save or be [Grappled](conditions.md#grappled) by you.
+When you hit a creature with a **Melee Attack** and at least one of your hands is free, you can expend one Superiority Die to attempt to grapple the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a STR Save or be [Grappled](conditions.md#grappled) by you.
 ![\|50](https://bg3.wiki/w/images/4/40/Unarmed_Strike_Icon.webp)
 
 #### Menacing Attack
