@@ -31,8 +31,7 @@ Kazimir makes his way back up to the high road from his personal quarters.
 - **Tombs**:
   **TOP**
   - A sarcophagus accessible through the narrow path between collapsed structures 
-  - Contains: ring that grants Proficiency in Persuasion (Attunement) [TODO],
-   silver (30) gold (50), two rings with ornate designs (worth 120 and 80) 
+  - Contains: [Liora's Band of Trust](dm/items.md#lioras-band-of-trust), silver (30), gold (50)
     **Read**:
       "In every handshake, a promise; in every journey, a tale.
       **Liora Vinea**

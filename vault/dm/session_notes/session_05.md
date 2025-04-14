@@ -16,6 +16,7 @@
 # Introduction
 [TODO] Change this ENTIRE PART
 [TODO] CLEAN UP DANGLING SECTIONS HERE
+[TODO] Add some monsters CR range 2-3 here 
 
  **Grand Factor Silan Thornvale** -> Balding, White Robe.
 

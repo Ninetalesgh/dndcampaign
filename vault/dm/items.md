@@ -1,3 +1,4 @@
+
 ## Items A
 ### Acid Vial
 *(concoction, Common)*
@@ -1204,6 +1205,16 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 ![\|250](https://i.pinimg.com/736x/db/70/80/db7080998884237f3e85453ddb489ecc.jpg)..
 *(Source: PHB'24, page 215)*
 
+### Liora's Band of Trust
+*(Wondrous Item, Uncommon)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - You have **Advantage** on CHA (Persuasion) Checks.
+  - You have **Advantage** on WIS Saves against being [Charmed](conditions.md#charmed).
+- **Weight**: 5 g
+- **Price**: 1000 gp
+![\|250](https://imgur.com/GOl64by)
+*(Source: Custom)*
+
 ### Lock
 *(adventuring gear, Common)*
 - **Properties**: A Lock comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick this Lock with a successful DC 15 Dexterity (Sleight of Hand) check.
@@ -2286,3 +2297,4 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ## Items Z
 
 ## Items End
+
