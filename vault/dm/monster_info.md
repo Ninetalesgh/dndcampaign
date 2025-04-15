@@ -29,6 +29,7 @@ An [Axe Beak (1/2)](dm/monsters.md#axe-beak) is a tall flightless bird with stro
 
 ## Construct
 [Animated Book (1/4)](dm/monsters.md#animated-book)
+[Animated Armor (1)](dm/monsters.md#animated-armor)
 [Animated Broom (1/4)](dm/monsters.md#animated-broom)
 [Animated Kettle (1/4)](dm/monsters.md#animated-kettle)
 [Animated Battleaxe (1/4)](dm/monsters.md#animated-battleaxe)

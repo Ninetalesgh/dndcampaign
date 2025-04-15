@@ -12,16 +12,13 @@
 
 - **Enter The Stockpile.** To introduce The Stockpile Business.
 
-
-# Introduction
 [TODO] Change this ENTIRE PART
 [TODO] CLEAN UP DANGLING SECTIONS HERE
-[TODO] Add some monsters CR range 2-3 here 
+**Grand Factor Silan Thornvale** -> Balding, White Robe.
 
- **Grand Factor Silan Thornvale** -> Balding, White Robe.
+# Introduction
 
 ## The Crypt
-
 
 [Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
 [Shadows (1/2)](dm/monsters.md#shadow)
@@ -31,14 +28,36 @@
 
 ### The Crypt Level 1
 #### The Honorable Room
-[TODO] Room contents
 
 Some of these:
 [Skeleton Warriors (1/4)](dm/monsters.md#skeleton-warrior)
 [Zombie Rotter (1/4)](dm/monsters.md#zombie-rotter)
+[Animated Armor (1)](dm/monsters.md#animated-armor)
 
 One: [Boneshard Skeleton (2)](dm/monsters.md#boneshard-skeleton)
 One: [Zombie Burster (2)](dm/monsters.md#zombie-burster)
+
+Names to use on epitaphs:
+- **Durin Ironheart** (792–861 DR)
+  "He stood like a mountain, fell like a star." (Dwarf)
+- **Ser Edmund Vale** (820–873 DR)
+  "His sword rested only when he did." (Human)
+- **Thistle Goodbarrel** (835–882 DR)
+  "She made the darkest ale and the warmest hearth." (Halfling)
+- **Borin Frostbeard** (798–886 DR)
+  "His laughter shook the halls of kings." (Dwarf)
+- **Elara the Gentle** (845–890 DR)
+  "Her kindness outlived her." (Human)
+- **Pip Digglefoot** (850–895 DR)
+  "Danced through life, rests with a smile." (Halfling)
+- **Glimrik Gearspark** (865–902 DR)
+  "His inventions never failed, only his time did." (Gnome)
+- **Captain Rolthar** (840–908 DR)
+  "Sailed the seas, now anchors eternity." (Human)
+- **Hilda Stonebraid** (810–915 DR)
+  "She mined gold but forged legends." (Dwarf)
+- **Tinker Nimblesprocket** (880–928 DR)
+  "Fixed clocks, gears, and broken hearts." (Gnome)
 
 #### Room Of Ash
 - Lots of urns, some shattered, ash in the air during combat, bad vision.
@@ -52,22 +71,21 @@ One: [Blazing Bones (3)](dm/monsters.md#blazing-bones)
 Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 
 Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
-Ayra -> a child? maybe the goblins she killed? [TODO] Name of the goblin she shot dead
-  someone she remembers?
-  - telling her she can never go back to the heavens, something about their damnation [TODO]
 Kal -> His whole tribe 
   how his coming of age ceremony looked? 
   - telling him he is a disappointment, not able to save them.
 Kazimir -> His father (because his mother isn't dead yet)
   how he looked, a childhood memory?
-  - He yells at him about how much he's one of 'them' and your own father is just cattle to you?' (maybe that's too direct [TODO])
+  - He yells at him about how much he's one of 'them' and how you're just going to use him just like your mother and the rest of them?' 
 Mufi -> Adam
   a good memory playing or studying together.
   - He yells at Mufi about how noone likes him and he hates him.
 Nyari -> His mentory? Monastery?
+Ayra -> Someone she remembers, an important person from her past?
+- She is lonely, no soul with her, because she sold them all for her powers?
 
 [TODO] Engine Build. How it works, how it suppresses magic, etc.
-
+It's Abjuration Magic with a strong essence of Necromancy
 - General Monsters:
 [Air Mephit (1/2)](dm/monsters.md#air-mephit)
 [Steam Mephit (1/2)](dm/monsters.md#steam-mephit)

@@ -28,6 +28,31 @@ STR | DEX | CON | INT | WIS | CHA
    - **Current-Dancer**. When a creature is pushed out of the mephit's reach, the mephit can move up to 2 *(3m)* towards the attacker and make a Gust attack against it.
 *(Source: ConfluxCreatures)*
 
+### Animated Armor
+**CR**: 1
+*Medium construct, Unaligned*
+- **Initiative**: +0
+- **AC**: 18 (natural armor)
+- **HP**: 44 (8d8 + 8)
+- **Speed**: walk 5 *(7.5m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 11 (+0) | 13 (+1) | 1 (-5) | 3 (-4) | 1 (-5) 
+
+- **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 6
+- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
+   - **False Appearance**. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
+   - **Clattering Collapse**. When the armor takes or deals a critical hit, it falls [Prone](conditions.md#prone) in a heap and is [Stunned](conditions.md#stunned) until the beginning of its next turn.
+- **Actions**: 
+   - **Multiattack**. The armor makes two attacks with its Lurching Slam.
+   - **Lurching Slam**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 5 (1d6 + 2) bludgeoning damage.
+   Instead of dealing damage, the armor can grapple the target (escape DC 12).
+   - **Twist Limbs**. One creature that is wearing or [Grappled](conditions.md#grappled) by the armor must succeed on a DC 12 STR Save or take 13 (3d8) bludgeoning damage and be [Restrained](conditions.md#restrained) until the end of its next turn.
+*(Source: ConfluxCreatures)*
+
 ### Animated Battleaxe
 **CR**: 1/4
 *Small construct, Unaligned*
@@ -2310,6 +2335,27 @@ STR | DEX | CON | INT | WIS | CHA
 ## Monsters Y
 
 ## Monsters Z
+### Zombie
+**CR**: 1/4
+*Medium undead, Neutral Evil*
+- **Initiative**: -2
+- **AC**: 8
+- **HP**: 15 (2d8 + 6)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) 
+
+- **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Languages**: understands the languages it knew in life but can't speak
+- **Traits**: [Undead Fortitude](dm/monster_info.md#undead-fortitude).
+- **Actions**:
+   - **Slam**. *Melee Attack:* +3, reach 1 *(1.5m)* 
+    *Hit:* 4 (1d6 + 1) Bludgeoning damage.
+*(Source: XPHB, page 359)*
+
 ### Zombie Burster
 **CR**: 2
 *Large undead, Unaligned*
@@ -2336,27 +2382,6 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 9 (2d6 + 2) piercing damage and 7 (2d6) necrotic damage.
 *(Source: ConfluxCreatures)*
 
-### Zombie
-**CR**: 1/4
-*Medium undead, Neutral Evil*
-- **Initiative**: -2
-- **AC**: 8
-- **HP**: 15 (2d8 + 6)
-- **Speed**: walk 4 *(6m)*
-
-STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) 
-
-- **Immunities**: poison; [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
-- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
-- **Languages**: understands the languages it knew in life but can't speak
-- **Traits**: [Undead Fortitude](dm/monster_info.md#undead-fortitude).
-- **Actions**:
-   - **Slam**. *Melee Attack:* +3, reach 1 *(1.5m)* 
-    *Hit:* 4 (1d6 + 1) Bludgeoning damage.
-*(Source: XPHB, page 359)*
-
 ### Zombie Rotter
 **CR**: 1/4
 *Medium undead, Unaligned*
@@ -2382,4 +2407,5 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
 

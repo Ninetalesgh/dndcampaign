@@ -10,9 +10,9 @@ Timeline:
 Means ~1 Common Item per Session + 1 UC/R Item per Session?
 About 2 items per session!!
 
+
 Ayra:
   C: 
-    [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
     [Orb of Shielding](dm/items.md#orb-of-shielding)
   UC: 
     [Circlet of Vitality's Focus](dm/items.md#circlet-of-vitalitys-focus)
@@ -21,7 +21,6 @@ Ayra:
 Kal: 
   C: 
     [Greenthumb Whittler](dm/items.md#greenthumb-whittler)
-    [Imbued Quarterstaff](dm/items.md#imbued-quarterstaff)
     [Orb of Shielding](dm/items.md#orb-of-shielding)
   UC: Mandible Bident, Scorpion Glaive, Scorpio Armor
     [Scorpio Armor (TODO refine this)](dm/items.md#scorpio-armor)
@@ -54,16 +53,23 @@ Nyari:
   R:
 
 # Aquired Loot
+Loot given:
+**Ayra**: C
+**Kal**: C
+**Kazimir**: UC
+**Mufi**: -
+**Nyari**: C
+
 ## Tier 1 (Levels 1-4)
 3/6 C
-    [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
-    [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
-    [Clockwork Amulet](dm/items.md#clockwork-amulet)
+  [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+  [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
+  [Clockwork Amulet](dm/items.md#clockwork-amulet)
 2/5 UC
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
-[TODO] RING OF PERSUASION HERE
+  [Liora's Band of Trust](dm/items.md#lioras-band-of-trust)
 1/1 R
-  [Thalioel's Tear](dm/items.md#thalioels-tear)
+ ~[Thalioel's Tear](dm/items.md#thalioels-tear)
 
 ## Tier 2 (Levels 5-10)
 0/10 C

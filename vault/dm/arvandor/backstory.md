@@ -27,7 +27,7 @@
     mother's name Stonewright out of respect for her work and the name recognition in his profession.
 #### Construction of the Crypt ~ 862 DR
   Elvine's Crossing is renamed to Arvandral to honor the dwarves and the elves who will now rest here forever 
-  the name is derived from Mithdral , the dwarven home, and Arvandor, 
+  the name is derived from Mithdral, the dwarven home, and Arvandor, 
     the outer plane elvish souls would go in the afterlife. (if they hadn't been corrupted by The Blood Curse)   
   Tazlyn Stonewright constructs the crypt with the main purpose being the containment of The Blood Curse, 
     but since it's being financed by the Two Houses they decided to also add rooms for them. 
@@ -64,7 +64,8 @@ Because of Selera's experiments undead begin to pop up around Arvandral, there a
   Halric put his nose where it doesn't belong, Selera kills him.
   Halric's sarcophagus gets placed in the Crypt's South Antechamber.  
 
-The Collapse ~ 935 DR when the day was shortest#### 2 months after Halric's death The Selera Ritual causes The Collapse, 
+#### The Collapse ~ 935 DR when the day was shortest
+  2 months after Halric's death The Selera Ritual causes The Collapse, 
   swallowing huge parts of Arvandral whole, while the Vinea estate crumbles and slides down, 
   colliding with the Crypt's corridors.
   the grounds around The Blue Estate rise up, breaking the old bridge across the river.
