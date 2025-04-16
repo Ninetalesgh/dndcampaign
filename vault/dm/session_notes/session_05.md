@@ -80,12 +80,35 @@ Kazimir -> His father (because his mother isn't dead yet)
 Mufi -> Adam
   a good memory playing or studying together.
   - He yells at Mufi about how noone likes him and he hates him.
-Nyari -> His mentory? Monastery?
-Ayra -> Someone she remembers, an important person from her past?
-- She is lonely, no soul with her, because she sold them all for her powers?
+Nyari -> His pantheon
+  the memory of when he spoke one of his oaths and first felt the presence of one of his patrons.
+  - "His parents are glad that you finally stopped slacking off in the monastery and left"
+Ayra -> Someone she remembers, an important person from her past? Does she remember anything from before waking up on the street?
+- She is lonely, no soul with her, because she sold them all?
 
-[TODO] Engine Build. How it works, how it suppresses magic, etc.
+- **THE MACHINE**:
+
 It's Abjuration Magic with a strong essence of Necromancy
+Elven Inscriptions (beautiful, fluid script):
+    Magic Soul Protection: Myth'Anar-Fëa
+    Abjuration: Vanyalië ("banishing light")
+    Necromancy: Mornëlya ("dark binding")
+    Blood Curse: Sanga-hrávë ("blood-wrath")
+Dwarven Runes (chiseled, blocky):
+    Soul: Zul'grum
+    Abjuration: Tharâk-Bel ("warding seal")
+    Necromancy: Durz-Maznul ("death-magic")
+    Blood Curse: Kardûm-Raz ("blood doom")
+
+**BACKSTORY ELEMENTS**: 
+  The fall occurred in 714 DR during what is known as the Weeping War.
+  Myth Drannor was once the shining capital of the elven kingdom of Cormanthyr, a place of unmatched magical power and beauty.
+  A horde of demons led by **Yugoloths** (fiendish mercenaries)  — known as the **Army of Darkness** — invaded **Cormanthyr**.
+  **Thrazzt'ryl** - Arcanoloth - Tactician, Master of trickery.
+    - Thrazzt'ryl was one of the yugoloth lieutenants who led **Legion Thornmantle** into **Cormanthyr**.
+    - They were wounded and vanished into the **Ethereal Deep** only to reemerge centuries later to slaughter **Kal's** tribe.
+      He was able to scent them through the planes by their elven lineage tied to mythal.
+
 - General Monsters:
 [Air Mephit (1/2)](dm/monsters.md#air-mephit)
 [Steam Mephit (1/2)](dm/monsters.md#steam-mephit)
