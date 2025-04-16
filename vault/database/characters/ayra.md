@@ -2,7 +2,7 @@
 - **Fiend Warlock Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 13 ([Leather Armor](dm/items.md#leather-armor) + DEX)
+- **AC**: 15 ([Mage Armor](./../spells.md#spells-m#mage-armor) + DEX)
 - **HP**: 30 *(3 + [7 + CON] * Level)*
 - **HP Dice**: 3 D8
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
@@ -73,6 +73,8 @@
   [Suggestion](./../spells.md#spells-s#suggestion)
   [Healing Hands *(Once per Long Rest)*](./../feats.md#healing-hands)
   [Disguise Self *(Unlimited)*](./../spells.md#spells-d#disguise-self)
+  [Mage Armor *(Unlimited)*](./../spells.md#spells-m#mage-armor)
+
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Selected Spells**:
   [Hold Person](./../spells.md#spells-h#hold-person)
   [Charm Person](./../spells.md#spells-c#charm-person)
