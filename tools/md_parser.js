@@ -20,6 +20,20 @@ function reformatLink(name, link)
   }
 }
 
+function formatCustomTracker(name, type, scale, value)
+{
+  
+
+
+
+  console.log(name); // name, ID
+  console.log(type); // point height, scale
+  console.log(scale); // type
+  console.log(value); // default or max value
+
+  return '';
+}
+
 function parseMd(input)
 {
   const lines = input.split('\n');
@@ -86,6 +100,9 @@ function parseMd(input)
     {
       //TODO maybe get obsidian specifics into this or any custom formatting? 
     }
+
+    //custom parsing
+    lines[i] = lines[i].replace(/!\?\[([^\|\]]*)\|([0-9]*)\]\((?:track-cookie)#(text|discrete-counter|numeric-int|numeric-int-max)#?([0-9]+)?\)/g, (m,g1,g2,g3,g4) => formatCustomTracker(g1, g3, g2, g4 ?? ''));
 
     //images 
     lines[i] = lines[i].replace(/!\[(?:[^\|]+)\|([^\]]+)\]\(([^()]+(?:\([^()]*\)[^()]*)*)\)/g, (m,g1,g2) => `<img src="${g2}" style="width:${g1}px;" class="${g1 < 100 ? (g1 < 30 ? 'img-tiny-background' : 'img-small-background' ): 'img-normal-background'}">` );

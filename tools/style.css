@@ -130,6 +130,27 @@ li {
   background-color: var(--color-external-link-hover);
 }
 
+.track-cookie {
+
+}
+
+.track-cookie.discrete-counter {
+
+}
+
+.track-cookie.numeric-int-max {
+
+}
+
+.track-cookie.numeric-int {
+
+}
+
+.track-cookie.text {
+
+}
+
+
 .collapsed li {
   display: none;
 }

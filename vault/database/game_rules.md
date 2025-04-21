@@ -14,7 +14,7 @@
     - *Keep a boulder from rolling.*
   - *Carrying Capacity.* Your carrying capacity is your Strength score multiplied by 7.5. This is the weight in kg that you can carry, which is high enough that most characters don't usually have to worry about it.
   - *Push, Drag, or Lift.* You can push, drag, or lift a weight in kg up to twice your carrying capacity (or 15 times your Strength score). While pushing or dragging weight in excess of your carrying capacity, your speed drops to 1 *(1.5m)*.
-  - *Size and Strength.* Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each size category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
+  - *Size and Strength.* Larger creatures can bear more weight, whereas Tiny creatures can carry less. For each [Size](game_rules.md#advanced-rules#creature-sizes) category above Medium, double the creature's carrying capacity and the amount it can push, drag, or lift. For a Tiny creature, halve these weights.
   - **Strength Attack Rolls and Damage.** You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin. You use melee weapons to make melee attacks in hand-to-hand combat, and some of them can be thrown to make a ranged attack.
 
 - **Dexterity (DEX).** Agility, reflexes, and balance; Move nimbly, quickly, or quietly; Dodge out of harm's way.
@@ -379,3 +379,6 @@ Every player can have up to 3 magic items attuned.
 Exhaustion caused by Dehydration or Malnutrition **can't** be removed unless you consume a daily portion of fluid or food respectively.
 [TODO] THESE RULES SEEM INCOMPLETE? 
 - **Sleep Deprivation.** Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 CON Save or gain 1 stack of [Exhaustion](conditions.md#exhaustion). Each consecutive 24-hour period increases the DC by 5.
+
+
+!?[Name|Type]

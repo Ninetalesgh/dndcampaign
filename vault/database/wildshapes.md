@@ -159,7 +159,7 @@ STR | DEX | CON
     *Hit*: 1d4 + 2 Piercing damage, and the target must succeed on a DC 11 CON Save or be Poisoned for the next minute.
    A creature poisoned in this way repeats this Save at the end of each of its turns, ending the effect on a success, or falling asleep until the beginning of its next turn on a failure. A creature wakes up early if it takes any damage, or if a creature uses an Action to shake it awake.
 
-### Hook-Claw Climber
+### Hook Claw
 *Medium*
 - **Initiative**: +2
 - **Speed**: walk: 8 *(12m)*, climb: 6 *(9m)*
@@ -179,7 +179,7 @@ STR | DEX | CON
    - **Sting**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one creature. 
     *Hit*: 1d6 + 2 Piercing damage. This attack scores a critical hit on an 18-20 against a [Prone](conditions.md#prone) creature.
    - **Claw Hook**. *Melee Attack*: +4 to hit, reach 1 *(1.5m)*, one target. 
-    *Hit*: 1d8 + 2 Slashing damage and the target is [Grappled](conditions.md#grappled) (escape DC 12).
+    *Hit*: 1d8 + 2 Slashing damage and the target must succeed on a DC 12 STR Save or be [Grappled](conditions.md#grappled) (escape DC 12).
 
 ### Blind Grappler
 *Medium*

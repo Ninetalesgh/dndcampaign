@@ -125,7 +125,7 @@
   [Blind Grappler](./../wildshapes.md#cr-1#blind-grappler)
   [Burrower](./../wildshapes.md#cr-1#burrower)
   [Chameleonic](./../wildshapes.md#cr-1#chameleonic)
-  [Hook-Claw Climber](./../wildshapes.md#cr-1#hook-claw-climber)
+  [Hook Claw](./../wildshapes.md#cr-1#hook-claw)
   [Huge Defensive](./../wildshapes.md#cr-1#huge-defensive)
   [Poison Shooter](./../wildshapes.md#cr-1#poison-shooter)
   [Ranged Stunner](./../wildshapes.md#cr-1#ranged-stunner)
