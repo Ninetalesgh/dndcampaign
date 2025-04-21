@@ -386,7 +386,7 @@ Opportunity attacks made against this creature by Medium or larger creatures hav
 ### Sunlight Sensitivity
 While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on WIS (Perception) checks that rely on sight.
 If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.
-### Undead Fortitude 
+### Undead Fortitude
 If damage reduces this creature to 0 HP, it must make a CON Save with a DC of 5 plus the damage taken unless the damage is Radiant or from a Critical Hit. On a successful save, this creature drops to 1 HP instead.
 ### Rattle
 A creature that hits this creature with a Melee Attack that deals bludgeoning damage must succeed a DC 12 WIS Save or be [Frightened](conditions.md#frightened) until the end of its next turn as it feels its own skeleton twitch slightly.
