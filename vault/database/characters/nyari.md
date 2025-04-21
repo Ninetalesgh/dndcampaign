@@ -84,6 +84,7 @@
 ### Passive Feats
 *- Extra lineage feat at level 5.*
   [Alert *(Already included above)*](./../feats.md#alert)
+- **Powerful Build**: You have Advantage on any ability check you make to end [Grappled](conditions.md#grappled). You also count as one [Size](./../game_rules.md#advanced-rules#creature-sizes) larger when determining your Carrying Capacity.
 
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*

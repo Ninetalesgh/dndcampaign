@@ -33,7 +33,9 @@ const gCommonMonsterTraits = new Array(
   "Pack Tactics",
   "Scurrilous Scamper",
   "Sunlight Sensitivity",
-  "Undead Fortitude");
+  "Undead Fortitude",
+  "Rattle",
+  "Bonesense");
 function isCommonMonsterTrait(name) 
 { for (const trait of gCommonMonsterTraits){ if (name === trait) { return true; }} return false; }
 

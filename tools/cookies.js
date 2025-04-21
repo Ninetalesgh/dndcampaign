@@ -25,7 +25,6 @@ function getCookie(name) {
 }
 
 function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagName) {
-
   if (true || targetCategoryPageName === "spells.md" || targetCategoryPageName === "conditions.md") {
     let resultCookie;
     let pageCookie = getCookie(contentPageName);
@@ -63,7 +62,7 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
     }
     resultCookie = categories.join('|');
 
-    setCookie(contentPageName, resultCookie, 30);
+    setCookie(contentPageName, resultCookie, 365);
   }
   else {
     console.log(`Attempted to tag inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
