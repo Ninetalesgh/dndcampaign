@@ -2029,13 +2029,13 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Source: PHB'24, page 215)*
 
 ### Spell Scroll Dagger
-*(Dagger, Simple Melee Weapon, Uncommon)*
+*(Dagger, Simple Melee Weapon, Rare)*
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
-- **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  [TODO] Spell Scroll mechanic.
-
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this. Attacking this way deals Fire damage instead of Piercing and you don't add your ability modifier to the attack's damage unless that modifier is negative.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Push a Spell Scroll into the hilt, consuming it. This dagger gains 2 charges of that Spell. Until all charges are consumed, the hilt can't be opened again.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Cast the Spell on the Scroll in the hilt. 
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
 - **Price**: 3000 gp
