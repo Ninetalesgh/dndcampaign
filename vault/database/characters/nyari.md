@@ -42,6 +42,8 @@
   [Shield](dm/items.md#shield)
   [Priest's Pack](dm/items.md#priests-pack)
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
+  - 50 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
+
 
 ## Spellcasting
 - **Prepared Spells**: 4

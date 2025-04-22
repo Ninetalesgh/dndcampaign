@@ -2,7 +2,7 @@
 - **Battle Master Fighter Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
-- **AC**: 15 ([Scale Mail](dm/items.md#scale-mail) + DEX)
+- **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
 - **HP**: 28 *(4 + [6 + CON] * Level)*
 - **HP Dice**: 3 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -40,8 +40,8 @@
   [2 Daggers](dm/items.md#dagger)
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
 ### Other
-  [Scale Mail](dm/items.md#scale-mail)
   [Alchemist's Supplies](dm/items.md#alchemists-supplies)
+  [Mithral Plate](dm/items.md#mithral-plate)
 
 ## Battle Master
 - ![\|25](https://bg3.wiki/w/images/9/9f/Superiority_Die_d8_Icon.png) **Superiority Dice:** 4 d8.
