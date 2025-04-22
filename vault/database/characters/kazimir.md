@@ -44,7 +44,7 @@
   [Mithral Plate](dm/items.md#mithral-plate)
 
 ## Battle Master
-- ![\|25](https://bg3.wiki/w/images/9/9f/Superiority_Die_d8_Icon.png) **Superiority Dice:** 4 d8.
+- ![\|25](https://bg3.wiki/w/images/9/9f/Superiority_Die_d8_Icon.png) **Superiority Dice:** 4 d8. *(Regain all after Short- and Long Rests)*
 - **Maneuver Save DC:** 13 *(8 + PB + STR or DEX)*.
 - **Maneuvers:**
   [Bait and Switch](feats.md#bait-and-switch)
@@ -87,6 +87,7 @@
   Regain *(d10 + CON)* HP per expended die.
 - **Regain 1 Second Wind Charge**
 - **Regain Action Surge Charge**
+- **Regain all Superiority Dice**
 
 ### After Long Rest
 - **Regain all HP**
