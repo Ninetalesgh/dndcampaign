@@ -126,21 +126,21 @@ The players see:
 10 **Borin Grathal**, head of the Academy
 11 **Dain Elster**, count of New Arvandal
 
-**Baroness Isolde Redmire.** -> A refined and shrewd textile magnate who controls the wool and dye trade. Always draped in the latest imported silks, she has an eye for fashion and finance alike.
+**Baroness Isolde Redmire.** -> A refined and shrewd **human** textile magnate who controls the wool and dye trade. Always draped in the latest imported silks, she has an eye for fashion and finance alike.
 
-**Gorva "Three-Scales" Durn.** -> A grizzled dragonborn metalsmith who oversees a lucrative arms and armor trade. Her nickname comes from an old forge accident that left three scale-shaped scars across her face.
+**Gorva "Three-Scales" Durn.** -> A grizzled **dragonborn** metalsmith who oversees a lucrative arms and armor trade. Her nickname comes from an old forge accident that left three scale-shaped scars across her face.
 
-**Magister Othric Venn.** -> A silver-haired human academic and head of the local alchemist’s guild, he argues for magical advancements in trade but is notoriously difficult to work with due to his pedantic nature.
+**Magister Othric Venn.** -> A silver-haired **human** academic and head of the local alchemist’s guild, he argues for magical advancements in trade but is notoriously difficult to work with due to his pedantic nature.
 
-**Velora Quinch.** -> A half-elf spice and luxury goods importer who has made a fortune in exotic teas, perfumes, and rare indulgences. Always smells faintly of cinnamon and wears jingling gold bracelets.
+**Velora Quinch.** -> A **half-elf** spice and luxury goods importer who has made a fortune in exotic teas, perfumes, and rare indulgences. Always smells faintly of cinnamon and wears jingling gold bracelets.
 
-**Brenn Foremarsh.** -> A portly, good-natured halfling brewer who supplies the town’s finest ales. Has a booming laugh and a tendency to call everyone "my friend" before negotiating them into a terrible deal.
+**Brenn Foremarsh.** -> A portly, good-natured **halfling** brewer who supplies the town’s finest ales. Has a booming laugh and a tendency to call everyone "my friend" before negotiating them into a terrible deal.
 
-**Hendrik Karral.** -> A former mercenary turned logistics expert, he runs a shipping and caravan business. Pragmatic and unsentimental, he sees commerce as a battlefield where only the clever survive.
+**Hendrik Karral.** -> A **dwarven** former mercenary turned logistics expert, he runs a shipping and caravan business. Pragmatic and unsentimental, he sees commerce as a battlefield where only the clever survive.
 
-**Seraphine Lowind.** -> A gnome glassblower and jeweler, small in stature but large in presence. She commands respect with her sharp business sense and even sharper tongue.
+**Seraphine Lowind.** -> A **gnome** glassblower and jeweler, small in stature but large in presence. She commands respect with her sharp business sense and even sharper tongue.
 
-**Jorvus "Ledgerhand" Pell.** -> A meticulous accountant and moneylender whose sharp mind has made him indispensable to the council. He wears wire-rimmed glasses and always seems to be scribbling figures in a notebook.
+**Jorvus "Ledgerhand" Pell.** -> A meticulous **human** accountant and moneylender whose sharp mind has made him indispensable to the council. He wears wire-rimmed glasses and always seems to be scribbling figures in a notebook.
 
 **Motivations**: 
 - Academy staff kind of put off by the merchant's council
