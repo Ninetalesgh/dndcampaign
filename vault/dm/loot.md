@@ -56,9 +56,12 @@ Nyari:
 Loot given:
 **Ayra**: C
 **Kal**: C
-**Kazimir**: UC
+**Kazimir**: UC, UC
 **Mufi**: -
-**Nyari**: C
+**Nyari**: C, UC
+
+**Unassigned**: 
+UC, R
 
 ## Tier 1 (Levels 1-4)
 3/6 C

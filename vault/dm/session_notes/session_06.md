@@ -46,7 +46,7 @@ Names to use on epitaphs:
   "She mined gold but forged legends." (Dwarf)
 - **Tinker Nimblesprocket** (880–928 DR)
   "Fixed clocks, gears, and broken hearts." (Gnome)
-  
+
 [Rotwing Zombie (1)](dm/monsters.md#rotwing-zombie)
 [Shadows (1/2)](dm/monsters.md#shadow)
 
@@ -247,6 +247,58 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 - **Brennar Stonewright**: Dwarf -> Jovial with a bushy brown beard, his eyes crinkle with deep laugh lines, a testament to his hearty humor.
 
 - **Location**: The warm, yeasty scent of fresh bread envelops you as you step into the cozy bakery. A stout dwarf with flour-dusted hands works deftly at kneading dough, his braided beard swinging with the rhythm. Rows of golden loaves and sweet pastries line the shelves, their crusts glistening in the soft glow of the hearth.
+
+Found among Brennar's old books:
+  - About her partner Durnin Ironfoot: 
+    How much they trusted each other.
+    How painful it was to lose him and everyone else to **The Frozen Depths**.
+  - About her friendship with the Elf **Thalioel**:
+    How prosperous their exchanges are and how they shared so much passion for crafting and shaping the world around them.
+    How painful it was to lose a dear friend and how immense **Thalioel**'s and her companions' sacrifice was to Arvandral.
+    the last tear **Thalioel** shed before The Blood Curse and the necklace she formed from it, a warm orange translucent tear shaped amulet.
+  - About **The Frozen Depths**:
+    the fear and panic.
+    the destruction of Mithdral by Glacirax, losing home, friend, family.
+    "I remember **Thalioel**'s eyes, just the prospect of witnessing the loss of another home must have been unbearable for her."
+  - About her son **Balin**:
+    **Balin** chooses to be named Stonewright instead of Ironfoot and Tazlyn understands.
+    How proud she is of him and what great work he will accomplish in our line of work. 
+  - About House Elster and House Vinea:
+    How she feels ever since **The Frozen Depths**, every generation of Elster treats her worse than the previous, and that after she built **The Estates** this became worse even faster.
+    "I'm so glad Thedran, the foul bastard, died before me.
+     I hope House Elster get their heads out of their unbearable behinds after my passing, 
+     but I won't hold my breath, Thedran's son Zephyr stinks just as much with his juvenile nonsense."
+  - About **Selera Vinea**:
+    How her friendship withered and how she disproves of Selera's thirst for power 
+    and warning her about the dangers of her persuit, even though she understands her frustration with House Elster.
+  - About the creation of **The Crypt**:
+    The Council wanted a simple chamber each for their Elster and Vinea.
+    South Antechamber accessible from the graveyard so people could visit the recently deceased before they were carried further down into The Crypt.
+  - About the **Containment Engine**:
+    the containment of The Blood Curse and Thalioel's details about their corrupted souls, the restlessness they will feel, 
+    that they won't be able to leave the mortal realm and the necessity to stop the soul corruption from **festering**.
+    the stronger the elf's magic, the stronger the containment would need to be to halt the festering, therefore the lower chambers are reserved for **The Sword Dancers** and **The Magi**.
+    Runic generator and capacitors to channel the magic nullification, 
+    carving of elegant elven like patterns between geometric precise dwarven runes of abjuration
+    drawing power from the **ley lines** and channeling them through pipes of Mithril to reach the tombs.
+
+- Brennar's Ancestors:
+  - **I.b. Durnin Ironfoot**
+  Dwarf, M. (b. 684 DR - d. 859 DR )
+    Tazlyn's partner who dies during The Frozen Depths.
+  - **II. Balin Stonewright**
+  Dwarf, M. (b. 860 DR - d. 1135 DR)
+    Architect like his mother Tazlyn, she worked on fortifications and roads.
+  - **III. Durnin Stonewright**
+  Dwarf, M. (b. 973 DR - d. 1260 DR)
+    Named after his grandfather, known for his expertise in stone bridges and aqueducts.
+  - **IV. Orin Stonewright**
+  Dwarf, M. (b. 1142 DR - d. 1456 DR)
+    Master mason, expanded Tazlyn's designs in human cities. 
+    Always spoke highly of Tazlyn and New Arvandal, the motivation for Brennar to move to New Arvandal.
+  - **V. Harren Stonewright**
+  Dwarf, M. (b. 1220 DR - d. 1485 DR)
+    Shifted family focus to artisan crafts and fine carving.
 
 
 ## The Tavern

@@ -1373,6 +1373,17 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Price**: 5 gp
 *(Source: PHB'24, page 227)*
 
+### Mithral Plate
+*(Heavy Armor, Uncommon)*
+- **Don and Doff Time**: 10 minutes / 5 minutes
+- **AC**: 18
+- **Properties**:
+  - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
+- **Weight**: 33 kg
+- **Price**: 1500 gp
+![\|250](https://imgur.com/NazpSNm.png)
+*(Source: PHB'24, page 219)*
+
 ### Morningstar
 *(Morningstar, Martial Melee Weapon, Common)*
 - **Reach**: 1
