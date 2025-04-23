@@ -1,5 +1,5 @@
 # Hermit
-- **CLASS Level**: 3
+- **Beastmaster Ranger Level**: 3
 ## Stats and Proficiencies
 - **Initiative**: +X *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
@@ -8,22 +8,22 @@
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 17 (+3)        | DEX 12 (+1)          | CON 14 (+2)       |
+| STR 8 (-1)         | DEX 16 (+3)          | CON 13 (+1)       |
 | :----------------- | :------------------- | :---------------- |
-| ☑ **STR Save +5**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
-| ☑ **Athletics +5** | ☑ **Acrobatics +3**  | .                |
-| .                  | ☐ Sleight of Hand +1 | .                 |
-| .                  | ☐ Stealth +1         | .                 |
+| ☐ STR Save -1      | ☑ **DEX Save +5**    | ☐ CON Save +1     |
+| ☐ Athletics -1     | ☐ Acrobatics +3      | .                 |
+| .                  | ☐ Sleight of Hand +3 | .                 |
+| .                  | ☑ **Stealth +5**     | .                 |
 
 
-| INT 10 (+0)        | WIS 12 (+1)          | CHA 10 (+0)        |
-| :----------------- | :------------------- | :----------------- |
-| ☐ INT Save +0      | ☐ WIS Save +1        | ☐ CHA Save +0      |
-| ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
-| ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
-| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
-| ☐ Nature +0        | ☑ **Perception +3**  | ☑ **Persuasion +2**    |
-| ☑ **Religion +2**  | ☐ Survival +1        | .                  |
+| INT 10 (+0)        | WIS 17 (+3)              | CHA 10 (+0)        |
+| :----------------- | :----------------------- | :----------------- |
+| ☐ INT Save +0      | ☑ **WIS Save +5**        | ☐ CHA Save +0      |
+| ☐ Arcana +0        | ☑ **Animal Handling +5** | ☐ Deception +0     |
+| ☐ History +0       | ☐ Insight +3             | ☐ Intimidation +0  |
+| ☐ Investigation +0 | ☑ **Medicine +5**        | ☐ Performance +0   |
+| ☑ **Nature +4**    | ☐ Perception +3          | ☐ Persuasion +0    |
+| ☐ Religion +0      | ☑ **Survival +5**        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: Light Armor
