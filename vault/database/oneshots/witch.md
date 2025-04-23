@@ -88,3 +88,6 @@
 - **Check Class Level-Up**
 - **Switch Fighting Style**
 
+
+[TODO] Change 1 spell on level up. Innate sorcery. Font of magic (sorcery points). Metamagic options. Wild Magic. Tides of Chaos. Feat. Sorcerous Restoration.
+Sorcerer Spell Reference List.
