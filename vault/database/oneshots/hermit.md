@@ -1,5 +1,5 @@
 # Hermit
-- **Beastmaster Ranger Level**: 3
+- **Beastmaster Ranger Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
@@ -94,4 +94,4 @@ Beastmaster subclass
 
 Ability score improvement (already + wis above) -> mounted combatant
 Extra attack
-
+Gnome: minor illusion cantrip; speak with animals always prepared; advantage on int,wis,cha saving throws.

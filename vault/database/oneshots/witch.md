@@ -1,24 +1,24 @@
 # Witch
-- **CLASS Level**: 3
+- **Wild Magic Sorcerer Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +X *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
 - **HP**: 28 *(BASE + [X + CON] * Level)*
-- **HP Dice**: 3 D10
+- **HP Dice**: 5 D6
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 17 (+3)        | DEX 12 (+1)          | CON 14 (+2)       |
+| STR 8 (-1)         | DEX 13 (+1)          | CON 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
-| ☑ **STR Save +5**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
-| ☑ **Athletics +5** | ☑ **Acrobatics +3**  | .                |
+| ☐ STR Save -1      | ☐ DEX Save +1        | ☑ **CON Save +6** |
+| ☐ Athletics -1     | ☑ **Acrobatics +3**  | .                |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
 
-| INT 10 (+0)        | WIS 12 (+1)          | CHA 10 (+0)        |
-| :----------------- | :------------------- | :----------------- |
-| ☐ INT Save +0      | ☐ WIS Save +1        | ☐ CHA Save +0      |
+| INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)          |
+| :----------------- | :------------------- | :------------------- |
+| ☐ INT Save +0      | ☐ WIS Save +1        | ☑ **CHA Save +7**      |
 | ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
 | ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
 | ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
@@ -26,7 +26,7 @@
 | ☑ **Religion +2**  | ☐ Survival +1        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons
-- **Armor Proficiencies**: Light Armor
+- **Armor Proficiencies**: - 
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
 
@@ -37,6 +37,13 @@
 - **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
 ### Other
 
+## Spellcasting
+- **Prepared Spells**: 9
+- **Spell Slots Level 1**: 4
+- **Spell Slots Level 2**: 3
+- **Spell Slots Level 3**: 2
+- **Spell Attack Modifier**: +5 *(PB + CHA)*
+- **Spell Save DC**: 13 *(8 + PB + CHA)* 
 
 ## Feats and Actions
 ### Actions
