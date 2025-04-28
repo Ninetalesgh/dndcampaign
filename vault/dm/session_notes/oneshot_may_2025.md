@@ -31,6 +31,7 @@ Paladin gets introduced with Antagonist.
 
 Ranger gets introduced with Civ.
 
+?? One more character
 
 
 ## 2) Stumbling upon the Ritual
@@ -67,3 +68,12 @@ Ranger gets introduced with Civ.
 - Psychic Agony
 
 [TODO] Stats: Healer, Melee, Ranged
+
+
+[Kython Broodling (2, Minion)](dm/monsters.md#kython-broodling)
+[Red Slaad (5)](dm/monsters.md#red-slaad)
+[Blue Slaad (7)](dm/monsters.md#blue-slaad)
+[Devoted of the Grand Indulger (8)](dm/monsters.md#devoted-of-the-grand-indulger)
+[Nothic Mindblight (7)](dm/monsters.md#nothic-mindblight)
+[Zealot Flagellant (2)](dm/monsters.md#zealot-flagellant)
+

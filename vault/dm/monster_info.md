@@ -8,6 +8,21 @@ Chokers have cartilage rather than a bony skeleton. This flexible internal struc
   When a target presents itself, the choker's starfish-shaped hands dart out of its hiding spot, wrap around the victim's throat, and pin the unfortunate creature against the cavern wall while choking out its life. Because its arms are so long, the choker can keep its body deep inside the crevice where it hides, beyond the reach of most normal weapons.
 **Lone Hunters.** Chokers tend to set their ambushes alone, rather than working in concert, but where one creature is found, others are likely to be nearby. They communicate through eerie, keening howls that travel long distances through rock but are difficult to identify or locate in a typical echo-filled cavern.
 
+[Kython Broodling (2, Minion)](dm/monsters.md#kython-broodling)
+
+### Nothic
+
+Consumed by their thirst for forbidden knowledge, [Nothic Mindblight (7)](dm/monsters.md#nothic-mindblight) are cursed lore seekers transformed by secrets never meant to be known. The bodies of these former scholars are warped into otherworldly shapes, each with a head dominated by a gigantic, unblinking eye. Nothics remember nothing of their past lives and care only for their endless pursuit of hidden mysteries and uncanny truths. They seek revelations amid the rubble of forgotten ruins, and they use their supernatural sight to pierce magical deceptions, rot the flesh of enemies, and steal the secrets of those who interrupt their investigations.
+
+Some nothics seek to end the curse that warped them into their bizarre forms, but many are unaware of—or uninterested in—their transformation.
+
+
+### Slaad
+
+When a [Red Slaad (5)](dm/monsters.md#red-slaad) claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within 2d12 hours.
+
+Almost as numerous as red slaadi, [Blue Slaad (7)](dm/monsters.md#blue-slaad) are muscular brutes with vicious blades extending from the backs of their claws. These claws carry a magical curse called chaos phage, which can transform victims into red or green slaadi. Blue slaadi accompany red slaadi and behave similarly. They innately know the signs of chaos phage and avoid slaying creatures that carry it or other slaad curses.
+
 
 ## Beast
 [Cow (1/4)](dm/monsters.md#cow)
@@ -262,6 +277,7 @@ The most unusual of the specialized ogres, the howdah carries a palisaded wooden
 Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 
+[Zealot Flagellant (2)](dm/monsters.md#zealot-flagellant)
 
 [Cleric Initiate (2)](dm/monsters.md#cleric-initiate)
 [Fighter Initiate (2)](dm/monsters.md#fighter-initiate)
@@ -269,6 +285,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 [Rogue Adventurer (2)](dm/monsters.md#rogue-adventurer)
 [Cult Fanatic of the Grand Indulger (3)](dm/monsters.md#cult-fanatic-of-the-grand-indulger)
 
+[Devoted of the Grand Indulger (8)](dm/monsters.md#devoted-of-the-grand-indulger)
 
 ## Monstrosity
 ### Stirge

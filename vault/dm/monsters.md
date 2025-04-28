@@ -383,6 +383,36 @@ STR | DEX | CON | INT | WIS | CHA
    - **Teleport (Recharge 4-6)**. The dog magically teleports, along with any equipment it is wearing or carrying, up to 8 *(12m)* to an unoccupied space it can see, then makes a bite attack at advantage.
 *(Source: ConfluxCreatures)*
 
+### Blue Slaad
+**CR**: 7
+*Large aberration, Chaotic Neutral*
+- **Initiative**: +2
+- **AC**: 15 (natural armor)
+- **HP**: 142 (15d10 + 60)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+20 (+5) | 15 (+2) | 18 (+4) | 7 (-2) | 7 (-2) | 9 (-1) 
+
+- **Skills**: perception: +1, stealth: +5
+- **Resistances**: acid, cold, fire, lightning, thunder;
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: Slaad, telepathy 12 *(18m)*
+- **Traits**: 
+   - **Magic Resistance**. The slaad has advantage on Saves against spells and other magical effects.
+   - **Chaotic Resilience**. The slaad has resistance to the damage type of the last source of damage it received.
+   - **Wall Lurker**. The slaad may pass through wood, plaster, or stone walls without resistance.
+- **Actions**: 
+   - **Multiattack**. The slaad makes three attacks, one of which may be with its phage-laden bite. It may replace any number of these attacks with uses of its Mighty Leap.
+   - **Phage-Laden Bite**. *Melee Attack:* +8 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 16 (2d10 + 5) piercing damage. If the target is a humanoid, it must succeed on a DC 15 CON Save or be infected with [Chaos phage](conditions.md#chaos-phage).
+   - **Rending Bonescythes**. *Melee Attack:* +8 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 14 (2d8 + 5) slashing damage. This attack scores a critical hit on a roll of 18-20.
+   - **Mighty Leap**. The slaad leaups up to 4 *(6m)*, and can land in the space of any Medium or smaller creature. Each of those creatures must succeed on a DC 15 DEX Save or take 7 (2d6) bludgeoning damage and be knocked [Prone](conditions.md#prone). On a successful save, the creature is pushed to the nearest unoccupied space.
+*(Source: ConfluxCreatures)*
+
+
 ### Boar
 **CR**: 1/4
 *Medium beast, Unaligned*
@@ -718,6 +748,38 @@ STR | DEX | CON | INT | WIS | CHA
 
 
 ## Monsters D
+### Devoted of the Grand Indulger
+**CR**: 8
+*Medium humanoid (any), Chaotic Evil*
+- **Initiative**: +3
+- **AC**: 16 (mage armor)
+- **HP**: 142 (19d8 + 57)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+11 (+0) | 16 (+3) | 17 (+3) | 14 (+2) | 15 (+2) | 18 (+4) 
+
+- **Skills**: perception: +5, persuasion: +7
+- **Senses**: passive perception 15
+- **Languages**: Abyssal, Common
+- **Traits**: 
+   - **Cruel Mercy**. Once on each of its turns when the devoted deals damage to a creature, after dealing damage it can grant the creature temporary HP equal to the damage dealt.
+   While a creature has any of these temporary HP, it is [Charmed](conditions.md#charmed) by the devoted.
+- **Actions**: 
+   - **Multiattack**. The devoted makes three attacks, one of which may be with its Night's Caress.
+   - **Demonic Lash (2nd Level Spell)**. *Melee Spell Attack:* +7 to hit, reach 3 *(4.5m)*, one target. 
+    *Hit:* 5 (2d4) slashing plus 7 (2d6) fire damage.
+   A target hit by two or more of these attacks in a turn must succeed on a DC 15 WIS Save or be [Frightened](conditions.md#frightened) until the end of the devoted's next turn.
+   - **Night's Caress (3rd Level Spell)**. *Melee Spell Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* The target falls asleep for the next minute.
+   A sleeping creature wakes early if a creature takes an action to shake it awake, or if it takes any damage.
+- **Bonus Actions**: 
+   - **Erode Will**. One creature [Charmed](conditions.md#charmed) by the devoted must succeed on a DC 15 WIS Save or use its reaction to move up to half its speed and make an attack or cast a cantrip under the devoted's control.
+   - **Needling Imperative**. The devoted moves up to half its speed, then whispers a command to a [Charmed](conditions.md#charmed) creature within 1 *(1.5m)*.
+   For the next minute or until the creature is reduced to 0 HP, it takes 11 (2d10) psychic damage the first time each turn that it disobeys the command.
+*(Source: ConfluxCreatures)*
+
 ### Draft Horse
 **CR**: 1/4
 *Large beast, Unaligned*
@@ -1410,6 +1472,31 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 2 (1d6 - 1) piercing damage.
 *(Source: IDRotF, page 297)*
 
+### Kython Broodling
+**CR**: 2 *(Minion)*
+*Tiny aberration, Neutral Evil*
+- **Initiative**: +2
+- **AC**: 14 (natural armor)
+- **HP**: 7 (2d4 + 2)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+13 (+1) | 15 (+2) | 12 (+1) | 7 (-2) | 12 (+1) | 9 (-1) 
+
+- **Resistances**: acid;
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 13
+- **Languages**: understands Kython but can't speak
+- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+   - **Piling Mass**. A creature's speed is reduced by 1 *(1.5m)* for each broodling attached to it. As an action, a creature may make a STR Save with DC equal to 8 plus the number of attached broodlings. On a success, each attached broodling falls [Prone](conditions.md#prone) in the nearest unoccupied space.
+- **Actions**: 
+   - **Leaping Bites (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 2 piercing damage and each of the broodlings that contributed to this attack becomes [Attached](conditions.md#attached) to the target (remove DC 11).
+   - **Tail Thrash (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target the broodling is [Attached](conditions.md#attached) to. 
+    *Hit:* 3 bludgeoning damage and the target is knocked [Prone](conditions.md#prone).
+*(Source: ConfluxCreatures)*
+
+
 ## Monsters L
 ### Leaf Blight
 **CR**: 1 *(Minion)*
@@ -1729,6 +1816,35 @@ STR | DEX | CON | INT | WIS | CHA
    If the triggering attack was an unarmed attack or one with a natural weapon, the attacker takes an additional 2 piercing damage.
 *(Source: ConfluxCreatures)*
 
+### Nothic Mindblight
+**CR**: 7
+*Medium aberration, Any Alignment*
+- **Initiative**: +4
+- **AC**: 15 (natural armor)
+- **HP**: 120 (16d8 + 48)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 18 (+4) | 17 (+3) | 16 (+3) | 18 (+4) | 8 (-1) 
+
+- **Skills**: arcana: +6, insight: +10, perception: +7, stealth: +7
+- **Senses**: [Truesight *(36m)*](game_rules.md#advanced-rules#truesight), passive perception 17
+- **Languages**: Common, Undercommon, telepathy 6 *(9m)*
+- **Traits**: 
+   - **Keen Sight**. The nothic has advantage on WIS (Perception) checks that rely on sight.
+   - **Mesmeric Gaze**. When a creature that can see the nothic's eye starts its turn within 6 *(9m)* of the nothic, the nothic can force it to make a DC 15 WIS Save. On a failed save, the creature is [Charmed](conditions.md#charmed) by the nothic until the end of its next turn. While [Charmed](conditions.md#charmed) in this way, a creature freely reveals its secrets to the nothic.
+- **Actions**: 
+   - **Multiattack**. The nothic makes two blighted claw attacks uses its tempt with knowledge, if available.
+   - **Blighted Claw**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (2d6 + 4) slashing damage plus 6 (1d10) necrotic damage.
+   - **Eye of Rot (4th Level Spell, Concentration)**. One creature the nothic can see within 24 *(36m)* must make a DC 15 CHAa Save. On a failure, a creature is [Poisoned](conditions.md#poisoned) for the next minute, and while [Poisoned](conditions.md#poisoned) in this way takes 22 (4d10) necrotic damage at the beginning of each of its turns.
+   A [Poisoned](conditions.md#poisoned) creature repeats this Save at the end of each of its turns, with disadvantage if the nothic can see it, ending the effect on a success.
+   - **Tempt With Knowledge (Recharge 5-6)**. The nothic targets one creature it can see within 6 *(9m)* that has been affected by its mesmeric gaze. The target must succeed on a DC 15 INT Save or take 28 (8d6) psychic damage.
+   A creature that fails this save voluntarily is additionally [Stunned](conditions.md#stunned) for the next minute, and learns a 1st or 2nd level wizard spell of the nothic's choice, which it may cast once per long rest without expending a spell slot. A [Stunned](conditions.md#stunned) creature repeats this save at the end of each of its turns, ending the stun effect on a success.
+*(Source: ConfluxCreatures)*
+
+
 ## Monsters O
 ### Oathsworn Acolyte
 **CR**: 2
@@ -1945,6 +2061,36 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 355)*
 
 ## Monsters R
+### Red Slaad
+**CR**: 5
+*Large aberration, Chaotic Neutral*
+- **Initiative**: +1
+- **AC**: 14 (natural armor)
+- **HP**: 110 (13d10 + 39)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 12 (+1) | 16 (+3) | 6 (-2) | 6 (-2) | 7 (-2) 
+
+- **Skills**: perception: +1
+- **Resistances**: acid, cold, fire, lightning, thunder;
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: Slaad, telepathy 12 *(18m)*
+- **Traits**: 
+   - **Magic Resistance**. The slaad has advantage on Saves against spells and other magical effects.
+   - **Chaotic Resilience**. The slaad has resistance to the damage type of the last source of damage it received.
+- **Actions**: 
+   - **Multiattack**. The slaad makes three attacks, one of which may be with its bite. It may replace up to one of its attacks with a use of its Mighty Leap.
+   - **Bite**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 10 (2d6 + 3) piercing damage.
+   - **Vicious Kick**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 8 (2d4 + 3) bludgeoning damage. This attack deals an additional 5 (2d4) damage to a [Prone](conditions.md#prone) creature.
+   - **Ovoduct Claws**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14 CON Save or be infected with a [Slaad egg](conditions.md#slaad-egg).
+   - **Mighty Leap**. The slaad leaps up to 4 *(6m)*, and can land in the space of any Medium or smaller creature. Each of those creatures must succeed on a DC 14 DEX Save or take 7 (2d6) bludgeoning damage and be knocked [Prone](conditions.md#prone). On a successful save, the creature is pushed to the nearest unoccupied space.
+*(Source: ConfluxCreatures)*
+
 ### Rogue Adventurer
 **CR**: 2
 *Medium humanoid (any), Any Alignment*
@@ -2484,6 +2630,36 @@ STR | DEX | CON | INT | WIS | CHA
 ## Monsters Y
 
 ## Monsters Z
+### Zealot Flagellant
+**CR**: 2
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 52 (8d8 + 16)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+12 (+1) | 14 (+2) | 14 (+2) | 13 (+1) | 16 (+3) | 13 (+1) 
+
+- **Skills**: medicine: +5, religion: +3
+- **Senses**: passive perception 12
+- **Languages**: Any one language
+- **Traits**: 
+   - **Warded by Faith**. A creature with a WIS score lower than the zealot's has disadvantage on attacks that target it.
+   - **Rapturous Suffering**. Whenever the zealot loses HP, it gains 5 temporary HP. While it has any of these temporary HP, the zealot has advantage on attack rolls.
+- **Actions**: 
+   - **Multiattack**. The zealot makes two melee attacks, one of which it may replace with a use of its Lash's Cure.
+   - **Razor Lash**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 (1d4 + 2) slashing damage and the target begins to bleed.
+   A bleeding creature loses 2 (1d4) HP at the start of each of its turns until a creature takes an action to stanch the wound, or until it regains any HP.
+   - **Lash's Cure (2nd Level Spell)**. The zealot ends one condition or magical effect on a creature bleeding from its Barbed Lash. An unwilling creature may make a DC 13 CHAa Save, resisting the effect on a success.
+- **Reactions**: 
+   - **Blind Conviction**. As a reaction when the zealot is forced to make a DEX or WIS Save, it drops to its knees, falling [Prone](conditions.md#prone).
+   If it does, the zealot adds 2 (1d4) to its Save, and takes no damage on a successful save.
+*(Source: ConfluxCreatures)*
+
+
 ### Zombie
 **CR**: 1/4
 *Medium undead, Neutral Evil*
@@ -2556,6 +2732,9 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
+
+
 
 
 
