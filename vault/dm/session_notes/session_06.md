@@ -25,6 +25,14 @@
 
 ## The Crypt
 
+- Now there are some mercenaries/clerics in The Crypt:
+  [Cleric Initiate (2)](dm/monsters.md#cleric-initiate)
+  [Fighter Initiate (2)](dm/monsters.md#fighter-initiate)
+  [Oathsworn Acolyte (2)](dm/monsters.md#oathsworn-acolyte)
+  [Rogue Adventurer (2)](dm/monsters.md#rogue-adventurer)
+  [Cult Fanatic of the Grand Indulger (3)](dm/monsters.md#cult-fanatic-of-the-grand-indulger)
+
+#### The Honorable Room
 Names to use on epitaphs:
 - **Durin Ironheart** (792–861 DR)
   "He stood like a mountain, fell like a star." (Dwarf)

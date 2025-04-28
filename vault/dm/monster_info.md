@@ -262,6 +262,14 @@ The most unusual of the specialized ogres, the howdah carries a palisaded wooden
 Pirates are bandits of the high seas. They might be freebooters interested only in treasure and murder, or they might be privateers sanctioned by the crown to attack and plunder an enemy nation's vessels.
 [Bandit Routewolf (1/2)](dm/monsters.md#bandit-routewolf)
 
+
+[Cleric Initiate (2)](dm/monsters.md#cleric-initiate)
+[Fighter Initiate (2)](dm/monsters.md#fighter-initiate)
+[Oathsworn Acolyte (2)](dm/monsters.md#oathsworn-acolyte)
+[Rogue Adventurer (2)](dm/monsters.md#rogue-adventurer)
+[Cult Fanatic of the Grand Indulger (3)](dm/monsters.md#cult-fanatic-of-the-grand-indulger)
+
+
 ## Monstrosity
 ### Stirge
 [Stirge Skullpiercer (1)](dm/monsters.md#stirge-skullpiercer)

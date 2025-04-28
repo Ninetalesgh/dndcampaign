@@ -1,4 +1,5 @@
 
+
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2
@@ -153,7 +154,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Apprentice Wizard
 **CR**: 1/4
-*Medium humanoid, Any Alignment*
+*Medium humanoid (any), Any Alignment*
 - **Initiative**: +0
 - **AC**: 10, 13
 - **HP**: 13 (3d8)
@@ -226,7 +227,7 @@ STR | DEX | CON | INT | WIS | CHA
 ## Monsters B
 ### Bandit
 **CR**: 1/8
-*Medium humanoid (any race), NX Chaotic Good NY Evil*
+*Medium humanoid (any), NX Chaotic Good NY Evil*
 - **Initiative**: +1
 - **AC**: 12 (leather armor)
 - **HP**: 11 (2d8 + 2)
@@ -247,7 +248,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Bandit Routewolf
 **CR**: 1/2
-*Medium humanoid (any race), NX Chaotic Good NY Evil*
+*Medium humanoid (any), NX Chaotic Good NY Evil*
 - **Initiative**: +2
 - **AC**: 13 (leather armor)
 - **HP**: 33 (6d8 + 6)
@@ -584,6 +585,32 @@ STR | DEX | CON | INT | WIS | CHA
    - **Throttle**. One creature [Grappled](conditions.md#grappled) by the choker must succeed on a DC 13 CON Save or take 14 (4d6) bludgeoning damage, lose its held breath, and begin to suffocate.
 *(Source: ConfluxCreatures)*
 
+### Cleric Initiate
+**CR**: 2
+*Medium humanoid (any), Any Alignment*
+- **Initiative**: -1
+- **AC**: 16 (chain mail)
+- **HP**: 23 (3d8 + 6)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 8 (-1) | 14 (+2) | 10 (+0) | 16 (+3) | 12 (+1) 
+
+- **Skills**: insight: +5, perception: +5
+- **Senses**: passive perception 15
+- **Languages**: Common
+- **Actions**: 
+   - **Multiattack 3/day**. The Cleric makes two Maul attacks, one of which it may replace with a spell.
+   - **Maul**. *Melee Attack:* +5 to hit, one target. 
+    *Hit:* 10 (2d6 + 3) bludgeoning damage.
+   - **Aid (1/Day, 2nd level spell)**. Up to three creatures within 6 *(9m)* each gain 5 temp HP.
+   - **Hold Person (1/Day, 2nd level spell, concentration)**. 12 *(18m)*range, 1 target, DC 13 WIS save. On a failed save, the target is [Paralyzed](conditions.md#paralyzed) for 1 minute. Target repeats the save at the end of its turn, ending the effect on a success.
+   - **Bless (1/Day, 1st level spell, concentration)**. 6 *(9m)*range, 3 targets. Whenever a target makes an attack roll or a Save before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or Save.
+- **Reactions**: 
+   - **Guided Strike (1/Day)**. When the cleric misses an attack, it may choose to add 10 to the attack roll.
+*(Source: ConfluxCreatures)*
+
 ### Cockatrice
 **CR**: 1/2
 *Small monstrosity, Unaligned*
@@ -656,6 +683,39 @@ STR | DEX | CON | INT | WIS | CHA
    - **Skittering Shift**. When the claw targeted with an attack while grabbing a creature, it may move up to 1 *(1.5m)*.
    If this movement makes it an invalid target for the attack, the attack instead targets the creature the claw was grabbing.
 *(Source: ConfluxCreatures)*
+
+### Cult Fanatic of the Grand Indulger
+**CR**: 3
+*Medium humanoid (any), Chaotic Evil*
+- **Initiative**: +3
+- **AC**: 16 (fiendleather cassock)
+- **HP**: 78 (12d8 + 24)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+12 (+1) | 16 (+3) | 15 (+2) | 12 (+1) | 14 (+2) | 16 (+3) 
+
+- **Skills**: deception: +5, persuasion: +5
+- **Senses**: passive perception 12
+- **Languages**: Abyssal, Common
+- **Traits**: 
+   - **Painfog Censer**. Whenever a creature within 3 *(4.5m)* of three or more creatures with this trait takes any non-psychic damage, it takes an additional 2 psychic damage.
+- **Actions**: 
+   - **Multiattack**. The fanatic makes two melee attacks, one of which it can replace with a use of its Glyph of Unshackled Sensation, if available.
+   - **Painter's Flail**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) slashing damage and the target begins [Bleeding](conditions.md#bleeding) (1d4).
+   If the target was already [Bleeding](conditions.md#bleeding), its blood splatters to form an abyssal glyph spread across an unoccupied space within 1 *(1.5m)*.
+   The glyph is destroyed if it takes any damage or a creature enters its space.
+   - **Glyph of Unshackled Sensation (1/Day)**. The fanatic touches a bloodglyph created with its Painter's Flail, causing it to pulse with unholy power.
+   For the next minute, creatures within 3 *(4.5m)* of the glyph have disadvantage on WIS Saves and vulnerability to psychic damage.
+- **Reactions**: 
+   - **Desperate Appetites**. When the fanatic takes any psychic damage, it can regain a use of its Glyph of Unshackled Sensation.
+   - **The True Face of Pain**. When a creature within 6 *(9m)* of the fanatic destroys a bloodglyph created with its Painter's Flail by entering its space, the fanatic can force the creature to make a DC 13 CON Save.
+   On a failed save, the creature takes 9 (2d8) psychic damage and is [Stunned](conditions.md#stunned) until the end of the fanatic's next turn.
+*(Source: ConfluxCreatures)*
+
+
 
 ## Monsters D
 ### Draft Horse
@@ -772,6 +832,36 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters F
+### Fighter Initiate
+**CR**: 2
+*Medium humanoid (any), Any Alignment*
+- **Initiative**: +2
+- **AC**: 18 (chain mail, shield)
+- **HP**: 30 (3d10 + 9)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 14 (+2) | 16 (+3) | 10 (+0) | 12 (+1) | 8 (-1) 
+
+- **Skills**: athletics: +5, perception: +3
+- **Senses**: passive perception 13
+- **Languages**: Common
+- **Traits**: 
+   - **Precision Strike (3/Day)**. When the fighter misses an attack roll, it may add a d8 to the attack roll.
+- **Actions**: 
+   - **Longbow**. *Ranged Attack:* +4 to hit, reach 30/120 *(45m/180m)*, one target. 
+    *Hit:* 7 (1d8 + 2) piercing damage.
+   - **Longsword**. *Melee Attack:* +5 to hit, one target. 
+    *Hit:* 8 (1d8 + 3) slashing damage.
+   - **Action Surge (1/Day)**. The Fighter immediately takes two additional actions other than this one. It may take the same action twice.
+- **Bonus Actions**: 
+   - **Second Wind (1/Day)**. The Fighter heals itself for 1d10 + 3.
+- **Reactions**: 
+   - **Riposte (2/Day)**. As a reaction to being missed with a melee attack, the Fighter may make melee weaon attack. If it hits, it does an extra 1d8 damage.
+*(Source: ConfluxCreatures)*
+
+
 ### Fire Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -1220,7 +1310,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Kobold Scale Sorcerer
 **CR**: 1
-*Small humanoid, Any Alignment*
+*Small dragon (kobold), Any Alignment*
 - **Initiative**: +2
 - **AC**: 15 (natural armor)
 - **HP**: 27 (5d6 + 10)
@@ -1640,6 +1730,36 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters O
+### Oathsworn Acolyte
+**CR**: 2
+*Medium humanoid (any race), Lawful Good NY Evil*
+- **Initiative**: +1
+- **AC**: 17 (mail coat, shield)
+- **HP**: 52 (8d8 + 16)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 13 (+1) | 14 (+2) | 12 (+1) | 14 (+2) | 14 (+2) 
+
+- **Skills**: history: +3
+- **Senses**: passive perception 12
+- **Languages**: Common
+- **Traits**: 
+   - **Tempered Soul**. If the acolyte ends its turn without dealing damage, it gains resistance to the first source of damage it takes before the beginning of its next turn.
+- **Actions**: 
+   - **Multiattack**. The acolyte makes two attacks with its Arming Sword, each of which it can replace with a use of its Valorous Aid or Guard Back.
+   - **Arming Sword**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 6 (1d6 + 3) slashing damage.
+   - **Valorous Aid**. The acolyte assists a creature within 1 *(1.5m)*, granting it advantage on the first attack or Save it makes before the end of its next turn.
+   - **Guard Back**. The acolyte shields a creature within 1 *(1.5m)*.
+   Until the beginning of the acolyte's next turn, attacks against the target can't gain advantage while it is within 1 *(1.5m)* of the acolyte.
+- **Reactions**: 
+   - **Student of Arms**. When a friendly humanoid creature of CR 5 or greater that the acolyte can see within 6 *(9m)* hits a creature with a weapon attack, the acolyte can move up to half its speed and make an attack against the same target.
+*(Source: ConfluxCreatures)*
+
+
+
 ### Ogre Howdah
 **CR**: 2
 *Large giant, Chaotic Evil*
@@ -1825,6 +1945,35 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 355)*
 
 ## Monsters R
+### Rogue Adventurer
+**CR**: 2
+*Medium humanoid (any), Any Alignment*
+- **Initiative**: +4
+- **AC**: 15 (leather armor)
+- **HP**: 48 (6d8 + 18)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+8 (-1) | 18 (+4) | 16 (+3) | 10 (+0) | 12 (+1) | 14 (+2) 
+
+- **Skills**: stealth: +10, perception: +7
+- **Senses**: passive perception 17
+- **Languages**: Common
+- **Actions**: 
+   - **Sneak Attack**. The rogue makes a weapon attack. If the attack has advantage or targets a creature within 1 *(1.5m)* of one of the rogue's allies, it deals an additional 10 (3d6) damage.
+   The rogue can use this ability to make opportunity attacks.
+   - **Shortbow**. *Melee Attack:* +7 to hit, one target. 
+    *Hit:* 7 (1d6 + 4) piercing damage.
+   - **Shortsword**. *Melee Attack:* +7 to hit, one target. 
+    *Hit:* 7 (1d6 + 4) piercing damage.
+- **Bonus Actions**: 
+   - **Cunnning Action**. The rogue Dashes, Disengages, or Hides.
+- **Reactions**: 
+   - **Uncanny Dodge**. When a creature the rogue can see hits it with an attack, the rogue can halve the attack's damage.
+   - **Skirmisher**. When a hostile creature ends its movement within 1 *(1.5m)* of the rogue, the rogue can move up to half its speed without provoking opportunity attacks.
+*(Source: ConfluxCreatures)*
+
 ### Rotwing Zombie
 **CR**: 1
 *Medium undead, Unaligned*
@@ -2407,5 +2556,6 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
 
 
