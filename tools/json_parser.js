@@ -74,9 +74,10 @@ function strip5EToolsTags(string)
   strippedString = strippedString.replace(/\scharism/gmi, ' CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./gm, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/([0-9]+)\sfeet/gm, (m, g) => (convertFeetInt(g)));
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(sphere|circle)/gmi, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
-  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)-foot(?:\s|-)(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)(?:\s|-)foot(?:\s|-)(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)(?:\s|-)foot(?:\s|-)(sphere|circle)/gmi, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)(?:\s|-)foot(?:\s|-)(line|cone)/gmi, (m, g1, g2) => `a length ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
+  strippedString = strippedString.replace(/(?:a|an)\s([0-9]+)(?:\s|-)foot(?:\s|-)(radius)/gmi, (m, g1, g2) => `a radius ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
   strippedString = convertFeetString(strippedString);
   
   strippedString = strippedString.replace(/(darkvision|blindsight|tremorsense|truesight)(?:\s[0-9]+\s(\*\([0-9]+m\)\*))?/gmi, (m,g1,g2) => {
