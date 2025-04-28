@@ -1,10 +1,13 @@
 ## Intro at the High Road
 
-[TODO] Delia, Borin, Dain, Alenna on the high road.
-
 Dain mentions council.
 Alenna mentions daughter.
-Kazimir makes his way back up to the high road from his personal quarters.
+
+- Dain mentions to the party that the Council would want to talk to them
+- Alenna points the party in the direction of The Crypt and wishes them luck.
+  - She mentions her daughter **Lyanna**
+- Delia and Borin are there on the high road in the background
+- Kazimir makes his way back up to the high road from his personal quarters.
 
 ## The Ruins
 [TODO] Ruin description.

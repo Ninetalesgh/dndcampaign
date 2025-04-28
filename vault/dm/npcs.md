@@ -31,6 +31,7 @@ Human, F. (b. 1469 DR) -> Dark hair, warm brown skin tone. orange white robes du
   [Session 0](dm/session_notes/session_00.md#nyari-investigates-the-pollution): Gives Nyari the corrupted root & urges him to ask The Party to help him investigate.  
   [Session 1](dm/session_notes/session_01.md#revealed-secrets): Heals Nyari and suggests the root should be identified in the Academy Laboratory.
     - Begins funeral preparations for [Lilly Mylen](dm/npcs.md#lilly-mylen).
+  [Session 4](vault/dm/session_notes/session_04.md#intro-at-the-high-road): Urges The Party to investigate The Crypt.
 
 ### Delia Leabrace
 **Florist**
@@ -38,6 +39,7 @@ Halfling -> Rosy cheeks and curly ginger hair decorated with a dandelion. Hazel 
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#nyari-investigates-the-pollution): Digs up the corrupted root **Alenna** gives to **Nyari**.  
   [Session 3](dm/session_notes/session_03.md#the-high-road): She witnesses the blights attacking on The High Road and saves **Nyari** from the brink of death. 
+  [Session 4](vault/dm/session_notes/session_04.md#intro-at-the-high-road): In the background at the high road.
 
 ### Darrin Whitlock
 **Student - Diplomacy & Commerce**
@@ -51,6 +53,7 @@ Human, M. (b. 1463 DR) -> Pronounced jawline, high cheekbones, deeply set eyes. 
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#the-elevator-scene): Calls Borin and helps lift, tells Garrin to help against the attack on the farms. 
   [Session 1](dm/session_notes/session_01.md#introduction): Appears in the introduction.
+  [Session 4](vault/dm/session_notes/session_04.md#intro-at-the-high-road): Tells The Party about The Council.
 
 ### Garrin Harvestsong
 **Farmer Spokesperson** 
@@ -64,6 +67,7 @@ Human, M. (b. 1464 DR) -> Tall burly man, greying trimmed beard, greasy hair, du
 Dwarf, M. (b. 1355 DR) -> He is a sturdy dwarf with stoic presence, his slightly dusty white beard framing a weathered face set in a permanent scowl. His thick, muscular arms are bare, sleeves rolled up to the elbows, revealing calloused hands that have spent years handling chisels, bolts, and screws. The smell of iron and stone clings to him, as does the faint scent of oil and sweat. 
 - **Scenes**
   [Session 0](dm/session_notes/session_00.md#after-the-dust-settles): Urges everyone out of the elevator shaft to start work.
+  [Session 4](vault/dm/session_notes/session_04.md#intro-at-the-high-road): In the background at the high road.
 
 ### Teal Lareth
 **Captain of the Guard**
