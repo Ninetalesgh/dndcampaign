@@ -23,6 +23,14 @@
 **Grand Factor Silan Thornvale** -> Balding, White Robe.
 
 
+## High Road
+
+[Needle Blights (1/2)](dm/monsters.md#needle-blight)
+[Vine Blight (1)](dm/monsters.md#vine-blight) 
+[Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
+[Splinter Blight (3, Minion)](dm/monsters.md#splinter-blight)
+[Thicket Blight (3)](dm/monsters.md#thicket-blight)
+
 ## The Crypt
 
 - Now there are some mercenaries/clerics in The Crypt:

@@ -2383,6 +2383,38 @@ STR | DEX | CON | INT | WIS | CHA
    - **Burst of Ingenuity (2/Day)**. {@actTrigger} The sphinx or another creature within 6 *(9m)* makes an ability check or a Save. {@actResponse} The sphinx adds 2 to the roll.
 *(Source: XPHB, page 357)*
 
+### Splinter Blight
+**CR**: 3 *(Minion)*
+*Small plant, Neutral Evil*
+- **Initiative**: +1
+- **AC**: 12 (natural armor)
+- **HP**: 9 (2d6 + 2)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+8 (-1) | 12 (+1) | 13 (+1) | 4 (-3) | 8 (-1) | 3 (-4) 
+
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
+- **Languages**: understands Common but can't speak
+- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a splintered branch.
+   - **Shallow Roots**. If the blight is forced to move or is knocked [Prone](conditions.md#prone), it dies.
+- **Actions**: 
+   - **Slivered Claws (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 3 piercing damage.
+   If this attack misses a creature wearing heavy armor, one of the blights that contributed to it dies.
+   - **Splinter Volley (Group Attack)**. *Ranged Attack:* +3 to hit, reach 6 *(9m)*, one target. 
+    *Hit:* 2 piercing damage.
+   - **Splinterblast**. The blight creaks and groans, then bursts, spraying splinters in a 5 foot radius.
+   The blight dies, and each creature in the the area must succeed on a DC 11 DEX Save or take 3 piercing damage.
+- **Reactions**: 
+   - **Chain Burst**. When the blight is dealt any damage by a friendly creature or killed by its Slivered Claws, it can use its Splinterblast before falling [Unconscious](conditions.md#unconscious).
+*(Source: ConfluxCreatures)*
+
+
 ### Sprite
 **CR**: 1/4
 *Tiny fey, Neutral Good*
@@ -2493,6 +2525,39 @@ STR | DEX | CON | INT | WIS | CHA
 
 
 ## Monsters T
+### Thicket Blight
+**CR**: 3
+*Large plant, Neutral Evil*
+- **Initiative**: +2
+- **AC**: 13 (natural armor)
+- **HP**: 105 (14d10 + 28)
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 14 (+2) | 15 (+2) | 6 (-2) | 14 (+2) | 4 (-3) 
+
+- **Skills**: perception: +4, survival: +4
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(36m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 14
+- **Languages**: Common
+- **Traits**: 
+   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a tangle of brambles.
+   - **Root-Bound**. The blight has advantage on Saves to resist being moved or knocked [Prone](conditions.md#prone).
+   Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 11 (2d10) HP.
+   - **Bramble-Clad**. A creature that hits the blight with a melee attack for the first time on a turn takes 3 piercing damage.
+   Whenever the blight takes 10 or more fire or slashing damage from a single source, the damage dealt by this trait is reduced by 1 until it completes a long rest.
+- **Actions**: 
+   - **Multiattack**. The blight makes two attacks with its Blooming Dart, one of which it can replace with a use of its Thorny Thrash.
+   - **Blooming Dart**. *Ranged Attack:* +4 to hit, range 8 *(12m)*, one target. 
+    *Hit:* 4 (1d4 + 2) piercing plus 7 (2d6) poison damage.
+   - **Thorny Thrash**. The blight shudders and thrashes, forcing each creature within 1 *(1.5m)* of it to succeed on a DC 13 STR Save or take 7 (2d6) slashing damage and be pushed 1 *(1.5m)* away, or take half as much damage on a success.
+- **Reactions**: 
+   - **Blightpollen Alarm**. When a creature the blight can see deals any fire damage, the blight can release an agitating pollen in a radius 12 *(18m)* sphere.
+   Each plant creature in the area gains advantage on the first attack it makes against that creature in the next minute.
+*(Source: ConfluxCreatures)*
+
 
 ## Monsters U
 
@@ -2732,9 +2797,4 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
-
-
-
-
-
 

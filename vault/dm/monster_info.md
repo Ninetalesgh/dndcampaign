@@ -321,9 +321,16 @@ Awakened plants gifted with the powers of intelligence and mobility, blights pla
 
 In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight) might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
   When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
+[Splinter Blight (3, Minion)](dm/monsters.md#splinter-blight)
 
+Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
+Twig blights seek out campsites and watering holes, rooting there to set up ambushes for potential victims coming to drink or rest. Huddled together in groups, twig blights blend in with an area's natural vegetation or with piles of debris or firewood.
+Given how dry they are, twig blights are particularly susceptible to fire.
 [Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
-[Vine Blight (1)](dm/monsters.md#vine-blight)
+
+Appearing as masses of slithering creepers, [Vine Blight (1)](dm/monsters.md#vine-blight) hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
+[Thicket Blight (3)](dm/monsters.md#thicket-blight)
+
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
