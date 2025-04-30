@@ -229,7 +229,6 @@ function setContentPage(mdUrl) {
 function toggleInlineLinkContent(inlineLink) {
   if (gMouseHeldAboveThreshold) // from cookies.js, ignore click if the click was held longer
   { return; }
-  console.log(gMouseHeldAboveThreshold);
   let ulElement = inlineLink.parentElement;
   while (ulElement && ulElement.tagName !== "P") {
     ulElement = ulElement.parentElement;

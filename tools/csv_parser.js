@@ -194,6 +194,7 @@ function convertCsvToHtml(csvString)
 
   let columns = new Array(12);
   {
+    // If you want to just get the links, remove the header from the list
     let parts = lines[0].slice(1, -1).split('","');
     columns[0] = parts.indexOf('Name');
     columns[1] = parts.indexOf('Level');

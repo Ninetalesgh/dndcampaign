@@ -11256,7 +11256,7 @@ A [restrained](conditions.md#restrained) creature can use an action to make a ST
 Requires language proficiency in DrowYou transform up to two ordinary spiders within 1 *(1.5m)* of you into Dire Widows, which appear in unoccupied spaces within 3 *(4.5m)* of you.
 The spiders act on your Initiative in combat and under your telepathic control. When the spell ends, the spiders return to their original size and disposition.
 **Using a Higher-Level Spell Slot.** he forms your spiders can take change when cast with higher slot levels. At level 5+, they can be Deathleapers At level 7+, they can be Feyspitters. At level 8+, they can be Blade Spiders. At level 9, they can be Giant Spiders.
-- **Classes**: Druid, Rangerr, Warlock
+- **Classes**: Druid, Ranger, Warlock
 *(Source: ConfluxCreatures)*
 
 ### Wind Walk
