@@ -128,20 +128,17 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Dirty Trick: Flick o' the Wrist
 **Bonus Action** *Must be wielding a finesse weapon, target must be wielding a weapon.*
-Make a **Melee attack**:
-- Gain Advantage on your next Attack.
-- The target must succeed on a DEX Save.
+- **Melee attack**:
+ *Hit:* Full weapon damage and the target must succeed on a DEX Save or be disarmed.
 ![\|50](https://bg3.wiki/w/images/f/fa/Dirty_Trick_Flick_o%27_the_Wrist_Icon.webp)
 
 ### Dirty Trick: Sand Toss
 **Bonus Action**
-- Gain Advantage on your next Attack.
 - The target must succeed on a CON Save or be [Blinded](vault/database/conditions.md#blinded) until the end of their next turn.
 ![\|50](https://bg3.wiki/w/images/b/b2/Dirty_Trick_Sand_Toss_Icon.webp)
 
 ### Dirty Trick: Vicious Mockery
 *Bonus Action**
-- Gain Advantage on your next Attack.
 - Cast [Vicious Mockery](vault/database/spells.md#vicious-mockery)
 ![\|50](https://bg3.wiki/w/images/d/dc/Dirty_Trick_Vicious_Mockery_Icon.webp)
 
