@@ -87,6 +87,7 @@
   [Uncanny Dodge](vault/database/feats.md#uncanny-dodge)
 
 ### Passive Feats
+  [Shapechanger](vault/database/feats.md#shapechanger-custom)
 - **Weapon Mastery**: Daggers, Shortbow.
   [Sneak Attack](./../feats.md#sneak-attack)
   [Rakish Audacity](vault/database/feats.md#rakish-audacity)
@@ -95,8 +96,6 @@
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
 - **Cunning Action.** Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [Dash](game_rules.md#turn-based-play#dash),[Disengage](game_rules.md#turn-based-play#disengage), or[Hide](game_rules.md#turn-based-play#hide). *(Already included above)*
-
-- **Shapeshift**. [TODO]
 
 # Reminders
 ### After Short Rest

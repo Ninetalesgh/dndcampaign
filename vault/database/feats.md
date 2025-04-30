@@ -426,6 +426,32 @@ You have Truesight with a range of 30 feet.
 You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal to half your maximum (rounded up). *(Once per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
+## Wizard
+
+### Shapechanger CUSTOM
+**Action**, *Choose one of the following*:
+- Transform into a [Tiny](vault/database/game_rules.md#creature-sizes) [Fairy](vault/database/feats.md#small-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
+- Transform into any [Small](vault/database/game_rules.md#creature-sizes) to [Medium](vault/database/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely. 
+![\|50](https://bg3.wiki/w/images/9/9d/Shapechanger_Icon.webp)
+#### Small Flying Creature
+*Tiny*
+- **Initiative**: +2
+- **AC**: 12
+- **Speed**: walk 2 *(3m)*, fly 10 *(15m)*
+
+STR | DEX | CON 
+ :--: | :--: | :--: 
+2 (-4) | 14 (+2) | 10 (+0) 
+
+- **Skills**: perception: +3
+- **Senses**: passive perception 13
+- **Traits**: 
+- **Actions**: 
+   - **Slap**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 1 Slashing damage.
+*(Source: XMM, page 368)*
+
+
 # Lineage Feats
 ## Goliath
 ### Stone's Endurance
