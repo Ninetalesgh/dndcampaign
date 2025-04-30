@@ -1,4 +1,5 @@
 
+
 ## Items A
 ### Acid Vial
 *(concoction, Common)*
@@ -2115,6 +2116,18 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Weight**: 1 kg
 - **Price**: 1200 gp
 ![\|250](https://i.imgur.com/lKnw5o9_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+*(Source: Custom)*
+
+### The Tazer
+*(Greatsword, Martial Melee Weapon, Rare)*
+- **Reach**: 1
+- **Damage**: 2d6 + STR Slashing damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Heavy](dm/item_info.md#weapon-properties#heavy), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 1.5 kg
+- **Price**: ??
+![\|250](https://i.pinimg.com/736x/bc/f3/9b/bcf39bb8e5784927c538b0f7501d378e.jpg)
+*Sometimes less than lethal is more than enough.*
 *(Source: Custom)*
 
 ### Thieves' Tools
