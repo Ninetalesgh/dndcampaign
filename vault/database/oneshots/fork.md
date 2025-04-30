@@ -81,10 +81,10 @@
 ### Passive Feats
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-- [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
-- [Relentless Endurance](vault/database/feats.md#relentless-endurance)
+  [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
+  [Relentless Endurance](vault/database/feats.md#relentless-endurance)
 
-[Extra Attack](vault/database/feats.md#extra-attack)
+  [Extra Attack](vault/database/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 

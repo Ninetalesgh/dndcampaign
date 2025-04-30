@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX)*
 - **AC**: 17 (13 + WIS from Druidic Bark)
-- **HP**: $ *(3 + [7 + CON] * Level)*
+- **HP**: $ *(3 + [5 + CON] * Level)*
 - **HP Dice**: 5 D8
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -86,20 +86,13 @@
 ### Passive Feats
 
 - **Druidic.** You can leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
-
 - **Druidic Bark.** While not wearing armor, your AC is 13 + WIS.
-
 - **Photosynthesis.** When you complete a Short Rest in natural sunlight, you regain one Level 2 Spell Slot or lower.
-
 - **Speak with Plants.** You can communicate with plants as if affected by [Speak with Plants](./../spells.md#spells-s#speak-with-plants), but only for basic emotions and ideas. This doesn’t allow them to move or act outside normal limits.
-
 - **Deep Roots.** You have advantage on Saves and Ability Checks against being moved, shoved, or knocked [Prone](vault/database/conditions.md#prone). 
-
 - **Magician.** +1 Arcana, +1 Nature. *(Already included above)*
-
 - **Natural Healer.** Any healing caused by your Spells or Feats increases by 1d4. 
 
-- [Tough](feats.md#tough) *(Already included above)*
 
 # Reminders
 ### After Short Rest
