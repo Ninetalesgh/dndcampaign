@@ -13,19 +13,19 @@
 | STR 8 (-1)         | DEX 14 (+2)          | CON 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
 | ☐ STR Save -1      | ☐ DEX Save +2        | ☑ **CON Save +6** |
-| ☐ Athletics -1     | ☐ Acrobatics +2      | .                 |
+| ☐ Athletics -1     | ☑ **Acrobatics +5**  | .                 |
 | .                  | ☐ Sleight of Hand +2 | .                 |
-| .                  | ☑ Stealth +2     | .                 |
+| .                  | ☐ Stealth +2     | .                 |
 
 
 | INT 18 (+4)        | WIS 10 (+0)              | CHA 8 (-1)         |
 | :----------------- | :----------------------- | :----------------- |
 | ☑ **INT Save +7**  | ☐ WIS Save +0            | ☐ CHA Save -1      |
-| ☐ Arcana +0        | ☑☐ **Animal Handling +7** | ☐ Deception +0     |
-| ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☑☐ **Medicine +7**        | ☐ Performance +0   |
-| ☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☑☐ **Survival +7**        | .                  |
+| ☑ **Arcana +7**    | ☐ Animal Handling +0     | ☐ Deception -1     |
+| ☑ **History +7**   | ☐ Insight +0             | ☐ Intimidation -1  |
+| ☑ **Investigation +7** | ☐ Medicine +0        | ☐ Performance -1   |
+| ☐ Nature +4        | ☐ Perception +0          | ☐ Persuasion -1    |
+| ☐ Religion +4      | ☐ Survival +0            | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields.
