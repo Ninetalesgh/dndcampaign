@@ -14,6 +14,10 @@ Your HP increase by 2 per Level.
 
 # Class Feats
 ## Artificer
+
+### The Right Tool for the Job
+You've learned how to produce exactly the tool you need: with [Thieves' Tools](vault/dm/items.md#thieves-tools) or any artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within range 1 *(1.5m)* of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+
 ### Steel Defender
 Your tinkering has borne you a faithful companion, a [Steel Defender](vault/database/feats.md#steel-defender---summon).
 It is friendly to you and your companions, and it obeys your commands. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
@@ -552,7 +556,6 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 ![\|50](https://bg3.wiki/w/images/a/ae/Duelling_Icon.webp)
 *(Source: PHB'24, page 209)*
 
-
 ## Extra Attack
 You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
 ![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
@@ -565,6 +568,13 @@ You can make an additional **Free Attack** Whenever you take the **Attack Action
 - **Leap Aside.** If your mount is subjected to an effect that allows it to make a DEX Save to take only half damage, it instead takes no damage if it succeeds on the Save and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be [Incapacitated](vault/database/conditions.md#incapacitated).
 
 - **Veer.** While mounted, you can force an attack that hits your mount to hit you instead if you are not [Incapacitated](vault/database/conditions.md#incapacitated).
-
 ![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 *(Source: PHB'24, page 191)*
+
+## Great Weapon Master - PHB 2014
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+![\|50](https://bg3.wiki/w/images/1/1a/Great_Weapon_Master_Bonus_Damage_Icon.webp)
+*(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
+
