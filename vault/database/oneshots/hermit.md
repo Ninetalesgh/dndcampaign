@@ -37,6 +37,9 @@
 ### Weapons
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +6 *(PB + DEX)*.
+
+[Driftweed Sling](vault/dm/items.md#driftweed-sling)
+
 ### Other
 
 
