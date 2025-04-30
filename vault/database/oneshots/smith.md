@@ -2,9 +2,9 @@
 
 - **High Elf Battlesmith Artificer Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX)*
+- **Initiative**: +2 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: $ *(3 + [5 + CON] * Level)*
+- **HP**: 43 *(3 + [5 + CON] * Level)*
 - **HP Dice**: 5 D8
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
