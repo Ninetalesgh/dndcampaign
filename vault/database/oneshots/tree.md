@@ -19,10 +19,10 @@
 
 | INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
 | :----------------- | :----------------------- | :----------------- |
-| ☑ **INT Save +3**  | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
-| ☐ Arcana +1        | ☐ Animal Handling +7**   | ☐ Deception +0     |
+| ☐ INT Save +0      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
+| ☐ Arcana +1        | ☐ Animal Handling +4     | ☐ Deception +0     |
 | ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☐ Medicine +7            | ☐ Performance +0   |
+| ☐ Investigation +0 | ☐ Medicine +4            | ☑ **Performance +3**   |
 | ☑ **Nature +4**    | ☐ Perception +4          | ☐ Persuasion +0    |
 | ☐ Religion +0      | ☑ **Survival +7**        | .                  |
 
@@ -34,6 +34,7 @@
 [TODO] Skill proficiencies. 2 from druid + any 2. 
 [TODO] 3 Cantrips and 9 spells prepared.
 [TODO] Circle of the Land spells
+[TODO] lvl 4 feat ? 
 
 ## Equipment
 ### Weapons
@@ -67,7 +68,11 @@
 
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Create Bonfire](./../spells.md#spells-c#create-bonfire)
   [Druidcraft](./../spells.md#spells-d#druidcraft)
+  [Guidance](./../spells.md#spells-g#guidance)
+  [Produce Flame](./../spells.md#spells-p#produce-flame)
+
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Goodberry *(one free use per Long Rest)*](./../spells.md#spells-g#goodberry)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
@@ -76,7 +81,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  - **Balm of the Summer Court.** You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level. As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent. *(5 Charges - Regain all after Long Rest)*
+  - **Balm of the Summer Court.** Choose one creature you can see within range 24 *(36m)* of you and spend a number of charges equal to half your druid level or less. The target regains a number of HP equal to a d6 per charge spent. The target also gains 1 temporary hit point per die spent. *(5 Charges - Regain all after Long Rest)*
   
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
