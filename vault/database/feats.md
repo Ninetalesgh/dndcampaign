@@ -104,10 +104,30 @@ Whenever you finish a Long Rest, you can summon a different primal beast, which 
 
 ## Rogue
 
+### Fancy Footwork
+During your turn, if you make a Melee Attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
+![\|50](https://bg3.wiki/w/images/5/5b/Fancy_Footwork_Icon.webp)
+
+### Rakish Audacity
+- You get +CHA to your Initiative.
+- You are also able to use [Sneak Attack](vault/database/feats.md#sneak-attack) if you are attacking a creature within range 1 *(1.5m)* and you are not within range 1 *(1.5m)* of any other creature, and you don't have Disadvantage on the attack.
+![\|50](https://bg3.wiki/w/images/b/ba/Rakish_Audacity_Icon.webp)
+
 ### Sneak Attack
 Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
 - You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you **don't** have Disadvantage on the attack roll.
+
+**Starting at Level 5, Cunning Strike**
+You may remove one die from the Sneak Attack dice to grant one of the following effects with a DC of *[8 + DEX + PB]*:
+- **Poison.** You add a toxin to your strike, forcing the target to make a CON Save. On a failed save, the target becomes [Poisoned](vault/database/conditions.md#poisoned) for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. *(To use this effect, you must have a [Poisoner's Kit](vault/dm/items.md#poisoners-kit) on your person.)*
+- **Trip.** If the target is Large or smaller, it must succeed a DEX Save or fall [Prone](vault/database/conditions.md#prone).
+- **Withdraw.** Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
+
+### Uncanny Dodge
+**Reaction**
+When an attacker that you can see hits you with an Attack, you can halve the Attack's damage against you (round down).
+![\|50](https://bg3.wiki/w/images/4/4d/Uncanny_Dodge_Icon.webp)
 
 ## Sorcerer
 

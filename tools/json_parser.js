@@ -361,8 +361,11 @@ function convert5EMonsterToText(jsonObject)
   // CR
   {
     //TODO doesn't work for covens
-    const crString = `**CR**: ${data.cr.cr ? `${data.cr.cr} *(Minion)*` : data.cr}`;
-    output.push(crString);
+    if (data.cr)
+    {
+      const crString = `**CR**: ${data.cr.cr ? `${data.cr.cr} *(Minion)*` : data.cr}`;
+      output.push(crString);
+    }
   }
 
   // Size, Type, and Alignment 
