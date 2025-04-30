@@ -118,10 +118,10 @@
         if (key === 'page') {
           if (value === '') { }
           else if (value.match(/session_/)) {
-            contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/${value}.md`;
+            contentPageUrl = `vault/dm/session_notes/${value}.md`;
           }
           else {
-            contentPageUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/${value}.md`;
+            contentPageUrl = `vault/dm/${value}.md`;
           }
         }
       }
@@ -131,21 +131,21 @@
       }
 
       const dmPages = new Array(
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/loot.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/npcs.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monster_info.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_06.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_05.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_04.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_03.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_02.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_01.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/session_notes/session_00.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/encounters.md`,
-        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/monsters.md`,
-        //`https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/item_info.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/items.md`,
-        `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/dm/arvandor/backstory.md`,
+        `vault/dm/loot.md`,
+        `vault/dm/npcs.md`,
+        `vault/dm/monster_info.md`,
+        `vault/dm/session_notes/session_06.md`,
+        `vault/dm/session_notes/session_05.md`,
+        `vault/dm/session_notes/session_04.md`,
+        `vault/dm/session_notes/session_03.md`,
+        `vault/dm/session_notes/session_02.md`,
+        `vault/dm/session_notes/session_01.md`,
+        `vault/dm/session_notes/session_00.md`,
+        `vault/dm/encounters.md`,
+        `vault/dm/monsters.md`,
+        `vault/dm/item_info.md`,
+        `vault/dm/items.md`,
+        `vault/dm/arvandor/backstory.md`,
       );
       
       if (contentPageUrl === '')
