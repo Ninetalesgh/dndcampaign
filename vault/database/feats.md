@@ -27,6 +27,8 @@ It is friendly to you and your companions, and it obeys your commands. You deter
 - **Tinkerer's Pet.** If [Mending](vault/database/spells.md#mending) is cast on it, it regains 2d6 HP. If it has died within the last hour, you can use your [Smith's Tools](vault/dm/items.md#smiths-tools) as an **Action** to revive it, provided you are within range 1 *(1.5m)* of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with full HP.
 
 At the end of a long rest, you can create a new steel defender if you have your [Smith's Tools](vault/dm/items.md#smiths-tools) with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+
+![\|50](https://bg3.wiki/w/images/0/03/Portrait_Bernard.png)
 #### Steel Defender - Summon
 *Medium construct, any*
 - **Initiative**: +1
