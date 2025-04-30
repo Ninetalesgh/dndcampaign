@@ -599,6 +599,22 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 1 gp
 *(Source: PHB'24, page 221)*
 
+### Driftweed Sling
+*(Sling, Simple Ranged Weapon, Rare)*
+- **Range**: 6/24 *(9m/36m)*
+- **Damage**: 1d4 + DEX Bludgeoning damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
+  - *On Hit:* The target suffers an additional effect depending on the outcome of the damage roll of the main weapon dice:
+    - **1**: The target is now [Burning (1d6)](vault/database/conditions.md#burning). 
+    - **2**: The target is now [Bleeding (1d6)](vault/database/conditions.md#bleeding). 
+    - **3**: The target is now [Poisoned 2](vault/database/conditions.md#poisoned). 
+    - **4**: No additional effect.
+- **Mastery**: [Slow 2](dm/item_info.md#slow).
+- **Weight**: -
+- **Price**: ??
+![\|250](https://static.wikia.nocookie.net/saga-of-survival/images/9/93/Sling.png)
+*(Source: Custom)*
+
 ### Drum
 *(instrument, Common)*
 - **Properties**: 
