@@ -1,5 +1,5 @@
 
-# Fairy
+# The Fairy
 - **Shapeshifter Swashbuckler Rogue Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX + CHA)*

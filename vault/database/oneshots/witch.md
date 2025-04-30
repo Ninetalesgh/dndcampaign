@@ -1,4 +1,4 @@
-# Witch
+# The Witch
 - **Orc Wild Magic Sorcerer Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*

@@ -396,9 +396,16 @@ function convert5EMonsterToText(jsonObject)
     }
       
     let alignments = new Array();
-    data.alignment.forEach(alignment => {
-      alignments.push(parseAlignment(alignment));
-    });
+    if (data.alignment)
+    {
+      data.alignment.forEach(alignment => {
+        alignments.push(parseAlignment(alignment));
+      });
+    }
+    else
+    {
+      alignments.push('any');
+    }
 
     const totalTypeString = `*${sizes.join(', ')} ${typeString}${typeTagsString}, ${alignments.join(' ')}*`;
     output.push(totalTypeString);
