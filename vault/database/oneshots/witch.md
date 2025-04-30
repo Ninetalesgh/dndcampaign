@@ -80,27 +80,6 @@
   [Wild Magic Surge](vault/database/feats.md#wild-magic-surge)
   [Tides of Chaos](vault/database/feats.md#tides-of-chaos)
 
-# Reminders
-### After Short Rest
-- **Expend HP Dice to regain HP**
-  Regain *(d6 + CON)* HP per expended die.
-- **Regain 1 Second Wind Charge**
-- **Regain Action Surge Charge**
-- **Regain all Superiority Dice**
-
-### After Long Rest
-- **Regain all HP**
-- **Regain [*Level / 2 (round down)*] HP Dice**
-- **Regain all Second Wind Charges**
-- **Switch 1 Weapon Mastery**
-- **Finish 1 Brewing Potion**
-
-### After Level-Up
-- **Recalculate HP**
-- **Add 1 HP Die**
-- **Check Class Level-Up**
-- **Switch Fighting Style**
-
 
 [TODO] Change 1 spell on level up. Innate sorcery. Font of magic (sorcery points). Metamagic options. Wild Magic. Tides of Chaos. Feat. Sorcerous Restoration.
 
@@ -544,3 +523,27 @@
 [Time Stop](spells.md#spells-t#time-stop)
 [Torment of Stone](spells.md#spells-t#torment-of-stone)
 [Wish](spells.md#spells-w#wish)
+
+
+# Reminders
+### After Short Rest
+- **Expend HP Dice to regain HP**
+  Regain *(d6 + CON)* HP per expended die.
+- **Regain 1 Second Wind Charge**
+- **Regain Action Surge Charge**
+- **Regain all Superiority Dice**
+
+### After Long Rest
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
+- **Regain all Second Wind Charges**
+- **Switch 1 Weapon Mastery**
+- **Finish 1 Brewing Potion**
+
+### After Level-Up
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch Fighting Style**
+
+

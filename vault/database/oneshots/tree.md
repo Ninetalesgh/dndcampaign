@@ -97,24 +97,6 @@
 - **Natural Healer.** Any healing caused by your Spells or Feats increases by 1d4. 
 
 
-# Reminders
-### After Short Rest
-- **Expend HP Dice to regain HP**
-  Regain *(dx + CON)* HP per expended die.
-- **Regain 1 Wild Shape Charge**
-
-### After Long Rest
-- **Regain all HP**
-- **Regain [*Level / 2 (round down)*] HP Dice**
-- **Regain all Wild Shape Charges**
-- **Regain all Spell Slots**
-
-### After Level-Up
-- **Recalculate HP**
-- **Add 1 HP Die**
-- **Check Class Level-Up**
-
-
 # Druid Spell Reference
 ## Cantrips
 [Control Flames](./../spells.md#spells-c#control-flames)
@@ -452,3 +434,23 @@
 [Storm of Vengeance](./../spells.md#spells-s#storm-of-vengeance)
 [Torment of Stone](./../spells.md#spells-t#torment-of-stone)
 [True Resurrection](./../spells.md#spells-t#true-resurrection)
+
+
+# Reminders
+### After Short Rest
+- **Expend HP Dice to regain HP**
+  Regain *(dx + CON)* HP per expended die.
+- **Regain 1 Wild Shape Charge**
+
+### After Long Rest
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
+- **Regain all Wild Shape Charges**
+- **Regain all Spell Slots**
+
+### After Level-Up
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+
+

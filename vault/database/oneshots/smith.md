@@ -100,20 +100,6 @@
 - **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 - **High Elf Cantrip.** You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
 
-# Reminders
-### After Short Rest
-- **Expend HP Dice to regain HP**
-  Regain *(d8 + CON)* HP per expended die.
-
-### After Long Rest
-- **Regain all HP**
-- **Regain [*Level / 2 (round down)*] HP Dice**
-- **Regain all Spell Slots**
-
-### After Level-Up
-- **Recalculate HP**
-- **Add 1 HP Die**
-- **Check Class Level-Up**
 
 # Artificer Spell Reference
 
@@ -318,3 +304,19 @@
 ## Level 7
 [Mordenkainen’s Instant Opposition](spells.md#spells-m#mordenkainen’s-instant-opposition)
 [Stonefire Cascade](spells.md#spells-s#stonefire-cascade)
+
+# Reminders
+### After Short Rest
+- **Expend HP Dice to regain HP**
+  Regain *(d8 + CON)* HP per expended die.
+
+### After Long Rest
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
+- **Regain all Spell Slots**
+
+### After Level-Up
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+
