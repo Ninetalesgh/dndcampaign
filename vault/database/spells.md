@@ -3834,6 +3834,7 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 - **Classes**: Paladin
 *(Source: PHB'24, page 272)*
+![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 
 #### Find Steed: Otherworldly Steed
 ### Otherworldly Steed
