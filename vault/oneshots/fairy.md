@@ -73,10 +73,10 @@
   [Disengage](game_rules.md#turn-based-play#disengage)
   [Hide](game_rules.md#turn-based-play#hide)
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Steady Aim](vault/database/feats.md#steady-aim)
-  [Dirty Trick: Flick o' the Wrist](vault/database/feats.md#dirty-trick-flick-o-the-wrist)
-  [Dirty Trick: Sand Toss](vault/database/feats.md#dirty-trick-sand-toss)
-  [Dirty Trick: Vicious Mockery](vault/database/feats.md#dirty-trick-vicious-mockery)
+  [Steady Aim](vault/feats.md#steady-aim)
+  [Dirty Trick: Flick o' the Wrist](vault/feats.md#dirty-trick-flick-o-the-wrist)
+  [Dirty Trick: Sand Toss](vault/feats.md#dirty-trick-sand-toss)
+  [Dirty Trick: Vicious Mockery](vault/feats.md#dirty-trick-vicious-mockery)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -84,15 +84,15 @@
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
-  [Uncanny Dodge](vault/database/feats.md#uncanny-dodge)
+  [Uncanny Dodge](vault/feats.md#uncanny-dodge)
 
 ### Passive Feats
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-  [Shapechanger](vault/database/feats.md#shapechanger-custom)
+  [Shapechanger](vault/feats.md#shapechanger-custom)
 - **Weapon Mastery**: Daggers, Shortbow.
   [Sneak Attack](./../feats.md#sneak-attack)
-  [Rakish Audacity](vault/database/feats.md#rakish-audacity)
-  [Fancy Footwork](vault/database/feats.md#fancy-footwork)
+  [Rakish Audacity](vault/feats.md#rakish-audacity)
+  [Fancy Footwork](vault/feats.md#fancy-footwork)
 
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*

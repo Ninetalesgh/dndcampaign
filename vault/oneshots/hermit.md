@@ -77,10 +77,10 @@
 
 ### Passive Feats
 - [Tough](feats.md#tough) *(Already included above)*
-  [Primal Companion](vault/database/feats.md#primal-companion)
-  [Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
-  [Mounted Combatant](vault/database/feats.md#mounted-combatant)
-  [Extra Attack](vault/database/feats.md#extra-attack)
+  [Primal Companion](vault/feats.md#primal-companion)
+  [Gnomish Cunning](vault/feats.md#gnomish-cunning)
+  [Mounted Combatant](vault/feats.md#mounted-combatant)
+  [Extra Attack](vault/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Archery.
 
@@ -220,7 +220,7 @@
 [Sow Demonseed](spells.md#spells-s#sow-demonseed)
 [Stoneskin](spells.md#spells-s#stoneskin)
 [Summon Elemental](spells.md#spells-s#summon-elemental)
-[Widowcraft](vault/database/spells.md#widowcraft)
+[Widowcraft](vault/spells.md#widowcraft)
 ## Level 5
 [Biting Touch](spells.md#spells-b#biting-touch)
 [Cold-Iron Shock](spells.md#spells-c#cold-iron-shock)

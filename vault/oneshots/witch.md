@@ -64,7 +64,7 @@
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
 
-  [Font of Magic](vault/database/feats.md#font-of-magic)
+  [Font of Magic](vault/feats.md#font-of-magic)
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
@@ -73,12 +73,12 @@
 ### Passive Feats
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-  [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
-  [Relentless Endurance](vault/database/feats.md#relentless-endurance)
-  [Innate Sorcery](vault/database/feats.md#innate-sorcery)
-  [Sorcerous Restoration](vault/database/feats.md#sorcerous-restoration)
-  [Wild Magic Surge](vault/database/feats.md#wild-magic-surge)
-  [Tides of Chaos](vault/database/feats.md#tides-of-chaos)
+  [Adrenaline Rush](vault/feats.md#adrenaline-rush)
+  [Relentless Endurance](vault/feats.md#relentless-endurance)
+  [Innate Sorcery](vault/feats.md#innate-sorcery)
+  [Sorcerous Restoration](vault/feats.md#sorcerous-restoration)
+  [Wild Magic Surge](vault/feats.md#wild-magic-surge)
+  [Tides of Chaos](vault/feats.md#tides-of-chaos)
 
 
 [TODO] Change 1 spell on level up. Innate sorcery. Font of magic (sorcery points). Metamagic options. Wild Magic. Tides of Chaos. Feat. Sorcerous Restoration.

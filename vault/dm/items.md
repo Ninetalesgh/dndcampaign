@@ -605,9 +605,9 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Damage**: 1d4 + DEX Bludgeoning damage.
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
   - *On Hit:* The target suffers an additional effect depending on the outcome of the damage roll of the main weapon dice:
-    - **1**: The target is now [Burning (1d6)](vault/database/conditions.md#burning). 
-    - **2**: The target is now [Bleeding (1d6)](vault/database/conditions.md#bleeding). 
-    - **3**: The target is now [Poisoned 2](vault/database/conditions.md#poisoned). 
+    - **1**: The target is now [Burning (1d6)](vault/conditions.md#burning). 
+    - **2**: The target is now [Bleeding (1d6)](vault/conditions.md#bleeding). 
+    - **3**: The target is now [Poisoned 2](vault/conditions.md#poisoned). 
     - **4**: No additional effect.
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: -

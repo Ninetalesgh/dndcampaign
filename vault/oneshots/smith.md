@@ -72,13 +72,13 @@
   [Prestidigitation](./../spells.md#spells-p#prestidigitation)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-  [Heroism](vault/database/spells.md#heroism)
-  [Warding Bond](vault/database/spells.md#warding-bond)
+  [Heroism](vault/spells.md#heroism)
+  [Warding Bond](vault/spells.md#warding-bond)
   [Detect Magic (Ritual) *(1 free use per Long Rest)*](./../spells.md#spells-d#detect-magic)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Shining Smite](vault/database/spells.md#shining-smite)
+  [Shining Smite](vault/spells.md#shining-smite)
   [Misty Step *(1 free use per Long Rest)*](./../spells.md#spells-m#misty-step)
 
 ### Reactions
@@ -86,13 +86,13 @@
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
-  [Shield](vault/database/spells.md#shield)
+  [Shield](vault/spells.md#shield)
 
 ### Passive Feats
-  [Steel Defender](vault/database/feats.md#steel-defender)
-  [The Right Tool for the Job](vault/database/feats.md#the-right-tool-for-the-job)
-  [Great Weapon Master - PHB 2014](vault/database/feats.md#great-weapon-master---phb-2014)
-  [Extra Attack](vault/database/feats.md#extra-attack)
+  [Steel Defender](vault/feats.md#steel-defender)
+  [The Right Tool for the Job](vault/feats.md#the-right-tool-for-the-job)
+  [Great Weapon Master - PHB 2014](vault/feats.md#great-weapon-master---phb-2014)
+  [Extra Attack](vault/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 
 - **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).

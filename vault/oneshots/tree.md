@@ -75,7 +75,7 @@
   [Goodberry *(one free use per Long Rest)*](./../spells.md#spells-g#goodberry)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
   [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
-  [Land's Aid *(Costs Wild Shape Charges)*](vault/database/feats.md#lands-aid)
+  [Land's Aid *(Costs Wild Shape Charges)*](vault/feats.md#lands-aid)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
@@ -92,7 +92,7 @@
 - **Druidic Bark.** While not wearing armor, your AC is 13 + WIS.
 - **Photosynthesis.** When you complete a Short Rest in natural sunlight, you regain one Level 2 Spell Slot or lower.
 - **Speak with Plants.** You can communicate with plants as if affected by [Speak with Plants](./../spells.md#spells-s#speak-with-plants), but only for basic emotions and ideas. This doesn’t allow them to move or act outside normal limits.
-- **Deep Roots.** You have advantage on Saves and Ability Checks against being moved, shoved, or knocked [Prone](vault/database/conditions.md#prone). 
+- **Deep Roots.** You have advantage on Saves and Ability Checks against being moved, shoved, or knocked [Prone](vault/conditions.md#prone). 
 - **Magician.** +1 Arcana, +1 Nature. *(Already included above)*
 - **Natural Healer.** Any healing caused by your Spells or Feats increases by 1d4. 
 

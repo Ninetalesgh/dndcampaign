@@ -107,12 +107,12 @@
       const urlParams = new URLSearchParams(window.location.search);
       const host = window.location.hostname;
       const port = window.location.port;
-      let contentPageUrl = '/game_rules.md';
+      let contentPageUrl = 'game_rules.md';
 
       for (const [key, value] of urlParams) {
         if (key === 'page') {
           if (value.match(/(ayra|kal|kazimir|mufi|nyari)/)) {
-            contentPageUrl = `/characters/${value}.md`;
+            contentPageUrl = `characters/${value}.md`;
             if (port === '8080') {
               connectToLocalServer(`${value}`, host);
             }

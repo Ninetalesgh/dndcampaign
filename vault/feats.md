@@ -19,13 +19,13 @@ Your HP increase by 2 per Level.
 You've learned how to produce exactly the tool you need: with [Thieves' Tools](vault/dm/items.md#thieves-tools) or any artisan's tools in hand, you can magically create one set of artisan's tools in an unoccupied space within range 1 *(1.5m)* of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
 
 ### Steel Defender
-Your tinkering has borne you a faithful companion, a [Steel Defender](vault/database/feats.md#steel-defender---summon).
+Your tinkering has borne you a faithful companion, a [Steel Defender](vault/feats.md#steel-defender---summon).
 It is friendly to you and your companions, and it obeys your commands. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
 At the end of a long rest, you can create a new steel defender if you have your [Smith's Tools](vault/dm/items.md#smiths-tools) with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
-- **Steel Defender in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
+- **Steel Defender in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/game_rules.md#dodge) action.
 
-- **Tinkerer's Pet.** If [Mending](vault/database/spells.md#mending) is cast on it, it regains 2d6 HP. If it has died within the last hour, you can use your [Smith's Tools](vault/dm/items.md#smiths-tools) as an **Action** to revive it, provided you are within range 1 *(1.5m)* of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with full HP.
+- **Tinkerer's Pet.** If [Mending](vault/spells.md#mending) is cast on it, it regains 2d6 HP. If it has died within the last hour, you can use your [Smith's Tools](vault/dm/items.md#smiths-tools) as an **Action** to revive it, provided you are within range 1 *(1.5m)* of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with full HP.
 ![\|50](https://bg3.wiki/w/images/0/03/Portrait_Bernard.png)
 
 #### Steel Defender - Summon
@@ -131,10 +131,10 @@ Each creature of your choice that you can see within range 3 *(4.5m)* of yoursel
 ## Ranger
 
 ### Primal Companion
-You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, [Beast of the Sea](vault/database/feats.md#beast-of-the-sea), or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
+You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, [Beast of the Sea](vault/feats.md#beast-of-the-sea), or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
 Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within range 1 *(1.5m)* of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
-- **The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
+- **The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/game_rules.md#dodge) action.
 - **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a **Magic Action** to touch it and expend a spell slot. The beast returns to life after 1 minute with all its HP restored.
 ![\|50](https://bg3.wiki/w/images/e/ed/Summon_Companion_Icon.webp)
 
@@ -169,12 +169,12 @@ STR | DEX | CON | INT | WIS | CHA
 
 ### Dirty Trick: Sand Toss
 **Bonus Action**
-- The target must succeed on a CON Save or be [Blinded](vault/database/conditions.md#blinded) until the end of their next turn.
+- The target must succeed on a CON Save or be [Blinded](vault/conditions.md#blinded) until the end of their next turn.
 ![\|50](https://bg3.wiki/w/images/b/b2/Dirty_Trick_Sand_Toss_Icon.webp)
 
 ### Dirty Trick: Vicious Mockery
 *Bonus Action**
-- Cast [Vicious Mockery](vault/database/spells.md#vicious-mockery)
+- Cast [Vicious Mockery](vault/spells.md#vicious-mockery)
 ![\|50](https://bg3.wiki/w/images/d/dc/Dirty_Trick_Vicious_Mockery_Icon.webp)
 
 ### Fancy Footwork
@@ -183,7 +183,7 @@ During your turn, if you make a Melee Attack against a creature, that creature c
 
 ### Rakish Audacity
 - You get +CHA to your Initiative.
-- You are also able to use [Sneak Attack](vault/database/feats.md#sneak-attack) if you are attacking a creature within range 1 *(1.5m)* and you are not within range 1 *(1.5m)* of any other creature, and you don't have Disadvantage on the attack.
+- You are also able to use [Sneak Attack](vault/feats.md#sneak-attack) if you are attacking a creature within range 1 *(1.5m)* and you are not within range 1 *(1.5m)* of any other creature, and you don't have Disadvantage on the attack.
 ![\|50](https://bg3.wiki/w/images/b/ba/Rakish_Audacity_Icon.webp)
 
 ### Sneak Attack
@@ -192,8 +192,8 @@ Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** dam
 
 **Starting at Level 5, Cunning Strike**
 You may remove one die from the Sneak Attack dice to grant one of the following effects:
-- **Poison.** You add a toxin to your strike, forcing the target to make a CON Save. On a failed save, the target becomes [Poisoned](vault/database/conditions.md#poisoned) for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. *(To use this effect, you must have a [Poisoner's Kit](vault/dm/items.md#poisoners-kit) on your person.)*
-- **Trip.** If the target is Large or smaller, it must succeed a DEX Save or fall [Prone](vault/database/conditions.md#prone).
+- **Poison.** You add a toxin to your strike, forcing the target to make a CON Save. On a failed save, the target becomes [Poisoned](vault/conditions.md#poisoned) for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. *(To use this effect, you must have a [Poisoner's Kit](vault/dm/items.md#poisoners-kit) on your person.)*
+- **Trip.** If the target is Large or smaller, it must succeed a DEX Save or fall [Prone](vault/conditions.md#prone).
 - **Withdraw.** Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
 
@@ -250,18 +250,18 @@ Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell wit
 - **25-28**: You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied.
 - **29-32**: The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die.
 - **33-36**: You have Resistance to all damage for the next minute.
-- **37-40**: You turn into a potted plant until the start of your next turn. While you're a plant, you are [Incapacitated](vault/database/conditions.md#incapacitated) and have Vulnerability to all damage. If you drop to 0 HP, your pot breaks, and your form reverts.
+- **37-40**: You turn into a potted plant until the start of your next turn. While you're a plant, you are [Incapacitated](vault/conditions.md#incapacitated) and have Vulnerability to all damage. If you drop to 0 HP, your pot breaks, and your form reverts.
 - **41-44**: For the next minute, you can teleport up to range 4 *(6m)* as a **Bonus Action** on each of your turns.
-- **45-48**: You and up to three creatures you choose within range 6 *(9m)* of you that are [Invisible](vault/database/conditions.md#invisible) for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell.
+- **45-48**: You and up to three creatures you choose within range 6 *(9m)* of you that are [Invisible](vault/conditions.md#invisible) for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell.
 - **49-52**: A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to Magic Missile.
 - **53-56**: You can take one extra action on this turn.
-- **57-60**: You cast a random spell. If the spell normally requires Concentration, it doesn't require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a 1, [Confusion](vault/database/spells.md#confusion); on a 2, [Fireball](vault/database/spells.md#fireball); on a 3, [Fog Cloud](vault/database/spells.md#fog-cloud); on a 4, [Fly](vault/database/spells.md#fly) (cast on a random creature within range 12 *(18m)* of you), on a 5, [Grease](vault/database/spells.md#grease); on a 6,[Levitate](vault/database/spells.md#levitate) (cast on yourself); on a 7, [Magic Missile](vault/database/spells.md#magic-missile) (cast as a level 5 spell); on an 8, [Mirror Image](vault/database/spells.md#mirror-image); on a 9, [Polymorph](vault/database/spells.md#polymorph) (cast on yourself), and if you fail the Save, you turn into a Goat (see appendix B); on a 10, [See Invisibility](vault/database/spells.md#see-invisibility).
-- **61-64**: For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is [Burning (1d4)](vault/database/conditions.md#burning).
-- **65-68**: If you die within the next hour, you immediately revive as if by [Reincarnate](vault/database/spells.md#reincarnate).
-- **69-72**: You are [Frightened](vault/database/conditions.md#frightened) until the end of your next turn. The DM determines the source of your fear.
+- **57-60**: You cast a random spell. If the spell normally requires Concentration, it doesn't require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a 1, [Confusion](vault/spells.md#confusion); on a 2, [Fireball](vault/spells.md#fireball); on a 3, [Fog Cloud](vault/spells.md#fog-cloud); on a 4, [Fly](vault/spells.md#fly) (cast on a random creature within range 12 *(18m)* of you), on a 5, [Grease](vault/spells.md#grease); on a 6,[Levitate](vault/spells.md#levitate) (cast on yourself); on a 7, [Magic Missile](vault/spells.md#magic-missile) (cast as a level 5 spell); on an 8, [Mirror Image](vault/spells.md#mirror-image); on a 9, [Polymorph](vault/spells.md#polymorph) (cast on yourself), and if you fail the Save, you turn into a Goat (see appendix B); on a 10, [See Invisibility](vault/spells.md#see-invisibility).
+- **61-64**: For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is [Burning (1d4)](vault/conditions.md#burning).
+- **65-68**: If you die within the next hour, you immediately revive as if by [Reincarnate](vault/spells.md#reincarnate).
+- **69-72**: You are [Frightened](vault/conditions.md#frightened) until the end of your next turn. The DM determines the source of your fear.
 - **73-76**: You teleport up to range 12 *(18m)* to an unoccupied space you can see.
-- **77-80**: A random creature within range 12 *(18m)* of you becomes [Poisoned](vault/database/conditions.md#poisoned) for 1d4 hours.
-- **81-84**: You radiate [Bright Light](vault/database/game_rules.md#bright-light) in a radius 6 *(9m)* for the next minute. Any creature that ends its turn within range 1 *(1.5m)* of you becomes [Blinded](vault/database/conditions.md#blinded) until the end of its next turn.
+- **77-80**: A random creature within range 12 *(18m)* of you becomes [Poisoned](vault/conditions.md#poisoned) for 1d4 hours.
+- **81-84**: You radiate [Bright Light](vault/game_rules.md#bright-light) in a radius 6 *(9m)* for the next minute. Any creature that ends its turn within range 1 *(1.5m)* of you becomes [Blinded](vault/conditions.md#blinded) until the end of its next turn.
 - **85-88**: Up to three creatures of your choice that you can see within range 6 *(9m)* of you take 1d10 Necrotic damage. You regain HP equal to the sum of the Necrotic damage dealt.
 - **89-92**: Up to three creatures of your choice that you can see within range 6 *(9m)* of you take 4d10 Lightning damage.
 - **93-96**: You and all creatures within range 6 *(9m)* of you have Vulnerability to Piercing damage for the next minute.
@@ -462,8 +462,8 @@ You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal 
 
 ### Shapechanger CUSTOM
 **Action**, *Choose one of the following*:
-- Transform into a [Tiny](vault/database/game_rules.md#creature-sizes) [Fairy](vault/database/feats.md#small-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
-- Transform into any [Small](vault/database/game_rules.md#creature-sizes) to [Medium](vault/database/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely. 
+- Transform into a [Tiny](vault/game_rules.md#creature-sizes) [Fairy](vault/feats.md#small-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
+- Transform into any [Small](vault/game_rules.md#creature-sizes) to [Medium](vault/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely. 
 ![\|50](https://bg3.wiki/w/images/9/9d/Shapechanger_Icon.webp)
 #### Small Flying Creature
 *Tiny*
@@ -526,7 +526,7 @@ Whenever you roll a 1 on a d20 Test you can reroll that d20 once.
 ## Orc
 
 ### Adrenaline Rush
-You can [Dash](vault/database/game_rules.md#dash) as a Bonus Action, When you do so you gain a number of Temporary HP equal to your PB. *(PB times per Rest)*
+You can [Dash](vault/game_rules.md#dash) as a Bonus Action, When you do so you gain a number of Temporary HP equal to your PB. *(PB times per Rest)*
 ![\|30](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
 
 ### Relentless Endurance
@@ -559,11 +559,11 @@ You can make an additional **Free Attack** Whenever you take the **Attack Action
 ## Mounted Combatant
 - **Ability Score Increase.** Increase your Strength, Dexterity, or Wisdom by 1, to a maximum of 20.
 
-- **Mounted Strike.** While [Mounted](vault/database/game_rules.md#mounted-combat), you have Advantage on attack rolls against any unmounted creature within range 1 *(1.5m)* of your mount that is at least one [size](vault/database/game_rules.md#creature-sizes) smaller than the mount.
+- **Mounted Strike.** While [Mounted](vault/game_rules.md#mounted-combat), you have Advantage on attack rolls against any unmounted creature within range 1 *(1.5m)* of your mount that is at least one [size](vault/game_rules.md#creature-sizes) smaller than the mount.
 
-- **Leap Aside.** If your mount is subjected to an effect that allows it to make a DEX Save to take only half damage, it instead takes no damage if it succeeds on the Save and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be [Incapacitated](vault/database/conditions.md#incapacitated).
+- **Leap Aside.** If your mount is subjected to an effect that allows it to make a DEX Save to take only half damage, it instead takes no damage if it succeeds on the Save and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be [Incapacitated](vault/conditions.md#incapacitated).
 
-- **Veer.** While mounted, you can force an attack that hits your mount to hit you instead if you are not [Incapacitated](vault/database/conditions.md#incapacitated).
+- **Veer.** While mounted, you can force an attack that hits your mount to hit you instead if you are not [Incapacitated](vault/conditions.md#incapacitated).
 ![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 *(Source: PHB'24, page 191)*
 

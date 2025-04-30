@@ -222,7 +222,7 @@ Immunity to a damage type reduces all damage of that type to 0.
 - **Being Pushed.** A pushed creature gets moved by the stated amount. If an obstacle is in the way, the creature takes 1d6 bludgeoning damage for every 2 spaces *(3m)* pushing was prevented by the obstacle.
 - **Falling.**
   - Controlled falling of 2 or less spaces always succeeds.
-  - A falling creature takes 1d6 bludgeoning damage for every 1 space *(1.5m)* of uncontrolled falling, to a maximum of 30d6, and lands [Prone](vault/database/conditions.md#prone), unless they control the fall and amount of uncontrolled falling is less than 3.
+  - A falling creature takes 1d6 bludgeoning damage for every 1 space *(1.5m)* of uncontrolled falling, to a maximum of 30d6, and lands [Prone](vault/conditions.md#prone), unless they control the fall and amount of uncontrolled falling is less than 3.
   - To control the fall a creature can make a **DEX (acrobatics)** check. For every 5 points rolled above 10 the creature may count the fall as having 1 fewer space. *(optional for the sake of attacking while falling)*
   - **Falling Attack.** A creature can attempt a **Melee Attack Action** against another creature or object below it. If the attack misses, the attacker takes all accumulated damage dice as if it was a controlled fall. If the attack hits, the damage dice that would accumulate from the fall are split evenly between attacker and attacked, favoring the attacker. The attacker takes their own damage as usual, the attacked takes the damage as part of the attack's damage roll *(for the sake of Critical Hits)*.
   *(i.e. falling 5 spaces while attacking, the falling creature takes 2d6 bludgeoning damage and adds 3d6 to the damage roll)*
@@ -232,11 +232,11 @@ Immunity to a damage type reduces all damage of that type to 0.
 - During your move, you can mount a creature that is within range 1 *(1.5m)* of you or dismount. Doing so costs an amount of movement equal to half your Speed (round down).
 - **Controlling a Mount**
   - You can control a mount only if it has been trained to accept a rider. Domesticated horses, mules, and similar creatures have such training.
-  - The Initiative of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](vault/database/game_rules.md#dash), [Disengage](vault/database/game_rules.md#disengage), and [Dodge](vault/database/game_rules.md#dodge). A controlled mount can move and act even on the turn that you mount it.
+  - The Initiative of a controlled mount changes to match yours when you mount it. It moves on your turn as you direct it, and it has only three action options during that turn: [Dash](vault/game_rules.md#dash), [Disengage](vault/game_rules.md#disengage), and [Dodge](vault/game_rules.md#dodge). A controlled mount can move and act even on the turn that you mount it.
     In contrast, an independent mount - one that lets you ride but ignores your control - retains its place in the Initiative order and moves and acts as it likes.
 - **Falling Off**
-  - If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 DEX Save or fall off, landing [Prone](vault/database/conditions.md#prone) in an unoccupied space within range 1 *(1.5m)* of the mount.
-  - While mounted, you must make the same Save if you're knocked [Prone](vault/database/conditions.md#prone) or the mount is.
+  - If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 DEX Save or fall off, landing [Prone](vault/conditions.md#prone) in an unoccupied space within range 1 *(1.5m)* of the mount.
+  - While mounted, you must make the same Save if you're knocked [Prone](vault/conditions.md#prone) or the mount is.
 
 ## Light and Visibility
 ### Bright Light
