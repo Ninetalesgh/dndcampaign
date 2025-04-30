@@ -92,7 +92,7 @@ Each creature of your choice that you can see within range 3 *(4.5m)* of yoursel
 
 ### Primal Companion
 
-You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, Beast of the Sea, or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
+You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, [Beast of the Sea](vault/database/feats.md#beast-of-the-sea), or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
 
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
 
@@ -101,6 +101,28 @@ The beast is Friendly to you and your allies and obeys your commands. It vanishe
 - **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a **Magic Action** to touch it and expend a spell slot. The beast returns to life after 1 minute with all its HP restored.
 
 Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within range 1 *(1.5m)* of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
+
+#### Beast of the Sea
+*Medium beast, Neutral*
+- **Initiative**: +2
+- **AC**: 13 + your WIS
+- **HP**: 5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)
+- **Speed**: walk 1 *(1.5m)*, swim 12 *(18m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 14 (+2) | 15 (+2) | 8 (-1) | 14 (+2) | 11 (+0) 
+
+- **Senses**: [Darkvision *(27m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Languages**: understands the languages you know
+- **Traits**: 
+   - **Amphibious**. The beast can breathe air and water.
+   - **Primal Bond**. Add your Proficiency Bonus to any ability check or Save the beast makes.
+- **Actions**: 
+   - **Beast's Strike**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)* 
+      *Hit:* 1d6 + 2 plus your WIS modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target becomes [Grappled](conditions.md#grappled) (escape DC equals your spell save DC).
+*(Source: XPHB, page 124)*
+
 
 ## Rogue
 
