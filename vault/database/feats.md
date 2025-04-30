@@ -131,16 +131,12 @@ Each creature of your choice that you can see within range 3 *(4.5m)* of yoursel
 ## Ranger
 
 ### Primal Companion
-
 You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, [Beast of the Sea](vault/database/feats.md#beast-of-the-sea), or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
-
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
-
-- **The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
-
-- **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a **Magic Action** to touch it and expend a spell slot. The beast returns to life after 1 minute with all its HP restored.
-
 Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within range 1 *(1.5m)* of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
+- **The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
+- **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a **Magic Action** to touch it and expend a spell slot. The beast returns to life after 1 minute with all its HP restored.
+![\|50](https://bg3.wiki/w/images/e/ed/Summon_Companion_Icon.webp)
 
 #### Beast of the Sea
 *Medium beast, Neutral*
@@ -162,7 +158,6 @@ STR | DEX | CON | INT | WIS | CHA
    - **Beast's Strike**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)* 
       *Hit:* 1d6 + 2 plus your WIS modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target becomes [Grappled](conditions.md#grappled) (escape DC equals your spell save DC).
 *(Source: XPHB, page 124)*
-
 
 ## Rogue
 
