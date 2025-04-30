@@ -1,3 +1,4 @@
 vault/images/
 vault/.obsidian/
-node_modules/ws/
+node_modules
+package-lock.json
