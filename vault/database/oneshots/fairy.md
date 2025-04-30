@@ -72,6 +72,7 @@
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
   [Hide](game_rules.md#turn-based-play#hide)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Steady Aim](vault/database/feats.md#steady-aim)
   [Dirty Trick: Flick o' the Wrist](vault/database/feats.md#dirty-trick-flick-o-the-wrist)
   [Dirty Trick: Sand Toss](vault/database/feats.md#dirty-trick-sand-toss)
