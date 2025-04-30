@@ -10,32 +10,31 @@
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR $ (-$)         | DEX $ (+$)          | CON 13 (+$)       |
+| STR 8 (-1)         | DEX 14 (+2)          | CON 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -$      | ☑ **DEX Save +$**    | ☐ CON Save +1     |
-| ☐ Athletics -$     | ☐ Acrobatics +$      | .                 |
-| .                  | ☐ Sleight of Hand +$ | .                 |
-| .                  | ☑ **Stealth +$**     | .                 |
+| ☐ STR Save -1      | ☐ DEX Save +2        | ☑ **CON Save +6** |
+| ☐ Athletics -1     | ☐ Acrobatics +2      | .                 |
+| .                  | ☐ Sleight of Hand +2 | .                 |
+| .                  | ☑ Stealth +2     | .                 |
 
 
-| INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
+| INT 18 (+4)        | WIS 10 (+0)              | CHA 8 (-1)         |
 | :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
-| ☐ Arcana +0        | ☑ **Animal Handling +7** | ☐ Deception +0     |
+| ☑ **INT Save +7**  | ☐ WIS Save +0            | ☐ CHA Save -1      |
+| ☐ Arcana +0        | ☑☐ **Animal Handling +7** | ☐ Deception +0     |
 | ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☑ **Medicine +7**        | ☐ Performance +0   |
-| ☑☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☑ **Survival +7**        | .                  |
+| ☐ Investigation +0 | ☑☐ **Medicine +7**        | ☐ Performance +0   |
+| ☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
+| ☐ Religion +0      | ☑☐ **Survival +7**        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Firearms.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields.
 - **Tool Proficiencies**: [Thieves' Tools](vault/dm/items.md#thieves-tools), [Tinker's Tools](vault/dm/items.md#tinkers-tools), 
 - **Languages**: Common, 
 
-[TODO] ability scores
 [TODO] 1 tool proficiency
 [TODO] 2 languages
-[TODO] 2 skill proficiencies
+[TODO] 4 skill proficiencies
 
 
 [TODO] artificer feats
