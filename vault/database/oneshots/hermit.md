@@ -76,7 +76,7 @@
 
 ### Passive Feats
 - [Tough](feats.md#tough) *(Already included above)*
-
+  [Primal Companion](vault/database/feats.md#primal-companion)
   [Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
   [Mounted Combatant](vault/database/feats.md#mounted-combatant)
   [Extra Attack](vault/database/feats.md#extra-attack)
