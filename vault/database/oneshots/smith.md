@@ -3,7 +3,7 @@
 - **High Elf Battlesmith Artificer Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
-- **AC**: 10 (source)
+- **AC**: 16 ([Scale Mail](vault/dm/items.md#scale-mail) + DEX)
 - **HP**: 43 *(3 + [5 + CON] * Level)*
 - **HP Dice**: 5 D8
 - **Proficiency Bonus (PB)**: +3
@@ -44,9 +44,11 @@
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +5 *(PB + DEX)*.
 - **Attack with any Magic Weapon**: +7 *(PB + INT)*
-
+  [The Tazer](vault/dm/items.md#the-tazer)
+  [Pistol](vault/dm/items.md#pistol)
 ### Other
-
+  [Sending Stones](vault/dm/items.md#sending-stones)
+  [Scale Mail](vault/dm/items.md#scale-mail)
 
 ## Spellcasting
 - **Prepared Spells**: 6
