@@ -5,6 +5,7 @@
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
 - **HP**: 28 *(BASE + [X + CON] * Level)*
 - **HP Dice**: 5 D10
+- **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 

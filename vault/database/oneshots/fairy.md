@@ -6,7 +6,7 @@
 - **AC**: 10 (source)
 - **HP**: $ *($ + [$ + CON] * Level)*
 - **HP Dice**: l D$
-- **Proficiency Bonus (PB)**: +$
+- **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
