@@ -218,6 +218,14 @@ Vulnerability to a damage type doubles all damage of that type you take.
 ### Immunity
 Immunity to a damage type reduces all damage of that type to 0.
 
+## Displacement
+- **Being Pushed.** A pushed creature gets moved by the stated amount. If an obstacle is in the way, the creature takes 1d6 bludgeoning damage for every 2 spaces *(3m)* pushing was prevented by the obstacle.
+- **Falling.**
+  - Controlled falling of 2 or less spaces always succeeds.
+  - A falling creature takes 1d6 bludgeoning damage for every 1 space *(1.5m)* of uncontrolled falling, to a maximum of 30d6, and lands [Prone](vault/database/conditions.md#prone), unless they control the fall and amount of uncontrolled falling is less than 3.
+  - To control the fall a creature can make a **DEX (acrobatics)** check. For every 5 points rolled above 10 the creature may count the fall as having 1 fewer space. *(optional for the sake of attacking while falling)*
+  - **Falling Attack.** A creature can attempt a **Melee Attack Action** against another creature or object below it. If the attack misses, the attacker takes all accumulated damage dice as if it was a controlled fall. If the attack hits, the damage dice that would accumulate from the fall are split evenly between attacker and attacked, favoring the attacker. The attacker takes their own damage as usual, the attacked takes the damage as part of the attack's damage roll *(for the sake of Critical Hits)*.
+  *(i.e. falling 5 spaces while attacking, the falling creature takes 2d6 bludgeoning damage and adds 3d6 to the damage roll)*
 
 ## Light and Visibility
 ### Bright Light
@@ -381,4 +389,3 @@ Exhaustion caused by Dehydration or Malnutrition **can't** be removed unless you
 - **Sleep Deprivation.** Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 CON Save or gain 1 stack of [Exhaustion](conditions.md#exhaustion). Each consecutive 24-hour period increases the DC by 5.
 
 
-!?[Name|Type]

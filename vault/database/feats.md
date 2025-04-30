@@ -477,20 +477,6 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 
 
 # Feats
-## Weapon Mastery
-You gain weapon masteries with the specified weapon types.
-Which weapon mastery you can use with each individual weapon is specified on the weapon.
-The available weapon masteries are:
-- **Cleave.** Allowed to make a second Attack against another creature within range 1 of the first target also within your reach, without damage modifier.
-- **Graze.** Still deal damage when missing with an Attack.
-- **Nick.** Allowed to make the additional Attack you receive from wielding two Light weapons as part of the initial Attack Action.
-- **Push.** Allowed to push a creature by the specified amount on hit. (STR/DEX save?)
-- **Sap.** Target you hit gets Disadvantage on its next Attack.
-- **Slow.** Reduces movement speed by the specified amount on hit.
-- **Topple.** Knock target Prone on hit. (STR/DEX save?)
-- **Vex.** On hit, choose ally to give advantage on the target for their next hit.
-- **Brace.** Can Opportunity Attack when enemy enters range.
-- **Rush.** Can move an extra specified distance for free to Attack.
 
 ## Fighting Style
 - **Archery**: You gain a +2 bonus to attack rolls you make with Ranged weapons.
