@@ -31,8 +31,6 @@
 - **Tool Proficiencies**: 
 - **Languages**: Common, Gnome, Elvish, Halfling, Orc.
 
-[TODO] Sling and bullets
-
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
@@ -85,13 +83,6 @@
   [Extra Attack](vault/database/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Archery.
-
-
-[TODO] switch 1 spell on long rest
-
-Beastmaster subclass
-
-
 
 # Ranger Spell Reference
 ## Level 1
