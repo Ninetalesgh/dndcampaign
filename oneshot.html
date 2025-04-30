@@ -108,12 +108,12 @@
 
       for (const [key, value] of urlParams) {
         if (key === 'page') {
-            contentPageUrl = `/oneshots/${value}.md`;
-            if (port === '8080') {
-              connectToLocalServer(`${value}`, host);
-            }
+            contentPageUrl = `oneshots/${value}.md`;
+          if (port === '8080') {
+            connectToLocalServer(`${value}`, host);
+          }
           else {
-            contentPageUrl = `/oneshots${value}.md`;
+            contentPageUrl = `oneshots/${value}.md`;
           }
         }
       }
