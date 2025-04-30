@@ -1,7 +1,8 @@
-# Template
-- **Lineage - Subclass Class - Level**: $
+
+# Fairy
+- **Lineage - Swashbuckler Rogue - Level**: $
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX)*
+- **Initiative**: +$ *(DEX + CHA)*
 - **AC**: 10 (source)
 - **HP**: $ *($ + [$ + CON] * Level)*
 - **HP Dice**: l D$
@@ -19,7 +20,7 @@
 
 | INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
 | :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
+| ☐ **INT Save +0**  | ☑ WIS Save +7            | ☐ CHA Save +0      |
 | ☐ Arcana +0        | ☑ **Animal Handling +7** | ☐ Deception +0     |
 | ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
 | ☐ Investigation +0 | ☑ **Medicine +7**        | ☐ Performance +0   |
@@ -27,9 +28,13 @@
 | ☐ Religion +0      | ☑ **Survival +7**        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
-- **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
+- **Armor Proficiencies**: Light Armor.
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
+
+
+[TODO] Skill choices, 4 from rogue, 2 any. 
+2 expertises
 
 
 ## Equipment
@@ -58,19 +63,34 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
+
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
 
-
 ### Bonus Actions
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:
+  [Dash](game_rules.md#turn-based-play#dash)
+  [Disengage](game_rules.md#turn-based-play#disengage)
+  [Hide](game_rules.md#turn-based-play#hide)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Steady Aim**, if you are not moving during this turn: Gain Advantage on your next Attack on the current turn.
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
+
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+  [Uncanny Dodge](vault/database/feats.md#uncanny-dodge)
 
 ### Passive Feats
+- **Weapon Mastery**: Daggers, Shortbow.
+[Sneak Attack](./../feats.md#sneak-attack)
+[Rakish Audacity](vault/database/feats.md#rakish-audacity)
+[Fancy Footwork](vault/database/feats.md#fancy-footwork)
+
+- **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
+- **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
+- **Cunning Action.** Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [Dash](game_rules.md#turn-based-play#dash),[Disengage](game_rules.md#turn-based-play#disengage), or[Hide](game_rules.md#turn-based-play#hide). *(Already included above)*
+
+- **Shapeshift**. [TODO]
 
 # Reminders
 ### After Short Rest
