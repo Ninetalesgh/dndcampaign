@@ -11,8 +11,14 @@ Repeatable. You can take this feat more than once.
 ## Tough
 Your HP increase by 2 per Level.
 
+
 # Class Feats
 ## Druid
+
+### Land's Aid
+As a **Magic Action**, you can expend a use of your Wild Shape and choose a point within range 12 *(18m)*. Vitality-giving flowers and life-draining thorns appear for a moment in a radius 2 *(3m)* Sphere centered on that point. Each creature of your choice in the Sphere must make a Con Save against your Spell Save DC, taking 2d6 Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains 2d6 Hit Points.
+
+The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
 
 ### Wild Shape
 As a **Bonus Action** you shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of 1/4, with following effects:
@@ -82,12 +88,87 @@ As a **Bonus Action**, you can touch a creature and spend any number of Lay on H
 As a **Magic Action**, you can expend one use of your **Channel Divinity** to conjure spectral vines around nearby creatures.
 Each creature of your choice that you can see within range 3 *(4.5m)* of yourself must succeed on a STR Save or be [Restrained](conditions.md#restrained) for 1 minute. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 ![\|50](https://bg3.wiki/w/images/6/68/Nature%27s_Wrath_Icon.webp)
+## Ranger
+
+### Primal Companion
+
+You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, Beast of the Sea, or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
+
+The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
+
+- **The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
+
+- **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a **Magic Action** to touch it and expend a spell slot. The beast returns to life after 1 minute with all its HP restored.
+
+Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within range 1 *(1.5m)* of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
 ## Rogue
+
 ### Sneak Attack
 Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
 - You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you **don't** have Disadvantage on the attack roll.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
+
+## Sorcerer
+
+### Innate Sorcery
+**Bonus Action**
+You can unleash your innate magic for 1 minute, during which you gain the following benefits:
+- +1 Spell Save DC.
+- Advantage on Spell Attacks with Sorcerer Spells.
+*(2 Charges, regain all after Long Rest)*
+
+### Font of Magic
+You have an amount of **Sorcery Points** equal to your Sorcerer Level and the following abilities:
+- **Free Action**: You can convert Spell Slots to an amount of Sorcery Points equal to the Slot level.
+- **Bonus Action**: Spend **Sorcery Points** to create a Spell Slot depending on the amount of points spent:
+  - 2 **Sorcery Points**: Level 1 Spell Slot
+  - 3 **Sorcery Points**: Level 2 Spell Slot
+  - 5 **Sorcery Points**: Level 3 Spell Slot
+  - 6 **Sorcery Points**: Level 4 Spell Slot
+  - 7 **Sorcery Points**: Level 5 Spell Slot
+  ![\|50](https://bg3.wiki/w/images/1/17/Create_Spell_Slot_Icon.webp)
+
+### Sorcerous Restoration
+**During Short Rest**
+Regain [Sorcerer Level / 2] Sorcery Points. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/a/a7/Create_Sorcery_Points_Icon.webp)
+
+### Tides of Chaos
+You can manipulate chaos itself to give yourself Advantage on one D20 Test before you roll the d20. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a Long Rest before you can use this feature again.
+If you do cast a Sorcerer spell with a spell slot before you finish a Long Rest, you **automatically** roll on the Wild Magic Surge table.
+![\|50](https://bg3.wiki/w/images/8/8d/Tides_of_Chaos_Icon.webp)
+
+### Wild Magic Surge
+Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll a d100 on the Wild Magic Surge table to create a magical effect depending on the rolled result.
+*If the magical effect is a spell, it is too wild to be affected by your Metamagic.*
+
+- **01-04**: Roll on this table at the start of each of your turns for the next minute, ignoring this result on subsequent rolls.
+- **05-08**: A creature that is Friendly toward you appears in a random unoccupied space within range 12 *(18m)* of you. The creature is under the DM's control and disappears 1 minute later. Roll 1d4 to determine the creature: on a 1, a Modron Duodrone appears; on a 2, a Flumph appears; on a 3, a Modron Monodrone appears; on a 4, a Unicorn appears. See the Monster Manual for the creature's stat block.
+- **09-12**: For the next minute, you regain 5 Hit Points at the start of each of your turns.
+- **13-16**: Creatures have Disadvantage on Saves against the next spell you cast in the next minute that involves a Save.
+- **17-20**: You are subjected to an effect that lasts for 1 minute unless its description says otherwise. Roll 1d8 to determine the effect: on a 1, you're surrounded by faint, ethereal music only you and creatures within range 1 *(1.5m)* of you can hear; on a 2, your size increases by one size category; on a 3, you grow a long beard made of feathers that remains until you sneeze, at which point the feathers explode from your face and vanish; on a 4, you must shout when you speak; on a 5, illusory butterflies flutter in the air within range 2 *(3m)* of you; on a 6, an eye appears on your forehead, granting you Advantage on WIS (Perception) checks; on an 7, pink bubbles float out of your mouth whenever you speak; on an 8, your skin turns a vibrant shade of blue for 24 hours or until the effect is ended by a Remove Curse spell.
+- **21-24**: For the next minute, all your spells with a casting time of an Action have a casting time of a Bonus Action.
+- **25-28**: You are transported to the Astral Plane until the end of your next turn. You then return to the space you previously occupied or the nearest unoccupied space if that space is occupied.
+- **29-32**: The next time you cast a spell that deals damage within the next minute, don't roll the spell's damage dice for the damage. Instead use the highest number possible for each damage die.
+- **33-36**: You have Resistance to all damage for the next minute.
+- **37-40**: You turn into a potted plant until the start of your next turn. While you're a plant, you are [Incapacitated](vault/database/conditions.md#incapacitated) and have Vulnerability to all damage. If you drop to 0 HP, your pot breaks, and your form reverts.
+- **41-44**: For the next minute, you can teleport up to range 4 *(6m)* as a **Bonus Action** on each of your turns.
+- **45-48**: You and up to three creatures you choose within range 6 *(9m)* of you that are [Invisible](vault/database/conditions.md#invisible) for 1 minute. This invisibility ends on a creature immediately after it makes an attack roll, deals damage, or casts a spell.
+- **49-52**: A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to Magic Missile.
+- **53-56**: You can take one extra action on this turn.
+- **57-60**: You cast a random spell. If the spell normally requires Concentration, it doesn't require Concentration in this case; the spell lasts for its full duration. Roll 1d10 to determine the spell: on a 1, [Confusion](vault/database/spells.md#confusion); on a 2, [Fireball](vault/database/spells.md#fireball); on a 3, [Fog Cloud](vault/database/spells.md#fog-cloud); on a 4, [Fly](vault/database/spells.md#fly) (cast on a random creature within range 12 *(18m)* of you), on a 5, [Grease](vault/database/spells.md#grease); on a 6,[Levitate](vault/database/spells.md#levitate) (cast on yourself); on a 7, [Magic Missile](vault/database/spells.md#magic-missile) (cast as a level 5 spell); on an 8, [Mirror Image](vault/database/spells.md#mirror-image); on a 9, [Polymorph](vault/database/spells.md#polymorph) (cast on yourself), and if you fail the Save, you turn into a Goat (see appendix B); on a 10, [See Invisibility](vault/database/spells.md#see-invisibility).
+- **61-64**: For the next minute, any flammable, nonmagical object you touch that isn't being worn or carried by another creature bursts into flame, takes 1d4 Fire damage, and is [Burning (1d4)](vault/database/conditions.md#burning).
+- **65-68**: If you die within the next hour, you immediately revive as if by [Reincarnate](vault/database/spells.md#reincarnate).
+- **69-72**: You are [Frightened](vault/database/conditions.md#frightened) until the end of your next turn. The DM determines the source of your fear.
+- **73-76**: You teleport up to range 12 *(18m)* to an unoccupied space you can see.
+- **77-80**: A random creature within range 12 *(18m)* of you becomes [Poisoned](vault/database/conditions.md#poisoned) for 1d4 hours.
+- **81-84**: You radiate [Bright Light](vault/database/game_rules.md#bright-light) in a radius 6 *(9m)* for the next minute. Any creature that ends its turn within range 1 *(1.5m)* of you becomes [Blinded](vault/database/conditions.md#blinded) until the end of its next turn.
+- **85-88**: Up to three creatures of your choice that you can see within range 6 *(9m)* of you take 1d10 Necrotic damage. You regain HP equal to the sum of the Necrotic damage dealt.
+- **89-92**: Up to three creatures of your choice that you can see within range 6 *(9m)* of you take 4d10 Lightning damage.
+- **93-96**: You and all creatures within range 6 *(9m)* of you have Vulnerability to Piercing damage for the next minute.
+- **97-00**: Roll 1d6 On a 1, you regain 2d10 Hit Points; on a 2, one ally of your choice within range 60 *(90m)* of you regains 2d10 Hit Points; on a 3, you regain your lowest-level expended spell slot; on a 4, one ally of your choice within range 60 *(90m)* of you regains their lowest-level expended spell slot; on a 5, you regain all your expended Sorcery Points; on a 6, all the effects of row 17–20 affect you simultaneously.
+![\|50](https://bg3.wiki/w/images/2/2a/Wild_Magic_passive_feature_Icon.webp)
 
 ## Warlock
 ### Dark One's Blessing
@@ -280,16 +361,17 @@ You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal 
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
 # Lineage Feats
-
-## Stone's Endurance
+## Goliath
+### Stone's Endurance
 As a Reaction when you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/f/f6/Unarmoured_Defence_%28Barbarian%29_Icon.webp)
 
-## Healing Hands
+## Aasimar
+### Healing Hands
 As an Action you touch a creature and roll a number of d4s equal to your PB. The creature regains HP equal to the total. *(Once per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/7/72/Preserve_Life_Icon.webp)
 
-## Celestial Revelation
+### Celestial Revelation
 As a Bonus Action you can transform yourself in one of three ways for up to 1 minute. *(Once per Long Rest)* 
 **Bonus Damage.** While you are transformed, when you deal damage with an attack or spell during your turn, you may deal bonus damage equal to your PB, the damage type depends on your transformation. *(Once per turn)*
 **Possible Transformations:**
@@ -298,17 +380,34 @@ As a Bonus Action you can transform yourself in one of three ways for up to 1 mi
 - **Necrotic Shroud.** *Your eyes become pools of darkness and flightless wings sprout from your back.* Creatures other than your allies within range 2 *(3m)* must succeed a CHA Save with DC *(8 + your CHA modifier + your PB)* or be [Frightened](conditions.md#frightened) until the end of your next turn. The bonus damage you deal is **Necrotic**.
 ![\|50](https://i.imgur.com/GqWRLly.png)
 
-## Brave
+## Gnome
+
+### Gnomish Cunning
+You have Advantage on INT, WIS, and CHA Saves.
+![\|50](https://bg3.wiki/w/images/0/02/Gnome_Cunning_Icon.webp)
+
+## Halfling
+### Brave
 You have Advantage on Saves against [Frightened](conditions.md#frightened).
 ![\|50](https://bg3.wiki/w/images/c/ca/Brave_Icon.webp)
 
-## Naturally Stealthy
+### Naturally Stealthy
 You can take the [Hide](game_rules.md#turn-based-play#hide) Action even when you are [Obscured](game_rules.md#advanced-rules#cover) only by a creature that is at least one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ![\|50](https://bg3.wiki/w/images/2/2a/Naturally_Stealthy_Icon.webp)
 
-## Halfling Luck
+### Halfling Luck
 Whenever you roll a 1 on a d20 Test you can reroll that d20 once.
 ![\|50](https://bg3.wiki/w/images/6/68/Halfling_Luck_Icon.webp)
+
+## Orc
+
+### Adrenaline Rush
+You can [Dash](vault/database/game_rules.md#dash) as a Bonus Action, When you do so you gain a number of Temporary HP equal to your PB. *(PB times per Rest)*
+![\|30](https://bg3.wiki/w/images/4/41/Dash.webp)
+
+### Relentless Endurance
+When you are reduced to 0 HP but not killed outright, you can drop to 1 HP instead. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/3/3a/Relentless_Endurance_Icon.webp)
 
 
 # Feats
@@ -342,3 +441,9 @@ The available weapon masteries are:
   - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature [Grappled](conditions.md#grappled) by you.
 ![\|50](https://bg3.wiki/w/images/a/ae/Duelling_Icon.webp)
 *(Source: PHB'24, page 209)*
+
+
+## Extra Attack
+You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
+![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
+

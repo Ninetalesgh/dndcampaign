@@ -1,55 +1,56 @@
-# Kal
-- **Moon Druid Level**: 3
+# Tree
+- **Treefolk - Circle of the Land Druid - Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +2 *(DEX)*
-- **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
-- **HP**: 30 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 3 D8
-- **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
+- **Initiative**: +$ *(DEX)*
+- **AC**: 17 (13 + WIS from Druidic Bark)
+- **HP**: $ *(3 + [7 + CON] * Level)*
+- **HP Dice**: 5 D8
+- **Proficiency Bonus (PB)**: +3
+- **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 12 (+1)        | DEX 14 (+2)          | CON 14 (+2)     |
-| :----------------- | :------------------- | :-------------- |
-| ☐ STR (Save +1)    | ☐ DEX (Save +2)      | ☐ CON (Save +2) |
-| ☑ **Athletics +3** | ☐ Acrobatics +2      | .               |
-| .                  | ☐ Sleight of Hand +2 | .               |
-| .                  | ☐ Stealth +2         | .               |
+| STR 8 (-1)         | DEX 16 (+3)          | CON 13 (+1)       |
+| :----------------- | :------------------- | :---------------- |
+| ☐ STR Save -1      | ☑ **DEX Save +6**    | ☐ CON Save +1     |
+| ☐ Athletics -1     | ☐ Acrobatics +3      | .                 |
+| .                  | ☐ Sleight of Hand +3 | .                 |
+| .                  | ☑ **Stealth +6**     | .                 |
 
 
-| INT 10 (+0)         | WIS 17 (+3)          | CHA 8 (-1)            |
-| :------------------ | :------------------- | :-------------------- |
-| ☑ INT **(Save +2)** | ☑ **WIS (Save +5)**  | ☐ CHA (Save -1)       |
-| ☐ Arcana +0         | ☐ Animal Handling +3 | ☐ Deception -1        |
-| ☐ History +0        | ☐ Insight +3         | ☑ **Intimidation +1** |
-| ☐ Investigation +0  | ☐ Medicine +3        | ☐ Performance -1      |
-| ☑ **Nature +2**     | ☐ **Perception +5**  | ☐ Persuasion -1       |
-| ☐ Religion +0       | ☐ **Survival +5**    | .                     |
+| INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
+| :----------------- | :----------------------- | :----------------- |
+| ☑ **INT Save +3**  | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
+| ☐ Arcana +1        | ☐ Animal Handling +7**   | ☐ Deception +0     |
+| ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
+| ☐ Investigation +0 | ☐ Medicine +7            | ☐ Performance +0   |
+| ☑ **Nature +4**    | ☐ Perception +4          | ☐ Persuasion +0    |
+| ☐ Religion +0      | ☑ **Survival +7**        | .                  |
 
-- **Weapon Proficiencies**: Simple Weapons, Martial Weapons
-- **Armor Proficiencies**: Light Armor, Medium Armor, Shields
-- **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
-- **Languages**: Common, Elvish, Druidic, Abyssal
+- **Weapon Proficiencies**: Quarterstaves.
+- **Armor Proficiencies**: No armor proficiencies.
+- **Tool Proficiencies**: Herbalism Kit
+- **Languages**: Common, Druidic, [TODO] 2 more languages
+
+[TODO] Skill proficiencies. 2 from druid + any 2. 
+[TODO] 3 Cantrips and 9 spells prepared.
+[TODO] Circle of the Land spells
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +3 *(PB + STR)*.
-- **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
-  [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
+- **STR Based Attack Modifier**: +$ *(PB + STR)*.
+- **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
+
   [Quarterstaff](dm/items.md#quarterstaff)
-  [Sickle](dm/items.md#sickle)
 ### Other
-  [Hide Armor](dm/items.md#hide-armor)
-  [Shield](dm/items.md#shield)
   [Herbalism Kit](dm/items.md#herbalism-kit)
-  [Explorer's Pack](dm/items.md#explorers-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 6
+- **Prepared Spells**: 9
 - **Spell Slots Level 1**: 4
-- **Spell Slots Level 2**: 2
-- **Spell Attack Modifier**: +5 *(PB + WIS)*
-- **Spell Save DC**: 13 *(8 + PB + WIS)* 
-- **Wild Shapes Prepared**: 4
+- **Spell Slots Level 2**: 3
+- **Spell Slots Level 3**: 2
+- **Spell Attack Modifier**: +7 *(PB + WIS)*
+- **Spell Save DC**: 15 *(8 + PB + WIS)* 
 - **Wild Shape Charges**: 2 *(Regain 1 after Short Rest, all after Long Rest)*
 
 ## Feats and Actions
@@ -63,80 +64,60 @@
   [Ready Action](game_rules.md#turn-based-play#ready-action)
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
-  [Guidance](./../spells.md#spells-g#guidance)
-  [Poison Spray](./../spells.md#spells-p#poison-spray)
-  [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
+
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Druidcraft](./../spells.md#spells-d#druidcraft)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-  [Detect Magic (Ritual)](./../spells.md#spells-d#detect-magic)
+  [Goodberry *(one free use per Long Rest)*](./../spells.md#spells-g#goodberry)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
   [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Circle of the Moon Spells**: 
-  [Starry Wisp](./../spells.md#spells-s#starry-wisp)
-  [Cure Wounds](./../spells.md#spells-c#cure-wounds)
-  [Moonbeam](./../spells.md#spells-m#moonbeam)
+  [Land's Aid *(Costs Wild Shape Charges)*](vault/database/feats.md#lands-aid)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Wild Shape](feats.md#wild-shape-moon)
-
-
+  - **Balm of the Summer Court.** You are a font of energy that offers respite from injuries. You have a pool of fey energy represented by a number of d6s equal to your druid level. As a bonus action, you can choose one creature you can see within 120 feet of you and spend a number of those dice equal to half your druid level or less. Roll the spent dice and add them together. The target regains a number of hit points equal to the total. The target also gains 1 temporary hit point per die spent. *(5 Charges - Regain all after Long Rest)*
+  
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
-
 ### Passive Feats
-*- Extra lineage feat at level 5.*
 
-- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - **Druidic.** You can leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.
-- **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
-- **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
-- **High Elf Cantrip.** You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
+
+- **Druidic Bark.** While not wearing armor, your AC is 13 + WIS.
+
+- **Photosynthesis.** When you complete a Short Rest in natural sunlight, you regain one Level 2 Spell Slot or lower.
+
+- **Speak with Plants.** You can communicate with plants as if affected by [Speak with Plants](./../spells.md#spells-s#speak-with-plants), but only for basic emotions and ideas. This doesn’t allow them to move or act outside normal limits.
+
+- **Deep Roots.** You have advantage on Saves and Ability Checks against being moved, shoved, or knocked [Prone](vault/database/conditions.md#prone). 
+
+- **Magician.** +1 Arcana, +1 Nature. *(Already included above)*
+
+- **Natural Healer.** Any healing caused by your Spells or Feats increases by 1d4. 
+
 - [Tough](feats.md#tough) *(Already included above)*
-- **Warden.** Trained for battle, you gain proficiency with Martial Weapons and Medium Armor. *(Already included above)*
 
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-  Regain *(d8 + CON)* HP per expended dice.
+  Regain *(dx + CON)* HP per expended die.
 - **Regain 1 Wild Shape Charge**
 
 ### After Long Rest
 - **Regain all HP**
 - **Regain [*Level / 2 (round down)*] HP Dice**
-- **Regain all Spell Slots**
-- **Prepare Druid Spells**
 - **Regain all Wild Shape Charges**
-- **Switch 1 Wild Shape form**
-- **Switch Wizard Cantrip**
 - **Regain all Spell Slots**
 
 ### After Level-Up
 - **Recalculate HP**
 - **Add 1 HP Die**
 - **Check Class Level-Up**
-- **Switch 1 Druid Cantrip**
 
-# Wild Shape Reference
-### CR 1
-  [Blind Grappler](./../wildshapes.md#cr-1#blind-grappler)
-  [Burrower](./../wildshapes.md#cr-1#burrower)
-  [Chameleonic](./../wildshapes.md#cr-1#chameleonic)
-  [Hook Claw](./../wildshapes.md#cr-1#hook-claw)
-  [Huge Defensive](./../wildshapes.md#cr-1#huge-defensive)
-  [Poison Shooter](./../wildshapes.md#cr-1#poison-shooter)
-  [Ranged Stunner](./../wildshapes.md#cr-1#ranged-stunner)
-  [Spiked Carapace](./../wildshapes.md#cr-1#spiked-carapace)
-### CR 1/4
-  [Grappler](./../wildshapes.md#cr-14#grappler)
-  [Nimble](./../wildshapes.md#cr-14#nimble)
-  [Blindsight](./../wildshapes.md#cr-14#blindsight)
-  [Burrower](./../wildshapes.md#cr-14#burrower)
-  [Web Walker](./../wildshapes.md#cr-14#web-walker)
 
 # Druid Spell Reference
 ## Cantrips

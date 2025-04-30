@@ -1,7 +1,7 @@
 # Fork
-- **Oath of the Ancients Paladin Level**: 5
+- **Orc - Oath of the Ancients Paladin - Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +X *(DEX)*
+- **Initiative**: +1 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
 - **HP**: 28 *(BASE + [X + CON] * Level)*
 - **HP Dice**: 5 D10
@@ -30,6 +30,10 @@
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
 
+[TODO] 2 Languages
+[TODO] Skill proficiencies, 2 any
+
+[TODO] Extra Attack, Faithful Steed, divine smite, lvl 4 feat.
 
 ## Equipment
 ### Weapons
@@ -76,7 +80,12 @@
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 
-[TODO] Extra Attack, Faithful Steed, divine smite, lineage feat, lvl 4 feat.
+
+- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
+- [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
+- [Relentless Endurance](vault/database/feats.md#relentless-endurance)
+
+
 
 # Reminders
 ### After Short Rest

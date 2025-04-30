@@ -55,7 +55,7 @@ A petrified creature is [Incapacitated](conditions.md#incapacitated) and its spe
 It fails all STR and DEX Saves.
 It resists all damage and is immune to poison damage.
 Attacks against it creature have Advantage.
-## Poisoned
+# Poisoned
 A poisoned creature has Disadvantage on Ability Checks and Attack Rolls.
 ## Prone
 A prone creature has Disadvantage on Attack Rolls.
