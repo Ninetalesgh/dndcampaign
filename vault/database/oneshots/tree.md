@@ -1,38 +1,36 @@
 # The Tree
 - **Treefolk Circle of the Land Druid Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX)*
+- **Initiative**: +0 *(DEX)*
 - **AC**: 17 (13 + WIS from Druidic Bark)
-- **HP**: $ *(3 + [5 + CON] * Level)*
+- **HP**: 33 *(3 + [5 + CON] * Level)*
 - **HP Dice**: 5 D8
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 8 (-1)         | DEX 16 (+3)          | CON 13 (+1)       |
+| STR 8 (-1)         | DEX 10 (+0)          | CON 13 (+1)       |
 | :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -1      | ☑ **DEX Save +6**    | ☐ CON Save +1     |
-| ☐ Athletics -1     | ☐ Acrobatics +3      | .                 |
-| .                  | ☐ Sleight of Hand +3 | .                 |
-| .                  | ☑ **Stealth +6**     | .                 |
+| ☐ STR Save -1      | ☐ DEX Save +0        | ☐ CON Save +1     |
+| ☐ Athletics -1     | ☐ Acrobatics +0      | .                 |
+| .                  | ☐ Sleight of Hand +0 | .                 |
+| .                  | ☑ **Stealth +3**     | .                 |
 
 
-| INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
+| INT 16 (+3)        | WIS 18 (+4)              | CHA 10 (+0)        |
 | :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
-| ☐ Arcana +1        | ☐ Animal Handling +4     | ☐ Deception +0     |
-| ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☐ Medicine +4            | ☑ **Performance +3**   |
-| ☑ **Nature +4**    | ☐ Perception +4          | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☑ **Survival +7**        | .                  |
+| ☐ INT Save +3      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
+| ☐ Arcana +4        | ☐ Animal Handling +4     | ☐ Deception +0     |
+| ☐ History +3       | ☐ Insight +4             | ☐ Intimidation +0  |
+| ☐ Investigation +3 | ☐ Medicine +4            | ☑ **Performance +3**   |
+| ☑ **Nature +7**    | ☐ Perception +4          | ☐ Persuasion +0    |
+| ☐ Religion +3      | ☑ **Survival +7**        | .                  |
 
 - **Weapon Proficiencies**: Quarterstaves.
 - **Armor Proficiencies**: No armor proficiencies.
 - **Tool Proficiencies**: Herbalism Kit
 - **Languages**: Common, Druidic, [TODO] 2 more languages
 
-[TODO] Skill proficiencies. 2 from druid + any 2. 
-[TODO] 3 Cantrips and 9 spells prepared.
 [TODO] Circle of the Land spells
 [TODO] lvl 4 feat ? 
 
