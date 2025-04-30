@@ -83,22 +83,6 @@
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Archery.
 
-# Reminders
-### After Short Rest
-- **Expend HP Dice to regain HP**
-  Regain *(d10 + CON)* HP per expended die.
-
-### After Long Rest
-- **Regain all HP**
-- **Regain [*Level / 2 (round down)*] HP Dice**
-- **Switch 1 Weapon Mastery**
-- **Switch 1 Prepared Spell**
-
-### After Level-Up
-- **Recalculate HP**
-- **Add 1 HP Die**
-- **Check Class Level-Up**
-- **Switch Fighting Style**
 
 [TODO] switch 1 spell on long rest
 
@@ -266,3 +250,22 @@ Beastmaster subclass
 [Wormsense](spells.md#spells-w#wormsense)
 [Wraithblade](spells.md#spells-w#wraithblade)
 [Wrath of Nature](spells.md#spells-w#wrath-of-nature)
+
+
+# Reminders
+### After Short Rest
+- **Expend HP Dice to regain HP**
+  Regain *(d10 + CON)* HP per expended die.
+
+### After Long Rest
+- **Regain all HP**
+- **Regain [*Level / 2 (round down)*] HP Dice**
+- **Switch 1 Weapon Mastery**
+- **Switch 1 Prepared Spell**
+
+### After Level-Up
+- **Recalculate HP**
+- **Add 1 HP Die**
+- **Check Class Level-Up**
+- **Switch Fighting Style**
+
