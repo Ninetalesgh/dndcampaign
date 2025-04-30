@@ -1,5 +1,5 @@
 # Hermit
-- **Beastmaster Ranger Level**: 5
+- **Gnome Beastmaster Ranger Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 10 ()

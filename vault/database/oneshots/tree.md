@@ -1,5 +1,5 @@
 # Tree
-- **Treefolk - Circle of the Land Druid - Level**: 5
+- **Treefolk Circle of the Land Druid Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX)*
 - **AC**: 17 (13 + WIS from Druidic Bark)

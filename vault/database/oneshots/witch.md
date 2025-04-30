@@ -1,5 +1,5 @@
 # Witch
-- **Orc - Wild Magic Sorcerer - Level**: 5
+- **Orc Wild Magic Sorcerer Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **Armor Class (AC)**: 11 (10 + DEX)

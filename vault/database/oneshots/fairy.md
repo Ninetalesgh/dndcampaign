@@ -1,6 +1,6 @@
 
 # Fairy
-- **Lineage - Swashbuckler Rogue - Level**: $
+- **Shapeshifter Swashbuckler Rogue Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX + CHA)*
 - **AC**: 10 (source)
