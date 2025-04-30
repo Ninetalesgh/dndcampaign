@@ -104,6 +104,25 @@ Whenever you finish a Long Rest, you can summon a different primal beast, which 
 
 ## Rogue
 
+### Dirty Trick: Flick o' the Wrist
+**Bonus Action** *Must be wielding a finesse weapon, target must be wielding a weapon.*
+Make a **Melee attack**:
+- Gain Advantage on your next Attack.
+- The target must succeed on a DEX Save.
+![\|50](https://bg3.wiki/w/images/f/fa/Dirty_Trick_Flick_o%27_the_Wrist_Icon.webp)
+
+### Dirty Trick: Sand Toss
+**Bonus Action**
+- Gain Advantage on your next Attack.
+- The target must succeed on a CON Save or be [Blinded](vault/database/conditions.md#blinded) until the end of their next turn.
+![\|50](https://bg3.wiki/w/images/b/b2/Dirty_Trick_Sand_Toss_Icon.webp)
+
+### Dirty Trick: Vicious Mockery
+*Bonus Action**
+- Gain Advantage on your next Attack.
+- Cast [Vicious Mockery](vault/database/spells.md#vicious-mockery)
+![\|50](https://bg3.wiki/w/images/d/dc/Dirty_Trick_Vicious_Mockery_Icon.webp)
+
 ### Fancy Footwork
 During your turn, if you make a Melee Attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
 ![\|50](https://bg3.wiki/w/images/5/5b/Fancy_Footwork_Icon.webp)
@@ -118,11 +137,16 @@ Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** dam
 - You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you **don't** have Disadvantage on the attack roll.
 
 **Starting at Level 5, Cunning Strike**
-You may remove one die from the Sneak Attack dice to grant one of the following effects with a DC of *[8 + DEX + PB]*:
+You may remove one die from the Sneak Attack dice to grant one of the following effects:
 - **Poison.** You add a toxin to your strike, forcing the target to make a CON Save. On a failed save, the target becomes [Poisoned](vault/database/conditions.md#poisoned) for 1 minute. At the end of each of its turns, the Poisoned target repeats the save, ending the effect on itself on a success. *(To use this effect, you must have a [Poisoner's Kit](vault/dm/items.md#poisoners-kit) on your person.)*
 - **Trip.** If the target is Large or smaller, it must succeed a DEX Save or fall [Prone](vault/database/conditions.md#prone).
 - **Withdraw.** Immediately after the attack, you move up to half your Speed without provoking Opportunity Attacks.
 ![\|50](https://bg3.wiki/w/images/e/e0/Sneak_Attack_Melee_Icon.webp)
+
+### Steady Aim
+**Bonus Action**
+If you are not moving during this turn, gain Advantage on your next Attack on the current turn.
+![\|50](https://bg3.wiki/w/images/c/ca/Sneak_Attack_Ranged_Icon.webp)
 
 ### Uncanny Dodge
 **Reaction**
@@ -423,7 +447,7 @@ Whenever you roll a 1 on a d20 Test you can reroll that d20 once.
 
 ### Adrenaline Rush
 You can [Dash](vault/database/game_rules.md#dash) as a Bonus Action, When you do so you gain a number of Temporary HP equal to your PB. *(PB times per Rest)*
-![\|30](https://bg3.wiki/w/images/4/41/Dash.webp)
+![\|30](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
 
 ### Relentless Endurance
 When you are reduced to 0 HP but not killed outright, you can drop to 1 HP instead. *(Once per Long Rest)*

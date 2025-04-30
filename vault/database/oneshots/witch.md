@@ -73,12 +73,12 @@
 ### Passive Feats
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
-[Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
-[Relentless Endurance](vault/database/feats.md#relentless-endurance)
-[Innate Sorcery](vault/database/feats.md#innate-sorcery)
-[Sorcerous Restoration](vault/database/feats.md#sorcerous-restoration)
-[Wild Magic Surge](vault/database/feats.md#wild-magic-surge)
-[Tides of Chaos](vault/database/feats.md#tides-of-chaos)
+  [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
+  [Relentless Endurance](vault/database/feats.md#relentless-endurance)
+  [Innate Sorcery](vault/database/feats.md#innate-sorcery)
+  [Sorcerous Restoration](vault/database/feats.md#sorcerous-restoration)
+  [Wild Magic Surge](vault/database/feats.md#wild-magic-surge)
+  [Tides of Chaos](vault/database/feats.md#tides-of-chaos)
 
 # Reminders
 ### After Short Rest

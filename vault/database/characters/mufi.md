@@ -78,8 +78,8 @@
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
   [Hide](game_rules.md#turn-based-play#hide)
+  [Steady Aim](vault/database/feats.md#steady-aim)
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Mage Hand Legerdemain.** You always have [Mage Hand](./../spells.md#spells-m#mage-hand) prepared, you can cast it as a Bonus Action, you can make the spectral hand [invisible](conditions.md#invisible), and you can make DEX (Sleight of Hand) checks through it.
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Steady Aim**, if you are not moving during this turn: Gain Advantage on your next Attack on the current turn.
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
