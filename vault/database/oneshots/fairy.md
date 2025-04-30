@@ -87,6 +87,7 @@
   [Uncanny Dodge](vault/database/feats.md#uncanny-dodge)
 
 ### Passive Feats
+- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
   [Shapechanger](vault/database/feats.md#shapechanger-custom)
 - **Weapon Mastery**: Daggers, Shortbow.
   [Sneak Attack](./../feats.md#sneak-attack)
