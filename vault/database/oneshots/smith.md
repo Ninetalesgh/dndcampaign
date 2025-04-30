@@ -1,4 +1,5 @@
-# Template
+# The Smith
+
 - **Lineage - Subclass Class - Level**: $
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX)*
