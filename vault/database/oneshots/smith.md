@@ -27,9 +27,9 @@
 | ☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
 | ☐ Religion +0      | ☑☐ **Survival +7**        | .                  |
 
-- **Weapon Proficiencies**: Simple Weapons, Firearms.
+- **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields.
-- **Tool Proficiencies**: [Thieves' Tools](vault/dm/items.md#thieves-tools), [Tinker's Tools](vault/dm/items.md#tinkers-tools), 
+- **Tool Proficiencies**: [Thieves' Tools](vault/dm/items.md#thieves-tools), [Tinker's Tools](vault/dm/items.md#tinkers-tools), [Smith's Tools](vault/dm/items.md#smiths-tools), 
 - **Languages**: Common, 
 
 [TODO] 1 tool proficiency
@@ -41,17 +41,20 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +$ *(PB + STR)*.
-- **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
+- **STR Based Attack Modifier**: +2 *(PB + STR)*.
+- **DEX Based Attack Modifier**: +5 *(PB + DEX)*.
+- **Attack with any Magic Weapon**: +7 *(PB + INT)*
+
 ### Other
 
 
 ## Spellcasting
-- **Infusions Known**: 4
+- **Prepared Spells**: 6
 - **Spell Slots Level 1**: 4
 - **Spell Slots Level 2**: 2
 - **Spell Attack Modifier**: +7 *(PB + INT)*
 - **Spell Save DC**: 15 *(8 + PB + INT)* 
+- **Infusions Known**: 4
 - **Infused Items**: 2
 
 ## Feats and Actions
@@ -67,16 +70,19 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-
+  [Heroism](vault/database/spells.md#heroism)
+  [Warding Bond](vault/database/spells.md#warding-bond)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
+  [Shining Smite](vault/database/spells.md#shining-smite)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+  [Shield](vault/database/spells.md#shield)
 
 ### Passive Feats
 

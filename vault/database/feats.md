@@ -13,6 +13,41 @@ Your HP increase by 2 per Level.
 
 
 # Class Feats
+## Artificer
+### Steel Defender
+Your tinkering has borne you a faithful companion, a [Steel Defender](vault/database/feats.md#steel-defender---summon).
+It is friendly to you and your companions, and it obeys your commands. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+
+- **Steel Defender in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
+
+- **Tinkerer's Pet.** If [Mending](vault/database/spells.md#mending) is cast on it, it regains 2d6 HP. If it has died within the last hour, you can use your [Smith's Tools](vault/dm/items.md#smiths-tools) as an **Action** to revive it, provided you are within range 1 *(1.5m)* of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with full HP.
+
+At the end of a long rest, you can create a new steel defender if you have your [Smith's Tools](vault/dm/items.md#smiths-tools) with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+#### Steel Defender - Summon
+*Medium construct, any*
+- **Initiative**: +1
+- **AC**: 15 (natural armor)
+- **HP**: 2 + your Intelligence modifier + five times your artificer level (the defender has a number of Hit Dice [d8s] equal to your artificer level)
+- **Speed**: walk 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 12 (+1) | 14 (+2) | 4 (-3) | 10 (+0) | 6 (-2) 
+
+- **Skills**: athletics: +2 plus PB, perception: +0 plus PB × 2
+- **Immunities**: poison; [Charmed](conditions.md#charmed), [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10 + (PB × 2)
+- **Languages**: understands the languages you speak
+- **Traits**: 
+   - **Vigilant**. The defender can't be [surprised](conditions.md#surprised).
+- **Actions**: 
+   - **Force-Empowered Rend**. *Melee Attack:* Your SAM to hit, reach 1 *(1.5m)*, one target you can see. 
+    *Hit:* 1d8 + PB force damage.
+   - **Repair (3/Day)**. The magical mechanisms inside the defender restore 2d8 + PB HP to itself or to one construct or object within 1 *(1.5m)* of it.
+- **Reactions**: 
+   - **Deflect Attack**. The defender imposes disadvantage on the attack roll of one creature it can see that is within 1 *(1.5m)* of it, provided the attack roll is against a creature other than the defender.
+*(Source: TCE, page 19)*
+
 ## Druid
 
 ### Land's Aid
