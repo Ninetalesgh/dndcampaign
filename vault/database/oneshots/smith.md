@@ -50,8 +50,8 @@
 - **Infusions Known**: 4
 - **Spell Slots Level 1**: 4
 - **Spell Slots Level 2**: 2
-- **Spell Attack Modifier**: +$ *(PB + WIS)*
-- **Spell Save DC**: $ *(8 + PB + WIS)* 
+- **Spell Attack Modifier**: +7 *(PB + INT)*
+- **Spell Save DC**: 15 *(8 + PB + INT)* 
 - **Infused Items**: 2
 
 ## Feats and Actions
@@ -83,7 +83,7 @@
 # Reminders
 ### After Short Rest
 - **Expend HP Dice to regain HP**
-  Regain *(d$ + CON)* HP per expended die.
+  Regain *(d8 + CON)* HP per expended die.
 
 ### After Long Rest
 - **Regain all HP**

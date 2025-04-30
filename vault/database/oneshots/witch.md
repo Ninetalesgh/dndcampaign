@@ -31,7 +31,7 @@
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
 
-[TODO] Metamagic options, skill proficiencies
+[TODO] Metamagic options, skill proficiencies, languages
 
 
 ## Equipment
