@@ -164,7 +164,7 @@
           await fetchMd(page).then((node) => {
             let li = document.createElement('li');
             const nodeName = node.name;
-            const buttonLabelParts = nodeName.replace(/^.*?\/dm.*\/([^.]+)\.md/, '$1').split('_');
+            const buttonLabelParts = nodeName.replace(/^.*?dm.*\/([^.]+)\.md/, '$1').split('_');
             let buttonLabel = '';
             buttonLabelParts.forEach(part => { buttonLabel = `${buttonLabel}${part[0].toUpperCase()}${part.slice(1)} ` });
             li.innerHTML = `<button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('${nodeName}')">${buttonLabel.slice(0, -1)}</button>`;
