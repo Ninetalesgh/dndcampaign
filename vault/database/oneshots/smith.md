@@ -69,13 +69,19 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
+
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Prestidigitation](./../spells.md#spells-p#prestidigitation)
+
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Heroism](vault/database/spells.md#heroism)
   [Warding Bond](vault/database/spells.md#warding-bond)
+  [Detect Magic (Ritual)](./../spells.md#spells-d#detect-magic)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Shining Smite](vault/database/spells.md#shining-smite)
+  [Misty Step](./../spells.md#spells-m#misty-step)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -85,6 +91,14 @@
   [Shield](vault/database/spells.md#shield)
 
 ### Passive Feats
+  [The Right Tool for the Job](vault/database/feats.md#the-right-tool-for-the-job)
+  [Great Weapon Master - PHB 2014](vault/database/feats.md#great-weapon-master---phb-2014)
+  [Extra Attack](vault/database/feats.md#extra-attack)
+- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+
+- **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
+- **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+- **High Elf Cantrip.** You know a Wizard Cantrip. Whenever you finish a Long Rest, you can replace that Cantrip with a different Cantrip from the Wizard spell list. *(Already included above)*
 
 # Reminders
 ### After Short Rest
