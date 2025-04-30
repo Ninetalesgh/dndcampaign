@@ -71,7 +71,7 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 ### Nick
 Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action. *(Once per Turn)*
 ### Push
-*On Hit:*: You may push the target by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+*On Hit:*: You may choose to have the target succeed a STR Save (DC 8 + your attack modifier + PB) or be [Displaced](vault/database/game_rules.md#displacement) by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Sap
 *On Hit:* The target gets Disadvantage on its next Attack.
 ### Slow

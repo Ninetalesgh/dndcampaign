@@ -25,6 +25,8 @@
 
 ## High Road
 
+There is more aggressive growth, hinting at urgency in The Crypt.
+
 [Needle Blights (1/2)](dm/monsters.md#needle-blight)
 [Vine Blight (1)](dm/monsters.md#vine-blight) 
 [Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
