@@ -434,8 +434,16 @@ function convert5EMonsterToText(jsonObject)
 
   // HP
   { 
-    const hpString = `- **HP**: ${data.hp.average.toString()} (${data.hp.formula})`;
-    output.push(hpString);
+    if (hp.special)
+    { 
+      const hpString = `- **HP**: ${data.special}`;
+      output.push(hpString);
+    }
+    else
+    {
+      const hpString = `- **HP**: ${data.hp.average.toString()} (${data.hp.formula})`;
+      output.push(hpString);
+    }
   } 
 
   // Speed
