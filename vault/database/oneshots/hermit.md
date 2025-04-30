@@ -59,10 +59,11 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Minor Illusion](./../spells.md#spells-m#minor-illusion)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-  [Speak with Animals](./../spells.md#spells-s#speak-with-animals)
-  [Minor Illusion](./../spells.md#spells-m#minor-illusion)
+  [Speak with Animals *(PB free uses per Long Rest)*](./../spells.md#spells-s#speak-with-animals)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
@@ -77,10 +78,10 @@
 - [Tough](feats.md#tough) *(Already included above)*
 
   [Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
-
+  [Mounted Combatant](vault/database/feats.md#mounted-combatant)
   [Extra Attack](vault/database/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
-- [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
+- [Fighting Style](./../feats.md#fighting-style): Archery.
 
 # Reminders
 ### After Short Rest
@@ -100,17 +101,9 @@
 - **Switch Fighting Style**
 
 [TODO] switch 1 spell on long rest
-Favored enemy -> hunters mark 2x per long rest
-Weapon mastery -> 2 weapons, switch 1 after long rest.
-Deft Explorer -> extra languages.
-Fighting Style OR Druidic Warrior.
 
 Beastmaster subclass
 
-Ability score improvement (already + wis above) -> mounted combatant
-
-
-Gnome: minor illusion cantrip; speak with animals always prepared; 
 
 
 # Ranger Spell Reference

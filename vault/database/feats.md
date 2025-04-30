@@ -525,3 +525,14 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
 ![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
 
+## Mounted Combatant
+- **Ability Score Increase.** Increase your Strength, Dexterity, or Wisdom by 1, to a maximum of 20.
+
+- **Mounted Strike.** While [Mounted](vault/database/game_rules.md#mounted-combat), you have Advantage on attack rolls against any unmounted creature within range 1 *(1.5m)* of your mount that is at least one [size](vault/database/game_rules.md#creature-sizes) smaller than the mount.
+
+- **Leap Aside.** If your mount is subjected to an effect that allows it to make a DEX Save to take only half damage, it instead takes no damage if it succeeds on the Save and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be [Incapacitated](vault/database/conditions.md#incapacitated).
+
+- **Veer.** While mounted, you can force an attack that hits your mount to hit you instead if you are not [Incapacitated](vault/database/conditions.md#incapacitated).
+
+![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
+*(Source: PHB'24, page 191)*
