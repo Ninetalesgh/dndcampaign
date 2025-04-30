@@ -21,14 +21,13 @@ You've learned how to produce exactly the tool you need: with [Thieves' Tools](v
 ### Steel Defender
 Your tinkering has borne you a faithful companion, a [Steel Defender](vault/database/feats.md#steel-defender---summon).
 It is friendly to you and your companions, and it obeys your commands. You determine the creature's appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+At the end of a long rest, you can create a new steel defender if you have your [Smith's Tools](vault/dm/items.md#smiths-tools) with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
 
 - **Steel Defender in Combat.** In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the [Dodge](vault/database/game_rules.md#dodge) action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you are [Incapacitated](vault/database/conditions.md#incapacitated), the beast acts on its own and isn't limited to the [Dodge](vault/database/game_rules.md#dodge) action.
 
 - **Tinkerer's Pet.** If [Mending](vault/database/spells.md#mending) is cast on it, it regains 2d6 HP. If it has died within the last hour, you can use your [Smith's Tools](vault/dm/items.md#smiths-tools) as an **Action** to revive it, provided you are within range 1 *(1.5m)* of it and you expend a spell slot of 1st level or higher. The steel defender returns to life after 1 minute with full HP.
-
-At the end of a long rest, you can create a new steel defender if you have your [Smith's Tools](vault/dm/items.md#smiths-tools) with you. If you already have a steel defender from this feature, the first one immediately perishes. The defender also perishes if you die.
-
 ![\|50](https://bg3.wiki/w/images/0/03/Portrait_Bernard.png)
+
 #### Steel Defender - Summon
 *Medium construct, any*
 - **Initiative**: +1
