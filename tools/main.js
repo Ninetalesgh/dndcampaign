@@ -167,6 +167,7 @@ function indexContent(parentNode, name, content) {
 async function fetchMd(mdUrl) {
   //TODO this is a temporary fix for this function here being bad. the links pointing to the repo root is good overall outside here
   mdUrl = mdUrl.replace(/vault\/database\//gi, '')
+  mdUrl = mdUrl.replace(/vault\/dm\//gi, 'dm/')
 
   const nodeName = mdUrl.replace(/^.*(\/dm.*\/[-_a-zA-Z0-9]+\.md)$/i, '$1');
   let contentNode = getIndexedContentPage(nodeName);
