@@ -1,5 +1,5 @@
 # Fork
-- **Orc - Oath of the Ancients Paladin - Level**: 5
+- **Orc Oath of the Ancients Paladin Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
