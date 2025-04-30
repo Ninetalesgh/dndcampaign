@@ -63,7 +63,6 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
 
 ### Bonus Actions
@@ -71,7 +70,11 @@
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
   [Hide](game_rules.md#turn-based-play#hide)
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Steady Aim**, if you are not moving during this turn: Gain Advantage on your next Attack on the current turn.
+  [Steady Aim](vault/database/feats.md#steady-aim)
+  [Dirty Trick: Flick o' the Wrist](vault/database/feats.md#dirty-trick-flick-o-the-wrist)
+  [Dirty Trick: Sand Toss](vault/database/feats.md#dirty-trick-sand-toss)
+  [Dirty Trick: Vicious Mockery](vault/database/feats.md#dirty-trick-vicious-mockery)
+
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
@@ -82,9 +85,9 @@
 
 ### Passive Feats
 - **Weapon Mastery**: Daggers, Shortbow.
-[Sneak Attack](./../feats.md#sneak-attack)
-[Rakish Audacity](vault/database/feats.md#rakish-audacity)
-[Fancy Footwork](vault/database/feats.md#fancy-footwork)
+  [Sneak Attack](./../feats.md#sneak-attack)
+  [Rakish Audacity](vault/database/feats.md#rakish-audacity)
+  [Fancy Footwork](vault/database/feats.md#fancy-footwork)
 
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
