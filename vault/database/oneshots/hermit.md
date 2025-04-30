@@ -75,7 +75,7 @@
 ### Passive Feats
 - [Tough](feats.md#tough) *(Already included above)*
 
-[Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
+  [Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
 
   [Extra Attack](vault/database/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
