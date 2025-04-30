@@ -3835,6 +3835,33 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 - **Classes**: Paladin
 *(Source: PHB'24, page 272)*
 
+#### Find Steed: Otherworldly Steed
+### Otherworldly Steed
+*Large Celestial, Fey or Fiend, Neutral*
+- **Initiative**: +1
+- **AC**: 10 + spell level
+- **HP**: 5 + 10 per spell level (the steed has a number of Hit Dice [d10s] equal to the spell's level)
+- **Speed**: walk 12 *(18m)*, fly (requires level 4+ spell) 12 *(18m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 12 (+1) | 14 (+2) | 6 (-2) | 12 (+1) | 8 (-1) 
+
+- **Senses**: passive perception 11
+- **Languages**: telepathy 1 mile (works only with you)
+- **Traits**: 
+   - **Life Bond**. When you regain Hit Points from a level 1+ spell, the steed regains the same number of HP if you're within 1 *(1.5m)* of it.
+- **Actions**: 
+   - **Otherworldly Slam**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)* 
+    *Hit:* 1d8 + spell level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
+- **Bonus Actions**: 
+   - **Fell Glare (Fiend Only; Recharges after a Long Rest)**. One creature within 12 *(18m)* the steed can see has to succeed a WIS Save against your SSDC. On failure the target becomes [Frightened](conditions.md#frightened) until the end of your next turn.
+   - **Fey Step (Fey Only; Recharges after a Long Rest)**. The steed teleports, along with its rider, to an unoccupied space of your choice up to 12 *(18m)* away from itself.
+   - **Healing Touch (Celestial Only; Recharges after a Long Rest)**. One creature within 1 *(1.5m)* of the steed regains a number of Hit Points equal to 2d8 + spell level.
+*(Source: XPHB, page 273)*
+
+
+
 ### Find Traps
 *Level 2 Divination*
 - **Casting Time**: Action

@@ -77,6 +77,7 @@
 
 [Gnomish Cunning](vault/database/feats.md#gnomish-cunning)
 
+  [Extra Attack](vault/database/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 

@@ -33,7 +33,7 @@
 [TODO] 2 Languages
 [TODO] Skill proficiencies, 2 any
 
-[TODO] Extra Attack, Faithful Steed, divine smite, lvl 4 feat.
+[TODO] lvl 4 feat.
 
 ## Equipment
 ### Weapons
@@ -62,12 +62,14 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
-  [Nature's Wrath](feats.md#paladin#natures-wrath)
+  [Nature's Wrath *(Channel Divinity)*](feats.md#paladin#natures-wrath)
+  [Find Steed *(1 free use per Long Rest)*](./../spells.md#spells-f#find-steed)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Lay on Hands](feats.md#lay-on-hands)
-  [Divine Sense](feats.md#paladin#divine-sense)
+  [Divine Sense *(Channel Divinity)*](feats.md#paladin#divine-sense)
+  [Divine Smite *(1 free use per Long Rest)*](./../spells.md#spells-d#divine-smite)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
@@ -75,16 +77,16 @@
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+
 ### Passive Feats
-
-- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
-- [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
-
 
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
 - [Adrenaline Rush](vault/database/feats.md#adrenaline-rush)
 - [Relentless Endurance](vault/database/feats.md#relentless-endurance)
 
+[Extra Attack](vault/database/feats.md#extra-attack)
+- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+- [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 
 
 # Reminders

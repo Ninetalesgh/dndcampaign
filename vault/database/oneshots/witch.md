@@ -45,7 +45,7 @@
 - **Spell Slots Level 1**: 4
 - **Spell Slots Level 2**: 3
 - **Spell Slots Level 3**: 2
-- **Spell Attack Modifier**: +7 *(PB + CHA)*
+- **Spell Attack Modifier (SAM)**: +7 *(PB + CHA)*
 - **Spell Save DC**: 15 *(8 + PB + CHA)* 
 - **Sorcery Points**: 5 *(Sorcerer Level)*
 

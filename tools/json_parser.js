@@ -434,9 +434,9 @@ function convert5EMonsterToText(jsonObject)
 
   // HP
   { 
-    if (hp.special)
+    if (data.hp.special)
     { 
-      const hpString = `- **HP**: ${data.special}`;
+      const hpString = `- **HP**: ${data.hp.special}`;
       output.push(hpString);
     }
     else

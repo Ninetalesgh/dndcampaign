@@ -65,14 +65,14 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
-  [Nature's Wrath](feats.md#paladin#natures-wrath)
+  [Nature's Wrath *(Channel Divinity)*](feats.md#paladin#natures-wrath)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Lay on Hands](feats.md#lay-on-hands)
   [Smite of Summer *(One free use per Long Rest)*](./../spells.md#spells-s#smite-of-summer) 
   [Ensnaring Strike](./../spells.md#spells-e#ensnaring-strike)
-  [Divine Sense](feats.md#paladin#divine-sense)
+  [Divine Sense *(Channel Divinity)*](feats.md#paladin#divine-sense)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
