@@ -151,7 +151,7 @@ function convertMonsterSubSection(subsectionName, array)
 
       if (isCommonMonsterTrait(action.name))
       {
-        commonTraits.push(`[${action.name}](dm/monsters.md#monster-traits#${action.name.toLowerCase().replace(/\s/g, '-')})`);
+        commonTraits.push(`[${action.name}](dm/monster_info.md#${action.name.toLowerCase().replace(/\s/g, '-')})`);
       }
       else
       {

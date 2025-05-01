@@ -43,7 +43,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 6
-- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monster_info.md#animated-object).
    - **False Appearance**. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
    - **Clattering Collapse**. When the armor takes or deals a critical hit, it falls [Prone](conditions.md#prone) in a heap and is [Stunned](conditions.md#stunned) until the beginning of its next turn.
 - **Actions**: 
@@ -1385,7 +1385,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: arcana: +2, medicine: +1
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Draconic
-- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics), [Sunlight Sensitivity](dm/monsters.md#monster-traits#sunlight-sensitivity).
+- **Traits**: [Pack Tactics](dm/monster_info.md#pack-tactics), [Sunlight Sensitivity](dm/monster_info.md#sunlight-sensitivity).
    - **Spellcasting**. The kobold casts one of the following spells, requiring no material components and using CHAa as the spellcasting ability (spell save DC 12):
      - *At will:* [mage hand](spells.md#mage-hand), [prestidigitation](spells.md#prestidigitation)
      - *2/day each:* [charm person](spells.md#charm-person), [fog cloud](spells.md#fog-cloud), [levitate](spells.md#levitate)
@@ -1487,7 +1487,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Resistances**: acid;
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 13
 - **Languages**: understands Kython but can't speak
-- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+- **Traits**: [Minion](dm/monster_info.md#minion).
    - **Piling Mass**. A creature's speed is reduced by 1 *(1.5m)* for each broodling attached to it. As an action, a creature may make a STR Save with DC equal to 8 plus the number of attached broodlings. On a success, each attached broodling falls [Prone](conditions.md#prone) in the nearest unoccupied space.
 - **Actions**: 
    - **Leaping Bites (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
@@ -1514,7 +1514,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
 - **Languages**: understands Common but can't speak
-- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+- **Traits**: [Minion](dm/monster_info.md#minion).
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a pile of dead leaves.
    - **Shallow Roots**. If the blight is forced to move or is knocked [Prone](conditions.md#prone), it dies.
 - **Actions**: 
@@ -1654,7 +1654,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: perception: +3, stealth: +6
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 13
-- **Traits**: [Pack Tactics](dm/monsters.md#monster-traits#pack-tactics).
+- **Traits**: [Pack Tactics](dm/monster_info.md#pack-tactics).
    - **Stalking Pounce**. If the lion is hidden from each hostile creature, it may Dash as a Bonus Action. If the lion hits a creature with a claw attack on the same turn, the target must succeed on a DC 13 STR Save or be knocked [Prone](conditions.md#prone).
 - **Actions**: 
    - **Bite**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
@@ -2135,7 +2135,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: athletics: +4
 - **Immunities**: cold, poison; [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 8
-- **Traits**: [Undead Fortitude](dm/monsters.md#monster-traits#undead-fortitude).
+- **Traits**: [Undead Fortitude](dm/monster_info.md#undead-fortitude).
    - **Decaying Wings**. If the zombie is hit with a critical hit, it permanently loses the ability to fly.
    - **Abductor's Build**. The zombie is not slowed while grappling a Medium or smaller creature.
 - **Actions**: 
@@ -2161,7 +2161,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Immunities**: poison, psychic; [Blinded](conditions.md#blinded), [Charmed](conditions.md#charmed), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Blindsight *(18m)*](./../game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 6
-- **Traits**: [Animated Object](dm/monsters.md#monster-traits#animated-object).
+- **Traits**: [Animated Object](dm/monster_info.md#animated-object).
    - **False Appearance**. While the rug remains motionless, it is indistinguishable from a normal rug.
    - **Damage Transfer**. While it is grappling a creature, the rug takes only half the damage dealt to it by creatures it is not grappling, and the creature [Grappled](conditions.md#grappled) by the rug takes the other half.
 - **Actions**: 
@@ -2399,7 +2399,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
 - **Languages**: understands Common but can't speak
-- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+- **Traits**: [Minion](dm/monster_info.md#minion).
    - **False Appearance**. While the blight remains motionless, it is indistinguishable from a splintered branch.
    - **Shallow Roots**. If the blight is forced to move or is knocked [Prone](conditions.md#prone), it dies.
 - **Actions**: 
@@ -2485,7 +2485,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Vulnerabilities**: fire.
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
-- **Traits**: [Minion](dm/monsters.md#monster-traits#minion).
+- **Traits**: [Minion](dm/monster_info.md#minion).
    - **Breath Sight**. A creature that does not need to breathe is [Invisible](conditions.md#invisible) to the stirge, and a creature that holds its breath has advantage on checks made to hide from the stirge.
    - **Weakness Seeker**. The stirge's attacks have advantage against creatures afflicted with a disease.
 - **Actions**: 

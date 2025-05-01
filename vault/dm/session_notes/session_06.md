@@ -75,7 +75,7 @@ Names to use on epitaphs:
 One: [Blazing Bones (3)](dm/monsters.md#blazing-bones)
 Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 
-Souls of all the players deceiced people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
+Souls of all the players deceased people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
 Kal -> His whole tribe 
   how his coming of age ceremony looked? 
   - telling him he is a disappointment, not able to save them.
