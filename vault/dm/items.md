@@ -1,5 +1,4 @@
 
-
 ## Items A
 ### Acid Vial
 *(concoction, Common)*
@@ -183,7 +182,7 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Damage**: 1d4 + STR Piercing damage.
 - **Reach**: 1 *(1.5m)* 
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  - *On Hit*: You may leave the dagger stuck in the target, if you do, its speed is reduced by 1 *(1.5m)* and it takes 1 damage whenever it takes an Action until the shiv is removed. To remove it it must succeed on a STR check with DC equal to 10 or half the damage done on the hit, whichever is higher.
+  - *On Hit*: You may leave the shiv stuck in the target, if you do, its speed is reduced by 1 *(1.5m)* and it takes 1 damage whenever it takes an Action until it is removed. To remove it a creature must succeed on a STR check with DC equal to 10 or half the damage done on the hit, whichever is higher.
 - **Mastery**: [Execute](dm/item_info.md#execute).
 - **Weight**: 0.5 kg
 - **Price**: 1000 gp
