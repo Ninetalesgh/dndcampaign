@@ -127,7 +127,6 @@ Dwarven Runes (chiseled, blocky):
 [TODO] The Grand Factor is in liege with Zariel, trying to recruit souls for the army of hell.
 - There is something interesting in The Crypt (demonic power or such) that the grand factor wants, hirelings will show up later in The Crypt. 
 
-
 - [Borin Grathal](dm/npcs.md#borin-grathal).
 - [Dain Elster](dm/npcs.md#dain-elster).
 
@@ -140,7 +139,7 @@ The players see:
 6  a m-HUMAN transport & logistics
 7  a f-GNOME glassblower & jeweler
 8  a m-HUMAN moneylender & the de-facto head of the council **Ledgerhand**
-9  a m-HUMAN grand factor of waukeen **Silan Thornvale**
+9  a m-HUMAN **Grand Factor** of waukeen **Silan Thornvale**
 10 **Borin Grathal**, head of the Academy
 11 **Dain Elster**, count of New Arvandal
 
@@ -159,6 +158,8 @@ The players see:
 **Seraphine Lowind.** -> A **gnome** glassblower and jeweler, small in stature but large in presence. She commands respect with her sharp business sense and even sharper tongue.
 
 **Jorvus "Ledgerhand" Pell.** -> A meticulous **human** accountant and moneylender whose sharp mind has made him indispensable to the council. He wears wire-rimmed glasses and always seems to be scribbling figures in a notebook.
+
+**Ysra Elster** -> Blue Dress, **Dain's sister**, calm and bored emote.
 
 **Motivations**: 
 - Academy staff kind of put off by the merchant's council
@@ -280,7 +281,7 @@ Found among Brennar's old books:
     "I remember **Thalioel**'s eyes, just the prospect of witnessing the loss of another home must have been unbearable for her."
   - About her son **Balin**:
     **Balin** chooses to be named Stonewright instead of Ironfoot and Tazlyn understands.
-    How proud she is of him and what great work he will accomplish in our line of work. 
+    How proud she is of him and what great work he will accomplish in our line of work.
   - About House Elster and House Vinea:
     How she feels ever since **The Frozen Depths**, every generation of Elster treats her worse than the previous, and that after she built **The Estates** this became worse even faster.
     "I'm so glad Thedran, the foul bastard, died before me.
@@ -299,6 +300,7 @@ Found among Brennar's old books:
     Runic generator and capacitors to channel the magic nullification, 
     carving of elegant elven like patterns between geometric precise dwarven runes of abjuration
     drawing power from the **ley lines** and channeling them through pipes of Mithril to reach the tombs.
+    The **runic enablers** slotted into the machine to capture the ley line energy.
 
 - Brennar's Ancestors:
   - **I.b. Durnin Ironfoot**
