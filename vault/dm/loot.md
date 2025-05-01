@@ -40,6 +40,7 @@ Mufi:
   UC: Feylight Expose
     [Kobold Diviner's Amulet](dm/items.md#kobold-diviners-amulet)
     [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
+    [Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
     [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
   R: Obsidian Dagger, Sickle of the Sphinx
 Nyari: 
@@ -127,6 +128,7 @@ given: [Orb of Shielding](dm/items.md#orb-of-shielding)
 [Scorpio Armor](dm/items.md#scorpio-armor)
 [Sending Stones](dm/items.md#sending-stones)
 [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
+[Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
 
 ## Rare
 [Mantle of Spell Resistance](dm/items.md#mantle-of-spell-resistance)

@@ -178,6 +178,18 @@ It takes 10 minutes to recover the Ball Bearings.
 ![\|250](https://i.pinimg.com/736x/32/28/6a/32286a5daae18d0fadafb43016dfa958.jpg)
 *(Source: PHB'24, page 224)*
 
+### Blightwood Shiv
+*(Dagger, Simple Melee Weapon, Uncommon)*
+- **Damage**: 1d4 + STR Piercing damage.
+- **Reach**: 1 *(1.5m)* 
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
+  - *On Hit*: You may leave the dagger stuck in the target, if you do, its speed is reduced by 1 *(1.5m)* and it takes 1 damage whenever it takes an Action until the shiv is removed. To remove it it must succeed on a STR check with DC equal to 10 or half the damage done on the hit, whichever is higher.
+- **Mastery**: [Execute](dm/item_info.md#execute).
+- **Weight**: 0.5 kg
+- **Price**: 1000 gp
+![\|250](https://imgur.com/ZFWXWkZ.png)
+*(Source: Custom)*
+
 ### Block and Tackle
 *(adventuring gear, Common)*
 - **Properties**: A Block and Tackle allows you to hoist up to four times the weight you can normally lift.
