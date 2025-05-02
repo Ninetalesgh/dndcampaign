@@ -30,10 +30,9 @@
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields.
 - **Tool Proficiencies**: [Thieves' Tools](vault/dm/items.md#thieves-tools), [Tinker's Tools](vault/dm/items.md#tinkers-tools), [Smith's Tools](vault/dm/items.md#smiths-tools), 
-- **Languages**: Common, 
+- **Languages**: Common, Thieves' Cant
 
-[TODO] 1 tool proficiency
-[TODO] 2 languages
+[TODO] 1 origin feat
 
 ## Equipment
 ### Weapons
