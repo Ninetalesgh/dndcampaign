@@ -51,6 +51,10 @@
 - **Spell Save DC**: 15 *(8 + PB + CHA)* 
 - **Sorcery Points**: 5 *(Sorcerer Level)*
 
+- **Metamagic**:
+  [Twinned Spell](vault/feats.md#twinned-spell)
+  [Quickened Spell](vault/feats.md#quickened-spell)
+
 ## Feats and Actions
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
