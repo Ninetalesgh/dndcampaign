@@ -9,7 +9,6 @@ Characters:
 - Mira Tidewhisper
 - Old Jeb Catchmark
 - Argo Finn, Harbormaster
-- Evelyn Marrowind
 
 Ships:
 - The Drunken Finch
@@ -26,10 +25,12 @@ Ships:
     Symbol: Wave curling left and right
     Vibe: A violent, tempestuous goddess who demands tribute or brings death at sea. Most feared sea deity.
 
-
 **Captain Jareth Carr** - Mad-Eye "Glass"
   - Known as Glass because he's painfully honest and the worst liar anyone will have ever met.
   - He has a cracked glass eye.
+
+**Evelyn Marrowind** - The captured imperial mariner
+  - Bloody from beatings.
 
 # Introduction
 
@@ -111,6 +112,7 @@ Ranger gets introduced with Civ.
 [TODO] Stats: Healer, Melee, Ranged
 
 
+[Sea Hag (2)](dm/monsters.md#sea-hag)
 [Kython Broodling (2, Minion)](dm/monsters.md#kython-broodling)
 [Red Slaad (5)](dm/monsters.md#red-slaad)
 [Blue Slaad (7)](dm/monsters.md#blue-slaad)

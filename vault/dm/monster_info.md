@@ -120,6 +120,10 @@ The [Blink Dog (1/4)](dm/monsters.md#blink-dog) takes its name from its ability 
 
 [Sprite (1/4)](dm/monsters.md#sprite)
 
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures frightened by their appearance.
+
+[Sea Hags (2)](vault/dm/monsters.md#sea-hag) cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
+
 ### Goblinoid
 #### Goblins
   [Goblins (1/4)](dm/monsters.md#goblin) are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.

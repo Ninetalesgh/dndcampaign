@@ -2229,6 +2229,34 @@ STR | DEX | CON | INT | WIS | CHA
    - **Salt the Wound**. When a creature within 1 *(1.5m)* of it takes 5 or more slashing damage from a single source, the mephit can deal 3 (1d6) poison damage to it.
 *(Source: ConfluxCreatures)*
 
+### Sea Hag
+**CR**: 2
+*Medium fey, Chaotic Evil*
+- **Initiative**: +1
+- **AC**: 14
+- **HP**: 52 (7d8 + 21)
+- **Speed**: walk 6 *(9m)*, swim 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) 
+
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: Common, Giant, Primordial (Aquan)
+- **Traits**: 
+   - **Amphibious**. The hag can breathe air and water.
+   - **Vile Appearance**. WIS Save (DC 11), any Beast or Humanoid that starts its turn within 6 *(9m)* of the hag and can see the hag's true form. *Failure:* The target has the [Frightened](conditions.md#frightened) condition until the start of its next turn. *Success:* The target is immune to this hag's Vile Appearance for 24 hours.
+   - **Coven Magic**. While within 6 *(9m)* of at least two hag allies, the hag can cast one of the following spells, requiring no Material components, using the spell's normal casting time, and using INT as the spellcasting ability (spell save DC 11): [Augury](spells.md#augury), [Find Familiar](spells.md#find-familiar), [Identify](spells.md#identify), [Locate Object](spells.md#locate-object), [Scrying](spells.md#scrying), or [Unseen Servant](spells.md#unseen-servant). The hag must finish a Long Rest before using this trait to cast that spell again.
+   - **Illusory Appearance**. The hag casts [Disguise Self](spells.md#disguise-self), using CON as the spellcasting ability (spell save DC 13). The spell's duration is 24 hours.
+     - *At will:* [Disguise Self](spells.md#disguise-self)
+- **Actions**: 
+   - **Claw**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 10 (2d6 + 3) Slashing damage.
+   - **Death Glare (Recharge 5-6)**. WIS Save (DC 11), one [Frightened](conditions.md#frightened) creature the hag can see within 6 *(9m)*. *Failure:* If the target has 20 HP or fewer, it drops to 0 HP. Otherwise, the target takes 13 (3d8) Psychic damage.
+*(Source: XMM, page 271)*
+
+
+
 ### Shadow
 **CR**: 1/2
 *Medium undead, Chaotic Evil*
