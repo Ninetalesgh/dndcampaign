@@ -9608,6 +9608,7 @@ You cast sorcerous energy at one creature or object within range. Make a ranged 
 If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
 **Cantrip Upgrade.** The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 - **Classes**: Sorcerer
+![\|50](https://bg3.wiki/w/images/d/d4/Dampen_Elements_Icon.webp)
 *(Source: PHB'24, page 318)*
 
 ### Soul Cage
