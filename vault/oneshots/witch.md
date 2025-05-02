@@ -37,7 +37,9 @@
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
+- **STR Based Attack DC**: 10 *(8 + PB + STR)*.
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
+- **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
 ### Other
 
 ## Spellcasting

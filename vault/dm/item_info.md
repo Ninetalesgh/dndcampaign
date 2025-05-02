@@ -41,7 +41,7 @@ Only **one** coating can be applied to a weapon at the same time.
 
 ## Throw Grenade
 When you take the Attack Action, you can replace one of your attacks with throwing the grenade.
-You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save (DC 8 + your DEX + your PB), suffering the effect according to the result of the Save. Objects always fail their DEX Save.
+You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save against your DC, suffering the effect according to the result of the Save. Objects always fail their DEX Save.
 
 ## Ship Info
 - **Speed**: A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 50 kg. 
@@ -71,13 +71,13 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 ### Nick
 Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action. *(Once per Turn)*
 ### Push
-*On Hit:*: You may choose to have the target succeed a STR Save (DC 8 + your attack modifier + PB) or be [Displaced](vault/game_rules.md#displacement) by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+*On Hit:*: You may choose to have the target succeed a STR Save against your DC or be [Displaced](vault/game_rules.md#displacement) by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Sap
 *On Hit:* The target gets Disadvantage on its next Attack.
 ### Slow
 *On Hit:* The target has its Speed reduced by the specified amount until the end of its next turn.
 ### Topple
-*On Hit:* The target has to succeed a CON Save (DC 8 + your attack modifier + your PB) or be knocked [Prone](conditions.md#prone).
+*On Hit:* The target has to succeed a CON Save against your DC or be knocked [Prone](conditions.md#prone).
 ### Vex
 *On Hit:* You gain Advantage on your next Attack against the same target.
 ### Brace

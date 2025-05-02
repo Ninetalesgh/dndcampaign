@@ -84,7 +84,7 @@
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
   [Adrenaline Rush](vault/feats.md#adrenaline-rush)
   [Relentless Endurance](vault/feats.md#relentless-endurance)
-
+  [Charger](vault/feats.md#charger)
   [Extra Attack](vault/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*

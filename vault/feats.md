@@ -370,7 +370,7 @@ You can cast [Jump](spells.md#jump) on yourself without expending a spell slot.
 
 #### Repelling Blast
 *Prerequisites: Level 2+ Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll*
-Choose one of your known Warlock Cantrips that requires an attack roll. When you hit a [Large](game_rules.md#creature-sizes) or smaller creature with that Cantrip, you can push the creature up to 2 *(3m)* straight away from you.
+Choose one of your known Warlock Cantrips that requires an attack roll. Your attacks with that Cantrip gain [Push 2](vault/dm/item_info.md#push)
 **Repeatable.** You can gain this invocation more than once. Each time you do so, choose a different eligible Cantrip.
 ![\|50](https://bg3.wiki/w/images/6/65/Repelling_Blast_Icon.webp)
 *(Source: PHB'24, page 157)*
@@ -534,7 +534,7 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 ![\|50](https://bg3.wiki/w/images/3/3a/Relentless_Endurance_Icon.webp)
 
 
-# Feats
+# General Feats
 
 ## Fighting Style
 - **Archery**: You gain a +2 bonus to attack rolls you make with Ranged weapons.
@@ -567,10 +567,18 @@ You can make an additional **Free Attack** Whenever you take the **Attack Action
 ![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 *(Source: PHB'24, page 191)*
 
+## Charger
+- **Improved Dash.** When you take the [Dash](vault/game_rules.md#dash) Action, your Speed increases by 2 for that action.
+- **Charge Attack.** If you move at least 2 *(3m)* in a straight line toward a target immediately before hitting it with a Melee Attack as part of the Attack Action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or [Push 2](vault/dm/item_info.md#push). *(Once per Turn)*
+![\|50](https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp)
+*(Source: PHB'24, page 202)*
+
 ## Great Weapon Master - PHB 2014
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 - Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
 ![\|50](https://bg3.wiki/w/images/1/1a/Great_Weapon_Master_Bonus_Damage_Icon.webp)
 *(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
+
+
 
