@@ -2049,9 +2049,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ### Soap in a Shell
 *(wondrous item, Rare)*
 - **Properties**:
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: *Blow the bubbles!* Each creature within a range 3 *(4.5m)* cone originating from you has to succeed a CON Save (DC 13) or be [Blinded](vault/conditions.md#blinded) until the end of their next turn.
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: *Spill soap!* A 2 by 2 area next to you becomes covered in soap, it becomes difficult terrain. Each creature that enters a space in the area for the first time in a turn must succeed on a DEX Save (DC 13) or fall [Prone](vault/conditions.md#prone).
-  *(**One** action per Short Rest.)*
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: *Blow the bubbles!* Each creature within a range 3 *(4.5m)* cone originating from you has to succeed a CON Save (DC 13) or be [Blinded](vault/conditions.md#blinded) until the end of their next turn. *(Once per Short Rest)*
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: *Spill soap!* A 2 by 2 area next to you becomes covered in soap, it becomes difficult terrain. Each creature that enters a space in the area for the first time in a turn must succeed on a DEX Save (DC 13) or fall [Prone](vault/conditions.md#prone). *(Once per Short Rest)*
 - **Weight**: 0.2 kg
 - **Price**: 1500 gp
 ![\|250](https://i.imgur.com/RNXhX7W.jpeg)
