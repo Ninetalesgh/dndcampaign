@@ -31,7 +31,6 @@
 - **Tool Proficiencies**: [Carpenter's Tools](vault/dm/items.md#carpenters-tools)
 - **Languages**: Common, Orcish, Gnomish
 
-[TODO] Equipment
 
 ## Equipment
 ### Weapons

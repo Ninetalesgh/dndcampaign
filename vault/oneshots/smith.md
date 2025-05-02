@@ -32,8 +32,6 @@
 - **Tool Proficiencies**: [Thieves' Tools](vault/dm/items.md#thieves-tools), [Tinker's Tools](vault/dm/items.md#tinkers-tools), [Smith's Tools](vault/dm/items.md#smiths-tools), 
 - **Languages**: Common, Thieves' Cant
 
-[TODO] 1 origin feat
-
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
@@ -92,7 +90,9 @@
   [The Right Tool for the Job](vault/feats.md#the-right-tool-for-the-job)
   [Great Weapon Master - PHB 2014](vault/feats.md#great-weapon-master---phb-2014)
   [Extra Attack](vault/feats.md#extra-attack)
-- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+- **Weapon Masteries**: Greatsword, Pistol. *(Switch 1 after Long Rest)*
+
+- **Savage Attacker.** Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll.
 
 - **Fey Ancestry.** You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
 - **Trance.** You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.

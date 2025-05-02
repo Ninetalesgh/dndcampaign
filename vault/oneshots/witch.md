@@ -1,8 +1,8 @@
-# The Witch
+# Gul'Dan
 - **Orc Wild Magic Sorcerer Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
-- **Armor Class (AC)**: 11 (10 + DEX)
+- **Armor Class (AC)**: 14 ([Mage Armor](./../spells.md#spells-m#mage-armor) + DEX)
 - **HP**: 47 *(2 + [6 + CON] * Level)*
 - **HP Dice**: 5 D6
 - **Proficiency Bonus (PB)**: +3
@@ -31,7 +31,6 @@
 - **Tool Proficiencies**: 
 - **Languages**: Common, Orcish, Abyssal 
 
-[TODO] Metamagic options
 
 
 ## Equipment
@@ -41,6 +40,7 @@
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
 - **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
 ### Other
+[Gul'Dan's Skull Chalice](vault/dm/items.md#guldans-skull-chalice)
 
 ## Spellcasting
 - **Prepared Spells**: 9

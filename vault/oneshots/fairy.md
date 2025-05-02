@@ -1,11 +1,11 @@
 
-# The Fairy
+# Juniper
 - **Shapeshifter Swashbuckler Rogue Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX + CHA)*
-- **AC**: $ ([Studded Leather Armor](vault/dm/items.md#studded-leather-armor) + DEX)
-- **HP**: $ *($ + [$ + CON] * Level)*
-- **HP Dice**: l D$
+- **Initiative**: +7 *(DEX + CHA)*
+- **AC**: 16 ([Studded Leather Armor](vault/dm/items.md#studded-leather-armor) + DEX)
+- **HP**: 33 *(3 + [5 + CON] * Level)*
+- **HP Dice**: 5 D8
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 8 *(9m)*
@@ -36,10 +36,10 @@
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +$ *(PB + STR)*.
-- **STR Based Attack DC**: +$ *(8 + PB + STR)*.
-- **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
-- **DEX Based Attack DC**: +$ *(8 + PB + DEX)*.
+- **STR Based Attack Modifier**: +2 *(PB + STR)*.
+- **STR Based Attack DC**: 10 *(8 + PB + STR)*.
+- **DEX Based Attack Modifier**: +7 *(PB + DEX)*.
+- **DEX Based Attack DC**: 15 *(8 + PB + DEX)*.
 
   [Rapier](vault/dm/items.md#rapier)
   [Pistol +1](vault/dm/items.md#pistol)
@@ -49,12 +49,6 @@
   [Soap in a Shell](vault/dm/items.md#soap-in-a-shell)
   [Studded Leather Armor](vault/dm/items.md#studded-leather-armor)
 
-## Spellcasting
-- **Prepared Spells**: $
-- **Spell Slots Level 1**: $
-- **Spell Slots Level 2**: $
-- **Spell Attack Modifier**: +$ *(PB + WIS)*
-- **Spell Save DC**: $ *(8 + PB + WIS)* 
 
 ## Feats and Actions
 ### Actions
@@ -97,7 +91,7 @@
 ### Passive Feats
 - [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
   [Shapechanger](vault/feats.md#shapechanger-custom)
-- **Weapon Mastery**: Daggers, Shortbow.
+- **Weapon Mastery**: Sling, Pistol.
   [Sneak Attack](./../feats.md#sneak-attack)
   [Rakish Audacity](vault/feats.md#rakish-audacity)
   [Fancy Footwork](vault/feats.md#fancy-footwork)

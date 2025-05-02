@@ -81,7 +81,7 @@
   [Gnomish Cunning](vault/feats.md#gnomish-cunning)
   [Mounted Combatant](vault/feats.md#mounted-combatant)
   [Extra Attack](vault/feats.md#extra-attack)
-- **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
+- **Weapon Masteries**: Sling, Spear. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Archery.
 
 # Ranger Spell Reference
