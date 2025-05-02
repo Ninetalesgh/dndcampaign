@@ -61,8 +61,7 @@ Campfire there, warming them in the fresh ocean breeze, staring at a visibly bea
   [Sea Hag (2)](dm/monsters.md#sea-hag)
   [Zealot Flagellant (2)](dm/monsters.md#zealot-flagellant)
   [Kython Broodling (2, Minion)](dm/monsters.md#kython-broodling)
-
-
+  [Chuul (4)](vault/dm/monsters.md#chuul)
 
 - **Whispers** 
   - **Gul'Dan** hears whispers
