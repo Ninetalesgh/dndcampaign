@@ -10,31 +10,28 @@
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 8 *(9m)*
 
-| STR 8 (-1)         | DEX 18 (+4)          | CON 13 (+1)       |
-| :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -1      | ☑ **DEX Save +6**    | ☐ CON Save +1     |
-| ☐ Athletics -1     | ☐ Acrobatics +3      | .                 |
-| .                  | ☐ Sleight of Hand +3 | .                 |
-| .                  | ☑ **Stealth +6**     | .                 |
+| STR 8 (-1)     | DEX 18 (+4)               | CON 13 (+1)   |
+| :------------- | :------------------------ | :------------ |
+| ☐ STR Save -1  | ☑ **DEX Save +7**         | ☐ CON Save +1 |
+| ☐ Athletics +1 | ☑ **Acrobatics +7**       | .             |
+| .              | ☑ **Sleight of Hand +7**  | .             |
+| .              | ☑☑ **Stealth +7**         | .             |
 
 
-| INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
-| :----------------- | :----------------------- | :----------------- |
-| ☐ **INT Save +0**  | ☑ WIS Save +7            | ☐ CHA Save +0      |
-| ☐ Arcana +0        | ☑ **Animal Handling +7** | ☐ Deception +0     |
-| ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☑ **Medicine +7**        | ☐ Performance +0   |
-| ☑☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☑ **Survival +7**        | .                  |
+| INT 10 (+0)         | WIS 12 (+1)               | CHA 16 (+3)        |
+| :------------------ | :------------------------ | :---------------- |
+| ☑ **INT Save +3**   | ☐ WIS Save +1            | ☐ CHA Save +3     |
+| ☐ Arcana +0         | ☑ **Animal Handling +4** | ☐ Deception +3    |
+| ☐ History +0        | ☐ Insight +1             | ☐ Intimidation +3 |
+| ☐ Investigation +0  | ☐ Medicine +1            | ☐ Performance +3  |
+| ☐ Nature +0         | ☑ **Perception +4**      | ☑☑ **Persuasion +10**   |
+| ☐ Religion +0       | ☐ Survival +1            | .                 |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor.
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
 
-
-[TODO] Skill choices, 4 from rogue, 2 any. 
-2 expertises
 
 
 ## Equipment
