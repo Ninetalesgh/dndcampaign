@@ -3,14 +3,14 @@
 - **Shapeshifter Swashbuckler Rogue Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +$ *(DEX + CHA)*
-- **AC**: 10 (source)
+- **AC**: $ ([Studded Leather Armor](vault/dm/items.md#studded-leather-armor) + DEX)
 - **HP**: $ *($ + [$ + CON] * Level)*
 - **HP Dice**: l D$
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
-- **Speed**: 6 *(9m)*
+- **Speed**: 8 *(9m)*
 
-| STR 8 (-1)         | DEX 16 (+3)          | CON 13 (+1)       |
+| STR 8 (-1)         | DEX 18 (+4)          | CON 13 (+1)       |
 | :----------------- | :------------------- | :---------------- |
 | ☐ STR Save -1      | ☑ **DEX Save +6**    | ☐ CON Save +1     |
 | ☐ Athletics -1     | ☐ Acrobatics +3      | .                 |
@@ -49,6 +49,7 @@
 
 ### Other
   [Soap in a Shell](vault/dm/items.md#soap-in-a-shell)
+  [Studded Leather Armor](vault/dm/items.md#studded-leather-armor)
 
 ## Spellcasting
 - **Prepared Spells**: $
@@ -68,6 +69,11 @@
   [Ready Action](game_rules.md#turn-based-play#ready-action)
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
+
+
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Minor Illusion](./../spells.md#spells-m#minor-illusion)
+  [Thunderclap](./../spells.md#spells-t#thunderclap)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
   [Find Familiar](vault/spells.md#find-familiar)
@@ -97,7 +103,7 @@
   [Sneak Attack](./../feats.md#sneak-attack)
   [Rakish Audacity](vault/feats.md#rakish-audacity)
   [Fancy Footwork](vault/feats.md#fancy-footwork)
-
+  [Speedy *(speed increase already included above)*](vault/feats.md#speedy)
 - **Expertise.** You gain Expertise in two of your skill proficiencies of your choice. *(At Rogue level 6, you gain two more expertises.)* *(Already included above)*
 - **Thieves' Cant.** You picked up various languages in the communities where you plied your roguish talents. You know Thieves' Cant and one other language of your choice. *(Already included above)*
 - **Cunning Action.** Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: [Dash](game_rules.md#turn-based-play#dash),[Disengage](game_rules.md#turn-based-play#disengage), or[Hide](game_rules.md#turn-based-play#hide). *(Already included above)*

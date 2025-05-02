@@ -669,5 +669,8 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 ![\|50](https://bg3.wiki/w/images/1/1a/Great_Weapon_Master_Bonus_Damage_Icon.webp)
 *(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
 
-
-
+## Speedy
+- **Speed Increase.** Your Speed increases by 2 *(3m)*.
+- **Dash over Difficult Terrain.** When you take the [Dash](vault/game_rules.md#dash) action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
+- **Agile Movement.** Opportunity Attacks have Disadvantage against you.
+*(Source: PHB'24, page 208)*
