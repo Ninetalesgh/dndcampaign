@@ -615,6 +615,36 @@ STR | DEX | CON | INT | WIS | CHA
    - **Throttle**. One creature [Grappled](conditions.md#grappled) by the choker must succeed on a DC 13 CON Save or take 14 (4d6) bludgeoning damage, lose its held breath, and begin to suffocate.
 *(Source: ConfluxCreatures)*
 
+### Chuul
+**CR**: 4
+*Large aberration, Chaotic Evil*
+- **Initiative**: +0
+- **AC**: 16 (natural armor), 13
+- **HP**: 93 (11d10 + 33)
+- **Speed**: walk 6 *(9m)*, swim 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+19 (+4) | 10 (+0) | 16 (+3) | 5 (-3) | 11 (+0) | 5 (-3) 
+
+- **Skills**: athletics: +6, perception: +4
+- **Immunities**: poison; [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 14
+- **Languages**: understands Deep Speech but can't speak
+- **Traits**: 
+   - **Sense Magic**. The chuul senses magic within 24 *(36m)* of it. It can't be surprised by creatures carrying magic items.
+   - **Brittle Shell**. If the chuul takes 15 or more bludgeoning damage from a single source, its AC is reduced to 13 until it completes a Short or Long Rest.
+- **Actions**: 
+   - **Multiattack**. The chuul makes two attacks: one with its seizer claw and one with its crusher claw, then uses it tentacles, if available.
+   - **Seizer Claw**. *Melee Attack:* +6 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 11 (2d6 + 4) piercing damage and the target is [Grappled](conditions.md#grappled) (escape DC 14) and dragged up to 1 *(1.5m)* towards the chuul. The chuul can grapple only a single target at a time.
+   - **Crusher Claw**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 14 (3d6 + 4) piercing damage and the target must succeed on a DC 14 CON Save or suffer disadvantage on attack rolls that use STR until it completes a short or long rest.
+   - **Tentacles**. One creature [Grappled](conditions.md#grappled) by the chuul must make a DC 13 CON Save. On a failure, a creature is [Poisoned](conditions.md#poisoned) and attacks against it score a critical on a 15-20 until the end of the chuul's next turn.
+- **Reactions**: 
+   - **Psychic Static (1/Day)**. As a reaction to being reduced below 46 HP, the chuul forces each creature within 2 *(3m)* to succeed on a DC 13 INT Save or take 11 (2d10) psychic damage. A creature with telepathy makes this Save at disadvantage.
+*(Source: ConfluxCreatures)*
+
 ### Cleric Initiate
 **CR**: 2
 *Medium humanoid (any), Any Alignment*
@@ -2825,4 +2855,5 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
 

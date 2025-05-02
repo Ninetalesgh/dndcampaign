@@ -10,6 +10,13 @@ Chokers have cartilage rather than a bony skeleton. This flexible internal struc
 
 [Kython Broodling (2, Minion)](dm/monsters.md#kython-broodling)
 
+### Chuul
+[Chuuls (4)](dm/monsters.md#chuul) originated in forgotten ages when aboleths and stranger beings ruled alien empires beneath the waves. The aboleths transformed numerous deep-sea predators into servants that could venture beyond the seas to claim more magic and creatures to exploit. Chuuls are the most enduring of these bizarre servants.
+Many chuuls serve aboleth overlords, carrying out their whims amid lightless seas and primeval swamps. Other chuuls obey new aberrant masters, such as beholders, grells, or mind flayers. Some chuuls follow their own drives, endlessly collecting ancient magic treasures or interpreting age-old orders to bizarre ends. Regardless of their agendas, chuuls snare creatures in their massive pincers before rendering foes helpless with their paralytic tentacles.
+Chuuls don't age and can lie dormant in hidden places for millennia before threats, ancient orders, or strange compulsions awaken them.
+![\|250](https://5e.tools/img/bestiary/XMM/Chuul.webp)
+
+
 ### Nothic
 
 Consumed by their thirst for forbidden knowledge, [Nothic Mindblight (7)](dm/monsters.md#nothic-mindblight) are cursed lore seekers transformed by secrets never meant to be known. The bodies of these former scholars are warped into otherworldly shapes, each with a head dominated by a gigantic, unblinking eye. Nothics remember nothing of their past lives and care only for their endless pursuit of hidden mysteries and uncanny truths. They seek revelations amid the rubble of forgotten ruins, and they use their supernatural sight to pierce magical deceptions, rot the flesh of enemies, and steal the secrets of those who interrupt their investigations.
