@@ -2,7 +2,7 @@
 - **Gnome Beastmaster Ranger Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
-- **AC**: 10 ()
+- **AC**: 16 ([Scale Mail](vault/dm/items.md#scale-mail) + 2)
 - **HP**: 54 *(4 + [9 + CON] * Level)*
 - **HP Dice**: 5 D10
 - **Proficiency Bonus (PB)**: +3
@@ -36,10 +36,10 @@
 - **STR Based Attack Modifier**: +2 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +6 *(PB + DEX)*.
 
-[Driftweed Sling](vault/dm/items.md#driftweed-sling)
+[2 Driftweed Slings](vault/dm/items.md#driftweed-sling)
 
 ### Other
-
+[Scale Mail](vault/dm/items.md#scale-mail)
 
 ## Spellcasting
 - **Prepared Spells**: 6

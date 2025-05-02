@@ -42,7 +42,8 @@
 - **DEX Based Attack DC**: +$ *(8 + PB + DEX)*.
 
   [Rapier](vault/dm/items.md#rapier)
-  [Pistol](vault/dm/items.md#pistol)
+  [Pistol +1](vault/dm/items.md#pistol)
+  [Sling](vault/dm/items.md#sling)
 
 ### Other
   [Soap in a Shell](vault/dm/items.md#soap-in-a-shell)

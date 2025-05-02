@@ -37,7 +37,11 @@
 ### Weapons
 - **STR Based Attack Modifier**: +5 *(PB + STR)*.
 - **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
+
+  [The Trusted Splitter](vault/dm/items.md#the-trusted-splitter)
+
 ### Other
+  [Mithral Plate](dm/items.md#mithral-plate)
 
 ## Spellcasting
 - **Prepared Spells**: 6

@@ -2170,6 +2170,19 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *Sometimes less than lethal is more than enough.*
 *(Source: Custom)*
 
+### The Trusted Splitter
+*(Greataxe, Martial Melee Weapon, Rare)*
+- **Reach**: 1
+- **Damage**: 1d12 + STR Slashing damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Heavy](dm/item_info.md#weapon-properties#heavy), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+  - *On Hit:* If this is the second hit against the same target this turn, +1d12 damage.
+- **Mastery**: [Cleave](dm/item_info.md#cleave).
+- **Weight**: 3.5 kg
+- **Price**: 3000 gp
+![\|250](https://i.pinimg.com/736x/80/cc/2f/80cc2f92826b448f304c8be29ab9d232.jpg)
+*You just get the hang of it after a while.. Always hit the same spot until it splits.*
+*(Source: Custom)*
+
 ### Thieves' Tools
 *(tool, Common)*
 - **Properties**: [Tools](dm/item_info.md#tools).

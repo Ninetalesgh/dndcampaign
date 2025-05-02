@@ -1,17 +1,58 @@
-# Player Characters
+# Names
 
-## Wild Magic Sorcerer
-Orc -> Gul'dan style
+Towns:
+- Saltreach
+- Crestwick
 
-## Oath of the Ancients Paladin
-Orc -> Carpenter thrown into adventure
+Characters:
+- “Stitch” Branlow
+- Mira Tidewhisper
+- Old Jeb Catchmark
+- Argo Finn, Harbormaster
+- Evelyn Marrowind
 
-## Beastmaster Ranger
-Gnome -> Hermit on a hermit crab with special sling shots
+Ships:
+- The Drunken Finch
+- The Gilded Current
+- Wraith
+- Petal
 
-## ????
+# NPCS
+
+**Umberlee** – The Bitch Queen
+    Portfolio: Oceans, storms, shipwrecks
+    Alignment: Chaotic Evil
+    Worshipped by: Sailors (to appease her), pirates, coastal dwellers
+    Symbol: Wave curling left and right
+    Vibe: A violent, tempestuous goddess who demands tribute or brings death at sea. Most feared sea deity.
+
+
+**Captain Jareth Carr** - Mad-Eye "Glass"
+  - Known as Glass because he's painfully honest and the worst liar anyone will have ever met.
+  - He has a cracked glass eye.
+
+# Introduction
+
+- **Hermit** and **Tree** chill in their little rocky hill forest next to a little waterfall.
+Campfire there, warming them in the fresh ocean breeze, staring at a visibly beat Galleon anchored in the deeper waters off shore.
+
+- **Gul'Dan** and **Shipwright** in a small, scattered port town called **Pearlrest**. there's a little shrine to **Umberlee**, colloquially refered to as The Bitch Queen. [TODO] in city intro
+
+- **Juni** and **Smith** anchored and are being shipped out to the town, the waters are too shallow for the Galleon you came on, so a little caravel it is. You just suffered a close victory against an imperial destroyer. Managed to capture one of their sailors.
+  - There to run errands, Captain **Mad-Eye "Glass" Carr** asks **Smith** to find someone to help fix up their cargo bay leaks.
+  - **Glass** asks of **Juni** to find a powerful arcanist to read the thoughts of the captured marine, "we need to figure out how they got to know about our smuggling route." 
+
 
 # Scenes
+
+- **Receding Water**
+  Sand and corals laid bare, **The Gilded Current** resting in sand.
+  Town panics and tells everyone to move up into the forest? ->
+
+
+- **Whispers** 
+
+
 
 - OVERARCHING PLOT:
   Otherworldly summoning ->
