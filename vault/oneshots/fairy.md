@@ -40,7 +40,9 @@
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +$ *(PB + STR)*.
+- **STR Based Attack DC**: +$ *(8 + PB + STR)*.
 - **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
+- **DEX Based Attack DC**: +$ *(8 + PB + DEX)*.
 ### Other
 
 
@@ -52,8 +54,6 @@
 - **Spell Save DC**: $ *(8 + PB + WIS)* 
 
 ## Feats and Actions
-- **Maneuver Save DC (MSDC)**: +$ *(8 + PB + DEX)*
-
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
   [Attack](game_rules.md#turn-based-play#attack)

@@ -237,6 +237,7 @@ When an attacker that you can see hits you with an Attack, you can halve the Att
 You can unleash your innate magic for 1 minute, during which you gain the following benefits:
 - +1 Spell Save DC.
 - Advantage on Spell Attacks with Sorcerer Spells.
+![\|50](https://bg3.wiki/w/images/b/be/Sorcery_Points_Icons.png)
 *(2 Charges, regain all after Long Rest)*
 
 ### Font of Magic
@@ -578,6 +579,10 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 ## Extra Attack
 You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
 ![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
+
+## Inspiring Leader
+- **Bolstering Performance.** When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within range 6 *(9m)*of yourself who witness the performance. The chosen creatures each gain Temporary HP equal to your character level plus the modifier of the ability you increased with this feat.
+![\|50](https://bg3.wiki/w/images/1/19/Heroism_Icon.webp)
 
 ## Mounted Combatant
 - **Ability Score Increase.** Increase your Strength, Dexterity, or Wisdom by 1, to a maximum of 20.

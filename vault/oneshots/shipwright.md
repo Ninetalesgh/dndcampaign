@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
-- **HP**: 28 *(BASE + [X + CON] * Level)*
+- **HP**: 44 *(4 + [8 + CON] * Level)*
 - **HP Dice**: 5 D10
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -85,6 +85,7 @@
   [Extra Attack](vault/feats.md#extra-attack)
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
+- [Tough](feats.md#tough) *(Already included above)*
 
   [Crafter](vault/feats.md#crafter)
 

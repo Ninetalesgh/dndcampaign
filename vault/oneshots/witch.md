@@ -12,26 +12,26 @@
 | STR 8 (-1)         | DEX 13 (+1)          | CON 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
 | ☐ STR Save -1      | ☐ DEX Save +1        | ☑ **CON Save +6** |
-| ☐ Athletics -1     | ☑ **Acrobatics +3**  | .                |
+| ☐ Athletics -1     | ☐ Acrobatics +1      | .                |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
 
 | INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)          |
 | :----------------- | :------------------- | :------------------- |
-| ☐ INT Save +0      | ☐ WIS Save +1        | ☑ **CHA Save +7**      |
-| ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2**   |
-| ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
-| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
-| ☐ Nature +0        | ☑ **Perception +3**  | ☑ **Persuasion +2**    |
-| ☑ **Religion +2**  | ☐ Survival +1        | .                  |
+| ☐ INT Save +0      | ☐ WIS Save +0        | ☑ **CHA Save +7**      |
+| ☑ **Arcana +3**    | ☐ Animal Handling +0 | ☑ **Deception +7**   |
+| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +7**  |
+| ☐ Investigation +0 | ☐ Medicine +0        | ☐ Performance +0   |
+| ☐ Nature +0        | ☐ Perception +0      | ☑ **Persuasion +7**    |
+| ☐ Religion +0      | ☐ Survival +0        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: - 
 - **Tool Proficiencies**: 
-- **Languages**: Common, 
+- **Languages**: Common, Orcish, Abyssal 
 
-[TODO] Metamagic options, skill proficiencies, languages
+[TODO] Metamagic options, languages
 
 
 ## Equipment
@@ -81,10 +81,8 @@
   [Sorcerous Restoration](vault/feats.md#sorcerous-restoration)
   [Wild Magic Surge](vault/feats.md#wild-magic-surge)
   [Tides of Chaos](vault/feats.md#tides-of-chaos)
-
-
-[TODO] Change 1 spell on level up. Innate sorcery. Font of magic (sorcery points). Metamagic options. Wild Magic. Tides of Chaos. Feat. Sorcerous Restoration.
-
+  [Inspiring Leader](vault/feats.md#inspiring-leader)
+  [Alert](vault/feats.md#alert)
 
 ## Cantrips
 [Acid Splash](spells.md#spells-a#acid-splash)
