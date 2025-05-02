@@ -2012,7 +2012,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 ### Gul'Dan's Skull Chalice
 *(wondrous item, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  If you would drop to 0 HP while this chalice is in your hand it is destroyed and brings you back to full HP and restores all your Spell Slots and Sorcery Points. 
+  If you would drop to 0 HP while this chalice is in your hand it is destroyed and brings you back to full HP and restores all your Spell Slots and Sorcery Points. Roll on the Wild Magic table 3 times, all effects happen.
 - **Weight**: 1 kg
 - **Price**: 3000 gp
 ![\|250](https://i.pinimg.com/736x/61/71/bd/6171bdcc1dd0800458f44ed2afe5cc7b.jpg)
