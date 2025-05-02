@@ -35,7 +35,9 @@
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +5 *(PB + STR)*.
+- **STR Based Attack DC**: 13 *(8 + PB + STR)*.
 - **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
+- **DEX Based Attack DC**: 11 *(8 + PB + DEX)*.
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)

@@ -12,29 +12,26 @@
 | STR 18 (+4)        | DEX 13 (+1)          | CON 10 (+0)       |
 | :----------------- | :------------------- | :---------------- |
 | ☑ **STR Save +7**  | ☐ DEX Save +1        | ☐ CON Save +0     |
-| ☑ **Athletics +5** | ☑ **Acrobatics +3**  | .                 |
+| ☑ **Athletics +7** | ☐ Acrobatics +1      | .                 |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
 
-| INT 10 (+0)        | WIS 8 (-1)           | CHA 16 (+3)          |
-| :----------------- | :------------------- | :------------------- |
-| ☐ INT Save +0      | ☐ WIS Save -1        | ☑ **CHA Save +6**    |
-| ☑ **Arcana +2**    | ☐ Animal Handling -1 | ☑ **Deception +2**   |
-| ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2** |
-| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0     |
-| ☐ Nature +0        | ☑ **Perception +3**  | ☑ **Persuasion +2**  |
-| ☑ **Religion +2**  | ☐ Survival -1        | .                    |
+| INT 10 (+0)            | WIS 8 (-1)           | CHA 16 (+3)           |
+| :--------------------- | :------------------- | :-------------------- |
+| ☐ INT Save +0          | ☐ WIS Save -1        | ☑ **CHA Save +6**     |
+| ☐ Arcana +0            | ☐ Animal Handling -1 | ☐ Deception +3        |
+| ☐ History +0           | ☑ **Insight +2**     | ☑ **Intimidation +6** |
+| ☑ **Investigation +3** | ☐ Medicine -1        | ☐ Performance +3      |
+| ☐ Nature +0            | ☐ Perception -1      | ☐ Persuasion +3       |
+| ☐ Religion +0          | ☐ Survival -1        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
-- **Tool Proficiencies**: 
-- **Languages**: Common, 
+- **Tool Proficiencies**: [Carpenter's Tools](vault/dm/items.md#carpenters-tools)
+- **Languages**: Common, Orcish, Gnomish
 
-[TODO] 2 Languages
-[TODO] Skill proficiencies, 2 any
-
-[TODO] lvl 4 feat.
+[TODO] Equipment
 
 ## Equipment
 ### Weapons
@@ -89,7 +86,7 @@
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*
 - [Fighting Style](./../feats.md#fighting-style): Defense. *(Already included above)*
 
-
+  [Crafter](vault/feats.md#crafter)
 
 # Paladin Spell Reference
 ## Level 1

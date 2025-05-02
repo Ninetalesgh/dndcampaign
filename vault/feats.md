@@ -4,6 +4,29 @@
 - **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
 - **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
 ![\|50](https://bg3.wiki/w/images/9/93/Danger_Sense_Icon.webp)
+
+## Crafter
+- **Discount.** Whenever you buy a nonmagical item, you receive a 20% discount on it.
+- **Tool Proficiency.** You gain proficiency with three different Artisan's Tools of your choice from the list below.
+- **Fast Crafting.** As your [Long Rest Activity](vault/game_rules.md#long-rest-activity) you can craft one of the items associated with an available tool you are proficient with. The item lasts until the next Long Rest, at which point it falls apart.
+   [Carpenter's Tools](vault/dm/items.md#carpenters-tools)
+      - [Ladder](vault/dm/items.md#ladder), [Torch](vault/dm/items.md#torch)
+   [Leatherworker's Tools](vault/dm/items.md#leatherworkers-tools)
+      - [Crossbow Bolt Case](vault/dm/items.md#crossbow-bolt-case), [Map or Scroll Case](vault/dm/items.md#map-or-scroll-case), [Pouch](vault/dm/items.md#pouch)
+   [Mason's Tools](vault/dm/items.md#masons-tools)
+      - [Block and Tackle](vault/dm/items.md#block-and-tackle)
+   [Potter's Tools](vault/dm/items.md#potters-tools)
+      - [Jug](vault/dm/items.md#jug), [Lamp](vault/dm/items.md#lamp)
+   [Smith's Tools](vault/dm/items.md#smiths-tools)
+      - [Ball Bearings](vault/dm/items.md#ball-bearings), [Bucket](vault/dm/items.md#bucket), [Caltrops](vault/dm/items.md#caltrops), [Grappling Hook](vault/dm/items.md#grappling-hook), [Iron Pot](vault/dm/items.md#iron-pot)
+   [Tinker's Tools](vault/dm/items.md#tinkers-tools)
+      - [Bell](vault/dm/items.md#bell), [Shovel](vault/dm/items.md#shovel), [Tinderbox](vault/dm/items.md#tinderbox)
+   [Weaver's Tools](vault/dm/items.md#weavers-tools)
+      - [Basket](vault/dm/items.md#basket), [Rope](vault/dm/items.md#rope), [Net](vault/dm/items.md#net), [Tent](vault/dm/items.md#tent)
+   [Woodcarver's Tools](vault/dm/items.md#woodcarvers-tools)
+      - [Club](vault/dm/items.md#club), [Greatclub](vault/dm/items.md#greatclub), [Quarterstaff](vault/dm/items.md#quarterstaff)
+*(Source: PHB'24, page 200)*
+
 ## Skilled
 You gain proficiency in any combination of three skills or tools of your choice.
 Repeatable. You can take this feat more than once.
@@ -107,12 +130,12 @@ When you're within range 1 *(1.5m)* of a creature on your turn, you can expend o
 
 #### Grappling Attack
 *(Cost: 1 Superiority Die)*
-When you hit a creature with a **Melee Attack** and at least one of your hands is free, you can expend one Superiority Die to attempt to grapple the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a STR Save or be [Grappled](conditions.md#grappled) by you.
+When you hit a creature with a **Melee Attack** and at least one of your hands is free, you can expend one Superiority Die to attempt to grapple the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a STR Save against your DC or be [Grappled](conditions.md#grappled) by you.
 ![\|50](https://bg3.wiki/w/images/4/40/Unarmed_Strike_Icon.webp)
 
 #### Menacing Attack
 *(Cost: 1 Superiority Die)*
-When you hit a creature with a **Melee or Ranged Attack**, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a Wis Save or be [Frightened](conditions.md#frightened) until the end of your next turn.
+When you hit a creature with a **Melee or Ranged Attack**, you can expend one Superiority Die to attempt to frighten the target. Add the Superiority Die to the attack's damage roll. The target must succeed on a WIS Save against your DC or be [Frightened](conditions.md#frightened) until the end of your next turn.
 ![\|50](https://bg3.wiki/w/images/e/e6/Menacing_Attack_Melee_Icon.webp)
 
 ## Paladin

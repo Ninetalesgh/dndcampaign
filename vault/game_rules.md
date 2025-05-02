@@ -399,4 +399,6 @@ Exhaustion caused by Dehydration or Malnutrition **can't** be removed unless you
 [TODO] THESE RULES SEEM INCOMPLETE? 
 - **Sleep Deprivation.** Whenever you end a 24-hour period without finishing a long rest, you must succeed on a DC 10 CON Save or gain 1 stack of [Exhaustion](conditions.md#exhaustion). Each consecutive 24-hour period increases the DC by 5.
 
+## Long Rest Activity
+Players that have Long Rest Activities available can choose **one** activity per Long Rest. These will usually be crafting activities.
 
