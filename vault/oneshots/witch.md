@@ -31,7 +31,7 @@
 - **Tool Proficiencies**: 
 - **Languages**: Common, Orcish, Abyssal 
 
-[TODO] Metamagic options, languages
+[TODO] Metamagic options
 
 
 ## Equipment
@@ -65,8 +65,8 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-
   [Font of Magic](vault/feats.md#font-of-magic)
+
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
@@ -82,7 +82,6 @@
   [Wild Magic Surge](vault/feats.md#wild-magic-surge)
   [Tides of Chaos](vault/feats.md#tides-of-chaos)
   [Inspiring Leader](vault/feats.md#inspiring-leader)
-  [Alert](vault/feats.md#alert)
 
 ## Cantrips
 [Acid Splash](spells.md#spells-a#acid-splash)

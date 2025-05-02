@@ -66,12 +66,16 @@
 
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+  [Fire Bolt](spells.md#spells-f#fire-bolt)
   [Create Bonfire](./../spells.md#spells-c#create-bonfire)
   [Druidcraft](./../spells.md#spells-d#druidcraft)
   [Guidance](./../spells.md#spells-g#guidance)
   [Produce Flame](./../spells.md#spells-p#produce-flame)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
+  [Burning Hands](spells.md#spells-b#burning-hands)
+  [Blur](./../spells.md#spells-b#blur)
+  [Fireball](spells.md#spells-f#fireball)
   [Goodberry *(one free use per Long Rest)*](./../spells.md#spells-g#goodberry)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
   [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)

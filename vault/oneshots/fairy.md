@@ -43,8 +43,12 @@
 - **STR Based Attack DC**: +$ *(8 + PB + STR)*.
 - **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
 - **DEX Based Attack DC**: +$ *(8 + PB + DEX)*.
-### Other
 
+  [Rapier](vault/dm/items.md#rapier)
+  [Pistol](vault/dm/items.md#pistol)
+
+### Other
+  [Soap in a Shell](vault/dm/items.md#soap-in-a-shell)
 
 ## Spellcasting
 - **Prepared Spells**: $
