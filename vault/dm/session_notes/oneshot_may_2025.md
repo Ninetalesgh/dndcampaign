@@ -34,10 +34,11 @@ Ships:
 
 # Introduction
 
-- **Hermit** and **Tree** chill in their little rocky hill forest next to a little waterfall.
+- **Hermit** and **Tree** chill in their little rocky hill forest next to a waterfall, overseeing the cove.
 Campfire there, warming them in the fresh ocean breeze, staring at a visibly beat Galleon anchored in the deeper waters off shore.
-
-- **Gul'Dan** and **Shipwright** in a small, scattered port town called **Pearlrest**. there's a little uncared-for looking shrine to **Umberlee**, colloquially referred to as The Bitch Queen. A clumsy shanty tune coming out of a tavern with a little scribbled on wood plank hanging off its side **The Dancing Cow**.
+  - Bumping and faint chanting from inside the waterfall??
+  
+- **Gul'Dan** and **Shipwright** in a small, scattered port town called **Pearlrest** in **Purple Cove**. there's a little uncared-for looking shrine to **Umberlee**, colloquially referred to as The Bitch Queen. A clumsy shanty tune coming out of a tavern with a little scribbled on wood plank hanging off its side **The Dancing Cow**.
 
 - **Juni** and **Smith** anchored and are being shipped out to the town, the waters are too shallow for the Galleon you came on, so a little caravel it is. You just suffered a close victory against an imperial destroyer. Managed to capture one of their sailors.
   - There to run errands, Captain **Mad-Eye "Glass" Carr** asks **Smith** to find someone to help fix up their cargo bay leaks, since it needs more people, and your previous specialist.
@@ -48,10 +49,12 @@ Campfire there, warming them in the fresh ocean breeze, staring at a visibly bea
 
 - **Receding Water**
   Sand and corals laid bare, **The Gilded Current** resting in sand.
-  Town panics and tells everyone to move up into the forest? -> 
-
+  Town panics and tells everyone to move up into the forest?
+  - **Evelyn** starts dashing towards the waterfall.
 
 - **Whispers** 
+  
+
 
 # Secrets
 

@@ -40,7 +40,6 @@
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
 - **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
 ### Other
-[Gul'Dan's Skull Chalice](vault/dm/items.md#guldans-skull-chalice)
 
 ## Spellcasting
 - **Prepared Spells**: 9

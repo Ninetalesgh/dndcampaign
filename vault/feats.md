@@ -196,7 +196,7 @@ STR | DEX | CON | INT | WIS | CHA
 ![\|50](https://bg3.wiki/w/images/b/b2/Dirty_Trick_Sand_Toss_Icon.webp)
 
 ### Dirty Trick: Vicious Mockery
-*Bonus Action**
+**Bonus Action**
 - Cast [Vicious Mockery](vault/spells.md#vicious-mockery)
 ![\|50](https://bg3.wiki/w/images/d/dc/Dirty_Trick_Vicious_Mockery_Icon.webp)
 
