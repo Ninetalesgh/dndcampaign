@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **Armor Class (AC)**: 11 (10 + DEX)
-- **HP**: 37 *(2 + [4 + CON] * Level)*
+- **HP**: 47 *(2 + [6 + CON] * Level)*
 - **HP Dice**: 5 D6
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -12,19 +12,19 @@
 | STR 8 (-1)         | DEX 13 (+1)          | CON 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
 | ☐ STR Save -1      | ☐ DEX Save +1        | ☑ **CON Save +6** |
-| ☐ Athletics -1     | ☐ Acrobatics +1      | .                |
+| ☐ Athletics -1     | ☐ Acrobatics +1      | .                 |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
 
-| INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)          |
-| :----------------- | :------------------- | :------------------- |
-| ☐ INT Save +0      | ☐ WIS Save +0        | ☑ **CHA Save +7**      |
-| ☑ **Arcana +3**    | ☐ Animal Handling +0 | ☑ **Deception +7**   |
-| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +7**  |
-| ☐ Investigation +0 | ☐ Medicine +0        | ☐ Performance +0   |
-| ☐ Nature +0        | ☐ Perception +0      | ☑ **Persuasion +7**    |
-| ☐ Religion +0      | ☐ Survival +0        | .                  |
+| INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)           |
+| :----------------- | :------------------- | :-------------------- |
+| ☐ INT Save +0      | ☐ WIS Save +0        | ☑ **CHA Save +7**     |
+| ☑ **Arcana +3**    | ☐ Animal Handling +0 | ☑ **Deception +7**    |
+| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +7** |
+| ☐ Investigation +0 | ☐ Medicine +0        | ☐ Performance +0      |
+| ☐ Nature +0        | ☐ Perception +0      | ☑ **Persuasion +7**   |
+| ☐ Religion +0      | ☐ Survival +0        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: - 
@@ -82,6 +82,7 @@
   [Wild Magic Surge](vault/feats.md#wild-magic-surge)
   [Tides of Chaos](vault/feats.md#tides-of-chaos)
   [Inspiring Leader](vault/feats.md#inspiring-leader)
+- [Tough](feats.md#tough) *(Already included above)*
 
 ## Cantrips
 [Acid Splash](spells.md#spells-a#acid-splash)
