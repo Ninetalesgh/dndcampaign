@@ -3802,11 +3802,239 @@ One creature you can see within range that is [Paralyzed](conditions.md#paralyze
 - **Range**: 2 *(3m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You gain the service of a familiar, a spirit that takes an animal form you choose: Bat, Cat, Frog, Hawk, Lizard, Octopus, Owl, Rat, Raven, Spider, Weasel, or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands. Telepathic Connection. While your familiar is within 20 *(30m)* of you, you can communicate with it telepathically. Additionally, as a Bonus Action, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
-Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 20 *(30m)* of you, and it must take a Reaction to deliver the touch when you cast the spell. Combat. The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal. Disappearance of the Familiar. When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 6 *(9m)* of you. Whenever the familiar drops to 0 Hit Points or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying. One Familiar Only. You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
+You gain the service of a familiar, a spirit that takes an animal form you choose: [Bat](vault/spells.md#bat), [Cat](vault/spells.md#cat), [Frog](vault/spells.md#frog), [Hawk](vault/spells.md#hawk), [Lizard](vault/spells.md#lizard), [Octopus](vault/spells.md#octopus), [Owl](vault/spells.md#owl), [Rat](vault/spells.md#rat), [Raven](vault/spells.md#raven), [Spider](vault/spells.md#spider), [Weasel](vault/spells.md#weasel), or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands. Telepathic Connection. While your familiar is within 20 *(30m)* of you, you can communicate with it telepathically. Additionally, as a **Bonus Action**, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
+Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 20 *(30m)* of you, and it must take a Reaction to deliver the touch when you cast the spell. Combat. The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal. Disappearance of the Familiar. When the familiar drops to 0 Hit Points, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 6 *(9m)* of you. Whenever the familiar drops to 0 HP or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying. One Familiar Only. You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 ![\|50](https://bg3.wiki/w/images/8/8b/Find_Familiar_Cat_Icon.webp)
 - **Classes**: Wizard
 *(Source: PHB'24, page 272)*
+
+#### Bat
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 1 *(1.5m)*, fly 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) 
+
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight), passive perception 11
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 349)*
+
+#### Cat
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 2 (1d4)
+- **Speed**: walk 8 *(12m)*, climb 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) 
+
+- **Skills**: perception: +3, stealth: +4
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Traits**: 
+   - **Jumper**. The cat's jump distance is determined using its DEX rather than its STR.
+- **Actions**: 
+   - **Scratch**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 1 Slashing damage.
+*(Source: XMM, page 351)*
+
+#### Frog
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +1
+- **AC**: 11
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 4 *(6m)*, swim 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) 
+
+- **Skills**: perception: +1, stealth: +3
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Traits**: 
+   - **Amphibious**. The frog can breathe air and water.
+   - **Standing Leap**. The frog's {@variantrule Long Jump|XPHB} is up to 2 *(3m)* and its {@variantrule High Jump|XPHB} is up to 1 *(1.5m)* with or without a running start.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +3, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 354)*
+
+#### Hawk
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +3
+- **AC**: 13
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 2 *(3m)*, fly 12 *(18m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2) 
+
+- **Skills**: perception: +6
+- **Senses**: passive perception 16
+- **Actions**: 
+   - **Talons**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 1 Slashing damage.
+*(Source: XMM, page 362)*
+
+#### Lizard
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +0
+- **AC**: 10
+- **HP**: 2 (1d4)
+- **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) 
+
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
+- **Traits**: 
+   - **Spider Climb**. The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 364)*
+
+#### Octopus
+**CR**: 0
+*Small beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 3 (1d6)
+- **Speed**: walk 1 *(1.5m)*, swim 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) 
+
+- **Skills**: perception: +2, stealth: +6
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Traits**: 
+   - **Compression**. The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
+   - **Water Breathing**. The octopus can breathe only underwater.
+- **Actions**: 
+   - **Tentacles**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 1 Bludgeoning damage.
+- **Reactions**: 
+   - **Ink Cloud (1/Day)**. *Trigger:* A creature ends its turn within 1 *(1.5m)* of the octopus while underwater. *Response:* The octopus releases ink that fills a radius 1 *(1.5m)* sphere centered on itself, and the octopus moves up to its swim speed. The inked area is [Heavily Obscured](vault/game_rules.md#heavily-obscured) for 1 minute or until a strong current or similar effect disperses the ink.
+*(Source: XMM, page 365)*
+
+#### Owl
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +1
+- **AC**: 11
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 1 *(1.5m)*, fly 12 *(18m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) 
+
+- **Skills**: perception: +5, stealth: +5
+- **Senses**: [Darkvision *(36m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Traits**: 
+   - **Flyby**. The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.
+- **Actions**: 
+   - **Talons**. *Melee Attack:* +3, reach 1 *(1.5m)* 
+    *Hit:* 1 Slashing damage.
+*(Source: XMM, page 366)*
+
+#### Rat
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +0
+- **AC**: 10
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) 
+
+- **Skills**: perception: +2
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Traits**: 
+   - **Agile**. The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's reach.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 367)*
+
+#### Raven
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 2 (1d4)
+- **Speed**: walk 2 *(3m)*, fly 10 *(15m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 14 (+2) | 10 (+0) | 5 (-3) | 13 (+1) | 6 (-2) 
+
+- **Skills**: perception: +3
+- **Senses**: passive perception 13
+- **Traits**: 
+   - **Mimicry**. The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 WIS (Insight) check.
+- **Actions**: 
+   - **Beak**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 368)*
+
+#### Spider
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) 
+
+- **Skills**: stealth: +4
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Traits**: 
+   - **Spider Climb**. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
+   - **Web Walker**. The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage plus 2 (1d4) Poison damage.
+*(Source: XMM, page 369)*
+
+#### Weasel
+**CR**: 0
+*Tiny beast, Unaligned*
+- **Initiative**: +3
+- **AC**: 13
+- **HP**: 1 (1d4 - 1)
+- **Speed**: walk 6 *(9m)*, climb 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4) 
+
+- **Skills**: acrobatics: +5, perception: +3, stealth: +5
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+    *Hit:* 1 Piercing damage.
+*(Source: XMM, page 372)*
 
 ### Find Greater Steed
 *Level 4 Conjuration*

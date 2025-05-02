@@ -40,12 +40,10 @@ Mufi:
   UC: Feylight Expose
     [Kobold Diviner's Amulet](dm/items.md#kobold-diviners-amulet)
     [Spell Scroll Dagger](dm/items.md#spell-scroll-dagger)
-    [Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
     [Tobben's Thieves' Tools](dm/items.md#tobbens-thieves-tools)
   R: Obsidian Dagger, Sickle of the Sphinx
 Nyari: 
   C:
-    [Clockwork Amulet](dm/items.md#clockwork-amulet)
     [Redsmith Crucible Set](dm/items.md#redsmith-crucible-set)
   UC: 
     [Shatterglass Ward](dm/items.md#shatterglass-ward)
@@ -58,7 +56,7 @@ Loot given:
 **Ayra**: C
 **Kal**: C
 **Kazimir**: UC, UC
-**Mufi**: -
+**Mufi**: UC
 **Nyari**: C, UC
 
 **Unassigned**: 
@@ -69,12 +67,13 @@ UC, R
   [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
   [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
-5/5 UC
+6/5 UC
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
   [Liora's Band of Trust](dm/items.md#lioras-band-of-trust)
   [Mithral Plate](dm/items.md#mithral-plate)
   [Mithral Plate](dm/items.md#mithral-plate)
   [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
+  [Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
   
 1/1 R
  ~[Thalioel's Tear](dm/items.md#thalioels-tear)

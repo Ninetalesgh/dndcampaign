@@ -37,6 +37,7 @@
   [Shortbow](dm/items.md#shortbow)
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
+  [Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
 ### Other
   [Leather Armor](dm/items.md#leather-armor)
   [Thieves' Tools](dm/items.md#thieves-tools)
