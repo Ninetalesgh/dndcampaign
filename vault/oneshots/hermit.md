@@ -37,6 +37,7 @@
 - **DEX Based Attack Modifier**: +6 *(PB + DEX)*.
 
 [2 Driftweed Slings](vault/dm/items.md#driftweed-sling)
+[Quarterstaff](vault/dm/items.md#quarterstaff)
 
 ### Other
 [Scale Mail](vault/dm/items.md#scale-mail)
