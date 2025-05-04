@@ -547,10 +547,11 @@ You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal 
 
 ### Shapechanger CUSTOM
 **Action**, *Choose one of the following*:
-- Transform into a [Tiny](vault/game_rules.md#creature-sizes) [Fairy](vault/feats.md#small-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
+- Transform into a [Tiny](vault/game_rules.md#creature-sizes) [Flying Creature](vault/feats.md#tiny-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
 - Transform into any [Small](vault/game_rules.md#creature-sizes) to [Medium](vault/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely. 
 ![\|50](https://bg3.wiki/w/images/9/9d/Shapechanger_Icon.webp)
-#### Small Flying Creature
+*(Source: Custom)*
+#### Tiny Flying Creature
 *Tiny*
 - **Initiative**: +2
 - **AC**: 12
@@ -674,3 +675,12 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 - **Dash over Difficult Terrain.** When you take the [Dash](vault/game_rules.md#dash) action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 - **Agile Movement.** Opportunity Attacks have Disadvantage against you.
 *(Source: PHB'24, page 208)*
+
+
+## TODO HEX
+
+## TODO MAGE HAND LEDGERDEMAIN
+
+## TODO SHIELD MASTER
+
+## 

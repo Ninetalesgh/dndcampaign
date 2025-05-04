@@ -1,10 +1,11 @@
 # Kal
-- **Moon Druid Level**: 3
+- **Moon Druid Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
-- **HP**: 30 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 3 D8
+- **HP**: 39 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 4 D8
+- **Proficiency Bonus (PB)**: +2
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -16,14 +17,14 @@
 | .                  | ☐ Stealth +2         | .               |
 
 
-| INT 10 (+0)          | WIS 17 (+3)           | CHA 8 (-1)            |
+| INT 10 (+0)          | WIS 18 (+4)           | CHA 8 (-1)            |
 | :------------------- | :-------------------- | :-------------------- |
-| ☑ **INT (Save +2)**  | ☑ **WIS (Save +5)**  | ☐ CHA (Save -1)       |
-| ☐ Arcana +0          | ☐ Animal Handling +3 | ☐ Deception -1        |
-| ☐ History +0         | ☐ Insight +3         | ☑ **Intimidation +1** |
-| ☐ Investigation +0   | ☐ Medicine +3        | ☐ Performance -1      |
-| ☑ **Nature +2**      | ☑ **Perception +5**  | ☐ Persuasion -1       |
-| ☐ Religion +0        | ☑ **Survival +5**    | .                     |
+| ☑ **INT (Save +2)**  | ☑ **WIS (Save +6)**  | ☐ CHA (Save -1)       |
+| ☐ Arcana +0          | ☐ Animal Handling +4 | ☐ Deception -1        |
+| ☐ History +0         | ☐ Insight +4         | ☑ **Intimidation +1** |
+| ☐ Investigation +0   | ☐ Medicine +4        | ☐ Performance -1      |
+| ☑ **Nature +2**      | ☑ **Perception +6**  | ☐ Persuasion -1       |
+| ☐ Religion +0        | ☑ **Survival +6**    | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields
@@ -32,8 +33,19 @@
 
 ## Equipment
 ### Weapons
+
+|     | STR Attack | DEX Attack |
+| --: | :--------- | :--------- |
+| Modifier | +3    | +4 |
+| Save DC | 11 | 12 | 
+
+
+
 - **STR Based Attack Modifier**: +3 *(PB + STR)*.
+- **STR Based Attack DC**: 11 *(8 + PB + STR)*.
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
+- **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
+
   [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
   [Quarterstaff](dm/items.md#quarterstaff)
   [Sickle](dm/items.md#sickle)
@@ -44,13 +56,19 @@
   [Explorer's Pack](dm/items.md#explorers-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 6
+- **Prepared Spells**: 7
 - **Spell Slots Level 1**: 4
-- **Spell Slots Level 2**: 2
-- **Spell Attack Modifier**: +5 *(PB + WIS)*
-- **Spell Save DC**: 13 *(8 + PB + WIS)* 
+- **Spell Slots Level 2**: 3
+- **Spell Attack Modifier**: +6 *(PB + WIS)*
+- **Spell Save DC**: 14 *(8 + PB + WIS)* 
 - **Wild Shapes Prepared**: 4
 - **Wild Shape Charges**: 2 *(Regain 1 after Short Rest, all after Long Rest)*
+
+
+[TODO] 1 more prepared spell
+[TODO] switch 1 prepared spell
+[TODO] 1 more cantrip 
+[TODO] switch 1 cantrip 
 
 ## Feats and Actions
 ### Actions
@@ -65,11 +83,11 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
   [Guidance](./../spells.md#spells-g#guidance)
-  [Poison Spray](./../spells.md#spells-p#poison-spray)
+  [Poison Spray *(High Elf)*](./../spells.md#spells-p#poison-spray)
   [Primal Savagery](./../spells.md#spells-p#primal-savagery)
 
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
-  [Detect Magic (Ritual)](./../spells.md#spells-d#detect-magic)
+  [Detect Magic (Ritual) *(High Elf)*](./../spells.md#spells-d#detect-magic)
   [Speak with Animals (Ritual)](./../spells.md#spells-s#speak-with-animals)
   [Wild Companion *(Cast as Spell or with 1 Wild Shape Charge, lasts until Long Rest)*](spells.md#find-familiar)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Circle of the Moon Spells**: 

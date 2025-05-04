@@ -1,10 +1,11 @@
 # Ayra
-- **Fiend Warlock Level**: 3
+- **Fiend Warlock Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 15 ([Mage Armor](./../spells.md#spells-m#mage-armor) + DEX)
-- **HP**: 30 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 3 D8
+- **HP**: 39 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 4 D8
+- **Proficiency Bonus (PB)**: +2
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -16,13 +17,13 @@
 | .              | ☐ Stealth +2             | .             |
 
 
-| INT 10 (+0)        | WIS 10 (+0)          | CHA 17 (+3)           |
+| INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)           |
 | :----------------- | :------------------- | :-------------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +2**    | ☑ **CHA Save +5**     |
-| ☐ Arcana +0        | ☐ Animal Handling +0 | ☐ Deception +3        |
-| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +5** |
-| ☐ Investigation +0 | ☑ **Medicine +2**    | ☐ Performance +3      |
-| ☐ Nature +0        | ☐ Perception +0      | ☐ Persuasion +3       |
+| ☐ INT Save +0      | ☑ **WIS Save +2**    | ☑ **CHA Save +6**     |
+| ☐ Arcana +0        | ☐ Animal Handling +0 | ☐ Deception +4        |
+| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +6** |
+| ☐ Investigation +0 | ☑ **Medicine +2**    | ☐ Performance +4      |
+| ☐ Nature +0        | ☐ Perception +0      | ☐ Persuasion +4       |
 | ☑ **Religion +2**  | ☐ Survival +0        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons
@@ -34,7 +35,12 @@
 ## Equipment
 ### Weapons
 - **STR Based Attack Modifier**: +1 *(PB + STR)*.
+- **STR Based Attack DC**: 11 *(8 + PB + STR)*.
+
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
+- **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
+
+
   [4 Daggers](dm/items.md#dagger)
 ### Other
   [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
@@ -43,10 +49,16 @@
   [Leather Armor](dm/items.md#leather-armor)
 
 ## Spellcasting
-- **Prepared Spells**: 4
+- **Prepared Spells**: 5
 - **Spell Slots Level 2**: 2 *(Regain all after Short Rest)*
-- **Spell Attack Modifier**: +5 *(PB + CHA)*
-- **Spell Save DC**: 13 *(8 + PB + CHA)* 
+- **Spell Attack Modifier**: +6 *(PB + CHA)*
+- **Spell Save DC**: 14 *(8 + PB + CHA)* 
+
+[TODO] 1 more prepared spell
+[TODO] switch 1 prepared spell
+[TODO] 1 more cantrip 
+[TODO] switch 1 cantrip 
+[TODO] switch 1 eldritch invocation
 
 ## Feats and Actions
 
@@ -114,14 +126,12 @@
 - **Expend HP Dice to regain HP**
   Regain *(d8 + CON)* HP per expended die.
 - **Regain all Spell Slots**
-
 ### After Long Rest
 - **Regain all HP**
 - **Regain [*Level / 2 (round down)*] HP Dice**
 - **Regain all Spell Slots**
 - **Regain the Healing Hands Charge**
 - **Regain the Magical Cunning Charge**
-
 ### After Level-Up
 - **Recalculate HP**
 - **Add 1 HP Die**
