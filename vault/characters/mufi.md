@@ -1,19 +1,19 @@
 # Mufi
-- **Arcane Trickster Rogue Level**: 3
+- **Arcane Trickster Rogue Level**: 4
 ## Stats and Proficiencies
-- **Initiative**: +3 *(DEX)*
-- **AC**: 14 ([Leather Armor](dm/items.md#leather-armor) + DEX)
-- **HP**: 21 *(3 + [5 + CON] * Level)*
-- **HP Dice**: 3 D8
+- **Initiative**: +4 *(DEX)*
+- **AC**: 15 ([Leather Armor](dm/items.md#leather-armor) + DEX)
+- **HP**: 27 *(3 + [5 + CON] * Level)*
+- **HP Dice**: 4 D8
 - **Size**: [Small](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 8 (-1)     | DEX 17 (+3)               | CON 13 (+1)   |
+| STR 8 (-1)     | DEX 17 (+4)               | CON 13 (+1)   |
 | :------------- | :------------------------ | :------------ |
-| ☐ STR Save -1  | ☑ **DEX Save +5**         | ☐ CON Save +1 |
-| ☐ Athletics +1 | ☑ **Acrobatics +5**      | .             |
-| .              | ☑☑ **Sleight of Hand +7** | .             |
-| .              | ☑☑ **Stealth +7**          | .             |
+| ☐ STR Save -1  | ☑ **DEX Save +6**         | ☐ CON Save +1 |
+| ☐ Athletics +1 | ☑ **Acrobatics +6**      | .             |
+| .              | ☑☑ **Sleight of Hand +8** | .             |
+| .              | ☑☑ **Stealth +8**          | .             |
 
 
 | INT 16 (+3)            | WIS 12 (+1)          | CHA 8 (-1)        |
@@ -30,10 +30,18 @@
 - **Tool Proficiencies**: [Thieves' Tools](dm/items.md#thieves-tools), [Tinker's Tools](dm/items.md#tinkers-tools)
 - **Languages**: Common, Halfling, Draconic, Primordial (Aquan Dialect), Thieves' Cant
 
+
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +1             | +6             | +5            | -             | -             |
+| Save DC         | 9              | 14             | 13            | -             | -             |
+
+
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +1 *(PB + STR)*.
-- **DEX Based Attack Modifier**: +5 *(PB + DEX)*.
   [Shortbow](dm/items.md#shortbow)
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
@@ -44,10 +52,13 @@
   [Burglar's Pack](dm/items.md#burglars-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 3 
-- **Spell Slots Level 1**: 2 
-- **Spell Attack Modifier**: +5 *(PB + INT)*
-- **Spell Save DC**: 13 *(8 + PB + INT)* 
+- **Prepared Spells**: 4 
+- **Spell Slots Level 1**: 3 
+
+[TODO] 1 more prepared spell
+[TODO] switch 1 prepared spell
+[TODO] switch 1 cantrip 
+
 
 ## Feats and Actions
 

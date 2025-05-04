@@ -8,10 +8,10 @@
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
-| STR 17 (+3)        | DEX 8 (-1)           | CON 14 (+2)   |
+| STR 18 (+4)        | DEX 8 (-1)           | CON 14 (+2)   |
 | :----------------- | :------------------- | :------------ |
-| ☐ STR Save +3      | ☐ DEX Save -1        | ☐ CON Save +2 |
-| ☑ **Athletics +5** | ☐ Acrobatics -1      | .             |
+| ☐ STR Save +4      | ☐ DEX Save -1        | ☐ CON Save +2 |
+| ☑ **Athletics +6** | ☐ Acrobatics -1      | .             |
 | .                  | ☐ Sleight of Hand -1 | .             |
 | .                  | ☐ Stealth -1         | .             |
 
@@ -30,10 +30,17 @@
 - **Tool Proficiencies**: [Smith's Tools](dm/items.md#smiths-tools)
 - **Languages**: Common, Goliath, Halfling
 
+
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +6             | +1             | -             | -             | +5            |
+| Save DC         | 14             | 9              | -             | -             | 13            |
+
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +5 *(PB + STR)*.
-- **DEX Based Attack Modifier**: +1 *(PB + DEX)*.
   [Warhammer](dm/items.md#warhammer)
   [6 Javelins](dm/items.md#javelin)
 
@@ -44,14 +51,14 @@
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
   - 50 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
 
+[TODO] smith skill points reduction on the plate here
+[TODO] 1 more prepared spell
 
 ## Spellcasting
-- **Prepared Spells**: 4
+- **Prepared Spells**: 5
 - **Spell Slots Level 1**: 3 
-- **Spell Attack Modifier**: +5 *(PB + CHA)*
-- **Spell Save DC**: 13 *(8 + PB + CHA)* 
 - **Channel Divinity Charges:** 2 *(Regain 1 after Short Rest, regain all after Long Rest)*
-- **Lay on Hands Charges:** 15 *([5 * your Paladin Level] Regain all after Long Rest)*
+- **Lay on Hands Charges:** 20 *([5 * your Paladin Level] Regain all after Long Rest)*
 
 ## Feats and Actions
 ### Actions

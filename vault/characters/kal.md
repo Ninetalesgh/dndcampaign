@@ -31,20 +31,16 @@
 - **Tool Proficiencies**: [Herbalism Kit](dm/items.md#herbalism-kit), [Weaver's Tools](dm/items.md#weavers-tools)
 - **Languages**: Common, Elvish, Druidic, Abyssal
 
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +3             | +4             | -             | +6            | -             |
+| Save DC         | 11             | 12             | -             | 14            | -             |
+
 ## Equipment
 ### Weapons
-
-|     | STR Attack | DEX Attack |
-| --: | :--------- | :--------- |
-| Modifier | +3    | +4 |
-| Save DC | 11 | 12 | 
-
-
-
-- **STR Based Attack Modifier**: +3 *(PB + STR)*.
-- **STR Based Attack DC**: 11 *(8 + PB + STR)*.
-- **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
-- **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
 
   [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
   [Quarterstaff](dm/items.md#quarterstaff)
@@ -59,8 +55,6 @@
 - **Prepared Spells**: 7
 - **Spell Slots Level 1**: 4
 - **Spell Slots Level 2**: 3
-- **Spell Attack Modifier**: +6 *(PB + WIS)*
-- **Spell Save DC**: 14 *(8 + PB + WIS)* 
 - **Wild Shapes Prepared**: 4
 - **Wild Shape Charges**: 2 *(Regain 1 after Short Rest, all after Long Rest)*
 

@@ -9,7 +9,7 @@
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR $ (-$)         | DEX $ (+$)          | CON 13 (+$)       |
+| STR $ (-$)         | DEX $$ (+$)          | CON $$ (+$)       |
 | :----------------- | :------------------- | :---------------- |
 | ☐ STR Save -$      | ☑ **DEX Save +$**    | ☐ CON Save +1     |
 | ☐ Athletics -$     | ☐ Acrobatics +$      | .                 |
@@ -17,25 +17,30 @@
 | .                  | ☑ **Stealth +$**     | .                 |
 
 
-| INT 10 (+0)        | WIS 18 (+4)              | CHA 10 (+0)        |
+| INT $$ (+$)        | WIS $$ (+$)              | CHA $$ (+$)        |
 | :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +7**        | ☐ CHA Save +0      |
-| ☐ Arcana +0        | ☑ **Animal Handling +7** | ☐ Deception +0     |
-| ☐ History +0       | ☐ Insight +4             | ☐ Intimidation +0  |
-| ☐ Investigation +0 | ☑ **Medicine +7**        | ☐ Performance +0   |
-| ☑☑ **Nature +6**   | ☐ Perception +4          | ☐ Persuasion +0    |
-| ☐ Religion +0      | ☑ **Survival +7**        | .                  |
+| ☐ INT Save +$      | ☑ **WIS Save +$**        | ☐ CHA Save +$      |
+| ☐ Arcana +$        | ☑ **Animal Handling +$** | ☐ Deception +$     |
+| ☐ History +$       | ☐ Insight +$             | ☐ Intimidation +$  |
+| ☐ Investigation +$ | ☑ **Medicine +$**        | ☐ Performance +$   |
+| ☑☑ **Nature +$**   | ☐ Perception +$          | ☐ Persuasion +$    |
+| ☐ Religion +$      | ☑ **Survival +$**        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
 - **Tool Proficiencies**: 
 - **Languages**: Common, 
 
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +$             | +$             | -             | -             | -             |
+| Save DC         | $$             | $$             | -             | -             | -             |
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +$ *(PB + STR)*.
-- **DEX Based Attack Modifier**: +$ *(PB + DEX)*.
 ### Other
 
 
@@ -43,8 +48,6 @@
 - **Prepared Spells**: $
 - **Spell Slots Level 1**: $
 - **Spell Slots Level 2**: $
-- **Spell Attack Modifier**: +$ *(PB + WIS)*
-- **Spell Save DC**: $ *(8 + PB + WIS)* 
 
 ## Feats and Actions
 ### Actions

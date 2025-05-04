@@ -1,17 +1,17 @@
 # Kazimir
-- **Battle Master Fighter Level**: 3
+- **Battle Master Fighter Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
-- **HP**: 28 *(4 + [6 + CON] * Level)*
-- **HP Dice**: 3 D10
+- **HP**: 36 *(4 + [6 + CON] * Level)*
+- **HP Dice**: 4 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
-| STR 17 (+3)        | DEX 12 (+1)          | CON 14 (+2)       |
+| STR 18 (+4)        | DEX 12 (+1)          | CON 14 (+2)       |
 | :----------------- | :------------------- | :---------------- |
-| ☑ **STR Save +5**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
-| ☑ **Athletics +5** | ☑ **Acrobatics +3**  | .                |
+| ☑ **STR Save +6**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
+| ☑ **Athletics +6** | ☑ **Acrobatics +3**  | .                |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
@@ -31,13 +31,20 @@
 - **Languages**: Common, Undercommon, Thieves' Cant
 
 [TODO] 1 Tool Proficiency
+[TODO] 3 total second wind charges
+[TODO] 1 extra weapon mastery.
+
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +6             | +3             | -             | -             | -             |
+| Save DC         | 14             | 11             | -             | -             | -             |
+
 
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +5 *(PB + STR)*.
-- **STR Based Attack DC**: 13 *(8 + PB + STR)*.
-- **DEX Based Attack Modifier**: +3 *(PB + DEX)*.
-- **DEX Based Attack DC**: 11 *(8 + PB + DEX)*.
   [Shortsword](dm/items.md#shortsword)
   [2 Daggers](dm/items.md#dagger)
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
@@ -66,7 +73,7 @@
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-  [Second Wind *(2 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#second-wind)
+  [Second Wind *(3 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#second-wind)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 

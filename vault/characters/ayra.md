@@ -32,15 +32,16 @@
 - **Languages**: Common, Infernal, Celestial
 
 
+## Combat Modifiers
+*(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
+
+|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
+| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
+| Attack Modifier | +2             | +4             | -             | -             | +6            |
+| Save DC         | 10             | 12             | -             | -             | 14            |
+
 ## Equipment
 ### Weapons
-- **STR Based Attack Modifier**: +1 *(PB + STR)*.
-- **STR Based Attack DC**: 11 *(8 + PB + STR)*.
-
-- **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
-- **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
-
-
   [4 Daggers](dm/items.md#dagger)
 ### Other
   [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
@@ -51,8 +52,6 @@
 ## Spellcasting
 - **Prepared Spells**: 5
 - **Spell Slots Level 2**: 2 *(Regain all after Short Rest)*
-- **Spell Attack Modifier**: +6 *(PB + CHA)*
-- **Spell Save DC**: 14 *(8 + PB + CHA)* 
 
 [TODO] 1 more prepared spell
 [TODO] switch 1 prepared spell
