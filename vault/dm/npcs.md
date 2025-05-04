@@ -116,6 +116,39 @@ White-Dragonborn, F. (b. 1458 DR) -> Slender ivory snout, elegant white horns, l
 - **Scenes**
   [Session 3](dm/session_notes/session_03.md#the-high-road): He gets saved by The Party from the Blights attacking on The High Road. 
 
-### Blacksmiths Seraphine Sorelle & Ronan Hammerfall
+### Tazlyn Stonewright
+**Master Architect**
+- **Scenes**
+  [Session 04](vault/dm/session_notes/session_04.md#the-crypt-level-0-left): The Party finds her sarcophagus in the South Antechamber of The Crypt.
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): The Party finds her books and notes in [Brennar Stonewright's](vault/dm/npcs.md#brennar-stonewright) Bakery.
+
+### Thalioel Moonshade
+**Grand magi of the elves**
+- **Scenes**
+  [Session 04](vault/dm/session_notes/session_04.md#the-crypt-level-0-left): The Party finds her amulet [Thalioel's Tear](dm/items.md#thalioels-tear) on [Tazlyn Stonewright's body](vault/dm/npcs.md#tazlyn-stonewright) in the South Antechamber of The Crypt.
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): The Party reads about her friendship with [Tazlyn Stonewright](vault/dm/npcs.md#tazlyn-stonewright) and **The Blood Curse**.
+
+### Brennar Stonewright
+**The Baker**
+- **Scenes**
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): The Party meet him in his bakery and steal [Tazlyn Stonewright's](vault/dm/npcs.md#tazlyn-stonewright) book and blueprints of **The Crypt**.
+
+### Ronan Hammerfall
+**The Weaponsmith**
+- **Scenes**
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): **Nyari** meets him to rent an anvil and learns that he is interested in rare metals and The Party can sell jewelery at a bad rate here.
+
+### Seraphene Sorelle
+**The Armorsmith**
+- **Scenes**
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): [Ronan Hammerfall](vault/dm/npcs.md#ronan-hammerfall) mentions her to **Nyari**, she is currently in the lowlands visiting a client.
+
+### Zariel
+**Archduke of Avernus, The First Layer of Hell**
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): [Mizora](vault/dm/npcs.md#mizora) mentions her to **Ayra**, telling her that the souls Ayra collects are being thrown into eternal battlefield in **The Blood War** for **Zariel** against [Thrazzt'ryl](vault/dm/npcs.md#thrazztryl).
+
+### Thrazzt'ryl
+**General of Legion Thornmantle**
+  [Session 06](vault/dm/session_notes/session_06.md#introduction): [Mizora](vault/dm/npcs.md#mizora) mentions them to **Ayra**, telling her that the souls Ayra collects are being thrown into eternal battlefield in **The Blood War** for **Zariel** against **Thrazzt'ryl**.
 
 ### General Merchant Sam Perrin

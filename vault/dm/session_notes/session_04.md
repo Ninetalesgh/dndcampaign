@@ -50,7 +50,7 @@ Alenna mentions daughter.
   - Contains: silver (20) gold (70), 
   [Thalioel's Tear](dm/items.md#thalioels-tear), a warm red tear shaped amulet.
     **Read**:
-      "**Tazlyn Stonewright**
+      "[Tazlyn Stonewright](vault/dm/npcs.md#tazlyn-stonewright)
       Master Architect of Stone and Spirit
       Her hands shaped halls and paths for Dwarves and Humans,
       Her vision carved the future in granite and stone.
