@@ -63,6 +63,7 @@
 [TODO] switch 1 prepared spell
 [TODO] 1 more cantrip 
 [TODO] switch 1 cantrip 
+[TODO] lvl 4 feat
 
 ## Feats and Actions
 ### Actions

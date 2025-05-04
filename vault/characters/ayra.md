@@ -59,6 +59,8 @@
 [TODO] switch 1 cantrip 
 [TODO] switch 1 eldritch invocation
 
+[TODO] lvl 4 feat
+
 ## Feats and Actions
 
 ### Actions

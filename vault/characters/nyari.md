@@ -53,6 +53,7 @@
 
 [TODO] smith skill points reduction on the plate here
 [TODO] 1 more prepared spell
+[TODO] lvl 4 feat
 
 ## Spellcasting
 - **Prepared Spells**: 5

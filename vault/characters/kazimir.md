@@ -33,6 +33,7 @@
 [TODO] 1 Tool Proficiency
 [TODO] 3 total second wind charges
 [TODO] 1 extra weapon mastery.
+[TODO] lvl 4 feat
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
