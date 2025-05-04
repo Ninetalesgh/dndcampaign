@@ -1,10 +1,10 @@
 # Nyari
-- **Paladin of the Ancients Level**: 3
+- **Paladin of the Ancients Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +1 *(PB + DEX)*
 - **AC**: 19 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield) + Defense)
-- **HP**: 28 *(4 + [6 + CON] * Level)*
-- **HP Dice:** 3 D10
+- **HP**: 36 *(4 + [6 + CON] * Level)*
+- **HP Dice:** 4 D10
 - **Size**: [Medium](./../game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
