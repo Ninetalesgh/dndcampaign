@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Adventures in New Arvandal</title>
+  <link rel="stylesheet" href="tools/style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container" style="padding:0;height:100vh;">
+    <div class="row" style="align-items:start;height:100vh;">
+      <div class="col-2 nav-wrapper"
+        style="width:auto;min-width:100px;max-width:110px;flex-basis:20%;padding:0;height:100vh;">
+        <div class="navigation" style="width:110px;min-width:90px;height:100vh;">
+          <div class="page-selection">
+            <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
+              <li><button class="btn" style="text-align:left;width:100%;"
+                onclick="setContentPage('/oneshots/darri_paladin.md')">Paladin</button></li>
+              <li><button class="btn" style="text-align:left;width:100%;"
+                onclick="setContentPage('/oneshots/maria_wizard.md')">Wizard</button></li>
+              <li><button class="btn" style="text-align:left;width:100%;"
+                onclick="setContentPage('/oneshots/klara.md')">Klara</button></li>
+              <li style="font-size:12px;">Page Input:</li>
+              <li style="margin-top:5px;"><input type="text" class="temp-input" style="width:80%;height:26px;"><button
+                  onclick="onPageInputFieldConfirmed()" class="btn-right-side" style="text-align:left;width:20%;"><img
+                    src="https://bg3.wiki/w/images/f/f2/Action_Icon.png"
+                    style="width:25px;border:none;background:transparent;border-radius:3px;padding:0;"></button></li>
+            </ul>
+            <ul style="margin:0;padding:0;margin:10px 0 0 0;text-align:left;border:none;">
+            </ul>
+            <ul style="margin:0;padding:0;margin-top:10px;text-align:left;border:none;">
+              <li><button class="btn" style="text-align:left;width:100%;"
+                  onclick="setContentPage('/game_rules.md')">General Rules</button></li>
+              <li><button class="btn" style="text-align:left;width:100%;"
+                  onclick="setContentPage('/merchant_wares.md')">Merchants' Wares</button></li>
+              <li><button class="btn" style="text-align:left;width:100%;"
+                  onclick="setContentPage('/spells.md')">Spells</button></li>
+              <!-- <li><button class="btn" style="text-align:left;width:100%;" onclick="setContentPage('/conditions.md')">Conditions</button></li> -->
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-2 dndcontent" style="width:auto;min-width:100px;flex-basis:55%;"></div>
+
+      <div class="col-2 nav-wrapper" style="width:auto;min-width:100px;flex-basis:25%;padding:0;height:100vh;">
+        <div class="navigation" style="width:auto;min-width:100px;">
+          <div class="dndindex"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="tools/ws_client.js"></script>
+  <script src="tools/md_sorter.js"></script>
+  <script src="tools/md_parser.js"></script>
+  <script src="tools/csv_parser.js"></script>
+  <script src="tools/json_parser.js"></script>
+  <script src="tools/cookies.js"></script>
+  <script src="tools/main.js"></script>
+  <script>
+    function setNavPosition() {
+      const navigationDivs = document.querySelectorAll('.navigation');
+      navigationDivs.forEach((navigation) => {
+        const wrapperRect = navigation.parentElement.getBoundingClientRect();
+        {
+          const computedStyle = window.getComputedStyle(navigation);
+          const minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
+          const currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
+          const currentHeight = parseFloat(computedStyle.getPropertyValue('height'));
+          const pages = document.querySelector('.page-selection');
+          const dndIndex = document.querySelector('.dndindex');
+          //TODO this is getting computed ALL for each navigation div now, instead of separately for each
+          pages.style.maxHeight = `${currentHeight}px`;
+          dndIndex.style.maxHeight = `${currentHeight}px`;
+          var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
+        }
+
+        navigation.style.width = `${wrapperRect.width}px`;
+
+        if (window.scrollY > 0 && hasSpaceNextToContent) {
+          navigation.style.position = 'fixed';
+          navigation.style.top = 0;
+          navigation.style.left = `${wrapperRect.left}px`;
+        }
+        else {
+          navigation.style.position = 'relative';
+          navigation.style.top = '0px';
+          navigation.style.left = '0px';
+        }
+      });
+    }
+
+
+    // EXECUTION
+    {
+      const urlParams = new URLSearchParams(window.location.search);
+      const host = window.location.hostname;
+      const port = window.location.port;
+      let contentPageUrl = '/game_rules.md';
+
+      for (const [key, value] of urlParams) {
+        if (key === 'page') {
+            contentPageUrl = `oneshots/${value}.md`;
+          if (port === '8080') {
+            connectToLocalServer(`${value}`, host);
+          }
+          else {
+            contentPageUrl = `oneshots/${value}.md`;
+          }
+        }
+      }
+      setContentPage(contentPageUrl);
+
+      window.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          const tempInput = document.querySelector('.temp-input');
+          if (tempInput === document.activeElement) {
+            onPageInputFieldConfirmed();
+          }
+        }
+      });
+      window.addEventListener('scroll', setNavPosition);
+      window.addEventListener('resize', setNavPosition);
+      window.addEventListener('load', () => {
+        const navigation = document.querySelector('.navigation');
+        navigation.style.top = '0px';
+      });
+    }
+
+  </script>
+
+</body>
+
+</html>
