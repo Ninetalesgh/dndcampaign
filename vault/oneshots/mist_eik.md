@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +0 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: 44 *(4 + [6 + CON] * Level)*
+- **HP**: 49 *(4 + [7 + CON] * Level)*
 - **HP Dice**: 5 D10
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -31,7 +31,7 @@
 - **Tool Proficiencies**:
 - **Languages**: Common,
 
-TODO lvl4 feat
+TODO cool greatclub
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
@@ -94,7 +94,7 @@ TODO lvl4 feat
   [Dwarven Resilience](vault/feats.md#dwarven-resilience)
   [Dwarven Toughness](vault/feats.md#dwarven-toughness)
   [Extra Attack](vault/feats.md#extra-attack)
-
+  [Charger](vault/feats.md#charger)
 - **Savage Attacker.** Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll.
 
 # Paladin Spell Reference

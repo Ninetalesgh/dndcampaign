@@ -27,11 +27,9 @@
 | ☐ Religion +0      | ☐ Survival +0        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons
-- **Armor Proficiencies**: - 
-- **Tool Proficiencies**: 
-- **Languages**: Common, Orcish, Abyssal 
-
-
+- **Armor Proficiencies**: -
+- **Tool Proficiencies**:
+- **Languages**: Common, Orcish, Abyssal
 
 ## Equipment
 ### Weapons
@@ -40,6 +38,7 @@
 - **DEX Based Attack Modifier**: +4 *(PB + DEX)*.
 - **DEX Based Attack DC**: 12 *(8 + PB + DEX)*.
 ### Other
+  [Gul'Dan's Skull Chalice](vault/dm/items.md#guldans-skull-chalice)
 
 ## Spellcasting
 - **Prepared Spells**: 9
@@ -47,7 +46,7 @@
 - **Spell Slots Level 2**: 3
 - **Spell Slots Level 3**: 2
 - **Spell Attack Modifier (SAM)**: +7 *(PB + CHA)*
-- **Spell Save DC**: 15 *(8 + PB + CHA)* 
+- **Spell Save DC**: 15 *(8 + PB + CHA)*
 - **Sorcery Points**: 5 *(Sorcerer Level)*
 
 - **Metamagic**:
@@ -56,7 +55,7 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:
   [Attack](game_rules.md#turn-based-play#attack)
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
@@ -67,7 +66,7 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**:
   [Sorcerous Burst](spells.md#spells-s#sorcerous-burst)
   [Friends](spells.md#spells-f#friends)
   [Message](spells.md#spells-m#message)
@@ -79,7 +78,7 @@
   [Font of Magic](vault/feats.md#font-of-magic)
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 

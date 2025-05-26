@@ -31,7 +31,7 @@
 - **Tool Proficiencies**:
 - **Languages**: Common, Elvish, Undercommon
 
-TODO lvl4 feat
+TODO magical scimitar
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
@@ -71,6 +71,8 @@ TODO lvl4 feat
   [Dancing Lights](spells.md#spells-d#dancing-lights)
   [Faerie Fire *(1 free use per Long Rest)*](spells.md#spells-f#faerie-fire)
   [Darkness *(1 free use per Long Rest)*](spells.md#spells-d#darkness)
+  [Booming Blade](spells.md#spells-b#booming-blade)
+  [Chill Touch](spells.md#spells-c#chill-touch)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
@@ -92,6 +94,7 @@ TODO lvl4 feat
   [Keen Senses](vault/feats.md#keen-senses)
   [Fey Ancestry](vault/feats.md#fey-ancestry)
   [Trance](vault/feats.md#trance)
+  [Spell Sniper](vault/feats.md#spell-sniper)
 
 # Wizard Spells
 ## Cantrips
