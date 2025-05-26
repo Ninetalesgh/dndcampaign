@@ -143,6 +143,10 @@ When you hit a creature with a **Melee or Ranged Attack**, you can expend one Su
 As a **Bonus Action**, you can open your awareness to detect **Celestials**, **Fiends**, and **Undead**. For the next 10 minutes or until you are [Incapacitated](conditions.md#incapacitated), you know the location of any creature of those types within range 12 *(18m)*  of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the [Hallow](spells.md#hallow) spell.
 ![\|50](https://bg3.wiki/w/images/4/41/Divine_Sense_Icon.webp)
 
+### Inspiring Smite
+Immediately after you cast [Divine Smite](spells.md#spells-d#divine-smite), you can expend one use of your **Channel Divinity** and distribute Temporary HP to creatures of your choice within range 6 *(9m)* of yourself, which can include you. The total number of Temporary HP equals 2d8 + your Paladin level, divided among the chosen creatures however you like.
+![\|50](https://bg3.wiki/w/images/2/2a/Inquisitor%27s_Might_Icon.webp)
+
 ### Lay on Hands
 As a **Bonus Action**, you can touch a creature and spend any number of Lay on Hands Charges. That creature heals for that amount. You can reduce the heal received by 5 to also remove [Poisoned](conditions.md#poisoned). *([5 * Paladin Level] Charges per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/5/5d/Lay_on_Hands_Greater_Healing_Icon.webp)
@@ -151,8 +155,12 @@ As a **Bonus Action**, you can touch a creature and spend any number of Lay on H
 As a **Magic Action**, you can expend one use of your **Channel Divinity** to conjure spectral vines around nearby creatures.
 Each creature of your choice that you can see within range 3 *(4.5m)* of yourself must succeed on a STR Save or be [Restrained](conditions.md#restrained) for 1 minute. A Restrained creature repeats the save at the end of each of its turns, ending the effect on itself on a success.
 ![\|50](https://bg3.wiki/w/images/6/68/Nature%27s_Wrath_Icon.webp)
-## Ranger
 
+### Peerless Athlete
+As a **Bonus Action**, you can expend one use of your **Channel Divinity** to augment your athleticism. For 1 hour, you have **Advantage** on Strength (**Athletics**) and Dexterity (**Acrobatics**) checks, and the distance of your Long and High Jumps increases by 2 *(3m)* (this extra distance costs movement as normal).
+![\|50](https://bg3.wiki/w/images/2/2b/Remarkable_Athlete_Jump_Icon.webp)
+
+## Ranger
 ### Primal Companion
 You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, [Beast of the Sea](vault/feats.md#beast-of-the-sea), or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
@@ -544,6 +552,30 @@ You perform a rite for 1 minute. At the end of it, you regain Spell Slots equal 
 ![\|50](https://bg3.wiki/w/images/1/11/Natural_Recovery_Icon.webp)
 
 ## Wizard
+### Arcane Recovery
+You can regain some of your magical energy by studying your spellbook. When you finish a **Short Rest**, you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/e/ed/Arcane_Recovery_Icon.webp)
+
+### Bladesong
+As a **Bonus Action**, if you aren't wearing Medium- or Heavy Armor or using a Shield, you can start the Bladesong, which lasts for **1 minute**. It ends early if you are [Incapacitated](vault/conditions.md#incapacitated), if you don Medium- or Heavy Armor or a Shield, or if you use **two hands** to make an attack with a weapon. You can also dismiss Bladesong at any time you choose (no Action required).
+While your bladesong is active, you gain the following benefits:
+- You gain *(+INT modifier)* **AC** (minimum of +1).
+- Your walking speed increases by 2 *(3m)*.
+- You have advantage on DEX (**Acrobatics**) checks.
+- You gain *(+INT modifier)* to any **CON Saves** you make to maintain [Concentration](conditions.md#concentration) on a spell (minimum of +1).
+*(PB times per Long Rest)*
+![\|50](https://bg3.wiki/w/images/8/80/Bladesong_Icon.webp)
+
+### Memorize Spell
+Whenever you finish a **Short Rest**, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
+
+### Scholar
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: **Arcana**, **History**, **Investigation**, **Medicine**, **Nature**, or **Religion**. You have **Expertise** in the chosen skill.
+
+### Training in War and Song
+You gain proficiency with Light Armor, and with one type of one-handed Melee Weapon of your choice.
+You also gain proficiency in the **Performance** skill.
+![\|50](https://bg3.wiki/w/images/d/d2/Training_in_War_and_Song_Icon.webp)
 
 ### Shapechanger CUSTOM
 **Action**, *Choose one of the following*:
@@ -571,6 +603,27 @@ STR | DEX | CON
 
 
 # Lineage Feats
+## Dwarf
+### Dwarven Resilience
+You have Resistance to **Poison** damage. You also have Advantage on Saves against [Poisoned](conditions.md#poisoned).
+![\|50](https://bg3.wiki/w/images/1/16/Dwarven_Resilience_Icon.webp)
+### Dwarven Toughness
+Your HP maximum increases by 1 per level.
+![\|50](https://bg3.wiki/w/images/e/e8/Dwarven_Armour_Training_Icon.webp)
+### Stonecunning
+As a **Bonus Action**, you gain [Tremorsense 12 *(18m)*](game_rules.md#advanced-rules#tremorsense) for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked. *(PB times per Long Rest)*
+![\|50](https://bg3.wiki/w/images/3/38/Superior_Darkvision_Icon.webp)
+## Elf
+### Fey Ancestry
+You have Advantage on Saves against [Charmed](./../conditions.md#charmed).
+![\|50](https://bg3.wiki/w/images/0/05/Fey_Ancestry_Icon.webp)
+### Keen Senses
+You have proficiency in the Insight, Perception, or Survival skill.
+![\|50](https://bg3.wiki/w/images/0/0d/Darkvision_Icon.webp)
+### Trance
+You don't need to sleep, and magic can't put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+![\|50](https://bg3.wiki/w/images/0/0b/Purity_of_Body_Icon.webp)
+
 ## Goliath
 ### Stone's Endurance
 As a Reaction when you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
