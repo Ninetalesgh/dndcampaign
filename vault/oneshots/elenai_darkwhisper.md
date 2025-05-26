@@ -1,30 +1,30 @@
-# Template
-- **Drow - TODO Wizard - Level**: 5
+# Elenai Darkwhisper
+- **Drow - Bladesinger Wizard - Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX)*
+- **Initiative**: +3 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: $ *($ + [$ + CON] * Level)*
+- **HP**: 27 *(2 + [4 + CON] * Level)*
 - **HP Dice**: 5 D6
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR $ (-$)         | DEX $$ (+$)          | CON $$ (+$)       |
+| STR 8 (-1)         | DEX 16 (+3)          | CON 12 (+1)       |
 | :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -$      | ☑ **DEX Save +$**    | ☐ CON Save +1     |
-| ☐ Athletics -$     | ☐ Acrobatics +$      | .                 |
-| .                  | ☐ Sleight of Hand +$ | .                 |
-| .                  | ☑ **Stealth +$**     | .                 |
+| ☐ STR Save -1      | ☐ DEX Save +3        | ☐ CON Save +1     |
+| ☐ Athletics -1     | ☑ **Acrobatics +6**  | .                 |
+| .                  | ☐ Sleight of Hand +3 | .                 |
+| .                  | ☐ Stealth +3         | .                 |
 
 
-| INT $$ (+$)        | WIS $$ (+$)              | CHA $$ (+$)        |
-| :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +$      | ☑ **WIS Save +$**        | ☐ CHA Save +$      |
-| ☐ Arcana +$        | ☑ **Animal Handling +$** | ☐ Deception +$     |
-| ☐ History +$       | ☐ Insight +$             | ☐ Intimidation +$  |
-| ☐ Investigation +$ | ☑ **Medicine +$**        | ☐ Performance +$   |
-| ☑☑ **Nature +$**   | ☐ Perception +$          | ☐ Persuasion +$    |
-| ☐ Religion +$      | ☑ **Survival +$**        | .                  |
+| INT 18 (+4)            | WIS 13 (+1)              | CHA 8 (-1)           |
+| :--------------------- | :----------------------- | :------------------- |
+| ☑ **INT Save +7**      | ☑ **WIS Save +4**        | ☐ CHA Save -1        |
+| ☑ **Arcana +7**        | ☐ Animal Handling +1     | ☐ Deception -1       |
+| ☐ History +4           | ☑ **Insight +4**         | ☐ Intimidation -1    |
+| ☑ **Investigation +7** | ☐ Medicine +1            | ☑ **Performance +2** |
+| ☐ Nature +4            | ☐ Perception +1          | ☐ Persuasion -1      |
+| ☐ Religion +4          | ☐ Survival +1            | .                    |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: -
@@ -42,8 +42,8 @@ TODO drow feats
 
 |                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
 | --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +$             | +$             | -             | -             | -             |
-| Save DC         | $$             | $$             | -             | -             | -             |
+| Attack Modifier | +2             | +6             | +7            | -             | -             |
+| Save DC         | 10             | 14             | 15            | -             | -             |
 
 ## Equipment
 ### Weapons

@@ -1,43 +1,47 @@
 # Template
-- **Dwarf - TODO Paladin - Level**: 5
+- **Dwarf - Oath of Glory Paladin - Level**: 5
 ## Stats and Proficiencies
-- **Initiative**: +$ *(DEX)*
+- **Initiative**: +0 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: $ *($ + [$ + CON] * Level)*
+- **HP**: 44 *(4 + [6 + CON] * Level)*
 - **HP Dice**: 5 D10
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR $ (-$)         | DEX $$ (+$)          | CON $$ (+$)       |
+| STR 18 (+4)         | DEX 10 (+0)          | CON 14 (+2)      |
 | :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -$      | ☑ **DEX Save +$**    | ☐ CON Save +1     |
-| ☐ Athletics -$     | ☐ Acrobatics +$      | .                 |
-| .                  | ☐ Sleight of Hand +$ | .                 |
-| .                  | ☑ **Stealth +$**     | .                 |
+| ☐ STR Save +4      | ☐ DEX Save +0        | ☐ CON Save +2     |
+| ☑ **Athletics +7** | ☐ Acrobatics +0      | .                 |
+| .                  | ☐ Sleight of Hand +0 | .                 |
+| .                  | ☐ Stealth +0         | .                 |
 
 
-| INT $$ (+$)        | WIS $$ (+$)              | CHA $$ (+$)        |
-| :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +$      | ☑ **WIS Save +$**        | ☐ CHA Save +$      |
-| ☐ Arcana +$        | ☑ **Animal Handling +$** | ☐ Deception +$     |
-| ☐ History +$       | ☐ Insight +$             | ☐ Intimidation +$  |
-| ☐ Investigation +$ | ☑ **Medicine +$**        | ☐ Performance +$   |
-| ☑☑ **Nature +$**   | ☐ Perception +$          | ☐ Persuasion +$    |
-| ☐ Religion +$      | ☑ **Survival +$**        | .                  |
+| INT 10 (+0)        | WIS 10 (+0)              | CHA 14 (+2)         |
+| :----------------- | :----------------------- | :------------------ |
+| ☐ INT Save +0      | ☑ **WIS Save +3**        | ☑ **CHA Save +5**   |
+| ☐ Arcana +0        | ☐ Animal Handling +0     | ☐ Deception +2      |
+| ☑ **History +3**   | ☐ Insight +0             | ☐ Intimidation +2   |
+| ☐ Investigation +0 | ☐ Medicine +0            | ☐ Performance +2    |
+| ☐ Nature +0        | ☐ Perception +0          | ☑ **Persuasion +5** |
+| ☐ Religion +0      | ☑ **Survival +3**        | .                   |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
-- **Tool Proficiencies**: 
-- **Languages**: Common, 
+- **Tool Proficiencies**:
+- **Languages**: Common,
+
+TODO dwarf feats
+origin feat + lvl4 feat
+oath of glory feats
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 
 |                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
 | --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +$             | +$             | -             | -             | -             |
-| Save DC         | $$             | $$             | -             | -             | -             |
+| Attack Modifier | +7             | +3             | -             | -             | +5            |
+| Save DC         | 15             | 11             | -             | -             | 13            |
 
 ## Equipment
 ### Weapons
@@ -54,7 +58,7 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:
   [Attack](game_rules.md#turn-based-play#attack)
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
@@ -64,17 +68,17 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
 
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
 
 ### Passive Feats
 
