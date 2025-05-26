@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +3 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: 27 *(2 + [4 + CON] * Level)*
+- **HP**: 37 *(2 + [6 + CON] * Level)*
 - **HP Dice**: 5 D6
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -27,7 +27,7 @@
 | ☐ Religion +4          | ☐ Survival +1            | .                    |
 
 - **Weapon Proficiencies**: Simple Weapons
-- **Armor Proficiencies**: -
+- **Armor Proficiencies**: Light Armor
 - **Tool Proficiencies**:
 - **Languages**: Common, Elvish, Undercommon
 
@@ -84,6 +84,8 @@ TODO drow feats
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
 
 ### Passive Feats
+
+- [Tough](feats.md#tough) *(Already included above)*
 
 # Wizard Spells
 ## Cantrips
