@@ -1,5 +1,4 @@
 
-
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2
@@ -2091,6 +2090,279 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 355)*
 
 ## Monsters R
+### Ratfolk Breach Vermin
+**CR**: 1
+*Medium humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +2
+- **AC**: 15 (scavenged junk)
+- **HP**: 65 (10d8 + 20)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+15 (+2) | 14 (+2) | 15 (+2) | 12 (+1) | 10 (+0) | 9 (-1) 
+
+- **Skills**: perception: +2, stealth: +4
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: 
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+   - **Breach-Sneak**. A creature that is Surprised by one or more breach vermin must succeed on a DC 12 WIS Save or be [Frightened](conditions.md#frightened) for the next minute (Save Ends at end of turn).
+- **Actions**: 
+   - **Multiattack**. The ratfolk makes two attacks, one of which can be with its Steal-Eater Gnaw.
+   - **Steel-Eater Gnaw-Jaw**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (2d4 + 2) piercing damage.
+   - **Makeshift Hackspear**. *Melee Attack:* +4 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 6 (1d8 + 2) slashing damage.
+   On a roll of 1, the weapon breaks and the target takes half the attack's damage, then must succeed on a DC 12 CON Save or be infected with [Frothjaw](conditions.md#frothjaw).
+   - **Clawful Wrest**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* The target must succeed on a DC 12 STR Save or have one object it is wielding torn from its grasp.
+- **Bonus Actions**: 
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+
+### Ratfolk Clawpack
+**CR**: 2
+*Huge humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +2
+- **AC**: 12
+- **HP**: 49 (11d8)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+15 (+2) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) | 9 (-1) 
+
+- **Resistances**: damage from attacks;
+- **Immunities**: [Charmed](conditions.md#charmed), [Frightened](conditions.md#frightened), [Grappled](conditions.md#grappled), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone), [Restrained](conditions.md#restrained), [Stunned](conditions.md#stunned)
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: 
+   - **Swarm**. The clawpack can occupy another creature's space and vice versa, it can move through any opening large enough for a single ratfolk, and it can't regain HP.
+   - **Crush of Bodies**. A Medium or smaller creature that starts its turn in the clawpack's space must succeed on a DC 12 STR Save or be [Grappled](conditions.md#grappled) (escape DC 12) until the beginning of its next turn.
+- **Actions**: 
+   - **Tear Apart**. *Melee Attack:* +4 to hit, reach 0 *(0m)*, one target. 
+    *Hit:* 17 (6d4 + 2) slashing damage, or 9 (3d4 + 2) slashing damage if the clawpack has fewer than half its HP.
+   A creature reduced to 0 HP by this damage must succeed on a DC 12 CON Save or immediately fail a death Save and lose a limb of its choice.
+   - **Gnaw Through**. The clawpack gains a burrow speed equal to its movement speed until the end of its turn, leaving a 5 foot wide tunnel in its wake.
+- **Bonus Actions**: 
+   - **Scurry Away!**. The clawpack moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Cringer
+**CR**: 1 *(Minion)*
+*Small humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +1
+- **AC**: 11
+- **HP**: 7 (3d6 - 3)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+8 (-1) | 13 (+1) | 9 (-1) | 12 (+1) | 10 (+0) | 9 (-1) 
+
+- **Skills**: stealth: +4
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: [Minion](dm/monster_info.md#monster-traits#minion).
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+- **Actions**: 
+   - **Ravenous Scrabble (Group Attack)**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 1 piercing damage.
+   If three or more ratfolk contributed to this attack, the target has disadvantage on any opportunity attacks it makes this turn.
+- **Bonus Actions**: 
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Fardrop Jezzailer
+**CR**: 2
+*Medium humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +4
+- **AC**: 14
+- **HP**: 55 (10d8 + 10)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+12 (+1) | 18 (+4) | 13 (+1) | 13 (+1) | 17 (+3) | 9 (-1) 
+
+- **Skills**: athletics: +3, perception: +5, stealth: +6
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: 
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+   - **Sink-Shot Brace**. The ratfolk can spend 4 *(6m)* of its movement to brace itself; until the end of its turn, the ratfolk's attacks score a critical on an 18-20 against any target at a lower elevation than it.
+- **Actions**: 
+   - **Rottooth Gnaw-Jaw**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 (1d4 + 2) piercing damage.
+   - **Clawful Wrest**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* The target must succeed on a DC 11 STR Save or have one object it is wielding torn from its grasp.
+   - **Crudebore Jezzail**. *Ranged Attack:* +6 to hit, range 8/24 *(12m/36m)*, one target. 
+    *Hit:* 10 (1d12 + 4) piercing damage.
+   On a roll of 1, the jezzail misfires, dealing 5 (2d4) fire damage to the ratfolk and Blinding it until the end of its next turn.
+- **Bonus Actions**: 
+   - **Frantic Slamfire**. The ratfolk makes a Crudebore Jezzail attack with disadvantage.
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Havocbrute
+**CR**: 6
+*Large humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +3
+- **AC**: 15 (natural armor)
+- **HP**: 142 (15d10 + 60)
+- **Speed**: walk 8 *(12m)*, climb 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+19 (+4) | 17 (+3) | 18 (+4) | 7 (-2) | 15 (+2) | 7 (-2) 
+
+- **Skills**: athletics: +7, perception: +5
+- **Immunities**: [Frightened](conditions.md#frightened)
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Languages**: Ratfolk
+- **Traits**: 
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+   - **Havocrage**. The ratfolk has advantage on attacks against the last creature to deal damage to it, and has resistance to damage from opportunity attacks provoked by moving directly toward it.
+- **Actions**: 
+   - **Multiattack**. The ratfolk makes two melee attacks, one of which it can replace with a use of its Lunging Leap.
+   - **Break-Bones Smashclaw**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 17 (3d8 + 4) bludgeoning damage and the target is pushed 1 *(1.5m)* away.
+   On a critical hit, the target must succeed on a DC 15 CON Save or lose the use of a limb of its choice until it regains all of its HP.
+   - **Flesh-Fused Ripperspike**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 14 (3d6 + 4) piercing damage.
+   A target wielding a shield must succeed on a DC 15 STR Save or have its shield flung up to 3 *(4.5m)* away.
+   - **Lunging Leap**. The ratfolk jumps up to 4 *(6m)*, then each creature within 1 *(1.5m)* of it must succeed on a DC 15 STR Save or take 7 (2d6) bludgeoning damage and be knocked [Prone](conditions.md#prone).
+- **Bonus Actions**: 
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Plaguespeaker
+**CR**: 5
+*Medium humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +3
+- **AC**: 15 (natural armor)
+- **HP**: 105 (14d8 + 42)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+14 (+2) | 17 (+3) | 16 (+3) | 13 (+1) | 10 (+0) | 17 (+3) 
+
+- **Skills**: perception: +3, medicine: +3, nature: +4
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Languages**: Common, Ratfolk, Undercommon
+- **Traits**: 
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+   - **Plague Vapors**. A non-ratfolk creature that starts its turn within 2 *(3m)* of the ratfolk must succeed on a DC 14 CON Save or be infected with a random disease from the Ratfolk Diseases Table.
+- **Actions**: 
+   - **Multiattack**. The ratfolk makes three melee attacks, one of which may be with its Rottooth Bite.
+   - **Rottooth Gnaw-Jaw**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 5 (1d4 + 3) piercing plus 14 (4d6) necrotic damage.
+   - **Plague-Censer**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) bludgeoning plus 7 (2d6) poison damage.
+   On a miss, ratfolk immediately makes an additional attack against a randomly selected target in its reach.
+   - **Echoes of the Screaming Bell (3rd Level Spell) (Recharge 5-6)**. A maddening chorus of clanging bells rings out from the ratfolk in a radius 3 *(4.5m)* radius, forcing each other creature in the area to succeed on a DC 14 CON Save or take 13 (3d8) thunder plus 13 (3d8) psychic damage.
+   A [Poisoned](conditions.md#poisoned) or Diseased creature that fails this Save additionally treats all creatures as hostile until the end of its next turn.
+- **Bonus Actions**: 
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+   - **Scabrous Renewal**. If the ratfolk took no damage since the end of its last turn, it can gain 10 temporary HP.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Ratclad
+**CR**: 3 *(Minion)*
+*Medium humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +2
+- **AC**: 14 (rathide armor)
+- **HP**: 13 (3d8)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*, climb 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+8 (-1) | 14 (+2) | 10 (+0) | 12 (+1) | 10 (+0) | 9 (-1) 
+
+- **Skills**: perception: +2, stealth: +4
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: [Minion](dm/monster_info.md#monster-traits#minion).
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+- **Actions**: 
+   - **Yellowed Bites (Group Attack)**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 3 piercing damage.
+   - **Rust-Scrap Cutters (1/Day, Group Attack)**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 4 slashing damage.
+   If three or more ratfolk contributed to this attack, the target must succeed on a DC 12 CON Save or be infected with [Frothjaw](conditions.md#frothjaw).
+- **Bonus Actions**: 
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Ratling Gunner
+**CR**: 7
+*Medium humanoid (ratfolk), Chaotic Evil*
+- **Initiative**: +4
+- **AC**: 14
+- **HP**: 157 (21d8 + 63)
+- **Speed**: walk 6 *(9m)*, burrow 1 *(1.5m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 18 (+4) | 16 (+3) | 9 (-1) | 16 (+3) | 7 (-2) 
+
+- **Skills**: intimidation: +1, perception: +6
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 16
+- **Languages**: Ratfolk, Undercommon
+- **Traits**: 
+   - **Quick Squeeze**. The ratfolk can move through any space larger than its skull without squeezing.
+   - **Boomscrap Ammo**. When the ratfolk's ratling gun jams, make an unmodified d20 roll. On a 1-5, the gun begins sparking, exploding in a radius 2 *(3m)* radius at the beginning of the ratfolk's next turn.
+   Each creature in the area must succeed on a DC 15 DEX Save or take 14 (4d6) fire damage, or half as much on a success.
+- **Actions**: 
+   - **Multiattack**. The ratfolk makes two attacks with its Gun Bash, or makes a Rattling Volley attack against each creature in a length 12 *(18m)* cone.
+   - **Gun Bash**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) bludgeoning damage and the target is pushed 1 *(1.5m)* away.
+   If the ratfolk made any attacks with its Ratling Volley on its previous turn, this attack deals an additional 2 (1d4) fire damage.
+   - **Ratling Volley**. *Ranged Attack:* +7 to hit, range 12 *(18m)*, one target. 
+    *Hit:* 9 (1d10 + 4) piercing damage.
+   On a roll of 1, the gun jams. The ratfolk immediately ends its turn and any effects of its Spin Up ability end.
+- **Bonus Actions**: 
+   - **Spin Up (Recharge 4-6)**. For the next minute, whenever the ratfolk uses its Multiattack it makes one additional Ratling Volley attack against a target of its choice, to a maximum of three additional attacks.
+   - **Scurry Away!**. The ratfolk moves up to its speed directly away from the nearest hostile creature.
+*(Source: ConfluxCreatures)*
+
+### Ratfolk Screech-Thing
+**CR**: 11
+*Huge monstrosity (ratfolk), Chaotic Evil*
+- **Initiative**: +4
+- **AC**: 16 (natural armor)
+- **HP**: 198 (18d12 + 90)
+- **Speed**: walk 8 *(12m)*, burrow 1 *(1.5m)*, climb 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+23 (+6) | 18 (+4) | 21 (+5) | 5 (-3) | 17 (+3) | 6 (-2) 
+
+- **Skills**: perception: +7, survival: +7
+- **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 17
+- **Languages**: understands Ratfolk but can only scream
+- **Traits**: 
+   - **Stitch-Sick**. If the ratfolk takes 10 or more necrotic or poison damage from a single source, it must succeed on a DC 17 CON Save or be [Poisoned](conditions.md#poisoned) until the end of its next turn.
+   - **Terror-Twisted Rampage**. If the ratfolk starts its turn with no allies within 1 *(1.5m)* of it, it must succeed on a DC 17 WIS Save or be [Frightened](conditions.md#frightened) and treat all creatures as hostile until the beginning of its next turn.
+   - **Giant Stature**. Attacks made against the ratfolk by a creature [Attached](conditions.md#attached) to it have advantage, and the ratfolk has disadvantage on attacks it makes against creatures [Attached](conditions.md#attached) to it.
+- **Actions**: 
+   - **Multiattack**. The ratfolk makes two attacks, one of which can be with its Wormtail Whip.
+   - **Crowdreaper Warscythe**. *Melee Attack:* +10 to hit, targets each nonprone creature in a length 3 *(4.5m)* cone. 
+    *Hit:* 17 (2d10 + 6) slashing damage.
+   This attack can't be used to make opportunity attacks.
+   - **Kill-Crash Strike**. *Melee Attack:* +10 to hit, reach 2 *(3m)*, one target. 
+    *Hit:* 22 (3d10 + 6) piercing damage.
+   Any hit with this attack against a [Prone](conditions.md#prone) creature becomes a critical.
+   - **Wormtail Whip**. *Melee Attack:* +10 to hit, reach 3 *(4.5m)*, one target. 
+    *Hit:* 13 (3d4 + 6) bludgeoning damage and the target is pushed up to 3 *(4.5m)* away.
+- **Bonus Actions**: 
+   - **Pain-Mad Screech (Recharge 5-6)**. A squeal of mad rage emerges from the ratfolk, forcing each creature within 3 *(4.5m)* of it to make a DC 17 WIS Save.
+   On a failure, a creature must use its reaction to move 3 *(4.5m)* directly away from the ratfolk, or fall [Prone](conditions.md#prone) if it cannot.
+*(Source: ConfluxCreatures)*
+
 ### Red Slaad
 **CR**: 5
 *Large aberration, Chaotic Neutral*

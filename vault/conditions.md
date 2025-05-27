@@ -84,6 +84,9 @@ It is unaware of its surroundings.
 Attacks against it have Advantage and if they are from within range 1 always Critical Hits.
 
 # Diseases
+## Frothjaw
+*Disease* - A creature infected with Frothjaw has bloodshot eyes and labored breathing, with flecks of foam forming around its mouth when agitated. The creature can't add its PB to attack rolls made with Martial Weapons, and any attacks it makes with Natural or Improvised Weapons deal an additional 1d4 points of damage. While it has fewer than 15 HP, the creature becomes suicidally hostile to each creature it can see.
+
 ## Redding Ague
 A creature infected with Redding Ague does not recover stacks of [Exhaustion](conditions.md#exhaustion) upon completing a Long Rest. 
 Whenever an infected creature fails a CON Save by 5 or more, it acquires a stack of [Exhaustion](conditions.md#exhaustion).

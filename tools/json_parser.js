@@ -488,6 +488,7 @@ function convert5EMonsterToText(jsonObject) {
       }
 
       specialResistances.forEach(sr => {
+        console.log(sr);
         const preNote = sr.preNote ? `${sr.preNote}` : '';
         const specialResistanceString = `${preNote}${sr.resist.join(', ')} ${sr.note}`;
         resistances.push(specialResistanceString);
