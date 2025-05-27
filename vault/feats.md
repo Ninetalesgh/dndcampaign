@@ -675,6 +675,16 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 
 # General Feats
 
+## Charger
+- **Improved Dash.** When you take the [Dash](vault/game_rules.md#dash) Action, your Speed increases by 2 for that action.
+- **Charge Attack.** If you move at least 2 *(3m)* in a straight line toward a target immediately before hitting it with a Melee Attack as part of the Attack Action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or [Push 2](vault/dm/item_info.md#push). *(Once per Turn)*
+![\|50](https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp)
+*(Source: PHB'24, page 202)*
+
+## Extra Attack
+You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
+![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
+
 ## Fighting Style
 - **Archery**: You gain a +2 bonus to attack rolls you make with Ranged weapons.
 - **Blind Fighting**: You have [Blindsight 2 *(3m)*](game_rules.md#advanced-rules#blindsight).
@@ -691,9 +701,12 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 ![\|50](https://bg3.wiki/w/images/a/ae/Duelling_Icon.webp)
 *(Source: PHB'24, page 209)*
 
-## Extra Attack
-You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
-![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
+## Great Weapon Master - PHB 2014
+You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
+![\|50](https://bg3.wiki/w/images/1/1a/Great_Weapon_Master_Bonus_Damage_Icon.webp)
+*(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
 
 ## Inspiring Leader
 - **Bolstering Performance.** When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within range 6 *(9m)*of yourself who witness the performance. The chosen creatures each gain Temporary HP equal to your character level plus the modifier of the ability you increased with this feat.
@@ -710,25 +723,16 @@ You can make an additional **Free Attack** Whenever you take the **Attack Action
 ![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 *(Source: PHB'24, page 191)*
 
-## Charger
-- **Improved Dash.** When you take the [Dash](vault/game_rules.md#dash) Action, your Speed increases by 2 for that action.
-- **Charge Attack.** If you move at least 2 *(3m)* in a straight line toward a target immediately before hitting it with a Melee Attack as part of the Attack Action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or [Push 2](vault/dm/item_info.md#push). *(Once per Turn)*
-![\|50](https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp)
-*(Source: PHB'24, page 202)*
-
-## Great Weapon Master - PHB 2014
-You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
-- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
-- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
-![\|50](https://bg3.wiki/w/images/1/1a/Great_Weapon_Master_Bonus_Damage_Icon.webp)
-*(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
-
 ## Speedy
 - **Speed Increase.** Your Speed increases by 2 *(3m)*.
 - **Dash over Difficult Terrain.** When you take the [Dash](vault/game_rules.md#dash) action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 - **Agile Movement.** Opportunity Attacks have Disadvantage against you.
 *(Source: PHB'24, page 208)*
 
+## Spell Sniper
+- **Bypass Cover.** Your Spell Attacks ignore Half Cover and Three-Quarters Cover.
+- **Casting in Melee.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Spell Attacks.
+- **Increased Range.** Your **Spell Attacks** that have at least range 2 *(3m)* gain an additional 12 *(18m)* of range.
 
 ## TODO HEX
 

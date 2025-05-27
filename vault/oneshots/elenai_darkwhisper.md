@@ -17,27 +17,21 @@
 | .                  | ☐ Stealth +3         | .                 |
 
 
-| INT 18 (+4)            | WIS 13 (+1)              | CHA 8 (-1)           |
-| :--------------------- | :----------------------- | :------------------- |
-| ☑ **INT Save +7**      | ☑ **WIS Save +4**        | ☐ CHA Save -1        |
-| ☑ **Arcana +7**        | ☐ Animal Handling +1     | ☐ Deception -1       |
-| ☐ History +4           | ☑ **Insight +4**         | ☐ Intimidation -1    |
-| ☑ **Investigation +7** | ☐ Medicine +1            | ☑ **Performance +2** |
-| ☐ Nature +4            | ☐ Perception +1          | ☐ Persuasion -1      |
-| ☐ Religion +4          | ☐ Survival +1            | .                    |
+| INT 18 (+4)              | WIS 13 (+1)              | CHA 8 (-1)           |
+| :----------------------- | :----------------------- | :------------------- |
+| ☑ **INT Save +7**        | ☑ **WIS Save +4**        | ☐ CHA Save -1        |
+| ☑ **Arcana +7**          | ☐ Animal Handling +1     | ☐ Deception -1       |
+| ☐ History +4             | ☑ **Insight +4**         | ☐ Intimidation -1    |
+| ☑☑ **Investigation +10** | ☐ Medicine +1            | ☑ **Performance +2** |
+| ☐ Nature +4              | ☐ Perception +1          | ☐ Persuasion -1      |
+| ☐ Religion +4            | ☐ Survival +1            | .                    |
 
-- **Weapon Proficiencies**: Simple Weapons
+- **Weapon Proficiencies**: Simple Weapons, Scimitar
 - **Armor Proficiencies**: Light Armor
 - **Tool Proficiencies**:
 - **Languages**: Common, Elvish, Undercommon
 
-TODO scholar expertise
-TODO arcane recov
-TODO bladesong
-TODO training in war and song
-
-TODO wizard feats
-TODO lvl4 feat
+TODO magical scimitar
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
@@ -77,10 +71,12 @@ TODO lvl4 feat
   [Dancing Lights](spells.md#spells-d#dancing-lights)
   [Faerie Fire *(1 free use per Long Rest)*](spells.md#spells-f#faerie-fire)
   [Darkness *(1 free use per Long Rest)*](spells.md#spells-d#darkness)
+  [Booming Blade](spells.md#spells-b#booming-blade)
+  [Chill Touch](spells.md#spells-c#chill-touch)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-
+  [Bladesong](vault/feats.md#bladesong)
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
@@ -89,10 +85,16 @@ TODO lvl4 feat
 
 ### Passive Feats
 - [Darkvision 24 *(36m)*](game_rules.md#advanced-rules#darkvision)
+  [Arcane Recovery](vault/feats.md#arcane-recovery)
 
+- [Training in War and Song](vault/feats.md#training-in-war-and-song) *(Already included above)*
 - [Tough](feats.md#tough) *(Already included above)*
 - [Scholar](feats.md#scholar) *(Already included above)*
 - [Memorize Spell](feats.md#memorize-spell)
+  [Keen Senses](vault/feats.md#keen-senses)
+  [Fey Ancestry](vault/feats.md#fey-ancestry)
+  [Trance](vault/feats.md#trance)
+  [Spell Sniper](vault/feats.md#spell-sniper)
 
 # Wizard Spells
 ## Cantrips

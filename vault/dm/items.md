@@ -3,7 +3,7 @@
 ## Items A
 ### Acid Vial
 *(concoction, Common)*
-- **Properties**: 
+- **Properties**:
   - [Throw Grenade](dm/item_info.md#throw-grenade)
     *Effect Range:* 1 target
     *Effect:* 2d6 Acid damage or half on a successful Save.
@@ -37,7 +37,7 @@
 
 ### Alchemist's Fire
 *(conction, Common)*
-- **Properties**: 
+- **Properties**:
   - [Throw Grenade](dm/item_info.md#throw-grenade)
     *Effect Range:* 1 target
     *Effect:* 1d6 Fire damage and [Burning (1d6)](conditions.md#burning) or half and no condition on a successful Save.
@@ -59,7 +59,7 @@
 
 ### Ale (mug)
 *(food and drink, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: -
 - **Price**: 4 cp
 *(Source: PHB'24, page 231)*
@@ -76,7 +76,7 @@
 
 ### Antidote
 *(concoction, Common)*
-- **Properties**: 
+- **Properties**:
   [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion)
     *Effect:* End [Poisoned](conditions.md#poisoned) and gain **Advantage** on Saves against the condition for 1 hour.
 - **Weight**: 150 g
@@ -102,7 +102,7 @@ Arrows are usually sold in bundles of 20 for 1 gp and typically stored in a Quiv
 
 ### Bagpipes
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 3 kg
@@ -127,7 +127,7 @@ It takes 10 minutes to recover the Ball Bearings.
 
 ### Basic Poison
 *(concoction, Common)*
-- **Properties**: 
+- **Properties**:
   [Apply Weapon Coating](dm/item_info.md#apply-weapon-coating)
     *Effect:* Deal an additional 1d4 Poison damage on Hit.
     *Duration:* 1 minute or 3 hits.
@@ -181,7 +181,7 @@ It takes 10 minutes to recover the Ball Bearings.
 ### Blightwood Shiv
 *(Dagger, Simple Melee Weapon, Uncommon)*
 - **Damage**: 1d4 + STR Piercing damage.
-- **Reach**: 1 *(1.5m)* 
+- **Reach**: 1 *(1.5m)*
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
   - *On Hit*: You may leave the shiv stuck in the target, if you do, its speed is reduced by 1 *(1.5m)* and it takes 1 damage whenever it takes an Action until it is removed. To remove it a creature must succeed on a STR check with DC equal to 10 or half the damage done on the hit, whichever is higher.
 - **Mastery**: [Execute](dm/item_info.md#execute).
@@ -236,7 +236,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Bread (loaf)
 *(food and drink, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: -
 - **Price**: 2 cp
 *(Source: PHB'24, page 231)*
@@ -256,7 +256,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Intelligence
   - *Utilize:* Detect poisoned drink (DC 15), or identify alcohol (DC 10)
-[Craft](dm/item_info.md#crafting): All [Concoctions](dm/item_info.md#concoctions) that require distillation or fermentation. 
+[Craft](dm/item_info.md#crafting): All [Concoctions](dm/item_info.md#concoctions) that require distillation or fermentation.
 - **Weight**: 4.5 kg
 - **Price**: 20 gp
 *(Source: PHB'24, page 220)*
@@ -324,8 +324,8 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is free: Apply a vial or flask containing a [Concoction](dm/item_info.md#concoctions) or an empty vial to the hilt of this weapon, occupying the hilt. This consumes the Concoction.
       - **Throwable**: The next 2 hits apply the effect to the target as if you threw it, the DEX Save DC to evade the effect is increased by the damage dealt by each respective hit.
-      - **Coating**: The Coating is applied and its duration (use and time) is tenfold. 
-      - **Empty Vial**: Drain blood into the vial. A vial is full after 20 damage done to HP of targets which can bleed with this weapon. 
+      - **Coating**: The Coating is applied and its duration (use and time) is tenfold.
+      - **Empty Vial**: Drain blood into the vial. A vial is full after 20 damage done to HP of targets which can bleed with this weapon.
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if the hilt is occupied: Eject the current vial or flask, destroying it in the process, freeing up the hilt. If the vial or flask was a throwable that still has hits left, you have to succeed the DEX Save as if you threw it at yourself.
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, if the hilt is occupied: Carefully Eject the current vial or flask.
     - **Throwable**: If it still has all of its uses remaining, you regain the initial Item.
@@ -349,14 +349,14 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Carriage
 *(vehicle (land), Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 300 kg
 - **Price**: 100 gp
 *(Source: PHB'24, page 230)*
 
 ### Cart
 *(vehicle (land), Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 100 kg
 - **Price**: 15 gp
 *(Source: PHB'24, page 230)*
@@ -396,7 +396,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(Heavy Armor, Common)*
 - **Don and Doff Time**: 10 minutes / 5 minutes
 - **AC**: 16
-- **Properties**: 
+- **Properties**:
   - Disadvantage on Dexterity (Stealth) checks.
   - If the wearer has a Strength score lower than 13, their speed is reduced by 2 *(3m)*.
 - **Weight**: 28 kg
@@ -416,16 +416,16 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Chariot
 *(vehicle (land), Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 50 kg
 - **Price**: 250 gp
 *(Source: PHB'24, page 230)*
 
 ### Cheese (wedge)
 *(food and drink, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 1 sp
-- **Price**: 
+- **Price**:
 *(Source: PHB'24, page 231)*
 
 ### Chest
@@ -439,7 +439,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Circlet of Vitality's Focus
 *(Wondrous Item, Uncommon)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  - While you are at full Health you gain **Advantage** on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit Threshold for your Spell Attacks is reduced by 1.  
+  - While you are at full Health you gain **Advantage** on INT Saves, [Resistance](game_rules.md#damage-types#resistance) to Psychic damage, and your Critical Hit Threshold for your Spell Attacks is reduced by 1.
 - **Weight**: 150 g
 - **Price**: 1800 gp
 ![\|250](https://i.imgur.com/6qI8XuC_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
@@ -492,7 +492,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Common Wine (bottle)
 *(food and drink, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: -
 - **Price**: 2 sp
 *(Source: PHB'24, page 231)*
@@ -539,7 +539,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ### Dagger
 *(Dagger, Simple Melee Weapon, Common)*
 - **Damage**: 1d4 + STR Piercing damage.
-- **Reach**: 1 *(1.5m)* 
+- **Reach**: 1 *(1.5m)*
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Thrown 4/12 *(6m/18m)*](dm/item_info.md#weapon-properties#thrown).
 - **Mastery**: [Nick](dm/item_info.md#nick).
 - **Weight**: 0.5 kg
@@ -570,7 +570,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Dice Set
 *(gaming set, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Wisdom
   - *Utilize:* Discern whether someone is cheating (DC 10), or win the game (DC 20)
 - **Weight**: -
@@ -604,7 +604,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Dragonchess Set
 *(gaming set, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Wisdom
   - *Utilize:* Discern whether someone is cheating (DC 10), or win the game (DC 20)
 - **Weight**: -
@@ -617,9 +617,9 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Damage**: 1d4 + DEX Bludgeoning damage.
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1)
   - *On Hit:* The target suffers an additional effect depending on the outcome of the damage roll of the main weapon dice:
-    - **1**: The target is now [Burning (1d6)](vault/conditions.md#burning). 
-    - **2**: The target is now [Bleeding (1d6)](vault/conditions.md#bleeding). 
-    - **3**: The target is now [Poisoned 2](vault/conditions.md#poisoned). 
+    - **1**: The target is now [Burning (1d6)](vault/conditions.md#burning).
+    - **2**: The target is now [Bleeding (1d6)](vault/conditions.md#bleeding).
+    - **3**: The target is now [Poisoned 2](vault/conditions.md#poisoned).
     - **4**: No additional effect.
 - **Mastery**: [Slow 2](dm/item_info.md#slow).
 - **Weight**: -
@@ -629,7 +629,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Drum
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 1.5 kg
@@ -638,7 +638,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Dulcimer
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 5 kg
@@ -687,14 +687,14 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ## Items F
 ### Feed (per day)
 *(tack and harness, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 5 kg
 - **Price**: 5 cp
 *(Source: PHB'24, page 230)*
 
 ### Feylight Exposé
 *(Wondrous Item, Uncommon)*
-- **Properties**: 
+- **Properties**:
   - +2 to CHA (Deception) Checks.
   - While both you and a creature that is either Fey or Fiend are in [Bright Light](game_rules.md#advanced-rules#bright-light) you gain **Advantage** on Attack Rolls and WIS (Insight) Checks against it.
 - **Weight**: 200 g
@@ -712,7 +712,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Fine Wine (bottle)
 *(food and drink, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: -
 - **Price**: 10 gp
 *(Source: PHB'24, page 231)*
@@ -761,7 +761,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Flute
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 500 g
@@ -780,12 +780,12 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 ## Items G
 ### Galley
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 6 km/h
 - **Carrying Capacity**: 150 tons cargo
 - **Crew**: 80
 - **AC**: 15
-- **HP**: 500 
+- **HP**: 500
 - **Damage Threshold**: 20
 - **Properties**: [Ship Info](dm/item_info.md#ship-info).
 - **Weight**: -
@@ -999,7 +999,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Horn
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 1 kg
@@ -1008,7 +1008,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Horn of Silent Alarm
 *(Wondrous Item, Common)*
-- **Properties**: 
+- **Properties**:
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: One creature of your choice hears the horn's blare if the creature is within 180 meters of you and able to hear. No other creature hears this. *(4 Charges, regain 1d4 Charges after Long Rest)*
 - **Weight**: 250 g
 - **Price**: 800 gp
@@ -1098,7 +1098,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ## Items J
 ### Javelin
-*(Javelin, Simple Melee Weapon, Common)* 
+*(Javelin, Simple Melee Weapon, Common)*
 - **Damage**: 1d6 + STR Piercing damage.
 - **Reach**: 1
 - **Properties**: [Thrown 6/24 *(9m/36m)*](dm/item_info.md#weapon-properties#thrown).
@@ -1129,7 +1129,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 ## Items K
 ### Keelboat
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 1.5 km/h
 - **Carrying Capacity**: 1/2 ton cargo, 6 passengers
 - **Crew**: 1
@@ -1202,9 +1202,9 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 ### Legion of Brass Katars
 *(Dagger, Simple Melee Weapon, Uncommon)*
 - **Damage**: 1d4 + STR Piercing damage.
-- **Reach**: 1 *(1.5m)* 
+- **Reach**: 1 *(1.5m)*
 - **Properties**: [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
-  - *On Hit*, If you already hit the same target with the katars this turn: deal an extra 2d4 Fire damage. 
+  - *On Hit*, If you already hit the same target with the katars this turn: deal an extra 2d4 Fire damage.
 - **Mastery**: [Nick](dm/item_info.md#nick).
 - **Weight**: 0.5 kg
 - **Price**: 2 gp
@@ -1266,7 +1266,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ### Longship
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 4.5 km/h
 - **Carrying Capacity**: 10 tons cargo, 150 passengers
 - **Crew**: 40
@@ -1291,7 +1291,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ### Lute
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 1 kg
@@ -1300,7 +1300,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ### Lyre
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 1 kg
@@ -1312,7 +1312,7 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 *(Mace, Simple Melee Weapon, Common)*
 - **Reach**: 1
 - **Damage**: 1d6 + STR Bludgeoning damage.
-- **Properties**: - 
+- **Properties**: -
 - **Mastery**: [Sap](dm/item_info.md#sap).
 - **Weight**: 2 kg
 - **Price**: 5 gp
@@ -1329,8 +1329,8 @@ Iron Spikes are usually sold in bundles of 10 for 1 gp.
 
 ### Manacles
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that is [Grappled](dm/items.md#grappled), [Incapacitated](dm/items.md#incapacitated), or [Restrained](dm/items.md#restrained) if you succeed on a DC 13 Dexterity (Sleight of Hand) check. 
-While bound, a creature has Disadvantage on attack rolls, and the creature is [Restrained](dm/items.md#restrained) if the Manacles are attached to a chain or hook that is fixed in place. 
+- **Properties**: As a Utilize Action, you can use Manacles to bind an unwilling Small or Medium creature within range 1 *(1.5m)* of yourself that is [Grappled](dm/items.md#grappled), [Incapacitated](dm/items.md#incapacitated), or [Restrained](dm/items.md#restrained) if you succeed on a DC 13 Dexterity (Sleight of Hand) check.
+While bound, a creature has Disadvantage on attack rolls, and the creature is [Restrained](dm/items.md#restrained) if the Manacles are attached to a chain or hook that is fixed in place.
 Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) check as an Action. Bursting them requires a successful DC 25 Strength (Athletics) check as an Action.Each set of Manacles comes with a key. Without the key, a creature can use [Thieves' Tools](dm/items.md#thieves-tools) to pick the Manacles' lock with a successful DC 15 Dexterity (Sleight of Hand) check.
 - **Weight**: 3 kg
 - **Price**: 2 gp
@@ -1429,7 +1429,7 @@ Escaping the Manacles requires a successful DC 20 Dexterity (Sleight of Hand) ch
 - **Properties**:
   - *Craft: Sun dry and crush to flakes, submerge in boiling clear water then distill to an* [Antidote](dm/items.md-antidote).
 - **Weight**: -
-- **Price**: 25 gp 
+- **Price**: 25 gp
 ![\|50](https://bg3.wiki/w/images/3/35/Mugwort_Item_Icon.png)
 *A bane of farmers and gardeners, this quick-growing weed reappears mere days after being cut.*
 
@@ -1480,12 +1480,12 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 ## Items O
 ### Oil
 *(concoction, Common)*
-- **Properties**: 
+- **Properties**:
   - [Throw Grenade](dm/item_info.md#throw-grenade)
     *Effect Range:* 1 target
-    *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning). 
+    *Effect:* On a failed Save a target is drenched in oil for 1 minute. If the target takes Fire damage before the oil dries it starts [Burning (1d6)](conditions.md#burning).
 
-  - *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn. 
+  - *Dousing a Space.* You can take the Utilize Action to pour an Oil flask on level ground to cover a 1 *(1.5m)* area within range 1 *(1.5m)* of yourself. If lit, the oil burns until the end of the turn 2 rounds from when the oil was lit (or 12 seconds) and deals 5 Fire damage to any creature that enters the area or ends its turn there. A creature can take this damage only once per turn.
 
   - *Fuel.* Oil serves as fuel for [Lamps](dm/items.md#lamp) and [Lanterns](dm/items.md#hooded-lantern). Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a Utilize Action) and rekindle it again until it has burned for a total of 6 hours.
 - **Weight**: 500 g
@@ -1530,7 +1530,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 *(Light Armor, Common)*
 - **Don and Doff Time**: 1 minute / 1 minute
 - **AC**: 11 + DEX
-- **Properties**: 
+- **Properties**:
   - If you fail a CON Save against an effect from a hostile source, you can choose to succeed instead. *(Once per Long Rest)*
 - **Weight**: 5 kg
 - **Price**: 800 gp
@@ -1561,7 +1561,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Pan Flute
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 1 kg
@@ -1628,7 +1628,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Playing Cards
 *(gaming set, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Wisdom
   - *Utilize:* Discern whether someone is cheating (DC 10), or win the game (DC 20)
 - **Weight**: -
@@ -1670,7 +1670,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Potion of Healing
 *(concoction, common)*
-- **Properties**: 
+- **Properties**:
   [Drink or Administer Potion](dm/item_info.md#drink-or-administer-potion)
     *Effect:* Heal 2d4 + 2 HP.
 - **Weight**: 150 g
@@ -1834,7 +1834,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Rowboat
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 2.25 km/h
 - **Carrying Capacity**: 3 passengers
 - **Crew**: 1
@@ -1865,7 +1865,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Sailing Ship
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 3 km/h
 - **Carrying Capacity**: 100 tons cargo, 20 passengers
 - **Crew**: 20
@@ -1944,7 +1944,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Shawm
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 500 g
@@ -2003,7 +2003,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Signal Whistle
 *(adventuring gear, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 5 cp
 - **Price**: When blown as a Utilize Action, a Signal Whistle produces a sound that can be heard within range 120 *(180m)*.
 ![\|250](https://i.pinimg.com/736x/7a/18/50/7a185092583597b22e987f81ec765ca7.jpg)
@@ -2011,8 +2011,9 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Gul'Dan's Skull Chalice
 *(wondrous item, Rare)*
-- **Properties**: [Attunement](dm/item_info.md#attunement).
-  If you would drop to 0 HP while this chalice is in your hand it is destroyed and brings you back to full HP and restores all your Spell Slots and Sorcery Points. Roll on the Wild Magic table 3 times, all effects happen.
+- **Properties**: [Attunement by a Wild Magic Sorcerer](dm/item_info.md#attunement).
+  Whenever you would roll on the wild magic table, roll twice and choose one of the results instead.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: **Fel Surge.** For 1 minute, whenever you use a Spell Slot you gain Temporary HP equal to your Sorcerer Level + your CHA. *(Once per Long Rest)*
 - **Weight**: 1 kg
 - **Price**: 3000 gp
 ![\|250](https://i.pinimg.com/736x/61/71/bd/6171bdcc1dd0800458f44ed2afe5cc7b.jpg)
@@ -2020,7 +2021,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 
 ### Sled
 *(vehicle (land), Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: 150 kg
 - **Price**: 20 gp
 *(Source: PHB'24, page 230)*
@@ -2081,10 +2082,10 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ### Spell Scroll Dagger
 *(Dagger, Simple Melee Weapon, Rare)*
 - **Damage**: 1d4 + STR Piercing damage.
-- **Reach**: 1 *(1.5m)* 
+- **Reach**: 1 *(1.5m)*
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Push a Spell Scroll into the hilt, consuming it. This dagger gains 2 charges of that Spell. Until all charges are consumed, the hilt can't be opened again.
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Cast the Spell on the Scroll in the hilt. 
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Cast the Spell on the Scroll in the hilt.
   ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
@@ -2096,7 +2097,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *(Heavy Armor, Common)*
 - **Don and Doff Time**: 10 minutes / 5 minutes
 - **AC**: 17
-- **Properties**: 
+- **Properties**:
   - Disadvantage on Dexterity (Stealth) checks.
   - If the wearer has a Strength score lower than 15, their speed is reduced by 2 *(3m)*.
 - **Weight**: 30 kg
@@ -2114,7 +2115,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 
 ### Stabling (per day)
 *(tack and harness, Common)*
-- **Properties**: 
+- **Properties**:
 - **Weight**: -
 - **Price**: 5 cp
 *(Source: PHB'24, page 230)*
@@ -2204,7 +2205,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 
 ### Three-Dragon Ante Set
 *(gaming set, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Wisdom
   - *Utilize:* Discern whether someone is cheating (DC 10), or win the game (DC 20)
 - **Weight**: -
@@ -2280,7 +2281,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 
 ### Viol
 *(instrument, Common)*
-- **Properties**: 
+- **Properties**:
   - *Ability*: Charisma
   - *Utilize:* Play a known tune (DC 10), or improvise a song (DC 15)
 - **Weight**: 500 g
@@ -2316,7 +2317,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Price**: 15 gp
 ![\|250](https://i.pinimg.com/736x/21/b9/ff/21b9ffe0aad2714834838c76c94cf6cf.jpg)
 *(Source: PHB'24, page 215)*
-    
+
 ### Warhorse
 *(mount, Common)*
 - **Properties**: Speed: 60, Carrying Capacity: 520 kg
@@ -2326,7 +2327,7 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 
 ### Warship
 *(vehicle (water), Common)*
-- **Properties**: 
+- **Properties**:
 - **Speed**: 3.75 km/h
 - **Carrying Capacity**: 200 tons cargo, 60 passengers
 - **Crew**: 60

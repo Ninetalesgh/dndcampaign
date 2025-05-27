@@ -3,7 +3,7 @@
 ## Stats and Proficiencies
 - **Initiative**: +0 *(DEX)*
 - **AC**: 10 (source)
-- **HP**: 44 *(4 + [6 + CON] * Level)*
+- **HP**: 49 *(4 + [7 + CON] * Level)*
 - **HP Dice**: 5 D10
 - **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
@@ -31,11 +31,7 @@
 - **Tool Proficiencies**:
 - **Languages**: Common,
 
-TODO dwarf feats
-origin feat + lvl4 feat
-oath of glory feats
-TODO inspiring smite
-peerless athlete
+TODO cool greatclub
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
@@ -78,6 +74,8 @@ peerless athlete
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
+  [Stonecunning](vault/feats.md#stonecunning)
+  [Peerless Athlete](vault/feats.md#peerless-athlete)
   [Lay on Hands](feats.md#lay-on-hands)
   [Divine Sense *(Channel Divinity)*](feats.md#paladin#divine-sense)
   [Divine Smite *(1 free use per Long Rest)*](./../spells.md#spells-d#divine-smite)
@@ -90,9 +88,14 @@ peerless athlete
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
 
 ### Passive Feats
-- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
+  [Inspiring Smite](vault/feats.md#inspiring-smite)
 
+- [Darkvision 12 *(18m)*](./../game_rules.md#advanced-rules#darkvision)
+  [Dwarven Resilience](vault/feats.md#dwarven-resilience)
+  [Dwarven Toughness](vault/feats.md#dwarven-toughness)
   [Extra Attack](vault/feats.md#extra-attack)
+  [Charger](vault/feats.md#charger)
+- **Savage Attacker.** Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll.
 
 # Paladin Spell Reference
 ## Level 1
