@@ -30,9 +30,6 @@
 - **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies), [Disguise Kit](vault/dm/items.md#disguise-kit).
 - **Languages**: Common, Undercommon, Thieves' Cant
 
-[TODO] 1 Tool Proficiency
-[TODO] lvl 4 feat
-
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 

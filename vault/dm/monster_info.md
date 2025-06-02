@@ -122,6 +122,9 @@ Comprising frigid air and water, [Ice Mephit (1/2)](dm/monsters.md#ice-mephit) a
 [Ash Mephit (1/2)](dm/monsters.md#ash-mephit)
 
 
+[Water Weird (3)](dm/monsters.md#water-weird)
+[Water Elemental (5)](dm/monsters.md#water-elemental)
+
 ## Fey
 The [Blink Dog (1/4)](dm/monsters.md#blink-dog) takes its name from its ability to blink in and out of existence, a talent it uses to aid its attacks and to avoid harm. Blink dogs harbor a long-standing hatred for displacer beasts and attack them on sight.
 
@@ -144,7 +147,7 @@ Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos a
 
 ![\|250](https://5e.tools/img/bestiary/MM/Goblin.webp)
 
-#### Booyahgs 
+#### Booyahgs
   Spellcasters of any sort among the goblins are rare. Goblins typically lack the intelligence and patience needed to learn and practice wizardry, and they fare poorly even when given access to the necessary training and knowledge. Sorcerers are less prevalent among them than in many other races, and Khurgorbaeyag seems to dislike sharing his divine power with his followers. And although many goblins would readily offer anything to have the abilities of a warlock, the patrons that grant such power know a goblin is unlikely to be able to uphold its end of any bargain.
   Even when a goblin is born with the ability to become a spellcaster, the knowledge and talent necessary to carry on the tradition rarely persists for more than a couple of generations. Because they have so little experience with magic, goblins make no distinction between its forms. To them all magic is "booyahg," and the word is part of the name they give to any of its practitioners.
   A goblin with access to booyahg becomes a member of the lashers and can often rise to the role of boss.
@@ -212,17 +215,17 @@ Devils personify tyranny, with a totalitarian society dedicated to the dominatio
 | Rank | Devil(s)                      |
 | ---: | :---------------------------- |
 | 1.   | lemure                        |
-| 2.   | (Lesser devils)	imp          |
+| 2.   | (Lesser devils)  imp          |
 | 3.   | spined devil                  |
 | 4.   | bearded devil                 |
 | 5.   | barbed devil                  |
 | 6.   | chain devil                   |
 | 7.   | bone devil                    |
-| 8.   | (Greater devils)	horned devil |
+| 8.   | (Greater devils)  horned devil |
 | 9.   | erinyes                       |
 | 10.  | ice devil                     |
 | 11.  | pit fiend                     |
-| 12.  | (Archdevils)	duke or duchess  |
+| 12.  | (Archdevils)  duke or duchess  |
 | 13.  | archduke or archduchess       |
 
   The Nine Hells has a rigid hierarchy that defines every aspect of its society. Asmodeus is the supreme ruler of all devils, and the only creature in the Nine Hells with the powers of a lesser god. Worshiped as such in the Material Plane, Asmodeus inspires the evil humanoid cults that take his name. In the Nine Hells, he commands scores of pit fiend generals, which in turn command legions of subordinates.
@@ -232,7 +235,7 @@ Devils personify tyranny, with a totalitarian society dedicated to the dominatio
 - **Greater Devils.** The greater devils include the pit fiends, erinyes, horned devils, and ice devils that command lesser devils and attend the archdevils.
 - **Lesser Devils.** The lesser devils include numerous strains of fiends, including imps, chain devils, spined devils, bearded devils, barbed devils, and bone devils.
 
-#### Lemures 
+#### Lemures
 The lowest form of devil, lemures are the twisted and tormented souls of evil and corrupted mortals. A lemure killed in the Nine Hells is only permanently destroyed if it is killed with a blessed weapon or if its shapeless corpse is splashed with holy water before it can return to life.
   A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
   A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso. A permanent expression of anguish twists across its face, its feeble mouth babbling even though it can't speak.
@@ -241,7 +244,7 @@ The lowest form of devil, lemures are the twisted and tormented souls of evil an
 [Imp (1)](dm/monsters.md#imp)
 
 
-[TODO] Bone/Spined Devil and Chain Devil for the sword and the chain armor! 
+[TODO] Bone/Spined Devil and Chain Devil for the sword and the chain armor!
 #### Promotion and Demotion
   When the soul of an evil mortal sinks into the Nine Hells, it takes on the physical form of a wretched lemure. Archdevils and greater devils have the power to promote lemures to lesser devils. Archdevils can promote lesser devils to greater devils, and Asmodeus alone can promote a greater devil to archdevil status. This diabolic promotion invokes a brief, painful transformation, with the devil's memories passing intact from one form to the next.
   Low-level promotions are typically based on need, such as when a pit fiend transforms lemures into imps to gain invisible spies under its command. High-level promotions are almost always based on merit, such as when a bone devil that distinguishes itself in battle is transformed into a horned devil by the archdevil it serves. A devil is seldom promoted more than one step at a time in the hierarchy of infernal forms.
@@ -300,7 +303,7 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 
 ## Monstrosity
 ### Cockatrice
-The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger. 
+The [Cockatrice (1/2)](dm/monsters.md#cockatrice) looks like a hideous hybrid of lizard, bird, and bat, and it is infamous for its ability to turn flesh to stone. These omnivores have a diet that consists of berries, nuts, flowers, and small animals such as insects, mice, and frogs-things they can swallow whole. They would be no threat to anything else if not for their fierce and frenzied response to even a hint of danger.
   It flies into the face of any threat, squawking and madly beating its wings as its head darts out to peck. The smallest scratch from its beak can spell doom as its victim slowly turns to stone from the injury.
 
 ### Ratfolk
@@ -326,7 +329,6 @@ Blood Drain. A stirge attacks by landing on a victim, finding a vulnerable spot,
 [Stirge Harrier (Minion, 2)](dm/monsters.md#stirge-harrier)
 
 ![\|250](https://5e.tools/img/bestiary/MM/Stirge.webp)
-
 ### Worg
 A [Worg (1/2)](dm/monsters.md#worg) is an evil predator that delights in hunting and devouring creatures weaker than itself. Cunning and malevolent, worgs roam across the remote wilderness or are raised by goblins and hobgoblins. Those creatures use worgs as mounts, but a worg will turn on its rider if it feels mistreated or malnourished. Worgs speak in their own language and Goblin, and a few learn to speak Common as well.
 
@@ -356,6 +358,17 @@ Appearing as masses of slithering creepers, [Vine Blight (1)](dm/monsters.md#vin
 [Thicket Blight (3)](dm/monsters.md#thicket-blight)
 
 
+### Shambling Mound
+A [Shambling Mound (5)](dm/monsters.md#shambling-mound), sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
+- **All-Consuming Devourers.** A shambling mound feeds on any organic material, tirelessly consuming plants as it moves and devouring animals that can't escape it. Only the shambling mounds' rarity and plodding speed prevent them from overwhelming entire ecosystems. Even so, their presence leeches natural environments of plant and animal life, and an unsettling quiet pervades the swamps and woods haunted by these ever-hungry horrors.
+- **Unseen Hunters.** Composed of decaying leaves, vines, roots, and other natural swamp and forest compost, shamblers can blend into their environs. Because they move slowly, they rarely attempt to pursue and catch creatures. Rather, they remain in place, sustaining themselves by absorbing nutrients from their surroundings as they wait for prey to come to them. When a creature passes near or alights upon a shambling mound, the monster comes to life, seizing and absorbing the unwary prey.
+- **Spawned by Lightning.** A shambling mound results from a phenomenon in which lightning or fey magic invigorates an otherwise ordinary swamp plant. As the plant is reborn into its second life, it chokes the life from plants and animals around it, mulching their corpses in a heap around its roots. Those roots eventually give up their reliance on the soil, directing the shambling mound to seek out new sources of food.
+- **The Weed that Walks.** The instinct that drives a shambling mound is its central root-stem, buried somewhere inside its ponderous form. The rest of a shambler consists of the rotting heap that it simultaneously accumulates and feeds on, which protects the root-stem and animates to smash and smother the life from any creature.
+  The dense mass of a shambling mound's body shrugs off the effects of cold and fire. Lightning reinvigorates the root-stem, strengthening the shambling mound and bolstering its consumptive drive.
+  Despite its monstrous form, the shambling mound is a living plant that requires air and nourishment. Although it doesn't sleep the way an animal does, it can lie dormant for days on end before rising to hunt for food.
+- **A Resurgent Menace.** If a shambling mound faces defeat before an overwhelming foe, the root-stem can feign death, collapsing the remains of its mound. If not subsequently killed, the root-stem beds down in the shambler's remains to slowly regrow its full body, then once again sets out to consume all it can. In this way, shambling mound infestations long thought destroyed can recur time and again.
+![\|250](https://5e.tools/img/bestiary/MM/Shambling%20Mound.webp)
+
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
 ### Boneless
@@ -366,7 +379,7 @@ Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.
 
 ![\|250](https://5e.tools/img/bestiary/VRGR/Boneless.webp)
 
-### Claws 
+### Claws
 [Crawling Claws (0)](dm/monsters.md#crawling-claw) are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 - **Magical Origins.** Through dark necromantic rituals, the life force of a murderer is bound to its severed hand, haunting and animating it. If a dead murderer's spirit already manifests as another undead creature, if the murderer is raised from death, or if the spirit has long passed on to another plane, the ritual fails.
   The ritual invoked to create a crawling claw works best with a hand recently severed from a murderer. To this end, ritualists and their servants frequent public executions to gain possession of suitable hands, or make bargains with assassins and torturers.
@@ -400,7 +413,7 @@ Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.
 [Blazing Bones (3)](dm/monsters.md#blazing-bones)
 
 ![\|250](https://i.pinimg.com/736x/8c/f9/38/8cf9388b7486c01aee6072c7cef8f424.jpg)
-### Wights 
+### Wights
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
 [Barrow Wights (1)](dm/monsters.md#barrow-wight) possess the memories and drives of their formerly living selves. They will heed the call of whatever dark entity transformed them into undead, swearing oaths to appease their new lord while retaining their autonomy. Never tiring, a wight can pursue its goals relentlessly and without distraction.
 - **Life Eaters.** Neither dead nor alive, a wight exists in a transitional state between one world and the next. The bright spark it possessed in life is gone, and in its place is a yearning to consume that spark in all living things.
@@ -438,7 +451,7 @@ This creature can take the Disengage or Hide action as a Bonus Action on each of
 ### Pack Tactics
 This creature has Advantage on an Attack Roll against a creature if at least one of its allies is within 1 *(1.5m)* of that creature and the ally isn't [Incapacitated](conditions.md#incapacitated).
 ### Scurrilous Scamper
-Opportunity attacks made against this creature by Medium or larger creatures have Disadvantage. 
+Opportunity attacks made against this creature by Medium or larger creatures have Disadvantage.
 ### Sunlight Sensitivity
 While in sunlight, this creature has Disadvantage on Attack Rolls, as well as on WIS (Perception) checks that rely on sight.
 If it takes any radiant damage, it is [Blinded](conditions.md#blinded) until the end of its next turn.

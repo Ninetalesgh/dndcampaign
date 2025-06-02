@@ -112,6 +112,23 @@ Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 [Magmin (1/2)](dm/monsters.md#magmin)
 [Geonid (1/4)](dm/monsters.md#geonid)
 
+#### Rest of the Archers of Cormanthyr
+
+As The Party moves deeper into the crypt, they encounter elvish voices singing a haunting melody in the distance.
+
+
+#### The Vinea Estate Basement
+[Needle Blights (1/2)](dm/monsters.md#needle-blight)
+[Vine Blight (1)](dm/monsters.md#vine-blight)
+[Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
+[Splinter Blight (3, Minion)](dm/monsters.md#splinter-blight)
+[Thicket Blight (3)](dm/monsters.md#thicket-blight)
+
+The Boss: [Blight Guardian](vault/dm/monsters.md#blight-guardian)
+
+Vines on the wall not painted but placed in different colors of stones meld into actual living blighted vines holding the structure together.
+
+
 ## The Council
 
 [TODO] The Grand Factor is in liege with Zariel, trying to recruit souls for the army of hell.
@@ -158,6 +175,9 @@ The players see:
 
 - Mobilizing against the goblins means less guards in the Stockpile. **Tess** also likes this. **Teal** and **Dain** are invested in the Stockpile Encroachment.
 
+**Immediate Motions because of the Blight Danger**:
+- Merchants worried about trade routes with damaged elevator and now lives at stake.
+- Silan urges for no haste (because he wants his own people to get to the vinea basement).
 
 ## The Academy
 
@@ -178,7 +198,6 @@ The library rooms are spread across the entire Academy, but the main halls are f
 [Animated Book (1/4)](dm/monsters.md#animated-book)
 [Rug of Smothering (2)](dm/monsters.md#rug-of-smothering)
 
-If desired, **Zara** or **Theron** appear here and greet the players or helps out if they are fighting the animated things. (they might frantically look for a solution for healing if someone is hurt in books on shelves?)
 - **Zara** is interested in The Crypt and source of the necromantic magic and about the mine tunnels in lower Mithdral, she urged Theron to lead an expedition already.
 - **Theron** is skeptic about the goblin attack being something superficial, he believes something bigger is going on. It's
 - **Elara** desires a diplomatic approach to ensure flow of commerce, wants to strike deals with the antagonist authority.
