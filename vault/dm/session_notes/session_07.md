@@ -14,7 +14,7 @@
 
 - **Enter The Stockpile.** To introduce The Stockpile Business.
 
-[TODO] 
+[TODO]
 - Council: Introduce Silan Thornvale, Goblin progression (?).
 - Back into the Crypt: Someone else entered !!!
 
@@ -62,16 +62,14 @@ Names to use on epitaphs:
 [Gelatinous Cubes (1/2)](dm/monsters.md#gelatinous-cube)
 
 #### Engine Room
-One: [Blazing Bones (3)](dm/monsters.md#blazing-bones)
-Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 
 Souls of all the players deceased people appear with some trigger, they get introduced with a positive memory, and execute in a cursed way.
-Kal -> His whole tribe 
-  how his coming of age ceremony looked? 
+Kal -> His whole tribe
+  how his coming of age ceremony looked?
   - telling him he is a disappointment, not able to save them.
 Kazimir -> His father (because his mother isn't dead yet)
   how he looked, a childhood memory?
-  - He yells at him about how much he's one of 'them' and how you're just going to use him just like your mother and the rest of them?' 
+  - He yells at him about how much he's one of 'them' and how you're just going to use him just like your mother and the rest of them?'
 Mufi -> Adam
   a good memory playing or studying together.
   - He yells at Mufi about how noone likes him and he hates him.
@@ -95,7 +93,7 @@ Dwarven Runes (chiseled, blocky):
     Necromancy: Durz-Maznul ("death-magic")
     Blood Curse: Kardûm-Raz ("blood doom")
 
-**BACKSTORY ELEMENTS**: 
+**BACKSTORY ELEMENTS**:
   The fall occurred in 714 DR during what is known as the Weeping War.
   Myth Drannor was once the shining capital of the elven kingdom of Cormanthyr, a place of unmatched magical power and beauty.
   A horde of demons led by **Yugoloths** (fiendish mercenaries)  — known as the **Army of Darkness** — invaded **Cormanthyr**.
@@ -105,6 +103,8 @@ Dwarven Runes (chiseled, blocky):
       He was able to scent them through the planes by their elven lineage tied to mythal.
 
 - General Monsters:
+One: [Blazing Bones (3)](dm/monsters.md#blazing-bones)
+Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 [Air Mephit (1/2)](dm/monsters.md#air-mephit)
 [Steam Mephit (1/2)](dm/monsters.md#steam-mephit)
 [Glass Mephit (1/4)](dm/monsters.md#glass-mephit)
@@ -115,7 +115,7 @@ Dwarven Runes (chiseled, blocky):
 ## The Council
 
 [TODO] The Grand Factor is in liege with Zariel, trying to recruit souls for the army of hell.
-- There is something interesting in The Crypt (demonic power or such) that the grand factor wants, hirelings will show up later in The Crypt. 
+- There is something interesting in The Crypt (demonic power or such) that the grand factor wants, hirelings will show up later in The Crypt.
 
 - [Borin Grathal](dm/npcs.md#borin-grathal).
 - [Dain Elster](dm/npcs.md#dain-elster).
@@ -151,7 +151,7 @@ The players see:
 
 **Ysra Elster** -> Blue Dress, **Dain's sister**, calm and bored emote.
 
-**Motivations**: 
+**Motivations**:
 - Academy staff kind of put off by the merchant's council
 - Merchant's council wants to exert pressure on **Dain** to move The Guard towards the goblins
 - Arms dealer, Alchemist and Logistics lean towards aggression, luxury goods traders rather towards diplomacy. Especially **Ledgerhand** doesn't like aggression, dead people don't pay back debts, after all.
@@ -159,10 +159,10 @@ The players see:
 - Mobilizing against the goblins means less guards in the Stockpile. **Tess** also likes this. **Teal** and **Dain** are invested in the Stockpile Encroachment.
 
 
-## The Academy  
+## The Academy
 
 upper north east - cartography & exploration
-Along the elevator: 
+Along the elevator:
   upper south west - mechanics
   lower south west - stone works
 median market side - diplomacy & commerce
@@ -172,7 +172,7 @@ lower cellars - alchemy medicine (laboratories)
 - The canteen and lavatories on the entrance level, stairways and elevators lead to the lecture, laboraty, and library rooms.
 
 - [Theron Windrunner](dm/arvandor/characters/living_npcs.md#theron-windrunner). Human -> The energy of a young adventurer. His sun-kissed skin reflects days spent in the wild. A faint scar across his left brow hints at a few early scrapes, but his boyish confident grin suggests he relished every moment. He wears a rugged, well-worn jacket over a practical tunic, and his utility belt is stocked with cartographer’s tools.
-- [Elara Moonshadow](dm/arvandor/characters/living_npcs.md#elara-moonshadow). Elf -> Dark brown skin, silver white hair, dark blue, gold and white woven imposing dress. 
+- [Elara Moonshadow](dm/arvandor/characters/living_npcs.md#elara-moonshadow). Elf -> Dark brown skin, silver white hair, dark blue, gold and white woven imposing dress.
 
 The library rooms are spread across the entire Academy, but the main halls are found in the lower floors easily reachable from the entrance hall and elevators. The Arcane Studies rooms are seated close to the big library.
 [Animated Book (1/4)](dm/monsters.md#animated-book)
@@ -185,19 +185,19 @@ If desired, **Zara** or **Theron** appear here and greet the players or helps ou
 
 ### The Laboratories
 - **Maris Tindle**: Halfling -> Serious expression, soft skin, shoulder long flowing black hair, black eyes, tools strapped on her waist and her chest wrapped in a tight vest.
- 
-- **Location**: Dimly lit by flickering sconces, the stone-walled laboratory is alive with the bubbling of beakers and the hiss of volatile mixtures. The air is thick with the tang of sulfur and the acrid bite of chemical reagents. 
+
+- **Location**: Dimly lit by flickering sconces, the stone-walled laboratory is alive with the bubbling of beakers and the hiss of volatile mixtures. The air is thick with the tang of sulfur and the acrid bite of chemical reagents.
 Worktables are cluttered with alchemical instruments, and the occasional scorch mark on the walls hints at past experiments.
 
-- The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch. 
+- The laboratories relocated to lower quarters renovated for the introduction of the new Arcane Studies branch.
 - The laboratories are easily accessible from The Stockpile.
 
 - Maris is investigating a patient with [Sewer Plague](conditions.md#sewer-plague), [Sight Rot](conditions.md#sight-rot) or later also [Cackle Fever](conditions.md#cackle-fever). And is harvesting organs from the beheaded corpse from the elevator accident.
 - The Patient has severe tremors, shaking hands, which are withdrawal symptoms of Black Lotus. **MEDICINE** to identify.
-- **Maris** believes this is not something originating from The Stockpile or The Pit, but is not sure.  
+- **Maris** believes this is not something originating from The Stockpile or The Pit, but is not sure.
 - If wanted she uses a sending stone to call **Zara**, zara places the sending stone next to the other (giving players the opportunity to steal them).
-- **Zara** after quick analysis determines that it shares the "same magical weave with the necromancy clearly emanating from the crypt I detected when I was asked to monitor magical intrusion of the Academy's foundation after the recent tremors." (there is no intrusion, but the necromancy is apparent). 
-- **Zara** after brief introduction then urges **Maris** to rush to a Merchant Council gathering about the appointment of **Grand Factor Silan Thornvale** as new administer of trade and chapel caretaker. And they rush out, Maris dismisses patient through secret door she just clicks open. (they leave the sending stones on the table) 
+- **Zara** after quick analysis determines that it shares the "same magical weave with the necromancy clearly emanating from the crypt I detected when I was asked to monitor magical intrusion of the Academy's foundation after the recent tremors." (there is no intrusion, but the necromancy is apparent).
+- **Zara** after brief introduction then urges **Maris** to rush to a Merchant Council gathering about the appointment of **Grand Factor Silan Thornvale** as new administer of trade and chapel caretaker. And they rush out, Maris dismisses patient through secret door she just clicks open. (they leave the sending stones on the table)
 
 **Potential Reward**: [Sending Stones](dm/items.md#sending-stones)
 
@@ -214,12 +214,12 @@ Worktables are cluttered with alchemical instruments, and the occasional scorch 
 ### The Stockpile
 [Street Kid Tobben](dm/npcs.md#street-kid-tobben) is to be found across The Bridge, he's not around the warehouses.
 
-- **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies. 
-Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures, traders, and opportunists alike. 
+- **Location**: The Stockpile hums with quiet activity, a labyrinth of vaulted chambers and shadowy alcoves carved from the city's foundation. Crates, barrels, and tightly wrapped bundles fill the spaces, forming uneven walls of trade goods and supplies.
+Flickering lanterns provide scant light, casting long, shifting shadows over bustling figures, traders, and opportunists alike.
 The air is thick with the tang of oil, mildew, and secrecy, a reminder that here, the line between legitimate commerce and shady dealings is perilously thin.
 
 - There's paths leading out from the warehouse floors, to The Bridge (the span looking down into the depths of The Pit).
-- People moving around gears and tools. 
+- People moving around gears and tools.
 
 - Two guards (people dressed as guards?) moving a crate out of a warehouse room towards The Bridge.
 
@@ -229,7 +229,7 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
   Through the clean glass panel you can see rows of vibrant symbols - visualized runes, gems, and coins.
   It features a hand crank on the side, a wooden lever with an ivory ball at the end.
   There is a slit in the brass next to the crank, a little finger's width.
-  **When the crank is pulled**, the symbols spin wildly before clattering into place with the satisfying click of brass levers locking into position. 
+  **When the crank is pulled**, the symbols spin wildly before clattering into place with the satisfying click of brass levers locking into position.
     - A soft chime accompanies a win, while the faint scent of oil and ozone lingers in the air.
 
 - Some boxes contain Black Lotus. (touching the flower poisons your skin, giving you a rash.)
@@ -246,7 +246,7 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 
 
 ### The Pit
-- **Location**: Far below the Stockpile, the air grows heavy and oppressive, and the cavernous expanse of the Pit stretches into the dark. Makeshift homes and shanties cling precariously to the walls, their occupants eking out a living amidst the underworld's strange and chaotic energy. 
+- **Location**: Far below the Stockpile, the air grows heavy and oppressive, and the cavernous expanse of the Pit stretches into the dark. Makeshift homes and shanties cling precariously to the walls, their occupants eking out a living amidst the underworld's strange and chaotic energy.
 - The chatter of diverse voices — *gruff, lilting, and guttural* — echoes through the gloom, mingling with the distant sounds of flowing water and shifting stone. Dim phosphorescent fungi provide a ghostly light, illuminating the signs of a thriving yet precarious community, teetering between survival and descent into the mysteries of the Underdark below.
 
 [Aberration](dm/monster_info.md#aberration)
@@ -258,7 +258,7 @@ The air is thick with the tang of oil, mildew, and secrecy, a reminder that here
 - **Location**: The warm, yeasty scent of fresh bread envelops you as you step into the cozy bakery. A stout dwarf with flour-dusted hands works deftly at kneading dough, his braided beard swinging with the rhythm. Rows of golden loaves and sweet pastries line the shelves, their crusts glistening in the soft glow of the hearth.
 
 Found among Brennar's old books:
-  - About her partner Durnin Ironfoot: 
+  - About her partner Durnin Ironfoot:
     How much they trusted each other.
     How painful it was to lose him and everyone else to **The Frozen Depths**.
   - About her friendship with the Elf **Thalioel**:
@@ -275,19 +275,19 @@ Found among Brennar's old books:
   - About House Elster and House Vinea:
     How she feels ever since **The Frozen Depths**, every generation of Elster treats her worse than the previous, and that after she built **The Estates** this became worse even faster.
     "I'm so glad Thedran, the foul bastard, died before me.
-     I hope House Elster get their heads out of their unbearable behinds after my passing, 
+     I hope House Elster get their heads out of their unbearable behinds after my passing,
      but I won't hold my breath, Thedran's son Zephyr stinks just as much with his juvenile nonsense."
   - About **Selera Vinea**:
-    How her friendship withered and how she disproves of Selera's thirst for power 
+    How her friendship withered and how she disproves of Selera's thirst for power
     and warning her about the dangers of her persuit, even though she understands her frustration with House Elster.
   - About the creation of **The Crypt**:
     The Council wanted a simple chamber each for their Elster and Vinea.
     South Antechamber accessible from the graveyard so people could visit the recently deceased before they were carried further down into The Crypt.
   - About the **Containment Engine**:
-    the containment of The Blood Curse and Thalioel's details about their corrupted souls, the restlessness they will feel, 
+    the containment of The Blood Curse and Thalioel's details about their corrupted souls, the restlessness they will feel,
     that they won't be able to leave the mortal realm and the necessity to stop the soul corruption from **festering**.
     the stronger the elf's magic, the stronger the containment would need to be to halt the festering, therefore the lower chambers are reserved for **The Sword Dancers** and **The Magi**.
-    Runic generator and capacitors to channel the magic nullification, 
+    Runic generator and capacitors to channel the magic nullification,
     carving of elegant elven like patterns between geometric precise dwarven runes of abjuration
     drawing power from the **ley lines** and channeling them through pipes of Mithril to reach the tombs.
     The **runic enablers** slotted into the machine to capture the ley line energy.
@@ -304,7 +304,7 @@ Found among Brennar's old books:
     Named after his grandfather, known for his expertise in stone bridges and aqueducts.
   - **IV. Orin Stonewright**
   Dwarf, M. (b. 1142 DR - d. 1456 DR)
-    Master mason, expanded Tazlyn's designs in human cities. 
+    Master mason, expanded Tazlyn's designs in human cities.
     Always spoke highly of Tazlyn and New Arvandal, the motivation for Brennar to move to New Arvandal.
   - **V. Harren Stonewright**
   Dwarf, M. (b. 1220 DR - d. 1485 DR)
@@ -322,10 +322,10 @@ Found among Brennar's old books:
 ### The Castle Ruins
 - **Skeleton of Lyanna Harvestsong** in the north tower.
 
-- **Location**: The air is thick and damp as you approach the remnants of the estate, now a hollow shell of its former self. 
+- **Location**: The air is thick and damp as you approach the remnants of the estate, now a hollow shell of its former self.
   The jagged outline of crumbled stone walls juts from the surface of murky, knee-deep sludgy water.
-  Mud and decay cling to every surface, and the faint outlines of once-proud arches and windows are obscured by grime. 
-  A stagnant stench fills the air, and the occasional ripple suggests unseen movement below the surface. 
+  Mud and decay cling to every surface, and the faint outlines of once-proud arches and windows are obscured by grime.
+  A stagnant stench fills the air, and the occasional ripple suggests unseen movement below the surface.
   Whatever history this place once held now lies buried, swallowed by the mire.
 
   In the water [Poolish Ooze Discard (1/4)](dm/monsters.md#poolish-ooze-discard).

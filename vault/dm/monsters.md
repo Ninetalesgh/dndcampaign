@@ -1,4 +1,33 @@
 
+### Shambling Mound
+**CR**: 5
+*Large plant, Unaligned*
+- **Initiative**: -1
+- **AC**: 15 (natural armor)
+- **HP**: 136 (16d10 + 48)
+- **Speed**: walk 4 *(6m)*, swim 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 8 (-1) | 16 (+3) | 5 (-3) | 10 (+0) | 5 (-3) 
+
+- **Skills**: stealth: +2
+- **Resistances**: cold, fire;
+- **Immunities**: lightning; [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion)
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 10
+- **Traits**: 
+   - **Lightning Absorption**. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of HP equal to the lightning damage dealt.
+- **Actions**: 
+   - **Multiattack**. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [Grappled](conditions.md#grappled) (escape DC 14), and the shambling mound uses its Engulf on it.
+   - **Slam**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 13 (2d8 + 4) bludgeoning damage.
+   - **Boring Roots**. One creature [Grappled](conditions.md#grappled) by the mound must make a DC 14 CON Save as the shambling mound attempts to bore roots through its flesh. On a failed save, the creature takes 27 (6d8) necrotic damage, and its HP maximum is reduced by the same amount.
+   - **Engulf**. The shambling mound engulfs a Medium or smaller creature [Grappled](conditions.md#grappled) by it. The engulfed target is [Blinded](conditions.md#blinded), [Restrained](conditions.md#restrained), and unable to breathe, and it must succeed on a DC 14 CON Save at the start of each of the mound's turns or take 13 (2d8 + 4) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+- **Reactions**: 
+   - **Entangling Hide**. As a reaction to being hit with a melee attack, the shambling mound can force the attacker to make a DC 14 DEX Save or be [Grappled](conditions.md#grappled).
+*(Source: ConfluxCreatures)*
+
+
 ## Monsters A
 ### Air Mephit
 **CR**: 1/2

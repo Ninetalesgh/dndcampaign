@@ -27,7 +27,7 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
-- **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies).
+- **Tool Proficiencies**: [Alchemist's Supplies](dm/items.md#alchemists-supplies), [Disguise Kit](vault/dm/items.md#disguise-kit).
 - **Languages**: Common, Undercommon, Thieves' Cant
 
 [TODO] 1 Tool Proficiency
@@ -82,6 +82,7 @@
 ### Passive Feats
   [Action Surge *(Once per Short Rest)*](feats.md#action-surge)
   [Tactical Mind *(Uses Second Wind Charges)*](feats.md#tactical-mind)
+  [Charger](vault/feats.md#charger)
   [Spider Climb](vault/feats.md#spider-climb)
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Weapon Masteries**: Daggers, Javelins, Shortswords, Longswords. *(Switch 1 after Long Rest)*
