@@ -718,6 +718,17 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 - **Bolstering Performance.** When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within range 6 *(9m)*of yourself who witness the performance. The chosen creatures each gain Temporary HP equal to your character level plus the modifier of the ability you increased with this feat.
 ![\|50](https://bg3.wiki/w/images/1/19/Heroism_Icon.webp)
 
+## Mage Hand Lourdemain
+*(Prerequisite: Arcane Trickster Rogue Level 4+)*
+- **+1 Ability Score.**
+- Your [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain) now can travel up to range 12 *(18m)* away from you, can be used to attack with *daggers* it's holding as if you were performing a Ranged Attack, with the following additional benefits:
+  - **Nimble Somatics.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Ranged Attacks with your spectral hand.
+  - **Bypass Cover.** Your Ranged Attacks with your spectral hand ignore Half Cover and Three-Quarters Cover.
+  - **Ethereal Items.** You are able to conjure items you carry on your person that the hand would be able to carry into the hand and back. This counts as *grabbing/switching/storing something from/in your belt*, even if the item isn't physically easily accessible on your belt.
+  - **Arcane Channel.** You are able to activate magical items with the hand.
+![\|50](https://i.imgur.com/K784BxT.png)
+*(Source: Custom)*
+
 ## Mounted Combatant
 *Prerequisite: Level 4+*
 - **+1 Ability Score.**
@@ -778,17 +789,6 @@ You have a climbing speed equal to your walking speed. You can move up, down, an
 - *+1 Ability Score, only if chosen above level 1.*
 Your HP increase by 2 per Level.
 ![\|50](https://bg3.wiki/w/images/e/e3/Tough_Icon.webp)
-
-## Mage Hand Lourdemain
-*(Prerequisite: Arcane Trickster Rogue Level 4+)*
-- **+1 Ability Score.**
-- Your [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain) now can travel up to range 12 *(18m)* away from you, can be used to attack with *daggers* it's holding as if you were performing a Ranged Attack, with the following additional benefits:
-  - **Nimble Somatics.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Ranged Attacks with your spectral hand.
-  - **Bypass Cover.** Your Ranged Attacks with your spectral hand ignore Half Cover and Three-Quarters Cover.
-  - **Ethereal Items.** You are able to conjure items you carry on your person that the hand would be able to carry into the hand and back. This counts as *grabbing/switching/storing something from/in your belt*, even if the item isn't physically easily accessible on your belt.
-  - **Arcane Channel.** You are able to activate magical items with the hand.
-![\|50](https://i.imgur.com/K784BxT.png)
-*(Source: Custom)*
 
 ## TODO Kazimir
 

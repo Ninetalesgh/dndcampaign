@@ -1,5 +1,5 @@
 # Nyari
-- **Paladin of the Ancients Level**: 4
+- **Oath of the Ancients Paladin Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +1 *(PB + DEX)*
 - **AC**: 19 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield) + Defense)

@@ -8,12 +8,12 @@
 - **Size**: [Small](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 8 (-1)     | DEX 17 (+4)               | CON 13 (+1)   |
+| STR 8 (-1)     | DEX 18 (+4)               | CON 13 (+1)   |
 | :------------- | :------------------------ | :------------ |
 | ☐ STR Save -1  | ☑ **DEX Save +6**         | ☐ CON Save +1 |
-| ☐ Athletics +1 | ☑ **Acrobatics +6**      | .             |
+| ☐ Athletics +1 | ☑ **Acrobatics +6**       | .             |
 | .              | ☑☑ **Sleight of Hand +8** | .             |
-| .              | ☑☑ **Stealth +8**          | .             |
+| .              | ☑☑ **Stealth +8**         | .             |
 
 
 | INT 16 (+3)            | WIS 12 (+1)          | CHA 8 (-1)        |
@@ -92,7 +92,7 @@
   [Hide](game_rules.md#turn-based-play#hide)
   [Steady Aim](vault/feats.md#steady-aim)
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
-
+  [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain)
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)

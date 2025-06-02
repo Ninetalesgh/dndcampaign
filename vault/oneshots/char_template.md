@@ -9,22 +9,22 @@
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR $ (-$)         | DEX $$ (+$)          | CON $$ (+$)       |
-| :----------------- | :------------------- | :---------------- |
-| ☐ STR Save -$      | ☑ **DEX Save +$**    | ☐ CON Save +1     |
-| ☐ Athletics -$     | ☐ Acrobatics +$      | .                 |
-| .                  | ☐ Sleight of Hand +$ | .                 |
-| .                  | ☑ **Stealth +$**     | .                 |
+| STR $$ (+$)         | DEX $$ (+$)              | CON $$ (+$)       |
+| :----------------- | :----------------------- | :---------------- |
+| ☐ STR Save +$      | ☑ **DEX Save +$**        | ☐ CON Save +1     |
+| ☐ Athletics +$     | ☐ Acrobatics +$          | .                 |
+| .                  | ☐ Sleight of Hand +$     | .                 |
+| .                  | ☑ **Stealth +$**         | .                 |
 
 
-| INT $$ (+$)        | WIS $$ (+$)              | CHA $$ (+$)        |
-| :----------------- | :----------------------- | :----------------- |
-| ☐ INT Save +$      | ☑ **WIS Save +$**        | ☐ CHA Save +$      |
-| ☐ Arcana +$        | ☑ **Animal Handling +$** | ☐ Deception +$     |
-| ☐ History +$       | ☐ Insight +$             | ☐ Intimidation +$  |
-| ☐ Investigation +$ | ☑ **Medicine +$**        | ☐ Performance +$   |
-| ☑☑ **Nature +$**   | ☐ Perception +$          | ☐ Persuasion +$    |
-| ☐ Religion +$      | ☑ **Survival +$**        | .                  |
+| INT $$ (+$)            | WIS $$ (+$)              | CHA $$ (+$)           |
+| :--------------------- | :----------------------- | :-------------------- |
+| ☐ INT Save +$          | ☑ **WIS Save +$**        | ☐ CHA Save +$         |
+| ☐ Arcana +$            | ☑ **Animal Handling +$** | ☐ Deception +$        |
+| ☐ History +$           | ☐ Insight +$             | ☐ Intimidation +$     |
+| ☐ Investigation +$     | ☑ **Medicine +$**        | ☐ Performance +$      |
+| ☑☑ **Nature +$**       | ☐ Perception +$          | ☐ Persuasion +$       |
+| ☐ Religion +$          | ☑ **Survival +$**        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
