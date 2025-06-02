@@ -1,39 +1,3 @@
-# Origin Feats
-
-## Alert
-- **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
-- **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
-![\|50](https://bg3.wiki/w/images/9/93/Danger_Sense_Icon.webp)
-
-## Crafter
-- **Discount.** Whenever you buy a nonmagical item, you receive a 20% discount on it.
-- **Tool Proficiency.** You gain proficiency with three different Artisan's Tools of your choice from the list below.
-- **Fast Crafting.** As your [Long Rest Activity](vault/game_rules.md#long-rest-activity) you can craft one of the items associated with an available tool you are proficient with. The item lasts until the next Long Rest, at which point it falls apart.
-   [Carpenter's Tools](vault/dm/items.md#carpenters-tools)
-      - [Ladder](vault/dm/items.md#ladder), [Torch](vault/dm/items.md#torch)
-   [Leatherworker's Tools](vault/dm/items.md#leatherworkers-tools)
-      - [Crossbow Bolt Case](vault/dm/items.md#crossbow-bolt-case), [Map or Scroll Case](vault/dm/items.md#map-or-scroll-case), [Pouch](vault/dm/items.md#pouch)
-   [Mason's Tools](vault/dm/items.md#masons-tools)
-      - [Block and Tackle](vault/dm/items.md#block-and-tackle)
-   [Potter's Tools](vault/dm/items.md#potters-tools)
-      - [Jug](vault/dm/items.md#jug), [Lamp](vault/dm/items.md#lamp)
-   [Smith's Tools](vault/dm/items.md#smiths-tools)
-      - [Ball Bearings](vault/dm/items.md#ball-bearings), [Bucket](vault/dm/items.md#bucket), [Caltrops](vault/dm/items.md#caltrops), [Grappling Hook](vault/dm/items.md#grappling-hook), [Iron Pot](vault/dm/items.md#iron-pot)
-   [Tinker's Tools](vault/dm/items.md#tinkers-tools)
-      - [Bell](vault/dm/items.md#bell), [Shovel](vault/dm/items.md#shovel), [Tinderbox](vault/dm/items.md#tinderbox)
-   [Weaver's Tools](vault/dm/items.md#weavers-tools)
-      - [Basket](vault/dm/items.md#basket), [Rope](vault/dm/items.md#rope), [Net](vault/dm/items.md#net), [Tent](vault/dm/items.md#tent)
-   [Woodcarver's Tools](vault/dm/items.md#woodcarvers-tools)
-      - [Club](vault/dm/items.md#club), [Greatclub](vault/dm/items.md#greatclub), [Quarterstaff](vault/dm/items.md#quarterstaff)
-*(Source: PHB'24, page 200)*
-
-## Skilled
-You gain proficiency in any combination of three skills or tools of your choice.
-Repeatable. You can take this feat more than once.
-
-## Tough
-Your HP increase by 2 per Level.
-
 
 # Class Feats
 ## Artificer
@@ -59,20 +23,20 @@ At the end of a long rest, you can create a new steel defender if you have your 
 - **Speed**: walk 8 *(12m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-14 (+2) | 12 (+1) | 14 (+2) | 4 (-3) | 10 (+0) | 6 (-2) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+14 (+2) | 12 (+1) | 14 (+2) | 4 (-3) | 10 (+0) | 6 (-2)
 
 - **Skills**: athletics: +2 plus PB, perception: +0 plus PB × 2
 - **Immunities**: poison; [Charmed](conditions.md#charmed), [Exhaustion](conditions.md#exhaustion), [Poisoned](conditions.md#poisoned)
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10 + (PB × 2)
 - **Languages**: understands the languages you speak
-- **Traits**: 
+- **Traits**:
    - **Vigilant**. The defender can't be [surprised](conditions.md#surprised).
-- **Actions**: 
-   - **Force-Empowered Rend**. *Melee Attack:* Your SAM to hit, reach 1 *(1.5m)*, one target you can see. 
+- **Actions**:
+   - **Force-Empowered Rend**. *Melee Attack:* Your SAM to hit, reach 1 *(1.5m)*, one target you can see.
     *Hit:* 1d8 + PB force damage.
    - **Repair (3/Day)**. The magical mechanisms inside the defender restore 2d8 + PB HP to itself or to one construct or object within 1 *(1.5m)* of it.
-- **Reactions**: 
+- **Reactions**:
    - **Deflect Attack**. The defender imposes disadvantage on the attack roll of one creature it can see that is within 1 *(1.5m)* of it, provided the attack roll is against a creature other than the defender.
 *(Source: TCE, page 19)*
 
@@ -94,7 +58,7 @@ As a **Bonus Action** you shape-change into one of your prepared Wild Shapes wit
 - You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
- 
+
 ### Wild Shape, Moon
 As a **Bonus Action** you shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of *(your Druid Level / 3)*, with following effects:
 - You gain **Temporary HP** equal to *(your Druid Level * 3)*.
@@ -106,7 +70,7 @@ As a **Bonus Action** you shape-change into one of your prepared Wild Shapes wit
 - You can only cast explicitly allowed Moon Druid Spells, but shape-shifting does not break your [Concentration](conditions.md#concentration) of previously cast spells.
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
- 
+
 ## Fighter
 
 ### Action Surge
@@ -177,16 +141,16 @@ Whenever you finish a Long Rest, you can summon a different primal beast, which 
 - **Speed**: walk 1 *(1.5m)*, swim 12 *(18m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-14 (+2) | 14 (+2) | 15 (+2) | 8 (-1) | 14 (+2) | 11 (+0) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+14 (+2) | 14 (+2) | 15 (+2) | 8 (-1) | 14 (+2) | 11 (+0)
 
 - **Senses**: [Darkvision *(27m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
 - **Languages**: understands the languages you know
-- **Traits**: 
+- **Traits**:
    - **Amphibious**. The beast can breathe air and water.
    - **Primal Bond**. Add your Proficiency Bonus to any ability check or Save the beast makes.
-- **Actions**: 
-   - **Beast's Strike**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Beast's Strike**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)*
       *Hit:* 1d6 + 2 plus your WIS modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target becomes [Grappled](conditions.md#grappled) (escape DC equals your spell save DC).
 *(Source: XPHB, page 124)*
 
@@ -212,13 +176,17 @@ STR | DEX | CON | INT | WIS | CHA
 During your turn, if you make a Melee Attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
 ![\|50](https://bg3.wiki/w/images/5/5b/Fancy_Footwork_Icon.webp)
 
+### Mage Hand Legerdemain
+You always have [Mage Hand](spells.md#spells-m#mage-hand) prepared, you can cast it as a **Bonus Action**, you can make the spectral hand [invisible](conditions.md#invisible), and you can make DEX (Sleight of Hand) checks through it.
+![\|50](https://bg3.wiki/w/images/f/f9/Mage_Hand_Icon.webp)
+
 ### Rakish Audacity
 - You get +CHA to your Initiative.
 - You are also able to use [Sneak Attack](vault/feats.md#sneak-attack) if you are attacking a creature within range 1 *(1.5m)* and you are not within range 1 *(1.5m)* of any other creature, and you don't have Disadvantage on the attack.
 ![\|50](https://bg3.wiki/w/images/b/ba/Rakish_Audacity_Icon.webp)
 
 ### Sneak Attack
-Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type. 
+Once per turn, you can deal an extra **[ *Rogue Level / 2 (round up)* ] d6** damage to one creature you hit with an attack roll if you have Advantage on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.
 - You don't need Advantage on the attack roll if at least one of your allies is within range 1 *(1.5m)* of the target, the ally doesn't have the [Incapacitated](conditions.md#incapacitated) condition, and you **don't** have Disadvantage on the attack roll.
 
 **Starting at Level 5, Cunning Strike**
@@ -261,61 +229,61 @@ You have an amount of **Sorcery Points** equal to your Sorcerer Level and the fo
 
 ### Metamagic
 #### Careful Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, spend 1 Sorcery Point and choose a number of those creatures up to your Charisma modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell, and it takes no damage if it would normally take half damage on a successful save.
 ![\|50](https://bg3.wiki/w/images/f/f4/Metamagic_Careful_Spell_Icon.webp)
 *(Source: PHB'24 141)*
 
 #### Distant Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell that has a range of at least 5 feet, you can spend 1 Sorcery Point to double the spell's range. Or when you cast a spell that has a range of Touch, you can spend 1 Sorcery Point to make the spell's range 30 feet.
 ![\|50](https://bg3.wiki/w/images/c/ca/Metamagic_Distant_Spell_Icon.webp)
 *(Source: PHB'24 141)*
 
 #### Empowered Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you roll damage for a spell, you can spend 1 Sorcery Point to reroll a number of the damage dice up to your Charisma modifier (minimum of one), and you must use the new rolls.
 You can use Empowered Spell even if you've already used a different Metamagic option during the casting of the spell.
 *(Source: PHB'24 142)*
 
 #### Extended Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell that has a duration of 1 minute or longer, you can spend 1 Sorcery Point to double its duration to a maximum duration of 24 hours.
 ![\|50](https://bg3.wiki/w/images/9/96/Metamagic_Extended_Spell_Icon.webp)
 *(Source: PHB'24 142)*
 
 If the affected spell requires Concentration, you have Advantage on any saving throw you make to maintain that Concentration.
 #### Heightened Spell
-*Cost: 2 Sorcery Points* 
+*Cost: 2 Sorcery Points*
 When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell Disadvantage on saves against the spell.
 ![\|50](https://bg3.wiki/w/images/5/56/Metamagic_Heightened_Spell_Icon.webp)
 *(Source: PHB'24 142)*
 
 #### Quickened Spell
-*Cost: 2 Sorcery Points* 
+*Cost: 2 Sorcery Points*
 When you cast a spell that has a casting time of an action, you can spend 2 Sorcery Points to change the casting time to a Bonus Action for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 ![\|50](https://bg3.wiki/w/images/a/a9/Metamagic_Quickened_Spell_Icon.webp)
 *(Source: PHB'24 142)*
 
 #### Seeking Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 If you make an attack roll for a spell and miss, you can spend 1 Sorcery Point to reroll the d20, and you must use the new roll.
 You can use Seeking Spell even if you've already used a different Metamagic option during the casting of the spell.
 *(Source: PHB'24 142)*
 
 #### Subtle Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell, you can spend 1 Sorcery Point to cast it without any Verbal, Somatic, or Material components, except Material components that are consumed by the spell or that have a cost specified in the spell.
 ![\|50](https://bg3.wiki/w/images/a/a5/Metamagic_Subtle_Spell_Icon.webp)
 *(Source: PHB'24 142)*
 
 #### Transmuted Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell that deals a type of damage from the following list, you can spend 1 Sorcery Point to change that damage type to one of the other listed types: Acid, Cold, Fire, Lightning, Poison, Thunder.
 *(Source: PHB'24 142)*
 
 #### Twinned Spell
-*Cost: 1 Sorcery Point* 
+*Cost: 1 Sorcery Point*
 When you cast a spell, such as Charm Person, that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 ![\|50](https://bg3.wiki/w/images/f/fe/Metamagic_Twinned_Spell_Icon.webp)
 *(Source: PHB'24 142)*
@@ -363,7 +331,7 @@ Once per turn, you can roll 1d20 immediately after you cast a Sorcerer spell wit
 
 ## Warlock
 ### Dark One's Blessing
-When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *[CHA + your Warlock Level]* 
+When you reduce an enemy to 0 HP or if an enemy within range 2 *(3m)* of you is reduced to 0 HP, you gain Temporary HP equal to *[CHA + your Warlock Level]*
 ![\|50](https://bg3.wiki/w/images/5/59/Grim_Harvest_Icon.webp)
 
 ### Eldritch Invocations
@@ -380,7 +348,7 @@ You have Advantage on CON Saves that you make to maintain [Concentration](condit
 #### Pact of the Blade
 As a Bonus Action, you can either conjure any Melee Weapon of your choice as pact weapon in your hand or create a bond with a Melee Weapon you touch. Until the bond ends, you have proficiency with that weapon.
 Whenever you attack with the bonded weapon, you can **use your CHA for the Attack and Damage rolls instead of your STR**; and you can cause the weapon to deal **Necrotic**, **Psychic**, or **Radiant** damage or its normal damage type.
-Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends. You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it. 
+Your bond with the weapon ends if you use this feature's Bonus Action again, if the weapon is more than range 1 *(1.5m)* away from you for 1 minute or more, or if you die. A conjured weapon disappears when the bond ends. You can't bond with a magic weapon if someone else is attuned to it or another Warlock is bonded with it.
 ![\|50](https://bg3.wiki/w/images/2/24/Weapon_Bond_Icon.webp)
 *(Source: PHB'24, page 156)*
 
@@ -580,7 +548,7 @@ You also gain proficiency in the **Performance** skill.
 ### Shapechanger CUSTOM
 **Action**, *Choose one of the following*:
 - Transform into a [Tiny](vault/game_rules.md#creature-sizes) [Flying Creature](vault/feats.md#tiny-flying-creature). While transformed into the fairy you can't use any feats other than this feat and the fairy attack.
-- Transform into any [Small](vault/game_rules.md#creature-sizes) to [Medium](vault/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely. 
+- Transform into any [Small](vault/game_rules.md#creature-sizes) to [Medium](vault/game_rules.md#creature-sizes) humanoid creature. You can conjure a unusable tail but no extra limbs, otherwise the desired form can be chosen freely.
 ![\|50](https://bg3.wiki/w/images/9/9d/Shapechanger_Icon.webp)
 *(Source: Custom)*
 #### Tiny Flying Creature
@@ -589,15 +557,15 @@ You also gain proficiency in the **Performance** skill.
 - **AC**: 12
 - **Speed**: walk 2 *(3m)*, fly 10 *(15m)*
 
-STR | DEX | CON 
- :--: | :--: | :--: 
-2 (-4) | 14 (+2) | 10 (+0) 
+STR | DEX | CON
+ :--: | :--: | :--:
+2 (-4) | 14 (+2) | 10 (+0)
 
 - **Skills**: perception: +3
 - **Senses**: passive perception 13
-- **Traits**: 
-- **Actions**: 
-   - **Slap**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+- **Traits**:
+- **Actions**:
+   - **Slap**. *Melee Attack:* +4, reach 1 *(1.5m)*
     *Hit:* 1 Slashing damage.
 *(Source: XMM, page 368)*
 
@@ -635,7 +603,7 @@ As an Action you touch a creature and roll a number of d4s equal to your PB. The
 ![\|50](https://bg3.wiki/w/images/7/72/Preserve_Life_Icon.webp)
 
 ### Celestial Revelation
-As a Bonus Action you can transform yourself in one of three ways for up to 1 minute. *(Once per Long Rest)* 
+As a Bonus Action you can transform yourself in one of three ways for up to 1 minute. *(Once per Long Rest)*
 **Bonus Damage.** While you are transformed, when you deal damage with an attack or spell during your turn, you may deal bonus damage equal to your PB, the damage type depends on your transformation. *(Once per turn)*
 **Possible Transformations:**
 - **Heavenly Wings.** *Two spectral wings sprout from your back.* You gain a Fly Speed equal to your Speed. The bonus damage you deal is **Radiant**.
@@ -674,15 +642,8 @@ When you are reduced to 0 HP but not killed outright, you can drop to 1 HP inste
 
 
 # General Feats
-
-## Charger
-- **Improved Dash.** When you take the [Dash](vault/game_rules.md#dash) Action, your Speed increases by 2 for that action.
-- **Charge Attack.** If you move at least 2 *(3m)* in a straight line toward a target immediately before hitting it with a Melee Attack as part of the Attack Action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or [Push 2](vault/dm/item_info.md#push). *(Once per Turn)*
-![\|50](https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp)
-*(Source: PHB'24, page 202)*
-
 ## Extra Attack
-You can make an additional **Free Attack** Whenever you take the **Attack Action**. 
+You can make an additional **Free Attack** Whenever you take the **Attack Action**.
 ![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
 
 ## Fighting Style
@@ -695,13 +656,56 @@ You can make an additional **Free Attack** Whenever you take the **Attack Action
 - **Protection**: When a creature you can see attacks a target other than you that is within range 1 *(1.5m)* of you, you can take a Reaction to interpose your Shield if you're holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within range 1 *(1.5m)* of the target.
 - **Thrown Weapon Fighting**: When you hit with a Ranged Attack roll using a weapon that has the Thrown property, you gain a +2 bonus to the damage roll.
 - **Two-Weapon Fighting**: When you make an extra attack as a result of using a weapon that has the [Light](dm/items.md#item-info#weapon-properties#light) property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
-- **Unarmed Fighting**: 
+- **Unarmed Fighting**:
   - When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 + STR instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
   - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature [Grappled](conditions.md#grappled) by you.
 ![\|50](https://bg3.wiki/w/images/a/ae/Duelling_Icon.webp)
 *(Source: PHB'24, page 209)*
 
+# Choice Feats
+
+## Alert
+*(Prerequisite: -)*
+- *+1 Ability Score, only if chosen above level 1.*
+- **Initiative Proficiency.** When you roll Initiative, you can add your Proficiency Bonus to the roll.
+- **Initiative Swap.** Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally is [Incapacitated](conditions.md#incapacitated).
+![\|50](https://bg3.wiki/w/images/9/93/Danger_Sense_Icon.webp)
+
+## Charger
+*Prerequisite: Level 4+*
+- **+1 Ability Score.**
+- **Improved Dash.** When you take the [Dash](vault/game_rules.md#dash) Action, your Speed increases by 2 for that action.
+- **Charge Attack.** If you move at least 2 *(3m)* in a straight line toward a target immediately before hitting it with a Melee Attack as part of the Attack Action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or [Push 2](vault/dm/item_info.md#push). *(Once per Turn)*
+![\|50](https://bg3.wiki/w/images/7/71/Boar_Charge_Icon.webp)
+*(Source: PHB'24, page 202)*
+
+## Crafter
+*(Prerequisite: -)*
+- *+1 Ability Score, only if chosen above level 1.*
+- **Discount.** Whenever you buy a nonmagical item, you receive a 20% discount on it.
+- **Tool Proficiency.** You gain proficiency with three different Artisan's Tools of your choice from the list below.
+- **Fast Crafting.** As your [Long Rest Activity](vault/game_rules.md#long-rest-activity) you can craft one of the items associated with an available tool you are proficient with. The item lasts until the next Long Rest, at which point it falls apart.
+   [Carpenter's Tools](vault/dm/items.md#carpenters-tools)
+      - [Ladder](vault/dm/items.md#ladder), [Torch](vault/dm/items.md#torch)
+   [Leatherworker's Tools](vault/dm/items.md#leatherworkers-tools)
+      - [Crossbow Bolt Case](vault/dm/items.md#crossbow-bolt-case), [Map or Scroll Case](vault/dm/items.md#map-or-scroll-case), [Pouch](vault/dm/items.md#pouch)
+   [Mason's Tools](vault/dm/items.md#masons-tools)
+      - [Block and Tackle](vault/dm/items.md#block-and-tackle)
+   [Potter's Tools](vault/dm/items.md#potters-tools)
+      - [Jug](vault/dm/items.md#jug), [Lamp](vault/dm/items.md#lamp)
+   [Smith's Tools](vault/dm/items.md#smiths-tools)
+      - [Ball Bearings](vault/dm/items.md#ball-bearings), [Bucket](vault/dm/items.md#bucket), [Caltrops](vault/dm/items.md#caltrops), [Grappling Hook](vault/dm/items.md#grappling-hook), [Iron Pot](vault/dm/items.md#iron-pot)
+   [Tinker's Tools](vault/dm/items.md#tinkers-tools)
+      - [Bell](vault/dm/items.md#bell), [Shovel](vault/dm/items.md#shovel), [Tinderbox](vault/dm/items.md#tinderbox)
+   [Weaver's Tools](vault/dm/items.md#weavers-tools)
+      - [Basket](vault/dm/items.md#basket), [Rope](vault/dm/items.md#rope), [Net](vault/dm/items.md#net), [Tent](vault/dm/items.md#tent)
+   [Woodcarver's Tools](vault/dm/items.md#woodcarvers-tools)
+      - [Club](vault/dm/items.md#club), [Greatclub](vault/dm/items.md#greatclub), [Quarterstaff](vault/dm/items.md#quarterstaff)
+*(Source: PHB'24, page 200)*
+
 ## Great Weapon Master - PHB 2014
+*Prerequisite: Level 4+*
+- **+1 Ability Score.**
 You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
 - On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
 - Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.
@@ -709,35 +713,83 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 *(Source: PHB'14, page 167. Reprinted as Great Weapon Master in PHB'24)*
 
 ## Inspiring Leader
+*Prerequisite: Level 4+*
+- **+1 Ability Score.**
 - **Bolstering Performance.** When you finish a Short or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within range 6 *(9m)*of yourself who witness the performance. The chosen creatures each gain Temporary HP equal to your character level plus the modifier of the ability you increased with this feat.
 ![\|50](https://bg3.wiki/w/images/1/19/Heroism_Icon.webp)
 
 ## Mounted Combatant
-- **Ability Score Increase.** Increase your Strength, Dexterity, or Wisdom by 1, to a maximum of 20.
-
+*Prerequisite: Level 4+*
+- **+1 Ability Score.**
 - **Mounted Strike.** While [Mounted](vault/game_rules.md#mounted-combat), you have Advantage on attack rolls against any unmounted creature within range 1 *(1.5m)* of your mount that is at least one [size](vault/game_rules.md#creature-sizes) smaller than the mount.
-
 - **Leap Aside.** If your mount is subjected to an effect that allows it to make a DEX Save to take only half damage, it instead takes no damage if it succeeds on the Save and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can be [Incapacitated](vault/conditions.md#incapacitated).
-
 - **Veer.** While mounted, you can force an attack that hits your mount to hit you instead if you are not [Incapacitated](vault/conditions.md#incapacitated).
 ![\|50](https://bg3.wiki/w/images/6/68/Aspect_of_the_Beast_Stallion_Icon.webp)
 *(Source: PHB'24, page 191)*
 
+## Prestiguous Witch
+*Prerequisite: Warlock Level 4+*
+- **+1 Ability Score.**
+- You always have [Hex](spells.md#spells-h#hex) prepared, it no longer takes [Concentration](vault/conditions.md#concentration) to uphold. Once per Long Rest, you can cast it without using a Spell Slot.
+![\|50](https://bg3.wiki/w/images/8/81/Hex_Constitution_Icon.webp)
+*(Source: Custom)*
+
+## Shield Master
+*Prerequisite: Level 4+, Shield Training*
+- **+1 Ability Score.**
+- **Shield Bash.** If you attack a creature within range 1 *(1.5m)* as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a STR Save. On a failed save, you either push the target 1 *(1.5m)* from you or cause it to fall [Prone](vault/conditions.md#prone) (your choice). *(Once per turn)*
+- ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Interpose Shield.** If you succeed on a DEX Save that would half damage of an effect while holding a shield, you can take a Reaction to take no damage instead.
+![\|50](https://bg3.wiki/w/images/e/e9/Shield_Master_Block_Icon.webp)
+*(Source: PHB'24, page 207)*
+
+## Skilled
+*(Prerequisite: -)*
+- *+1 Ability Score, only if chosen above level 1.*
+You gain proficiency in any combination of three skills or tools of your choice.
+Repeatable. You can take this feat more than once.
+
 ## Speedy
+*Prerequisite: Level 4+*
+- **+1 Ability Score.**
 - **Speed Increase.** Your Speed increases by 2 *(3m)*.
 - **Dash over Difficult Terrain.** When you take the [Dash](vault/game_rules.md#dash) action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.
 - **Agile Movement.** Opportunity Attacks have Disadvantage against you.
+![\|50](https://bg3.wiki/w/images/c/cc/Dash_Icon.webp)
 *(Source: PHB'24, page 208)*
 
 ## Spell Sniper
+*Prerequisite: Level 4+, Spellcasting*
+- **+1 Ability Score.**
 - **Bypass Cover.** Your Spell Attacks ignore Half Cover and Three-Quarters Cover.
 - **Casting in Melee.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Spell Attacks.
 - **Increased Range.** Your **Spell Attacks** that have at least range 2 *(3m)* gain an additional 12 *(18m)* of range.
+![\|50](https://bg3.wiki/w/images/b/b0/Spell_Sniper_Icon.webp)
+*(Source: PHB'24, page 208)*
 
-## TODO HEX
+## Spider Climb
+*(Prerequisite: -)*
+- *+1 Ability Score, only if chosen above level 1.*
+You have a climbing speed equal to your walking speed. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.
+![\|50](https://bg3.wiki/w/images/1/1e/Wolf_Spider_Companion_Icon.webp)
+*(Source: Custom)*
 
-## TODO MAGE HAND LEDGERDEMAIN
+## Tough
+*(Prerequisite: -)*
+- *+1 Ability Score, only if chosen above level 1.*
+Your HP increase by 2 per Level.
+![\|50](https://bg3.wiki/w/images/e/e3/Tough_Icon.webp)
 
-## TODO SHIELD MASTER
+## Mage Hand Lourdemain
+*(Prerequisite: Arcane Trickster Rogue Level 4+)*
+- **+1 Ability Score.**
+- Your [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain) now can travel up to range 12 *(18m)* away from you, can be used to attack with *daggers* it's holding as if you were performing a Ranged Attack, with the following additional benefits:
+  - **Nimble Somatics.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Ranged Attacks with your spectral hand.
+  - **Bypass Cover.** Your Ranged Attacks with your spectral hand ignore Half Cover and Three-Quarters Cover.
+  - **Ethereal Items.** You are able to conjure items you carry on your person that the hand would be able to carry into the hand and back. This counts as *grabbing/switching/storing something from/in your belt*, even if the item isn't physically easily accessible on your belt.
+  - **Arcane Channel.** You are able to activate magical items with the hand.
+![\|50](https://i.imgur.com/K784BxT.png)
+*(Source: Custom)*
 
-## 
+## TODO Kazimir
+
+

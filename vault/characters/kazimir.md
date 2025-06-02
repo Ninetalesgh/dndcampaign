@@ -31,17 +31,15 @@
 - **Languages**: Common, Undercommon, Thieves' Cant
 
 [TODO] 1 Tool Proficiency
-[TODO] 3 total second wind charges
-[TODO] 1 extra weapon mastery.
 [TODO] lvl 4 feat
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 
-|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
-| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +6             | +3             | -             | -             | -             |
-| Save DC         | 14             | 11             | -             | -             | -             |
+|                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
+| --------------: | :------ | :------ | :------ | :------ | :------ |
+| Attack Modifier | +6      | +3      | -       | -       | -       |
+| Save DC         | 14      | 11      | -       | -       | -       |
 
 
 ## Equipment
@@ -62,7 +60,7 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:
   [Attack](game_rules.md#turn-based-play#attack)
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
@@ -77,16 +75,16 @@
   [Second Wind *(3 Charges, regain 1 after Short-, all after Long Rests)*](feats.md#second-wind)
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
 
 ### Passive Feats
   [Action Surge *(Once per Short Rest)*](feats.md#action-surge)
   [Tactical Mind *(Uses Second Wind Charges)*](feats.md#tactical-mind)
-
+  [Spider Climb](vault/feats.md#spider-climb)
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
-- **Weapon Masteries**: Daggers, Javelins, Shortswords. *(Switch 1 after Long Rest)*
+- **Weapon Masteries**: Daggers, Javelins, Shortswords, Longswords. *(Switch 1 after Long Rest)*
 - [Fighting Style](feats.md#fighting-style): Two-Weapon Fighting.
 - [Skilled](feats.md#skilled) *(Already included above)*
 

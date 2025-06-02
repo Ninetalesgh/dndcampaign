@@ -36,10 +36,10 @@ TODO magical scimitar
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 
-|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
-| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +2             | +6             | +7            | -             | -             |
-| Save DC         | 10             | 14             | 15            | -             | -             |
+|                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
+| --------------: | :------ | :------ | :------ | :------ | :------ |
+| Attack Modifier | +2      | +6      | +7      | -       | -       |
+| Save DC         | 10      | 14      | 15      | -       | -       |
 
 ## Equipment
 ### Weapons

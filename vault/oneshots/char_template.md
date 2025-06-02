@@ -28,16 +28,16 @@
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
-- **Tool Proficiencies**: 
-- **Languages**: Common, 
+- **Tool Proficiencies**:
+- **Languages**: Common,
 
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 
-|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
-| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +$             | +$             | -             | -             | -             |
-| Save DC         | $$             | $$             | -             | -             | -             |
+|                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
+| --------------: | :------ | :------ | :------ | :------ | :------ |
+| Attack Modifier | +$      | +$      | -       | -       | -       |
+| Save DC         | $$      | $$      | -       | -       | -       |
 
 ## Equipment
 ### Weapons
@@ -51,7 +51,7 @@
 
 ## Feats and Actions
 ### Actions
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:
   [Attack](game_rules.md#turn-based-play#attack)
   [Dash](game_rules.md#turn-based-play#dash)
   [Disengage](game_rules.md#turn-based-play#disengage)
@@ -61,17 +61,17 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**: 
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
 
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
 
 ### Reactions
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
-![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**: 
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
 
 ### Passive Feats
 

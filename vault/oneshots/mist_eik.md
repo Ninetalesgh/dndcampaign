@@ -36,10 +36,10 @@ TODO cool greatclub
 ## Combat Modifiers
 *(Attack Modifier are calculated as each ability modifier + PB, the associated Save DC is 8 + that value)*
 
-|                 | **STR** Attack | **DEX** Attack | **INT** Spell | **WIS** Spell | **CHA** Spell |
-| --------------: | :------------- | :------------- | :------------ | :------------ | :------------ |
-| Attack Modifier | +7             | +3             | -             | -             | +5            |
-| Save DC         | 15             | 11             | -             | -             | 13            |
+|                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
+| --------------: | :------ | :------ | :------ | :------ | :------ |
+| Attack Modifier | +7      | +3      | -       | -       | +5      |
+| Save DC         | 15      | 11      | -       | -       | 13      |
 
 ## Equipment
 ### Weapons
