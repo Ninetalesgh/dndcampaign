@@ -131,9 +131,8 @@ li {
 }
 
 .custom-tracker {
-  background-color: var(--color-button-0);
   margin: 5px 0 5px 0;
-  padding: 2px;
+  padding: 2px 2px 2px 2px;
   border: none;
   border-radius: 5px;
   text-align:left;
@@ -141,6 +140,8 @@ li {
   height: 30px;
   display: flex;
   align-items:center;
+  width: 100%;
+  max-width: 400px;
 }
 
 .custom-tracker.discrete-counter {
@@ -159,15 +160,24 @@ li {
 }
 
 .custom-tracker-header {
-  margin: 0 4px 0 0;
+  flex: 0 0 auto;
+  white-space: nowrap;
+  padding: 2px 2px 2px 2px;
+  margin: 0 0 0 0;
+  border-radius: 5px;
+}
+
+.custom-tracker-header:hover {
+  cursor: pointer;
 }
 
 .custom-tracker-segment {
-  flex: 1;
+  width: 30px;
+  flex: 0 0 auto;
   margin: 0;
   height: 30px;
-  margin: 1px 0 1px 1px;
-  border-radius: 5px;
+  margin: 0 0 0 2px;
+  border-radius: 8px;
   background-color: var(--color-button-0-hover);
   transition: background-color 0.2s;
 }
@@ -176,8 +186,8 @@ li {
 }
 .custom-tracker-segment:hover {
   background-color: var(--color-button-1-hover);
+  cursor: pointer;
 }
-
 
 .collapsed li {
   display: none;
@@ -191,7 +201,6 @@ nav ul li {
   display: inline-block;
   margin-right: 20px;
 }
-
 
 p {
   color: var(--color-foreground-0);

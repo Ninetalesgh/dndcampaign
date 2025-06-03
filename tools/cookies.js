@@ -124,15 +124,27 @@ function applyCookieTagsToInlineLinks(contentPageName) {
   }
 }
 
+function isValidCssColor(color) {
+  const s = new Option().style;
+  s.color = color;
+  return s.color !== '';
+}
+
 function applyCookieValueToCustomTracker_DiscreteCounter(discreteCounter, value) {
   discreteCounter.dataset.value = value;
   //console.log(`Setting UI Custom Tracker Element:\n'${discreteCounter.dataset.name}' set to '${value}'`);
   let child = discreteCounter.firstElementChild;
+
+  let validColor = isValidCssColor(discreteCounter.dataset.color) ? discreteCounter.dataset.color : '';
+
   while (child) {
     if (child.dataset.value <= value) {
       child.classList.add('active');
+//      child.style.backgroundColor = validColor;
     }
     else {
+// TODO setting custom colors is a little awkward
+      //      child.style.backgroundColor = '';
       child.classList.remove('active');
     }
     child = child.nextElementSibling;

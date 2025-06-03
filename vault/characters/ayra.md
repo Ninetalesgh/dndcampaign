@@ -51,7 +51,7 @@
 
 ## Spellcasting
 - **Prepared Spells**: 5
-- **Spell Slots Level 2**: 2 *(Regain all after Short Rest)*
+!?[Spell Slots Level 2:|#7eb5f3](track-cookie#discrete-counter#2)
 
 [TODO] 1 more prepared spell
 [TODO] switch 1 prepared spell

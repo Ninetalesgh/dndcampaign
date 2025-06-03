@@ -49,7 +49,7 @@
   [Mithral Plate](dm/items.md#mithral-plate)
 
 ## Battle Master
-- ![\|25](https://bg3.wiki/w/images/9/9f/Superiority_Die_d8_Icon.png) **Superiority Dice:** 4 d8. *(Regain all after Short- and Long Rests)*
+!?[Superiority Dice (d8):|#4e75d3](track-cookie#discrete-counter#4)
 - **Maneuvers:**
   [Bait and Switch](feats.md#bait-and-switch)
   [Grappling Attack](feats.md#grappling-attack)

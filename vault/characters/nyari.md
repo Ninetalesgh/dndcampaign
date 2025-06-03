@@ -56,9 +56,9 @@
 
 ## Spellcasting
 - **Prepared Spells**: 5
-- **Spell Slots Level 1**: 3
-- **Channel Divinity Charges:** 2 *(Regain 1 after Short Rest, regain all after Long Rest)*
+!?[Spell Slots Level 1:|#4e75d3](track-cookie#discrete-counter#3)
 - **Lay on Hands Charges:** 20 *([5 * your Paladin Level] Regain all after Long Rest)*
+!?[Channel Divinity Charges *(Regain 1 after Short Rest, all after Long Rest)*:|#7eb5f3](track-cookie#discrete-counter#2)
 
 ## Feats and Actions
 ### Actions

@@ -30,7 +30,7 @@ function formatCustomTracker(name, type, color, value)
   let customTrackerElement = `<div class="custom-tracker ${type}" data-name="${name}" data-value="${value}" data-color="${color}">`;
   customTrackerElement += `<p class="custom-tracker-header" style="vertical-align:middle;" data-value="0" onclick="setCustomTrackerValue(this)">${name}</p>`;
   if (type === "discrete-counter") {
-    for (let i = 1; i < value; ++i) {
+    for (let i = 1; i <= value; ++i) {
       customTrackerElement += `<p class="custom-tracker-segment" data-value="${i}" onclick="setCustomTrackerValue(this)"></p>`;
     }
   }
@@ -106,7 +106,7 @@ function parseMd(input)
     }
 
     //custom parsing
-    lines[i] = lines[i].replace(/!\?\[([^\|\]]*)\|([0-9]*)\]\((?:track-cookie)#(text|discrete-counter|numeric-int|numeric-int-with-max)#?([0-9]+)?\)/g, (m,g1,g2,g3,g4) => formatCustomTracker(g1, g3, g2, g4 ?? ''));
+    lines[i] = lines[i].replace(/!\?\[([^\|\]]*)\|([#0-9a-zA-Z]*)\]\((?:track-cookie)#(text|discrete-counter|numeric-int|numeric-int-with-max)#?([0-9]+)?\)/g, (m,g1,g2,g3,g4) => formatCustomTracker(g1, g3, g2, g4 ?? ''));
 
     //images
     lines[i] = lines[i].replace(/!\[(?:[^\|]+)\|([^\]]+)\]\(([^()]+(?:\([^()]*\)[^()]*)*)\)/g, (m,g1,g2) => `<img src="${g2}" style="width:${g1}px;" class="${g1 < 100 ? (g1 < 30 ? 'img-tiny-background' : 'img-small-background' ): 'img-normal-background'}">` );

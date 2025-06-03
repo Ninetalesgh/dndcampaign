@@ -53,11 +53,7 @@
 
 ## Spellcasting
 - **Prepared Spells**: 4
-- **Spell Slots Level 1**: 3
-
-[TODO] 1 more prepared spell
-[TODO] switch 1 prepared spell
-[TODO] switch 1 cantrip
+!?[Spell Slots Level 1:|#4e75d3](track-cookie#discrete-counter#3)
 
 
 ## Feats and Actions
