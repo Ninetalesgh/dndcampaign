@@ -138,8 +138,7 @@ li {
   border-radius: 5px;
   text-align:left;
   vertical-align:middle;
-  width:auto;
-  min-width:2px;
+  height: 30px;
   display: flex;
   align-items:center;
 }
@@ -159,11 +158,16 @@ li {
 
 }
 
+.custom-tracker-header {
+  margin: 0 4px 0 0;
+}
+
 .custom-tracker-segment {
   flex: 1;
   margin: 0;
   height: 30px;
-  margin: 0 0 0 3px;
+  margin: 1px 0 1px 1px;
+  border-radius: 5px;
   background-color: var(--color-button-0-hover);
   transition: background-color 0.2s;
 }

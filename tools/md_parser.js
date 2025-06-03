@@ -20,19 +20,18 @@ function reformatLink(name, link)
   }
 }
 
-function formatCustomTracker(name, type, scale, value)
+function formatCustomTracker(name, type, color, value)
 {
   console.log(name); // name, ID
-  console.log(scale); // type
-  console.log(type); // point height, scale
+  console.log(color); // significant color
+  console.log(type); // custom tracker type
   console.log(value); // default or max value
 
-  let customTrackerElement = `<div class="custom-tracker ${type}" data-name="${name}" data-value="${value}">`;
-
-  customTrackerElement += `<p style="vertical-align:middle;">${name}</p>`;
+  let customTrackerElement = `<div class="custom-tracker ${type}" data-name="${name}" data-value="${value}" data-color="${color}">`;
+  customTrackerElement += `<p class="custom-tracker-header" style="vertical-align:middle;" data-value="0" onclick="setCustomTrackerValue(this)">${name}</p>`;
   if (type === "discrete-counter") {
-    for (let i = 0; i < value; ++i) {
-      customTrackerElement += `<p onclick="setCustomTrackerValue(this)" style="height:${scale}px;" class="custom-tracker-segment" data-index="${i}"></p>`;
+    for (let i = 1; i < value; ++i) {
+      customTrackerElement += `<p class="custom-tracker-segment" data-value="${i}" onclick="setCustomTrackerValue(this)"></p>`;
     }
   }
   customTrackerElement += '</div>';

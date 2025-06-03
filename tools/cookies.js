@@ -70,12 +70,13 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
 function getCustomTrackerCookieValue(contentPageName, targetElementName) {
   let pageCookie = getCookie(contentPageName);
   let categories = pageCookie?.split('|') ?? [];
+  let uriEscapedName = encodeURIComponent(targetElementName);
   for (let i = 0; i < categories.length; ++i) {
     if (categories.startsWith("custom-tracker-cookie:")) {
       let categoryEntries = categories[i].split(':');
       for (let j = 1; j < categoryEntries.length; ++j) {
         let customTracker = categoryEntries[j].split('=');
-        if (customTracker.length === 2 && customTracker[0] === targetElementName) {
+        if (customTracker.length === 2 && customTracker[0] === uriEscapedName) {
           return decodeURIComponent(customTracker[1]);
         }
       }
@@ -84,42 +85,6 @@ function getCustomTrackerCookieValue(contentPageName, targetElementName) {
   }
   return null;
 }
-
-function setCustomTrackerCookieValue(contentPageName, customTrackerName, value) {
-  let resultCookie;
-  let pageCookie = getCookie(contentPageName);
-  let categories = pageCookie?.split('|') ?? [];
-  const customTrackerValueString = `${customTrackerName}=${encodeURIComponent(value)}`;
-  let foundExistingCategory = false;
-  let foundExistingEntry = false;
-  for (let i = 0; i < categories.length; ++i) {
-    if (categories[i].startsWith("custom-tracker-cookie:")) {
-      let categoryEntries = categories[i].split(':');
-      for (let j = 1; j < categoryEntries.length; ++j) {
-        let customTrackers = categoryEntries[j].split('=');
-        if (customTrackers[0] === customTrackerName) {
-
-          categoryEntries[j] = customTrackerValueString;
-          foundExistingEntry = true;
-          break;
-        }
-      }
-      if (!foundExistingEntry) {
-        categoryEntries.push(customTrackerValueString);
-      }
-      categories[i] = categoryEntries.join(':');
-      foundExistingCategory = true;
-      break;
-    }
-  }
-  if (!foundExistingCategory) {
-    categories.push(`custom-tracker-cookie:${customTrackerValueString}`);
-  }
-  console.log(`SET value of custom-tracker:\nContent Page '${contentPageName}'\nTracker '${customTrackerName}'\nValue '${value}'`);
-  resultCookie = categories.join('|');
-  setCookie(contentPageName, resultCookie, 365);
-}
-
 
 function getCategoryPageNameFromUrl(url) {
   return url.slice(0, url.indexOf('#')).replace(/(:?\.\/)|(?:\.\.\/)/gm, "");
@@ -159,12 +124,12 @@ function applyCookieTagsToInlineLinks(contentPageName) {
   }
 }
 
-function applyCookieValuesToCustomTracker_DiscreteCounter(discreteCounter, value) {
+function applyCookieValueToCustomTracker_DiscreteCounter(discreteCounter, value) {
   discreteCounter.dataset.value = value;
-  console.log(`${discreteCounter.dataset.name} -> ${value}`);
+  //console.log(`Setting UI Custom Tracker Element:\n'${discreteCounter.dataset.name}' set to '${value}'`);
   let child = discreteCounter.firstElementChild;
   while (child) {
-    if (child.dataset.index <= value) {
+    if (child.dataset.value <= value) {
       child.classList.add('active');
     }
     else {
@@ -194,17 +159,54 @@ function applyCookieValuesToCustomTrackers(contentPageName) {
 
     const customTrackers = document.querySelectorAll('.custom-tracker');
     for (let i = 0; i < customTrackers.length; ++i) {
-      const trackerName = customTrackers[i].dataset.id;
+      const trackerName = encodeURIComponent(customTrackers[i].dataset.name);
       let cookieValue = trackerMap.get(trackerName);
       if (cookieValue) {
         if (customTrackers[i].classList.contains("discrete-counter")) {
-          applyCookieValuesToCustomTracker_DiscreteCounter(customTrackers[i], cookieValue);
+          applyCookieValueToCustomTracker_DiscreteCounter(customTrackers[i], cookieValue);
         }
       }
     }
   }
 }
 
+function setCustomTrackerCookieValue(contentPageName, customTrackerName, value) {
+  let resultCookie;
+  let pageCookie = getCookie(contentPageName);
+  let categories = pageCookie?.split('|') ?? [];
+  let uriEscapedName = encodeURIComponent(customTrackerName);
+  const customTrackerValueString = `${uriEscapedName}=${encodeURIComponent(value)}`;
+  let foundExistingCategory = false;
+  let foundExistingEntry = false;
+  for (let i = 0; i < categories.length; ++i) {
+    if (categories[i].startsWith("custom-tracker-cookie:")) {
+      let categoryEntries = categories[i].split(':');
+      for (let j = 1; j < categoryEntries.length; ++j) {
+        let customTrackers = categoryEntries[j].split('=');
+        if (customTrackers[0] === uriEscapedName) {
+
+          categoryEntries[j] = customTrackerValueString;
+          foundExistingEntry = true;
+          break;
+        }
+      }
+      if (!foundExistingEntry) {
+        categoryEntries.push(customTrackerValueString);
+      }
+      categories[i] = categoryEntries.join(':');
+      foundExistingCategory = true;
+      break;
+    }
+  }
+  if (!foundExistingCategory) {
+    categories.push(`custom-tracker-cookie:${customTrackerValueString}`);
+  }
+  console.log(`SETTING value of custom-tracker-cookie:\nContent Page '${contentPageName}'\nTracker '${customTrackerName}'\nValue '${value}'`);
+  resultCookie = categories.join('|');
+  setCookie(contentPageName, resultCookie, 365);
+  // TODO make this a single element change
+  applyCookieValuesToCustomTrackers(gActiveContentPageNode.name);
+}
 
 function processTagHold(event) {
   let target = event.target;

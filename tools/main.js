@@ -199,7 +199,6 @@ function applyNodeToView(node) {
     index.innerHTML = '';
     addTreeNodeToIndexViewRecursive(node, index);
     gActiveContentPageNode = node; // in cookies.js
-    console.log(gActiveContentPageNode);
     applyCookieTagsToInlineLinks(node.name); // in cookies.js
     applyCookieValuesToCustomTrackers(node.name); // in cookies.js
   }
@@ -232,12 +231,11 @@ function setContentPage(mdUrl) {
 }
 
 function setCustomTrackerValue(customTrackerElement) {
-  let e = customTrackerElement;
-  if (customTrackerElement.classList.contains("custom-tracker-segment")) {
-    e = customTrackerElement.parentElement;
+  let actualElement = customTrackerElement;
+  if (customTrackerElement.classList.contains("custom-tracker-segment") || customTrackerElement.classList.contains("custom-tracker-header")) {
+    actualElement = customTrackerElement.parentElement;
   }
-//WIP TODO
-  setCustomTrackerCookieValue(gActiveContentPageNode.name, e.dataset.name, 2);
+  setCustomTrackerCookieValue(gActiveContentPageNode.name, actualElement.dataset.name, customTrackerElement.dataset.value);
 }
 
 function toggleInlineLinkContent(inlineLink) {
