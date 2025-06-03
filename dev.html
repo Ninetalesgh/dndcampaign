@@ -71,39 +71,8 @@
   <script src="tools/cookies.js"></script>
   <script src="tools/main.js"></script>
   <script>
-    function setNavPosition() {
-      const navigationDivs = document.querySelectorAll('.navigation');
-      navigationDivs.forEach((navigation) => {
-        const wrapperRect = navigation.parentElement.getBoundingClientRect();
-        {
-          const computedStyle = window.getComputedStyle(navigation);
-          const minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
-          const currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
-          const currentHeight = parseFloat(computedStyle.getPropertyValue('height'));
-          const pages = document.querySelector('.page-selection');
-          const dndIndex = document.querySelector('.dndindex');
-          //TODO this is getting computed ALL for each navigation div now, instead of separately for each
-          pages.style.maxHeight = `${currentHeight}px`;
-          dndIndex.style.maxHeight = `${currentHeight}px`;
-          var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
-        }
 
-        navigation.style.width = `${wrapperRect.width}px`;
-
-        if (window.scrollY > 0 && hasSpaceNextToContent) {
-          navigation.style.position = 'fixed';
-          navigation.style.top = 0;
-          navigation.style.left = `${wrapperRect.left}px`;
-        }
-        else {
-          navigation.style.position = 'relative';
-          navigation.style.top = '0px';
-          navigation.style.left = '0px';
-        }
-      });
-    }
-
-    // EXECUTION  
+    // EXECUTION
     {
       const urlParams = new URLSearchParams(window.location.search);
       const host = window.location.hostname;
@@ -116,18 +85,7 @@
         connectToLocalServer('dm', host);
       }
 
-      let devdiv = document.createElement('div');
-      let testContent = 
-      `# TEST
-      !?[Spell Slots Level 1|50](track-cookie#discrete-counter#4)
-      !?[Health Points|50](track-cookie#numeric-int-max#30)
-      !?[Armor Class|50](track-cookie#numeric-int#18)
-      !?[Some Custom Input|50](track-cookie#text)
-      testline
-      `;
-      devdiv.innerHTML = parseMd(testContent);
-      applyCustomDivToView(devdiv);
-
+      setContentPage("dev_test.md");
 
       window.addEventListener('keydown', (event) => {
         if (event.key === 'Enter') {

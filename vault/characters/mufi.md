@@ -84,6 +84,7 @@
   [Spell Cheat *(one free use per Long Rest)*](spells.md#spells-s#spell-cheat)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Spells**:
   [Tasha's Hideous Laughter](spells.md#spells-t#tasha's-hideous-laughter)
+  [Unseen Servant](spells.md#spells-u#unseen-servant)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Cunning Actions**:

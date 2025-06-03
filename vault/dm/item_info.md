@@ -4,7 +4,7 @@ Instead of **Short Rest** a PC can choose to gather ingredients instead.
 Harvesting dead creatures can also work.
 
 [TODO]
-In city CHA (Persuasion) to find and convince appropriate merchants. 
+In city CHA (Persuasion) to find and convince appropriate merchants.
 In wilderness WIS (Survival) to find ingredients in the wild.
 In dungeons, buildings, etc INT (Investigation) to dig through drawers, containers, laboratories or the like.
 
@@ -26,7 +26,7 @@ Concoctions can be consumables (like Potions or Elixirs), weapon coatings, or th
 
 Concoction has some DC, depending on the circumstances it's easier or harder to brew. (access to a laboratory, etc.)
 
-[TODO] Specify mechanics for finding out what concoctions an ingredient is good for?  
+[TODO] Specify mechanics for finding out what concoctions an ingredient is good for?
 
 ## Crafting
 [TODO] Crafting Read as Written is kind of weird. so not sure I want to do it like that.
@@ -44,10 +44,10 @@ When you take the Attack Action, you can replace one of your attacks with throwi
 You can throw anywhere within range 4 + STR of yourself. All creatures within the stated effect range are affected and must take a DEX Save against your DC, suffering the effect according to the result of the Save. Objects always fail their DEX Save.
 
 ## Ship Info
-- **Speed**: A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 50 kg. 
-- **Crew.** A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see Services) to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship. 
-- **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day. 
-- **Damage Threshold.** See the rules glossary. 
+- **Speed**: A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 50 kg.
+- **Crew.** A ship larger than a Keelboat or Rowboat needs a crew of skilled hirelings (see Services) to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship.
+- **Passengers.** The number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.
+- **Damage Threshold.** See the rules glossary.
 - **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 ## Tools
 Each type of tools requires a separate proficiency. If you have proficiency with a tool, add your PB to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have **Advantage** on the check too.
@@ -71,13 +71,13 @@ A creature's attunement to an item ends if the creature no longer satisfies the 
 ### Nick
 Allows you to make the additional [Light](dm/items.md#weapon-properties#light) Weapon Attack without consuming your Bonus Action. *(Once per Turn)*
 ### Push
-*On Hit:*: You may choose to have the target succeed a STR Save against your DC or be [Displaced](vault/game_rules.md#displacement) by the specified range if it no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+*On Hit:*: You may choose to have the target succeed a STR Save or be [Displaced](vault/game_rules.md#displacement) by the specified range if it is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Sap
 *On Hit:* The target gets Disadvantage on its next Attack.
 ### Slow
 *On Hit:* The target has its Speed reduced by the specified amount until the end of its next turn.
 ### Topple
-*On Hit:* The target has to succeed a CON Save against your DC or be knocked [Prone](conditions.md#prone).
+*On Hit:* The target has to succeed a CON Save or be knocked [Prone](conditions.md#prone) if it is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Vex
 *On Hit:* You gain Advantage on your next Attack against the same target.
 ### Brace
@@ -91,11 +91,11 @@ Allows you to move an extra specified distance for free when using the Attack Ac
 
 ## Weapon Properties
 ### Weapon +1
-This weapon grants you +1 to both Attack and Damage Rolls. 
+This weapon grants you +1 to both Attack and Damage Rolls.
 ### Weapon +2
-This weapon grants you +2 to both Attack and Damage Rolls. 
+This weapon grants you +2 to both Attack and Damage Rolls.
 ### Weapon +3
-This weapon grants you +3 to both Attack and Damage Rolls. 
+This weapon grants you +3 to both Attack and Damage Rolls.
 
 ### Ammunition
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
@@ -120,7 +120,7 @@ If a weapon has the thrown property, you can throw the weapon to make a Ranged A
 This weapon requires two hands when you attack with it.
 
 ### Versatile
-This weapon can be used with one or two hands. The specified damage roll is used when using two hands to make a Melee Attack. 
+This weapon can be used with one or two hands. The specified damage roll is used when using two hands to make a Melee Attack.
 
 ## Variant
 Items with variants have different templates, the variant does not change once determined. *(A Fernian Ash Staff will always be a Fernian Ash Staff)*
@@ -138,7 +138,7 @@ Items with variants have different templates, the variant does not change once d
 #### Smoldering Armor
   Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
-#### Moon-Touched Sword 
+#### Moon-Touched Sword
   In Darkness, the unsheathed blade of this weapon sheds moonlight, creating [Bright Light](game_rules.md#bright-light) in a radius 3 *(4.5m)* sphere and [Dim Light](game_rules.md#dim-light) for an another 3 *(4.5m)*.
 
 #### Silvered Weapon

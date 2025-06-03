@@ -130,24 +130,48 @@ li {
   background-color: var(--color-external-link-hover);
 }
 
-.track-cookie {
+.custom-tracker {
+  background-color: var(--color-button-0);
+  margin: 5px 0 5px 0;
+  padding: 2px;
+  border: none;
+  border-radius: 5px;
+  text-align:left;
+  vertical-align:middle;
+  width:auto;
+  min-width:2px;
+  display: flex;
+  align-items:center;
+}
+
+.custom-tracker.discrete-counter {
+}
+
+.custom-tracker.numeric-int-with-max {
 
 }
 
-.track-cookie.discrete-counter {
+.custom-tracker.numeric-int {
 
 }
 
-.track-cookie.numeric-int-max {
+.custom-tracker.text {
 
 }
 
-.track-cookie.numeric-int {
-
+.custom-tracker-segment {
+  flex: 1;
+  margin: 0;
+  height: 30px;
+  margin: 0 0 0 3px;
+  background-color: var(--color-button-0-hover);
+  transition: background-color 0.2s;
 }
-
-.track-cookie.text {
-
+.custom-tracker-segment.active {
+  background-color: var(--color-external-link);
+}
+.custom-tracker-segment:hover {
+  background-color: var(--color-button-1-hover);
 }
 
 

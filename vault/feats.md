@@ -721,7 +721,7 @@ You've learned to put the weight of a weapon to your advantage, letting its mome
 ## Mage Hand Lourdemain
 *(Prerequisite: Arcane Trickster Rogue Level 4+)*
 - **+1 Ability Score.**
-- Your [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain) now can travel up to range 12 *(18m)* away from you, can be used to attack with *daggers* it's holding as if you were performing a Ranged Attack, with the following additional benefits:
+- Your [Mage Hand Legerdemain](vault/feats.md#mage-hand-legerdemain) now can travel up to range 12 *(18m)* away from you, can be used to attack with weapons it is able to carry as if you were performing a Ranged Attack, with the following additional benefits:
   - **Nimble Somatics.** Being within range 1 *(1.5m)* of an enemy doesn't impose Disadvantage on your Ranged Attacks with your spectral hand.
   - **Bypass Cover.** Your Ranged Attacks with your spectral hand ignore Half Cover and Three-Quarters Cover.
   - **Ethereal Items.** You are able to conjure items you carry on your person that the hand would be able to carry into the hand and back. This counts as *grabbing/switching/storing something from/in your belt*, even if the item isn't physically easily accessible on your belt.

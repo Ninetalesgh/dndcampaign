@@ -2067,7 +2067,6 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 *The most hygienic product a pirate has ever seen!*
 *(Source: Custom)*
 
-
 ### Spear
 *(Spear, Simple Melee Weapon, Common)*
 - **Reach**: 1
@@ -2086,7 +2085,8 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light).
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Push a Spell Scroll into the hilt, consuming it. This dagger gains 2 charges of that Spell. Until all charges are consumed, the hilt can't be opened again.
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Cast the Spell on the Scroll in the hilt.
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used the Magic Action this turn while holding this: Make an Attack with this.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Regain 1 Level 1 Spell Slot. *(Once per Short Rest)*
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used a Magic Action this turn while holding this: Make an Attack with this.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
 - **Price**: 3000 gp

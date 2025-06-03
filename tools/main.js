@@ -70,7 +70,7 @@ function generateIndexTree(rootTreeNode, content) {
     let currentDepth = getHeaderElementDepth(element);
 
     if (currentDepth !== '') {
-      // backtrack until we find a lower numbered header          
+      // backtrack until we find a lower numbered header
       while (currentDepth <= getHeaderElementDepth(parentNode.element)) {
         parentNode = parentNode.parent;
       }
@@ -175,7 +175,7 @@ async function fetchMd(mdUrl) {
   //else if (mdUrl.match(/dm\//)) { absoluteUrl = `https://raw.githubusercontent.com/Ninetalesgh/dndcampaign/dm/vault/${mdUrl}` }
   else { absoluteUrl = `https://ninetalesgh.github.io/dndcampaign/vault/${mdUrl}` };
 
-  
+
   if (!contentNode) {
     console.log('Fetching and caching: ' + mdUrl);
     await fetchMdAsHtml(absoluteUrl)
@@ -199,7 +199,9 @@ function applyNodeToView(node) {
     index.innerHTML = '';
     addTreeNodeToIndexViewRecursive(node, index);
     gActiveContentPageNode = node; // in cookies.js
-    applyStyleToTaggedInlineLinks(node.name); // in cookies.js
+    console.log(gActiveContentPageNode);
+    applyCookieTagsToInlineLinks(node.name); // in cookies.js
+    applyCookieValuesToCustomTrackers(node.name); // in cookies.js
   }
   else {
     console.error("Attempted to show null node in dndcontent page.");
@@ -227,6 +229,15 @@ function setContentPage(mdUrl) {
       addIconsToInlineLinks(gContentPageController.signal).then(() => { gContentPageController = null; });
     }
   });
+}
+
+function setCustomTrackerValue(customTrackerElement) {
+  let e = customTrackerElement;
+  if (customTrackerElement.classList.contains("custom-tracker-segment")) {
+    e = customTrackerElement.parentElement;
+  }
+//WIP TODO
+  setCustomTrackerCookieValue(gActiveContentPageNode.name, e.dataset.name, 2);
 }
 
 function toggleInlineLinkContent(inlineLink) {
@@ -381,6 +392,38 @@ function connectToLocalServer(clientName, ip) {
     });
 }
 
+function setNavPosition() {
+  const navigationDivs = document.querySelectorAll('.navigation');
+  navigationDivs.forEach((navigation) => {
+    const wrapperRect = navigation.parentElement.getBoundingClientRect();
+    {
+      const computedStyle = window.getComputedStyle(navigation);
+      const minWidth = parseFloat(computedStyle.getPropertyValue('min-width')) + 0.1;
+      const currentWidth = parseFloat(computedStyle.getPropertyValue('width'));
+      const currentHeight = parseFloat(computedStyle.getPropertyValue('height'));
+      const pages = document.querySelector('.page-selection');
+      const dndIndex = document.querySelector('.dndindex');
+      //TODO this is getting computed ALL for each navigation div now, instead of separately for each
+      pages.style.maxHeight = `${currentHeight}px`;
+      dndIndex.style.maxHeight = `${currentHeight}px`;
+      var hasSpaceNextToContent = currentWidth > minWidth && parseFloat(window.innerWidth) > 600;
+    }
+
+    navigation.style.width = `${wrapperRect.width}px`;
+
+    if (window.scrollY > 0 && hasSpaceNextToContent) {
+      navigation.style.position = 'fixed';
+      navigation.style.top = 0;
+      navigation.style.left = `${wrapperRect.left}px`;
+    }
+    else {
+      navigation.style.position = 'relative';
+      navigation.style.top = '0px';
+      navigation.style.left = '0px';
+    }
+  });
+}
+
 
 // EXECUTION
 window.addEventListener('paste', (event) => {
@@ -413,4 +456,4 @@ window.addEventListener('paste', (event) => {
   }
 
   event.preventDefault();
-}); 
+});

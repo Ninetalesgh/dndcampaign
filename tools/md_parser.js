@@ -22,22 +22,27 @@ function reformatLink(name, link)
 
 function formatCustomTracker(name, type, scale, value)
 {
-  
-
-
-
   console.log(name); // name, ID
-  console.log(type); // point height, scale
   console.log(scale); // type
+  console.log(type); // point height, scale
   console.log(value); // default or max value
 
-  return '';
+  let customTrackerElement = `<div class="custom-tracker ${type}" data-name="${name}" data-value="${value}">`;
+
+  customTrackerElement += `<p style="vertical-align:middle;">${name}</p>`;
+  if (type === "discrete-counter") {
+    for (let i = 0; i < value; ++i) {
+      customTrackerElement += `<p onclick="setCustomTrackerValue(this)" style="height:${scale}px;" class="custom-tracker-segment" data-index="${i}"></p>`;
+    }
+  }
+  customTrackerElement += '</div>';
+  return customTrackerElement;
 }
 
 function parseMd(input)
 {
   const lines = input.split('\n');
-  
+
   // First pass, paragraphing and adding placeholders for inline content
   for (let i = 0; i < lines.length; ++i)
   {
@@ -52,8 +57,8 @@ function parseMd(input)
       continue;
     }
     else if (lines[i].startsWith("#"))
-    {    
-      let currentHeaderDepth = 0; 
+    {
+      let currentHeaderDepth = 0;
       // Count hashtags
       while (lines[i].slice(currentHeaderDepth).startsWith('#')){ ++currentHeaderDepth; }
       // Check for space after hashtags
@@ -62,7 +67,7 @@ function parseMd(input)
         const resultHeaderType = `h${currentHeaderDepth}`;
         const headerName = lines[i].substring(currentHeaderDepth + 1);
         // TODO if nested divs for headers is ever wanted?
-        // This entails a redo of indexing the document, 
+        // This entails a redo of indexing the document,
         // since that currently relies on a flat h-div-h-div... layout
         //
         //let divUnwrap = '';
@@ -74,7 +79,7 @@ function parseMd(input)
         //    headerDepth.pop();
         //    divUnwrap = `${divUnwrap}</div>`;
         //    continue;
-        //  }             
+        //  }
         //  else if (currentHeaderDepth > lastHeaderDepth)
         //  {
         //    headerDepth.push(currentHeaderDepth);
@@ -98,22 +103,22 @@ function parseMd(input)
     }
     else if(lines[i].trimStart().startsWith(">[!INFO]"))
     {
-      //TODO maybe get obsidian specifics into this or any custom formatting? 
+      //TODO maybe get obsidian specifics into this or any custom formatting?
     }
 
     //custom parsing
-    lines[i] = lines[i].replace(/!\?\[([^\|\]]*)\|([0-9]*)\]\((?:track-cookie)#(text|discrete-counter|numeric-int|numeric-int-max)#?([0-9]+)?\)/g, (m,g1,g2,g3,g4) => formatCustomTracker(g1, g3, g2, g4 ?? ''));
+    lines[i] = lines[i].replace(/!\?\[([^\|\]]*)\|([0-9]*)\]\((?:track-cookie)#(text|discrete-counter|numeric-int|numeric-int-with-max)#?([0-9]+)?\)/g, (m,g1,g2,g3,g4) => formatCustomTracker(g1, g3, g2, g4 ?? ''));
 
-    //images 
+    //images
     lines[i] = lines[i].replace(/!\[(?:[^\|]+)\|([^\]]+)\]\(([^()]+(?:\([^()]*\)[^()]*)*)\)/g, (m,g1,g2) => `<img src="${g2}" style="width:${g1}px;" class="${g1 < 100 ? (g1 < 30 ? 'img-tiny-background' : 'img-small-background' ): 'img-normal-background'}">` );
 
     //bold
     lines[i] = lines[i].replace(/\*\*((?:[^\s].*?[^\s])|[^\s])\*\*/g, "<b>$1</b>");
-    
+
     //italic
     lines[i] = lines[i].replace(/\*((?:[^\s].*?[^\s])|[^\s])\*/g, "<i>$1</i>");
 
-    //links    
+    //links
     lines[i] = lines[i].replace(/\[((?!]\().*?)\]\(([^)]+)\)/g, (m, g1, g2) => reformatLink(g1, g2));
 
     //paragraph
@@ -124,7 +129,7 @@ function parseMd(input)
       indent += 10;
     }
 
-    //Remove extra table identifiers early 
+    //Remove extra table identifiers early
     lines[i] = lines[i].replace(/^\s*?\||\|\s*?$/g,'');
 
     lines[i] = '<p style="margin-left:'+ indent.toString() + 'px;">' + lines[i] + '</p><ul class="collapsed inline-link-placeholder"></ul>';
@@ -136,17 +141,17 @@ function parseMd(input)
   {
     const tableMatches = lines[i].match(/[\s]?(:?--+:?)[\s]?\|?/g);
     const isTable = lines[i].match(/\|/);
-    
+
     if (i > 0 && tableMatches && isTable && tableMatches.length > 1)
-    {          
+    {
       let columns = new Array(tableMatches.length);
       for (let j = 0; j < tableMatches.length; ++j)
       {
         const leftalign = '<td style="text-align:left;"><p>';
         const centeralign = '<td style="text-align:center;"><p>';
         const rightalign = '<td style="text-align:right;"><p>';
-        
-        if (tableMatches[j].trimStart().startsWith(":")) 
+
+        if (tableMatches[j].trimStart().startsWith(":"))
         {
           if (tableMatches[j].trimStart().startsWith(":--:"))
           {
@@ -157,17 +162,17 @@ function parseMd(input)
             columns[j] = leftalign;
           }
         }
-        else 
+        else
         {
           columns[j] = rightalign;
-        }     
+        }
       }
 
       for (let j = i-1; j < lines.length; ++j)
       {
         if (j == i)
         {
-          lines[j] = ''; 
+          lines[j] = '';
         }
         else
         {
@@ -190,7 +195,7 @@ function parseMd(input)
 
 async function fetchMdAsHtml(mdUrl)
 {
-  try 
+  try
   {
     const response = await fetch(mdUrl);
 

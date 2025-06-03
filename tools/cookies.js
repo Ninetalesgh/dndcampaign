@@ -5,12 +5,11 @@ function setCookie(name, value, days) {
   const date = new Date();
   date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
   let expires = "; expires=" + date.toUTCString();
-  document.cookie = name + "=" + encodeURIComponent(value) + ";" + expires + ";path=/";
+  document.cookie = name + "=" + encodeURIComponent(value) + expires + ";path=/";
 }
 
 function getCookie(name) {
   let decodedCookie = decodeURIComponent(document.cookie);
-
   let ca = decodedCookie.split(';');
   for (let i = 0; i < ca.length; i++) {
     let c = ca[i];
@@ -39,7 +38,6 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
           if (categoryEntries[j] === targetTagName) {
             [categoryEntries[j], categoryEntries[categoryEntries.length - 1]] = [categoryEntries[categoryEntries.length - 1], categoryEntries[j]];
             categoryEntries.length--;
-
             console.log(`REMOVE tag from inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
             foundExistingEntry = true;
             break;
@@ -61,15 +59,67 @@ function toggleInlineLinkTag(contentPageName, targetCategoryPageName, targetTagN
       console.log(`ADD tag to inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
     }
     resultCookie = categories.join('|');
-
     setCookie(contentPageName, resultCookie, 365);
   }
   else {
     console.log(`Attempted to tag inline-link:\nContent Page '${contentPageName}'\nCategory '${targetCategoryPageName}'\nTag Name '${targetTagName}'`);
   }
-
-  //TODO optional: sort the list? 
+  //TODO optional: sort the list?
 }
+
+function getCustomTrackerCookieValue(contentPageName, targetElementName) {
+  let pageCookie = getCookie(contentPageName);
+  let categories = pageCookie?.split('|') ?? [];
+  for (let i = 0; i < categories.length; ++i) {
+    if (categories.startsWith("custom-tracker-cookie:")) {
+      let categoryEntries = categories[i].split(':');
+      for (let j = 1; j < categoryEntries.length; ++j) {
+        let customTracker = categoryEntries[j].split('=');
+        if (customTracker.length === 2 && customTracker[0] === targetElementName) {
+          return decodeURIComponent(customTracker[1]);
+        }
+      }
+      break;
+    }
+  }
+  return null;
+}
+
+function setCustomTrackerCookieValue(contentPageName, customTrackerName, value) {
+  let resultCookie;
+  let pageCookie = getCookie(contentPageName);
+  let categories = pageCookie?.split('|') ?? [];
+  const customTrackerValueString = `${customTrackerName}=${encodeURIComponent(value)}`;
+  let foundExistingCategory = false;
+  let foundExistingEntry = false;
+  for (let i = 0; i < categories.length; ++i) {
+    if (categories[i].startsWith("custom-tracker-cookie:")) {
+      let categoryEntries = categories[i].split(':');
+      for (let j = 1; j < categoryEntries.length; ++j) {
+        let customTrackers = categoryEntries[j].split('=');
+        if (customTrackers[0] === customTrackerName) {
+
+          categoryEntries[j] = customTrackerValueString;
+          foundExistingEntry = true;
+          break;
+        }
+      }
+      if (!foundExistingEntry) {
+        categoryEntries.push(customTrackerValueString);
+      }
+      categories[i] = categoryEntries.join(':');
+      foundExistingCategory = true;
+      break;
+    }
+  }
+  if (!foundExistingCategory) {
+    categories.push(`custom-tracker-cookie:${customTrackerValueString}`);
+  }
+  console.log(`SET value of custom-tracker:\nContent Page '${contentPageName}'\nTracker '${customTrackerName}'\nValue '${value}'`);
+  resultCookie = categories.join('|');
+  setCookie(contentPageName, resultCookie, 365);
+}
+
 
 function getCategoryPageNameFromUrl(url) {
   return url.slice(0, url.indexOf('#')).replace(/(:?\.\/)|(?:\.\.\/)/gm, "");
@@ -78,8 +128,8 @@ function getTagNameFromUrl(url) {
   return url.slice(url.indexOf('#') + 1);
 }
 
-function applyStyleToTaggedInlineLinks(contentPageName) {
-  //TODO optimize this for single element changes
+function applyCookieTagsToInlineLinks(contentPageName) {
+  //TODO optimize this for single element changes, for now this loops through all inline-link and cookies
   let pageCookie = getCookie(contentPageName);
   if (pageCookie) {
     let categoryMap = new Map();
@@ -109,6 +159,53 @@ function applyStyleToTaggedInlineLinks(contentPageName) {
   }
 }
 
+function applyCookieValuesToCustomTracker_DiscreteCounter(discreteCounter, value) {
+  discreteCounter.dataset.value = value;
+  console.log(`${discreteCounter.dataset.name} -> ${value}`);
+  let child = discreteCounter.firstElementChild;
+  while (child) {
+    if (child.dataset.index <= value) {
+      child.classList.add('active');
+    }
+    else {
+      child.classList.remove('active');
+    }
+    child = child.nextElementSibling;
+  }
+}
+
+function applyCookieValuesToCustomTrackers(contentPageName) {
+  let pageCookie = getCookie(contentPageName);
+  if (pageCookie) {
+    let trackerMap = new Map();
+    let categories = pageCookie?.split('|') ?? [];
+    for (let i = 0; i < categories.length; ++i) {
+      if (categories[i].startsWith("custom-tracker-cookie:")) {
+        let categoryEntries = categories[i].split(':');
+        for (let j = 1; j < categoryEntries.length; ++j) {
+          let customTracker = categoryEntries[j].split('=');
+          if (customTracker.length === 2) {
+            trackerMap.set(customTracker[0], decodeURIComponent(customTracker[1]));
+          }
+        }
+        break;
+      }
+    }
+
+    const customTrackers = document.querySelectorAll('.custom-tracker');
+    for (let i = 0; i < customTrackers.length; ++i) {
+      const trackerName = customTrackers[i].dataset.id;
+      let cookieValue = trackerMap.get(trackerName);
+      if (cookieValue) {
+        if (customTrackers[i].classList.contains("discrete-counter")) {
+          applyCookieValuesToCustomTracker_DiscreteCounter(customTrackers[i], cookieValue);
+        }
+      }
+    }
+  }
+}
+
+
 function processTagHold(event) {
   let target = event.target;
   while (target && !target.classList.contains("inline-link")) {
@@ -121,7 +218,7 @@ function processTagHold(event) {
       const tagName = getTagNameFromUrl(target.dataset.url);
       toggleInlineLinkTag(gActiveContentPageNode.name, categoryPageName, tagName);
       //TODO make this a single element change
-      applyStyleToTaggedInlineLinks(gActiveContentPageNode.name);
+      applyCookieTagsToInlineLinks(gActiveContentPageNode.name);
     }
   }
 }
@@ -130,7 +227,7 @@ function processTagHold(event) {
 function androidLog(text) {
   let androidLogNode = document.getElementById('android-log');
   if (!androidLogNode) {
-    const equipmentNode = document.getElementById('equipment');  
+    const equipmentNode = document.getElementById('equipment');
     androidLogNode = document.createElement('p');
     newP.id = 'android-log';
     equipmentNode.appendChild(androidLogNode);
