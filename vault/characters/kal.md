@@ -54,12 +54,12 @@
 ## Spellcasting
 - **Prepared Spells**: 7
 
-!?[Spell Slots Level 1:|#4e75d3](track-cookie#discrete-counter#4)
-!?[Spell Slots Level 2:|#7eb5f3](track-cookie#discrete-counter#3)
+!?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#4)
+!?[**Spell Slots Level 2:**|#7eb5f3](track-cookie#discrete-counter#3)
 
 - **Wild Shapes Prepared**: 4
-!?[Wild Shape Charges *(Regain 1 after Short Rest, all after Long Rest)*:|#7eb5f3](track-cookie#discrete-counter#2)
-
+!?[**Wild Shape Charges:**|#7eb5f3](track-cookie#discrete-counter#2)
+*(Regain 1 after Short Rest, all after Long Rest)*
 
 [TODO] 1 more prepared spell
 [TODO] 1 more cantrip

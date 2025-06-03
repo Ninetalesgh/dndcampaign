@@ -56,10 +56,10 @@
 
 ## Spellcasting
 - **Prepared Spells**: 5
-!?[Spell Slots Level 1:|#4e75d3](track-cookie#discrete-counter#3)
+!?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#3)
 - **Lay on Hands Charges:** 20 *([5 * your Paladin Level] Regain all after Long Rest)*
-!?[Channel Divinity Charges *(Regain 1 after Short Rest, all after Long Rest)*:|#7eb5f3](track-cookie#discrete-counter#2)
-
+!?[**Channel Divinity Charges:**|#7eb5f3](track-cookie#discrete-counter#2)
+*(Regain 1 after Short Rest, all after Long Rest)*
 ## Feats and Actions
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:

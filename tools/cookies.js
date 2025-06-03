@@ -138,7 +138,7 @@ function applyCookieValueToCustomTracker_DiscreteCounter(discreteCounter, value)
   let validColor = isValidCssColor(discreteCounter.dataset.color) ? discreteCounter.dataset.color : '';
 
   while (child) {
-    if (child.dataset.value <= value) {
+    if (Number(child.dataset.value) <= Number(value)) {
       child.classList.add('active');
 //      child.style.backgroundColor = validColor;
     }
@@ -153,8 +153,8 @@ function applyCookieValueToCustomTracker_DiscreteCounter(discreteCounter, value)
 
 function applyCookieValuesToCustomTrackers(contentPageName) {
   let pageCookie = getCookie(contentPageName);
+  let trackerMap = new Map();
   if (pageCookie) {
-    let trackerMap = new Map();
     let categories = pageCookie?.split('|') ?? [];
     for (let i = 0; i < categories.length; ++i) {
       if (categories[i].startsWith("custom-tracker-cookie:")) {
@@ -168,16 +168,15 @@ function applyCookieValuesToCustomTrackers(contentPageName) {
         break;
       }
     }
+  }
 
-    const customTrackers = document.querySelectorAll('.custom-tracker');
-    for (let i = 0; i < customTrackers.length; ++i) {
-      const trackerName = encodeURIComponent(customTrackers[i].dataset.name);
-      let cookieValue = trackerMap.get(trackerName);
-      if (cookieValue) {
-        if (customTrackers[i].classList.contains("discrete-counter")) {
-          applyCookieValueToCustomTracker_DiscreteCounter(customTrackers[i], cookieValue);
-        }
-      }
+  const customTrackers = document.querySelectorAll('.custom-tracker');
+  for (let i = 0; i < customTrackers.length; ++i) {
+    const trackerName = encodeURIComponent(customTrackers[i].dataset.name);
+    let cookieValue = trackerMap.get(trackerName) ?? customTrackers[i].dataset.value;
+    console.log(`SWAG ${cookieValue}`);
+    if (customTrackers[i].classList.contains("discrete-counter")) {
+      applyCookieValueToCustomTracker_DiscreteCounter(customTrackers[i], cookieValue);
     }
   }
 }

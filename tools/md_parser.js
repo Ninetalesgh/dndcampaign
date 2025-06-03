@@ -22,11 +22,6 @@ function reformatLink(name, link)
 
 function formatCustomTracker(name, type, color, value)
 {
-  console.log(name); // name, ID
-  console.log(color); // significant color
-  console.log(type); // custom tracker type
-  console.log(value); // default or max value
-
   let customTrackerElement = `<div class="custom-tracker ${type}" data-name="${name}" data-value="${value}" data-color="${color}">`;
   customTrackerElement += `<p class="custom-tracker-header" style="vertical-align:middle;" data-value="0" onclick="setCustomTrackerValue(this)">${name}</p>`;
   if (type === "discrete-counter") {

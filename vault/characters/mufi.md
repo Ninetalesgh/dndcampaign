@@ -53,7 +53,7 @@
 
 ## Spellcasting
 - **Prepared Spells**: 4
-!?[Spell Slots Level 1:|#4e75d3](track-cookie#discrete-counter#3)
+!?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#3)
 
 
 ## Feats and Actions

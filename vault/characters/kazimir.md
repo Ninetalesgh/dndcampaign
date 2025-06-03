@@ -49,7 +49,7 @@
   [Mithral Plate](dm/items.md#mithral-plate)
 
 ## Battle Master
-!?[Superiority Dice (d8):|#4e75d3](track-cookie#discrete-counter#4)
+!?[**Superiority Dice (d8):**|#4e75d3](track-cookie#discrete-counter#4)
 - **Maneuvers:**
   [Bait and Switch](feats.md#bait-and-switch)
   [Grappling Attack](feats.md#grappling-attack)

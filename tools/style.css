@@ -12,6 +12,8 @@
   --color-button-1-hover: #719451;
   --color-button-2: #4e75d3;
   --color-button-2-hover: #3155ab;
+  --color-button-3: #de3c31;
+  --color-button-3-hover: #b32a20;
   --color-footer-background: #000000;
   --color-footer-foreground: #837b65;
   --color-inline-box: #91b473;
@@ -137,11 +139,10 @@ li {
   border-radius: 5px;
   text-align:left;
   vertical-align:middle;
-  height: 30px;
   display: flex;
+  flex-wrap: wrap;
   align-items:center;
-  width: 100%;
-  max-width: 400px;
+  width: auto;
 }
 
 .custom-tracker.discrete-counter {
@@ -161,10 +162,11 @@ li {
 
 .custom-tracker-header {
   flex: 0 0 auto;
-  white-space: nowrap;
+  white-space: wrap;
   padding: 2px 2px 2px 2px;
   margin: 0 0 0 0;
   border-radius: 5px;
+  display: table-cell;
 }
 
 .custom-tracker-header:hover {
@@ -182,10 +184,10 @@ li {
   transition: background-color 0.2s;
 }
 .custom-tracker-segment.active {
-  background-color: var(--color-external-link);
+  background-color: var(--color-button-3);
 }
 .custom-tracker-segment:hover {
-  background-color: var(--color-button-1-hover);
+  background-color: var(--color-button-3-hover);
   cursor: pointer;
 }
 
