@@ -10,8 +10,8 @@
 # Party Wealth
 
 - **PLATINUM**: 0
-- **GOLD   .**: 0
-- **SILVER .**: 0
+- **GOLD   .**: 262
+- **SILVER .**: 5
 - **COPPER .**: 0
 
 # Frequently Used Item Reference

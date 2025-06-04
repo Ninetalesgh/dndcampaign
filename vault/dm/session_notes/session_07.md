@@ -29,6 +29,7 @@ Dain fetches The Party and guides them to the council in the upper city.
 
 
 
+
 ## The Crypt
 
 - Now there are some mercenaries/clerics in The Crypt:

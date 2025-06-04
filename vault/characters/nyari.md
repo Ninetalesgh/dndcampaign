@@ -49,10 +49,9 @@
   [Shield](dm/items.md#shield)
   [Priest's Pack](dm/items.md#priests-pack)
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
-  - 50 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
+  - 27 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
 
 [TODO] Allowed two smithing tests next long rest because of critical success
-[TODO] 1 more prepared spell
 
 ## Spellcasting
 - **Prepared Spells**: 5
