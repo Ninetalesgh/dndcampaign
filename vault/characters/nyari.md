@@ -49,6 +49,7 @@
   [Shield](dm/items.md#shield)
   [Priest's Pack](dm/items.md#priests-pack)
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
+  [Liora's Band of Trust](dm/items.md#lioras-band-of-trust)
   - 27 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
 
 [TODO] Allowed two smithing tests next long rest because of critical success

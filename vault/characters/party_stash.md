@@ -1,7 +1,6 @@
 # Party Stash
 
 [Thalioel's Tear](dm/items.md#thalioels-tear)
-[Liora's Band of Trust](dm/items.md#lioras-band-of-trust)
 [Censer of the Cremated](dm/items.md#censer-of-the-cremated)
 
 **Spell Scrolls**:
@@ -10,7 +9,7 @@
 # Party Wealth
 
 - **PLATINUM**: 0
-- **GOLD   .**: 262
+- **GOLD   .**: 662
 - **SILVER .**: 5
 - **COPPER .**: 0
 
