@@ -21,6 +21,12 @@
 [TODO] CLEAN UP DANGLING SECTIONS HERE
 **Grand Factor Silan Thornvale** -> Balding, White Robe.
 
+## Introduction
+
+The Party is at the top of the elevator -> recap.
+
+Dain fetches The Party and guides them to the council in the upper city.
+
 
 
 ## The Crypt
@@ -112,10 +118,12 @@ Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 [Magmin (1/2)](dm/monsters.md#magmin)
 [Geonid (1/4)](dm/monsters.md#geonid)
 
+[Water Weird (3)](dm/monsters.md#water-weird)
+[Water Elemental (5)](dm/monsters.md#water-elemental)
+
 #### Rest of the Archers of Cormanthyr
 
 As The Party moves deeper into the crypt, they encounter elvish voices singing a haunting melody in the distance.
-
 
 #### The Vinea Estate Basement
 [Needle Blights (1/2)](dm/monsters.md#needle-blight)

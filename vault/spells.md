@@ -255,7 +255,7 @@ After that, the shard persists but loses its arcane potency.
 - **Duration**: Instantaneous
 You whisper magical words that antagonize one creature of your choice within range. The target must make a WIS Save. On a failed save, the target takes 4d4 psychic damage and must immediately use its reaction to make a melee attack against another creature of your choice that you can see. If the target can't make this attack (for example, because there is no one within its reach or because its reaction is unavailable), the target instead has disadvantage on the next attack roll it makes before the start of your next turn. On a successful save, the target takes half as much damage only.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d4 for each slot level above 3rd.
-- **Classes**: 
+- **Classes**:
 *(Source: BMT, page 50)*
 
 ### Antilife Shell
@@ -802,7 +802,7 @@ Whenever a creature makes an attack roll against you before the spell ends, the 
 You create a blade-shaped planar rift about 1m long in an unoccupied space you can see within range. The blade lasts for the duration. When you cast this spell, you can make up to two melee spell attacks with the blade, each one against a creature, loose object, or structure within 1 *(1.5m)* of the blade. On a hit, the target takes 4d12 force damage. This attack scores a critical hit if the number on the d20 is 18 or higher. On a critical hit, the blade deals an extra 8d12 force damage (for a total of 12d12 force damage).
 As a bonus action on your turn, you can move the blade up to 6 *(9m)* to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 The blade can harmlessly pass through any barrier, including a wall of force.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 106)*
 
 ### Blasphemous Abrogation
@@ -1268,11 +1268,11 @@ It lasts for the duration or until a wind of moderate or greater speed (at least
 - **Components**: V, S
 - **Duration**: Instantaneous
 You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 2 *(3m)* of you throughout the casting.
-  - **Atonement.** You touch one willing creature whose alignment has changed, and you make a DC 20 WIS (Insight) check. On a successful check, you restore the target to its original alignment. 
-  - **Bless Water.** You touch one vial of water and cause it to become holy water. 
-  - **Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once. 
-  - **Dedication.** You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a Save, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once. 
-  - **Funeral Rite.** You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell. 
+  - **Atonement.** You touch one willing creature whose alignment has changed, and you make a DC 20 WIS (Insight) check. On a successful check, you restore the target to its original alignment.
+  - **Bless Water.** You touch one vial of water and cause it to become holy water.
+  - **Coming of Age.** You touch one humanoid who is a young adult. For the next 24 hours, whenever the target makes an ability check, it can roll a d4 and add the number rolled to the ability check. A creature can benefit from this rite only once.
+  - **Dedication.** You touch one humanoid who wishes to be dedicated to your god's service. For the next 24 hours, whenever the target makes a Save, it can roll a d4 and add the number rolled to the save. A creature can benefit from this rite only once.
+  - **Funeral Rite.** You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a wish spell.
   - **Wedding.** You touch adult humanoids willing to be bonded together in marriage. For the next 7 days, each target gains a +2 bonus to AC while they are within 6 *(9m)* of each other. A creature can benefit from this rite again only if widowed.
 - **Classes**: Cleric, Paladin
 *(Source: XGE, page 151)*
@@ -3092,7 +3092,7 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 You and up to eight willing creatures within range fall [unconscious](conditions.md#unconscious) for the spell's duration and experience visions of another world on the Material Plane, such as Oerth, Toril, Krynn, or Eberron. If the spell reaches its full duration, the visions conclude with each of you encountering and pulling back a mysterious blue curtain. The spell then ends with you mentally and physically transported to the world that was in the visions.
 To cast this spell, you must have a magic item that originated on the world you wish to reach, and you must be aware of the world's existence, even if you don't know the world's name. Your destination in the other world is a safe location within 1 mile of where the magic item was created. Alternatively, you can cast the spell if one of the affected creatures was born on the other world, which causes your destination to be a safe location within 1 mile of where that creature was born.
 The spell ends early on a creature if that creature takes any damage, and the creature isn't transported. If you take any damage, the spell ends for you and all the other creatures, with none of you being transported.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 106)*
 
 ### Drown in Blood
@@ -3276,11 +3276,11 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 - **Range**: 6 *(9m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You exert control over the elements, creating one of the following effects within range. 
+You exert control over the elements, creating one of the following effects within range.
   - **Beckon Air.** You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a size 1 *(1.5m)* cube. Doors and shutters being held open by someone or something aren't affected.
-  - **Beckon Earth.** You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand. 
-  - **Beckon Fire.** You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute. 
-  - **Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute. 
+  - **Beckon Earth.** You create a thin shroud of dust or sand that covers surfaces in a size 1 *(1.5m)* square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.
+  - **Beckon Fire.** You create a thin cloud of harmless embers and colored, scented smoke in a size 1 *(1.5m)* cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute.
+  - **Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a size 1 *(1.5m)* cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.
   - **Sculpt Element.** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 30cm cube to assume a crude shape (such as that of a creature) for 1 hour.
 - **Classes**: Druid, Sorcerer, Wizard
 *(Source: PHB'24, page 267)*
@@ -3342,7 +3342,7 @@ Putting a finger to your head, you pull a memory, an idea, or a message from you
 If you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as detect thoughts or modify memory), you can transform the thoughts or memories you read, rather than your own, into a thought strand.
 Casting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.
 )
-- **Classes**: 
+- **Classes**:
 *(Source: GGR, page 47)*
 
 ### Endurance of the Mother's Faithful
@@ -3611,9 +3611,9 @@ You distort the vision of a creature in range, obscuring yourself from it. The t
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 minute
 For the duration, your eyes become an inky void. One creature of your choice within 12 *(18m)* of you that you can see must succeed on a WIS Save or be affected by one of the following effects of your choice for the duration.
-On each of your turns until the spell ends, you can take a Magic action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell. 
-**Asleep.** The target is [Unconscious](conditions.md#unconscious). It wakes up if it takes any damage or if another creature takes an action to shake it awake. 
-**Panicked.** The target is [Frightened](conditions.md#frightened). On each of its turns, the [Frightened](conditions.md#frightened) target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 12 *(18m)* away from you where it can't see you, this effect ends. 
+On each of your turns until the spell ends, you can take a Magic action to target another creature but can't target a creature again if it has succeeded on a save against this casting of the spell.
+**Asleep.** The target is [Unconscious](conditions.md#unconscious). It wakes up if it takes any damage or if another creature takes an action to shake it awake.
+**Panicked.** The target is [Frightened](conditions.md#frightened). On each of its turns, the [Frightened](conditions.md#frightened) target must take the Dash action and move away from you by the safest and shortest route available. If the target moves to a space at least 12 *(18m)* away from you where it can't see you, this effect ends.
 **Sickened.** The target is [Poisoned](conditions.md#poisoned).
 - **Classes**: Bard, Sorcerer, Warlock, Wizard
 ![\|50](https://bg3.wiki/w/images/f/f7/Eyebite_Panicked_Icon.webp)
@@ -3802,11 +3802,11 @@ One creature you can see within range that is [Paralyzed](conditions.md#paralyze
 - **Range**: 2 *(3m)*
 - **Components**: V, S
 - **Duration**: Instantaneous
-You gain the service of a familiar, a spirit that takes an animal form you choose: [Bat](vault/spells.md#bat), [Cat](vault/spells.md#cat), [Frog](vault/spells.md#frog), [Hawk](vault/spells.md#hawk), [Lizard](vault/spells.md#lizard), [Octopus](vault/spells.md#octopus), [Owl](vault/spells.md#owl), [Rat](vault/spells.md#rat), [Raven](vault/spells.md#raven), [Spider](vault/spells.md#spider), [Weasel](vault/spells.md#weasel), or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands. 
+You gain the service of a familiar, a spirit that takes an animal form you choose: [Bat](vault/spells.md#bat), [Cat](vault/spells.md#cat), [Frog](vault/spells.md#frog), [Hawk](vault/spells.md#hawk), [Lizard](vault/spells.md#lizard), [Octopus](vault/spells.md#octopus), [Owl](vault/spells.md#owl), [Rat](vault/spells.md#rat), [Raven](vault/spells.md#raven), [Spider](vault/spells.md#spider), [Weasel](vault/spells.md#weasel), or another Beast that has a Challenge Rating of 0. Appearing in an unoccupied space within range, the familiar has the statistics of the chosen form, though it is a Celestial, Fey, or Fiend (your choice) instead of a Beast. Your familiar acts independently of you, but it obeys your commands.
 - **Telepathic Connection.** While your familiar is within 20 *(30m)* of you, you can communicate with it telepathically. Additionally, as a **Bonus Action**, you can see through the familiar's eyes and hear what it hears until the start of your next turn, gaining the benefits of any special senses it has.
 Finally, when you cast a spell with a range of touch, your familiar can deliver the touch. Your familiar must be within 20 *(30m)* of you, and it must take a **Reaction** to deliver the touch when you cast the spell.
-- **Combat.** The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal. 
-- **Disappearance of the Familiar.** When the familiar drops to 0 HP, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 6 *(9m)* of you. Whenever the familiar drops to 0 HP or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying. 
+- **Combat.** The familiar is an ally to you and your allies. It rolls its own Initiative and acts on its own turn. A familiar can't attack, but it can take other actions as normal.
+- **Disappearance of the Familiar.** When the familiar drops to 0 HP, it disappears. It reappears after you cast this spell again. As a Magic action, you can temporarily dismiss the familiar to a pocket dimension. Alternatively, you can dismiss it forever. As a Magic action while it is temporarily dismissed, you can cause it to reappear in an unoccupied space within 6 *(9m)* of you. Whenever the familiar drops to 0 HP or disappears into the pocket dimension, it leaves behind in its space anything it was wearing or carrying.
 - **One Familiar Only.** You can't have more than one familiar at a time. If you cast this spell while you have a familiar, you instead cause it to adopt a new eligible form.
 ![\|50](https://bg3.wiki/w/images/8/8b/Find_Familiar_Cat_Icon.webp)
 - **Classes**: Wizard
@@ -3821,12 +3821,12 @@ Finally, when you cast a spell with a range of touch, your familiar can deliver 
 - **Speed**: walk 1 *(1.5m)*, fly 6 *(9m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+2 (-4) | 15 (+2) | 8 (-1) | 2 (-4) | 12 (+1) | 4 (-3)
 
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight), passive perception 11
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 349)*
 
@@ -3839,15 +3839,15 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 8 *(12m)*, climb 8 *(12m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+3 (-4) | 15 (+2) | 10 (+0) | 3 (-4) | 12 (+1) | 7 (-2)
 
 - **Skills**: perception: +3, stealth: +4
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
-- **Traits**: 
+- **Traits**:
    - **Jumper**. The cat's jump distance is determined using its DEX rather than its STR.
-- **Actions**: 
-   - **Scratch**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Scratch**. *Melee Attack:* +4, reach 1 *(1.5m)*
     *Hit:* 1 Slashing damage.
 *(Source: XMM, page 351)*
 
@@ -3860,16 +3860,16 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 4 *(6m)*, swim 4 *(6m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4)
 
 - **Skills**: perception: +1, stealth: +3
 - **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
-- **Traits**: 
+- **Traits**:
    - **Amphibious**. The frog can breathe air and water.
    - **Standing Leap**. The frog's {@variantrule Long Jump|XPHB} is up to 2 *(3m)* and its {@variantrule High Jump|XPHB} is up to 1 *(1.5m)* with or without a running start.
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +3, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +3, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 354)*
 
@@ -3882,13 +3882,13 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 2 *(3m)*, fly 12 *(18m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+5 (-3) | 16 (+3) | 8 (-1) | 2 (-4) | 14 (+2) | 6 (-2)
 
 - **Skills**: perception: +6
 - **Senses**: passive perception 16
-- **Actions**: 
-   - **Talons**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Talons**. *Melee Attack:* +5, reach 1 *(1.5m)*
     *Hit:* 1 Slashing damage.
 *(Source: XMM, page 362)*
 
@@ -3901,14 +3901,14 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+2 (-4) | 11 (+0) | 10 (+0) | 1 (-5) | 8 (-1) | 3 (-4)
 
 - **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 9
-- **Traits**: 
+- **Traits**:
    - **Spider Climb**. The lizard can climb difficult surfaces, including along ceilings, without needing to make an ability check.
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 364)*
 
@@ -3921,18 +3921,18 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 1 *(1.5m)*, swim 6 *(9m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+4 (-3) | 15 (+2) | 11 (+0) | 3 (-4) | 10 (+0) | 4 (-3)
 
 - **Skills**: perception: +2, stealth: +6
 - **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
-- **Traits**: 
+- **Traits**:
    - **Compression**. The octopus can move through a space as narrow as 1 inch without expending extra movement to do so.
    - **Water Breathing**. The octopus can breathe only underwater.
-- **Actions**: 
-   - **Tentacles**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Tentacles**. *Melee Attack:* +4, reach 1 *(1.5m)*
     *Hit:* 1 Bludgeoning damage.
-- **Reactions**: 
+- **Reactions**:
    - **Ink Cloud (1/Day)**. *Trigger:* A creature ends its turn within 1 *(1.5m)* of the octopus while underwater. *Response:* The octopus releases ink that fills a radius 1 *(1.5m)* sphere centered on itself, and the octopus moves up to its swim speed. The inked area is [Heavily Obscured](vault/game_rules.md#heavily-obscured) for 1 minute or until a strong current or similar effect disperses the ink.
 *(Source: XMM, page 365)*
 
@@ -3945,15 +3945,15 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 1 *(1.5m)*, fly 12 *(18m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+3 (-4) | 13 (+1) | 8 (-1) | 2 (-4) | 12 (+1) | 7 (-2)
 
 - **Skills**: perception: +5, stealth: +5
 - **Senses**: [Darkvision *(36m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
-- **Traits**: 
+- **Traits**:
    - **Flyby**. The owl doesn't provoke Opportunity Attacks when it flies out of an enemy's reach.
-- **Actions**: 
-   - **Talons**. *Melee Attack:* +3, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Talons**. *Melee Attack:* +3, reach 1 *(1.5m)*
     *Hit:* 1 Slashing damage.
 *(Source: XMM, page 366)*
 
@@ -3966,15 +3966,15 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+2 (-4) | 11 (+0) | 9 (-1) | 2 (-4) | 10 (+0) | 4 (-3)
 
 - **Skills**: perception: +2
 - **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 12
-- **Traits**: 
+- **Traits**:
    - **Agile**. The rat doesn't provoke Opportunity Attacks when it moves out of an enemy's reach.
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +2, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 367)*
 
@@ -3987,15 +3987,15 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 2 *(3m)*, fly 10 *(15m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-2 (-4) | 14 (+2) | 10 (+0) | 5 (-3) | 13 (+1) | 6 (-2) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+2 (-4) | 14 (+2) | 10 (+0) | 5 (-3) | 13 (+1) | 6 (-2)
 
 - **Skills**: perception: +3
 - **Senses**: passive perception 13
-- **Traits**: 
+- **Traits**:
    - **Mimicry**. The raven can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful DC 10 WIS (Insight) check.
-- **Actions**: 
-   - **Beak**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Beak**. *Melee Attack:* +4, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 368)*
 
@@ -4008,16 +4008,16 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 4 *(6m)*, climb 4 *(6m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+2 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 10 (+0) | 2 (-4)
 
 - **Skills**: stealth: +4
 - **Senses**: [Darkvision *(9m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
-- **Traits**: 
+- **Traits**:
    - **Spider Climb**. The spider can climb difficult surfaces, including along ceilings, without needing to make an ability check.
    - **Web Walker**. The spider ignores movement restrictions caused by webs, and the spider knows the location of any other creature in contact with the same web.
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +4, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage plus 2 (1d4) Poison damage.
 *(Source: XMM, page 369)*
 
@@ -4030,13 +4030,13 @@ STR | DEX | CON | INT | WIS | CHA
 - **Speed**: walk 6 *(9m)*, climb 6 *(9m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+3 (-4) | 16 (+3) | 8 (-1) | 2 (-4) | 12 (+1) | 3 (-4)
 
 - **Skills**: acrobatics: +5, perception: +3, stealth: +5
 - **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 13
-- **Actions**: 
-   - **Bite**. *Melee Attack:* +5, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Bite**. *Melee Attack:* +5, reach 1 *(1.5m)*
     *Hit:* 1 Piercing damage.
 *(Source: XMM, page 372)*
 
@@ -4077,17 +4077,17 @@ The steed resembles a Large, rideable animal of your choice, such as a horse, a 
 - **Speed**: walk 12 *(18m)*, fly (requires level 4+ spell) 12 *(18m)*
 
 STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--: 
-18 (+4) | 12 (+1) | 14 (+2) | 6 (-2) | 12 (+1) | 8 (-1) 
+ :--: | :--: | :--: | :--: | :--: | :--:
+18 (+4) | 12 (+1) | 14 (+2) | 6 (-2) | 12 (+1) | 8 (-1)
 
 - **Senses**: passive perception 11
 - **Languages**: telepathy 1 mile (works only with you)
-- **Traits**: 
+- **Traits**:
    - **Life Bond**. When you regain Hit Points from a level 1+ spell, the steed regains the same number of HP if you're within 1 *(1.5m)* of it.
-- **Actions**: 
-   - **Otherworldly Slam**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)* 
+- **Actions**:
+   - **Otherworldly Slam**. *Melee Attack:* + your SAM to hit, reach 1 *(1.5m)*
     *Hit:* 1d8 + spell level of Radiant (Celestial), Psychic (Fey), or Necrotic (Fiend) damage.
-- **Bonus Actions**: 
+- **Bonus Actions**:
    - **Fell Glare (Fiend Only; Recharges after a Long Rest)**. One creature within 12 *(18m)* the steed can see has to succeed a WIS Save against your SSDC. On failure the target becomes [Frightened](conditions.md#frightened) until the end of your next turn.
    - **Fey Step (Fey Only; Recharges after a Long Rest)**. The steed teleports, along with its rider, to an unoccupied space of your choice up to 12 *(18m)* away from itself.
    - **Healing Touch (Celestial Only; Recharges after a Long Rest)**. One creature within 1 *(1.5m)* of the steed regains a number of Hit Points equal to 2d8 + spell level.
@@ -4865,10 +4865,10 @@ A creature killed by this damage turns to shadow and melts away, disintegrating 
 - **Duration**: Until dispelled or triggered
 You inscribe a glyph that later unleashes a magical effect. You inscribe it either on a surface (such as a table or a section of floor) or within an object that can be closed (such as a book or chest) to conceal the glyph. The glyph can cover an area no larger than 2 *(3m)* in diameter. If the surface or object is moved more than 2 *(3m)* from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 The glyph is nearly imperceptible and requires a successful WIS (Perception) check against your spell save DC to notice.
-When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below. 
+When you inscribe the glyph, you set its trigger and choose whether it's an explosive rune or a spell glyph, as explained below.
 - **Set the Trigger.** You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, common triggers include touching or stepping on the glyph, removing another object covering it, or approaching within a certain distance of it. For glyphs inscribed within an object, common triggers include opening that object or seeing the glyph. Once a glyph is triggered, this spell ends.
-You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password. 
-- **Explosive Rune**. When triggered, the glyph erupts with magical energy in a radius 4 *(6m)* sphere centered on the glyph. Each creature in the area makes a DEX Save. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one. 
+You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
+- **Explosive Rune**. When triggered, the glyph erupts with magical energy in a radius 4 *(6m)* sphere centered on the glyph. Each creature in the area makes a DEX Save. A creature takes 5d8 Acid, Cold, Fire, Lightning, or Thunder damage (your choice when you create the glyph) on a failed save or half as much damage on a successful one.
 - **Spell Glyph.** You can store a prepared spell of level 3 or lower in the glyph by casting it as part of creating the glyph. The spell must target a single creature or an area. The spell being stored has no immediate effect when cast in this way.
 When the glyph is triggered, the stored spell takes effect. If the spell has a target, it targets the creature that triggered the glyph. If the spell affects an area, the area is centered on that creature. If the spell summons Hostile creatures or creates harmful objects or traps, they appear as close as possible to the intruder and attack it. If the spell requires Concentration, it lasts until the end of its full duration.
 **Using a Higher-Level Spell Slot.** The damage of an explosive rune increases by 1d8 for each spell slot level above 3. If you create a spell glyph, you can store any spell of up to the same level as the spell slot you use for the Glyph of Warding.
@@ -7801,7 +7801,7 @@ Alternatively, if you know the sigil sequence of a teleportation circle on anoth
 - **Components**: V, S
 - **Duration**: Instantaneous
 This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below. Overgrowth. Choose a point within range. All normal plants in a radius 20 *(30m)* sphere centered on that point become thick and overgrown.
-Moving through the area costs **quadruple**. 
+Moving through the area costs **quadruple**.
 You can exclude one or more areas of any size within the spell's area from being affected. Enrichment. All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 - **Classes**: Bard, Druid, Ranger
 ![\|50](https://bg3.wiki/w/images/a/ad/Plant_Growth_Icon.webp)
@@ -7998,12 +7998,12 @@ Each humanoid creature of your choice within range that can hear you gains advan
 - **Range**: 2 *(3m)*
 - **Components**: V, S
 - **Duration**: 1 hour
-You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time. 
-- *Sensory Effect.* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor. 
-- *Fire Play.* You instantaneously light or snuff out a candle, a torch, or a small campfire. 
-- *Clean or Soil.* You instantaneously clean or soil an object no larger than 30 liters. 
-- *Minor Sensation.* You chill, warm, or flavor up to 30 liters of nonliving material for 1 hour. 
-- *Magic Mark.* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour. 
+You create a magical effect within range. Choose the effect from the options below. If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time.
+- *Sensory Effect.* You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
+- *Fire Play.* You instantaneously light or snuff out a candle, a torch, or a small campfire.
+- *Clean or Soil.* You instantaneously clean or soil an object no larger than 30 liters.
+- *Minor Sensation.* You chill, warm, or flavor up to 30 liters of nonliving material for 1 hour.
+- *Magic Mark.* You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 - *Minor Creation.* You create a nonmagical trinket or an illusory image that can fit in your hand. It lasts until the end of your next turn. A trinket can deal no damage and has no monetary worth.
 - **Classes**: Artificer, Bard, Sorcerer, Warlock, Wizard
 ![\|50](https://bg3.wiki/w/images/d/d4/Dampen_Elements_Icon.webp)
@@ -9498,7 +9498,7 @@ The target takes an extra 2d6 Necrotic damage from the attack. Distribute an amo
 - **Casting Time**: Bonus Action, after a successful Melee Attack
 - **Range**: Self
 - **Components**: V
-- **Duration**: 1 minute 
+- **Duration**: 1 minute
 The target of the attack and each creature within a length 2 *(3m)* cone of it make a DEX Save, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one. Any *On Hit* effects of the Attack are applied to each target that failed the save.
 **Using a Higher-Level Spell Slot.** The damage increases by 1d10 and the length of the cone by 1 for each spell slot level above 1.
 - **Classes**: Paladin
@@ -9789,7 +9789,7 @@ You call forth spirits of the dead, which flit around you for the spell's durati
 Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 2 *(3m)* of you. This damage is radiant, necrotic, or cold (your choice when you cast the spell). Any creature that takes this damage can't regain hit points until the start of your next turn.
 In addition, any creature of your choice that you can see that starts its turn within 2 *(3m)* of you has its speed reduced by 2 *(3m)* until the start of your next turn.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for every two slot levels above 3rd.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 108)*
 
 ### Spirit of Death
@@ -9801,7 +9801,7 @@ In addition, any creature of your choice that you can see that starts its turn w
 You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the reaper spirit stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.
 The spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.
-- **Classes**: 
+- **Classes**:
 *(Source: BMT, page 50)*
 
 ### Spiritual Arsenal
@@ -9868,7 +9868,7 @@ You may pass through other creatures and move through a space as small as 3cm wi
 - **Duration**: Instantaneous
 You spray a length 3 *(4.5m)* cone of spectral cards. Each creature in that area must make a DEX Save. On a failed save, a creature takes 2d10 force damage and is [blinded](conditions.md#blinded) until the end of its next turn. On a successful save, a creature takes half as much damage only.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d10 for each slot level above 2nd.
-- **Classes**: 
+- **Classes**:
 *(Source: BMT, page 50)*
 
 ### Sprouting Doom
@@ -10052,7 +10052,7 @@ On a success, a creature takes half damage.
 - **Range**: Self
 - **Components**: V, S
 - **Duration**: 1 minute
-A field of stones springs into the air around you, shielding you from harm. For the duration, you have a +3 bonus to your AC.
+A field of stones springs into the air around you, shielding you from harm. For the duration, you have a +2 bonus to your AC.
 This effect ends early if you are hit with an attack, or if you cast another spell that provides a magical bonus to your AC.
 **Using a Higher-Level Spell Slot.** The duration increases to 10 minutes if you use a slot level above 2.
 - **Classes**: Druid, Ranger
@@ -10286,7 +10286,7 @@ As part of casting the spell, you can form a circle on the ground with the blood
 You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
 The creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 113)*
 
 ### Summon Undead
@@ -10474,7 +10474,7 @@ At the end of each of its turns and each time it takes damage, it makes another 
 - **Duration**: 1 round
 You psychically lash out at one creature you can see within range. The target must make an INT Save. On a failed save, the target takes 3d6 psychic damage, and it can't take a reaction until the end of its next turn. Moreover, on its next turn, it must choose whether it gets a move, an action, or a bonus action; it gets only one of the three. On a successful save, the target takes half as much damage and suffers none of the spell's other effects.
 **Using a Higher-Level Spell Slot.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd. The creatures must be within 6 *(9m)* of each other when you target them.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 115)*
 
 ### Tasha's Otherworldly Guise
@@ -10489,7 +10489,7 @@ Spectral wings appear on your back, giving you a flying speed of 8 *(12m)*.
 You have a +2 bonus to AC.
 All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of STR or DEX, for the attack and damage rolls.
 You can attack twice, instead of once, when you take the Attack action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
-- **Classes**: 
+- **Classes**:
 *(Source: TCE, page 116)*
 
 ### Taste the Air

@@ -61,10 +61,6 @@
 !?[**Wild Shape Charges:**|#7eb5f3](track-cookie#discrete-counter#2)
 *(Regain 1 after Short Rest, all after Long Rest)*
 
-[TODO] 1 more prepared spell
-[TODO] 1 more cantrip
-[TODO] switch 1 cantrip
-
 ## Feats and Actions
 ### Actions
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Default Actions**:
@@ -78,6 +74,7 @@
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Cantrips**:
   [Guidance](spells.md#spells-g#guidance)
+  [Create Bonfire](spells.md#spells-c#create-bonfire)
   [Poison Spray *(High Elf)*](spells.md#spells-p#poison-spray)
   [Primal Savagery](spells.md#spells-p#primal-savagery)
 
