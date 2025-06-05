@@ -9,9 +9,9 @@
 # Party Wealth
 
 - **PLATINUM**: 0
-- **GOLD   .**: 662
-- **SILVER .**: 5
-- **COPPER .**: 0
+- **GOLD**: 662
+- **SILVER**: 5
+- **COPPER**: 0
 
 # Frequently Used Item Reference
 [Potion of Healing](dm/items.md#potion-of-healing)
