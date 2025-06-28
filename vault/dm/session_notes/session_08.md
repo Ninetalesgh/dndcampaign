@@ -4,19 +4,21 @@
 
 # Current Player Interests
 
-- **Translate Goblin Orders & Find out why there is an army camp.** To introduce Elara Moonshadow & The Council superficially.
+# Introduction
 
-- **Investigate The Crypt.**
-- **Investigate the Root.** To introduce Maris Tindle and The Laboratory.
+In the Engine Room, after defeating **Adam** and **Kazimir's dad**.
 
-- **Lilly's Funeral.** For later, to introduce Waukeen's Chapel's new caretaker. Maybe controversy with Mizora wanting her soul and also The Night Hag that cursed Lilly or Merrick?
 
-- **Enter The Stockpile.** To introduce The Stockpile Business.
 
-[TODO]
-- Council: Introduce Silan Thornvale, Goblin progression (?).
-- Back into the Crypt: Someone else entered !!!
+# Scenes
+[Souls of Cormanthyr - Archer (2)](dm/monsters.md#souls-of-cormanthyr---archer)
 
-[TODO] CLEAN UP DANGLING SECTIONS HERE
-**Grand Factor Silan Thornvale** -> Balding, White Robe.
+- TODO what's with the machine still?
 
+- Meeting **Thalioel** in the archer's room, she is barely holding on resisting the corruption.
+  - She tells the party about when she woke up she was not able to feel many souls of her fellowship anymore, expecting them to still be here with her, something must have happened to all her friends' souls.
+  -
+
+- Meeting the other dungeon delvers?
+
+- Finding the entrance to the vinea basement?

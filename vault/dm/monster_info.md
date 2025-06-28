@@ -371,6 +371,13 @@ A [Shambling Mound (5)](dm/monsters.md#shambling-mound), sometimes called a sham
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
+### Banshee
+
+Heralds of doom and plagues on the living, [Banshees (4)](dm/monsters.md#banshee) are spirits obsessed by unresolved bitterness or sorrow. These storied phantoms slay any who glimpse them or hear their baleful wails. Although any tormented soul can arise as a banshee, some elven communities particularly fear them and believe that those who hoard or destroy beauty—natural or otherwise—risk returning as a banshee.
+  All manner of torments might give rise to a banshee. Roll on or choose a result from the Banshee Sorrows table to inspire how a banshee's torment influences its behavior.
+
+![\|250](https://5e.tools/img/bestiary/XMM/Banshee.webp)
+
 ### Boneless
 
 Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.md#boneless) are undead remains devoid of skeletons. Most rise from the bodies of those who've suffered brutal ends, such as deliberate skinning or crushing. Deathless malice infuses what remains, their husks flopping and slithering in pursuit of vengeance or at the whims of sinister masters. Slipping through cracks and under doors, these stealthy undead seek to adorn living frames once more, wrapping themselves around their victims and wringing them to death in their full-body grip.
@@ -390,6 +397,16 @@ Not all animate corpses shamble from their graves. [Boneless (1/2)](dm/monsters.
   Made whole again, the murderer acts as though the hand had never been severed and the ritual had never taken place. When the crawling claw separates again, the living body falls into a coma. Destroying the crawling claw while it is away from the body kills the murderer. However, killing the murderer has no effect on the crawling claw.
 
 ![\|250](https://5e.tools/img/bestiary/MM/Crawling%20Claw.webp)
+
+### Ghost
+A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
+
+**Unfinished Business.** A ghost yearns to complete some unresolved task from its life. It might seek to avenge its own death, fulfill an oath, or relay a message to a loved one. A ghost might not realize that it has died and continue the everyday routine of its life. Others are driven by wickedness or spite, as with a ghost that refuses to rest until every member of a certain family or organization is dead.
+  The surest way to rid an area of a ghost is to resolve its unfinished business. A ghost can be destroyed more easily by invoking a weakness tied to its former life. The ghost of a person tortured to death might be killed again by the implements of that torture. The ghost of a gardener might become more vulnerable when exposed to a potent floral fragrance.
+**Ghostly Manifestations.** Sensations of profound sadness, loneliness, and unfulfilled yearning emanate from places where ghostly hauntings occur. Strange sounds or unnatural silences create an unsettling atmosphere. Cold spots settle in rooms that have roaring fires. A choking stench might seep into the area, inanimate objects might move of their own accord, and corpses might rise from the grave. The ghost has no control over these manifestations; they simply occur.
+**Undead Nature.** A ghost doesn't require air, food, drink, or sleep.
+
+[Ghostly Legionnaire (5)](dm/monsters.md#ghostly-legionnaire)
 
 ### Shadows
 [Shadows (1/2)](dm/monsters.md#shadow) are undead that resemble dark exaggerations of humanoid shadows.

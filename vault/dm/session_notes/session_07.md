@@ -6,6 +6,7 @@ The Party is at the top of the elevator -> recap.
 
 Dain fetches The Party and guides them to the council in the upper city.
 
+[TODO] write council NPCs into npcmd
 
 ## The Crypt
 
@@ -96,7 +97,7 @@ Some: [Fire Mephit (1/2)](dm/monsters.md#fire-mephit)
 [Magmin (1/2)](dm/monsters.md#magmin)
 [Geonid (1/4)](dm/monsters.md#geonid)
 
-[Barrow Wight](vault/dm/monsters.md#barrow-wight)
+[Barrow Wight (1)](vault/dm/monsters.md#barrow-wight)
 [Water Weird (3)](dm/monsters.md#water-weird)
 [Water Elemental (5)](dm/monsters.md#water-elemental)
 

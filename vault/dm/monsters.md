@@ -273,6 +273,42 @@ STR | DEX | CON | INT | WIS | CHA
    - **Pocket Sand**. When the bandit misses with a melee attack, it can hurl sand at the target, forcing it to succeed on a DC 12 CON Save or be [Blinded](conditions.md#blinded) until the end of its next turn.
 *(Source: ConfluxCreatures)*
 
+### Banshee
+**CR**: 4
+*Medium undead, Chaotic Evil*
+- **Initiative**: +1
+- **AC**: 11
+- **HP**: 81 (18d8)
+- **Speed**: walk 0 *(0m)*, fly (hover) 8 *(12m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+1 (-5) | 13 (+1) | 10 (+0) | 12 (+1) | 11 (+0) | 17 (+3)
+
+- **Resistances**: acid, fire, lightning, thunder;
+- **Immunities**: cold, necrotic, poison; [Charmed](conditions.md#charmed), [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Grappled](conditions.md#grappled), [Paralyzed](conditions.md#paralyzed), [Petrified](conditions.md#petrified), [Poisoned](conditions.md#poisoned), [Prone](conditions.md#prone), [Restrained](conditions.md#restrained)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 10
+- **Languages**: Any languages it knew in life
+- **Traits**:
+   - **Ill Omen**. When initiative is rolled, the banshee forces one creature it can see to succeed on DC 13 CHA Save or be cursed. While cursed in this way, a creature subtracts 1d8 from the result of any WIS Saves it makes.
+   - **Incorporeal Movement**. The banshee can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+   - **Weightless**. Whenever the banshee takes damage, it is pushed 2 *(3m)* away from the damage's source.
+   - **Spectral Weapons**. The banshee's attacks treat all creatures as unarmored (an unarmored creature's AC is usually 10 plus its DEX modifier.)
+   - **Unfinished Business**. When the banshee is reduced to 0 HP, it does not die or fall [Unconscious](conditions.md#unconscious). Instead, it loses the ability to take actions, though it can still communicate. After 24 hours, the banshee recovers all of its HP. While at 0 HP, the banshee can be destroyed any of the following ways:
+   Resolving its unifinished business.
+   Subjecting it to the same conditions that killed it.
+   Performing funeral rites for it with the [Ceremony](spells.md#ceremony) spell.
+- **Actions**:
+   - **Corrupting Touch**. *Melee Spell Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
+    *Hit:* 15 (4d6 + 1) necrotic damage and plants within 2 *(3m)* of the target wither and die.
+   - **Horrifying Visage**. Each non-undead creature within 12 *(18m)* of the banshee that can see her must succeed on a DC 13 WIS Save or be [Frightened](conditions.md#frightened) for 1 minute (Save Ends at end of Turn), or become immune to this effect for 24 hours on a success.
+   A creature that fails this save by 5 or more has its face twist into a permanent rictus of terror until cured by Greater Restoration or similar magic.
+- **Reactions**:
+   - **Wail (1/Day, Concentration)**. When the banshee is reduced below 41 HP while not in sunlight, it releases a ceaseless, mournful wail for the next minute.
+   A living creature  that starts its turn within 6 *(9m)* that can hear her takes 10 (3d6) psychic damage.
+   A living creature  that ends its turn within 6 *(9m)* that can hear her is reduced to 0 HP.
+*(Source: ConfluxCreatures)*
+
 ### Barrow Wight
 **CR**: 1
 *Medium undead, Neutral Evil*
@@ -1113,6 +1149,36 @@ STR | DEX | CON | INT | WIS | CHA
    - **Drag In**. The geonid attempts to drag a [Prone](conditions.md#prone) creature [Grappled](conditions.md#grappled) by it partially into its shell, forcing it to succeed on a DC 11 STR Save or be [Restrained](conditions.md#restrained) (escape DC 11).
    A Small or smaller creature that fails this Save is dragged fully into the shell, and while [Restrained](conditions.md#restrained) in this way is [Blinded](conditions.md#blinded), makes checks to escape at disadvantage, and the geonid has vulnerability to damage dealt by it.
 *(Source: ConfluxCreatures)*
+
+
+### Ghostly Legionnaire
+**CR**: 5
+*Medium undead, Lawful Neutral*
+- **Initiative**: +3
+- **AC**: 16 (breastplate)
+- **HP**: 102 (12d8 + 48)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+19 (+4) | 17 (+3) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2)
+
+- **Immunities**: necrotic, poison; [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Poisoned](conditions.md#poisoned), [Unconscious](conditions.md#unconscious)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: the languages it knew in life
+- **Traits**:
+   - **Echo of History**. The legionnaire's attacks treat all creatures as unarmored. If a creature correctly identifies and speaks the legionnaire's origin, it loses this trait and its damage immunities until the next dawn.
+   - **Soul Link**. When initiative is rolled, each legionnaire that rolls initiative pools its HP into a single sum. Damage to a legionnaire deducts from that total. When the shared sum of HP reaches zero, each legionnaire that pooled its HP dies.
+- **Actions**:
+   - **Multiattack**. The legionnaire makes two attacks, one of which it may replace with a use of its terror grip.
+   - **Spectral Blade**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target.
+    *Hit:* 8 (1d8 + 4) slashing plus 11 (2d10) necrotic damage.
+   - **Terror Grip**. One creature within 1 *(1.5m)* must succeed on a DC 15 WIS Save or take 9 (2d8) psychic damage and be [Frightened](conditions.md#frightened) until the beginning of the legionnaire's next turn. A creature [Frightened](conditions.md#frightened) in this way has disadvantage on WIS Saves.
+   - **Battle Visions (1/Day)**. One creature within 1 *(1.5m)* must make a DC
+   15 WIS Save. On a failed Save, a creature becomes indifferent to undead creatures and hostile to all living creatures as it hallucinates a long-forgotten battlefield.
+   The creature repeats this Save at the end of each of its turns, taking 9 (2d8) psychic damage on a failure or ending the effect on a success. A creature that succeeds on this save has advantage on INT (History) checks to determine the legionnaire's origin.
+*(Source: ConfluxCreatures)*
+
 
 ### Giant Rat
 **CR**: 1/8
@@ -2766,6 +2832,34 @@ STR | DEX | CON | INT | WIS | CHA
    - **In the Wind**. If the mephit takes any slashing or bludgeoning damage, it can teleport up to 6 *(9m)* to an unoccupied space.
 *(Source: ConfluxCreatures)*
 
+### Souls of Cormanthyr - Archer
+**CR**: 2
+*Medium undead, Lawful Neutral*
+- **Initiative**: +3
+- **AC**: 16 (breastplate)
+- **HP**: 40
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+19 (+4) | 17 (+3) | 18 (+4) | 11 (+0) | 12 (+1) | 14 (+2)
+
+- **Vulnerabilities**: cold.
+- **Immunities**: necrotic, poison; [Exhaustion](conditions.md#exhaustion), [Frightened](conditions.md#frightened), [Poisoned](conditions.md#poisoned), [Unconscious](conditions.md#unconscious)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: the languages it knew in life
+- **Traits**:
+   - **Echo of History**. The soul's attacks treat all creatures as unarmored. If a creature correctly identifies and speaks the soul's origin, it loses this trait and its damage immunities until the next dawn.
+   - **Incorporeal Movement**. The soul can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+   - **Weightless**. Whenever the soul takes damage, it is pushed 2 *(3m)* away from the damage's source.
+   - **Soul Link**. When initiative is rolled, each soul that rolls initiative pools its HP into a single sum. Damage to a soul deducts from that total. When the shared sum of HP reaches zero, each soul that pooled its HP dies.
+   - **Blood Curse**. When the soul is reduced to 0 HP, it instead falls into a stasis as if it was [Unconscious](conditions.md#unconscious). After 24 hours, the soul recovers all of its HP.
+- **Actions**:
+   - **Spectral Arrows**. *Ranged Attack:* +3 to hit, one target.
+    *Hit:* 10 (1d12 + 4) necrotic damage.
+   - **Battle Visions (1/Day)**. One creature within 1 *(1.5m)* must make a DC 13 WIS Save. On a failed Save, it takes 9 (2d8) cold damage and becomes hostile to all living creatures as the souls enters its body and makes it hallucinate the battle against **Glacirax**.
+   The creature repeats this Save at the end of each of its turns, taking 9 (2d8) cold damage on a failure or ending the effect on a success. A creature that succeeds on this save permanently gains advantage on INT (History) checks regarding **The Frozen Depths**.
+*(Source: ConfluxCreatures)*
 ### Sphinx of Wonder
 **CR**: 1
 *Tiny celestial, Lawful Good*
@@ -3269,6 +3363,8 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
+
 
 
 
