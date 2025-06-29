@@ -395,13 +395,46 @@ STR | DEX | CON | INT | WIS | CHA
    - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 HP, the skeleton can move up to 2 *(3m)* towards the creature.
 *(Source: ConfluxCreatures)*
 
+### Blight Sapling
+**CR**: 1 *(Minion)*
+*Medium plant, Neutral Evil*
+- **Initiative**: +1
+- **AC**: 12 (natural armor)
+- **HP**: 5
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+12 (+1) | 12 (+1) | 13 (+1) | 7 (-2) | 8 (-1) | 3 (-4)
+
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
+- **Languages**: understands Common but can't speak
+- **Traits**: [Minion](dm/monster_info.md#minion).
+   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a prickly bush.
+   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
+   - **Spore puff**. Explodes in a radius 2 *(3m)* cloud of spores upon death, each non-plant creature in range has to succeed a DC 12 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
+
+- **Actions**:
+   - **Heal the Guardian**. Heal the blight guardian for 2d4 HP, range 1 *(1.5m)*.
+   - **Longspine Claws**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
+    *Hit:* 3 (1d4 + 1) piercing damage.
+   - **Barbed Needles**. *Ranged Attack:* +3 to hit, range 6/12 *(9m/18m)*, one target.
+    *Hit:* 8 (2d6 + 1) piercing damage and the needles become embedded in the target (remove DC 11).
+   Until the needles are removed, the target's speed is reduced by 1 *(1.5m)* and it takes 1 piercing damage whenever it takes an action.
+- **Reactions**:
+   - **Prickly Retort**. When the blight is hit with a melee attack, it can deal 3 piercing damage to the attacker.
+   If the triggering attack was an unarmed attack or one with a natural weapon, the attacker takes an additional 2 piercing damage.
+*(Source: ConfluxCreatures)*
+
 ### Blight Guardian
 **CR**: 5
 *Large plant, Chaotic Evil*
 - **Initiative**: -1
 - **AC**: 15 (natural armor)
 - **HP**: 136 (16d10 + 48)
-- **Speed**: walk 4 *(6m)*, burrow 4 *(6m)*
+- **Speed**: walk 2 *(3m)*, burrow 2 *(3m)*
 
 STR | DEX | CON | INT | WIS | CHA
  :--: | :--: | :--: | :--: | :--: | :--:
@@ -413,27 +446,33 @@ STR | DEX | CON | INT | WIS | CHA
 - **Immunities**: Necrotic; [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion)
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), [Tremorsense 6 *(9m)*](vault/game_rules.md#tremorsense), passive perception 10
 - **Traits**:
-
   - **Necrotic Regeneration.** Whenever the blight deals necrotic damage to a living creature, it regains HP equal to half the necrotic damage dealt.
-  - **Soul Harvest Aura.** At the start of each turn, creatures within range 2 *(3m)* must make a DC 14 CON Save. On a failure, they take 1d6 necrotic damage and the blight regains the same amount of HP. Undead and constructs are immune to this effect.
-  - **Fungal Spores.** When the blight takes damage, it releases spores in a radius 2 *(3m)* sphere. Creatures in the area must succeed on a CON Save (DC 14) or be spored for 1 minute. While spored this way, creatures have Disadvantage on Death Saves.
-
-[TODO]
+  - **Fungal Spores.** When the blight takes damage, it releases spores in a radius 2 *(3m)* sphere. Creatures in the area must succeed on a CON Save (DC 14) or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
 
 - **Actions**:
    - **Multiattack**. The blight makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [Grappled](conditions.md#grappled) (escape DC 14), and the blight uses its **Engulf** on it.
    - **Slam**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target.
-    *Hit:* 13 (2d6 + 4) bludgeoning damage, plus 3 (1d6) necrotic damage.
-   - **Withering Bloom**. [TODO]
-   - **Boring Roots**. One creature [Grappled](conditions.md#grappled) by the blight must make a CON Save (DC 14) as the blight attempts to bore roots through its flesh. On a failed save, the creature takes 27 (6d8) necrotic damage, and its HP maximum is reduced by the same amount.
+    *Hit:* 5 (1d6 + 2) bludgeoning damage, plus 4 (1d6) necrotic damage.
+   - **Soul Harvest Aura.** Creatures within range 2 *(3m)* must make a CON Save (DC 14). On a failure, they take 1d6 necrotic damage and the blight regains the same amount of HP. Undead and constructs are immune to this effect.
+   - **Withering Bloom (Recharge 5–6).** Each creature of the Guardian’s choice in a range 4 *(6m)* radius must succeed on a CON Save (DC 14) or take 2d8 necrotic damage and gain Vulnerability to necrotic damage until the end of the Guardian’s next turn. On a success, they take half and suffer no vulnerability.
+     *Visual cue: Necrotic petals bloom from the Guardian's body, releasing a radial pulse.*
+   - **Boring Roots**. One creature [Grappled](conditions.md#grappled) by the blight must make a CON Save (DC 14) as the blight attempts to bore roots through its flesh. On a failed save, the creature takes 21 (6d6) necrotic damage.
    - **Engulf**. The blight engulfs a Medium or smaller creature [Grappled](conditions.md#grappled) by it. The engulfed target is [Blinded](conditions.md#blinded), [Restrained](conditions.md#restrained), and starts [Choking](conditions.md#choking), and it must succeed on a CON Save (DC 14) at the start of each of the blight's turns or take 13 (2d8 + 4) bludgeoning damage. If the blight moves, the engulfed target moves with it. The blight can have only one creature engulfed at a time.
 
 - **Reactions**:
    - **Entangling Hide**. As a reaction to being hit with a melee attack, the shambling mound can force the attacker to make a DC 14 DEX Save or be [Grappled](conditions.md#grappled).
 
-[TODO]
 - **Legendary Actions**:
-- **Lair Actions**:
+  - *Creeping Tendril (**costs 1**)*: Move a root underground and move a creature within range 4 *(6m)* by 2 *(3m)*.
+  - *Burrow Step (**costs 2**)*: The Blight burrows and re-emerges at a point of corrupted soil within range 6 *(9m)*, dragging its roots and any engulfed creature with it.
+- **Lair Actions**: *Always telegraphed one round in advance with their cues.*
+  - **1. Rootburst**: Putrid roots erupt in three radius 2 *(3m) zones within range 12 *(18m)* of the guardian. Affected ground becomes difficult terrain, and creatures in the area must succeed on a DC 14 DEX Save or take 2d6 piercing + 2d6 necrotic damage. Failed saves also cause creatures to fall [Prone](conditions.md#prone) as the roots grasp their legs.
+    *Visual cue: Ground bulges and pulses with foul sap before bursting open.*
+  - **2. Spore Cloud**: The lair exhales necrotic spores in a radius 4 *(6m)* sphere centered on a plant in the arena. Creatures inside must make a DC 14 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn. Creatures already Poisoned take 2d8 necrotic damage instead on a fail.
+    *Visual cue: A swirling mist of grey-green spores jets from vents in the floor or trees.*
+  - **3. Sapling Spawn**: A rotting [Blight Sapling](vault/dm/monsters.md#blight-sapling) erupts from the ground in a space within range 6 *(9m)* of the guardian, it acts on its own.
+    *Limit: No more than 3 saplings at a time unless the Guardian is near death.*
+
 - **Regional Effects**:
 *The corruption of the Necrotic Blight Guardian extends beyond its physical presence. The area within 1 km of the creature's lair is warped by necrotic withering energy, creating the following effects:*
 - **Withering Flora.** Plants within the area slowly die, becoming twisted and blackened. Normal plants provide no nourishment and may be mildly poisonous if consumed.
