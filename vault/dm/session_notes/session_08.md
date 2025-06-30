@@ -13,24 +13,25 @@ In the Engine Room, after defeating **Adam** and **Kazimir's dad**.
 # Scenes
 [Souls of Cormanthyr - Archer (2)](dm/monsters.md#souls-of-cormanthyr---archer)
 
-- TODO what's with the machine still?
+- The Engine - They can put the rune stones back to calm the machine.
 
 - Meeting **Thalioel** in the archer's room, she is barely holding on resisting the corruption.
   - She tells the party about when she woke up she was not able to feel many souls of her fellowship anymore, expecting them to still be here with her, something must have happened to all her friends' souls.
   - To keep herself stable she has to consume souls.
-  - Upon consuming one adventurer's soul she can share the refreshment and grant **Long Rest**.
+  - Upon consuming one adventurer's soul she can share the refreshment and grant **Long Rest**. ?
 
-- Meeting the other dungeon delvers?
+- Broken capacitors - Connector rune stones are slotted out, two are missing entirely, almost as if someone took them out intentionally.
 
-- Finding the entrance to the vinea basement?
+- Meeting the other dungeon delvers???
+
+- Finding the entrance to the vinea basement???
   - Vines dropping down into the tower hole.
 
-- Broken capacitors
 
 
 # The Dungeon Delvers
 🛡️ 1. **Thamior Aelorothi**
-    - Race: Moon Elf (of Evereska)
+    - Race: Drow (of Evereska)
     - Class: Wizard (Evocation)
     - Background: Sage
     - Lineage: The Aelorothi family has served as arcane stewards of Evereska for generations. Thamior is the youngest son, pressured to live up to centuries of magical excellence. He left to explore ancient Netherese ruins and test his abilities in the wider world.
@@ -65,6 +66,38 @@ In the Engine Room, after defeating **Adam** and **Kazimir's dad**.
     - Personality: Stubborn, devout, fatherly
 
 # The Vinea Basement
+
+**Plant Stuff**:
+- Veined vines pulse faintly across the walls, anchored to skulls, cages, or glyphs.
+- Mosslike flesh carpets the floor, wet with a grayish sap, sucking at boots like shallow mud.
+- Eyeless flowers bloom from corpses or ritual circles, opening when the party enters.
+- Spore motes hang in the air like dust—but swirl unnaturally when disturbed.
+- Vines descend from the ceiling like surgical tubing, some inserted into vials or long-dead husks.
+- The air smells of rot, damp iron, and incense long gone sour.
+
+**Experiment Stuff**:
+- Glass tanks filled with brackish water and fungal growths, each containing partial humanoid forms, some fused with roots or horns.
+- A surgical slab surrounded by discarded bones, organ jars, and arcane sigils that have burned into the stone.
+- A chalk circle whose glyphs flicker between necromantic and abyssal script—like two languages layered over each other.
+- A spiral of bones and vines, forming a crude staircase leading into the dirt—perhaps dug toward something below.
+
+**Ritual Stuff**:
+- Burnt-black summoning circle, now cracked, leaking a faint glow of red and violet mist upward.
+- Candles with roots for wicks, their flames green or inverted, dripping wax into runes carved into stone.
+- A tormented mural painted in dried blood and ink, depicting a flower-faced demon with spectral shapes bowing.
+- Chains fused into walls, engraved with the names of the consumed—each one crossed out, choose from: [The Magis of Cormanthor](vault/dm/arvandor/characters/deceased_npcs.md#the-magis-of-cormanthor),[The Archers of Cormanthor](vault/dm/arvandor/characters/deceased_npcs.md#the-archers-of-cormanthor), [The Sword Dancers of Cormanthor](vault/dm/arvandor/characters/deceased_npcs.md#the-sword-dancers-of-cormanthor).
+
+**Psychological Details**:
+- A low, subsonic hum, like roots growing just beneath hearing.
+- Faint whispering, not in language, but in tone: pleading, commanding, remembering.
+- Shadows shift independently of their source. Sometimes roots twitch just out of the corner of the eye.
+- Player thoughts might echo back to them in their own voice—slightly altered—as if the room is thinking too.
+- The deeper you go, the more gravity feels “wrong”—pulling toward the blight like it's alive.
+
+
+parts of the old basement must have broken into a rock cavity which now opens up this vast arena of corrupted overgrowth covering scattered slabs of rock.
+
+
 The party loses the ability to climb back up, ideally.
 The boss fight stage 1 should be fought here.
 

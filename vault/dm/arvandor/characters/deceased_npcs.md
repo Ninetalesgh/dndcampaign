@@ -310,64 +310,64 @@ Adult White Dragon, M. (b. 202 DR - d. 859 DR)
   
 ### The Elves of Cormanthor
 #### The Magis of Cormanthor
-##### Thalioel Moonshade
+**Thalioel Moonshade**
 Elf, F. (b. 202 DR - d. 859 DR)
 She was the grand magi of the elves.
 In combat, if a player is attuned to Thalioel's Tear, she will turn the cold and necrotic resistance of the amulet into vulnerabilities permanently,
   the wearer has to succeed a Wisdom Save (DC 14) to take it off.  
-##### Liera Sunflare 
+**Liera Sunflare**
 Elf, F. (b. 540 DR - d. 859 DR)
-##### Eldarion Shadowbinder 
+**Eldarion Shadowbinder**
 Elf, F. (b. 520 DR - d. 859 DR)
-##### Therandor Moonwhisper 
+**Therandor Moonwhisper**
 Elf, M. (b. 530 DR - d. 859 DR)
-##### Faelion Windwhisper 
+**Faelion Windwhisper**
 Elf, M. (b. 510 DR - d. 859 DR)
-##### Celeborn Glimmerleaf 
+**Celeborn Glimmerleaf**
 Elf, M. (b. 545 DR - d. 859 DR)
-##### Nindor Stormcaller 
+**Nindor Stormcaller**
 Elf, M. (b. 515 DR - d. 859 DR)
-##### Rysandor Starbloom 
+**Rysandor Starbloom**
 Elf, M. (b. 525 DR - d. 859 DR)
-#### The Archers of Cormanthor 
-##### Loriel Windwhisper 
+#### The Archers of Cormanthor
+**Loriel Windwhisper**
 Elf, F. (b. 221 DR - d. 859 DR)
   She was the captain of the archers.
-##### Aeryndil Moonshade 
+**Aeryndil Moonshade**
 Elf, M. (b. 612 DR - d. 859 DR)
-##### Seltharion Starbloom 
+**Seltharion Starbloom**
 Elf, M. (b. 440 DR - d. 859 DR)
-##### Velanna Silvergrove 
+**Velanna Silvergrove**
 Elf, F. (b. 534 DR - d. 859 DR)
-##### Kaelithar Sunshadow 
+**Kaelithar Sunshadow**
 Elf, M. (b. 525 DR - d. 859 DR)
-##### Theralis Sunshadow 
+**Theralis Sunshadow**
 Elf, M. (b. 525 DR - d. 859 DR)
-##### Myarion Dawnseer 
+**Myarion Dawnseer**
 Elf, F. (b. 615 DR - d. 859 DR)
-##### Faerion Leaflight 
+**Faerion Leaflight**
 Elf, M. (b. 689 DR - d. 859 DR)
-##### Lythariel Brightsong 
+**Lythariel Brightsong**
 Elf, F. (b. 326 DR - d. 859 DR)
 #### The Sword Dancers of Cormanthor
-##### Caldathar Elenath 
+**Caldathar Elenath**
 Elf, M. (b. 343 DR - d. 859 DR)
   He was the captain of the sword dancers.
-##### Aeloria Silvermist 
+**Aeloria Silvermist**
 Elf, F. (b. 490 DR - d. 859 DR)
-##### Ilara Moonshade 
+**Ilara Moonshade**
 Elf, F. (b. 475 DR - d. 859 DR)
-##### Orlithara Greywind 
+**Orlithara Greywind**
 Elf, F. (b. 666 DR - d. 859 DR)
-##### Elaena Starfire 
+**Elaena Starfire**
 Elf, F. (b. 480 DR - d. 859 DR)
-##### Berenor Dawnshield 
+**Berenor Dawnshield**
 Elf, M. (b. 510 DR - d. 859 DR)
-##### Thalindra Stormsong 
+**Thalindra Stormsong**
 Elf, F. (b. 495 DR - d. 859 DR)
-##### Calenor Bladesworn 
+**Calenor Bladesworn**
 Elf, M. (b. 624 DR - d. 859 DR)
-##### Rilwien Brightleaf 
+**Rilwien Brightleaf**
 Elf, F. (b. 485 DR - d. 859 DR)
-##### Falmaril Evenwind 
+**Falmaril Evenwind**
 Elf, M. (b. 501 DR - d. 859 DR)
