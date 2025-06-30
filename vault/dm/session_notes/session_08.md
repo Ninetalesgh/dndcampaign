@@ -78,4 +78,11 @@ Other Reference:
 [Thicket Blight (3)](dm/monsters.md#thicket-blight)
 
 
+# Loot
+
+[Blightwood Gloves](dm/items.md#blightwood-gloves)
+[Blightwood Hammer](dm/items.md#blightwood-hammer)
+[Blightwood Staff](dm/items.md#blightwood-staff)
+[Blightwood Circlet](dm/items.md#blightwood-circlet)
+[Blightwood Wrap](dm/items.md#blightwood-wrap)
 

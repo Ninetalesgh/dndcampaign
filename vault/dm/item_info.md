@@ -77,7 +77,7 @@ Allows you to make the additional [Light](dm/items.md#weapon-properties#light) W
 ### Slow
 *On Hit:* The target has its Speed reduced by the specified amount until the end of its next turn.
 ### Topple
-*On Hit:* The target has to succeed a CON Save or be knocked [Prone](conditions.md#prone) if it is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
+*On Hit:* The target has to succeed a STR Save or be knocked [Prone](conditions.md#prone) if it is no more than one [Size](game_rules.md#advanced-rules#creature-sizes) larger than you.
 ### Vex
 *On Hit:* You gain Advantage on your next Attack against the same target.
 ### Brace

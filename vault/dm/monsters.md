@@ -412,22 +412,19 @@ STR | DEX | CON | INT | WIS | CHA
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
 - **Languages**: understands Common but can't speak
 - **Traits**: [Minion](dm/monster_info.md#minion).
-   - **False Appearance**. While the blight remains motionless, it is indistinguishable from a prickly bush.
-   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the blight loses 9 (2d8) HP.
+   - **False Appearance**. While the sapling remains motionless, it is indistinguishable from a regular plant.
+   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the sapling dies.
    - **Spore puff**. Explodes in a radius 2 *(3m)* cloud of spores upon death, each non-plant creature in range has to succeed a DC 12 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
 
 - **Actions**:
-   - **Heal the Guardian**. Heal the blight guardian for 2d4 HP, range 1 *(1.5m)*.
-   - **Longspine Claws**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
+   - **Spore Heal**. Heal an ally for 2d4 HP, range 1 *(1.5m)*.
+   - **Bark Bite**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
     *Hit:* 3 (1d4 + 1) piercing damage.
-   - **Barbed Needles**. *Ranged Attack:* +3 to hit, range 6/12 *(9m/18m)*, one target.
-    *Hit:* 8 (2d6 + 1) piercing damage and the needles become embedded in the target (remove DC 11).
-   Until the needles are removed, the target's speed is reduced by 1 *(1.5m)* and it takes 1 piercing damage whenever it takes an action.
 - **Reactions**:
    - **Prickly Retort**. When the blight is hit with a melee attack, it can deal 3 piercing damage to the attacker.
    If the triggering attack was an unarmed attack or one with a natural weapon, the attacker takes an additional 2 piercing damage.
 *(Source: ConfluxCreatures)*
-
+![\|250](https://i.pinimg.com/736x/1d/1e/8e/1d1e8e6bb0bf5feb1139f70a36c075ee.jpg)
 ### Blight Guardian
 **CR**: 5
 *Large plant, Chaotic Evil*

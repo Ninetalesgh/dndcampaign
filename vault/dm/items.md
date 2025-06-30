@@ -1,5 +1,4 @@
 
-
 ## Items A
 ### Acid Vial
 *(concoction, Common)*
@@ -178,6 +177,51 @@ It takes 10 minutes to recover the Ball Bearings.
 ![\|250](https://i.pinimg.com/736x/32/28/6a/32286a5daae18d0fadafb43016dfa958.jpg)
 *(Source: PHB'24, page 224)*
 
+### Blightwood Circlet
+*(Wondrous Item, Rare)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - **+1 to Spell Attacks and Spell Save DC**
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**, *Dark Whispers*: Cast [Detect Thoughts](vault/spells.md#detect-thoughts). When you do, you take 1d6 psychic damage. *(Once per Long Rest)*
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Summon a [Blight Sapling](vault/dm/monsters.md#blight-sapling). You have full telepathic control over the sapling and it moves right after you in initative. *(Once per Long Rest)*
+- **Weight**: 150 g
+- **Price**: 3000 gp
+![\|250](https://i.imgur.com/itlfmOF.png)
+*As the roots grow into your temples upon resting it on your head, you feel a tingling synaptic extension. Nourished by your thoughts the flowers begin to blossom.*
+*(Source: The Griffon's Saddlebag, Customized)*
+
+### Blightwood Gloves
+*(Gloves, Rare)*
+- **Properties**: [Attunement](dm/item_info.md#attunement).
+  - **+1 to Melee Attack range.**
+  - Enemies have Disadvantage on Saves against you [Grappling](vault/conditions.md#grappled) them and Checks to free themselves from it.
+  - Whenever you successfully [Grappling](vault/conditions.md#grappled) a creature, it takes 1d6 Piercing damage.
+- **Weight**: 1 kg
+- **Price**: 3000 gp
+![\|250](https://i.imgur.com/KG5wIk0.png)
+*A thorn whip that feels like an extension of your arm.*
+*(Source: Abyssalbrews, Customized)*
+
+### Blightwood Hammer
+*(Warhammer, Martial Melee Weapon, Rare)*
+- **Reach**: 1
+- **Damage**: 1d8 + STR Bludgeoning damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Versatile (1d10)](dm/item_info.md#weapon-properties#versatile).
+  - *On Hit:* +1d4 piercing damage, and one of the below if available:
+    - **Spore Burst.** The target has to succeed on a **CON Save** or be [Poisoned](conditions.md#poisoned). *(Once per Long Rest)*
+    - **Embed Needles.** The target has to succeed on a **CON Save** or have needles embedded in their body, reducing their speed by 2 until removed by using an Action. *(Once per Long Rest)*
+    - **Entangling Vines.** The target has to succeed on a **STR Save** or be [Restrained](conditions.md#restrained) until the end of their next turn. *(Once per Long Rest)*
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 2.5 kg
+- **Price**: 2500 gp
+![\|250](https://i.imgur.com/SLoeDti.png)
+*Spiked sharp bark makes for a great impact.*
+*(Source: The Griffon's Saddlebag, Customized)*
+
+### Blightwood Mask
+[TODO]
+![\|250](https://i.imgur.com/O9OvAFI.png)
+*(Source: The Dungeon Strugglers, Customized)*
+
 ### Blightwood Shiv
 *(Dagger, Simple Melee Weapon, Uncommon)*
 - **Damage**: 1d4 + STR Piercing damage.
@@ -189,6 +233,49 @@ It takes 10 minutes to recover the Ball Bearings.
 - **Price**: 1000 gp
 ![\|250](https://imgur.com/ZFWXWkZ.png)
 *(Source: Custom)*
+
+### Blightwood Shortbow
+[TODO]
+*(Shortbow, Simple Ranged Weapon, Common)*
+- **Range**: 16/64 *(24m/96m)*
+- **Damage**: 1d6 + DEX Piercing damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
+- **Mastery**: [Vex](dm/item_info.md#vex).
+- **Weight**: 1 kg
+- **Price**: 2000 gp
+![\|250](https://i.imgur.com/2EKqyD3.png)
+*(Source: The Dungeon Strugglers, Customized)*
+
+### Blightwood Staff
+*(Quarterstaff, Simple Melee Weapon, Uncommon)*
+- **Reach**: 1
+- **Damage**: 1d6 + STR Bludgeoning damage.
+- **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Versatile (1d8)](dm/item_info.md#weapon-properties#versatile).
+  - *On Hit:* Cast [Inflict Wounds](vault/spells.md#inflict-wounds). *(Once per Long Rest)*
+  - While in Wild Shape form:
+    - **+2 damage with Melee Attacks**.
+    - [Entangle](vault/spells.md#entangle) can be cast while in Wild Shape form (both the regular version and from this staff).
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Cast [Entangle](vault/spells.md#entangle). *(Once per Long Rest)*
+- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Weight**: 2 kg
+- **Price**: 2300 gp
+![\|250](https://i.imgur.com/265Lx7s.png)
+*As the blightwood shapes with you, your claws and sting are reinforced with sharp bark and needles.*
+*(Source: Custom)*
+
+### Blightwood Wrap
+*(Light Armor, Rare)*
+- **Don and Doff Time**: 1 minute / 1 minute
+- **AC**: 13 + DEX
+- **Properties**:
+  - You gain [Resistance](game_rules.md#damage-types#resistance) to Necrotic damage.
+  - You have **Advantage** on DEX (Stealth) Checks while attempting to hide in foliage or other plant cover.
+  - You have **Advantage** on Saves against being [Poisoned](conditions.md#poisoned).
+- **Weight**: 7 kg
+- **Price**: 3000 gp
+![\|250](https://i.imgur.com/npSdo6a.png)
+*Become nature herself.*
+*(Source: The Dungeon Strugglers, Customized)*
 
 ### Block and Tackle
 *(adventuring gear, Common)*
@@ -881,6 +968,16 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 - **Price**: 800 gp
 ![\|250](https://i.imgur.com/wqsceXf.png)
 *(Source: The Griffon's Saddlebag, Customized)*
+
+### Gul'Dan's Skull Chalice
+*(wondrous item, Rare)*
+- **Properties**: [Attunement by a Wild Magic Sorcerer](dm/item_info.md#attunement).
+  Whenever you would roll on the wild magic table, roll twice and choose one of the results instead.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: **Fel Surge.** For 1 minute, whenever you use a Spell Slot you gain Temporary HP equal to your Sorcerer Level + your CHA. *(Once per Long Rest)*
+- **Weight**: 1 kg
+- **Price**: 3000 gp
+![\|250](https://i.pinimg.com/736x/61/71/bd/6171bdcc1dd0800458f44ed2afe5cc7b.jpg)
+*(Source: Custom)*
 
 ## Items H
 ### Halberd
@@ -1962,7 +2059,7 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 *(Source: PHB'24, page 219)*
 
 ### Shortbow
-*(, Simple Ranged Weapon, Common)*
+*(Shortbow, Simple Ranged Weapon, Common)*
 - **Range**: 16/64 *(24m/96m)*
 - **Damage**: 1d6 + DEX Piercing damage.
 - **Properties**: [Two-Handed](dm/item_info.md#weapon-properties#two-handed).
@@ -2008,16 +2105,6 @@ You can bind an unwilling creature with the Rope only if the creature is [Grappl
 - **Price**: When blown as a Utilize Action, a Signal Whistle produces a sound that can be heard within range 120 *(180m)*.
 ![\|250](https://i.pinimg.com/736x/7a/18/50/7a185092583597b22e987f81ec765ca7.jpg)
 *(Source: PHB'24, page 228)*
-
-### Gul'Dan's Skull Chalice
-*(wondrous item, Rare)*
-- **Properties**: [Attunement by a Wild Magic Sorcerer](dm/item_info.md#attunement).
-  Whenever you would roll on the wild magic table, roll twice and choose one of the results instead.
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: **Fel Surge.** For 1 minute, whenever you use a Spell Slot you gain Temporary HP equal to your Sorcerer Level + your CHA. *(Once per Long Rest)*
-- **Weight**: 1 kg
-- **Price**: 3000 gp
-![\|250](https://i.pinimg.com/736x/61/71/bd/6171bdcc1dd0800458f44ed2afe5cc7b.jpg)
-*(Source: Custom)*
 
 ### Sled
 *(vehicle (land), Common)*
@@ -2385,4 +2472,5 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 ## Items Z
 
 ## Items End
+
 
