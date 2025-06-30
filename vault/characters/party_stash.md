@@ -7,7 +7,7 @@
   1 - [Detect Magic](spells.md#spells-d#detect-magic)
   1 - [Ray of Enfeeblement](vault/spells.md#ray-of-enfeeblement)
   1 - [Shield](vault/spells.md#shield)
-
+  1 - [Divine Favor](vault/spells.md#divine-favor)
 # Party Wealth
 
 - **PLATINUM**: 0
