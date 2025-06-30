@@ -5,6 +5,8 @@
 
 **Spell Scrolls**:
   1 - [Detect Magic](spells.md#spells-d#detect-magic)
+  1 - [Ray of Enfeeblement](vault/spells.md#ray-of-enfeeblement)
+  1 - [Shield](vault/spells.md#shield)
 
 # Party Wealth
 
