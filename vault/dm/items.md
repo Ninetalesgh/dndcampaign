@@ -192,10 +192,10 @@ It takes 10 minutes to recover the Ball Bearings.
 ### Blightwood Gloves
 *(Gloves, Rare)*
 - **Properties**: [Attunement](dm/item_info.md#attunement).
-  - **+1 to Melee Attack range.**
+  - Your Melee Attack Range is 2.
   - Enemies have Disadvantage on Saves against you [Grappling](vault/conditions.md#grappled) them and Checks to free themselves from it.
-  - Whenever you successfully [Grappling](vault/conditions.md#grappled) a creature, it takes 1d6 Piercing damage.
-- **Weight**: 1 kg
+  - Whenever you successfully [Grapple](vault/conditions.md#grappled) a creature, it takes 1d6 Piercing damage.
+- **Weight**: 2 kg
 - **Price**: 3000 gp
 ![\|250](https://i.imgur.com/KG5wIk0.png)
 *A thorn whip that feels like an extension of your arm.*

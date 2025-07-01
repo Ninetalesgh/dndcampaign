@@ -41,15 +41,17 @@
 
 ## Equipment
 ### Weapons
+  [Blightwood Hammer](vault/dm/items.md#blightwood-hammer)
   [Warhammer](dm/items.md#warhammer)
   [6 Javelins](dm/items.md#javelin)
 
 ### Other
+  [Liora's Band of Trust *(Attunement)*](dm/items.md#lioras-band-of-trust)
+  [Thalioel's Tear *(Attunement)*](dm/items.md#thalioels-tear)
   [Chain Mail](dm/items.md#chain-mail)
   [Shield](dm/items.md#shield)
   [Priest's Pack](dm/items.md#priests-pack)
   [Clockwork Amulet](dm/items.md#clockwork-amulet)
-  [Liora's Band of Trust](dm/items.md#lioras-band-of-trust)
   [Redsmith Crucible Set](vault/dm/items.md#redsmith-crucible-set)
 - 27 Skill Points to complete: [Mithral Plate](dm/items.md#mithral-plate)
 

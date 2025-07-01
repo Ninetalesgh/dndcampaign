@@ -44,6 +44,7 @@
 ### Weapons
   [4 Daggers](dm/items.md#dagger)
 ### Other
+  [Blightwood Circlet *(Attunement)*](vault/dm/items.md#blightwood-circlet)
   [Orb of Shielding, Fire](dm/items.md#orb-of-shielding-fire)
   [Book about Devils](dm/items.md#book)
   [Scholar's Pack](dm/items.md#scholars-pack)

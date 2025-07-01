@@ -2,7 +2,7 @@
 - **Arcane Trickster Rogue Level**: 4
 ## Stats and Proficiencies
 - **Initiative**: +4 *(DEX)*
-- **AC**: 15 ([Leather Armor](dm/items.md#leather-armor) + DEX)
+- **AC**: 17 ([Blightwood Wrap](vault/dm/items.md#blightwood-wrap) + DEX)
 - **HP**: 27 *(3 + [5 + CON] * Level)*
 - **HP Dice**: 4 D8
 - **Size**: [Small](game_rules.md#advanced-rules#creature-sizes)
@@ -47,6 +47,7 @@
   [2 Daggers](dm/items.md#dagger)
   [Blightwood Shiv](vault/dm/items.md#blightwood-shiv)
 ### Other
+  [Blightwood Wrap](vault/dm/items.md#blightwood-wrap)
   [Leather Armor](dm/items.md#leather-armor)
   [Thieves' Tools](dm/items.md#thieves-tools)
   [Burglar's Pack](dm/items.md#burglars-pack)

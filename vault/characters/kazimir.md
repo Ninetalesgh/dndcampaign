@@ -45,8 +45,9 @@
   [2 Daggers](dm/items.md#dagger)
   [Halric Varron's Blade](dm/items.md#halric-varrons-blade)
 ### Other
-  [Alchemist's Supplies](dm/items.md#alchemists-supplies)
   [Mithral Plate](dm/items.md#mithral-plate)
+  [Blightwood Gloves *(Attunement)*](vault/dm/items.md#blightwood-gloves)
+  [Alchemist's Supplies](dm/items.md#alchemists-supplies)
 
 ## Battle Master
 !?[**Superiority Dice (d8):**|#4e75d3](track-cookie#discrete-counter#4)

@@ -41,7 +41,7 @@
 
 ## Equipment
 ### Weapons
-
+  [Blightwood Staff](vault/dm/items.md#blightwood-staff)
   [Imbued Quarterstaff, Venom](dm/items.md#imbued-quarterstaff-venom)
   [Quarterstaff](dm/items.md#quarterstaff)
   [Sickle](dm/items.md#sickle)
