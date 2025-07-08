@@ -120,6 +120,7 @@ This attack has advantage if it targets a flying or levitating target.
 - **Duration**: [Concentration](conditions.md#concentration), up to 1 hour
 You alter your physical form. Choose one of the following options. Its effects last for the duration, during which you can take a Magic action to replace the option you chose with a different one. Aquatic Adaptation. You sprout gills and grow webs between your fingers. You can breathe underwater and gain a Swim Speed equal to your Speed. Change Appearance. You alter your appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and other distinguishing characteristics. You can make yourself appear as a member of another species, though none of your statistics change. You can't appear as a creature of a different size, and your basic shape stays the same; if you're bipedal, you can't use this spell to become quadrupedal, for instance. For the duration, you can take a Magic action to change your appearance in this way again. Natural Weapons. You grow claws (Slashing), fangs (Piercing), horns (Piercing), or hooves (Bludgeoning). When you use your Unarmed Strike to deal damage with that new growth, it deals 1d6 damage of the type in parentheses instead of dealing the normal damage for your Unarmed Strike, and you use your spellcasting ability modifier for the attack and damage rolls rather than using STR.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/a/a8/Illusory_Self_Icon.webp)
 *(Source: PHB'24, page 239)*
 
 ### Amplifire Outburst
@@ -6185,6 +6186,7 @@ One creature or loose object of your choice that you can see within range rises 
 The target can move only by pushing or pulling against a fixed object or surface within reach (such as a wall or a ceiling), which allows it to move as if it were climbing. You can change the target's altitude by up to 4 *(6m)* in either direction on your turn. If you are the target, you can move up or down as part of your move. Otherwise, you can take a Magic action to move the target, which must remain within the spell's range.
 When the spell ends, the target floats gently to the ground if it is still aloft.
 - **Classes**: Artificer, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/4/46/Levitate_Icon.webp)
 *(Source: PHB'24, page 291)*
 
 ### Life Transference
@@ -11398,6 +11400,7 @@ The spell can penetrate most barriers but is blocked by 30cm of stone, 3cm of co
 - **Duration**: 24 hours
 This spell grants up to ten willing creatures of your choice within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 - **Classes**: Artificer, Druid, Ranger, Sorcerer, Wizard
+![\|50](https://bg3.wiki/w/images/d/d1/Create_Water_Icon.webp)
 *(Source: PHB'24, page 340)*
 
 ### Water Walk

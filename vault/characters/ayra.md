@@ -1,11 +1,11 @@
 # Ayra
-- **Fiend Warlock Level**: 4
+- **Fiend Warlock Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 15 ([Mage Armor](spells.md#spells-m#mage-armor) + DEX)
-- **HP**: 39 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 4 D8
-- **Proficiency Bonus (PB)**: +2
+- **HP**: 48 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 5 D8
+- **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
@@ -13,18 +13,18 @@
 | :------------- | :----------------------- | :------------ |
 | ☐ STR Save +0  | ☐ DEX Save +2            | ☐ CON Save +2 |
 | ☐ Athletics +0 | ☐ Acrobatics +2          | .             |
-| .              | ☑ **Sleight of Hand +4** | .             |
+| .              | ☑ **Sleight of Hand +5** | .             |
 | .              | ☐ Stealth +2             | .             |
 
 
 | INT 10 (+0)        | WIS 10 (+0)          | CHA 18 (+4)           |
 | :----------------- | :------------------- | :-------------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +2**    | ☑ **CHA Save +6**     |
+| ☐ INT Save +0      | ☑ **WIS Save +3**    | ☑ **CHA Save +7**     |
 | ☐ Arcana +0        | ☐ Animal Handling +0 | ☐ Deception +4        |
-| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +6** |
-| ☐ Investigation +0 | ☑ **Medicine +2**    | ☐ Performance +4      |
+| ☐ History +0       | ☐ Insight +0         | ☑ **Intimidation +7** |
+| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +4      |
 | ☐ Nature +0        | ☐ Perception +0      | ☐ Persuasion +4       |
-| ☑ **Religion +2**  | ☐ Survival +0        | .                     |
+| ☑ **Religion +3**  | ☐ Survival +0        | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons
 - **Armor Proficiencies**: Light Armor
@@ -37,8 +37,8 @@
 
 |                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
 | --------------: | :------ | :------ | :------ | :------ | :------ |
-| Attack Modifier | +2      | +4      | -       | -       | +6      |
-| Save DC         | 10      | 12      | -       | -       | 14      |
+| Attack Modifier | +3      | +5      | -       | -       | +7      |
+| Save DC         | 11      | 13      | -       | -       | 15      |
 
 ## Equipment
 ### Weapons
@@ -51,14 +51,18 @@
   [Leather Armor](dm/items.md#leather-armor)
 
 ## Spellcasting
-- **Prepared Spells**: 5
-!?[**Spell Slots Level 2:**|#7eb5f3](track-cookie#discrete-counter#2)
+- **Prepared Cantrips**: 3
+- **Prepared Spells**: 6
+- **Prepared Eldritch Invocations**: 5
+!?[**Spell Slots Level 3:**|#7eb5f3](track-cookie#discrete-counter#2)
 
-[TODO] 1 more prepared spell
-[TODO] switch 1 prepared spell
-[TODO] 1 more cantrip
-[TODO] switch 1 cantrip
-[TODO] switch 1 eldritch invocation
+[TODO] 1 more cantrip (3 total)
+[TODO] 3 more prepared selected spells (6 total)
+[TODO] 2 more eldritch invocations (5 total)
+
+[TODO] switch up to 2 prepared spells
+[TODO] switch up to 2 cantrips
+[TODO] switch up to 2 eldritch invocations
 
 ## Feats and Actions
 
@@ -81,21 +85,23 @@
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Always Prepared Feats and Spells**:
   [Burning Hands](spells.md#spells-b#burning-hands)
   [Command](spells.md#command)
+  [Fireball](vault/spells.md#fireball)
   [Scorching Ray](spells.md#scorching-ray)
+  [Stinking Cloud](vault/spells.md#stinking-cloud)
   [Suggestion](spells.md#spells-s#suggestion)
   [Healing Hands *(Once per Long Rest)*](feats.md#healing-hands)
   [Disguise Self *(Unlimited)*](spells.md#spells-d#disguise-self)
   [Mage Armor *(Unlimited)*](spells.md#spells-m#mage-armor)
 
-![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Selected Spells**:
+![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Prepared Selected Spells**:
   [Hold Person](spells.md#spells-h#hold-person)
   [Charm Person](spells.md#spells-c#charm-person)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Always Prepared Feats and Spells**:
   [Celestial Revelation *(Once per Long Rest)*](feats.md#celestial-revelation)
-![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Selected Spells**:
   [Hex *(One free use per Long Rest)*](spells.md#spells-h#hex)
+![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Prepared Selected Spells**:
   [Misty Step](spells.md#spells-m#misty-step)
 
 ### Reactions
@@ -142,6 +148,8 @@
 - **Learn new Eldritch Invocations**
 
 # Eldritch Invocation Reference
+
+- **Level 1/2**:
 [Armor of Shadows](feats.md#armor-of-shadows)
 [Eldritch Mind](feats.md#eldritch-mind)
 [Pact of the Blade](feats.md#pact-of-the-blade)
@@ -156,7 +164,15 @@
 [Misty Visions](feats.md#misty-visions)
 [Otherworldly Leap](feats.md#otherworldly-leap)
 [Repelling Blast](feats.md#repelling-blast)
-
+- **Level 5**:
+[Ascendant Step](vault/feats.md#ascendant-step)
+[Eldritch Smite](vault/feats.md#eldritch-smite)
+[Gaze of Two Minds](vault/feats.md#gaze-of-two-minds)
+[Gift of the Depths](vault/feats.md#gift-of-the-depths)
+[Investment of the Chain Master](vault/feats.md#investment-of-the-chain-master)
+[Master of Myriad Forms](vault/feats.md#master-of-myriad-forms)
+[One with Shadows](vault/feats.md#one-with-shadows)
+[Thirsting Blade](vault/feats.md#thirsting-blade)
 
 # Warlock Spell Reference
 ## Cantrips

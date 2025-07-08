@@ -1,30 +1,30 @@
 # Kal
-- **Moon Druid Level**: 4
+- **Moon Druid Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +2 *(DEX)*
 - **AC**: 16 ([Hide Armor](dm/items.md#hide-armor) + DEX + [Shield](dm/items.md#shield))
-- **HP**: 39 *(3 + [7 + CON] * Level)*
-- **HP Dice**: 4 D8
-- **Proficiency Bonus (PB)**: +2
+- **HP**: 48 *(3 + [7 + CON] * Level)*
+- **HP Dice**: 5 D8
+- **Proficiency Bonus (PB)**: +3
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
 | STR 12 (+1)        | DEX 14 (+2)          | CON 14 (+2)     |
 | :----------------- | :------------------- | :-------------- |
 | ☐ STR (Save +1)    | ☐ DEX (Save +2)      | ☐ CON (Save +2) |
-| ☑ **Athletics +3** | ☐ Acrobatics +2      | .               |
+| ☑ **Athletics +4** | ☐ Acrobatics +2      | .               |
 | .                  | ☐ Sleight of Hand +2 | .               |
 | .                  | ☐ Stealth +2         | .               |
 
 
 | INT 10 (+0)          | WIS 18 (+4)           | CHA 8 (-1)            |
 | :------------------- | :-------------------- | :-------------------- |
-| ☑ **INT (Save +2)**  | ☑ **WIS (Save +6)**  | ☐ CHA (Save -1)       |
-| ☐ Arcana +0          | ☐ Animal Handling +4 | ☐ Deception -1        |
-| ☐ History +0         | ☐ Insight +4         | ☑ **Intimidation +1** |
-| ☐ Investigation +0   | ☐ Medicine +4        | ☐ Performance -1      |
-| ☑ **Nature +2**      | ☑ **Perception +6**  | ☐ Persuasion -1       |
-| ☐ Religion +0        | ☑ **Survival +6**    | .                     |
+| ☑ **INT (Save +3)**  | ☑ **WIS (Save +7)**   | ☐ CHA (Save -1)       |
+| ☐ Arcana +0          | ☐ Animal Handling +4  | ☐ Deception -1        |
+| ☐ History +0         | ☐ Insight +4          | ☑ **Intimidation +2** |
+| ☐ Investigation +0   | ☐ Medicine +4         | ☐ Performance -1      |
+| ☑ **Nature +3**      | ☑ **Perception +7**   | ☐ Persuasion -1       |
+| ☐ Religion +0        | ☑ **Survival +7**     | .                     |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Shields
@@ -36,8 +36,8 @@
 
 |                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
 | --------------: | :------ | :------ | :------ | :------ | :------ |
-| Attack Modifier | +3      | +4      | -       | +6      | -       |
-| Save DC         | 11      | 12      | -       | 14      | -       |
+| Attack Modifier | +4      | +5      | -       | +7      | -       |
+| Save DC         | 12      | 13      | -       | 15      | -       |
 
 ## Equipment
 ### Weapons
@@ -52,10 +52,11 @@
   [Explorer's Pack](dm/items.md#explorers-pack)
 
 ## Spellcasting
-- **Prepared Spells**: 7
+- **Prepared Spells**: 9
 
 !?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#4)
 !?[**Spell Slots Level 2:**|#7eb5f3](track-cookie#discrete-counter#3)
+!?[**Spell Slots Level 3:**|#7eb5f3](track-cookie#discrete-counter#2)
 
 - **Wild Shapes Prepared**: 4
 !?[**Wild Shape Charges:**|#7eb5f3](track-cookie#discrete-counter#2)
@@ -86,11 +87,13 @@
   [Starry Wisp](spells.md#spells-s#starry-wisp)
   [Cure Wounds](spells.md#spells-c#cure-wounds)
   [Moonbeam](spells.md#spells-m#moonbeam)
+  [Conjure Animals](vault/spells.md#conjure-animals)
+  [Entangle](vault/spells.md#entangle)
 
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Wild Shape](feats.md#wild-shape-moon)
-
+  [Misty Step](vault/spells.md#misty-step)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
@@ -99,7 +102,7 @@
 
 
 ### Passive Feats
-*- Extra lineage feat at level 5.*
+  [Wild Resurgence](vault/feats.md#wild-resurgence)
   [Spider Climb](vault/feats.md#spider-climb)
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)
 - **Druidic.** You can leave hidden messages. You and others who know Druidic automatically spot such a message. Others spot the message's presence with a successful DC 15 Intelligence (Investigation) check but can't decipher it without magic.

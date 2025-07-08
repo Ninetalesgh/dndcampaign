@@ -47,6 +47,11 @@ As a **Magic Action**, you can expend a use of your Wild Shape and choose a poin
 
 The damage and healing increase by 1d6 when you reach Druid levels 10 (3d6) and 14 (4d6).
 
+### Wild Resurgence
+You can use Spell Slots instead of Wild Shape Charges.
+You can convert a Wild Shape Charge into a Level 1 Spell Slot. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/6/68/Wild_Shape_Improvement_Icon.webp)
+
 ### Wild Shape
 As a **Bonus Action** you shape-change into one of your prepared Wild Shapes with maximum Challenge Rating of 1/4, with following effects:
 - You gain **Temporary HP** equal to your Druid Level.
@@ -71,6 +76,7 @@ As a **Bonus Action** you shape-change into one of your prepared Wild Shapes wit
 *(2 Charges, regain 1 after Short-, and all after Long Rests)*
 ![\|50](https://bg3.wiki/w/images/b/b9/Wild_Shape_Icon.webp)
 
+
 ## Fighter
 
 ### Action Surge
@@ -84,6 +90,10 @@ Regain HP equal to 1d10 plus your Fighter level. *(2 Charges, regain 1 after Sho
 ### Tactical Mind
 When you fail an Ability Check, you can expend a **Second Wind Charge**. Rather than regaining HP, you roll 1d10 and add the number rolled to the Ability Check. If the check still fails, the Second Wind Charge is not expended.
 ![\|50](https://bg3.wiki/w/images/7/7a/Read_Thoughts_Icon.webp)
+
+### Tactical Shift
+Whenever you activate your [Second Wind](vault/feats.md#second-wind) with a Bonus Action, you can move up to half your Speed without provoking Opportunity Attacks.
+![\|50](https://bg3.wiki/w/images/b/b6/Evasive_Footwork_Icon.webp)
 
 ### Maneuver
 #### Bait and Switch
@@ -439,23 +449,27 @@ Choose one of your known Warlock Cantrips that requires an attack roll. Your att
 #### Ascendant Step
 *Prerequisite: Level 5+ Warlock*
 You can cast [Levitate](spells.md#levitate) on yourself without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/4/46/Levitate_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Eldritch Smite
 *Prerequisites: Level 5+ Warlock, Pact of the Blade*
 Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra 1d8 Force damage to the target, plus another 1d8 per level of the spell slot, and you can give the target the Prone condition if it is Huge or smaller.
+![\|50](https://bg3.wiki/w/images/9/95/Eldritch_Strike_Icon.webp)
 *(Source: PHB'24, page 155)*
 
 #### Gaze of Two Minds
 *Prerequisite: Level 5+ Warlock*
 You can use a Bonus Action to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a Bonus Action on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
+![\|50](https://bg3.wiki/w/images/a/a6/Benign_Transposition_Teleport_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Gift of the Depths
 *Prerequisite: Level 5+ Warlock*
 You can breathe underwater, and you gain a Swim Speed equal to your Speed.
-You can also cast Water Breathing once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+You can also cast [Water Breathing](vault/spells.md#water-breathing) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a Long Rest.
+![\|50](https://bg3.wiki/w/images/d/d1/Create_Water_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Investment of the Chain Master
@@ -466,21 +480,25 @@ Quick Attack. As a Bonus Action, you can command the familiar to take the Attack
 Necrotic or Radiant Damage. Whenever the familiar deals Bludgeoning, Piercing, or Slashing damage, you can make it deal Necrotic or Radiant damage instead.
 Your Save DC. If the familiar forces a creature to make a saving throw, it uses your spell save DC.
 Resistance. When the familiar takes damage, you can take a Reaction to grant it Resistance against that damage.
+![\|50](https://bg3.wiki/w/images/9/98/Find_Familiar_Quasit_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Master of Myriad Forms
 *Prerequisite: Level 5+ Warlock*
 You can cast [Alter Self](spells.md#alter-self) without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/a/a8/Illusory_Self_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### One with Shadows
 *Prerequisite: Level 5+ Warlock*
-While you're in an area of Dim Light or Darkness, you can cast Invisibility on yourself without expending a spell slot.
+While you're in an area of Dim Light or Darkness, you can cast [Invisibility](vault/spells.md#invisibility) on yourself without expending a spell slot.
+![\|50](https://bg3.wiki/w/images/4/4e/Invisibility_spell_Icon.webp)
 *(Source: PHB'24, page 156)*
 
 #### Thirsting Blade
 *Prerequisites: Level 5+ Warlock, Pact of the Blade*
 You gain the Extra Attack feature for your pact weapon only. With that feature, you can attack twice with the weapon instead of once when you take the Attack action on your turn.
+![\|50](https://bg3.wiki/w/images/5/5a/Extra_Attack_Icon.webp)
 *(Source: PHB'24, page 157)*
 
 #### Whispers of the Grave

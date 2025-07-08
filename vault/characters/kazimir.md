@@ -1,17 +1,17 @@
 # Kazimir
-- **Battle Master Fighter Level**: 4
+- **Battle Master Fighter Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(DEX)*
 - **AC**: 18 ([Mithral Plate](dm/items.md#mithral-plate))
-- **HP**: 36 *(4 + [6 + CON] * Level)*
-- **HP Dice**: 4 D10
+- **HP**: 44 *(4 + [6 + CON] * Level)*
+- **HP Dice**: 5 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
 | STR 18 (+4)        | DEX 12 (+1)          | CON 14 (+2)       |
 | :----------------- | :------------------- | :---------------- |
-| ☑ **STR Save +6**  | ☐ DEX Save +1        | ☑ **CON Save +4** |
-| ☑ **Athletics +6** | ☑ **Acrobatics +3**  | .                |
+| ☑ **STR Save +7**  | ☐ DEX Save +1        | ☑ **CON Save +5** |
+| ☑ **Athletics +7** | ☑ **Acrobatics +4**  | .                |
 | .                  | ☐ Sleight of Hand +1 | .                 |
 | .                  | ☐ Stealth +1         | .                 |
 
@@ -19,11 +19,11 @@
 | INT 10 (+0)        | WIS 12 (+1)          | CHA 10 (+0)        |
 | :----------------- | :------------------- | :----------------- |
 | ☐ INT Save +0      | ☐ WIS Save +1        | ☐ CHA Save +0      |
-| ☑ **Arcana +2**    | ☐ Animal Handling +1 | ☑ **Deception +2** |
-| ☐ History +0       | ☑ **Insight +3**     | ☑ **Intimidation +2**  |
-| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +0   |
-| ☐ Nature +0        | ☑ **Perception +3**  | ☑ **Persuasion +2**    |
-| ☑ **Religion +2**  | ☐ Survival +1        | .                  |
+| ☑ **Arcana +3**    | ☐ Animal Handling +1 | ☑ **Deception +3** |
+| ☐ History +0       | ☑ **Insight +4**     | ☑ **Intimidation +3**  |
+| ☐ Investigation +0 | ☑ **Medicine +4**    | ☐ Performance +0   |
+| ☐ Nature +0        | ☑ **Perception +4**  | ☑ **Persuasion +3**    |
+| ☑ **Religion +3**  | ☐ Survival +1        | .                  |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons.
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields.
@@ -35,8 +35,8 @@
 
 |                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
 | --------------: | :------ | :------ | :------ | :------ | :------ |
-| Attack Modifier | +6      | +3      | -       | -       | -       |
-| Save DC         | 14      | 11      | -       | -       | -       |
+| Attack Modifier | +7      | +4      | -       | -       | -       |
+| Save DC         | 15      | 12      | -       | -       | -       |
 
 
 ## Equipment
@@ -80,6 +80,8 @@
 ### Passive Feats
   [Action Surge *(Once per Short Rest)*](feats.md#action-surge)
   [Tactical Mind *(Uses Second Wind Charges)*](feats.md#tactical-mind)
+  [Tactical Shift](vault/feats.md#tactical-shift)
+  [Extra Attack](vault/feats.md#extra-attack)
   [Charger](vault/feats.md#charger)
   [Spider Climb](vault/feats.md#spider-climb)
 - [Darkvision 12 *(18m)*](game_rules.md#advanced-rules#darkvision)

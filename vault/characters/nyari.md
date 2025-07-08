@@ -1,29 +1,29 @@
 # Nyari
-- **Oath of the Ancients Paladin Level**: 4
+- **Oath of the Ancients Paladin Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +1 *(PB + DEX)*
 - **AC**: 19 ([Chain Mail](dm/items.md#chain-mail) + [Shield](dm/items.md#shield) + Defense)
-- **HP**: 36 *(4 + [6 + CON] * Level)*
-- **HP Dice:** 4 D10
+- **HP**: 44 *(4 + [6 + CON] * Level)*
+- **HP Dice:** 5 D10
 - **Size**: [Medium](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 7 *(10.5m)*
 
 | STR 18 (+4)        | DEX 8 (-1)           | CON 14 (+2)   |
 | :----------------- | :------------------- | :------------ |
 | ☐ STR Save +4      | ☐ DEX Save -1        | ☐ CON Save +2 |
-| ☑ **Athletics +6** | ☐ Acrobatics -1      | .             |
+| ☑ **Athletics +7** | ☐ Acrobatics -1      | .             |
 | .                  | ☐ Sleight of Hand -1 | .             |
 | .                  | ☐ Stealth -1         | .             |
 
 
 | INT 10 (+0)        | WIS 10 (+0)          | CHA 16 (+3)       |
 | :----------------- | :------------------- | :---------------- |
-| ☐ INT Save +0      | ☑ **WIS Save +2**    | ☑ **CHA Save +5** |
+| ☐ INT Save +0      | ☑ **WIS Save +3**    | ☑ **CHA Save +6** |
 | ☐ Arcana +0        | ☐ Animal Handling +0 | ☐ Deception +3    |
 | ☐ History +0       | ☐ Insight +0         | ☐ Intimidation +3 |
-| ☐ Investigation +0 | ☑ **Medicine +2**    | ☐ Performance +3  |
-| ☑ **Nature +2**    | ☐ Perception +0      | ☐ Persuasion +3   |
-| ☑ **Religion +2**  | ☐ Survival +0        | .                 |
+| ☐ Investigation +0 | ☑ **Medicine +3**    | ☐ Performance +3  |
+| ☑ **Nature +3**    | ☐ Perception +0      | ☐ Persuasion +3   |
+| ☑ **Religion +3**  | ☐ Survival +0        | .                 |
 
 - **Weapon Proficiencies**: Simple Weapons, Martial Weapons
 - **Armor Proficiencies**: Light Armor, Medium Armor, Heavy Armor, Shields
@@ -36,8 +36,8 @@
 
 |                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
 | --------------: | :------ | :------ | :------ | :------ | :------ |
-| Attack Modifier | +6      | +1      | -       | -       | +5      |
-| Save DC         | 14      | 9       | -       | -       | 13      |
+| Attack Modifier | +7      | +2      | -       | -       | +6      |
+| Save DC         | 15      | 10      | -       | -       | 14      |
 
 ## Equipment
 ### Weapons
@@ -58,9 +58,10 @@
 [TODO] Allowed two smithing tests next long rest because of critical success
 
 ## Spellcasting
-- **Prepared Spells**: 5
-!?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#3)
-- **Lay on Hands Charges:** 20 *([5 * your Paladin Level] Regain all after Long Rest)*
+- **Prepared Spells**: 6
+!?[**Spell Slots Level 1:**|#4e75d3](track-cookie#discrete-counter#4)
+!?[**Spell Slots Level 2:**|#4e75d3](track-cookie#discrete-counter#2)
+- **Lay on Hands Charges:** 25 *([5 * your Paladin Level] Regain all after Long Rest)*
 !?[**Channel Divinity Charges:**|#7eb5f3](track-cookie#discrete-counter#2)
 *(Regain 1 after Short Rest, all after Long Rest)*
 ## Feats and Actions
@@ -75,6 +76,7 @@
   [Help](game_rules.md#turn-based-play#help)
   [Influence, Search, Study, Utilize, or Stabilize](game_rules.md#turn-based-play#influence-search-study-utilize-or-stabilize)
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Feats and Spells**:
+  [Find Steed *(1 free use per Long Rest)*](./../spells.md#spells-f#find-steed)
   [Nature's Wrath *(Channel Divinity)*](feats.md#paladin#natures-wrath)
 
 ### Bonus Actions
@@ -97,6 +99,7 @@
 *- Extra lineage feat at level 5.*
   [Alert *(Already included above)*](feats.md#alert)
   [Shield Master](vault/feats.md#shield-master)
+  [Extra Attack](vault/feats.md#extra-attack)
 - **Powerful Build**: You have Advantage on any ability check you make to end [Grappled](conditions.md#grappled). You also count as one [Size](game_rules.md#advanced-rules#creature-sizes) larger when determining your Carrying Capacity.
 
 - **Weapon Masteries**: Javelin, Warhammer. *(Switch 1 after Long Rest)*

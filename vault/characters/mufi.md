@@ -1,28 +1,28 @@
 # Mufi
-- **Arcane Trickster Rogue Level**: 4
+- **Arcane Trickster Rogue Level**: 5
 ## Stats and Proficiencies
 - **Initiative**: +4 *(DEX)*
 - **AC**: 17 ([Blightwood Wrap](vault/dm/items.md#blightwood-wrap) + DEX)
-- **HP**: 27 *(3 + [5 + CON] * Level)*
-- **HP Dice**: 4 D8
+- **HP**: 33 *(3 + [5 + CON] * Level)*
+- **HP Dice**: 5 D8
 - **Size**: [Small](game_rules.md#advanced-rules#creature-sizes)
 - **Speed**: 6 *(9m)*
 
-| STR 8 (-1)     | DEX 18 (+4)               | CON 13 (+1)   |
-| :------------- | :------------------------ | :------------ |
-| ☐ STR Save -1  | ☑ **DEX Save +6**         | ☐ CON Save +1 |
-| ☐ Athletics +1 | ☑ **Acrobatics +6**       | .             |
-| .              | ☑☑ **Sleight of Hand +8** | .             |
-| .              | ☑☑ **Stealth +8**         | .             |
+| STR 8 (-1)     | DEX 18 (+4)                | CON 13 (+1)   |
+| :------------- | :------------------------- | :------------ |
+| ☐ STR Save -1  | ☑ **DEX Save +7**          | ☐ CON Save +1 |
+| ☐ Athletics +1 | ☑ **Acrobatics +7**        | .             |
+| .              | ☑☑ **Sleight of Hand +10** | .             |
+| .              | ☑☑ **Stealth +10**         | .             |
 
 
 | INT 16 (+3)            | WIS 12 (+1)          | CHA 8 (-1)        |
 | :--------------------- | :------------------- | :---------------- |
-| ☑ **INT Save +5**      | ☐ WIS Save +1        | ☐ CHA Save -1     |
-| ☑ **Arcana +5**        | ☐ Animal Handling +1 | ☐ Deception -1    |
+| ☑ **INT Save +6**      | ☐ WIS Save +1        | ☐ CHA Save -1     |
+| ☑ **Arcana +6**        | ☐ Animal Handling +1 | ☐ Deception -1    |
 | ☐ History +3           | ☐ Insight +1         | ☐ Intimidation -1 |
-| ☑ **Investigation +5** | ☐ Medicine +1        | ☐ Performance -3  |
-| ☐ Nature +3            | ☑ **Perception +3**  | ☐ Persuasion -1   |
+| ☑ **Investigation +6** | ☐ Medicine +1        | ☐ Performance -3  |
+| ☐ Nature +3            | ☑ **Perception +4**  | ☐ Persuasion -1   |
 | ☐ Religion +3          | ☐ Survival +1        | .                 |
 
 - **Weapon Proficiencies**: Simple Weapons, Hand Crossbows, Rapiers, Shortswords, Whip
@@ -36,8 +36,8 @@
 
 |                 | **STR** | **DEX** | **INT** | **WIS** | **CHA** |
 | --------------: | :------ | :------ | :------ | :------ | :------ |
-| Attack Modifier | +1      | +6      | +5      | -       | -       |
-| Save DC         | 9       | 14      | 13      | -       | -       |
+| Attack Modifier | +2      | +7      | +6      | -       | -       |
+| Save DC         | 10      | 15      | 14      | -       | -       |
 
 
 ## Equipment
@@ -103,6 +103,7 @@
 - **Weapon Mastery**: Daggers, Shortbow.
   [Mage Hand Lourdemain](vault/feats.md#mage-hand-lourdemain)
   [Sneak Attack](feats.md#sneak-attack)
+  [Uncanny Dodge](vault/feats.md#uncanny-dodge)
   [Brave](feats.md#brave)
   [Halfling Luck](feats.md#halfling-luck)
   [Naturally Stealthy](feats.md#naturally-stealthy)
