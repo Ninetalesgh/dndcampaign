@@ -417,16 +417,17 @@ STR | DEX | CON | INT | WIS | CHA
    - **Spore puff**. Explodes in a radius 2 *(3m)* cloud of spores upon death, each non-plant creature in range has to succeed a DC 12 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
 
 - **Actions**:
-   - **Spore Heal**. Heal an ally for 2d4 HP, range 1 *(1.5m)*. *(Once in its lifetime)*
+   - **Spore Heal**. Heal an ally for 2d4 HP, range 1 *(1.5m)*. *(One use)*
    - **Bark Bite**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
     *Hit:* 3 (1d4 + 1) piercing damage.
 - **Reactions**:
    - **Prickly Retort**. When the blight is hit with a melee attack, it can deal 3 piercing damage to the attacker.
 *(Source: ConfluxCreatures)*
 ![\|250](https://i.pinimg.com/736x/1d/1e/8e/1d1e8e6bb0bf5feb1139f70a36c075ee.jpg)
-### Blight Guardian
+
+### Blight Mound
 **CR**: 5
-*Large plant, Chaotic Evil*
+*Huge plant, Chaotic Evil*
 - **Initiative**: -1
 - **AC**: 15 (natural armor)
 - **HP**: 136 (16d10 + 48)
@@ -438,7 +439,7 @@ STR | DEX | CON | INT | WIS | CHA
 
 - **Skills**: stealth: +2
 - **Resistances**: -
-- **Vulnerabilities**: Radiant
+- **Vulnerabilities**: Fire
 - **Immunities**: Necrotic; [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened), [Exhaustion](conditions.md#exhaustion)
 - **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), [Tremorsense 6 *(9m)*](vault/game_rules.md#tremorsense), passive perception 10
 - **Traits**:
@@ -448,10 +449,10 @@ STR | DEX | CON | INT | WIS | CHA
 - **Actions**:
    - **Multiattack**. The blight makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [Grappled](conditions.md#grappled) (escape DC 14), and the blight uses its **Engulf** on it.
    - **Slam**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target.
-    *Hit:* 5 (1d6 + 2) bludgeoning damage, plus 4 (1d6) necrotic damage.
+    *Hit:* 10 (2d6 + 3) bludgeoning damage, plus 4 (1d6) necrotic damage.
    - **Soul Harvest Aura.** Creatures within range 2 *(3m)* must make a CON Save (DC 14). On a failure, they take 1d6 necrotic damage and the blight regains the same amount of HP. Undead and constructs are immune to this effect.
-   - **Withering Bloom (Recharge 5–6).** Each creature of the Guardian’s choice in a range 4 *(6m)* radius must succeed on a CON Save (DC 14) or take 2d8 necrotic damage and gain Vulnerability to necrotic damage until the end of the Guardian’s next turn. On a success, they take half and suffer no vulnerability.
-     *Visual cue: Necrotic petals bloom from the Guardian's body, releasing a radial pulse.*
+   - **Withering Bloom (Recharge 5–6).** Each creature of the Mound’s choice in a range 4 *(6m)* radius must succeed on a CON Save (DC 14) or take 2d8 necrotic damage and gain Vulnerability to necrotic damage until the end of the Mound’s next turn. On a success, they take half and suffer no vulnerability.
+     *Visual cue: Necrotic petals bloom from the Mound's body, releasing a radial pulse.*
    - **Boring Roots**. One creature [Grappled](conditions.md#grappled) by the blight must make a CON Save (DC 14) as the blight attempts to bore roots through its flesh. On a failed save, the creature takes 21 (6d6) necrotic damage.
    - **Engulf**. The blight engulfs a Medium or smaller creature [Grappled](conditions.md#grappled) by it. The engulfed target is [Blinded](conditions.md#blinded), [Restrained](conditions.md#restrained), and starts [Choking](conditions.md#choking), and it must succeed on a CON Save (DC 14) at the start of each of the blight's turns or take 13 (2d8 + 4) bludgeoning damage. If the blight moves, the engulfed target moves with it. The blight can have only one creature engulfed at a time.
 
@@ -462,21 +463,21 @@ STR | DEX | CON | INT | WIS | CHA
   - *Creeping Tendril (**costs 1**)*: Move a root underground and move a creature within range 4 *(6m)* by 2 *(3m)*.
   - *Burrow Step (**costs 2**)*: The Blight burrows and re-emerges at a point of corrupted soil within range 6 *(9m)*, dragging its roots and any engulfed creature with it.
 - **Lair Actions**: *Always telegraphed one round in advance with their cues.*
-  - **1. Rootburst**: Putrid roots erupt in three radius 2 *(3m) zones within range 12 *(18m)* of the guardian. Affected ground becomes difficult terrain, and creatures in the area must succeed on a DC 14 DEX Save or take 2d6 piercing + 2d6 necrotic damage. Failed saves also cause creatures to fall [Prone](conditions.md#prone) as the roots grasp their legs.
+  - **1. Rootburst**: Putrid roots erupt in three radius 2 *(3m) zones within range 12 *(18m)* of the Mound. Affected ground becomes difficult terrain, and creatures in the area must succeed on a DC 14 DEX Save or take 2d6 piercing + 2d6 necrotic damage. Failed saves also cause creatures to fall [Prone](conditions.md#prone) as the roots grasp their legs.
     *Visual cue: Ground bulges and pulses with foul sap before bursting open.*
   - **2. Spore Cloud**: The lair exhales necrotic spores in a radius 4 *(6m)* sphere centered on a plant in the arena. Creatures inside must make a DC 14 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn. Creatures already Poisoned take 2d8 necrotic damage instead on a fail.
     *Visual cue: A swirling mist of grey-green spores jets from vents in the floor or trees.*
-  - **3. Sapling Spawn**: A rotting [Blight Sapling](vault/dm/monsters.md#blight-sapling) erupts from the ground in a space within range 6 *(9m)* of the guardian, it acts on its own.
-    *Limit: No more than 3 saplings at a time unless the Guardian is near death.*
+  - **3. Sapling Spawn**: 3 rotting [Blight Saplings](vault/dm/monsters.md#blight-sapling) erupts from the ground in a space within range 6 *(9m)* of the Mound, it acts on its own.
+    *Limit: No more than 3 saplings at a time unless the Mound is near death.*
 
 - **Regional Effects**:
-*The corruption of the Necrotic Blight Guardian extends beyond its physical presence. The area within 1 km of the creature's lair is warped by necrotic withering energy, creating the following effects:*
+*The corruption of the Blight Mound extends beyond its physical presence. The area within 1 km of the creature's lair is warped by necrotic withering energy, creating the following effects:*
 - **Withering Flora.** Plants within the area slowly die, becoming twisted and blackened. Normal plants provide no nourishment and may be mildly poisonous if consumed.
 - **Soul Whispers.** Living creatures that take a long rest in the area must succeed on a WIS Save (DC 12) or suffer disturbing dreams of the dead, preventing them from gaining the benefits of the rest.
 - **Necrotic Seepage.** Water sources within the area become tainted with a foul taste and slight necrotic energy. Creatures that drink from them must make a CON Save (DC 10) or take 1 necrotic damage.
 - **Restless Dead.** Corpses within the area do not decompose naturally and have a 25% chance of rising as zombies or skeletons during the night if left unburied or unconsecrated.
 - **Weakened Veil.** Divination spells that contact other planes or communicate with the dead have a 50% chance of attracting malevolent spirits that provide false or misleading information.
-*If the Necrotic Blight Guardian dies, these effects fade over the course of 1d10 days.*
+*If the Blight Mound dies, these effects fade over the course of 1d10 days.*
 
 *(Source: Custom)*
 

@@ -210,7 +210,7 @@ It takes 10 minutes to recover the Ball Bearings.
     - **Spore Burst.** The target has to succeed on a **CON Save** or be [Poisoned](conditions.md#poisoned). *(Once per Long Rest)*
     - **Embed Needles.** The target has to succeed on a **CON Save** or have needles embedded in their body, reducing their speed by 2 until removed by using an Action. *(Once per Long Rest)*
     - **Entangling Vines.** The target has to succeed on a **STR Save** or be [Restrained](conditions.md#restrained) until the end of their next turn. *(Once per Long Rest)*
-- **Mastery**: [Topple](dm/item_info.md#topple).
+- **Mastery**: [Push 2](dm/item_info.md#push).
 - **Weight**: 2.5 kg
 - **Price**: 2500 gp
 ![\|250](https://i.imgur.com/SLoeDti.png)
@@ -269,12 +269,13 @@ It takes 10 minutes to recover the Ball Bearings.
 - **AC**: 13 + DEX
 - **Properties**:
   - You gain [Resistance](game_rules.md#damage-types#resistance) to Necrotic damage.
+  - While you remain motionless, you are indistinguishable from a regular plant to creatures who were previously unaware of you and you are able to make a DEX (Stealth) Check to attempt to hide in plain sight.
   - You have **Advantage** on DEX (Stealth) Checks while attempting to hide in foliage or other plant cover.
   - You have **Advantage** on Saves against being [Poisoned](conditions.md#poisoned).
 - **Weight**: 7 kg
 - **Price**: 3000 gp
 ![\|250](https://i.imgur.com/npSdo6a.png)
-*Become nature herself.*
+*Become nature herself, or.. a bush, at the very least.*
 *(Source: The Dungeon Strugglers, Customized)*
 
 ### Block and Tackle
@@ -2172,11 +2173,11 @@ Sling Bullets are usually sold in bundles of 20 for 4 cp and typically stored in
 - **Properties**: [Weapon +1](dm/item_info.md#weapon-1), [Finesse](dm/item_info.md#weapon-properties#finesse), [Light](dm/item_info.md#weapon-properties#light), [Attunement](dm/item_info.md#attunement).
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Push a Spell Scroll into the hilt, consuming it. This dagger gains 2 charges of that Spell. Until all charges are consumed, the hilt can't be opened again.
   ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Cast the Spell on the Scroll in the hilt.
-  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 1 Spell Charge: Regain 1 Level 1 Spell Slot. *(Once per Short Rest)*
-  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used a Magic Action this turn while holding this: Make an Attack with this.
+  ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Magic Action**, consume 2 Spell Charges: Regain 1 Level 1 Spell Slot. *(Once per Long Rest)*
+  ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Bonus Action**, if you used a Magic Action this turn while holding this: Make an Attack with this dagger.
 - **Mastery**: [Vex](dm/item_info.md#vex).
 - **Weight**: 0.5 kg
-- **Price**: 3000 gp
+- **Price**: 3500 gp
 ![\|250](https://i.imgur.com/Sjm9nLG.png)
 *(Source: Custom)*
 

@@ -97,7 +97,7 @@ parts of the old basement must have broken into a rock cavity which now opens up
 The party loses the ability to climb back up, ideally.
 The boss fight stage 1 should be fought here.
 
-[Blight Guardian](vault/dm/monsters.md#blight-guardian)
+[Blight Mound](vault/dm/monsters.md#blight-mound)
 
 Other Reference:
 [Needle Blights (1/2)](dm/monsters.md#needle-blight)
