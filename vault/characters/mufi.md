@@ -95,6 +95,8 @@
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
   [Opportunity Attack](game_rules.md#turn-based-play#opportunity-attack)
   [Trigger Readied Action](game_rules.md#turn-based-play#trigger-readied-action)
+![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Feats and Spells**:
+  [Uncanny Dodge](vault/feats.md#uncanny-dodge)
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Prepared Spells**:
   [Silvery Barbs](spells.md#spells-s#silvery-barbs)
   [Feather Fall](spells.md#spells-f#feather-fall)
@@ -103,7 +105,6 @@
 - **Weapon Mastery**: Daggers, Shortbow.
   [Mage Hand Lourdemain](vault/feats.md#mage-hand-lourdemain)
   [Sneak Attack](feats.md#sneak-attack)
-  [Uncanny Dodge](vault/feats.md#uncanny-dodge)
   [Brave](feats.md#brave)
   [Halfling Luck](feats.md#halfling-luck)
   [Naturally Stealthy](feats.md#naturally-stealthy)

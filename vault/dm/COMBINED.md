@@ -591,7 +591,7 @@ There is more aggressive growth, hinting at urgency in The Crypt.
 [Needle Blights (1/2)](dm/monsters.md#needle-blight)
 [Vine Blight (1)](dm/monsters.md#vine-blight) 
 [Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
-[Splinter Blight (3, Minion)](dm/monsters.md#splinter-blight)
+[Splinter Blight (2, Minion)](dm/monsters.md#splinter-blight)
 [Thicket Blight (3)](dm/monsters.md#thicket-blight)
 
 - Breaking out of the Thicket Blight body is a [Blightwood Shiv](vault/dm/items.md#blightwood-shiv) as loot.

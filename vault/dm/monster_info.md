@@ -347,7 +347,7 @@ Awakened plants gifted with the powers of intelligence and mobility, blights pla
 
 In the shadows of a forest, [Needle Blights (1/2)](dm/monsters.md#needle-blight) might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
   When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
-[Splinter Blight (3, Minion)](dm/monsters.md#splinter-blight)
+[Splinter Blight (2, Minion)](dm/monsters.md#splinter-blight)
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 Twig blights seek out campsites and watering holes, rooting there to set up ambushes for potential victims coming to drink or rest. Huddled together in groups, twig blights blend in with an area's natural vegetation or with piles of debris or firewood.
@@ -371,6 +371,9 @@ A [Shambling Mound (5)](dm/monsters.md#shambling-mound), sometimes called a sham
 
 ## Undead
 - **Undead Nature.** Undead creatures don't require air, food, drink, or sleep.
+### Custom Monster
+[Selera's Patchwork Demon (3)](dm/monsters.md#seleras-patchwork-demon)
+
 ### Banshee
 
 Heralds of doom and plagues on the living, [Banshees (4)](dm/monsters.md#banshee) are spirits obsessed by unresolved bitterness or sorrow. These storied phantoms slay any who glimpse them or hear their baleful wails. Although any tormented soul can arise as a banshee, some elven communities particularly fear them and believe that those who hoard or destroy beauty—natural or otherwise—risk returning as a banshee.

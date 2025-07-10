@@ -57,7 +57,6 @@ It can't willingly move closer to the source of fear.
 A grappled creature has Disadvantage on Attack Rolls against targets other than its grappler and its speed is 0. It can take an **Action** and try to succeed a STR (Athletics) or DEX (Acrobatics) check to free themself.
 A grappling creature can move together with the grappled creature(s) at half speed.
 
-
 ## Incapacitated
 An incapacitated creature can't take Actions, Bonus Actions, or Reactions and its [Concentration](conditions.md#concentration) is broken.
 It has Disadvantage on its Initiative Roll.

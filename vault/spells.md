@@ -884,8 +884,12 @@ Alternatively, target a nonmagical plant that isn't a creature, such as a tree o
 - **Range**: Touch
 - **Components**: V, S
 - **Duration**: [Concentration](conditions.md#concentration), up to 8 hours
-You shove a fistfull of earth through the chest of the corpse used as a material component and tendrilous vines begin to sprout from its wounds, tearing forth as newborn blights into the nearest unoccupied spaces. Choose one of the following for what are created:Two Vine Blights.
-Three Needle BlightsFive Twig BlightsTen Splinter BlightsThe created blights are friendly to you for the spell's duration. If the corpse used as a material component for the spell was humanoid, the created blights act on your initiative and obey your verbal commands for the spell's duration, and remain non-hostile toward you after the spell ends unless provoked.
+You shove a fistfull of earth through the chest of the corpse used as a material component and tendrilous vines begin to sprout from its wounds, tearing forth as newborn blights into the nearest unoccupied spaces. Choose one of the following for what are created:
+- Two [Vine Blights (1)](vault/dm/monsters.md#vine-blight).
+- Three [Needle Blights (1/2)](vault/dm/monsters.md#needle-blight).
+- Five Twig Blights
+- Ten [Splinter Blights (2, Minion)](vault/dm/monsters.md#splinter-blight).
+The created blights are friendly to you for the spell's duration. If the corpse used as a material component for the spell was humanoid, the created blights act on your initiative and obey your verbal commands for the spell's duration, and remain non-hostile toward you after the spell ends unless provoked.
 If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.
 - **Classes**: Druid, Ranger
 *(Source: ConfluxCreatures)*

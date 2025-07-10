@@ -642,7 +642,7 @@ You have Advantage on INT, WIS, and CHA Saves.
 
 ## Halfling
 ### Brave
-You have Advantage on Saves against [Frightened](conditions.md#frightened).
+You have Advantage on Saves against being [Frightened](conditions.md#frightened).
 ![\|50](https://bg3.wiki/w/images/c/ca/Brave_Icon.webp)
 
 ### Naturally Stealthy

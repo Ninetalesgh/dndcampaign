@@ -395,36 +395,6 @@ STR | DEX | CON | INT | WIS | CHA
    - **Hate the Living**. When a creature the skeleton can see reduces an undead ally of the skeleton's to 0 HP, the skeleton can move up to 2 *(3m)* towards the creature.
 *(Source: ConfluxCreatures)*
 
-### Blight Sapling
-**CR**: 0
-*Medium plant, Neutral Evil*
-- **Initiative**: +1
-- **AC**: 12 (natural armor)
-- **HP**: 1
-- **Speed**: walk 4 *(6m)*
-
-STR | DEX | CON | INT | WIS | CHA
- :--: | :--: | :--: | :--: | :--: | :--:
-12 (+1) | 12 (+1) | 13 (+1) | 7 (-2) | 8 (-1) | 3 (-4)
-
-- **Vulnerabilities**: fire.
-- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
-- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
-- **Languages**: understands Common but can't speak
-- **Traits**:
-   - **False Appearance**. While the sapling remains motionless, it is indistinguishable from a regular plant.
-   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the sapling dies.
-   - **Spore puff**. Explodes in a radius 2 *(3m)* cloud of spores upon death, each non-plant creature in range has to succeed a DC 12 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
-
-- **Actions**:
-   - **Spore Heal**. Heal an ally for 2d4 HP, range 1 *(1.5m)*. *(One use)*
-   - **Bark Bite**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
-    *Hit:* 3 (1d4 + 1) piercing damage.
-- **Reactions**:
-   - **Prickly Retort**. When the blight is hit with a melee attack, it can deal 3 piercing damage to the attacker.
-*(Source: ConfluxCreatures)*
-![\|250](https://i.pinimg.com/736x/1d/1e/8e/1d1e8e6bb0bf5feb1139f70a36c075ee.jpg)
-
 ### Blight Mound
 **CR**: 5
 *Huge plant, Chaotic Evil*
@@ -462,13 +432,20 @@ STR | DEX | CON | INT | WIS | CHA
 - **Legendary Actions**:
   - *Creeping Tendril (**costs 1**)*: Move a root underground and move a creature within range 4 *(6m)* by 2 *(3m)*.
   - *Burrow Step (**costs 2**)*: The Blight burrows and re-emerges at a point of corrupted soil within range 6 *(9m)*, dragging its roots and any engulfed creature with it.
+
 - **Lair Actions**: *Always telegraphed one round in advance with their cues.*
   - **1. Rootburst**: Putrid roots erupt in three radius 2 *(3m) zones within range 12 *(18m)* of the Mound. Affected ground becomes difficult terrain, and creatures in the area must succeed on a DC 14 DEX Save or take 2d6 piercing + 2d6 necrotic damage. Failed saves also cause creatures to fall [Prone](conditions.md#prone) as the roots grasp their legs.
     *Visual cue: Ground bulges and pulses with foul sap before bursting open.*
   - **2. Spore Cloud**: The lair exhales necrotic spores in a radius 4 *(6m)* sphere centered on a plant in the arena. Creatures inside must make a DC 14 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn. Creatures already Poisoned take 2d8 necrotic damage instead on a fail.
     *Visual cue: A swirling mist of grey-green spores jets from vents in the floor or trees.*
   - **3. Sapling Spawn**: 3 rotting [Blight Saplings](vault/dm/monsters.md#blight-sapling) erupts from the ground in a space within range 6 *(9m)* of the Mound, it acts on its own.
-    *Limit: No more than 3 saplings at a time unless the Mound is near death.*
+    *Limit: No more than 5 saplings at a time unless the Mound is near death.*
+
+  - *IN ADDITION TO ONE OF THE ABOVE IN STAGE 2*: Spawn one of the following:
+    - 1 [Needle Blights (1/2)](dm/monsters.md#needle-blight)
+    - 1 [Vine Blight (1)](dm/monsters.md#vine-blight)
+    - 5 [Leaf Blight (Minion, 1)](dm/monsters.md#leaf-blight)
+    - 5 [Splinter Blight (2, Minion)](dm/monsters.md#splinter-blight)
 
 - **Regional Effects**:
 *The corruption of the Blight Mound extends beyond its physical presence. The area within 1 km of the creature's lair is warped by necrotic withering energy, creating the following effects:*
@@ -480,6 +457,36 @@ STR | DEX | CON | INT | WIS | CHA
 *If the Blight Mound dies, these effects fade over the course of 1d10 days.*
 
 *(Source: Custom)*
+
+### Blight Sapling
+**CR**: 0
+*Medium plant, Neutral Evil*
+- **Initiative**: +1
+- **AC**: 12 (natural armor)
+- **HP**: 1
+- **Speed**: walk 4 *(6m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+12 (+1) | 12 (+1) | 13 (+1) | 7 (-2) | 8 (-1) | 3 (-4)
+
+- **Vulnerabilities**: fire.
+- **Immunities**: [Blinded](conditions.md#blinded), [Deafened](conditions.md#deafened)
+- **Senses**: [Blindsight *(18m)*](game_rules.md#advanced-rules#blindsight) (blind beyond this radius), passive perception 9
+- **Languages**: understands Common but can't speak
+- **Traits**:
+   - **False Appearance**. While the sapling remains motionless, it is indistinguishable from a regular plant.
+   - **Root-Bound**. Whenever it is forced to move or is knocked [Prone](conditions.md#prone), the sapling dies.
+   - **Spore puff**. Explodes in a radius 2 *(3m)* cloud of spores upon death, each non-plant creature in range has to succeed a DC 12 CON Save or be [Poisoned](conditions.md#poisoned) until the end of their next turn.
+
+- **Actions**:
+   - **Spore Heal**. Heal an ally for 2d4 HP, range 1 *(1.5m)*. *(One use)*
+   - **Bark Bite**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target.
+    *Hit:* 3 (1d4 + 1) piercing damage.
+- **Reactions**:
+   - **Prickly Retort**. When the blight is hit with a melee attack, it can deal 3 piercing damage to the attacker.
+*(Source: ConfluxCreatures)*
+![\|250](https://i.pinimg.com/736x/1d/1e/8e/1d1e8e6bb0bf5feb1139f70a36c075ee.jpg)
 
 ### Blink Dog
 **CR**: 1/4
@@ -2709,7 +2716,35 @@ STR | DEX | CON | INT | WIS | CHA
    - **Death Glare (Recharge 5-6)**. WIS Save (DC 11), one [Frightened](conditions.md#frightened) creature the hag can see within 6 *(9m)*. *Failure:* If the target has 20 HP or fewer, it drops to 0 HP. Otherwise, the target takes 13 (3d8) Psychic damage.
 *(Source: XMM, page 271)*
 
+### Selera's Patchwork Demon
+**CR**: 3
+*Medium Undead, Chaotic Evil*
+- **Initiative**: +2
+- **AC**: 14 (Stitched Hide, Natural Armor)
+- **HP**: 60 (8d8 + 24)
+- **Speed**: walk 6 *(9m)*, climb 4 *(6m)*
 
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+17 (+3) | 12 (+1) | 17 (+3) | 6 (-2) | 10 (+0) | 5 (-3)
+
+- **Skills**: acrobatics: +4, stealth: +4
+- **Resistances**: acid, necrotic.
+- **Immunities**: poison; [Charmed](vault/conditions.md#charmed), [Frightened](vault/conditions.md#frightened), [Poisoned](conditions.md#poisoned)
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 8
+- **Languages**: Abyssal, but cannot speak.
+- **Traits**: [Undead Fortitude](dm/monster_info.md#undead-fortitude).
+   - **Soul Residue**. A failed WIS or INT Check when observing this creature may cause a character to hear one of the souls that power it, whispering their final regret. Characters who fail by 5 or more must succeed on a WIS Save (DC 12) or be [Frightened](vault/conditions.md#frightened) until the end of their next round.
+- **Actions**:
+   - **Multiattack**. The Patchwork Demon makes two tentacle attacks, one can be replaced with *Squeeze*.
+   - **Tentacle Slam**. *Melee Attack:* +5 to hit, reach 3 *(3m)*, one target.
+    *Hit:* 10 (2d6 + 3) bludgeoning damage and the target must succeed on a STR Save (DC 13) or be knocked [Prone](vault/conditions.md#prone).
+   - **Tentacle Grasp**. *Melee Attack:* +5 to hit, reach 3 *(3m)*, one target.
+    *Hit:* 10 (2d6 + 3) bludgeoning damage and the target must succeed on a STR Save (DC 13) or be [Grappled](vault/conditions.md#grappled).
+   - **Squeeze**. One creature grappled by the Patchwork Demon must succeed on a CON Save (DC 13) or begin [Suffocating](vault/conditions.md#suffocating).
+- **Reactions**:
+   - **Brace**. The Patchwork Demon can perform attacks of opportunity when a creature *enters* it reach.
+*(Source: Custom)*
 
 ### Shadow
 **CR**: 1/2
@@ -2922,7 +2957,7 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: XPHB, page 357)*
 
 ### Splinter Blight
-**CR**: 3 *(Minion)*
+**CR**: 2 *(Minion)*
 *Small plant, Neutral Evil*
 - **Initiative**: +1
 - **AC**: 12 (natural armor)
@@ -3399,6 +3434,7 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters End
+
 
 
 
