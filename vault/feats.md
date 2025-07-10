@@ -611,6 +611,11 @@ You don't need to sleep, and magic can't put you to sleep. You can finish a Long
 ![\|50](https://bg3.wiki/w/images/0/0b/Purity_of_Body_Icon.webp)
 
 ## Goliath
+### Large Form
+**Bonus Action**
+Change your size to Large if you're in a big enough space. This transformation lasts for 10 minutes or until you end it (no action required). For that duration, you have Advantage on STR Checks, and your Speed increases by 2 *(3m)*. *(Once per Long Rest)*
+![\|50](https://bg3.wiki/w/images/c/c7/Enlarge_Icon.webp)
+
 ### Stone's Endurance
 As a Reaction when you take damage, reduce the damage by 1d12 + CON. *(PB times per Long Rest)*
 ![\|50](https://bg3.wiki/w/images/f/f6/Unarmoured_Defence_%28Barbarian%29_Icon.webp)
