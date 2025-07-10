@@ -42,6 +42,7 @@
   - I found abyssal rites that let me consume their power directly.
   - .......
   - The soul is gone from the cage? Why were **Tazlyn or Thalioel** not aware of this option? All documents or verbal directions from them were adamant about them being bound to our realm. While I don't want to make my powers sound meager, it was not an insurmountable effort to dissapear the soul.. *even for me*.
+  - I never thought that the Abyss staring back was meant so literally.
   - In Abyssal: *Hello? ... ohmmm hmmm what a lovely sack of flesh, is this .. body for me?*
   - I feel stronger, but also I believe my mind is escaping me, I must have lost consciousness while writing. The previous page is abyssal scripture, I have to find an applicable translation.
   - In Abyssal: *Interesting.. Your mind keeps control of the feather, lets stop this compulsory scribbling of your thoughts..*
