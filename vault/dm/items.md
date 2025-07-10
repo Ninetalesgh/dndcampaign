@@ -254,7 +254,7 @@ It takes 10 minutes to recover the Ball Bearings.
   - *On Hit:* Cast [Inflict Wounds](vault/spells.md#inflict-wounds). *(Once per Long Rest)*
   - While in Wild Shape form:
     - **+2 damage with Melee Attacks**.
-    - [Entangle](vault/spells.md#entangle) can be cast while in Wild Shape form (both the regular version and from this staff).
+    - You always have [Entangle](vault/spells.md#entangle) prepared and can be cast while in Wild Shape form (both the regular version and from this staff).
 ![\|25](https://bg3.wiki/w/images/f/f2/Action_Icon.png) **Action**: Cast [Entangle](vault/spells.md#entangle). *(Once per Long Rest)*
 - **Mastery**: [Topple](dm/item_info.md#topple).
 - **Weight**: 2 kg

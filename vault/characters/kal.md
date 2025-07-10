@@ -93,7 +93,7 @@
 ### Bonus Actions
 ![\|25](https://bg3.wiki/w/images/c/c9/Bonus_Action_Icon.png) **Feats and Spells**:
   [Wild Shape](feats.md#wild-shape-moon)
-  [Misty Step](vault/spells.md#misty-step)
+  [Misty Step *(One free use per Long Rest)*](vault/spells.md#misty-step)
 
 ### Reactions
 ![\|25](https://bg3.wiki/w/images/c/c1/Reaction_Icon.png) **Default Reactions**:
