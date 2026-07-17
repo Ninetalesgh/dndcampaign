@@ -283,6 +283,11 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. [Ogre Howdahs (2)](dm/monsters.md#ogre-howdah) are most often seen bearing bow- and spear-wielding goblins into battle, or perhaps kobolds or deep gnomes, but they might also transport other Small folk.
 ![\|250](https://5e.tools/img/bestiary/MPMM/Ogre%20Howdah.webp)
 
+### Trolls
+Trolls creep forth to prey on smaller creatures and drag captives back to festering lairs. These misshapen brutes can regenerate from wounds and regrow severed body parts—including their heads. A troll's severed limbs continue to move and attack. Unless they're burned by flames or acid, trolls can recover from egregious wounds and seek revenge on those who felled them.
+
+[Trolls](dm/monsters.md#troll) typically hunt alone, but small groups occasionally cooperate to ambush prey or raid villages. Creatures such as hags and hill giants might convince trolls to work for them in exchange for disgusting meals.
+
 ## Humanoid
 ### Any Humanoid
 [Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -298,8 +303,18 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 [Oathsworn Acolyte (2)](dm/monsters.md#oathsworn-acolyte)
 [Rogue Adventurer (2)](dm/monsters.md#rogue-adventurer)
 [Cult Fanatic of the Grand Indulger (3)](dm/monsters.md#cult-fanatic-of-the-grand-indulger)
+[Dragon Hunter (3)](dm/monsters.md#dragon-hunter)
 
+[Archer (3)](dm/monsters.md#archer)
+[Illusionist (3)](dm/monsters.md#illusionist)
+[Swashbuckler (3)](dm/monsters.md#swashbuckler)
+[Enchanter (5)](dm/monsters.md#enchanter)
+[Diviner (8)](dm/monsters.md#diviner)
 [Devoted of the Grand Indulger (8)](dm/monsters.md#devoted-of-the-grand-indulger)
+[Evoker (9)](dm/monsters.md#evoker)
+
+### Elf
+[Drow Scout (1/2)](dm/monsters.md#drow-scout)
 
 ## Monstrosity
 ### Cockatrice

@@ -174,6 +174,33 @@ STR | DEX | CON | INT | WIS | CHA
     *Hit:* 7 (1d10 + 2) force damage.
 *(Source: MPMM, page 259)*
 
+### Archer
+**CR**: 3
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +4
+- **AC**: 16 (studded leather armor)
+- **HP**: 75 (10d8 + 30)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+11 (+0) | 18 (+4) | 16 (+3) | 11 (+0) | 13 (+1) | 10 (+0) 
+
+- **Skills**: acrobatics: +6, perception: +5
+- **Senses**: passive perception 15
+- **Languages**: any one language (usually Common)
+- **Traits**: 
+   - **Archer's Eye (3/Day)**. As a bonus action, the archer can add 1d10 to its next attack or damage roll with a longbow or shortbow.
+- **Actions**: 
+   - **Multiattack**. The archer makes two attacks with its longbow.
+   - **Shortsword**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d6 + 4) piercing damage.
+   - **Longbow**. *Ranged Attack:* +6 to hit, range 30/120 *(45m/180m)*, one target. 
+    *Hit:* 8 (1d8 + 4) piercing damage.
+*(Source: VGM, page 210)*
+
+
+
 ### Ash Mephit
 **CR**: 1/2
 *Small elemental, Neutral Evil*
@@ -938,6 +965,39 @@ STR | DEX | CON | INT | WIS | CHA
    For the next minute or until the creature is reduced to 0 HP, it takes 11 (2d10) psychic damage the first time each turn that it disobeys the command.
 *(Source: ConfluxCreatures)*
 
+### Diviner
+**CR**: 8
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 67 (15d8)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+9 (-1) | 14 (+2) | 11 (+0) | 18 (+4) | 12 (+1) | 11 (+0) 
+
+- **Skills**: arcana: +7, history: +7
+- **Senses**: passive perception 11
+- **Languages**: any four languages
+- **Traits**: 
+   - **Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher)**. When the diviner or a creature it can see makes an attack roll, a Save, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, Save, or ability check.
+   - **Spellcasting**. The diviner is a 15th-level spellcaster. Its spellcasting ability is INT (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:
+     - *Cantrips*: [fire bolt](spells.md#fire-bolt), [light](spells.md#light), [mage hand](spells.md#mage-hand), [message](spells.md#message), [true strike](spells.md#true-strike)
+     - *Level 1 (4 slots)*: [detect magic](spells.md#detect-magic)*, [feather fall](spells.md#feather-fall), [mage armor](spells.md#mage-armor)
+     - *Level 2 (3 slots)*: [detect thoughts](spells.md#detect-thoughts)*, [locate object](spells.md#locate-object)*, [scorching ray](spells.md#scorching-ray)
+     - *Level 3 (3 slots)*: [clairvoyance](spells.md#clairvoyance)*, [fly](spells.md#fly), [fireball](spells.md#fireball)
+     - *Level 4 (3 slots)*: [arcane eye](spells.md#arcane-eye)*, [ice storm](spells.md#ice-storm), [stoneskin](spells.md#stoneskin)
+     - *Level 5 (2 slots)*: [Rary's telepathic bond](spells.md#rary's-telepathic-bond)*, [seeming](spells.md#seeming)
+     - *Level 6 (1 slot)*: [mass suggestion](spells.md#mass-suggestion), [true seeing](spells.md#true-seeing)*
+     - *Level 7 (1 slot)*: [delayed blast fireball](spells.md#delayed-blast-fireball), [teleport](spells.md#teleport)
+     - *Level 8 (1 slot)*: [maze](spells.md#maze)
+- **Actions**: 
+   - **Quarterstaff**. *Melee Attack:* +2 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
+*(Source: VGM, page 213)*
+
+
 ### Draft Horse
 **CR**: 1/4
 *Large beast, Unaligned*
@@ -961,6 +1021,31 @@ STR | DEX | CON | INT | WIS | CHA
 - **Reactions**:
    - **Quick Kick**. When a creature makes an attack against the horse that benefits from flanking it, the horse can make an Hooves attack against the attacker.
 *(Source: ConfluxCreatures)*
+
+### Dragon Hunter
+**CR**: 3
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +1
+- **AC**: 13 (studded leather armor)
+- **HP**: 58 (9d8 + 18)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) 
+
+- **Skills**: athletics: +5, perception: +2
+- **Senses**: passive perception 12
+- **Languages**: any one language (usually Common)
+- **Actions**: 
+   - **Multiattack**. The dragon hunter makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
+   - **Longsword**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+   - **Shortsword**. *Melee Attack:* +5 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 6 (1d6 + 3) piercing damage.
+   - **Longbow**. *Ranged Attack:* +3 to hit, ranged 30/120 *(45m/180m)*, one target. 
+    *Hit:* 5 (1d8 + 1) piercing damage.
+*(Source: JttRC, page 138)*
 
 ### Dread
 **CR**: 1/2
@@ -991,6 +1076,36 @@ STR | DEX | CON | INT | WIS | CHA
    - **Wrest Weapon**. When it is missed with a melee weapon attack by a creature it has [Grappled](conditions.md#grappled), the dread can force the creature to make a DC 12 STR Save.
    On a failure, the grapple ends and the dread pulls the attacker's weapon from from its hands.
 *(Source: ConfluxCreatures)*
+
+### Drow Scout
+**CR**: 1/2
+*Medium humanoid ([object Object]), Neutral Evil*
+- **Initiative**: +2
+- **AC**: 13 (leather armor)
+- **HP**: 16 (3d8 + 3)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) 
+
+- **Skills**: nature: +4, perception: +5, stealth: +6, survival: +5
+- **Senses**: [Darkvision *(36m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Languages**: any one language (usually Common), Elvish, Undercommon
+- **Traits**: [Sunlight Sensitivity](dm/monster_info.md#monster-traits#sunlight-sensitivity).
+   - **Keen Hearing and Sight**. The scout has advantage on WIS (Perception) checks that rely on hearing or sight.
+   - **Fey Ancestry**. The drow scout has advantage on Saves against being [Charmed](conditions.md#charmed), and magic can't put the drow scout to sleep.
+   - **Innate Spellcasting**. The drow scout's innate spellcasting ability is CHAa (spell save DC 10). The drow scout can innately cast the following spells, requiring no material components:
+     - *At will:* [dancing lights](spells.md#dancing-lights)
+     - *1/day each:* [darkness](spells.md#darkness), [faerie fire](spells.md#faerie-fire), [levitate](spells.md#levitate) (self only)
+- **Actions**: 
+   - **Multiattack**. The scout makes two melee attacks or two ranged attacks.
+   - **Shortsword**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 5 (1d6 + 2) piercing damage.
+   - **Longbow**. *Ranged Attack:* +4 to hit, ranged 30/120 *(45m/180m)*, one target. 
+    *Hit:* 6 (1d8 + 2) piercing damage.
+*(Source: OotA, page 191)*
+
 
 ### Dust Mephit
 **CR**: 1/2
@@ -1050,6 +1165,67 @@ STR | DEX | CON | INT | WIS | CHA
 - **Reactions**:
    - **Durable**. As a reaction to being targeted with a weapon attack, the mephit may gain resistance to that attack's damage. If the mephit is doused in water (at least one gallon), this trait ceases to function for the next minute.
 *(Source: ConfluxCreatures)*
+
+### Enchanter
+**CR**: 5
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 40 (9d8)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+9 (-1) | 14 (+2) | 11 (+0) | 17 (+3) | 12 (+1) | 11 (+0) 
+
+- **Skills**: arcana: +6, history: +6
+- **Senses**: passive perception 11
+- **Languages**: any four languages
+   - **Spellcasting**. The enchanter is a 9th-level spellcaster. Its spellcasting ability is INT (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:
+     - *Cantrips*: [friends](spells.md#friends), [mage hand](spells.md#mage-hand), [mending](spells.md#mending), [message](spells.md#message)
+     - *Level 1 (4 slots)*: [charm person](spells.md#charm-person)*, [mage armor](spells.md#mage-armor), [magic missile](spells.md#magic-missile)
+     - *Level 2 (3 slots)*: [hold person](spells.md#hold-person)*, [invisibility](spells.md#invisibility), [suggestion](spells.md#suggestion)*
+     - *Level 3 (3 slots)*: [fireball](spells.md#fireball), [haste](spells.md#haste), [tongues](spells.md#tongues)
+     - *Level 4 (3 slots)*: [dominate beast](spells.md#dominate-beast)*, [stoneskin](spells.md#stoneskin)
+     - *Level 5 (2 slots)*: [hold monster](spells.md#hold-monster)*
+- **Actions**: 
+   - **Quarterstaff**. *Melee Attack:* +2 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
+- **Reactions**: 
+   - **Instinctive Charm (Recharges after the Enchanter Casts an Enchantment Spell of 1st level or Higher)**. The enchanter tries to magically divert an attack made against it, provided that the attacker is within 6 *(9m)* of it and visible to it. The enchanter must decide to do so before the attack hits or misses.
+   The attacker must make a DC 14 WIS Save. On a failed save, the attacker targets the creature closest to it, other than the enchanter or itself. If multiple creatures are closest, the attacker chooses which one to target.
+*(Source: VGM, page 213)*
+
+
+### Evoker
+**CR**: 9
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 66 (12d8 + 12)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+9 (-1) | 14 (+2) | 12 (+1) | 17 (+3) | 12 (+1) | 11 (+0) 
+
+- **Skills**: arcana: +7, history: +7
+- **Senses**: passive perception 11
+- **Languages**: any four languages
+- **Traits**: 
+   - **Sculpt Spells**. When the evoker casts an evocation spell that forces other creatures it can see to make a Save, it can choose a number of them equal to 1 + the spell's level. These creatures automatically succeed on their Saves against the spell. If a successful save means a chosen creature would take half damage from the spell, it instead takes no damage from it.
+   - **Spellcasting**. The evoker is a 12th-level spellcaster. Its spellcasting ability is INT (spell save DC 15, +7 to hit with spell attacks). The evoker has the following wizard spells prepared:
+     - *Cantrips*: [fire bolt](spells.md#fire-bolt)*, [light](spells.md#light)*, [prestidigitation](spells.md#prestidigitation), [ray of frost](spells.md#ray-of-frost)*
+     - *Level 1 (4 slots)*: [burning hands](spells.md#burning-hands)*, [mage armor](spells.md#mage-armor), [magic missile](spells.md#magic-missile)*
+     - *Level 2 (3 slots)*: [mirror image](spells.md#mirror-image), [misty step](spells.md#misty-step), [shatter](spells.md#shatter)*
+     - *Level 3 (3 slots)*: [counterspell](spells.md#counterspell), [fireball](spells.md#fireball)*, [lightning bolt](spells.md#lightning-bolt)*
+     - *Level 4 (3 slots)*: [ice storm](spells.md#ice-storm)*, [stoneskin](spells.md#stoneskin)
+     - *Level 5 (2 slots)*: [Bigby's hand](spells.md#bigby's-hand)*, [cone of cold](spells.md#cone-of-cold)*
+     - *Level 6 (1 slot)*: [chain lightning](spells.md#chain-lightning)*, [wall of ice](spells.md#wall-of-ice)*
+- **Actions**: 
+   - **Quarterstaff**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
+*(Source: VGM, page 214)*
 
 ## Monsters F
 ### Fighter Initiate
@@ -1410,6 +1586,35 @@ STR | DEX | CON | INT | WIS | CHA
 - **Reactions**:
    - **Icy Gust**. When the mephit is hit with a melee attack, it can make a Chilling Touch attack against the attacker. On a hit, the target is pushed 1 *(1.5m)* away.
 *(Source: ConfluxCreatures)*
+
+### Illusionist
+**CR**: 3
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 38 (7d8 + 7)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+9 (-1) | 14 (+2) | 13 (+1) | 16 (+3) | 11 (+0) | 12 (+1) 
+
+- **Skills**: arcana: +5, history: +5
+- **Senses**: passive perception 10
+- **Languages**: any four languages
+- **Traits**: 
+   - **Displacement (Recharges after the Illusionist Casts an Illusion Spell of 1st Level or Higher)**. As a bonus action, the illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect ends if the illusionist takes damage, it is [Incapacitated](conditions.md#incapacitated), or its speed becomes 0.
+   - **Spellcasting**. The illusionist is a 7th-level spellcaster. its spellcasting ability is INT (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:
+     - *Cantrips*: [dancing lights](spells.md#dancing-lights), [mage hand](spells.md#mage-hand), [minor illusion](spells.md#minor-illusion), [poison spray](spells.md#poison-spray)
+     - *Level 1 (4 slots)*: [color spray](spells.md#color-spray)*, [disguise self](spells.md#disguise-self)*, [mage armor](spells.md#mage-armor), [magic missile](spells.md#magic-missile)
+     - *Level 2 (3 slots)*: [invisibility](spells.md#invisibility)*, [mirror image](spells.md#mirror-image)*, [phantasmal force](spells.md#phantasmal-force)*
+     - *Level 3 (3 slots)*: [major image](spells.md#major-image)*, [phantom steed](spells.md#phantom-steed)*
+     - *Level 4 (1 slot)*: [phantasmal killer](spells.md#phantasmal-killer)*
+- **Actions**: 
+   - **Quarterstaff**. *Melee Attack:* +1 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 2 (1d6 - 1) bludgeoning damage, or 3 (1d8 - 1) bludgeoning damage if used with two hands.
+*(Source: VGM, page 214)*
+
 
 ### Imp
 **CR**: 1
@@ -3097,6 +3302,33 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 
+### Swashbuckler
+**CR**: 3
+*Medium humanoid (any race), NX Chaotic Good NY Evil*
+- **Initiative**: +4
+- **AC**: 17 (leather armor)
+- **HP**: 66 (12d8 + 12)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+12 (+1) | 18 (+4) | 12 (+1) | 14 (+2) | 11 (+0) | 15 (+2) 
+
+- **Skills**: acrobatics: +8, athletics: +5, persuasion: +6
+- **Senses**: passive perception 10
+- **Languages**: any one language (usually Common)
+- **Traits**: 
+   - **Lightfooted**. The swashbuckler can take the [Dash](vault/game_rules.md#dash) or [Disengage](vault/game_rules.md#disengage) action as a bonus action on each of its turns.
+   - **Suave Defense**. While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its CHAa modifier.
+- **Actions**: 
+   - **Multiattack**. The swashbuckler makes three attacks: one with a dagger and two with its rapier.
+   - **Dagger**. *Melee or Ranged Attack:* +6 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
+    *Hit:* 6 (1d4 + 4) piercing damage.
+   - **Rapier**. *Melee Attack:* +6 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 8 (1d8 + 4) piercing damage.
+*(Source: VGM, page 217)*
+
+
 ## Monsters T
 ### Thicket Blight
 **CR**: 3
@@ -3130,6 +3362,33 @@ STR | DEX | CON | INT | WIS | CHA
    - **Blightpollen Alarm**. When a creature the blight can see deals any fire damage, the blight can release an agitating pollen in a radius 12 *(18m)* sphere.
    Each plant creature in the area gains advantage on the first attack it makes against that creature in the next minute.
 *(Source: ConfluxCreatures)*
+
+
+### Troll
+**CR**: 5
+*Large giant, Chaotic Evil*
+- **Initiative**: +1
+- **AC**: 15
+- **HP**: 94 (9d10 + 45)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) 
+
+- **Skills**: perception: +5
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 15
+- **Languages**: Giant
+- **Traits**: 
+   - **Loathsome Limbs (4/Day)**. If the troll ends any turn [Bloodied](conditions.md#bloodied) and took 15+ Slashing damage during that turn, one of the troll's limbs is severed, falls into the troll's space, and becomes a Troll Limb. The limb acts immediately after the troll's turn. The troll has 1 [Exhaustion](conditions.md#exhaustion) level for each missing limb, and it grows replacement limbs the next time it regains HP.
+   - **Regeneration**. The troll regains 15 HP at the start of each of its turns. If the troll takes Acid or Fire damage, this trait doesn't function on the troll's next turn. The troll dies only if it starts its turn with 0 HP and doesn't regenerate.
+- **Actions**: 
+   - **Multiattack**. The troll makes three Rend attacks.
+   - **Rend**. *Melee Attack:* +7, reach 2 *(3m)* 
+    *Hit:* 11 (2d6 + 4) Slashing damage.
+- **Bonus Actions**: 
+   - **Charge**. The troll moves up to half its {@variantrule Speed|XPHB} straight toward an enemy it can see.
+*(Source: XMM, page 310)*
 
 
 ## Monsters U
@@ -3276,6 +3535,30 @@ STR | DEX | CON | INT | WIS | CHA
    - **Laminar Shimmer**. If the weird is fully submerged in clear water and doesn't have a creature [Grappled](conditions.md#grappled), it can become [Invisible](conditions.md#invisible) until the beginning of its next turn.
    This Invisibility ends early if the weird makes an attack or takes any cold damage.
 *(Source: ConfluxCreatures)*
+
+
+### Winter Wolf
+**CR**: 3
+*Large monstrosity, Neutral Evil*
+- **Initiative**: +1
+- **AC**: 13
+- **HP**: 75 (10d10 + 20)
+- **Speed**: walk 10 *(15m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+18 (+4) | 13 (+1) | 14 (+2) | 7 (-2) | 12 (+1) | 8 (-1) 
+
+- **Skills**: perception: +5, stealth: +5
+- **Immunities**: cold;
+- **Senses**: passive perception 15
+- **Languages**: Common, Giant
+- **Traits**: [Pack Tactics](dm/monster_info.md#monster-traits#pack-tactics).
+- **Actions**: 
+   - **Bite**. *Melee Attack:* +6, reach 1 *(1.5m)* 
+    *Hit:* 11 (2d6 + 4) Piercing damage. If the target is a Large or smaller creature, it has the [Prone](conditions.md#prone) condition.
+   - **Cold Breath (Recharge 5-6)**. DC 12 CON Save, each creature in a size 3 *(4.5m)* Cone. 18 (4d8) Cold damage, half damage on Save.
+*(Source: XMM, page 334)*
 
 
 ### Wolf

@@ -4,46 +4,118 @@
 
 sor -> 
 rog -> Ball bearings, Caltrops, Grappling Hook, Manacles, Rope, Chain
-bar -> 
-ran -> 
+bar -> notices the poorly designed tunnel stabilization and other built mining rigs being obviously made unprofessionally. 
+ran -> finds the way to the mining town, notices drow slaves.
 dru -> Discover demonic corruption leaking out from Descent 1
 
 # NPCs
 
 | Name | Role | Lineage/Class | Description |
 | :--                 | :--             | :--               | :-- |
-| Aona Brook          | Town Elder      | Human Bard        | Charming, tall with a slight hunch, a couple of beads woven into her salt & pepper hair. Has Elven blood. |
-| Bjarn Brook         | Town Carpenter  | Human Fighter     | Aona's Son, he is active in the resistance, he equips the heroes with gear, grey balding hair. Has Elven blood. |
+| Aona Brook          | Town Elder      | Human Bard        | Charming, tall with a slight hunch, a couple of beads woven into her salt & pepper hair. *Has Elven blood*. |
+| Bjarn Brook         | Town Carpenter  | Human Fighter     | Aona's Son, he is active in the resistance, he equips the heroes with gear, grey balding hair. *Has Elven blood*. |
 | Tarralf Ironforge   | Lead Engineer   | Dwarf             | Leading the mining operations, he is a cartographer by primary profession, but does okay at mining. |
-| Eleadril Windcleave | Mining Overseer | High Elf Paladin  | Tall figure, Pale face and blonde hair, teal leather armor. |
+| Eleadril Windcleave | Mining Overseer | High Elf Wizard   | Tall figure, Pale face and blonde hair, teal leather armor. |
 
-
-# Locations
-- MISSING NAME village where we start
-
-- Descent 1, the dig site.
-  - Operations look halted, something is wrong and the mining operations requested reinforcements.
-
-
-- The forest 
-
-- the dwarven mining town
 
 # Secrets
 - Tarralf's family is being held hostage in the castle to force him to lead the mining operations. He was one of the cartographers who burnt the existing documents. He does not personally know where the dwarven mining town is.
 - Eleadril is a substance abuser, aggravated at times.
-- Bjarn was the carpenter who made <ROG>'s and her sisters children's room furniture.
+- Bjarn was the carpenter who made **ROG**'s and her sisters children's room furniture.
 
 # Scenes
 
-- Aona shares that the mining operations must have slowed down, but they have not investigated further.
-  - Aona casts a Sense Emotion on <SOR>, because she is a little distrusting at first. 
-  - She asks <RAN> to lead the investigation with <BAR> right at his side, They should go see Bjarn to grab what they need. <DRU> should also accompany them, Aona senses something off balance there.
+## Pallcreek
+Aona shares that the mining operations must have slowed down, but they have not investigated further.
+- Aona casts a Sense Emotion on **SOR**, because she is a little distrusting at first. 
+- She asks **RAN** to lead the investigation with **BAR** right at his side, They should go see Bjarn to grab what they need. **DRU** should also accompany them, Aona senses something off balance there.
+- The Imperial Carriage is here, about to be repurposed/taken apart. 
+
+What Aona knows about the dig site:
+- Whips and screams were reported.
+- Plenty of deer, hare, and boar are migrating from that direction. Some predators started trailing some weeks later too, they have become aggressive, something is off. 
+- **SOR** knows the dig site is referred to as *Descent One*, other locations planned.
+
+## Trail to Descent One Through Darkpine Woods
+
+The **Darkpine Woods** are fairly dense, mostly untrodden, some trails.
+
+It's **ROUGHLY A WEEK BY FOOT** (5 Days precicely)
+
+Each day the Party can give themselves -3 on the Survival Check for 1/3 more travel Speed (-9 for double the speed)
+
+- Survival Check > 0 / 10 / 15 / 20 / 25
+- get a ......... -2 / -1 / 0 / +1 / +2 on the 1d8 encounter luck roll. 
+
+Each Day, roll 1d8 and add the Survival Bonus from above: 
+Threats in the forest, roll for which spot the party and which the party see.
+0-2 = A High Elf Hunting Party 3x [Archer (3)](dm/monsters.md#archer) (Assured Fight) Stealth +5, They leave trails from where they came, +1d6 on the next days Survival Check. 
+3-4 = A Mountain [Troll (5)](dm/monsters.md#troll) (Very Likely Fight) 
+5-6 = A Pack of [Wolf (1/4)](dm/monsters.md#wolf) [Winter Wolf (3)](dm/monsters.md#winter-wolf) (Potential Fight) Stealth +5, they leave trails from where they came, +1d6 on the next days Survival Check.
+7-9 = Deer or Boars, They leave trails from where they came from which grants you a +1d8 on the next days Survival Check. 
+All with Passive Perception 15
+
+Players roll stealth and perception against the encounter.
+Players Group Perception.
+
+## Trail to Descent One Along The Road
+
+It's still Roughly a week by carriage/horses. It will be suspicious because it's a carriage without envoy.
+
+Elven Supply Carriages along the way, with [Archer (3)](dm/monsters.md#archer), [Illusionist (3)](dm/monsters.md#illusionist).
+
+- Slave Carriage -> Multiple Large Vehicles with mostly human slaves for the mines.
+- Equipment Carriage -> More Heavily Guarded. TODO
+- Villagers Transporting Grain -> They shoo away their livestock and freeze in a deep bow until you pass them.
+
+## Descent One
+
+[Eleadril Windcleave](dm/monsters.md#diviner), four of his [Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) and his bodyguard [Swashbuckler (3)](dm/monsters.md#swashbuckler)
+
+Plenty of Miners that would potentially join the fight on the Party's side: [Bandits (1/8)](dm/monsters.md#bandit).
+
+- TODO THE THING OFF BALANCE AROUND DESCENT 1
+
+Dwarves and Drow Slaves here.
 
 
+# Locations
+## Pallcreek
+Small town in the woods at the foot of the mountains, lots of crafts and mostly hunter and gatherers. It's surrounded by fairly sophisticated 
+- Mountain creek flowing through it, well engineered water wheels mounted on stone walls guarding the sides of the stream. It's powering pottery, carpentry, smithy and an old mill that's currently not in use (because there's not a lot of grain being brought here from the flatland villages currently).
+- Led by Aona, 
+- **Extra Names**: Yarn Charbrow (blacksmith), Pebble Twirlfoot (potter). Hiba Mahong, Ulla Joma (Weaver) Half Drow/Half Orc - Ashen with a green tint. 
+
+## Darkpine Woods
+The forest surrounding **Pallcreek**.  
+
+- Descent One, the dig site.
+  - Operations look halted, something is wrong and the mining operations requested reinforcements.
+
+
+- The forest ???
+
+- the dwarven mining town
+
+
+
+# Monsters
+
+[Wolf (1/4)](dm/monsters.md#wolf)
+[Winter Wolf (3)](dm/monsters.md#winter-wolf)
+[Troll (5)](dm/monsters.md#troll)
+
+[Drow Scout (1/2)](dm/monsters.md#drow-scout)
+[Dragon Hunter (3)](dm/monsters.md#dragon-hunter)
+
+[Archer (3)](dm/monsters.md#archer)
+[Illusionist (3)](dm/monsters.md#illusionist)
+[Enchanter (5)](dm/monsters.md#enchanter)
+
+Wolves, Bears, Boars
+High Elf hunting party, trying to gather food for 
 
 # Backstory 
-
 
 The world we play in is a former human kingdom (MISSING NAME) which in its borderlands struggles against occasional demonic incursions. 
 Through intrigues and finally a coup the reigning family was usurped by high elves, which left all but one of the members of the former monarchy dead.
