@@ -384,7 +384,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Caltrops
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can spread Caltrops from their bag to cover a 1 *(1.5m)* square area within range 1 *(1.5)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 Dexterity saving throw or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
+- **Properties**: As a Utilize Action, you can spread Caltrops from their bag to cover a 1 *(1.5m)* square area within range 1 *(1.5)* of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 15 DEX Save or take 1 Piercing damage and have its Speed reduced to 0 until the start of its next turn. It takes 10 minutes to recover the Caltrops.
 - **Weight**: 1 kg
 - **Price**: 1 gp
 ![\|250](https://i.pinimg.com/736x/d4/b4/a9/d4b4a9035b28e4a06ff97f7cdb2a44a5.jpg)
@@ -474,7 +474,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Chain
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can wrap a Chain around an unwilling creature within range 1 *(1.5m)* of yourself that has the Grappled, Incapacitated, or Restrained condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the Restrained condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 Dexterity (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 Strength (Athletics) check as an action.
+- **Properties**: As a Utilize Action, you can wrap a Chain around an unwilling creature within range 1 *(1.5m)* of yourself that has the [Grappled](dm/items.md#grappled), [Incapacitated](dm/items.md#incapacitated), or [Restrained](dm/items.md#restrained) condition if you succeed on a DC 13 Strength (Athletics) check. If the creature's legs are bound, the creature has the [Restrained](dm/items.md#restrained) condition until it escapes. Escaping the Chain requires the creature to make a successful DC 18 DEX (Acrobatics) check as an action. Bursting the Chain requires a successful DC 20 STR (Athletics) check as an action.
 - **Weight**: 5 kg
 - **Price**: 5 gp
 ![\|250](https://i.pinimg.com/736x/0c/55/82/0c5582df20a1d084a473f575cbac4339.jpg)
@@ -572,7 +572,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 *(artisan's tools, Common)*
 - **Properties**: [Tools](dm/item_info.md#tools).
   - *Ability:* Dexterity
-  - *Utilize:* Modify footwear to give **Advantage** on the wearer's next Dexterity (Acrobatics) check (DC 10)
+  - *Utilize:* Modify footwear to give **Advantage** on the wearer's next DEX (Acrobatics) check (DC 10)
 [Craft](dm/item_info.md#crafting): [Climber's Kit](dm/items.md#climbers-kit).
 - **Weight**: 2.5 kg
 - **Price**: 5 gp
@@ -919,7 +919,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Grappling Hook
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 Dexterity (Acrobatics) check. If you tied a [Rope](dm/items.md#rope) to the hook, you can then climb it.
+- **Properties**: As a Utilize Action, you can throw the Grappling Hook at a railing, a ledge, or another catch within range 10 *(15m)* of yourself, and the hook catches on if you succeed on a DC 13 DEX (Acrobatics) check. If you tied a [Rope](dm/items.md#rope) to the hook, you can then climb it.
 - **Weight**: 2 kg
 - **Price**: 2 gp
 ![\|250](https://i.pinimg.com/736x/6c/5d/4c/6c5d4cedc75d59366c3a117433394883.jpg)
@@ -1039,7 +1039,7 @@ Bolts are usually sold in bundles of 20 for 1 gp and typically stored in a Cross
 
 ### Healer's Kit
 *(adventuring gear, Common)*
-- **Properties**: A Healer's Kit has ten uses. As a Utilize Action, you can expend one of its uses to stabilize an Unconscious creature that has 0 Hit Points without needing to make a Wisdom (Medicine) check.
+- **Properties**: A Healer's Kit has ten uses. As a Utilize Action, you can expend one of its uses to stabilize an Unconscious creature that has 0 HP without needing to make a WIS (Medicine) check.
 - **Weight**: 1.5 kg
 - **Price**: 5 gp
 ![\|250](https://i.pinimg.com/736x/b9/6a/f7/b96af7d2cef1e57c6b10eced750d11c0.jpg)
@@ -1923,7 +1923,7 @@ To escape, the target or a creature within range 1 *(1.5m)* of it must take an A
 
 ### Rope
 *(adventuring gear, Common)*
-- **Properties**: As a Utilize Action, you can tie a knot with Rope if you succeed on a DC 10 Dexterity (Sleight of Hand) check. The Rope can be burst with a successful DC 20 Strength (Athletics) check.
+- **Properties**: As a Utilize Action, you can tie a knot with Rope if you succeed on a DC 10 DEX (Sleight of Hand) check. The Rope can be burst with a successful DC 20 STR (Athletics) check.
 You can bind an unwilling creature with the Rope only if the creature is [Grappled](conditions.md#grappled), [Incapacitated](conditions.md#incapacitated), or [Restrained](conditions.md#restrained). If the creature's legs are bound, the creature is [Restrained](conditions.md#restrained) until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity (Acrobatics) check as an action.
 - **Weight**: 2.5 kg
 - **Price**: 1 gp
