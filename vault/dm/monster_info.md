@@ -309,12 +309,15 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 [Illusionist (3)](dm/monsters.md#illusionist)
 [Swashbuckler (3)](dm/monsters.md#swashbuckler)
 [Enchanter (5)](dm/monsters.md#enchanter)
+[Warlock of the Great Old One (6)](dm/monsters.md#warlock-of-the-great-old-one)
+[Warlock of the Fiend (7)](dm/monsters.md#warlock-of-the-fiend)
 [Diviner (8)](dm/monsters.md#diviner)
 [Devoted of the Grand Indulger (8)](dm/monsters.md#devoted-of-the-grand-indulger)
 [Evoker (9)](dm/monsters.md#evoker)
 
 ### Elf
 [Drow Scout (1/2)](dm/monsters.md#drow-scout)
+[High Elf Slave Driver (1)](dm/monsters.md#high-elf-slave-driver)
 
 ## Monstrosity
 ### Cockatrice

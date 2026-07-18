@@ -1,12 +1,11 @@
+# Players 
 
-
-# Players
-
-sor -> 
-rog -> Ball bearings, Caltrops, Grappling Hook, Manacles, Rope, Chain
-bar -> notices the poorly designed tunnel stabilization and other built mining rigs being obviously made unprofessionally. 
-ran -> finds the way to the mining town, notices drow slaves.
-dru -> Discover demonic corruption leaking out from Descent 1
+Abbreviation/Placeholders:
+SOR
+ROG
+BAR
+RAN
+DRU
 
 # NPCs
 
@@ -15,36 +14,47 @@ dru -> Discover demonic corruption leaking out from Descent 1
 | Aona Brook          | Town Elder      | Human Bard        | Charming, tall with a slight hunch, a couple of beads woven into her salt & pepper hair. *Has Elven blood*. |
 | Bjarn Brook         | Town Carpenter  | Human Fighter     | Aona's Son, he is active in the resistance, he equips the heroes with gear, grey balding hair. *Has Elven blood*. |
 | Tarralf Ironforge   | Lead Engineer   | Dwarf             | Leading the mining operations, he is a cartographer by primary profession, but does okay at mining. |
-| Eleadril Windcleave | Mining Overseer | High Elf Wizard   | Tall figure, Pale face and blonde hair, teal leather armor. |
-
+| Eleadril Windcleave | Mining Overseer | High Elf Warlock  | Tall figure, Pale face and blonde hair, teal leather armor. Has an Eldritch being as his patron. |
 
 # Secrets
-- Tarralf's family is being held hostage in the castle to force him to lead the mining operations. He was one of the cartographers who burnt the existing documents. He does not personally know where the dwarven mining town is.
-- Eleadril is a substance abuser, aggravated at times.
 - Bjarn was the carpenter who made **ROG**'s and her sisters children's room furniture.
+- Eleadril is pursuing his own interests in the mining project in parallel to the royal court's mithril. His patron wants him to reach a specific Beholder in the underdark to bring the gem to. 
+- Eleadril, with the gem, has put a charm on the slave drivers to not make them pay attention to his Eldritch doings and not question the third dig. Some *might* be convinced to help fight him if the charm drops. They are still respecting the chain of command.
+- Tarralf's family is being held hostage in the castle to force him to lead the mining operations. He was one of the cartographers who burnt the existing documents. He does not personally know where the dwarven mining town is.
+- Tarralf pretended to know more about mining than he did in hopes of freeing his family by being useful to The Court, he knows about Eleadril sidestepping The Court but wouldn't rat him out in fear of getting punished.
 
 # Scenes
 
 ## Pallcreek
+Small town in the woods at the foot of the mountains, lots of crafts and mostly hunter and gatherers. It's surrounded by fairly sophisticated 
+- Mountain creek flowing through it, well engineered water wheels mounted on stone walls guarding the sides of the stream. It's powering pottery, carpentry, smithy and an old mill that's currently not in use (because there's not a lot of grain being brought here from the flatland villages currently).
+- Aona as their eldest.
+- **Extra Names**: Yarn Charbrow (blacksmith), Pebble Twirlfoot (potter). Hiba Mahong, Ulla Joma (Weaver) Half Drow/Half Orc - Ashen with a green tint. 
+
 Aona shares that the mining operations must have slowed down, but they have not investigated further.
-- Aona casts a Sense Emotion on **SOR**, because she is a little distrusting at first. 
-- She asks **RAN** to lead the investigation with **BAR** right at his side, They should go see Bjarn to grab what they need. **DRU** should also accompany them, Aona senses something off balance there.
+- Aona casts a Sense Emotion on **SOR**, to feel her out a bit.
+- She asks **RAN** to lead the investigation with **BAR** right at his side, They should go see **Bjarn**, her son, to grab what they need. **DRU** should also accompany them, Aona senses something off balance there.
 - The Imperial Carriage is here, about to be repurposed/taken apart. 
 
 What Aona knows about the dig site:
-- Whips and screams were reported.
-- Plenty of deer, hare, and boar are migrating from that direction. Some predators started trailing some weeks later too, they have become aggressive, something is off. 
+- Plenty of deer, hare, and boar are migrating from that direction. Some predators started trailing some weeks later too, they have become aggressive, something is off.
 - **SOR** knows the dig site is referred to as *Descent One*, other locations planned.
+- She read (with comprehend languages) the request papers **SOR** shared with her:
+  - The man in charge there is **Eleadril**, he is overseeing TWO parallel digs, one intended to find any now unreachable dwarven settlements for riches and to reconnect them to the kingdom, the other one intended to find mithril to mine for the "cause". I can't tell you yet where the enchantress is, but it would be a great boon to us if you were to find out in what direction they are digging.
+  - **Eleadril** requested continuation of *deliveries* of *helping hands*, The Court seemed a little impatient in their tone with that, there was no noteworthy deliveries apart from a letter he sent them mentioning beginning excavations of some supposed dwarven ruins. Are they expecting you to personally investigate and evaluate the ruins they found? That could be quite dangerous.
+  - There is a dwarf there leading the mining engineering, you are *supposed* to take a look at him specifically and report whether he is performing well. Maybe help him out of there, if it's possible to free anyone from there at all...
+
+Bjarn's Items:
+[Ball Bearings](dm/items.md#ball-bearings), [Caltrops](dm/items.md#caltrops), [Climber's Kit](dm/items.md#climbers-kit), [Grappling Hook](dm/items.md#grappling-hook), [Rope](dm/items.md#rope) and a set of [Manacles](dm/items.md#manacles) someone took off some patrol at some point.
+
 
 ## Trail to Descent One Through Darkpine Woods
-
 The **Darkpine Woods** are fairly dense, mostly untrodden, some trails.
-
-It's **ROUGHLY A WEEK BY FOOT** (5 Days precicely)
+It's **rougly a week by foot, but the people who went there took detours** (4 Days precicely, the Party doesn't know that)
 
 Each day the Party can give themselves -3 on the Survival Check for 1/3 more travel Speed (-9 for double the speed)
 
-- Survival Check > 0 / 10 / 15 / 20 / 25
+- Survival Check > 0 / 5 / 10 / 15 / 20 - Gets more difficult each day by 3
 - get a ......... -2 / -1 / 0 / +1 / +2 on the 1d8 encounter luck roll. 
 
 Each Day, roll 1d8 and add the Survival Bonus from above: 
@@ -56,64 +66,67 @@ Threats in the forest, roll for which spot the party and which the party see.
 All with Passive Perception 15
 
 Players roll stealth and perception against the encounter.
-Players Group Perception.
+Players Group Perception against the encounter stealth.
+
+TODO eldritch corruption from The Gem affecting the wildlife for **DRU** to notice. what could that be? just enraged or crazed animals?
+
+Wildlife effects of The Gem that **DRU** can spot:
+- Butterflies gather around exposed rock instead of flowers.
+- Spiders spin webs in a cross stitch instead of a proper web.
+- Deer stands completely still while staring into empty space.
+- Birds fly straight into cliff faces or trees or sing throughout the night without stopping.
+- Wolves don't eat the prey they hunt or howl at night without stopping.
+- A doe tries to nurse a dead fawn for hours, completely ignoring predators.
+- No scavengers come to carcasses.
+- A beast drinks from a dirty small puddle despite a flowing stream nearby.
+- Animals no longer flee from fire.
+- Prey animals wander into predator dens and simply stand there.
+
+Troll Cave with potential:
+- Bloody handprints all over the walls from where the troll absentmindedly tore off damaged flesh.
+- Bones sorted by size into neat piles.
+- [Cloak of Protection](dm/items.md#cloak-of-protection) rolled back on a human who was eaten off his bones like a peeled corncob.
+- Yellow glowing mushrooms growing on fresh troll dung, with the effect of a [Potion of Healing](dm/items.md#potion-of-healing) when consumed.
+
+## Descent One
+The mining operations the high elves started. 
+Somewhat spread out collections of fenced in tents with a single gap in the fence, which is the entrance to the compound from where the road leads away.
+There is a tent for stables with six horses and a carriage parked close to the entrance, where Eleadril's stablemaster hangs out.
+
+- Next to the makeshift stables is **Eleadril's** tent, containing lots of books and one Oval cut palm-sized black gemstone on a little pedestol on his desk (The Gem).
+  - On his desk there are parts of mining plans for 3 different digs, annotated in elvish. (*The high elf court only intended the upper two*).
+
+- **Tarralf's** tent looks very simple, a mattress separated by the ground only by a couple of wood planks. A simple writing desk with lots of loose papers and mining plans for 3 different digs, some pages have copies (Which he forwards to **Eleadril**). **BAR** would know that **Tarralf**'s family crest on one of the blankets is that of a scholarly family, not engineers.
+
+- 5 Guard tents are stationed around the perimeter, it's where [High Elf Slave Driver (1)](dm/monsters.md#high-elf-slave-driver) sleep. Most of them have direct line of sight on either the entrance to the compound, the mines, or the tents of the slaves.
+
+- The slave tents are the least well kept, they're closest to the mines. After the tent farthest away from the mines there is a larger tent that stores rations and is used for food and drink.
+  - One path from the slave tents leads towards the fences where a pit is dug out as a makeshift outhouse, away from the guards because they don't like the smell.
+
+There are Human, Dwarves, Halflings, Drow Slaves here.
+There are two etrances to the mines, inside they flow together and then split into three separate underground digs, each at a slightly different angle. (0, 45, straight down in a spiral) One intended to find more underground settlements, one intended to find mithril and the last one intended for **Eleadril's** own desired goal of reaching the Underdark.
+
+The reinforcements for the walls holding off landslides around the tents are sloppy but look dwarven made in technique still, it might be possible to destabilize them. **BAR** can notice. The same goes for the carrying beams in the mines (because **Tarralf** isn't a professional).
+
+[Eleadril Windcleave (6)](dm/monsters.md#warlock-of-the-great-old-one), two of his [Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) and his stablemaster/driver [Swashbuckler (3)](dm/monsters.md#swashbuckler)
+
+Plenty of Miners that would potentially join the fight on the Party's side if they snap out of their charm: [Bandits (1/8)](dm/monsters.md#bandit).
+
+**The Gem**: As Warlock with an Old Gods Patron, it lets you bind Concentration of *Enchantment* cantrips on targets up to *1km* around The Gem and increase the original spell duration to *Indefinite* while the targets are in that range. 
+In a *10km* radius, any creature with an INT score of 7 or less hears sounds and whispers that can severely disorient it. It loses it's Action at the beginning of each round unless it succeeds a DC 13 WIS Save. On success it becomes immune to this effect until the next day.  
+Some Slave Drivers that started asking questions were charmed with [Friends](dm/spells.md#friends) to trust him.
+
 
 ## Trail to Descent One Along The Road
+OPTIONAL, IF THE PARTY FOLLOWS THE ROADS INSTEAD DIRECTLY THROUGH THE WOODS. (Follow encounter rules above, no stealth, just luck rolls)
 
 It's still Roughly a week by carriage/horses. It will be suspicious because it's a carriage without envoy.
 
 Elven Supply Carriages along the way, with [Archer (3)](dm/monsters.md#archer), [Illusionist (3)](dm/monsters.md#illusionist).
 
 - Slave Carriage -> Multiple Large Vehicles with mostly human slaves for the mines.
-- Equipment Carriage -> More Heavily Guarded. TODO
+- Equipment Carriage -> More Heavily Guarded, but +1 weapons as loot.
 - Villagers Transporting Grain -> They shoo away their livestock and freeze in a deep bow until you pass them.
-
-## Descent One
-
-[Eleadril Windcleave](dm/monsters.md#diviner), four of his [Apprentice Wizards (1/4)](dm/monsters.md#apprentice-wizard) and his bodyguard [Swashbuckler (3)](dm/monsters.md#swashbuckler)
-
-Plenty of Miners that would potentially join the fight on the Party's side: [Bandits (1/8)](dm/monsters.md#bandit).
-
-- TODO THE THING OFF BALANCE AROUND DESCENT 1
-
-Dwarves and Drow Slaves here.
-
-
-# Locations
-## Pallcreek
-Small town in the woods at the foot of the mountains, lots of crafts and mostly hunter and gatherers. It's surrounded by fairly sophisticated 
-- Mountain creek flowing through it, well engineered water wheels mounted on stone walls guarding the sides of the stream. It's powering pottery, carpentry, smithy and an old mill that's currently not in use (because there's not a lot of grain being brought here from the flatland villages currently).
-- Led by Aona, 
-- **Extra Names**: Yarn Charbrow (blacksmith), Pebble Twirlfoot (potter). Hiba Mahong, Ulla Joma (Weaver) Half Drow/Half Orc - Ashen with a green tint. 
-
-## Darkpine Woods
-The forest surrounding **Pallcreek**.  
-
-- Descent One, the dig site.
-  - Operations look halted, something is wrong and the mining operations requested reinforcements.
-
-
-- The forest ???
-
-- the dwarven mining town
-
-
-
-# Monsters
-
-[Wolf (1/4)](dm/monsters.md#wolf)
-[Winter Wolf (3)](dm/monsters.md#winter-wolf)
-[Troll (5)](dm/monsters.md#troll)
-
-[Drow Scout (1/2)](dm/monsters.md#drow-scout)
-[Dragon Hunter (3)](dm/monsters.md#dragon-hunter)
-
-[Archer (3)](dm/monsters.md#archer)
-[Illusionist (3)](dm/monsters.md#illusionist)
-[Enchanter (5)](dm/monsters.md#enchanter)
-
-Wolves, Bears, Boars
-High Elf hunting party, trying to gather food for 
 
 # Backstory 
 

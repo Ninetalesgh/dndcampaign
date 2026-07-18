@@ -14,7 +14,7 @@ function convertStringToCustomFormat(string)
   strippedString = strippedString.replace(/\sconstitution/gmi, ' CON');
   strippedString = strippedString.replace(/\sintelligence/gmi, ' INT');
   strippedString = strippedString.replace(/\swisdom/gmi, ' WIS');
-  strippedString = strippedString.replace(/\scharism/gmi, ' CHA');
+  strippedString = strippedString.replace(/\scharisma/gmi, ' CHA');
   strippedString = strippedString.replace(/([0-9]+)\/([0-9]+0)\sft./gm, (m, g1, g2) => (convertFeetRangeInts(g1, g2)));
   strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)(cube|square)/gmi, (m, g1, g2) => `a size ${convertFeetInt(g1)} ${g2.toLowerCase()}`);
   strippedString = strippedString.replace(/(?:a|an)?\s([0-9]+)-foot(?:\s|-)?(?:radius)?(?:\s|-)(sphere|circle|emanation|radius|diameter)/gmi, (m, g1, g2) => {

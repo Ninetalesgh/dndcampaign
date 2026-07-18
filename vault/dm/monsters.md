@@ -1095,7 +1095,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Traits**: [Sunlight Sensitivity](dm/monster_info.md#monster-traits#sunlight-sensitivity).
    - **Keen Hearing and Sight**. The scout has advantage on WIS (Perception) checks that rely on hearing or sight.
    - **Fey Ancestry**. The drow scout has advantage on Saves against being [Charmed](conditions.md#charmed), and magic can't put the drow scout to sleep.
-   - **Innate Spellcasting**. The drow scout's innate spellcasting ability is CHAa (spell save DC 10). The drow scout can innately cast the following spells, requiring no material components:
+   - **Innate Spellcasting**. The drow scout's innate spellcasting ability is CHA (spell save DC 10). The drow scout can innately cast the following spells, requiring no material components:
      - *At will:* [dancing lights](spells.md#dancing-lights)
      - *1/day each:* [darkness](spells.md#darkness), [faerie fire](spells.md#faerie-fire), [levitate](spells.md#levitate) (self only)
 - **Actions**: 
@@ -1529,6 +1529,38 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters H
+### High Elf Slave Driver
+**CR**: 1
+*Medium humanoid (elf), Lawful Evil*
+
+- **Initiative**: +3
+- **AC**: 15 (studded leather)
+- **HP**: 33 (6d8 + 6)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--:
+10 (+0) | 16 (+3) | 12 (+1) | 13 (+1) | 12 (+1) | 15 (+2)
+
+- **Saving Throws**: DEX +5, WIS +3
+- **Skills**: Intimidation +4, Insight +3, Perception +3
+- **Senses**: Darkvision (18m), passive perception 13
+- **Languages**: Common, Elvish
+- **Traits**:
+   - **Fey Ancestry**. The slave driver has advantage on saving throws against being charmed, and magic can't put it to sleep.
+   - **Cruel Overseer**. Allied creatures within 6 *(9m)* of the slave driver have advantage on saving throws against being frightened while they can see or hear it.
+- **Actions**:
+   - **Multiattack**. The slave driver makes two attacks: either two Barbed Whip attacks, or one Barbed Whip attack and one Shortsword attack.
+   - **Barbed Whip**. Melee Weapon Attack: +5 to hit, reach 2 *(3m)*, one target.
+    *Hit*: 5 (1d4 + 3) slashing damage. If the target is Large or smaller, it must succeed on a DC 13 STR Save or be pulled 1 *(1.5m)* toward the slave driver.
+   - **Shortsword**. Melee Weapon Attack: +5 to hit, reach 1 *(1.5m)*, one target.
+    *Hit*: 6 (1d6 + 3) piercing damage.
+- **Bonus Actions**:
+   - **Cruel Command (Recharge 5–6)**. One allied creature within 6 *(9m)* that can hear the slave driver may immediately use its reaction to move up to half its speed or make one weapon attack.
+- **Reactions**:
+   - **Punishing Lash**. When a creature within 2 *(3m)* willingly moves away from the slave driver, it makes one Barbed Whip attack against that creature.
+*(Source: Custom Creature)*
+
 ### Hobgoblin Phalangite
 **CR**: 1
 *Medium fey (goblinoid), Lawful Evil*
@@ -1636,7 +1668,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Traits**:
    - **Devil's Sight**. Magical [Darkness](game_rules.md#advanced-rules#darkness) doesn't impede the imp's [Darkvision](./../game_rules.md#advanced-rules#darkvision).
    - **Magic Resistance**. The imp has Advantage on Saves against spells and other magical effects.
-   - **Invisibility**. The imp casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+   - **Invisibility**. The imp casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHA as the spellcasting ability.
      - *At will:* [Invisibility](spells.md#invisibility)
 - **Actions**:
    - **Sting**. *Melee Attack:* +5, reach 1 *(1.5m)*
@@ -1779,7 +1811,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Senses**: [Darkvision *(18m)*](./../game_rules.md#advanced-rules#darkvision), passive perception 9
 - **Languages**: Common, Draconic
 - **Traits**: [Pack Tactics](dm/monster_info.md#pack-tactics), [Sunlight Sensitivity](dm/monster_info.md#sunlight-sensitivity).
-   - **Spellcasting**. The kobold casts one of the following spells, requiring no material components and using CHAa as the spellcasting ability (spell save DC 12):
+   - **Spellcasting**. The kobold casts one of the following spells, requiring no material components and using CHA as the spellcasting ability (spell save DC 12):
      - *At will:* [mage hand](spells.md#mage-hand), [prestidigitation](spells.md#prestidigitation)
      - *2/day each:* [charm person](spells.md#charm-person), [fog cloud](spells.md#fog-cloud), [levitate](spells.md#levitate)
 - **Actions**:
@@ -2231,7 +2263,7 @@ STR | DEX | CON | INT | WIS | CHA
    - **Multiattack**. The nothic makes two blighted claw attacks uses its tempt with knowledge, if available.
    - **Blighted Claw**. *Melee Attack:* +7 to hit, reach 1 *(1.5m)*, one target.
     *Hit:* 7 (2d6 + 4) slashing damage plus 6 (1d10) necrotic damage.
-   - **Eye of Rot (4th Level Spell, Concentration)**. One creature the nothic can see within 24 *(36m)* must make a DC 15 CHAa Save. On a failure, a creature is [Poisoned](conditions.md#poisoned) for the next minute, and while [Poisoned](conditions.md#poisoned) in this way takes 22 (4d10) necrotic damage at the beginning of each of its turns.
+   - **Eye of Rot (4th Level Spell, Concentration)**. One creature the nothic can see within 24 *(36m)* must make a DC 15 CHA Save. On a failure, a creature is [Poisoned](conditions.md#poisoned) for the next minute, and while [Poisoned](conditions.md#poisoned) in this way takes 22 (4d10) necrotic damage at the beginning of each of its turns.
    A [Poisoned](conditions.md#poisoned) creature repeats this Save at the end of each of its turns, with disadvantage if the nothic can see it, ending the effect on a success.
    - **Tempt With Knowledge (Recharge 5-6)**. The nothic targets one creature it can see within 6 *(9m)* that has been affected by its mesmeric gaze. The target must succeed on a DC 15 INT Save or take 28 (8d6) psychic damage.
    A creature that fails this save voluntarily is additionally [Stunned](conditions.md#stunned) for the next minute, and learns a 1st or 2nd level wizard spell of the nothic's choice, which it may cast once per long rest without expending a spell slot. A [Stunned](conditions.md#stunned) creature repeats this save at the end of each of its turns, ending the stun effect on a success.
@@ -2444,7 +2476,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Languages**: Abyssal, Common
 - **Traits**:
    - **Magic Resistance**. The quasit has Advantage on Saves against spells and other magical effects.
-   - **Invisibility**. The quasit casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+   - **Invisibility**. The quasit casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHA as the spellcasting ability.
      - *At will:* [Invisibility](spells.md#invisibility)
 - **Actions**:
    - **Rend**. *Melee Attack:* +5, reach 1 *(1.5m)*
@@ -3208,7 +3240,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Skills**: perception: +3, stealth: +8
 - **Senses**: passive perception 13
 - **Languages**: Common, Elvish, Sylvan
-   - **Invisibility**. The sprite casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHAa as the spellcasting ability.
+   - **Invisibility**. The sprite casts [Invisibility](spells.md#invisibility) on itself, requiring no spell components and using CHA as the spellcasting ability.
      - *At will:* [Invisibility](spells.md#invisibility)
 - **Actions**:
    - **Needle Sword**. *Melee Attack:* +6, reach 1 *(1.5m)*
@@ -3319,7 +3351,7 @@ STR | DEX | CON | INT | WIS | CHA
 - **Languages**: any one language (usually Common)
 - **Traits**: 
    - **Lightfooted**. The swashbuckler can take the [Dash](vault/game_rules.md#dash) or [Disengage](vault/game_rules.md#disengage) action as a bonus action on each of its turns.
-   - **Suave Defense**. While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its CHAa modifier.
+   - **Suave Defense**. While the swashbuckler is wearing light or no armor and wielding no shield, its AC includes its CHA modifier.
 - **Actions**: 
    - **Multiattack**. The swashbuckler makes three attacks: one with a dagger and two with its rapier.
    - **Dagger**. *Melee or Ranged Attack:* +6 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
@@ -3443,6 +3475,65 @@ STR | DEX | CON | INT | WIS | CHA
 *(Source: ConfluxCreatures)*
 
 ## Monsters W
+### Warlock of the Fiend
+**CR**: 7
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 78 (12d8 + 24)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+10 (+0) | 14 (+2) | 15 (+2) | 12 (+1) | 12 (+1) | 18 (+4) 
+
+- **Skills**: arcana: +4, deception: +7, persuasion: +7, religion: +4
+- **Resistances**: slashing from nonmagical attacks not made with silvered weapons
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: any two languages (usually Abyssal or Infernal)
+- **Traits**: 
+   - **Dark One's Own Luck (Recharges after a Short or Long Rest)**. When the warlock makes an ability check or Save, it can add a d10 to the roll. It can do this after the roll is made but before any of the roll's effects occur.
+   - **Innate Spellcasting**. The warlock's innate spellcasting ability is CHA. It can innately cast the following spells (spell save DC 15), requiring no material components:
+     - *At will:* [alter self](spells.md#alter-self), [false life](spells.md#false-life), [levitate](spells.md#levitate) (self only), [mage armor](spells.md#mage-armor) (self only), [silent image](spells.md#silent-image)
+     - *1/day each:* [feeblemind](spells.md#feeblemind), [finger of death](spells.md#finger-of-death), [plane shift](spells.md#plane-shift)
+   - **Spellcasting**. The warlock is a 17th-level spellcaster. Its spellcasting ability is CHA (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+     - *Cantrips*: [eldritch blast](spells.md#eldritch-blast), [fire bolt](spells.md#fire-bolt), [friends](spells.md#friends), [mage hand](spells.md#mage-hand), [minor illusion](spells.md#minor-illusion), [prestidigitation](spells.md#prestidigitation), [shocking grasp](spells.md#shocking-grasp)
+     - *Level 5 (4 slots)*: [banishment](spells.md#banishment), [burning hands](spells.md#burning-hands), [flame strike](spells.md#flame-strike), [hellish rebuke](spells.md#hellish-rebuke), [magic circle](spells.md#magic-circle), [scorching ray](spells.md#scorching-ray), [scrying](spells.md#scrying), [stinking cloud](spells.md#stinking-cloud), [suggestion](spells.md#suggestion), [wall of fire](spells.md#wall-of-fire)
+- **Actions**: 
+   - **Mace**. *Melee Attack:* +3 to hit, reach 1 *(1.5m)*, one target. 
+    *Hit:* 3 (1d6) bludgeoning damage plus 10 (3d6) fire damage.
+*(Source: VGM, page 219)*
+
+
+### Warlock of the Great Old One
+**CR**: 6
+*Medium humanoid (any race), Any Alignment*
+- **Initiative**: +2
+- **AC**: 12, 15
+- **HP**: 91 (14d8 + 28)
+- **Speed**: walk 6 *(9m)*
+
+STR | DEX | CON | INT | WIS | CHA
+ :--: | :--: | :--: | :--: | :--: | :--: 
+9 (-1) | 14 (+2) | 15 (+2) | 12 (+1) | 12 (+1) | 18 (+4) 
+
+- **Skills**: arcana: +4, history: +4
+- **Resistances**: psychic;
+- **Senses**: [Darkvision *(18m)*](game_rules.md#advanced-rules#darkvision), passive perception 11
+- **Languages**: any two languages, telepathy 6 *(9m)*
+- **Traits**: 
+   - **Whispering Aura**. At the start of each of the warlock's turns, each creature of its choice within 1 *(1.5m)* of it must succeed on a DC 15 WIS Save or take 10 (3d6) psychic damage, provided that the warlock isn't [Incapacitated](conditions.md#incapacitated).
+   - **Innate Spellcasting**. The warlock's innate spellcasting ability is CHA. It can innately cast the following spells (spell save DC 15), requiring no material components:
+     - *At will:* [detect magic](spells.md#detect-magic), [jump](spells.md#jump), [levitate](spells.md#levitate), [mage armor](spells.md#mage-armor) (self only), [speak with dead](spells.md#speak-with-dead)
+     - *1/day each:* [arcane gate](spells.md#arcane-gate), [true seeing](spells.md#true-seeing)
+   - **Spellcasting**. The warlock is a 14th-level spellcaster. Its spellcasting ability is CHA (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+     - *Cantrips*: [chill touch](spells.md#chill-touch), [eldritch blast](spells.md#eldritch-blast), [guidance](spells.md#guidance), [mage hand](spells.md#mage-hand), [minor illusion](spells.md#minor-illusion), [prestidigitation](spells.md#prestidigitation), [shocking grasp](spells.md#shocking-grasp)
+     - *Level 5 (3 slots)*: [armor of Agathys](spells.md#armor-of-agathys), [arms of Hadar](spells.md#arms-of-hadar), [crown of madness](spells.md#crown-of-madness), [clairvoyance](spells.md#clairvoyance), [contact other plane](spells.md#contact-other-plane), [detect thoughts](spells.md#detect-thoughts), [dimension door](spells.md#dimension-door), [dissonant whispers](spells.md#dissonant-whispers), [dominate beast](spells.md#dominate-beast), [telekinesis](spells.md#telekinesis), [vampiric touch](spells.md#vampiric-touch)
+- **Actions**: 
+   - **Dagger**. *Melee or Ranged Attack:* +5 to hit, reach 1 *(1.5m)* or range 4/12 *(6m/18m)*, one target. 
+    *Hit:* 4 (1d4 + 2) piercing damage.
+*(Source: VGM, page 220)*
+ 
 ### Water Elemental
 **CR**: 5
 *Large elemental (water), Neutral*
@@ -3638,7 +3729,7 @@ STR | DEX | CON | INT | WIS | CHA
    - **Razor Lash**. *Melee Attack:* +4 to hit, reach 1 *(1.5m)*, one target.
     *Hit:* 4 (1d4 + 2) slashing damage and the target begins to bleed.
    A bleeding creature loses 2 (1d4) HP at the start of each of its turns until a creature takes an action to stanch the wound, or until it regains any HP.
-   - **Lash's Cure (2nd Level Spell)**. The zealot ends one condition or magical effect on a creature bleeding from its Barbed Lash. An unwilling creature may make a DC 13 CHAa Save, resisting the effect on a success.
+   - **Lash's Cure (2nd Level Spell)**. The zealot ends one condition or magical effect on a creature bleeding from its Barbed Lash. An unwilling creature may make a DC 13 CHA Save, resisting the effect on a success.
 - **Reactions**:
    - **Blind Conviction**. As a reaction when the zealot is forced to make a DEX or WIS Save, it drops to its knees, falling [Prone](conditions.md#prone).
    If it does, the zealot adds 2 (1d4) to its Save, and takes no damage on a successful save.
