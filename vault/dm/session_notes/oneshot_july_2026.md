@@ -1,11 +1,11 @@
 # Players 
 
 Abbreviation/Placeholders:
-SOR
-ROG
-BAR
-RAN
-DRU
+SOR -> Hestia Flame
+ROG -> Asteria
+BAR -> Grunt Skullcrusher
+RAN -> Rez'Ajik Do'Urden
+DRU -> Morrigan Silverquill
 
 # NPCs
 
