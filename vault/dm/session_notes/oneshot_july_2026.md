@@ -14,12 +14,12 @@ DRU
 | Aona Brook          | Town Elder      | Human Bard        | Charming, tall with a slight hunch, a couple of beads woven into her salt & pepper hair. *Has Elven blood*. |
 | Bjarn Brook         | Town Carpenter  | Human Fighter     | Aona's Son, he is active in the resistance, he equips the heroes with gear, grey balding hair. *Has Elven blood*. |
 | Tarralf Ironforge   | Lead Engineer   | Dwarf             | Leading the mining operations, he is a cartographer by primary profession, but does okay at mining. |
-| Eleadril Windcleave | Mining Overseer | High Elf Warlock  | Tall figure, Pale face and blonde hair, teal leather armor. Has an Eldritch being as his patron. |
+| Eleadril Windcleave | Mining Overseer | High Elf Warlock  | Tall figure, Pale face and blonde hair, teal leather armor. Has an Eldritch being (**Vruul**) as his patron. |
 
 # Secrets
 - Bjarn was the carpenter who made **ROG**'s and her sisters children's room furniture.
 - Eleadril is pursuing his own interests in the mining project in parallel to the royal court's mithril. His patron wants him to reach a specific Beholder in the underdark to bring the gem to. 
-- Eleadril, with the gem, has put a charm on the slave drivers to not make them pay attention to his Eldritch doings and not question the third dig. Some *might* be convinced to help fight him if the charm drops. They are still respecting the chain of command.
+- Eleadril, with the gem, has put a charm on some of the slave drivers to not make them pay attention to his Eldritch doings and not question the third dig. Some of those *might* be convinced to help fight him if the charm drops. They are still respecting the chain of command.
 - Tarralf's family is being held hostage in the castle to force him to lead the mining operations. He was one of the cartographers who burnt the existing documents. He does not personally know where the dwarven mining town is.
 - Tarralf pretended to know more about mining than he did in hopes of freeing his family by being useful to The Court, he knows about Eleadril sidestepping The Court but wouldn't rat him out in fear of getting punished.
 
@@ -115,6 +115,9 @@ Plenty of Miners that would potentially join the fight on the Party's side if th
 **The Gem**: As Warlock with an Old Gods Patron, it lets you bind Concentration of *Enchantment* cantrips on targets up to *1km* around The Gem and increase the original spell duration to *Indefinite* while the targets are in that range. 
 In a *10km* radius, any creature with an INT score of 7 or less hears sounds and whispers that can severely disorient it. It loses it's Action at the beginning of each round unless it succeeds a DC 13 WIS Save. On success it becomes immune to this effect until the next day.  
 Some Slave Drivers that started asking questions were charmed with [Friends](dm/spells.md#friends) to trust him.
+
+
+TODO some way The Gem is used to speed up mining.
 
 
 ## Trail to Descent One Along The Road
