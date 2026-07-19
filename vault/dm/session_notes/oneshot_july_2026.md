@@ -16,10 +16,12 @@ DRU
 | Tarralf Ironforge   | Lead Engineer   | Dwarf             | Leading the mining operations, he is a cartographer by primary profession, but does okay at mining. |
 | Eleadril Windcleave | Mining Overseer | High Elf Warlock  | Tall figure, Pale face and blonde hair, teal leather armor. Has an Eldritch being (**Vruul**) as his patron. |
 
+The Court: **The Queen Loressia, And King Silandril Silverquill** 
+
 # Secrets
 - Bjarn was the carpenter who made **ROG**'s and her sisters children's room furniture.
-- Eleadril is pursuing his own interests in the mining project in parallel to the royal court's mithril. His patron wants him to reach a specific Beholder in the underdark to bring the gem to. 
-- Eleadril, with the gem, has put a charm on some of the slave drivers to not make them pay attention to his Eldritch doings and not question the third dig. Some of those *might* be convinced to help fight him if the charm drops. They are still respecting the chain of command.
+- Eleadril is pursuing his own interests in the mining project in parallel to the royal court's mithril. His patron wants him to reach a specific Beholder in the underdark to bring **The Gem** to. 
+- Eleadril, with **The Gem**, has put a charm on some of the slave drivers to not make them pay attention to his Eldritch doings and not question the third dig. Some of those *might* be convinced to help fight him if the charm drops. They are still respecting the chain of command.
 - Tarralf's family is being held hostage in the castle to force him to lead the mining operations. He was one of the cartographers who burnt the existing documents. He does not personally know where the dwarven mining town is.
 - Tarralf pretended to know more about mining than he did in hopes of freeing his family by being useful to The Court, he knows about Eleadril sidestepping The Court but wouldn't rat him out in fear of getting punished.
 
@@ -44,7 +46,7 @@ What Aona knows about the dig site:
   - **Eleadril** requested continuation of *deliveries* of *helping hands*, The Court seemed a little impatient in their tone with that, there was no noteworthy deliveries apart from a letter he sent them mentioning beginning excavations of some supposed dwarven ruins. Are they expecting you to personally investigate and evaluate the ruins they found? That could be quite dangerous.
   - There is a dwarf there leading the mining engineering, you are *supposed* to take a look at him specifically and report whether he is performing well. Maybe help him out of there, if it's possible to free anyone from there at all...
 
-Bjarn's Items:
+**Bjarn's** Items:
 [Ball Bearings](dm/items.md#ball-bearings), [Caltrops](dm/items.md#caltrops), [Climber's Kit](dm/items.md#climbers-kit), [Grappling Hook](dm/items.md#grappling-hook), [Rope](dm/items.md#rope) and a set of [Manacles](dm/items.md#manacles) someone took off some patrol at some point.
 
 
@@ -68,9 +70,7 @@ All with Passive Perception 15
 Players roll stealth and perception against the encounter.
 Players Group Perception against the encounter stealth.
 
-TODO eldritch corruption from The Gem affecting the wildlife for **DRU** to notice. what could that be? just enraged or crazed animals?
-
-Wildlife effects of The Gem that **DRU** can spot:
+Wildlife effects of **The Gem** that **DRU** can spot:
 - Butterflies gather around exposed rock instead of flowers.
 - Spiders spin webs in a cross stitch instead of a proper web.
 - Deer stands completely still while staring into empty space.
@@ -93,7 +93,7 @@ The mining operations the high elves started.
 Somewhat spread out collections of fenced in tents with a single gap in the fence, which is the entrance to the compound from where the road leads away.
 There is a tent for stables with six horses and a carriage parked close to the entrance, where Eleadril's stablemaster hangs out.
 
-- Next to the makeshift stables is **Eleadril's** tent, containing lots of books and one Oval cut palm-sized black gemstone on a little pedestol on his desk (The Gem).
+- Next to the makeshift stables is **Eleadril's** tent, containing lots of books and one Oval cut palm-sized black gemstone on a little pedestol on his desk (**The Gem**).
   - On his desk there are parts of mining plans for 3 different digs, annotated in elvish. (*The high elf court only intended the upper two*).
 
 - **Tarralf's** tent looks very simple, a mattress separated by the ground only by a couple of wood planks. A simple writing desk with lots of loose papers and mining plans for 3 different digs, some pages have copies (Which he forwards to **Eleadril**). **BAR** would know that **Tarralf**'s family crest on one of the blankets is that of a scholarly family, not engineers.
@@ -112,13 +112,16 @@ The reinforcements for the walls holding off landslides around the tents are slo
 
 Plenty of Miners that would potentially join the fight on the Party's side if they snap out of their charm: [Bandits (1/8)](dm/monsters.md#bandit).
 
-**The Gem**: As Warlock with an Old Gods Patron, it lets you bind Concentration of *Enchantment* cantrips on targets up to *1km* around The Gem and increase the original spell duration to *Indefinite* while the targets are in that range. 
+**The Gem**: As Warlock with an Old Gods Patron, it lets you bind Concentration of *Enchantment* Spells of Level 2 or less on targets up to *1km* around **The Gem** and increase the original spell duration to *Indefinite* while the targets are in that range. 
 In a *10km* radius, any creature with an INT score of 7 or less hears sounds and whispers that can severely disorient it. It loses it's Action at the beginning of each round unless it succeeds a DC 13 WIS Save. On success it becomes immune to this effect until the next day.  
 Some Slave Drivers that started asking questions were charmed with [Friends](dm/spells.md#friends) to trust him.
 
+The slaves are in a trance like state at work, following a [Suggestion](dm/spells.md#suggestion) by **Eleadril** bound in **The Gem**.
 
-TODO some way The Gem is used to speed up mining.
-
+**Extra Names**: 
+- DROW Vorndyn Barrineld, Vuzerin Freiryn, Micarzen Ichambra
+- DWARF Farnur Lofdagin, Urmnur Tafdorart, Kardrum Fazzarag
+- HALFLING Idowan Goodhare, Quovias Highbridge
 
 ## Trail to Descent One Along The Road
 OPTIONAL, IF THE PARTY FOLLOWS THE ROADS INSTEAD DIRECTLY THROUGH THE WOODS. (Follow encounter rules above, no stealth, just luck rolls)
